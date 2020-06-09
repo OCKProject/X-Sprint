@@ -73,7 +73,7 @@ Then make Med migr special ones - This could be a community contribution for use
 
 Terms from AMRO workshop:
 
-''''<entry term="Desertifcation" name="Desertifcation"/>
+```<entry term="Desertifcation" name="Desertifcation"/>
 <entry term="Global Warming" name="Global Warming"/>
 <entry term="Rise of Sea Level" name="Rise of Sea Level"/>
 <entry term="Sea Temperature" name="Sea Temperature"/>
@@ -84,6 +84,6 @@ Terms from AMRO workshop:
 <entry term="Sahara" name="Sahara"/>
 <entry term="Malta" name="Malta"/>
 <entry term="Italy" name="Italy"/>
-<entry term="Lampedusa" name="Lampedusa"/>''''
+<entry term="Lampedusa" name="Lampedusa"/>```
 
 #### MENA migration Dictionary
