@@ -1,0 +1,383 @@
+{
+  "id": [
+    "32248312"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32248312"
+  ],
+  "pmcid": [
+    "PMC7128007"
+  ],
+  "doi": [
+    "10.1007/s11538-020-00721-2"
+  ],
+  "title": [
+    "The Impact of Elastic Deformations of the Extracellular Matrix on Cell Migration."
+  ],
+  "authorString": [
+    "Malik AA, Wennberg B, Gerlee P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Malik AA"
+          ],
+          "firstName": [
+            "A A"
+          ],
+          "lastName": [
+            "Malik"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1356-9039",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Mathematical Sciences, Chalmers University of Technology and University of Gothenburg, 412 96, Gothenburg, Sweden. maadam@chalmers.se."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wennberg B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Wennberg"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Mathematical Sciences, Chalmers University of Technology and University of Gothenburg, 412 96, Gothenburg, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gerlee P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Gerlee"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Mathematical Sciences, Chalmers University of Technology and University of Gothenburg, 412 96, Gothenburg, Sweden."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1356-9039",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "82"
+      ],
+      "journalIssueId": [
+        "2932165"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bulletin of mathematical biology"
+          ],
+          "ISOAbbreviation": [
+            "Bull. Math. Biol."
+          ],
+          "medlineAbbreviation": [
+            "Bull Math Biol"
+          ],
+          "NLMid": [
+            "0401404"
+          ],
+          "ISSN": [
+            "0092-8240"
+          ],
+          "ESSN": [
+            "1522-9602"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "49"
+  ],
+  "abstractText": [
+    "The mechanical properties of the extracellular matrix, in particular its stiffness, are known to impact cell migration. In this paper, we develop a mathematical model of a single cell migrating on an elastic matrix, which accounts for the deformation of the matrix induced by forces exerted by the cell, and investigate how the stiffness impacts the direction and speed of migration. We model a cell in 1D as a nucleus connected to a number of adhesion sites through elastic springs. The cell migrates by randomly updating the position of its adhesion sites. We start by investigating the case where the cell springs are constant, and then go on to assuming that they depend on the matrix stiffness, on matrices of both uniform stiffness as well as those with a stiffness gradient. We find that the assumption that cell springs depend on the substrate stiffness is necessary and sufficient for an efficient durotactic response. We compare simulations to recent experimental observations of human cancer cells exhibiting durotaxis, which show good qualitative agreement."
+  ],
+  "affiliation": [
+    "Department of Mathematical Sciences, Chalmers University of Technology and University of Gothenburg, 412 96, Gothenburg, Sweden. maadam@chalmers.se."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2014-6095"
+          ],
+          "agency": [
+            "Vetenskapsrådet"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "AM13-0046"
+          ],
+          "agency": [
+            "Stiftelsen för Strategisk Forskning"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stochastic simulation",
+        "cell migration",
+        "Mathematical Modeling",
+        "Durotaxis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11538-020-00721-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7128007"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7128007?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11538-020-00721-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-06"
+  ],
+  "firstIndexDate": [
+    "2020-04-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-12"
+  ],
+  "dateOfRevision": [
+    "2020-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-04"
+  ],
+  "firstPublicationDate": [
+    "2020-04-04"
+  ]
+}

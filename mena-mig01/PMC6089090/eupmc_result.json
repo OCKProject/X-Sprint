@@ -1,0 +1,371 @@
+{
+  "id": [
+    "30109257"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30109257"
+  ],
+  "pmcid": [
+    "PMC6089090"
+  ],
+  "doi": [
+    "10.1016/j.ssmph.2018.07.007"
+  ],
+  "title": [
+    "All-cause mortality, age at arrival, and duration of residence among adult migrants in Sweden: A population-based longitudinal study."
+  ],
+  "authorString": [
+    "Juárez SP, Drefahl S, Dunlavy A, Rostila M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Juárez SP"
+          ],
+          "firstName": [
+            "Sol P"
+          ],
+          "lastName": [
+            "Juárez"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Public Health Sciences, Centre for Health Equity Studies (CHESS), Stockholm University/Karolinska Institute, Stockholm, Sweden.",
+                "Stockholm University Demography Unit, Stockholm University, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Drefahl S"
+          ],
+          "firstName": [
+            "Sven"
+          ],
+          "lastName": [
+            "Drefahl"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4533-7558",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Stockholm University Demography Unit, Stockholm University, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dunlavy A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Dunlavy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Public Health Sciences, Centre for Health Equity Studies (CHESS), Stockholm University/Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rostila M"
+          ],
+          "firstName": [
+            "Mikael"
+          ],
+          "lastName": [
+            "Rostila"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Public Health Sciences, Centre for Health Equity Studies (CHESS), Stockholm University/Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4533-7558",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2716477"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SSM - population health"
+          ],
+          "ISOAbbreviation": [
+            "SSM Popul Health"
+          ],
+          "medlineAbbreviation": [
+            "SSM Popul Health"
+          ],
+          "NLMid": [
+            "101678841"
+          ],
+          "ISSN": [
+            "2352-8273"
+          ],
+          "ESSN": [
+            "2352-8273"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "16-25"
+  ],
+  "abstractText": [
+    "A mortality advantage has been observed among recently arrived immigrants in multiple national contexts, even though many immigrants experience more social disadvantage compared to natives. This is the first study to investigate the combined influence of duration of residence and age at arrival on the association between region of origin and all-cause mortality among the adult immigrant population in Sweden.Using population-based registers, we conducted a follow-up study of 1,363,429 individuals aged 25-64 years from 1990 to 2008. Gompertz parametric survival models were fitted to derive hazard ratios (HR) for all-cause mortality.Compared to native Swedes, we observed a health advantage in all group of immigrants, with the exception of individuals from Finland. However, when information on age at arrival and duration of residence was combined, an excess mortality risk was found among immigrants who arrived before age 18, which largely disappeared after 15 years of residence in Sweden. Non-European immigrants over age 18 showed similar or lower mortality risks than natives in all categories of age at arrival, regardless of duration of residence.The findings suggest that the mortality advantage commonly observed among immigrants is not universal. Combined information on age at arrival and duration of residence can be used to identify sensitive periods and to identify possible selection bias. The study also suggests that young immigrants are a vulnerable subpopulation. Given the increased number of unaccompanied minors arriving in Europe, targeted health or integration policies should be developed or reviewed."
+  ],
+  "affiliation": [
+    "Department of Public Health Sciences, Centre for Health Equity Studies (CHESS), Stockholm University/Karolinska Institute, Stockholm, Sweden."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mortality",
+        "Migrant",
+        "Duration Of Residence",
+        "Age At Arrival",
+        "Acculturation Paradox",
+        "Assimilation Paradox",
+        "Healthy Migrant Paradox"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ssmph.2018.07.007"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6089090"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6089090?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ssmph.2018.07.007"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-16"
+  ],
+  "firstIndexDate": [
+    "2018-08-15"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-19"
+  ],
+  "dateOfRevision": [
+    "2018-08-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-31"
+  ],
+  "firstPublicationDate": [
+    "2018-07-31"
+  ]
+}

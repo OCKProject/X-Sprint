@@ -1,0 +1,520 @@
+{
+  "id": [
+    "30837881"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30837881"
+  ],
+  "pmcid": [
+    "PMC6389703"
+  ],
+  "doi": [
+    "10.3389/fphar.2019.00115"
+  ],
+  "title": [
+    "Identification of Biologically Active Ganoderma lucidum Compounds and Synthesis of Improved Derivatives That Confer Anti-cancer Activities in vitro."
+  ],
+  "authorString": [
+    "Martínez-Montemayor MM, Ling T, Suárez-Arroyo IJ, Ortiz-Soto G, Santiago-Negrón CL, Lacourt-Ventura MY, Valentín-Acevedo A, Lang WH, Rivas F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martínez-Montemayor MM"
+          ],
+          "firstName": [
+            "Michelle M"
+          ],
+          "lastName": [
+            "Martínez-Montemayor"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6933-9905",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Research Unit, Department of Biochemistry, School of Medicine, Universidad Central del Caribe, Bayamón, Puerto Rico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ling T"
+          ],
+          "firstName": [
+            "Taotao"
+          ],
+          "lastName": [
+            "Ling"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemical Biology & Therapeutics, St. Jude Children's Research Hospital, Memphis, TN, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suárez-Arroyo IJ"
+          ],
+          "firstName": [
+            "Ivette J"
+          ],
+          "lastName": [
+            "Suárez-Arroyo"
+          ],
+          "initials": [
+            "IJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Research Unit, Department of Biochemistry, School of Medicine, Universidad Central del Caribe, Bayamón, Puerto Rico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ortiz-Soto G"
+          ],
+          "firstName": [
+            "Gabriela"
+          ],
+          "lastName": [
+            "Ortiz-Soto"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Research Unit, Department of Biochemistry, School of Medicine, Universidad Central del Caribe, Bayamón, Puerto Rico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Santiago-Negrón CL"
+          ],
+          "firstName": [
+            "Camille L"
+          ],
+          "lastName": [
+            "Santiago-Negrón"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, University of Puerto Rico, Bayamón, Puerto Rico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lacourt-Ventura MY"
+          ],
+          "firstName": [
+            "Mercedes Y"
+          ],
+          "lastName": [
+            "Lacourt-Ventura"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Research Unit, Department of Biochemistry, School of Medicine, Universidad Central del Caribe, Bayamón, Puerto Rico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Valentín-Acevedo A"
+          ],
+          "firstName": [
+            "Anibal"
+          ],
+          "lastName": [
+            "Valentín-Acevedo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology and Immunology, School of Medicine, Universidad Central del Caribe, Bayamón, Puerto Rico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lang WH"
+          ],
+          "firstName": [
+            "Walter H"
+          ],
+          "lastName": [
+            "Lang"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemical Biology & Therapeutics, St. Jude Children's Research Hospital, Memphis, TN, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rivas F"
+          ],
+          "firstName": [
+            "Fatima"
+          ],
+          "lastName": [
+            "Rivas"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemical Biology & Therapeutics, St. Jude Children's Research Hospital, Memphis, TN, United States."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6933-9905",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779305"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "115"
+  ],
+  "abstractText": [
+    "We previously reported that Ganoderma lucidum extract (GLE) demonstrate significant anti-cancer activity against triple negative inflammatory breast cancer models. Herein, we aimed to elucidate the bioactive compounds of GLE responsible for this anti-cancer activity. We performed NMR, X-ray crystallography and analog derivatization as well as anti-cancer activity studies to elucidate and test the compounds. We report the structures of the seven most abundant GLE compounds and their selective efficacy against triple negative (TNBC) and inflammatory breast cancers (IBC) and other human cancer cell types (solid and blood malignancies) to illustrate their potential as anti-cancer agents. Three of the seven compounds (ergosterol, 5,6-dehydroergosterol and ergosterol peroxide) exhibited significant in vitro anti-cancer activities, while we report for the first time the structure elucidation of 5,6-dehydroergosterol from Ganoderma lucidum. We also show for the first time in TNBC/IBC cells that ergosterol peroxide (EP) displays anti-proliferative effects through G1 phase cell cycle arrest, apoptosis induction via caspase 3/7 activation, and PARP cleavage. EP decreased migratory and invasive effects of cancer cells while inhibiting the expression of total AKT1, AKT2, BCL-XL, Cyclin D1 and c-Myc in the tested IBC cells. Our investigation also indicates that these compounds induce reactive oxygen species, compromising cell fate. Furthermore, we generated a superior derivative, ergosterol peroxide sulfonamide, with improved potency in IBC cells and ample therapeutic index (TI > 10) compared to normal cells. The combined studies indicate that EP from Ganoderma lucidum extract is a promising molecular scaffold for further exploration as an anti-cancer agent."
+  ],
+  "affiliation": [
+    "Cancer Research Unit, Department of Biochemistry, School of Medicine, Universidad Central del Caribe, Bayamón, Puerto Rico."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "G12 MD007583"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G12 RR003035"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SC3 GM111171"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ganoderma lucidum",
+        "Breast cancer",
+        "Natural product",
+        "Ergosterol Peroxide",
+        "Ep Derivatives"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2019.00115"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6389703"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6389703?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2019.00115"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-07"
+  ],
+  "firstIndexDate": [
+    "2019-03-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-12"
+  ],
+  "dateOfRevision": [
+    "2019-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-19"
+  ],
+  "firstPublicationDate": [
+    "2019-02-19"
+  ]
+}

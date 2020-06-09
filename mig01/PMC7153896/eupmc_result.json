@@ -1,0 +1,475 @@
+{
+  "id": [
+    "32282802"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32282802"
+  ],
+  "pmcid": [
+    "PMC7153896"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0230679"
+  ],
+  "title": [
+    "Quasi-periodic migration of single cells on short microlanes."
+  ],
+  "authorString": [
+    "Zhou F, Schaffer SA, Schreiber C, Segerer FJ, Goychuk A, Frey E, Rädler JO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhou F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schaffer SA"
+          ],
+          "firstName": [
+            "Sophia A"
+          ],
+          "lastName": [
+            "Schaffer"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schreiber C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Schreiber"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Segerer FJ"
+          ],
+          "firstName": [
+            "Felix J"
+          ],
+          "lastName": [
+            "Segerer"
+          ],
+          "initials": [
+            "FJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Goychuk A"
+          ],
+          "firstName": [
+            "Andriy"
+          ],
+          "lastName": [
+            "Goychuk"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6776-9437",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Arnold-Sommerfeld-Center for Theoretical Physics, Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Frey E"
+          ],
+          "firstName": [
+            "Erwin"
+          ],
+          "lastName": [
+            "Frey"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Arnold-Sommerfeld-Center for Theoretical Physics, Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rädler JO"
+          ],
+          "firstName": [
+            "Joachim O"
+          ],
+          "lastName": [
+            "Rädler"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5846-1489",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6776-9437",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5846-1489",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "protocols",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2930551"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0230679"
+  ],
+  "abstractText": [
+    "Cell migration on microlanes represents a suitable and simple platform for the exploration of the molecular mechanisms underlying cell cytoskeleton dynamics. Here, we report on the quasi-periodic movement of cells confined in stripe-shaped microlanes. We observe persistent polarized cell shapes and directed pole-to-pole motion within the microlanes. Cells depolarize at one end of a given microlane, followed by delayed repolarization towards the opposite end. We analyze cell motility via the spatial velocity distribution, the velocity frequency spectrum and the reversal time as a measure for depolarization and spontaneous repolarization of cells at the microlane ends. The frequent encounters of a boundary in the stripe geometry provides a robust framework for quantitative investigations of the cytoskeleton protrusion and repolarization dynamics. In a first advance to rigorously test physical models of cell migration, we find that the statistics of the cell migration is recapitulated by a Cellular Potts model with a minimal description of cytoskeleton dynamics. Using LifeAct-GFP transfected cells and microlanes with differently shaped ends, we show that the local deformation of the leading cell edge in response to the tip geometry can locally either amplify or quench actin polymerization, while leaving the average reversal times unaffected."
+  ],
+  "affiliation": [
+    "Faculty of Physics and Center for NanoScience, Ludwig-Maximilians-Universität München, Munich, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230679"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7153896"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7153896?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230679"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR98838"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-14"
+  ],
+  "firstIndexDate": [
+    "2020-04-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-18"
+  ],
+  "dateOfRevision": [
+    "2020-04-17"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-13"
+  ],
+  "firstPublicationDate": [
+    "2020-04-13"
+  ]
+}

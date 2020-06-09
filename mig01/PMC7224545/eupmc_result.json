@@ -1,0 +1,394 @@
+{
+  "id": [
+    "32407398"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32407398"
+  ],
+  "pmcid": [
+    "PMC7224545"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0233103"
+  ],
+  "title": [
+    "Differential migration in Chesapeake Bay striped bass."
+  ],
+  "authorString": [
+    "Secor DH, O'Brien MHP, Gahagan BI, Watterson JC, Fox DA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Secor DH"
+          ],
+          "firstName": [
+            "David H"
+          ],
+          "lastName": [
+            "Secor"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6007-4827",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Chesapeake Biological Laboratory, University of Maryland Center for Environmental Science, Solomons, Maryland, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "O'Brien MHP"
+          ],
+          "firstName": [
+            "Michael H P"
+          ],
+          "lastName": [
+            "O'Brien"
+          ],
+          "initials": [
+            "MHP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Chesapeake Biological Laboratory, University of Maryland Center for Environmental Science, Solomons, Maryland, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gahagan BI"
+          ],
+          "firstName": [
+            "Benjamin I"
+          ],
+          "lastName": [
+            "Gahagan"
+          ],
+          "initials": [
+            "BI"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Massachusetts Division of Marine Fisheries, Gloucester, Massachusetts, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Watterson JC"
+          ],
+          "firstName": [
+            "J Carter"
+          ],
+          "lastName": [
+            "Watterson"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "United States Navy, Naval Facilities Engineering Command Atlantic, Norfolk, Virginia, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fox DA"
+          ],
+          "firstName": [
+            "Dewayne A"
+          ],
+          "lastName": [
+            "Fox"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Delaware State University, College of Agriculture, Science, and Technology, Dover, Delaware, United States of America."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6007-4827",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2949021"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0233103"
+  ],
+  "abstractText": [
+    "Differential migration-increased migration propensity with increasing individual size-is common in migratory species. Like other forms of partial migration, it provides spatial buffering against regional differences in habitat quality and sources of mortality. We investigated differential migration and its consequences to survival and reproductive patterns in striped bass, a species with well-known plasticity in migration behaviors. A size-stratified sample of Potomac River (Chesapeake Bay) Morone saxatilis striped bass was implanted with acoustic transmitters and their subsequent coastal shelf migrations recorded over a 4-yr period by telemetry receivers throughout the Mid-Atlantic Bight and Southern New England. A generalized linear mixed model predicted that ≥ 50% of both males and females depart the Chesapeake Bay at large sizes >80 cm total length. Egressing striped bass exited through both the Chesapeake Bay mouth and Delaware Bay (via the Chesapeake and Delaware Canal), favoring the former. All large fish migrated to Massachusetts shelf waters and in subsequent years repeatedly returned to regions within Massachusetts and Cape Cod Bays. Within this dominant behavior, minority behaviors included straying, skipped spawning, and residency by large individuals (those expected to migrate). Analysis of the last day of transmission indicated that small resident striped bass experienced nearly 2-fold higher loss rates (70% yr-1) than coastal shelf emigrants (37% yr-1). The study confirmed expectations for a threshold size at emigration and different mortality levels between Chesapeake Bay (resident) and ocean (migratory) population contingents; and supported the central premise of the current assessment and management framework of a two-contingent population: smaller Chesapeake Bay residents and a larger ocean contingent. An improved understanding of differential migration thus affords an opportunity to specify stock assessments according to different population sub-components, and tailor reference points and control rules between regions and fishing stakeholder groups."
+  ],
+  "affiliation": [
+    "Chesapeake Biological Laboratory, University of Maryland Center for Environmental Science, Solomons, Maryland, United States of America."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0233103"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7224545"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7224545?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0233103"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc0"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-15"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-03"
+  ],
+  "dateOfRevision": [
+    "2020-06-02"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-14"
+  ],
+  "firstPublicationDate": [
+    "2020-05-14"
+  ]
+}

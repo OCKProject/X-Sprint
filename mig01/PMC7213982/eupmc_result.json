@@ -1,0 +1,539 @@
+{
+  "id": [
+    "32352381"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32352381"
+  ],
+  "pmcid": [
+    "PMC7213982"
+  ],
+  "doi": [
+    "10.7554/elife.53609"
+  ],
+  "title": [
+    "Polar pattern formation induced by contact following locomotion in a multicellular system."
+  ],
+  "authorString": [
+    "Hayakawa M, Hiraiwa T, Wada Y, Kuwayama H, Shibata T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hayakawa M"
+          ],
+          "firstName": [
+            "Masayuki"
+          ],
+          "lastName": [
+            "Hayakawa"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9245-9593",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Physical Biology, RIKEN Center for Biosystems Dynamics Research, Kobe, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hiraiwa T"
+          ],
+          "firstName": [
+            "Tetsuya"
+          ],
+          "lastName": [
+            "Hiraiwa"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3221-345X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Mechanobiology Institute, National University of Singapore, Singapore, Singapore.",
+                "Universal Biology Institute, University of Tokyo, Tokyo, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wada Y"
+          ],
+          "firstName": [
+            "Yuko"
+          ],
+          "lastName": [
+            "Wada"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Physical Biology, RIKEN Center for Biosystems Dynamics Research, Kobe, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kuwayama H"
+          ],
+          "firstName": [
+            "Hidekazu"
+          ],
+          "lastName": [
+            "Kuwayama"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4362-0790",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Life and Environmental Sciences, University of Tsukuba, Tennodai, Ibaraki, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shibata T"
+          ],
+          "firstName": [
+            "Tatsuo"
+          ],
+          "lastName": [
+            "Shibata"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9294-9998",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Physical Biology, RIKEN Center for Biosystems Dynamics Research, Kobe, Japan."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9245-9593",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3221-345X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4362-0790",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9294-9998",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2930454"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Biophysical mechanisms underlying collective cell migration of eukaryotic cells have been studied extensively in recent years. One mechanism that induces cells to correlate their motions is contact inhibition of locomotion, by which cells migrating away from the contact site. Here, we report that tail-following behavior at the contact site, termed contact following locomotion (CFL), can induce a non-trivial collective behavior in migrating cells. We show the emergence of a traveling band showing polar order in a mutant Dictyostelium cell that lacks chemotactic activity. We find that CFL is the cell-cell interaction underlying this phenomenon, enabling a theoretical description of how this traveling band forms. We further show that the polar order phase consists of subpopulations that exhibit characteristic transversal motions with respect to the direction of band propagation. These findings describe a novel mechanism of collective cell migration involving cell-cell interactions capable of inducing traveling band with polar order."
+  ],
+  "affiliation": [
+    "Laboratory for Physical Biology, RIKEN Center for Biosystems Dynamics Research, Kobe, Japan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JP16K17777"
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP17J05667"
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP19H00996"
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP19K03764"
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP26610129"
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JPMJCR1852"
+          ],
+          "agency": [
+            "Japan Science and Technology Agency"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dictyostelium",
+        "cell migration",
+        "Collective Cell Migration",
+        "Self-propelled Particles",
+        "Cell-cell Contact",
+        "Physics Of Living Systems"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.53609"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7213982"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7213982?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/elife.53609"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR107227"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-01"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-15"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-30"
+  ],
+  "firstPublicationDate": [
+    "2020-04-30"
+  ]
+}

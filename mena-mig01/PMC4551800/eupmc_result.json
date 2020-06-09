@@ -1,0 +1,369 @@
+{
+  "id": [
+    "26313269"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26313269"
+  ],
+  "pmcid": [
+    "PMC4551800"
+  ],
+  "doi": [
+    "10.1371/journal.pntd.0003695"
+  ],
+  "title": [
+    "Building Research and Development Capacity for Neglected Tropical Diseases Impacting Leishmaniasis in the Middle East and North Africa: A Case Study."
+  ],
+  "authorString": [
+    "Rafati S, Kamhawi S, Valenzuela JG, Ghanei M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rafati S"
+          ],
+          "firstName": [
+            "Sima"
+          ],
+          "lastName": [
+            "Rafati"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7221-1320",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Immunotherapy and Leishmania Vaccine Research, Pasteur Institute of Iran, Tehran, Iran."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kamhawi S"
+          ],
+          "firstName": [
+            "Shaden"
+          ],
+          "lastName": [
+            "Kamhawi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Vector Molecular Biology Section, Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, Maryland, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Valenzuela JG"
+          ],
+          "firstName": [
+            "Jesus G"
+          ],
+          "lastName": [
+            "Valenzuela"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Vector Molecular Biology Section, Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, Maryland, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ghanei M"
+          ],
+          "firstName": [
+            "Mostafa"
+          ],
+          "lastName": [
+            "Ghanei"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9372-0928",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Director Office, Pasteur Institute of Iran, Tehran, Iran."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7221-1320",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9372-0928",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2310598"
+      ],
+      "dateOfPublication": [
+        "2015 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS neglected tropical diseases"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "medlineAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "NLMid": [
+            "101291488"
+          ],
+          "ISSN": [
+            "1935-2727"
+          ],
+          "ESSN": [
+            "1935-2735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e0003695"
+  ],
+  "affiliation": [
+    "Department of Immunotherapy and Leishmania Vaccine Research, Pasteur Institute of Iran, Tehran, Iran."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0003695"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4551800"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4551800?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0003695"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-11-04"
+  ],
+  "dateOfCreation": [
+    "2015-08-28"
+  ],
+  "firstIndexDate": [
+    "2015-08-28"
+  ],
+  "fullTextReceivedDate": [
+    "2015-09-04"
+  ],
+  "dateOfRevision": [
+    "2019-02-02"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-27"
+  ],
+  "firstPublicationDate": [
+    "2015-08-27"
+  ]
+}

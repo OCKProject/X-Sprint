@@ -1,0 +1,720 @@
+{
+  "id": [
+    "29720269"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29720269"
+  ],
+  "pmcid": [
+    "PMC5930427"
+  ],
+  "doi": [
+    "10.1186/s13287-018-0872-7"
+  ],
+  "title": [
+    "Acidic preconditioning of endothelial colony-forming cells (ECFC) promote vasculogenesis under proinflammatory and high glucose conditions in vitro and in vivo."
+  ],
+  "authorString": [
+    "Mena HA, Zubiry PR, Dizier B, Schattner M, Boisson-Vidal C, Negrotto S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mena HA"
+          ],
+          "firstName": [
+            "Hebe Agustina"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1724-8582",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Experimental Thrombosis Laboratory, Institute of Experimental Medicine (IMEX), National Academy of Medicine-CONICET, Pacheco de Melo, 3081, Buenos Aires, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zubiry PR"
+          ],
+          "firstName": [
+            "Paula Romina"
+          ],
+          "lastName": [
+            "Zubiry"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Experimental Thrombosis Laboratory, Institute of Experimental Medicine (IMEX), National Academy of Medicine-CONICET, Pacheco de Melo, 3081, Buenos Aires, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dizier B"
+          ],
+          "firstName": [
+            "Blandine"
+          ],
+          "lastName": [
+            "Dizier"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Université Paris Descartes, Sorbonne Paris Cité, Paris, France.",
+                "INSERM, UMR-S1140, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schattner M"
+          ],
+          "firstName": [
+            "Mirta"
+          ],
+          "lastName": [
+            "Schattner"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Experimental Thrombosis Laboratory, Institute of Experimental Medicine (IMEX), National Academy of Medicine-CONICET, Pacheco de Melo, 3081, Buenos Aires, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Boisson-Vidal C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Boisson-Vidal"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6651-4926",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Université Paris Descartes, Sorbonne Paris Cité, Paris, France.",
+                "INSERM, UMR-S1140, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Negrotto S"
+          ],
+          "firstName": [
+            "Soledad"
+          ],
+          "lastName": [
+            "Negrotto"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4754-0085",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Experimental Thrombosis Laboratory, Institute of Experimental Medicine (IMEX), National Academy of Medicine-CONICET, Pacheco de Melo, 3081, Buenos Aires, Argentina. solenegrotto@hematologia.anm.edu.ar."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1724-8582",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6651-4926",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4754-0085",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "full_text",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2678389"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Stem cell research & therapy"
+          ],
+          "ISOAbbreviation": [
+            "Stem Cell Res Ther"
+          ],
+          "medlineAbbreviation": [
+            "Stem Cell Res Ther"
+          ],
+          "NLMid": [
+            "101527581"
+          ],
+          "ISSN": [
+            "1757-6512"
+          ],
+          "ESSN": [
+            "1757-6512"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "120"
+  ],
+  "abstractText": [
+    "BACKGROUND:We have previously demonstrated that acidic preconditioning of human endothelial colony-forming cells (ECFC) increased proliferation, migration, and tubulogenesis in vitro, and increased their regenerative potential in a murine model of hind limb ischemia without baseline disease. We now analyze whether this strategy is also effective under adverse conditions for vasculogenesis, such as the presence of ischemia-related toxic molecules or diabetes, one of the main target diseases for cell therapy due to their well-known healing impairments. METHODS:Cord blood-derived CD34+ cells were seeded in endothelial growth culture medium (EGM2) and ECFC colonies were obtained after 14-21 days. ECFC were exposed at pH 6.6 (preconditioned) or pH 7.4 (nonpreconditioned) for 6 h, and then pH was restored at 7.4. A model of type 2 diabetes induced by a high-fat and high-sucrose diet was developed in nude mice and hind limb ischemia was induced in these animals by femoral artery ligation. A P value < 0.05 was considered statistically significant (by one-way analysis of variance). RESULTS:We found that acidic preconditioning increased ECFC adhesion and the release of pro-angiogenic molecules, and protected ECFC from the cytotoxic effects of monosodium urate crystals, histones, and tumor necrosis factor (TNF)α, which induced necrosis, pyroptosis, and apoptosis, respectively. Noncytotoxic concentrations of high glucose, TNFα, or their combination reduced ECFC proliferation, stromal cell-derived factor (SDF)1-driven migration, and tubule formation on a basement membrane matrix, whereas almost no inhibition was observed in preconditioned ECFC. In type 2 diabetic mice, intravenous administration of preconditioned ECFC significantly induced blood flow recovery at the ischemic limb as measured by Doppler, compared with the phosphate-buffered saline (PBS) and nonpreconditioned ECFC groups. Moreover, the histologic analysis of gastrocnemius muscles showed an increased vascular density and reduced signs of inflammation in the animals receiving preconditioned ECFC. CONCLUSIONS:Acidic preconditioning improved ECFC survival and angiogenic activity in the presence of proinflammatory and damage signals present in the ischemic milieu, even under high glucose conditions, and increased their therapeutic potential for postischemia tissue regeneration in a murine model of type 2 diabetes. Collectively, our data suggest that acidic preconditioning of ECFC is a simple and inexpensive strategy to improve the effectiveness of cell transplantation in diabetes, where tissue repair is highly compromised."
+  ],
+  "affiliation": [
+    "Experimental Thrombosis Laboratory, Institute of Experimental Medicine (IMEX), National Academy of Medicine-CONICET, Pacheco de Melo, 3081, Buenos Aires, Argentina."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PICT 2015-1859"
+          ],
+          "agency": [
+            "Fondo para la Investigación Científica y Tecnológica"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PICT 2013-0612"
+          ],
+          "agency": [
+            "Fondo para la Investigación Científica y Tecnológica"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Nude"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diabetes Mellitus, Experimental"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glucose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Differentiation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neovascularization, Physiologic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endothelial Progenitor Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Angiogenesis",
+        "Inflammation",
+        "Type 2 diabetes",
+        "Vasculogenesis",
+        "Hind Limb Ischemia",
+        "Acidic Preconditioning",
+        "Human Endothelial Colony Forming Cells"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Acids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glucose"
+          ],
+          "registryNumber": [
+            "IY9XDZ35W2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13287-018-0872-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5930427"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5930427?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13287-018-0872-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-12"
+  ],
+  "dateOfCreation": [
+    "2018-05-04"
+  ],
+  "firstIndexDate": [
+    "2018-05-04"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-13"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-02"
+  ],
+  "firstPublicationDate": [
+    "2018-05-02"
+  ]
+}

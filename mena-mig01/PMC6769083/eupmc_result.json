@@ -1,0 +1,395 @@
+{
+  "id": [
+    "31608231"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31608231"
+  ],
+  "pmcid": [
+    "PMC6769083"
+  ],
+  "doi": [
+    "10.3389/fonc.2019.00928"
+  ],
+  "title": [
+    "Systematic Profiling of Alternative mRNA Splicing Signature for Predicting Glioblastoma Prognosis."
+  ],
+  "authorString": [
+    "Chen X, Zhao C, Guo B, Zhao Z, Wang H, Fang Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xueran"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Province Key Laboratory of Medical Physics and Technology, Center of Medical Physics and Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China.",
+                "Department of Molecular Pathology, Hefei Cancer Hospital, Chinese Academy of Sciences, Hefei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao C"
+          ],
+          "firstName": [
+            "Chenggang"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Province Key Laboratory of Medical Physics and Technology, Center of Medical Physics and Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China.",
+                "University of Science and Technology of China, Hefei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Pathology, Hefei Cancer Hospital, Chinese Academy of Sciences, Hefei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhiyang"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Province Key Laboratory of Medical Physics and Technology, Center of Medical Physics and Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China.",
+                "University of Science and Technology of China, Hefei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hongzhi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Province Key Laboratory of Medical Physics and Technology, Center of Medical Physics and Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China.",
+                "Department of Molecular Pathology, Hefei Cancer Hospital, Chinese Academy of Sciences, Hefei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fang Z"
+          ],
+          "firstName": [
+            "Zhiyou"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Province Key Laboratory of Medical Physics and Technology, Center of Medical Physics and Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China.",
+                "Department of Molecular Pathology, Hefei Cancer Hospital, Chinese Academy of Sciences, Hefei, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2778731"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "928"
+  ],
+  "abstractText": [
+    "Emerging evidence suggests that alternative splicing (AS) is modified in cancer and is associated with cancer progression. Systematic analysis of AS signature in glioblastoma (GBM) is lacking and is greatly needed. We profiled genome-wide AS events in 498 GBM patients in TCGA using RNA-seq data, and splicing network and prognostic predictor were built by integrated bioinformatics analysis. Among 45,610 AS events in 10,434 genes, we detected 1,829 AS events in 1,311 genes, and 1,667 AS events in 1,146 genes that were significantly associated with overall survival and disease-free survival of GBM patients, respectively. Five potential feature genes, S100A4, ECE2, CAST, ASPH, and LY6K, were discovered after network mining as well as correlation analysis between AS and gene expression, most of which were related to carcinogenesis and development. Multivariate survival model analysis indicated that these five feature genes could classify the prognosis at AS event and gene expression level. This report opens up a new avenue for exploration of the pathogenesis of GBM through AS, thus more precisely guiding clinical treatment and prognosis judgment."
+  ],
+  "affiliation": [
+    "Anhui Province Key Laboratory of Medical Physics and Technology, Center of Medical Physics and Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Disease-free Survival",
+        "Overall Survival",
+        "Prognostic Predictor",
+        "Glioblastoma (Gbm)",
+        "Alternative Splicing (As) Events"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2019.00928"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6769083"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6769083?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2019.00928"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-15"
+  ],
+  "firstIndexDate": [
+    "2019-10-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-13"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-24"
+  ],
+  "firstPublicationDate": [
+    "2019-09-24"
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "id": [
+    "32376822"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32376822"
+  ],
+  "pmcid": [
+    "PMC7203158"
+  ],
+  "doi": [
+    "10.1038/s41419-020-2521-1"
+  ],
+  "title": [
+    "HDAC7 promotes the oncogenicity of nasopharyngeal carcinoma cells by miR-4465-EphA2 signaling axis."
+  ],
+  "authorString": [
+    "Li QG, Xiao T, Zhu W, Yu ZZ, Huang XP, Yi H, Lu SS, Tang YY, Huang W, Xiao ZQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li QG"
+          ],
+          "firstName": [
+            "Qi-Guang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "QG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology Head and Neck Surgery, Xiangya Hospital, Central South University, Changsha, 410008, China.",
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao T"
+          ],
+          "firstName": [
+            "Ta"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Dermatology, Chinese Academy of Medical Sciences and Peking Union Medical College, Nanjing, 210042, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu ZZ"
+          ],
+          "firstName": [
+            "Zheng-Zheng"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "ZZ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang XP"
+          ],
+          "firstName": [
+            "Xiao-Pu"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "XP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yi H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu SS"
+          ],
+          "firstName": [
+            "Shan-Shan"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang YY"
+          ],
+          "firstName": [
+            "Yao-Yun"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "YY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology Head and Neck Surgery, Xiangya Hospital, Central South University, Changsha, 410008, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China. weihuang@csu.edu.cn.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China. weihuang@csu.edu.cn."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao ZQ"
+          ],
+          "firstName": [
+            "Zhi-Qiang"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "ZQ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology Head and Neck Surgery, Xiangya Hospital, Central South University, Changsha, 410008, China. zqxiao2001@hotmail.com.",
+                "Research Center of Carcinogenesis and Targeted Therapy, Xiangya Hospital, Central South University, Changsha, 410008, China. zqxiao2001@hotmail.com.",
+                "The Higher Educational Key Laboratory for Cancer Proteomics and Translational Medicine of Hunan Province, Xiangya Hospital, Central South University, Changsha, 410008, China. zqxiao2001@hotmail.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2949308"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell death & disease"
+          ],
+          "ISOAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "medlineAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "NLMid": [
+            "101524092"
+          ],
+          "ISSN": [
+            "2041-4889"
+          ],
+          "ESSN": [
+            "2041-4889"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "322"
+  ],
+  "abstractText": [
+    "HDAC7 plays a crucial role in cancers, and is the main drug target of several HDAC inhibitors. However, the role and mechanism of HDAC7 in nasopharyngeal carcinoma (NPC) are still unclear. In this study, we observed that HDAC7 was significantly upregulated in the NPC tissues relative to normal nasopharyngeal mucosa (NNM) tissues, HDAC7 expression levels were positively correlated with NPC progression and negatively correlated with patient prognosis, and HDAC7 knockdown dramatically inhibited the in vitro proliferation, migration, and invasion of NPC cells, and the growth of NPC xenografts in mice, indicating the HDAC7 promotes the oncogenicity of NPC. Mechanistically, HDAC7 promoted the in vitro proliferation, migration, and invasion of NPC cells by upregulating EphA2, in which miR-4465 mediated HDAC7-regulating EphA2, a direct target gene of miR-4465. We further showed that miR-4465 was significantly downregulated in the NPC tissues relative to NNM tissues, and inhibited the in vitro proliferation, migration, and invasion of NPC cells by targeting EphA2 expression. Moreover, we observed that the expressions of HDAC7, miR-4465, and EphA2 in NPC tissues were correlated. The results suggest that HDAC7 promotes the oncogenicity of NPC by downregulating miR-4465 and subsequently upregulating EphA2, highlighting HDAC7 as a potential therapeutic target for NPC."
+  ],
+  "affiliation": [
+    "Department of Otolaryngology Head and Neck Surgery, Xiangya Hospital, Central South University, Changsha, 410008, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "81702924"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81874132, 81672687"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2521-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7203158"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7203158?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2521-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-08"
+  ],
+  "firstIndexDate": [
+    "2020-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-15"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-06"
+  ],
+  "firstPublicationDate": [
+    "2020-05-06"
+  ]
+}

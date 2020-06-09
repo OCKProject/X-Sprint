@@ -1,0 +1,595 @@
+{
+  "id": [
+    "29654020"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29654020"
+  ],
+  "pmcid": [
+    "PMC5898354"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2017-019973"
+  ],
+  "title": [
+    "Gender inequalities in the association between area deprivation and perceived social support: a cross-sectional multilevel analysis at the municipality level in Germany."
+  ],
+  "authorString": [
+    "Mena E, Kroll LE, Maier W, Bolte G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mena E"
+          ],
+          "firstName": [
+            "Emily"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4406-8157",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Social Epidemiology, Institute of Public Health and Nursing Research, University of Bremen, Bremen, Germany.",
+                "Health Sciences Bremen, University of Bremen, Bremen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kroll LE"
+          ],
+          "firstName": [
+            "Lars Eric"
+          ],
+          "lastName": [
+            "Kroll"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Epidemiology and Health Monitoring, Robert Koch Institute, Berlin, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maier W"
+          ],
+          "firstName": [
+            "Werner"
+          ],
+          "lastName": [
+            "Maier"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Health Economics and Health Care Management, Helmholtz Zentrum München, German Research Center for Environmental Health (GmbH), Neuherberg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bolte G"
+          ],
+          "firstName": [
+            "Gabriele"
+          ],
+          "lastName": [
+            "Bolte"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0269-5059",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Social Epidemiology, Institute of Public Health and Nursing Research, University of Bremen, Bremen, Germany.",
+                "Health Sciences Bremen, University of Bremen, Bremen, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4406-8157",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0269-5059",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2668345"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e019973"
+  ],
+  "abstractText": [
+    "OBJECTIVES:To investigate the association between area deprivation at municipality level with low perceived social support, independent of individual socioeconomic position and demographic characteristics. To assess whether there are gender inequalities in this association. DESIGN:Cross-sectional multilevel analysis of survey data. SETTING:Germany. PARTICIPANTS:3350 men and 3665 women living in 167 municipalities throughout Germany participating in the 'German Health Interview and Examination Survey for Adults' (DEGS1 2008-2011) as part of the national health monitoring. OUTCOME:Perceived social support as measured by Oslo-3 Social Support Scale. RESULTS:Prevalence of low perceived social support was 11.4% in men and 11.1% in women. Low social support was associated in men and women with sociodemographic characteristics that indicate more disadvantaged living situations. Taking these individual-level characteristics into account, municipal-level deprivation was independently associated with low perceived social support in men (OR for the most deprived quintile: 1.80 (95% CI 1.14 to 2.84)), but not in women (OR 1.22 (95% CI 0.78 to 1.90)). CONCLUSION:The results of our multilevel analysis suggest that there are gender inequalities in the association of municipal-level deprivation with the prevalence of low perceived social support in Germany independent of individual socioeconomic position. Community health interventions aiming at promotion of social support among residents might profit from a further understanding of the observed gender differences."
+  ],
+  "affiliation": [
+    "Department of Social Epidemiology, Institute of Public Health and Nursing Research, University of Bremen, Bremen, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Support"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Poverty Areas"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vulnerable Populations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Urban Population"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multilevel Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mental health",
+        "epidemiology",
+        "Public Health"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2017-019973"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5898354"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5898354?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2017-019973"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-04-15"
+  ],
+  "firstIndexDate": [
+    "2018-04-15"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-01"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-12"
+  ],
+  "firstPublicationDate": [
+    "2018-04-12"
+  ]
+}

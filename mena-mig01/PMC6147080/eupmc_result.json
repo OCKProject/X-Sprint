@@ -1,0 +1,359 @@
+{
+  "id": [
+    "30240757"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30240757"
+  ],
+  "pmcid": [
+    "PMC6147080"
+  ],
+  "doi": [
+    "10.1016/j.isci.2018.05.011"
+  ],
+  "title": [
+    "Ras Post-transcriptionally Enhances a Pre-malignantly Primed EMT to Promote Invasion."
+  ],
+  "authorString": [
+    "Bisogno LS, Friedersdorf MB, Keene JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bisogno LS"
+          ],
+          "firstName": [
+            "Laura S"
+          ],
+          "lastName": [
+            "Bisogno"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Genetics & Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Friedersdorf MB"
+          ],
+          "firstName": [
+            "Matthew B"
+          ],
+          "lastName": [
+            "Friedersdorf"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Genetics & Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Keene JD"
+          ],
+          "firstName": [
+            "Jack D"
+          ],
+          "lastName": [
+            "Keene"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Genetics & Microbiology, Duke University Medical Center, Durham, NC 27710, USA. Electronic address: jack.keene@dm.duke.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2708385"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "iScience"
+          ],
+          "ISOAbbreviation": [
+            "iScience"
+          ],
+          "medlineAbbreviation": [
+            "iScience"
+          ],
+          "NLMid": [
+            "101724038"
+          ],
+          "ISSN": [
+            "2589-0042"
+          ],
+          "ESSN": [
+            "2589-0042"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "97-108"
+  ],
+  "abstractText": [
+    "Epithelial-to-mesenchymal transition (EMT) is integral to cancer progression, with considerable evidence that EMT has multiple intermediary stages. Understanding the mechanisms of this stepwise activation is of great interest. We recreated a genetically defined model in which primary cells were immortalized, resulting in migratory capacity, and subsequently H-Ras-transformed, causing malignancy and invasion. To determine the mechanisms coordinating stepwise malignancy, we quantified the changes in messenger RNA (mRNA) and protein abundance. During immortalization, we found dramatic changes in mRNA, consistent with EMT, which correlated with protein abundance. Many of these same proteins also changed following Ras transformation, suggesting that pre-malignant cells were primed for malignant conversion. Unexpectedly, changes in protein abundance did not correlate with changes in mRNA following transformation. Importantly, proteins involved in cellular adhesion and cytoskeletal structure decreased during immortalization and decreased further following Ras transformation, whereas their encoding mRNAs only changed during the immortalization step. Thus, Ras induced EMT-associated invasion via post-transcriptional mechanisms in primed pre-malignant cells."
+  ],
+  "affiliation": [
+    "Department of Molecular Genetics & Microbiology, Duke University Medical Center, Durham, NC 27710, USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "F31 CA185892"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA157268"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcriptomics",
+        "Molecular Network",
+        "Cancer Systems Biology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.isci.2018.05.011"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6147080"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6147080?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.isci.2018.05.011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-22"
+  ],
+  "firstIndexDate": [
+    "2018-09-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-06"
+  ],
+  "dateOfRevision": [
+    "2018-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-18"
+  ],
+  "firstPublicationDate": [
+    "2018-05-18"
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "id": [
+    "32230788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32230788"
+  ],
+  "pmcid": [
+    "PMC7178274"
+  ],
+  "doi": [
+    "10.3390/ma13071543"
+  ],
+  "title": [
+    "Model-Based Roentgen Stereophotogrammetric Analysis to Monitor the Head-Taper Junction in Total Hip Arthroplasty in Vivo-And They Do Move."
+  ],
+  "authorString": [
+    "Xu J, Sonntag R, Kretzer JP, Taylor D, Forst R, Seehaus F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0540-9270",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopaedic Surgery, Faculty of Medicine, University of Erlangen-Nürnberg, 91054 Erlangen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sonntag R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Sonntag"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1809-7528",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Biomechanics and Implant Research, Clinic for Orthopedics and Trauma Surgery, Center for Orthopedics, Trauma Surgery and Spinal Cord Injury, Heidelberg University Hospital, 69118 Heidelberg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kretzer JP"
+          ],
+          "firstName": [
+            "J Philippe"
+          ],
+          "lastName": [
+            "Kretzer"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Biomechanics and Implant Research, Clinic for Orthopedics and Trauma Surgery, Center for Orthopedics, Trauma Surgery and Spinal Cord Injury, Heidelberg University Hospital, 69118 Heidelberg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor D"
+          ],
+          "firstName": [
+            "Dominic"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopaedic Surgery, Faculty of Medicine, University of Erlangen-Nürnberg, 91054 Erlangen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Forst R"
+          ],
+          "firstName": [
+            "Raimund"
+          ],
+          "lastName": [
+            "Forst"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopaedic Surgery, Faculty of Medicine, University of Erlangen-Nürnberg, 91054 Erlangen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seehaus F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Seehaus"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1140-4196",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopaedic Surgery, Faculty of Medicine, University of Erlangen-Nürnberg, 91054 Erlangen, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0540-9270",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1809-7528",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1140-4196",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2928305"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Model-based Roentgen stereophotogrammetric analysis (RSA) using elementary geometrical shape (EGS) models allows migration measurement of implants without the necessity of additional attached implant markers. The aims of this study were: (i) to assess the possibility of measuring potential head-taper movement in THA in vivo using model-based RSA and (ii) to prove the validity of measured head-taper migration data in vitro and in vivo. From a previous RSA study with a 10 years follow-up, retrospectively for n = 45 patients head-taper migration was calculated as the relative migration between femoral ball head and taper of the femoral stem using model-based RSA. A head-taper migration of 0.026 mm/year can be detected with available RSA technology. In vitro validation showed a total migration of 268 ± 11 µm along the taper axis in a similar range to what has been reported using the RSA method. In vivo, a proof for interchangeable applicability of model-based RSA (EGS) and standard marker-based RSA methods was indicated by a significant deviation within the migration result after 12-month follow-up for all translation measurements, which was significantly correlated to the measured head-taper migration (r from 0.40 to 0.67; p < 0.05). The results identified that model-based RSA (EGS) could be used to detect head-taper migration in vivo and the measured movement could be validated in vitro and in vivo as well. Those findings supported the possibility of applying RSA for helping evaluate the head-taper corrosion related failure (trunnionosis)."
+  ],
+  "affiliation": [
+    "Department of Orthopaedic Surgery, Faculty of Medicine, University of Erlangen-Nürnberg, 91054 Erlangen, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Hip Arthroplasty",
+        "Interchangeability",
+        "Roentgen Stereophotogrammetric Analysis",
+        "Elementary Geometrical Shape Model",
+        "Head–taper Junction"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma13071543"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7178274"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7178274?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma13071543"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-02"
+  ],
+  "firstIndexDate": [
+    "2020-04-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-30"
+  ],
+  "dateOfRevision": [
+    "2020-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-27"
+  ],
+  "firstPublicationDate": [
+    "2020-03-27"
+  ]
+}

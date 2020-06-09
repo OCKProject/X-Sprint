@@ -1,0 +1,342 @@
+{
+  "id": [
+    "32434142"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32434142"
+  ],
+  "pmcid": [
+    "PMC7235637"
+  ],
+  "doi": [
+    "10.1016/j.isci.2020.101129"
+  ],
+  "title": [
+    "Non-linear Deep Neural Network for Rapid and Accurate Prediction of Phenotypic Responses to Kinase Inhibitors."
+  ],
+  "authorString": [
+    "Vijay S, Gujral TS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vijay S"
+          ],
+          "firstName": [
+            "Siddharth"
+          ],
+          "lastName": [
+            "Vijay"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gujral TS"
+          ],
+          "firstName": [
+            "Taranjit S"
+          ],
+          "lastName": [
+            "Gujral"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA, USA; Department of Pharmacology, University of Washington, Seattle, WA, USA. Electronic address: tgujral@fredhutch.org."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "2951965"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "iScience"
+          ],
+          "ISOAbbreviation": [
+            "iScience"
+          ],
+          "medlineAbbreviation": [
+            "iScience"
+          ],
+          "NLMid": [
+            "101724038"
+          ],
+          "ISSN": [
+            "2589-0042"
+          ],
+          "ESSN": [
+            "2589-0042"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "101129"
+  ],
+  "abstractText": [
+    "Protein kinase inhibitors are one of the most successful targeted therapies to date. Despite this progress, additional kinase inhibitors are needed to expand the target space as well as overcome drug resistance that has emerged in clinical setting. Here, we developed KiDNN (Kinase inhibitor prediction using Deep Neural Networks). KiDNN utilizes non-linear, multilayer feedforward network that mimics complex and dynamic kinase-driven signaling pathways. We used KiDNN to predict the effect of ∼200 kinase inhibitors on migration of breast and liver cancer cells. We show that the prediction accuracy of KiDNN outperformed other prediction tools based on linear models. We validated that an inhibitor of tyrosine kinase receptors, and an inhibitor of Src family kinases, decreased migration of triple-negative breast cancer cells, consistent with the role of these kinases in driving motility. Overall, we show that non-linear, DNN-based models provide a powerful approach to in silico screen hundreds of kinase inhibitors."
+  ],
+  "affiliation": [
+    "Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K22 CA201229"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 CA015704"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Neural networks",
+        "Bioinformatics",
+        "Computational Bioinformatics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.isci.2020.101129"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7235637"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7235637?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.isci.2020.101129"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-21"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-24"
+  ],
+  "dateOfRevision": [
+    "2020-05-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-01"
+  ],
+  "firstPublicationDate": [
+    "2020-05-01"
+  ]
+}

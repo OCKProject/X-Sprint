@@ -1,0 +1,389 @@
+{
+  "id": [
+    "31910058"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31910058"
+  ],
+  "pmcid": [
+    "PMC6961680"
+  ],
+  "doi": [
+    "10.1080/19336918.2019.1710015"
+  ],
+  "title": [
+    "Effect arylamine N-acetyltransferase 1 on morphology, adhesion, migration, and invasion of MDA-MB-231 cells: role of matrix metalloproteinases and integrin αV."
+  ],
+  "authorString": [
+    "Li P, Butcher NJ, Minchin RF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li P"
+          ],
+          "firstName": [
+            "Pengcheng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2169-3769",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, University of Queensland, St Lucia, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Butcher NJ"
+          ],
+          "firstName": [
+            "Neville J"
+          ],
+          "lastName": [
+            "Butcher"
+          ],
+          "initials": [
+            "NJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0709-5589",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, University of Queensland, St Lucia, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Minchin RF"
+          ],
+          "firstName": [
+            "Rodney F"
+          ],
+          "lastName": [
+            "Minchin"
+          ],
+          "initials": [
+            "RF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3178-4835",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, University of Queensland, St Lucia, Australia."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2169-3769",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0709-5589",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3178-4835",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2899063"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell adhesion & migration"
+          ],
+          "ISOAbbreviation": [
+            "Cell Adh Migr"
+          ],
+          "medlineAbbreviation": [
+            "Cell Adh Migr"
+          ],
+          "NLMid": [
+            "101469464"
+          ],
+          "ISSN": [
+            "1933-6918"
+          ],
+          "ESSN": [
+            "1933-6926"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-11"
+  ],
+  "abstractText": [
+    "Reducted arylamine N-acetyltransferase (NAT1) in breast cancers is associated with poor patient survival. NAT1 has also been associated with changes in cancer cell survival and invasion both in vitro and in vivo. Here, we report the effects of NAT1 in cancer cell invasion by addressing its role in adherence, migration, and invasion in vitro. The NAT1 gene was deleted in MDA-MB-231, HT-29 and HeLa cells using CRISPR/Cas9 gene editing. Loss of NAT1 increased adherence to collagen in all three cell-lines but migration was unaffected. NAT1 deletion decreased invasion and induced changes to cell morphology. These effects were independent of matrix metalloproteinases but were related to integrin ITGαV expression. The data suggest NAT1 is important in adhesion and invasion through integrin expression."
+  ],
+  "affiliation": [
+    "School of Biomedical Sciences, University of Queensland, St Lucia, Australia."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Adherence",
+        "Invasion",
+        "Nat1",
+        "Arylamine",
+        "Integrin. Mmp9"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336918.2019.1710015"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6961680"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6961680?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336918.2019.1710015"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-08"
+  ],
+  "firstIndexDate": [
+    "2020-01-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-04"
+  ],
+  "dateOfRevision": [
+    "2020-01-29"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

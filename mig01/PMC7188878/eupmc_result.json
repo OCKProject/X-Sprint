@@ -1,0 +1,539 @@
+{
+  "id": [
+    "32346063"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32346063"
+  ],
+  "pmcid": [
+    "PMC7188878"
+  ],
+  "doi": [
+    "10.1038/s41598-020-64043-y"
+  ],
+  "title": [
+    "Revealing the air pollution burden associated with internal Migration in Peru."
+  ],
+  "authorString": [
+    "Carrasco-Escobar G, Schwarz L, Miranda JJ, Benmarhnia T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carrasco-Escobar G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Carrasco-Escobar"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6945-0419",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Health Innovation Lab, Institute of Tropical Medicine \"Alexander von Humboldt\", Universidad Peruana Cayetano Heredia, Lima, Peru. gabriel.carrasco@upch.pe.",
+                "Division of Infectious Diseases, Department of Medicine, University of California, San Diego, CA, USA. gabriel.carrasco@upch.pe."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schwarz L"
+          ],
+          "firstName": [
+            "Lara"
+          ],
+          "lastName": [
+            "Schwarz"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Family Medicine and Public Health, University of California, San Diego, CA, USA.",
+                "Scripps Institution of Oceanography, University of California, San Diego, CA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miranda JJ"
+          ],
+          "firstName": [
+            "J Jaime"
+          ],
+          "lastName": [
+            "Miranda"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4738-5468",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "CRONICAS Centre of Excellence in Chronic Diseases, Universidad Peruana Cayetano Heredia, Lima, Peru.",
+                "School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Benmarhnia T"
+          ],
+          "firstName": [
+            "Tarik"
+          ],
+          "lastName": [
+            "Benmarhnia"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Family Medicine and Public Health, University of California, San Diego, CA, USA.",
+                "Scripps Institution of Oceanography, University of California, San Diego, CA, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6945-0419",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4738-5468",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2931281"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "7147"
+  ],
+  "abstractText": [
+    "This study aims to quantify changes in outdoor (ambient) air pollution exposure from different migration patterns within Peru and quantify its effect on premature mortality. Data on ambient fine particulate matter (PM2.5) was obtained from the National Aeronautics and Space Administration (NASA). Census data was used to calculate rates of within-country migration at the district level. We calculated differences in PM2.5 exposure between \"current\" (2016-2017) and \"origin\" (2012) districts for each migration patterns. Using an exposure-response relationship for PM2.5 extracted from a meta-analysis, and mortality rates from the Peruvian Ministry of Health, we quantified premature mortality attributable to each migration pattern. Changes in outdoor PM2.5 exposure were observed between 2012 and 2016 with highest levels of PM2.5 in the Department of Lima. A strong spatial autocorrelation of outdoor PM2.5 values (Moran's I = 0.847, p-value=0.001) was observed. In Greater Lima, rural-to-urban and urban-to-urban migrants experienced 10-fold increases in outdoor PM2.5 exposure in comparison with non-migrants. Changes in outdoor PM2.5 exposure due to migration drove 137.1 (95%CI: 93.2, 179.4) premature deaths related to air pollution, with rural-urban producing the highest risk of mortality from exposure to higher levels of ambient air pollution. Our results demonstrate that the rural-urban and urban-urban migrant groups have higher rates of air pollution-related deaths."
+  ],
+  "affiliation": [
+    "Health Innovation Lab, Institute of Tropical Medicine \"Alexander von Humboldt\", Universidad Peruana Cayetano Heredia, Lima, Peru. gabriel.carrasco@upch.pe."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "D71 TW010877"
+          ],
+          "agency": [
+            "FIC NIH HHS"
+          ],
+          "acronym": [
+            "TW"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268200900033C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UM1 HL134590"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL114180"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U19 MH098780"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "160366"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "D43 TW007120"
+          ],
+          "agency": [
+            "FIC NIH HHS"
+          ],
+          "acronym": [
+            "TW"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P20 CA217231"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 TW009982"
+          ],
+          "agency": [
+            "FIC NIH HHS"
+          ],
+          "acronym": [
+            "TW"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-64043-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7188878"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7188878?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-64043-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-30"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-06"
+  ],
+  "dateOfRevision": [
+    "2020-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-28"
+  ],
+  "firstPublicationDate": [
+    "2020-04-28"
+  ]
+}

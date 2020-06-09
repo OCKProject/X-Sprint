@@ -1,0 +1,448 @@
+{
+  "id": [
+    "32308539"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32308539"
+  ],
+  "pmcid": [
+    "PMC7163358"
+  ],
+  "doi": [
+    "10.7150/ijms.42840"
+  ],
+  "title": [
+    "Electric field down-regulates CD9 to promote keratinocytes migration through AMPK pathway."
+  ],
+  "authorString": [
+    "Ji R, Teng M, Zhang Z, Wang W, Zhang Q, Lv Y, Zhang J, Jiang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ji R"
+          ],
+          "firstName": [
+            "Ran"
+          ],
+          "lastName": [
+            "Ji"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Burn and Plastic Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Teng M"
+          ],
+          "firstName": [
+            "Miao"
+          ],
+          "lastName": [
+            "Teng"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Burn and Plastic Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Ze"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Burn Research, State Key Laboratory of Trauma, Burns and Combined Injury, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing 400038, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Wenping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Burn and Plastic Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Burn Research, State Key Laboratory of Trauma, Burns and Combined Injury, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing 400038, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lv Y"
+          ],
+          "firstName": [
+            "Yanling"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Burn Research, State Key Laboratory of Trauma, Burns and Combined Injury, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing 400038, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiaping"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Plastic Surgery, State Key Laboratory of Trauma, Burn and Combined Injury, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing 400038, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang X"
+          ],
+          "firstName": [
+            "Xupin"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Plastic Surgery, State Key Laboratory of Trauma, Burn and Combined Injury, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing 400038, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2944005"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of medical sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Med Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Med Sci"
+          ],
+          "NLMid": [
+            "101213954"
+          ],
+          "ISSN": [
+            "1449-1907"
+          ],
+          "ESSN": [
+            "1449-1907"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "865-873"
+  ],
+  "abstractText": [
+    "Endogenous electric field (EF)-directed keratinocytes migration is known to play a key role in the wound re-epithelialization process. Although many molecules and signaling pathways are reported important for directional keratinocytes migration under EF, the underlying mechanism remains unclear. Our previous research found that CD9, a trans-membrane protein, is involved in wound re-epithelialization and CD9 downregulation contributes to keratinocytes migration. In this study, we observed the effect of EF on CD9 expression and keratinocytes migration. The keratinocytes migrated directionally toward the cathode and CD9 expression was down-regulated under EF (200mV/mm). In addition, CD9 overexpression reversed EF-induced migratory speed and the electrotactic response of keratinocytes. Also, we found that EF reduced AMP-activated protein kinase (AMPK) activity. Furthermore, AICAR, an AMPK activator, increased CD9 expression under EF, while compound C, an AMPK inhibitor, decreased CD9 expression in keratinocytes. Our results demonstrate that EF regulates CD9 expression and keratinocytes directional migration, in which AMPK pathway plays an important role."
+  ],
+  "affiliation": [
+    "Department of Burn and Plastic Surgery, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electric field",
+        "Wound healing",
+        "cell migration",
+        "Ampk",
+        "Cd9"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/ijms.42840"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7163358"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7163358?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/ijms.42840"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-21"
+  ],
+  "firstIndexDate": [
+    "2020-04-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-19"
+  ],
+  "dateOfRevision": [
+    "2020-04-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-15"
+  ],
+  "firstPublicationDate": [
+    "2020-03-15"
+  ]
+}

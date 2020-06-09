@@ -1,0 +1,700 @@
+{
+  "id": [
+    "27926925"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27926925"
+  ],
+  "pmcid": [
+    "PMC5142774"
+  ],
+  "doi": [
+    "10.1371/journal.pntd.0005194"
+  ],
+  "title": [
+    "Dengue in the Middle East and North Africa: A Systematic Review."
+  ],
+  "authorString": [
+    "Humphrey JM, Cleton NB, Reusken CB, Glesby MJ, Koopmans MP, Abu-Raddad LJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Humphrey JM"
+          ],
+          "firstName": [
+            "John M"
+          ],
+          "lastName": [
+            "Humphrey"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Infectious Diseases, Department of Medicine, Weill Cornell Medical College, New York, New York, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cleton NB"
+          ],
+          "firstName": [
+            "Natalie B"
+          ],
+          "lastName": [
+            "Cleton"
+          ],
+          "initials": [
+            "NB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Erasmus Medical Centre, Rotterdam, The Netherlands.",
+                "National Institute for Public Health and Environment (RIVM), Bilthoven, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reusken CB"
+          ],
+          "firstName": [
+            "Chantal B E M"
+          ],
+          "lastName": [
+            "Reusken"
+          ],
+          "initials": [
+            "CB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Erasmus Medical Centre, Rotterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Glesby MJ"
+          ],
+          "firstName": [
+            "Marshall J"
+          ],
+          "lastName": [
+            "Glesby"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Infectious Diseases, Department of Medicine, Weill Cornell Medical College, New York, New York, United States of America.",
+                "Department of Healthcare Policy and Research, Weill Cornell Medical College, Cornell University, New York, New York, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Koopmans MP"
+          ],
+          "firstName": [
+            "Marion P G"
+          ],
+          "lastName": [
+            "Koopmans"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5204-2312",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Erasmus Medical Centre, Rotterdam, The Netherlands.",
+                "National Institute for Public Health and Environment (RIVM), Bilthoven, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abu-Raddad LJ"
+          ],
+          "firstName": [
+            "Laith J"
+          ],
+          "lastName": [
+            "Abu-Raddad"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Healthcare Policy and Research, Weill Cornell Medical College, Cornell University, New York, New York, United States of America.",
+                "Infectious Disease Epidemiology Group, Weill Cornell Medical College in Qatar, Cornell University, Qatar Foundation, Education City, Doha, Qatar.",
+                "College of Public Health, Hamad bin Khalifa University, Qatar Foundation, Education City, Doha, Qatar."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5204-2312",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2498410"
+      ],
+      "dateOfPublication": [
+        "2016 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS neglected tropical diseases"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "medlineAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "NLMid": [
+            "101291488"
+          ],
+          "ISSN": [
+            "1935-2727"
+          ],
+          "ESSN": [
+            "1935-2735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0005194"
+  ],
+  "abstractText": [
+    "BACKGROUND:Dengue virus (DENV) infection is widespread and its disease burden has increased in past decades. However, little is known about the epidemiology of dengue in the Middle East and North Africa (MENA). METHODOLOGY / PRINCIPAL FINDINGS:Following Cochrane Collaboration guidelines and reporting our findings following PRISMA guidelines, we systematically reviewed available records across MENA describing dengue occurrence in humans (prevalence studies, incidence studies, and outbreak reports), occurrence of suitable vectors (Aedes aegypti and Aedes albopictus), and DENV vector infection rates. We identified 105 human prevalence measures in 13 of 24 MENA countries; 81 outbreaks reported from 9 countries from 1941-2015; and reports of Ae. aegypti and/or Ae. albopictus occurrence in 15 countries. The majority of seroprevalence studies were reported from the Red Sea region and Pakistan, with multiple studies indicating >20% DENV seroprevalence in general populations (median 25%, range 0-62%) in these subregions. Fifty percent of these studies were conducted prior to 1990. Multiple studies utilized assays susceptible to serologic cross-reactions and 5% of seroprevalence studies utilized viral neutralization testing. There was considerable heterogeneity in study design and outbreak reporting, as well as variability in subregional study coverage, study populations, and laboratory methods used for diagnosis. CONCLUSIONS / SIGNIFICANCE:DENV seroprevalence in the MENA is high among some populations in the Red Sea region and Pakistan, while recent outbreaks in these subregions suggest increasing incidence of DENV which may be driven by a variety of ecologic and social factors. However, there is insufficient study coverage to draw conclusions about Aedes or DENV presence in multiple MENA countries. These findings illustrate the epidemiology of DENV in the MENA while revealing priorities for DENV surveillance and Aedes control."
+  ],
+  "affiliation": [
+    "Division of Infectious Diseases, Department of Medicine, Weill Cornell Medical College, New York, New York, United States of America."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Systematic Review",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 AI007613"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aedes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dengue Virus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dengue"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seroepidemiologic Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa, Northern"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antibodies, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0005194"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5142774"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5142774?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0005194"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-06-09"
+  ],
+  "dateOfCreation": [
+    "2016-12-08"
+  ],
+  "firstIndexDate": [
+    "2016-12-08"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-06"
+  ],
+  "dateOfRevision": [
+    "2019-02-02"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-07"
+  ],
+  "firstPublicationDate": [
+    "2016-12-07"
+  ]
+}

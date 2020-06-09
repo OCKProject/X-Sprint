@@ -1,0 +1,961 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Evol Appl</journal-id><journal-id journal-id-type="iso-abbrev">Evol Appl</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1752-4571</journal-id><journal-id journal-id-type="publisher-id">EVA</journal-id><journal-title-group><journal-title>Evolutionary Applications</journal-title></journal-title-group><issn pub-type="epub">1752-4571</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6976966</article-id><article-id pub-id-type="doi">10.1111/eva.12877</article-id><article-id pub-id-type="publisher-id">EVA12877</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Northern European <italic>Salmo trutta</italic> (L.) populations are genetically divergent across geographical regions and environmental gradients</article-title><alt-title alt-title-type="left-running-head">BEKKEVOLD et al.</alt-title></title-group><contrib-group><contrib id="eva12877-cr-0001" contrib-type="author" corresp="yes"><name><surname>Bekkevold</surname><given-names>Dorte</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5297-032X</contrib-id><xref ref-type="aff" rid="eva12877-aff-0001">
+<sup>1</sup>
+</xref><address><email>db@aqua.dtu.dk</email></address></contrib><contrib id="eva12877-cr-0002" contrib-type="author"><name><surname>H&#x000f6;jesj&#x000f6;</surname><given-names>Johan</given-names></name><xref ref-type="aff" rid="eva12877-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="eva12877-cr-0003" contrib-type="author"><name><surname>Nielsen</surname><given-names>Einar Eg</given-names></name><xref ref-type="aff" rid="eva12877-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="eva12877-cr-0004" contrib-type="author"><name><surname>Aldv&#x000e9;n</surname><given-names>David</given-names></name><xref ref-type="aff" rid="eva12877-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="eva12877-cr-0005" contrib-type="author"><name><surname>Als</surname><given-names>Thomas Damm</given-names></name><xref ref-type="aff" rid="eva12877-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="eva12877-cr-0006" contrib-type="author"><name><surname>Sodeland</surname><given-names>Marte</given-names></name><xref ref-type="aff" rid="eva12877-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="eva12877-cr-0007" contrib-type="author"><name><surname>Kent</surname><given-names>Matthew Peter</given-names></name><xref ref-type="aff" rid="eva12877-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="eva12877-cr-0008" contrib-type="author"><name><surname>Lien</surname><given-names>Sigbj&#x000f8;rn</given-names></name><xref ref-type="aff" rid="eva12877-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="eva12877-cr-0009" contrib-type="author"><name><surname>Hansen</surname><given-names>Michael M&#x000f8;ller</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5372-4828</contrib-id><xref ref-type="aff" rid="eva12877-aff-0007">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="eva12877-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">National Institute of Aquatic Resources</named-content>
+<institution>Technical University of Denmark</institution>
+<city>Silkeborg</city>
+<country country="DK">Denmark</country>
+</aff><aff id="eva12877-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Biological &#x00026; Environmental Sciences</named-content>
+<institution>University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="eva12877-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Generations R&#x00026;D</named-content>
+<institution>Vattenfall AB</institution>
+<city>&#x000c4;lvkarleby</city>
+<country country="SE">Sweden</country>
+</aff><aff id="eva12877-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Biomedicine</named-content>
+<institution>Aarhus University</institution>
+<city>Aarhus</city>
+<country country="DK">Denmark</country>
+</aff><aff id="eva12877-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Natural Sciences</named-content>
+<institution>University of Agder</institution>
+<city>Kristiansand</city>
+<country country="NO">Norway</country>
+</aff><aff id="eva12877-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Faculty of Biosciences</named-content>
+<institution>Norwegian University of Life Sciences</institution>
+<city>&#x000c5;s</city>
+<country country="NO">Norway</country>
+</aff><aff id="eva12877-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Bioscience &#x02013; Genetics, Ecology and Evolution</named-content>
+<institution>Aarhus University</institution>
+<city>Aarhus</city>
+<country country="DK">Denmark</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Dorte Bekkevold, National Institute of Aquatic Resources, Technical University of Denmark, Silkeborg, Denmark.<break/>
+Email: <email>db@aqua.dtu.dk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2020</year></pub-date><volume>13</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/eva.v13.2</issue-id><fpage>400</fpage><lpage>416</lpage><history><date date-type="received"><day>07</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>06</day><month>9</month><year>2019</year></date><date date-type="accepted"><day>22</day><month>9</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Evolutionary Applications</italic> published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:EVA-13-400.pdf"/><abstract id="eva12877-abs-0001"><title>Abstract</title><p>The salmonid fish Brown trout is iconic as a model for the application of conservation genetics to understand and manage local interspecific variation. However, there is still scant information about relationships between local and large&#x02010;scale population structure, and to what extent geographical and environmental variables are associated with barriers to gene flow. We used information from 3,782 mapped SNPs developed for the present study and conducted outlier tests and gene&#x02013;environment association (GEA) analyses in order to examine drivers of population structure. Analyses comprised &#x0003e;2,600 fish from 72 riverine populations spanning a central part of the species' distribution in northern Europe. We report hitherto unidentified genetic breaks in population structure, indicating strong barriers to gene flow. GEA loci were widely spread across genomic regions and showed correlations with climatic, abiotic and geographical parameters. In some cases, individual loci showed consistent GEA across the geographical regions Britain, Europe and Scandinavia. In other cases, correlations were observed only within a sub&#x02010;set of regions, suggesting that locus&#x02010;specific variation was associated with local processes. A paired&#x02010;population sampling design allowed us to evaluate sampling effects on detection of outlier loci and GEA. Two widely applied methods for outlier detection (<italic>pcadapt</italic> and <italic>bayescan</italic>) showed low overlap in loci identified as statistical outliers across sub&#x02010;sets of data. Two GEA analytical approaches (LFMM and RDA) showed good correspondence concerning loci associated with specific variables, but LFMM identified five times more statistically significant associations than RDA. Our results emphasize the importance of carefully considering the statistical methods applied for the hypotheses being tested in outlier analysis. Sampling design may have lower impact on results if the objective is to identify GEA loci and their population distribution. Our study provides new insights into trout populations, and results have direct management implications in serving as a tool for identification of conservation units.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="eva12877-kwd-0001">brown trout</kwd><kwd id="eva12877-kwd-0002">genotype&#x02010;environment association</kwd><kwd id="eva12877-kwd-0003">local adaptation</kwd><kwd id="eva12877-kwd-0004">outlier test</kwd><kwd id="eva12877-kwd-0005">salmonid</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Svenska Forskningsr&#x000e5;det Formas </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001862</institution-id></institution-wrap></funding-source><award-id>2010&#x02010;01710</award-id></award-group><award-group id="funding-0002"><funding-source>Danish Rod and Net Fishing License Funds</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>European Regional Development Fund Interreg IVB </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100008530</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source>North Sea Region Programme</funding-source></award-group><award-group id="funding-0005"><funding-source>&#x000d6;resund&#x02010;Kattegat&#x02010;Skagerrak Region Programme</funding-source></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>EU FP7 </institution><institution-id institution-id-type="open-funder-registry">10.13039/100011102</institution-id></institution-wrap></funding-source><award-id>311920</award-id></award-group><award-group id="funding-0007"><funding-source><institution-wrap><institution>Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001862</institution-id></institution-wrap></funding-source><award-id>2010&#x02010;01710</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="17"/><word-count count="13040"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:23.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="eva12877-cit-1001">
+<string-name>
+<surname>Bekkevold</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;jesj&#x000f6;</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>
+<given-names>EE</given-names>
+</string-name>, et al. <article-title>Northern European <italic>Salmo trutta</italic> (L.) populations are genetically divergent across geographical regions and environmental gradients</article-title>. <source xml:lang="en">Evol Appl</source>. <year>2020</year>;<volume>13</volume>:<fpage>400</fpage>&#x02013;<lpage>416</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12877</pub-id>
+</mixed-citation>
+</p></notes></front><body id="eva12877-body-0001"><sec id="eva12877-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Improving our understanding of the genetic basis of local adaptation is a main aim in evolutionary biology and is also of significance in applied research because of its relevance to the conservation of genetic resources, management of exploited populations and for predicting impacts of climate change (Allendorf, Hohenlohe, &#x00026; Luikart, <xref rid="eva12877-bib-0004" ref-type="ref">2010</xref>; Lehnert et al., <xref rid="eva12877-bib-0054" ref-type="ref">2019</xref>). Traits that confer local adaptation are typically polygenic quantitative traits, and identification of the loci that determine variation in such traits is usually challenging (Savolainen, Lascoux, &#x00026; Meril&#x000e4;, <xref rid="eva12877-bib-0081" ref-type="ref">2015</xref>). Testing hypotheses of local selective sweeps and their association with environmental drivers by means of scanning genomic profiles across diverged populations provides novel insights but has also been criticized, as a range of factors may obscure or lead to false&#x02010;positive inference about adaptive processes and the ecological mechanisms that structure populations (Ahrens et al., <xref rid="eva12877-bib-0002" ref-type="ref">2018</xref>). Demographic processes may for instance obscure inference about selection and the role of the environment in driving spatial patterns of adaptation (de Villemereuil, Frichot, Bazin, Francois, &#x00026; Gaggiotti, <xref rid="eva12877-bib-0022" ref-type="ref">2014</xref>). There is a general call for evaluation of statistical methods (Vatsiou, Bazin, &#x00026; Gaggiotti, <xref rid="eva12877-bib-0085" ref-type="ref">2016</xref>), particularly for populations connected by gene flow (Bradburd, Coop, &#x00026; Ralph, <xref rid="eva12877-bib-0013" ref-type="ref">2018</xref>; Luu, Bazin, &#x00026; Blum, <xref rid="eva12877-bib-0062" ref-type="ref">2017</xref>). It has been suggested that in analyses of gene&#x02013;environment associations (GEA), sampling multiple populations exposed to similar environmental conditions is a means to increase detection power of true positives, especially for associations with weakly selected loci (Lotterhos &#x00026; Whitlock, <xref rid="eva12877-bib-0061" ref-type="ref">2015</xref>). However, studies applying such sampling design are still rare (Roschanski et al., <xref rid="eva12877-bib-0078" ref-type="ref">2016</xref>) and tend to be restricted to local geographical scales (Ahrens et al., <xref rid="eva12877-bib-0002" ref-type="ref">2018</xref>).</p><p>Brown trout, <italic>Salmo trutta</italic> (in its anadromous form known as sea trout), is an ecologically and socioeconomically important salmonid fish species that allows for testing sampling effects on detection of local selective sweeps. Owing to its extreme ecological adaptability, it shows a widespread distribution throughout freshwater systems in most north&#x02010;east Atlantic and western Asian regions (Klemetsen et al., <xref rid="eva12877-bib-0050" ref-type="ref">2003</xref>). The species is considered as an indicator of habitat quality in its native range (Imhof, Fitzgibbon, &#x00026; Annable, <xref rid="eva12877-bib-0045" ref-type="ref">1994</xref>), and there are concerns about its conservation status under a range of anthropogenic stressors and climate change (Ayll&#x000f3;n et al., <xref rid="eva12877-bib-0008" ref-type="ref">2016</xref>). Since the first paper by Allendorf, Ryman, Stennek, and Stahl (<xref rid="eva12877-bib-0005" ref-type="ref">1976</xref>), four decades of genetic marker&#x02010;based studies have identified genetically differentiated local populations of brown trout, sometimes even at small (&#x0003c;1&#x000a0;km) spatial scales (Ferguson, <xref rid="eva12877-bib-0026" ref-type="ref">1989</xref>; see Andersson et al., <xref rid="eva12877-bib-0006" ref-type="ref">2017</xref> for a recent example). Although sea trout is renowned for natal homing, straying between rivers maintains gene flow and reduces the impact of genetic drift on population demographics (Hansen, <xref rid="eva12877-bib-0038" ref-type="ref">2002</xref>; Hansen, Fraser, Meier, &#x00026; Mensberg, <xref rid="eva12877-bib-0039" ref-type="ref">2009</xref>). A suite of studies has suggested that local adaptation plays a role in population structuring and dynamics (see Meier, Hansen, Bekkevold, Skaala, &#x00026; Mensberg, <xref rid="eva12877-bib-0068" ref-type="ref">2011</xref> and references herein). As a poikilotherm, temperature directly affects the rate of biological processes and trout is expected to display evolutionary adaptations to reach homoeostasis. Coupled with an anadromous life cycle, which for the iteroparous brown trout may entail several repeated movements between fresh, brackish and marine waters, trout is required to both adapt to local conditions while still retaining the capability for coping with strongly varying environments. Altogether, these characteristics render the species an optimal model for testing ecological and evolutionary parameters, including local adaptation and its association with specific environments (Jensen et al., <xref rid="eva12877-bib-0047" ref-type="ref">2008</xref>).</p><p>In spite of brown trout being among the best studied fish species (Klemetsen et al., <xref rid="eva12877-bib-0050" ref-type="ref">2003</xref>), genomic resources have until recently been scarce compared to other salmonids, such as Atlantic salmon (<italic>S.&#x000a0;salar</italic> L.) and rainbow trout (<italic>Oncorhynchus mykiss</italic> W.), which has hampered the study of GEA. Genomic resources for brown trout are developing rapidly. Nonetheless, genome&#x02010;wide SNP analyses have hitherto not been applied to examine broadscale population genetic relationships and associations between genomic variation and evolutionary drivers across spatial scales. Thus, to date there has been no assessment of genome&#x02010;wide population structure beyond geographically restricted populations, limiting our understanding of the processes determining large&#x02010;scale population connectivity. Evidence for local adaptation is commonly based on comparisons of populations at local scales (Andersson et al., <xref rid="eva12877-bib-0006" ref-type="ref">2017</xref>; Lemopoulos, Uusi&#x02010;Heikkil&#x000e4;, Huusko, Vasem&#x000e4;gi, &#x00026; Vainikki, <xref rid="eva12877-bib-0056" ref-type="ref">2018</xref>; Meier et al., <xref rid="eva12877-bib-0068" ref-type="ref">2011</xref>), while assessments rarely concomitantly address small&#x02010; and large&#x02010;scale patterns. Lack of knowledge about ecological drivers of population processes is especially problematic given that many trout populations are considered under threat due to disturbances acting on both large scale, for example climate change (Jacquin et al., <xref rid="eva12877-bib-0046" ref-type="ref">2017</xref>; Pujolar, Vincenzi, Zane, &#x00026; Crivelli, <xref rid="eva12877-bib-0076" ref-type="ref">2016</xref>; Vera, Martinez, &#x00026; Bouza, <xref rid="eva12877-bib-0086" ref-type="ref">2018</xref>), and local scale. For example, anthropogenic habitat destruction, creation of impassable dams preventing gene flow (Hansen, Limborg, Ferchaud, &#x00026; Pujolar, <xref rid="eva12877-bib-0041" ref-type="ref">2014</xref>) and genetic introgression from widespread stocking with non&#x02010;native strains (Gil, Labonne, &#x00026; Caudron, <xref rid="eva12877-bib-0032" ref-type="ref">2016</xref>; Hansen et al., <xref rid="eva12877-bib-0039" ref-type="ref">2009</xref>) is expected to affect a wide number of populations.</p><p>In order to investigate population differentiation and its potential environmental drivers in brown trout using genome&#x02010;wide analysis, we here developed and applied a SNP array encompassing ca. 3.8K mapped SNPs. In GEA analyses, populations showing hierarchically structured levels of gene flow (as in brown trout) can lead to obscured or false&#x02010;positive inference about adaptive processes and the ecological drivers of diversification (Ahrens et al., <xref rid="eva12877-bib-0002" ref-type="ref">2018</xref>; Bradburd et al., <xref rid="eva12877-bib-0013" ref-type="ref">2018</xref>; Forester, Lasky, Wagner, &#x00026; Urban, <xref rid="eva12877-bib-0029" ref-type="ref">2018</xref>; Luu et al., <xref rid="eva12877-bib-0062" ref-type="ref">2017</xref>). Following Lotterhos and Whitlock (<xref rid="eva12877-bib-0061" ref-type="ref">2015</xref>), we therefore applied a paired&#x02010;population sampling approach in order to analyse 72 <italic>S.&#x000a0;trutta</italic> populations, spanning a central part of the distribution of anadromous populations in Europe in order to first, describe regional scale population structure, and second, determine whether population divergence was associated with GEA and selective sweeps. Concomitantly, our study was designed to evaluate effects of sampling design and analytical approach on detection of outlier loci and GEA in a hierarchical population scenario. The aim was to contribute new insights on environmental selection pressures in general and in anadromous fish species in particular, and at the same time add to the knowledge of population structure of <italic>S.&#x000a0;trutta</italic>, a key indicator species for the health and conservation of rivers and streams.</p></sec><sec sec-type="materials-and-methods" id="eva12877-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="eva12877-sec-0003"><label>2.1</label><title>Population samples</title><p>A SNP development panel was built using genomic DNA from 2 to 3 fish from each of seven ascertainment populations (Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>). Populations were spread out geographically so as to span the region from the British Isles in west to the Baltic Sea in east (&#x0003e;1,500&#x000a0;km), and from Norway in north to the Wadden Sea in the southern North Sea (&#x0003e;1,000&#x000a0;km). All ascertainment samples represented the species' Atlantic clade (Bernatchez, <xref rid="eva12877-bib-0011" ref-type="ref">2001</xref>) and covered the geographical area represented by population collections in the present study.</p><table-wrap id="eva12877-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Collections of <italic>Salmo trutta</italic> indicating country, geographical region and river, where number refers to map location in Figure <xref rid="eva12877-fig-0001" ref-type="fig">1</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Country</th><th align="left" valign="top" rowspan="1" colspan="1">Region (Sea)</th><th align="left" valign="top" rowspan="1" colspan="1">Rivers (number in Figure <xref rid="eva12877-fig-0001" ref-type="fig">1</xref>)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Norway</td><td align="left" rowspan="1" colspan="1">W Scandinavian peninsula (Hardangerfjord, North Sea)</td><td align="left" rowspan="1" colspan="1">1. Granvin<xref ref-type="fn" rid="eva12877-note-0002">a</xref>, 2. Guddal</td></tr><tr><td align="left" rowspan="3" colspan="1">United Kingdom</td><td align="left" rowspan="1" colspan="1">Britain, northeast (North Sea)</td><td align="left" rowspan="1" colspan="1">3. Spey, 4. Deveron, 5. Eyewater, 6. Tweed, 7. Aln, 8. Coquet, 9. Tyne, 10. Wear, 11. Tees, 12. Esk, 13. Ure</td></tr><tr><td align="left" rowspan="1" colspan="1">Britain, southeast (North Sea)</td><td align="left" rowspan="1" colspan="1">14. Stiffkey, 15. Glaven, 16. Nar</td></tr><tr><td align="left" rowspan="1" colspan="1">Britain, Cornwall (English Channel)</td><td align="left" rowspan="1" colspan="1">Tamar<xref ref-type="fn" rid="eva12877-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Germany</td><td align="left" rowspan="1" colspan="1">Continental Europe, Jutland Peninsula, Wadden Sea (North Sea)</td><td align="left" rowspan="1" colspan="1">17. Weser, 18. Elbe</td></tr><tr><td align="left" rowspan="3" colspan="1">Denmark</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">19. Ribe<xref ref-type="fn" rid="eva12877-note-0002">a</xref>, <xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 20. Konge&#x000e5;<xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 21. Sneum<xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 22. <underline underline-style="single">Varde</underline>
+<xref ref-type="fn" rid="eva12877-note-0003">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Continental Europe, Jutland Peninsula (North Sea)</td><td align="left" rowspan="1" colspan="1">23. <underline underline-style="single">Skjern</underline>
+<xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 24. Stor&#x000e5;<xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 25. Liver<xref ref-type="fn" rid="eva12877-note-0003">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Continental Europe, Jutland Peninsula (Limfjord, Kattegat)</td><td align="left" rowspan="1" colspan="1">26. <underline underline-style="single">Simested</underline>, 27. <underline underline-style="single">Jordbro</underline>, 28. <underline underline-style="single">Skals</underline>, 29. Karup<xref ref-type="fn" rid="eva12877-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Norway</td><td align="left" rowspan="1" colspan="1">E Scandinavian Peninsula (Skagerrak)</td><td align="left" rowspan="1" colspan="1">30. Sonsbeck</td></tr><tr><td align="left" rowspan="2" colspan="1">Sweden</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">31. Krokstrand, 32. Hogar/Stromme&#x000e5;, 33. Anr&#x000e5;s&#x000e4;lv, 34. B&#x000e4;rfendalsb&#x000e4;cken, 35. Bro&#x000e4;lv, 36. Taske&#x000e5;, 37. Karra&#x000e5;, 38. Bodel&#x000e5;, 39. Hen&#x000e5;n, 40. Bratteforsan, 41. Norums&#x000e5;n, 42. S&#x000e4;by&#x000e5;n, 43. Granneby&#x000e5;n, 44. S&#x000f6;r&#x000e5;n</td></tr><tr><td align="left" rowspan="1" colspan="1">E Scandinavian Peninsula (Kattegat)</td><td align="left" rowspan="1" colspan="1">45. Krogareb&#x000e4;cken, 46. Halleb&#x000e4;cken, 47. Himle&#x000e5;n, 48. &#x000c4;tran &#x00026; H&#x000f6;gvads&#x000e5;n, 49. Fylle&#x000e5;n</td></tr><tr><td align="left" rowspan="4" colspan="1">Denmark</td><td align="left" rowspan="1" colspan="1">Continental Europe, Jutland Peninsula (Kattegat)</td><td align="left" rowspan="1" colspan="1">50. Elling, 51. Villestrup &#x000e5;, 52. <underline underline-style="single">Lille&#x000e5;</underline>
+<xref ref-type="fn" rid="eva12877-note-0002">a</xref>, 53. Hevring, 54. Gren&#x000e5;, 55. Lake Hald, 56. Lake Moss&#x000f8;, 57. Giber &#x000e5;<xref ref-type="fn" rid="eva12877-note-0003">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Continental Europe, Jutland Peninsula (W Belt Sea)</td><td align="left" rowspan="1" colspan="1">58. Kolding, 59. Taps&#x000e5;, 60. Adsb&#x000f8;l</td></tr><tr><td align="left" rowspan="1" colspan="1">Continental Europe, Belt Sea Islands (Belt Sea)</td><td align="left" rowspan="1" colspan="1">61. Stokkeb&#x000e6;k<xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 62. <underline underline-style="single">Salt&#x000f8;</underline>
+<xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 63. Flads&#x000e5;<xref ref-type="fn" rid="eva12877-note-0003">b</xref>, 64. Mern, 65. Krob&#x000e6;k</td></tr><tr><td align="left" rowspan="1" colspan="1">Continental Europe, Bornholm Island (W Baltic Sea)</td><td align="left" rowspan="1" colspan="1">66. <underline underline-style="single">Tejn</underline>
+<xref ref-type="fn" rid="eva12877-note-0002">a</xref>, 67. L&#x000e6;s&#x000e5;</td></tr><tr><td align="left" rowspan="1" colspan="1">Estonia</td><td align="left" rowspan="1" colspan="1">Continental Europe, Gulf of Finland (E Baltic Sea)</td><td align="left" rowspan="1" colspan="1">Vainupea</td></tr><tr><td align="left" rowspan="1" colspan="1">France</td><td align="left" rowspan="1" colspan="1">Haute&#x02010;Savoie, Continental Europe, Mediterranean Sea</td><td align="left" rowspan="1" colspan="1">Rhone tributary Les Usses</td></tr><tr><td align="left" rowspan="1" colspan="1">Denmark</td><td align="left" rowspan="1" colspan="1">Domesticated hatchery strains</td><td align="left" rowspan="1" colspan="1">HAT1, HAT2</td></tr></tbody></table><table-wrap-foot id="eva12877-ntgp-0001"><title>Note</title><fn id="eva12877-note-0001"><p>Rivers with temporal replicates are underlined. Detailed sample information is given in Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S1</xref>.</p></fn><fn id="eva12877-note-0002"><label>a</label><p>Samples included in the SNP development ascertainment panel.</p></fn><fn id="eva12877-note-0003"><label>b</label><p>Populations exhibiting introgression from one or both partially domesticated hatchery strains.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>To describe population genomic patterns, trout were collected from 74 spawning locations in 72 rivers (on average 36 fish collected per river; Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>) draining into the North Sea, Skagerrak, Kattegat and the Western Baltic Sea (Figure <xref rid="eva12877-fig-0001" ref-type="fig">1</xref>). In analyses of GEA, sampling multiple populations exposed to similar environmental conditions represents a means to increase detection power of true positives, especially for associations including weakly selected loci (Lotterhos &#x00026; Whitlock, <xref rid="eva12877-bib-0061" ref-type="ref">2015</xref>). We therefore aimed to sample a minimum of two rivers from each geographical sub&#x02010;area. Sub&#x02010;areas were here defined as geographically proximate river systems expected to share environmental drivers. When individual rivers show some degree of demographic isolation, as is the assumption in a natal&#x02010;homing anadromous fish, the paired&#x02010;sampling approach thus represents a way to cross&#x02010;validate identified GEA loci. Sampling multiple rivers per sub&#x02010;area was not possible in all cases. Data therefore included four collections each representing only a single sub&#x02010;region. Eight locations were sampled twice, 5&#x02013;14&#x000a0;years apart, to examine temporal stability. Collections consisted of adipose fin clips from electrofished, anaesthetized adults caught on spawning sites, or of 0&#x02013;1&#x000a0;year juveniles, depending on availability (Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>; Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S1</xref>). The River &#x000c4;tran was represented by two collections, one from the main stem and one from its tributary H&#x000f6;gvads&#x000e5;n. For the River Weser, collections of 5&#x02013;9 fish from each of three neighbouring tributaries were combined. Sampling was aimed at natural populations with gene pools presumed to be relatively weakly affected by human&#x02010;mediated introgression from farmed or foreign populations. However, several of the Danish populations were previously stocked with two closely related hatchery strains, leading to admixture and introgression (Hansen et al., <xref rid="eva12877-bib-0039" ref-type="ref">2009</xref>). Samples from the stocked hatchery strains were therefore also included in analyses in order to identify potential impact of introgression (Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12877-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(a) <italic>Salmo trutta</italic> populations in the analysis (extant collections from France, Estonia and Cornwall are not shown on map) indicated by individual rivers' confluence with the sea, except for lake trout samples 55 and 56. Numbers refer to Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>. Symbol colours reflect genetic clustering, where RGB colour code is determined by the first three axes in the principal component analysis. (b) Discriminant analysis of principal components clustering of individual genotypes at <italic>k</italic>&#x000a0;=&#x000a0;10 for Discriminant functions 1 and 2, describing, respectively, 37% and 20% of the variance. Geographical areas corresponding to genotype clusters are indicated by symbol colour and text. Geographically distant collections are indicated by #. Estonia forms a separate cluster (black), whereas the collection from Cornwall clustered with SE British samples</p></caption><graphic id="nlm-graphic-1" xlink:href="EVA-13-400-g001"/></fig><p>To compare regional structuring with patterns at broader geographical scales, collections also included three geographically remote populations: the Estonian Vainupea River (draining into the Gulf of Finland in the eastern Baltic Sea), River Tamar in Cornwall, UK (draining into the western English Channel), and from les Usses River, draining into the River Rhone in the Haute&#x02010;Savoie in southern France. The latter representing the species' Mediterranean clade (Bernatchez, <xref rid="eva12877-bib-0011" ref-type="ref">2001</xref>). DNA from all samples was extracted from adipose fin clips using a commercial kit (E.Z.N.A.&#x02122; kit; Omega BioTek).</p></sec><sec id="eva12877-sec-0004"><label>2.2</label><title>SNP array development, genotyping and linkage analysis</title><p>A custom Illumina iSelect SNP array (with 6,000 SNPs) was developed by aligning reads in 16 male and female ascertainment samples against a draft genome assembly. Nextera sequencing libraries were prepared from genomic DNA and sequenced using a Illumina HiSeq 2000 to generate paired&#x02010;end reads (2&#x000a0;&#x000d7;&#x000a0;100&#x000a0;bp); between 5 and 13&#x000a0;Gb of sequence was generated for each individual (average 6.9&#x000a0;Gb, see Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S2</xref>). After filtering to remove adapter sequence, low&#x02010;quality sequence and any reads less than 60&#x000a0;bp, SOAPdenovo (Li et al., <xref rid="eva12877-bib-0059" ref-type="ref">2010</xref>) was used to generate a de novo assembly. Ignoring contigs &#x0003c;150&#x000a0;bp, the resulting fragmented assembly included 1,131,000 contigs (N50&#x000a0;=&#x000a0;2,281) and contained 1.4&#x000a0;Gb of sequence. The assembly was repeat masked using RepeatMasker software (<ext-link ext-link-type="uri" xlink:href="http://www.repeatmasker.org/">http://www.repeatmasker.org/</ext-link>) and a locally developed salmonid&#x02010;specific repeat library developed with the RepeatModeler software. Reads from the 16 individuals were aligned to the reference using BWA (Li &#x00026; Durbin, <xref rid="eva12877-bib-0057" ref-type="ref">2009</xref>); putative SNPs within each individual were identified using SAMtools (Li et al., <xref rid="eva12877-bib-0058" ref-type="ref">2009</xref>). Selection criteria required that heterozygous SNPs should be supported by minimum of two reads in two individuals for the minor allele, across all samples at least one individual should be homozygous with a minimum of four reads, and only bi&#x02010;allelic SNPs separated by &#x0003e;60bp to the nearest indel or SNP were considered. A list of 47,380 putative SNPs was initially reduced by considering factors such as read depth, proximity to repeats and Illumina's Assay Design Score. Subsequent filtering prioritized SNPs based on whether they mapped to full&#x02010;length cDNA sequences/contigs from Atlantic salmon (Lien et al., <xref rid="eva12877-bib-0060" ref-type="ref">2011</xref>) were distributed across larger (&#x0003e;7,750&#x000a0;bp) brown trout contigs or fell within specific genes of interest.</p><p>To order SNPs by linkage group (LG) and generate a linkage map, we used the 6K SNP array to genotype both the 2,606 population samples and family material consisting of 320 individuals applying the manufacturers' recommended protocol and by calling genotypes using GenomeStudio V2 (Illumina). Family material came from a study by Jensen et al. (<xref rid="eva12877-bib-0047" ref-type="ref">2008</xref>) and consisted of 10 F1 offspring from each of 30 full&#x02010; and half&#x02010;sib families based on a total of 10 females and 10 males from two Danish populations also sampled separately for the current study (Lille&#x000e5; and Karup). A modified version of the CRIMAP 2.4 software (Green, Falls, &#x00026; Crooks, <xref rid="eva12877-bib-0034" ref-type="ref">1990</xref>), including added utilities provided by Xuelu Liu and Michael Grosz (Monsanto, St. Louis, MO, USA), was used for the map construction. Initially, SNPs were assigned to LG based on pairwise linkages and the grouping algorithm implemented in the AUTOGROUP option of the programme. The analysis assigned 3,894 SNPs to 40 LGs which correspond to the expected karyotype of brown trout (Mart&#x000ed;nez et al., <xref rid="eva12877-bib-0063" ref-type="ref">1991</xref>). After their initial grouping, SNPs were ordered within LGs using the <italic>BUILD</italic> and <italic>FLIPSN</italic> options in CRIMAP. The <italic>CHROMPIC</italic> option in CRIMAP was then used to phase genotypes within LGs, and a custom&#x02010;made script was used to correct or remove erroneous genotypes based on unlikely tight double recombination events. Finally, multipoint linkage maps for the 40 LGs were constructed using the <italic>FIXED</italic> option of CRIMAP. SNPs that could be mapped to LG and that showed Mendelian segregation of genotypes in pedigree material were selected (excluding SNPs statistically deviating from expected proportions in chi&#x02010;square tests across &#x0003e;10% individuals). This resulted in the retention of information for 3,782 SNPs.</p></sec><sec id="eva12877-sec-0005"><label>2.3</label><title>Population analyses</title><p>Global and per SNP observed and expected heterozygosity (<italic>H<sub>O</sub></italic> and <italic>H<sub>E</sub></italic>) were determined for each of the 84 collections (samples from 74 rivers, two hatchery strains and eight temporal replicates) using the R package <italic>adegenet</italic> (Jombart, <xref rid="eva12877-bib-0048" ref-type="ref">2008</xref>). Samples comprising siblings may bias allele frequency estimates (Hansen &#x00026; Jensen, <xref rid="eva12877-bib-0040" ref-type="ref">2005</xref>). To avoid this, we used the maximum&#x02010;likelihood&#x02010;based method described in Wang (<xref rid="eva12877-bib-0087" ref-type="ref">2013</xref>) to analyse genetic relationships in samples exhibiting statistically significant <italic>F</italic>
+<sub>IS</sub> estimates. Individuals exhibiting relatedness levels corresponding with half&#x02010; and full&#x02010;sib relationships were recorded, and data were subsequently trimmed to exclude any such related individuals. This meant that 19 of 40, mostly juvenile, fish from the River Ure were excluded from further analysis. Using adegenet, locus&#x02010;specific <italic>F</italic>
+<sub>ST</sub> values were calculated across all samples and deviation from HWE within samples was tested using chi&#x02010;square testing. Linkage disequilibrium was estimated using the squared correlation between alleles at two loci, both per sample and averaging across samples, using the R package <italic>genetics</italic> (Warnes, <xref rid="eva12877-bib-0088" ref-type="ref">2013</xref>). <italic>p</italic>&#x02010;values of HWE tests were adjusted for multiple comparisons using false discovery rate (FDR; Benjamini &#x00026; Hochberg, <xref rid="eva12877-bib-0009" ref-type="ref">1995</xref>). All loci were retained in initial analyses, but in GEA and outlier analyses only one SNP was retained when pairs of SNPs showed very high LD (<italic>r<sup>2</sup></italic>&#x000a0;&#x0003e;&#x000a0;.8) across samples.</p><p>Estimates of population structure and detection of outlier loci may be downwardly biased if markers are selected using specific criteria about the numbers of times they occur in the SNP development sample (Rosenblum &#x00026; Novembre, <xref rid="eva12877-bib-0080" ref-type="ref">2007</xref>). Here, ascertainment bias (AB) was potentially non&#x02010;negligible due to the relatively strict criteria applied when selecting candidates for the SNP array, particularly the criterion that at least two individuals from the ascertainment panel had to have the alternate allele in at least two reads. Potential effects of AB were assessed by inspection of minor allele frequencies per population sample, where the expected nonbiased distribution describes a beta distribution with high proportions of low&#x02010;frequency markers rapidly decreasing towards low proportions of high&#x02010;frequency markers.</p><p>Sample differentiation was described using pairwise &#x003f4; (Weir &#x00026; Cockerham, <xref rid="eva12877-bib-0089" ref-type="ref">1984</xref>). Isolation&#x02010;by&#x02010;distance (IBD) relationships were examined using a Mantel test and 999 randomizations in <italic>adegenet</italic>, including information for least waterway distance to river mouth in all spatial samples for all loci. Including all loci, clustering of samples was visualized using principal component analysis (PCA) and discriminant analysis of principal components (DAPC), following Jombart and Ahmed (<xref rid="eva12877-bib-0049" ref-type="ref">2011</xref>). The French sample was excluded from these and subsequent analyses due to its highly divergent (Mediterranean lineage) origin. Bayesian information criterion (BIC) was used for evaluation of the partitioning of individuals into different number of clusters (<italic>k</italic>) in DAPC. Based on discriminant functions, individual posterior membership probabilities were subsequently evaluated to assess the suitability of the approach in terms of capturing correspondence between capture locality and genetic clustering.</p></sec><sec id="eva12877-sec-0006"><label>2.4</label><title>Genome scan</title><p>A genome scan approach was used to distinguish genome&#x02010;wide processes expected to mainly reflect demographic histories, from processes at individual loci potentially reflecting local processes, particularly selection. Genome scans may suffer from inflated numbers of false positives under hierarchical spatial structure coupled with isolation&#x02010;by&#x02010;distance dynamics (Excoffier, Hofer, &#x00026; Foll, <xref rid="eva12877-bib-0025" ref-type="ref">2009</xref>). We therefore used a principal component analysis with a Mahalanobis distance&#x02010;based approach to identify outlier loci (Luu et al., <xref rid="eva12877-bib-0062" ref-type="ref">2017</xref>). This method, implemented in the R package <italic>pcadapt,</italic> allows for an examination of how different levels of population clustering affect outlier detection. It is reported to yield increased power compared to Bayesian models, especially when there is hierarchical population structure under divergence and range expansion scenarios (Luu et al., <xref rid="eva12877-bib-0062" ref-type="ref">2017</xref>). Initially, 50 principal components (PC) were used to assess the best supported genetic clustering among sampled individuals, where the optimal number (or range) of PC was determined using Cattell's graphical rule, following Luu et al. (<xref rid="eva12877-bib-0062" ref-type="ref">2017</xref>). Outliers were then detected applying different levels of sample clustering and FDR to control error. Throughout, loci with global MAF &#x0003c;0.05 were excluded. To examine effects of sampling specific populations on outlier detection, analyses were finally repeated for sub&#x02010;sets of data: (a) including one half of the geographically paired collections selected at random (<italic>N</italic>&#x000a0;=&#x000a0;34), (b) including the other half of paired samples (<italic>N</italic>&#x000a0;=&#x000a0;34) and (c) combining these two sets of data (<italic>N</italic>&#x000a0;=&#x000a0;68; Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>). In all three latter cases, information was excluded for temporal replicates and for the four sub&#x02010;regions for which only a single collection was available, including extant populations Tamar, Vainupea and Haute&#x02010;Savoie (Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>). <italic>pcadapt</italic> results were compared with results generated with the often used Bayesian <italic>bayescan</italic> method (Foll &#x00026; Gaggiotti, <xref rid="eva12877-bib-0028" ref-type="ref">2008</xref>). This method is expected to exhibit low false&#x02010;positive rates, particularly when many population samples can be included (Narum &#x00026; Hess, <xref rid="eva12877-bib-0069" ref-type="ref">2011</xref>), which was the case here. Settings followed recommendations in Foll and Gaggiotti (<xref rid="eva12877-bib-0028" ref-type="ref">2008</xref>), excluding information for 66 SNPs exhibiting global MAF below 0.05. Following Foll and Gaggiotti (<xref rid="eva12877-bib-0028" ref-type="ref">2008</xref>), we used Jeffrey's scale of evidence and defined potentially selected loci as markers having log<sub>10</sub> (PO) above 1, but excluded loci with <italic>Q</italic>&#x02010;values above 0.01, to minimize FDR bias.</p></sec><sec id="eva12877-sec-0007"><label>2.5</label><title>Genotype&#x02010;environment association</title><p>Signatures indicative of local adaptation to environmental variables were investigated using the univariate GEA method implemented in LFMM v. 1.5 (Frichot, Schoville, Bouchard, &#x00026; Fran&#x000e7;ois, <xref rid="eva12877-bib-0030" ref-type="ref">2013</xref>). The approach uses latent factor mixed models that take into account neutral population structure when testing associations between gene variation and candidate environmental variables. Environmental variables are entered into the model as fixed effects while population structure is modelled using latent factors. We used population clustering results from DAPC and <italic>pcadapt</italic> to guide the choice of <italic>k</italic> latent factors, varying <italic>k</italic> 9&#x02013;14, and running 10 replicates per factor level, with Gibbs sampling algorithm with 20K iterations, discarding the first 5K iterations as burn&#x02010;in. In the LFMM model, a matrix term models the part of genetic variation that cannot be explained by the environmental variables. Selective responses in anadromous brown trout populations are expected to be mainly governed by regional, rather than by small&#x02010;scale environmental drivers (Hansen, <xref rid="eva12877-bib-0038" ref-type="ref">2002</xref>). Accordingly, we examined variables expected to reflect effects of different types of drivers on genetic variation. Firstly, to control for IBD dynamics and postglacial founder events, we entered sample latitude and longitude, and whether origin was either the British Isles, European continent or Scandinavian Peninsula (as a categorical variable). Secondly, potential relationships with abiotic conditions on spawning sites were examined by entering data on geochemistry (using soil type and soil pH), annual average water temperature, minimum winter temperature and maximum summer temperature, annual temperature range, average annual precipitation and precipitation in driest month at collection site. Climate data were obtained from <ext-link ext-link-type="uri" xlink:href="https://esdac.jrc.ec.europa.eu/">https://esdac.jrc.ec.europa.eu/</ext-link>. Data on soil type (entered as categorical variable), and pH values were obtained from <ext-link ext-link-type="uri" xlink:href="http://eurosoils.jrc.ec.europa.eu/">http://eurosoils.jrc.ec.europa.eu/</ext-link>. Finally, to test for relationships between genetic variation and abiotic environment first encountered during smolt sea&#x02010;migrating stage, information was included on average ambient water temperature and salinity 1&#x000a0;km from river confluence with the sea (from <ext-link ext-link-type="uri" xlink:href="http://marine.copernicus.eu/">http://marine.copernicus.eu/</ext-link>). Thirdly, we entered altitude at collection site as a proxy for both upstream spawning run and smolt downstream migration barrier. Fourthly, to examine effects of genetic introgression from stocked hatchery strains, we entered categorical information about whether populations had previously been stocked with either of the two hatchery strains (pertains to Danish populations). Associations among variables were tested using the function PCAMIX in the R package <italic>PCAmixdata</italic> (Chavent, Kuentz&#x02010;Simonet, Labenne, &#x00026; Saracco, <xref rid="eva12877-bib-0018" ref-type="ref">2014</xref>) allowing for PCA of mixed qualitative and quantitative data. Based on eigenvalues for 24 dimensions and using Cattell's graphical rule, the first five principal components from that analysis were used to reduce variables tested in the model. Following Frichot et al. (<xref rid="eva12877-bib-0030" ref-type="ref">2013</xref>), <italic>p</italic>&#x02010;values&#x000a0;&#x0003c;&#x000a0;10<sup>&#x02013;5</sup> obtained after applying a Bonferroni correction for a type I error at <italic>&#x003b1;</italic>&#x000a0;=&#x000a0;.01 and ~10<sup>&#x02013;4</sup> loci, <italic>z</italic>&#x02010;scores &#x0003e;4.7 were considered to show GEA.</p><p>Recent simulation analyses suggest that multivariate GEA methods, such as redundancy analysis (RDA), under some conditions may perform better than PCA&#x02010;based methods in identifying environmental predictors of genotype variation and in selective outliers (Capblancq, Luu, Blum, &#x00026; Bazin, <xref rid="eva12877-bib-0015" ref-type="ref">2018</xref>; Forester et al., <xref rid="eva12877-bib-0029" ref-type="ref">2018</xref>). RDA is a multivariate ordination approach that combines PCs from allele frequency and multivariate environmental distance matrices to produce canonical axes predicting relationships between environments and particular loci. We therefore compared results from LFMM with an RDA analysis using the <italic>vegan</italic> package (Oksanen et al., <xref rid="eva12877-bib-0071" ref-type="ref">2015</xref>) following the procedure detailed in Forester et al. (<xref rid="eva12877-bib-0029" ref-type="ref">2018</xref>). Missing data were imputed using the most common genotype observed within samples. As for the LFMM analysis, the five environmental PCs were tested against SNP data in 68 sample collections. The function <italic>vif.cca</italic> was used to ascertain lack of multi&#x02010;collinearity among variables, as expected from the use of composite environmental variables, which alleviated the need for variable reduction. There was no a priori control for population structure. Following Forester et al. (<xref rid="eva12877-bib-0029" ref-type="ref">2018</xref>), we classified SNPs as showing statistically significant association with individual environmental parameters when they loaded with more than three standard deviations from the mean. We estimated correlations between these SNPs and their most strongly associated environmental variable following Forester et al. (<xref rid="eva12877-bib-0029" ref-type="ref">2018</xref>).</p></sec></sec><sec sec-type="results" id="eva12877-sec-0008"><label>3</label><title>RESULTS</title><sec id="eva12877-sec-0009"><label>3.1</label><title>SNP array performance</title><p>All SNP clusters were visually inspected using Genome Studio and all markers subjectively classified according to sample data point clustering precision and accuracy. A total of around 4,000 markers (72%) displayed tight grouping into three well separated genotype clusters, 1,106 (20%) appeared to be monomorphic in the examined samples, and the remainder displayed clustering patterns making SNP genotype calling unreliable.</p><p>The 40 brown trout LGs with 3,894 SNPs represent, on average, 95 SNPs per LG (range 13&#x02013;173) and adds up to a male map of 1,316&#x000a0;cM and a female map of 2,494&#x000a0;cM (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S2</xref> for details on linkage map, assembly and annotation). Relative to the expected beta distribution, MAFs were skewed towards high values (Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S1</xref>). Average MAF was 0.28, and 1.5% of loci had global MAF &#x0003c;0.05 (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S3</xref>). In total, 153 pairs of loci showed evidence of linkage disequilibrium with genotype associations at <italic>R<sup>2</sup></italic>&#x000a0;&#x0003e;&#x000a0;.8.</p></sec><sec id="eva12877-sec-0010"><label>3.2</label><title>Genetic relationships within and among populations</title><p>The 3,782 SNPs contained within the linkage map and conforming to Mendelian segregation rules were typed across &#x0003e;95% of the 2,536 individuals in the 84 sample collections. <italic>H<sub>E</sub></italic> varied 0.31&#x02013;0.37 across collections (average&#x000a0;=&#x000a0;0.35) and tended to be slightly lower in collections from Britain (average&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>&#x000a0;=&#x000a0;0.33&#x000a0;&#x000b1;&#x000a0;0.01) than in continental and Scandinavian populations (average&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>&#x000a0;=&#x000a0;0.36&#x000a0;&#x000b1;&#x000a0;0.01; <italic>t</italic> test&#x000a0;=&#x000a0;9.259, <italic>df</italic>&#x000a0;=&#x000a0;79, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). No other trends in <italic>H<sub>E</sub></italic> were observed among geographical regions. Excluding information from extant populations, global, locus&#x02010;specific &#x0019f; values ranged between 0.007 and 0.237, with a slightly lower median (0.061) than mean value (0.067) (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S4</xref>). Evidence for departure from HWE (at <italic>&#x003b1;</italic>&#x000a0;=&#x000a0;.05) was found in 4,541 of 150,066 tests, whereof nine remained significant after correction for multiple testing, none of which were particular to specific collections or loci. Global differentiation among sample collections was estimated at 0.068. The geographically distant sample collections Tamar in west and Vainupea in east both showed relatively strong differentiation from their geographically closest collections (Tamar&#x02010;Stiffkey &#x0019f;&#x000a0;=&#x000a0;0.10; Vainupea&#x02010;Tejn &#x0019f;&#x000a0;=&#x000a0;0.11). As expected, the les Usses sample representing the Mediterranean lineage showed the strongest differentiation of all, varying between 0.36 and 0.46 in pairwise comparisons (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S4</xref>). Relatively low differentiation was observed between les Usses and the Danish hatchery strain #1, corresponding with the fact that this strain has been exported to France and is represented in brood stock used for stocking in the region. Hence, this strain has now introgressed into several French Mediterranean populations (Gil et al., <xref rid="eva12877-bib-0032" ref-type="ref">2016</xref>).</p><p>Average &#x0019f; between temporal replicates within location was 0.011, ranging from 0.001 to 0.052 (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S4</xref>). None exhibited statistically significant differentiation, except for the River Skals, where one replicate sample consisted of only 10 individuals, which may have biased allele frequency estimates. Forty&#x02010;three comparisons between spatial collections did not exhibit statistically significant differentiation (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S4</xref>). In all cases, they represented collections from either neighbouring rivers or rivers from the same geographical area separated by less than 70&#x000a0;km. These included (a) Wadden Sea rivers Ribe, Konge&#x000e5; and Sneum; Elbe and Weser, (b) Western Baltic rivers Krob&#x000e6;k and Mern, (c) British rivers Aln and Coquet, (d) Swedish Kattegat rivers Himle&#x000e5;n and Fylle&#x000e5;n, and (e) Swedish river &#x000c4;tran and its tributary H&#x000f6;gvads&#x000e5;n. Finally, Swedish Skagerrak collections spanning from River Hogar&#x000e4;lv in north to Granneby&#x000e5;n in south generally exhibited lack of allele frequency differences (nos. 33&#x02013;44 in Table <xref rid="eva12877-tbl-0001" ref-type="table">1</xref>). Pairwise differentiation between collections was positively associated with geographical distance (Monte Carlo randomization test; 999 randomizations: observed&#x000a0;=&#x000a0;0.7157, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001, observed standard deviation&#x000a0;=&#x000a0;12.868, expectation&#x000a0;=&#x000a0;&#x02212;0.0002, variance&#x000a0;=&#x000a0;0.0031). However, density analysis also suggested that IBD dynamics differed across geographical regions, as evidenced by the presence of at least two distinct clusters in the data (Figure <xref rid="eva12877-fig-0002" ref-type="fig">2</xref>). One of the clusters corresponded with comparisons between British and European/Scandinavian samples, as shown by the fact that one of two main clusters disappeared when British samples were excluded from analyses (Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S2</xref>). When British samples were tested alone, two distinct clusters were suggested (Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S3</xref>). Although sample size was somewhat limited encompassing 15 British collections in total, this suggested disjoint IBD dynamics with one strong north&#x02013;south genetic break within this geographical region. A distinct separation between northern and southern British and all other populations was also evident in the PCA. Here, the three first principal components (PCs) described 5.3% of the variation, accounting for 2.4%, 1.6% and 1.3%, respectively (Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S4</xref>). PC1 differentiated populations from continental Europe from all others, and PC2 separated SE British from NE British populations and Baltic Sea samples from other European samples, whereas PC3 mainly separated SE British samples from all others. In correspondence with a general IBD relationship, population sub&#x02010;structure was evident within each of the three main geographical regions, where individual genotype clustering to a large extent followed geographical relationships (Figures <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S5&#x02013;S7</xref>). Genetic relationships within and between geographical regions are visualized in Figure <xref rid="eva12877-fig-0001" ref-type="fig">1</xref>a.</p><fig fig-type="Figure" xml:lang="en" id="eva12877-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Relationship between geographical distance (Dgeo) between river mouths (in kilometres) and genetic differentiation (Dgen) estimated by Nei's distance, between pairwise collections of <italic>Salmo trutta</italic>. Colour contours indicate local kernel density estimates, where higher densities are shown by increasing degrees of red. The line indicating the least squares linear relationship between parameters is included for visual representation</p></caption><graphic id="nlm-graphic-3" xlink:href="EVA-13-400-g002"/></fig><p>Using DAPC to determine population groupings returned most likely <italic>k</italic>&#x000a0;=&#x000a0;10, with relatively similar BIC for <italic>k</italic>&#x000a0;=&#x000a0;10&#x02013;14, and genotype clustering strongly corresponding with geographical regions (Figure <xref rid="eva12877-fig-0001" ref-type="fig">1</xref>b). Expanding beyond 10 clusters identified increasing sub&#x02010;clustering within geographical areas, but with correspondingly decreasing posterior membership probabilities of individuals (not shown). DAPC returned overall good proportions of correct posterior assignment of individuals to the 10 clusters. Thus, between 0.50 and 1.00 (average&#x000a0;=&#x000a0;0.91) of individuals per sample were assigned to a cluster including their collection origin. Hatchery admixed populations generally exhibited below&#x02010;average assignment to cluster origin (posterior assignment to cluster of origin in introgressed samples 0.50&#x02013;0.91, average&#x000a0;=&#x000a0;0.69), and when samples from introgressed populations were removed from analyses, average posterior assignment to cluster of origin increased to 0.95. A post hoc clustering analyses excluding all SNPs exhibiting positive outlier behaviour (see below) returned the same number of, and individual genotype affiliations with, population clusters as did analysis including all SNPs (not shown).</p></sec><sec id="eva12877-sec-0011"><label>3.3</label><title>Identification of SNP outliers</title><p>The <italic>pcadapt</italic> analyses comprising all samples showed agreement with the results using <italic>adegenet</italic> by providing the optimal model resolution when grouping genotypes into 10 clusters (Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S8</xref>). When controlling for population clustering, <italic>pcadapt</italic> identified 24 outlier SNPs distributed across 13 LGs, which was considerable lower than the global result from <italic>bayescan</italic>, which identified 576 outlier SNPs (183 with lower and 393 with higher than expected divergence, Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S3</xref>). Seventeen outlier SNPs were identified with both methods. Comparing <italic>pcadapt</italic> outliers detected in paired sub&#x02010;sets of data, 11, 11 and 17 outliers were identified in sub&#x02010;set 1, sub&#x02010;set 2 and sub&#x02010;set 1 and 2 combined, respectively. There was good correspondence in the numbers of geographical clusters identified for the three data sets (Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S9</xref>), but relatively little overlap between loci identified as outliers in the sub&#x02010;sets 1 and 2 (four of 11 outlier loci, Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S3</xref>, Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S10</xref>). The low overlap in outliers detected with different sub&#x02010;sets of samples was also evident with the <italic>bayescan</italic> approach, where just 137 of 401 outlier loci (34%) were identified in both sub&#x02010;sets 1 and 2 (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S3</xref>, Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S11</xref>). Outlier SNPs identified with <italic>bayescan</italic> were distributed across all LGs (Figure <xref rid="eva12877-fig-0003" ref-type="fig">3</xref>, Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S3</xref>). There was no trend for covariance between LG size and numbers of outliers identified and no apparent clustering of outliers within LG.</p><fig fig-type="Figure" xml:lang="en" id="eva12877-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Manhattan plot showing <italic>z</italic>&#x02010;values from gene&#x02013;environment association (GEA) analyses for 3,629 SNP loci aligned by position in LG 1&#x02013;40. Individual plots a&#x02013;e show <italic>z</italic>&#x02010;values associated with each SNP for each of the five composite environmental variables Dim1&#x02010;5. SNPs above the blue horizontal line show statistically significant GEA. Green symbols indicate 138 positive outlier SNPs identified in both population sub&#x02010;sets with <italic>pcadapt</italic> and/or <italic>bayescan</italic>. SNP loci showing association with individual variables in RDA are circled in red</p></caption><graphic id="nlm-graphic-5" xlink:href="EVA-13-400-g003"/></fig></sec><sec id="eva12877-sec-0012"><label>3.4</label><title>Genotype associations with environment</title><p>Principal component analysis of spatial and environmental variables showed that the five top PCs explained 69% of the variation (Figure <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S12</xref>). PC1 (32% variation explained) described parameters distinguishing the three main geographical regions, Britain, Continental Europe and Scandinavian Peninsula, including temperature (higher for Britain) and salinity (lower for Continental European samples). PC2 (15%) was associated primarily with climatic variables related to precipitation. PC3 (10%) was associated with soil pH. PC4 (6%) was associated with high summer temperatures, and PC5 (5%) was associated with soil type (Tables <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S5</xref> and <xref rid="eva12877-sup-0001" ref-type="supplementary-material">S6</xref>). Varying the number of latent factors in the GEA model affects identification of loci associated with parameters (Frichot et al., <xref rid="eva12877-bib-0030" ref-type="ref">2013</xref>), which may particularly influence inference if population structure follows an IBD model and number of population clusters is ambiguous. In our analysis, 997 loci showed GEA when <italic>K</italic> was set to 14 population clusters, all of which were a sub&#x02010;set of loci identified at <italic>K</italic>&#x000a0;=&#x000a0;9&#x02013;13. We therefore report GEA results for <italic>K</italic>&#x000a0;=&#x000a0;14 to reduce rates of false positives. The majority of loci (89%) showed association (at <italic>z</italic>&#x000a0;&#x0003e;&#x000a0;4.7) with a single variable. There was generally low overlap between loci showing GEA with the tested variables and loci identified as outliers, and just 13 loci were identified in all three tests. All LGs contained GEA loci (ranging 4&#x02013;50 loci, average 25, per LG; Figure <xref rid="eva12877-fig-0003" ref-type="fig">3</xref>). The majority of GEA were observed with variables differing among the three geographical regions (421 PC1 associations) and with temperature/soil variables (371 PC2 associations). GEA was less often related to geochemistry (207 PC3 associations), maximum temperature/precipitation (172 PC4 associations) and soil type (33 PC5 associations). There were several instances of interaction between GEA and geographical region. Thus, for 11 loci coming out as statistical outliers in <italic>pcadapt</italic> and showing GEA, there was a strong effect of geographical region on relationships between allele frequencies and environmental variables. This suggests that associations are lineage specific and potentially confounded by the phylogenetic history of populations. An example of a typical region&#x02010;specific GEA relationship is shown in Figure <xref rid="eva12877-fig-0004" ref-type="fig">4</xref>a. In other cases, GEA was observed across all three main geographical regions, suggesting that loci were affected in the same direction by specific selective pressures across demographic lineages (exemplified in Figure <xref rid="eva12877-fig-0004" ref-type="fig">4</xref>b). The locus showing the strongest association with salinity exhibited concurrent relationships in the two geographical regions bordering the North Sea&#x02013;Baltic Sea transition zone describing a salinity gradient varying from fully saline waters (34 ppt) to brackish conditions (8 ppt), but also large allele frequency variation within the more salinity&#x02010;invariant British populations (Figure <xref rid="eva12877-fig-0004" ref-type="fig">4</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="eva12877-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Association between environmental variables and frequency of major allele for populations in the three geographical regions Britain (open symbols, dotted line), Scandinavian peninsula (black symbols, solid line) and Continental Europe (grey symbols, stippled line), exemplifying gene&#x02013;environment association relationships that are as follows: (a) specific to geographical regions; locus &#x0201c;Gdist_S82886_3406,&#x0201d; identified as selective outlier in both <italic>pcadapt</italic> and <italic>bayescan</italic>, (b) general across regions; locus &#x0201c;cDNA_S415600_5145,&#x0201d; showing no outlier behaviour but association with temperature parameters and latitude (shown here) or (c) general across regions characterized by salinity gradients, but not in the salinity&#x02010;invariant region Britain; locus &#x0201c;cDNA_S84920_5746.&#x0201d; None of the three loci exhibited statistically significant outlier behaviour in RDA (see text). Least squares regression lines are shown to guide inference</p></caption><graphic id="nlm-graphic-7" xlink:href="EVA-13-400-g004"/></fig><p>In the RDA, the first three components explained, respectively, 40%, 27% and 18% of the variation, and the five composite environmental parameters all showed statistically significant variation with genotypes (all <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). The first three axes separated, respectively, (a) British and West Norwegian populations, (b) Scandinavian populations and (c) SE British populations. As in LFMM analyses, PC1 (mainly associated with geography and temperature variables) showed the strongest association, followed by PC2, associated with precipitation and soil type (Figure <xref rid="eva12877-fig-0005" ref-type="fig">5</xref>). When testing which SNPs were most strongly associated with each of the five parameters, respectively, 6, 12, 10, 19 and 8 SNPs (55 SNPs in total) came out with high loading values for PC1&#x02013;5. Correlations between these SNPs and their most strongly associated environmental parameters were not marked (average <italic>r</italic>&#x000a0;=&#x000a0;.29, range .15&#x02013;.49). Thirty&#x02010;nine of the 55 SNPs (71%) identified as showing GEA in RDA also showed GEA in LFMM (Table <xref rid="eva12877-sup-0002" ref-type="supplementary-material">S3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12877-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Redundancy analysis results showing the first two axes, explaining, respectively, 40% and 27% variation. Grey points indicate individual SNPs, and dots indicate individual fish colour coded by their geographical region following notation in Figure <xref rid="eva12877-fig-0001" ref-type="fig">1</xref> (Continental Europe: blues and greens; E Scandinavian Peninsula: purples; W Scandinavian Peninsula: pink; NE Britain: light yellow; SE Britain: brown). Blue vectors represent the environmental predictors represented by the five composite environmental PCs. Both SNP and individual fish scores are scaled symmetrically by the square root of the eigenvalues</p></caption><graphic id="nlm-graphic-9" xlink:href="EVA-13-400-g005"/></fig></sec></sec><sec sec-type="discussion" id="eva12877-sec-0013"><label>4</label><title>DISCUSSION</title><p>Our study has two main merits. Firstly, by taking advantage of genomic resources developed for <italic>S.&#x000a0;trutta</italic>, this study provides the most detailed examination of large&#x02010;scale genetic structure in a central part of the species' native range. We identified very strong sample clustering corresponding with broad geographical regions, as well as clear genetic breaks among samples within regions, that in several cases were associated with climatic variables. Secondly, we contribute to the evaluation of state&#x02010;of&#x02010;the&#x02010;art statistical approaches for identifying genetic signatures of selection and their association with environments, through reporting on genome&#x02010;wide detection of loci exhibiting GEA and showing that discovery in some cases was strongly dependent on statistical method and sampling design.</p><sec id="eva12877-sec-0014"><label>4.1</label><title>Inference from genome&#x02010;wide SNP variation in <italic>S.&#x000a0;trutta</italic>
+</title><p>Genomic resources are rapidly growing for <italic>S.&#x000a0;trutta</italic> (Carruthers et al., <xref rid="eva12877-bib-0016" ref-type="ref">2018</xref>; Leitwein et al., <xref rid="eva12877-bib-0055" ref-type="ref">2017</xref>; Lemopoulos et al., <xref rid="eva12877-bib-0056" ref-type="ref">2018</xref>), but our study is the first to apply genome&#x02010;wide SNP data to examine broadscale population relationships and associations with evolutionary drivers across regional scales. The stringent criteria for selecting SNPs are likely to have caused some ascertainment bias, thereby skewing MAF towards higher values and lowering power to disentangle effects of neutral versus selective processes. Ascertainment bias in SNP selection may bias inferences of population demography (Guillot &#x00026; Foll, <xref rid="eva12877-bib-0036" ref-type="ref">2009</xref>, but see also Albrechtsen, Nielsen, &#x00026; Nielsen, <xref rid="eva12877-bib-0003" ref-type="ref">2010</xref>). In this study, individuals from all major genetic clusters detected were represented in the ascertainment panel, suggesting that our assessment of spatial structure is unlikely to suffer substantial bias with respect to the magnitude of genetic differences among populations, at least across larger geographical scales. Individuals in the SNP development ascertainment panel represented both the NE British and the SE British population clusters. The lower overall genetic diversity observed in samples from Britain was thus unlikely an artefact of ascertainment bias. Although methods have been proposed to correct for ascertainment bias (Guillot &#x00026; Foll, <xref rid="eva12877-bib-0036" ref-type="ref">2009</xref>), most require some assumption about allele frequency distributions under un&#x02010;biased conditions. Lacking such information, we therefore refrained from estimating demographic parameters, such as phylogenetic relationships and divergence times. Yet, we emphasize that given the genomic coverage and quantity of markers, the relative magnitudes of differentiation detected among samples are expected to be robust.</p></sec><sec id="eva12877-sec-0015"><label>4.2</label><title>Geographical breaks in population structure</title><p>Our results support previous inference based on smaller marker panels and samples with more restricted geographical coverage. Accordingly, this study reinforces the notion that trout commonly show temporally stable (at least on a decadal scale) genetic structure on local river or neighbouring watershed scales and that the distribution of genetic variation can often be described by isolation&#x02010;by&#x02010;distance dynamics, attributed to the species' homing instinct (Griffiths, Koizumi, Bright, &#x00026; Stevens, <xref rid="eva12877-bib-0035" ref-type="ref">2009</xref>; Meier et al., <xref rid="eva12877-bib-0068" ref-type="ref">2011</xref>; Stelkens, Jaffuel, Escher, &#x00026; Wedekind, <xref rid="eva12877-bib-0083" ref-type="ref">2012</xref>). Although our sampling scheme was not exhaustive, we benefitted from substantial geographical sample coverage allowing fine&#x02010;scale inference about structural relationships from wide to small geographical scales. First, we identified strong genetic breaks among populations inhabiting the landmasses Britain, the European continent and the Scandinavian Peninsula, most likely reflecting allopatric divergence during postglacial colonization events (Bernatchez, <xref rid="eva12877-bib-0011" ref-type="ref">2001</xref>; Cortey, Vera, Pla, &#x00026; Garc&#x000ed;a&#x02010;mar&#x000ed;n, <xref rid="eva12877-bib-0020" ref-type="ref">2009</xref>; Hewitt, <xref rid="eva12877-bib-0044" ref-type="ref">2000</xref>).</p><p>A novel result was the identification of strong divergence between northern and southern British populations. Our sampling design did not allow for precise definition of the geographical break between the two clusters of samples, nor whether geographically intermediate populations constituted a hybrid zone between clusters. Analyses of mitochondrial DNA markers have not identified genetic breaks between populations sampled in south and north (McKeown, Hynes, Duguid, Ferguson, &#x00026; Prodohl, <xref rid="eva12877-bib-0066" ref-type="ref">2010</xref>). However, complex phylogeographical processes and incomplete lineage sorting could have affected this result (McKeown et al., <xref rid="eva12877-bib-0066" ref-type="ref">2010</xref>) masking the divergence observed with nuclear markers. In contrast to Northern Britain, the area spanning from Wales in west to east Anglia in east was ice&#x02010;free during the last glaciation and thus has a different geological history from that of the north. Moreover, the entire Southeast Britain previously constituted the catchment area for the River Thames draining into the southern North Sea (Rose, <xref rid="eva12877-bib-0079" ref-type="ref">1994</xref>). Analyses of additional samples from the River Thames and from rivers draining into the English Channel support the existence of close genetic relationships among SE British trout populations (D. Bekkevold, A. King, J. Stevens, unpublished results). Trout populations in SE Britain are generally characterized by inhabiting short, lowland rivers, whereas NE British populations included in our study generally inhabit larger upland rivers with stronger gradients and higher water flow. The genetic discontinuity identified in our study is hence in agreement with expectations for two population clusters inhabiting different environments and having discrete evolutionary histories potentially associated with selective sweeps that maintain separate demographics to present day.</p><p>We identified another prominent genetic break between populations from the Scandinavian Peninsula and Continental Europe (including the Danish Belt Sea islands). There was apparently a strong barrier to genetic exchange between rivers draining into east and west of the Skagerrak and Kattegat seas, in some places separated by less than 60&#x02010;km waterway. Such strong genetic separation is remarkable, given the species' propensity for long distance feeding migrations (Koljonen, Gross, &#x00026; Koskiniemi, <xref rid="eva12877-bib-0051" ref-type="ref">2014</xref>), including within the Kattegat area (D. Bekkevold, unpublished data), and points to accurate homing to specific geographical regions.</p><p>As expected, genetic structure was also evident within regional population clusters. In most cases, genome&#x02010;wide differentiation followed geographies in correspondence with founder events combined with isolation&#x02010;by&#x02010;distance dynamics. Nonetheless, we stress that although inference about overall genetic relationships among populations should be robust, the potential ascertainment bias of the applied markers could somewhat influence the inference of the underlying demographic processes. Even so, the markers analysed here will be useful for delineating conservation units and their distributions in time and space, as well as for individual assignment and identification of population admixture (Nielsen et al., <xref rid="eva12877-bib-0070" ref-type="ref">2012</xref>).</p></sec><sec id="eva12877-sec-0016"><label>4.3</label><title>Contrasting results from different genome scan approaches</title><p>We used one of the, to our knowledge, largest sample sizes to date for outlier analysis across a large number of geographically widespread populations and typed more than 3,000 SNPs, which is the suggested threshold to limit false discovery bias (Ahrens et al., <xref rid="eva12877-bib-0002" ref-type="ref">2018</xref>). The application of two different genome scan methodologies allowed further insights into the processes hypothesized to drive population differentiation. The overarching result from both methodologies was the finding of statistical outliers across broad expanses of the trout genome. Large blocks of highly divergent loci positioned in one or a few linkage groups (sometimes referred to as &#x0201c;genomic islands&#x0201d; often attributed to chromosomal structures such as inversions) have been identified to differentiate ecotypes in fish (Bradbury et al., <xref rid="eva12877-bib-0014" ref-type="ref">2013</xref>; Hemmer&#x02010;Hansen et al., <xref rid="eva12877-bib-0043" ref-type="ref">2013</xref>; Lamichhaney et al., <xref rid="eva12877-bib-0053" ref-type="ref">2017</xref>). However, unless a population has undergone a recent selective sweep, local selection is unlikely to act on only a few large&#x02010;effect loci or genomic regions (Rockman, <xref rid="eva12877-bib-0077" ref-type="ref">2012</xref>). Although the genetic structures we observe likely also reflect drift and, potentially, postglacial secondary contact between lineages, our results are thus in line with the pattern from other salmonids (Bourret et al., <xref rid="eva12877-bib-0012" ref-type="ref">2013</xref>; Pritchard et al., <xref rid="eva12877-bib-0075" ref-type="ref">2018</xref>) that populations exhibit genomic variation indicative of multiple sweeps and divergent selection acting on broad expanses of the genome.</p><p>When all collections were included in global analyses, the two methodologies returned large numerical differences in detected outlier loci. Thus, <italic>bayescan</italic> identified 11% outliers, whereas when controlling for regional population clustering, <italic>pcadapt</italic> identified less than one per cent outliers. Albeit both figures at face value differ from estimates of ~5% outlier loci seen in other species, they are still within the reported range (reviewed in Ahrens et al., <xref rid="eva12877-bib-0002" ref-type="ref">2018</xref>). Our analysis is also consistent with results being dependent on both statistical methods used (Bradbury et al., <xref rid="eva12877-bib-0014" ref-type="ref">2013</xref>) and the type of genetic variation studied (de Villemereuil et al., <xref rid="eva12877-bib-0022" ref-type="ref">2014</xref>; Vasem&#x000e4;gi, Nilsson, &#x00026; Primmer, <xref rid="eva12877-bib-0084" ref-type="ref">2005</xref>; but see Ahrens et al., <xref rid="eva12877-bib-0002" ref-type="ref">2018</xref>). The <italic>bayescan</italic> approach may yield low detection power under an &#x0201c;isolation with migration&#x0201d; model, as is expected for brown trout populations, and sampling large numbers of genotypes may concurrently inflate numbers of false positives (de Villemereuil et al., <xref rid="eva12877-bib-0022" ref-type="ref">2014</xref>). The population clustering parameter (<italic>k</italic>) applied in our <italic>pcadapt</italic> analysis was based on all loci, rather than restricted to sub&#x02010;sets of loci presumed to reflect neutral demographic processes. This could potentially have reduced number of outliers detected with the <italic>pcadapt</italic> approach, compared to the &#x0201c;demography&#x02010;na&#x000ef;ve&#x0201d; <italic>bayescan</italic> approach. Conversely, in a minor number of cases, paired rivers did not exhibit statistically significant divergence, which could have led to slightly increased numbers of false positives identified across sub&#x02010;set analyses. All of these error sources may have contributed to the observed discrepancy between the two outlier analysis approaches. The inference gained in our study from comparing methods is that outliers may be highly specific to hierarchical population clusters, as evidenced by the much lower number loci detected with the <italic>pcadapt</italic> approach incorporating demography than in the approach not incorporating demography. The relatively low overlap in outliers identified in sample sub&#x02010;sets corroborates the view that sampling design may have a strong effect on detection of genomic regions underlying selection. However, when comparing outliers identified across both sample sub&#x02010;sets, all four <italic>pcadapt</italic> outliers and 90% of 137 <italic>bayescan</italic> outliers also showed GEA. This supports the notions that comparing results from different statistical methods (de Villemereuil et al., <xref rid="eva12877-bib-0022" ref-type="ref">2014</xref>) and applying a paired&#x02010;population sampling design (Lotterhos &#x00026; Whitlock, <xref rid="eva12877-bib-0061" ref-type="ref">2015</xref>) can strengthen inference about selective processes under a hierarchical population scenario.</p></sec><sec id="eva12877-sec-0017"><label>4.4</label><title>Genotype&#x02010;environment associations within and among clusters</title><p>We identified several GEA related to climatic variables temperature and precipitation, which is consistent with results in other fish species, including other salmonids (Bourret et al., <xref rid="eva12877-bib-0012" ref-type="ref">2013</xref>; Chen, Farrell, Matala, &#x00026; Narum, <xref rid="eva12877-bib-0019" ref-type="ref">2018</xref>; Hecht, Matala, Hess, &#x00026; Narum, <xref rid="eva12877-bib-0042" ref-type="ref">2015</xref>; Matala, Ackerman, Campbell, &#x00026; Narum, <xref rid="eva12877-bib-0064" ref-type="ref">2014</xref>; Perrier, Bourret, Kent, &#x00026; Bernatchez, <xref rid="eva12877-bib-0074" ref-type="ref">2013</xref>). Such general relationships are not surprising given that in fishes, temperature is linked to key physiological, developmental and behavioural processes, rendering fish highly sensitive to climatic and thermal conditions (Crozier &#x00026; Hutchings, <xref rid="eva12877-bib-0021" ref-type="ref">2014</xref>; Eliason et al., <xref rid="eva12877-bib-0024" ref-type="ref">2011</xref>). Climatic drivers are hence expected to exert selection pressures on local populations, also in trout (Jensen et al., <xref rid="eva12877-bib-0047" ref-type="ref">2008</xref>), although some salmonid studies indicate stronger effect of phenotypic plasticity rather than adaptation to specific temperatures (Solberg, Dyrhovden, Matre, &#x00026; Glover, <xref rid="eva12877-bib-0082" ref-type="ref">2016</xref>). Nonetheless, temperature and precipitation are likely to be correlated with other, untested, environmental variables, and short of experimental manipulations, GEA studies can only be indicative of drivers underlying local adaptation (McCairns, Smith, Sasaki, Bernatchez, &#x00026; Beheregaray, <xref rid="eva12877-bib-0065" ref-type="ref">2016</xref>). LD, especially high within salmonids, is likely to show low decay across broad genomic regions, also obscuring the direct relationship between specific SNP's and environmental variables. Thus, confirmation of functional and adaptive significance of post hoc identified genes requires rigorous testing, and although several GEA studies report annotation of SNPs found to be associated with environmental variables, we follow the argumentation in Pavlidis, Jensen, Stephan, and Stamatakis (<xref rid="eva12877-bib-0073" ref-type="ref">2012</xref>) and refrain from mining for annotation of GEA markers. In GEA testing, both the univariate latent factor mixed model approach LFMM and the ordination&#x02010;based method RDA identified loci associated with environmental parameters, but the latter method identified less than 5% of the numbers of SNPs as the former. This differs from results of a recent study in <italic>Populus</italic>, where RDA had superior statistical power and showed lower nondetection rates than LFMM (Capblancq et al., <xref rid="eva12877-bib-0015" ref-type="ref">2018</xref>). That study also found that the two approaches did not consistently identify known QTLs, whereas in our study, SNPs showing GEA with RDA generally also were identified with LFMM. Interestingly, there was relatively stronger consistency in loci identified with both methods to be associated with the variable Dim1 that comprised the main differences among geographical regions than across analyses for Dim2&#x02010;5, associated with environmental variables that were less specific to individual geographical regions. This indicates that GEA methods were most consistent for variables showing the strongest inter&#x02010;regional divergence. Numbers of GEA identified with LFMM were high (totalling almost 30% of all loci) and spread across all LGs. Although results were controlled for inflation of false positives, this suggests that absolute numbers of GEA identified may have been upwardly biased. Irrespective of a potential bias, the identification GEA across broad expanses of the trout genome with both methods is suggestive of locally adapted variation being pervasive throughout multiple genomic regions. Our results may also reflect the expectation that locally adapted traits often are polygenic and governed by loci that individually exhibit low effect that are difficult to detect statistically (Savolainen et al., <xref rid="eva12877-bib-0081" ref-type="ref">2015</xref>).</p><p>A strength of our sampling design is that it represents a paired&#x02010;gradient design, in the sense that it allowed for an assessment of whether the same loci were associated with climatic gradients across presumably allopatric population clusters. Although several loci showed consistent relationships with environmental variables, there were also several cases where relationships were evident within only one or two population clusters. This was exemplified by the locus showing maximal association with salinity. Here, both the Scandinavian and the European mainland population clusters, which co&#x02010;habit the North Sea&#x02013;Baltic Sea salinity gradient, were found to display increasing allele frequencies with decreasing salinity, although variance among populations was pronounced. For the same locus, allele frequencies also varied greatly across the British populations that invariantly inhabit rivers, which drain into high&#x02010;salinity coastal environments. This result could indicate that salinity conditions, rather than demography alone, drive dynamics in that locus in Scandinavian and European mainland populations, and that neutral, or at least dissimilar, dynamics drive allele frequencies in British populations. The application of composite environmental variables in the GEA models, rather than examining single, in several cases inter&#x02010;correlated variables individually may have obscured identification of strong relationships between specific variables and SNPs. However, in the present context association between environments and genomic regions suggests that adaptation to local environments may be complex but is pervasive across populations.</p></sec><sec id="eva12877-sec-0018"><label>4.5</label><title>Genetic management of brown trout</title><p>Although genomic analysis and identification of adaptive variation is not a requirement for conservation per se (Flanagan, Forester, Latch, Aitken, &#x00026; Hoban, <xref rid="eva12877-bib-0027" ref-type="ref">2018</xref>), our results have direct management implications. First, our results can be applied to define conservation units and to prioritize management actions (Funk, McKay, Hohenlohe, &#x00026; Allendorf, <xref rid="eva12877-bib-0031" ref-type="ref">2012</xref>; also see discussion in Mee, Bernatchez, Reist, Rogers, &#x00026; Taylor, <xref rid="eva12877-bib-0067" ref-type="ref">2015</xref>). Specifically in salmonids, supplementary stocking has been a popular management tool to mitigate dwindling populations in the face of habitat deterioration and fisheries exploitation. A substantial body of literature has addressed potential genetic effects of stocking non&#x02010;native genetic material into wild populations (Laikre, Schwartz, Waples, &#x00026; Ryman, <xref rid="eva12877-bib-0052" ref-type="ref">2010</xref>) where effects on population fitness are mainly expected to be negative (Edmands, <xref rid="eva12877-bib-0023" ref-type="ref">2007</xref>). Our SNP data represent a valuable genomic resource for assessment and monitoring of introgression in local populations (Glover et al., <xref rid="eva12877-bib-0033" ref-type="ref">2013</xref>; Vera et al., <xref rid="eva12877-bib-0086" ref-type="ref">2018</xref>) and as a tool to design experimental tests of fitness effects of introgression (Hagen et al., <xref rid="eva12877-bib-0037" ref-type="ref">2019</xref>). A practical advantage of our SNP array approach, in comparison with, for example RAD and other genotyping&#x02010;by&#x02010;sequencing&#x02010;based approaches (Andrews, Good, Miller, Luikart, &#x00026; Hohenlohe, <xref rid="eva12877-bib-0007" ref-type="ref">2016</xref>), is that our markers are directly transferrable between genotyping platforms and that information can be used to tailor analyses addressing specific management objectives. To maximize the efficiency of conservation efforts, there is increasing effort to tailor releases by using the genetically most suitable stocking material (Caudron, Champigneulle, Guyomard, &#x00026; Largiader, <xref rid="eva12877-bib-0017" ref-type="ref">2011</xref>). Genomic coverage was relatively low in our study, and the knowledge gained here is unlikely to fully reflect functionally significant differentiation within and among populations. It is therefore possible that some of the populations exhibiting no genetic differentiation in fact are locally adapted. Moreover, our sampling design was not equally comprehensive across all geographical regions. Although our study thus has shortcomings, it nonetheless provides essential information on the geographical distribution of populations more likely to share evolutionary histories that would allow for successful reintroductions, where needed. We identified geographical regions exhibiting overall weak genetic differentiation among neighbouring rivers, as, for example, was the case for several Swedish Skagerrak rivers. Where human&#x02010;mediated gene flow can be discounted, genetically similar populations are inferred to also display stronger demographic connectivity. Results could indicate that population dynamics can be described in a meta&#x02010;population context, where demographic stability may be dependent on regional, rather than local processes (&#x000d8;stergaard, Hansen, Loeschcke, &#x00026; Nielsen, <xref rid="eva12877-bib-0072" ref-type="ref">2003</xref>). Especially in systems consisting of small, temporally unpredictable streams (in terms of discharge), straying between neighbouring rivers might be a strategy that has been favoured by natural selection. Conversely, in a number of cases, river populations within a relatively constrained geographical area exhibited marked genetic divergence, suggestive of selection against interbreeding. In such cases, restocking activities should refrain from mixing gene pools, which could result in introgression and outbreeding depression. Although extensive genomic and experimental analyses are required to predict the suitability of directed releases of specific non&#x02010;native strains, most applied conservation work relies on the establishment of practical guidelines that do not require detailed case&#x02010;by&#x02010;case study. An applied conservation guideline adhered to in Denmark is that restocking material should represent fish of the genetically closest related population and from the geographically closest population if that information is not available (Berg &#x00026; Hansen, <xref rid="eva12877-bib-0010" ref-type="ref">1998</xref>). Governance of salmonid stocking varies strongly among north&#x02010;east Atlantic legislative units, and there is a call for increased attention to halt unsustainable management practises (Aas et al., <xref rid="eva12877-bib-0001" ref-type="ref">2018</xref>). Our results serve as a tool that can be directly implemented in outlining conservation units and to advice on the geographical distribution of genetic populations that can be expected to be suitable for preserving adaptive state, for example under local restocking activities.</p></sec></sec><sec sec-type="COI-statement" id="eva12877-sec-0019"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="eva12877-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-400-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12877-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-400-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="eva12877-sec-0022"><title>ACKNOWLEDGEMENTS</title><p>We are grateful to a great number of people for collecting samples, including participants from the <italic>Living North Sea</italic> project, sport fishermen from angling clubs, Dan Calderon from &#x0201c;Milj&#x000f6;teknik I v&#x000e4;st,&#x0201d; technicians from DTU Aqua, &#x000d8;ystein Skaala, Anti Vasem&#x000e4;gi and Rene Guyomard. Karen&#x02010;Lise D. Mensberg conducted laboratory work, and Bel&#x000e9;n Jim&#x000e9;nez Mena contributed to analyses. We are grateful for suggestions for manuscript improvement from two anonymous reviewers. Research was supported by grants from European Union via the European Regional Development Fund Interreg IVB, North Sea Region Programme to the project <italic>Living North</italic> Sea and the &#x000d6;resund&#x02010;Kattegat&#x02010;Skagerrak Region Programme to the project <italic>MarGen</italic>; the EU FP7 <italic>Aquatrace</italic> (contract no. 311920). Funding was also provided by FORMAS, The Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning (<italic>Sea trout at Sea</italic>; 2010&#x02010;01710) and the Danish Rod and Net Fishing License Funds.</p></ack><sec sec-type="data-availability" id="eva12877-sec-0021"><title>DATA AVAILABILITY STATEMENT</title><p>SNP genotype data are deposited at <ext-link ext-link-type="uri" xlink:href="https://data.dtu.dk/10.11583/DTU.10008020" specific-use="software is-supplemented-by">https://data.dtu.dk/10.11583/DTU.10008020</ext-link>.</p></sec><ref-list content-type="cited-references" id="eva12877-bibl-0001"><title>REFERENCES</title><ref id="eva12877-bib-0001"><mixed-citation publication-type="journal" id="eva12877-cit-0001">
+<string-name>
+<surname>Aas</surname>, <given-names>&#x000d8;.</given-names>
+</string-name>, <string-name>
+<surname>Cucherousset</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fleming</surname>, <given-names>I. A.</given-names>
+</string-name>, <string-name>
+<surname>Wolter</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;jesj&#x000f6;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Buoro</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Arlinghaus</surname>, <given-names>R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Salmonid stocking in five North Atlantic jurisdictions: Identifying drivers and barriers to policy change</article-title>. <source xml:lang="en">Aquatic Conservation Marine and Freshwater Ecosystems</source>, <volume>28</volume>, <fpage>1451</fpage>&#x02013;<lpage>1464</lpage>. <pub-id pub-id-type="doi">10.1002/aqc.2984</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0002"><mixed-citation publication-type="journal" id="eva12877-cit-0002">
+<string-name>
+<surname>Ahrens</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Rymer</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Stow</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bragg</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dillon</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Umbers</surname>, <given-names>K. D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dudaniec</surname>, <given-names>R. Y.</given-names>
+</string-name> (<year>2018</year>). <article-title>The search for loci under selection: Trends, biases and progress</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>27</volume>, <fpage>1342</fpage>&#x02013;<lpage>1356</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14549</pub-id>
+<pub-id pub-id-type="pmid">29524276</pub-id></mixed-citation></ref><ref id="eva12877-bib-0003"><mixed-citation publication-type="journal" id="eva12877-cit-0003">
+<string-name>
+<surname>Albrechtsen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>, <given-names>F. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nielsen</surname>, <given-names>R.</given-names>
+</string-name> (<year>2010</year>). <article-title>Ascertainment biases in SNP chips affect measures of population divergence</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>27</volume>, <fpage>2534</fpage>&#x02013;<lpage>2547</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msq148</pub-id>
+<pub-id pub-id-type="pmid">20558595</pub-id></mixed-citation></ref><ref id="eva12877-bib-0004"><mixed-citation publication-type="journal" id="eva12877-cit-0004">
+<string-name>
+<surname>Allendorf</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<surname>Hohenlohe</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Luikart</surname>, <given-names>G.</given-names>
+</string-name> (<year>2010</year>). <article-title>Genomics and the future of conservation genetics</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>11</volume>, <fpage>697</fpage>&#x02013;<lpage>709</lpage>. <pub-id pub-id-type="doi">10.1038/nrg2844</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0005"><mixed-citation publication-type="journal" id="eva12877-cit-0005">
+<string-name>
+<surname>Allendorf</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ryman</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Stennek</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stahl</surname>, <given-names>G.</given-names>
+</string-name> (<year>1976</year>). <article-title>Genetic&#x02010;variation in Scandinavian brown trout (<italic>Salmo trutta L</italic>) &#x02013; Evidence of distinct sympatric populations</article-title>. <source xml:lang="en">Hereditas</source>, <volume>83</volume>, <fpage>73</fpage>&#x02013;<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1111/j.1601-5223.1976.tb01572.x</pub-id>
+<pub-id pub-id-type="pmid">965242</pub-id></mixed-citation></ref><ref id="eva12877-bib-0006"><mixed-citation publication-type="journal" id="eva12877-cit-0006">
+<string-name>
+<surname>Andersson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jansson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Wennerstrom</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Chiriboga</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Arnyasi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kent</surname>, <given-names>M. P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Laikre</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Complex genetic diversity patterns of cryptic, sympatric brown trout (<italic>Salmo trutta</italic>) populations in tiny mountain lakes</article-title>. <source xml:lang="en">Conservation Genetics</source>, <volume>18</volume>, <fpage>1213</fpage>&#x02013;<lpage>1227</lpage>. <pub-id pub-id-type="doi">10.1007/s10592-017-0972-4</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0007"><mixed-citation publication-type="journal" id="eva12877-cit-0007">
+<string-name>
+<surname>Andrews</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Good</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Luikart</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hohenlohe</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Harnessing the power of RADseq for ecological and evolutionary genomics</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>17</volume>, <fpage>81</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1038/nrg.2015.28</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0008"><mixed-citation publication-type="journal" id="eva12877-cit-0008">
+<string-name>
+<surname>Ayll&#x000f3;n</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Railsback</surname>, <given-names>S. F.</given-names>
+</string-name>, <string-name>
+<surname>Vincenzi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Groeneveld</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Almod&#x000f3;var</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grimm</surname>, <given-names>V.</given-names>
+</string-name> (<year>2016</year>). <article-title>InSTREAM&#x02010;Gen: Modelling eco&#x02010;evolutionary dynamics of trout populations under anthropogenic environmental change</article-title>. <source xml:lang="en">Ecological Modelling</source>, <volume>326</volume>, <fpage>36</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2015.07.026</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0009"><mixed-citation publication-type="journal" id="eva12877-cit-0009">
+<string-name>
+<surname>Benjamini</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hochberg</surname>, <given-names>Y.</given-names>
+</string-name> (<year>1995</year>). <article-title>Controlling the false discovery rate: A practical and powerful approach to multiple testing</article-title>. <source xml:lang="en">Journal of the Royal Statistical Society: Series B (Methodological)</source>, <volume>57</volume>, <fpage>289</fpage>&#x02013;<lpage>300</lpage>. <pub-id pub-id-type="doi">10.1111/j.2517-6161.1995.tb02031.x</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0010"><mixed-citation publication-type="book" id="eva12877-cit-0010">
+<string-name>
+<surname>Berg</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>1998</year>). <source xml:lang="en">Genetiske og &#x000f8;kologiske anbefalinger for fiskeuds&#x000e6;tninger i Danmark (in Danish)</source>. Ministeriet for F&#x000f8;devarer, Landbrug og Fiskeri, Danmarks Fiskeriunders&#x000f8;gelser.</mixed-citation></ref><ref id="eva12877-bib-0011"><mixed-citation publication-type="journal" id="eva12877-cit-0011">
+<string-name>
+<surname>Bernatchez</surname>, <given-names>L.</given-names>
+</string-name> (<year>2001</year>). <article-title>The evolutionary history of brown trout (<italic>Salmo trutta</italic> L.) inferred from phylogeographic, nested clade, and mismatch analyses of mitochondrial DNA variation</article-title>. <source xml:lang="en">Evolution</source>, <volume>55</volume>, <fpage>351</fpage>&#x02013;<lpage>379</lpage>. <pub-id pub-id-type="doi">10.1111/j.0014-3820.2001.tb01300.x</pub-id>
+<pub-id pub-id-type="pmid">11308093</pub-id></mixed-citation></ref><ref id="eva12877-bib-0012"><mixed-citation publication-type="journal" id="eva12877-cit-0012">
+<string-name>
+<surname>Bourret</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kent</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Primmer</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Vasem&#x000e4;gi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Karlsson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hindar</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lien</surname>, <given-names>S.</given-names>
+</string-name> (<year>2013</year>). <article-title>SNP&#x02010;array reveals genome&#x02010;wide patterns of geographical and potential adaptive divergence across the natural range of Atlantic salmon (<italic>Salmo salar</italic>)</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>22</volume>, <fpage>532</fpage>&#x02013;<lpage>551</lpage>.<pub-id pub-id-type="pmid">22967111</pub-id></mixed-citation></ref><ref id="eva12877-bib-0013"><mixed-citation publication-type="journal" id="eva12877-cit-0013">
+<string-name>
+<surname>Bradburd</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Coop</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ralph</surname>, <given-names>P. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Inferring continuous and discrete population genetic structure across space</article-title>. <source xml:lang="en">Genetics</source>, <volume>210</volume>, <fpage>33</fpage>&#x02013;<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.118.301333</pub-id>
+<pub-id pub-id-type="pmid">30026187</pub-id></mixed-citation></ref><ref id="eva12877-bib-0014"><mixed-citation publication-type="journal" id="eva12877-cit-0014">
+<string-name>
+<surname>Bradbury</surname>, <given-names>I. R.</given-names>
+</string-name>, <string-name>
+<surname>Hubert</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Bowman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Borza</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Paterson</surname>, <given-names>I. G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bentzen</surname>, <given-names>P.</given-names>
+</string-name> (<year>2013</year>). <article-title>Genomic islands of divergence and their consequences for the resolution of spatial structure in an exploited marine fish</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>6</volume>, <fpage>450</fpage>&#x02013;<lpage>461</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12026</pub-id>
+<pub-id pub-id-type="pmid">23745137</pub-id></mixed-citation></ref><ref id="eva12877-bib-0015"><mixed-citation publication-type="journal" id="eva12877-cit-0015">
+<string-name>
+<surname>Capblancq</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Luu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Blum</surname>, <given-names>M. G. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bazin</surname>, <given-names>E.</given-names>
+</string-name> (<year>2018</year>). <article-title>Evaluation of redundancy analysis to identify signatures of local adaptation</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>18</volume>, <fpage>1223</fpage>&#x02013;<lpage>1233</lpage>. <pub-id pub-id-type="doi">10.1111/1755-0998.12906</pub-id>
+<pub-id pub-id-type="pmid">29802785</pub-id></mixed-citation></ref><ref id="eva12877-bib-0016"><mixed-citation publication-type="journal" id="eva12877-cit-0016">
+<string-name>
+<surname>Carruthers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yurchenko</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Augley</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<surname>Herzy</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Elmer</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>De novo transcriptome assembly, annotation and comparison of four ecological and evolutionary model salmonid fish species</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>19</volume>, <fpage>32</fpage>
+<pub-id pub-id-type="doi">10.1186/s12864-017-4379-x</pub-id>
+<pub-id pub-id-type="pmid">29310597</pub-id></mixed-citation></ref><ref id="eva12877-bib-0017"><mixed-citation publication-type="journal" id="eva12877-cit-0017">
+<string-name>
+<surname>Caudron</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Champigneulle</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Guyomard</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Largiader</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2011</year>). <article-title>Assessment of three strategies practiced by fishery managers for restoring native brown trout (<italic>Salmo trutta</italic>) populations in Northern French Alpine Streams</article-title>. <source xml:lang="en">Ecology of Freshwater Fish</source>, <volume>20</volume>, <fpage>478</fpage>&#x02013;<lpage>491</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0633.2010.00458.x</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0018"><mixed-citation publication-type="book" id="eva12877-cit-0018">
+<string-name>
+<surname>Chavent</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kuentz&#x02010;Simonet</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Labenne</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Saracco</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <source xml:lang="en">Multivariate analysis of mixed data: The PCAmixdata R package</source>. arXiv:1411.4911.</mixed-citation></ref><ref id="eva12877-bib-0019"><mixed-citation publication-type="journal" id="eva12877-cit-0019">
+<string-name>
+<surname>Chen</surname>, <given-names>Z. Q.</given-names>
+</string-name>, <string-name>
+<surname>Farrell</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Matala</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Narum</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Mechanisms of thermal adaptation and evolutionary potential of conspecific populations to changing environments</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>27</volume>, <fpage>659</fpage>&#x02013;<lpage>674</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14475</pub-id>
+<pub-id pub-id-type="pmid">29290103</pub-id></mixed-citation></ref><ref id="eva12877-bib-0020"><mixed-citation publication-type="journal" id="eva12877-cit-0020">
+<string-name>
+<surname>Cortey</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vera</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pla</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Garc&#x000ed;a&#x02010;mar&#x000ed;n</surname>, <given-names>J.&#x02010;L.</given-names>
+</string-name> (<year>2009</year>). <article-title>Northern and southern expansions of Atlantic brown trout (<italic>Salmo trutta</italic>) populations during the Pleistocene</article-title>. <source xml:lang="en">Biological Journal of the Linnean Society</source>, <volume>97</volume>, <fpage>904</fpage>&#x02013;<lpage>917</lpage>. <pub-id pub-id-type="doi">10.1111/j.1095-8312.2009.01220.x</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0021"><mixed-citation publication-type="journal" id="eva12877-cit-0021">
+<string-name>
+<surname>Crozier</surname>, <given-names>L. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hutchings</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Plastic and evolutionary responses to climate change in fish</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>7</volume>, <fpage>68</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12135</pub-id>
+<pub-id pub-id-type="pmid">24454549</pub-id></mixed-citation></ref><ref id="eva12877-bib-0022"><mixed-citation publication-type="journal" id="eva12877-cit-0022">
+<string-name>
+<surname>de Villemereuil</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Frichot</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bazin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Francois</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gaggiotti</surname>, <given-names>O. E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Genome scan methods against more complex models: When and how much should we trust them?</article-title>
+<source xml:lang="en">Molecular Ecology</source>, <volume>23</volume>, <fpage>2006</fpage>&#x02013;<lpage>2019</lpage>.<pub-id pub-id-type="pmid">24611968</pub-id></mixed-citation></ref><ref id="eva12877-bib-0023"><mixed-citation publication-type="journal" id="eva12877-cit-0023">
+<string-name>
+<surname>Edmands</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Between a rock and a hard place: Evaluating the relative risks of inbreeding and outbreeding for conservation and management</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>16</volume>, <fpage>463</fpage>&#x02013;<lpage>475</lpage>.<pub-id pub-id-type="pmid">17257106</pub-id></mixed-citation></ref><ref id="eva12877-bib-0024"><mixed-citation publication-type="journal" id="eva12877-cit-0024">
+<string-name>
+<surname>Eliason</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name>
+<surname>Hague</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Hanson</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>, <given-names>Z. S.</given-names>
+</string-name>, <string-name>
+<surname>Jeffries</surname>, <given-names>K. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Farrell</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2011</year>). <article-title>Differences in thermal tolerance among sockeye salmon populations</article-title>. <source xml:lang="en">Science</source>, <volume>332</volume>, <fpage>109</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1126/science.1199158</pub-id>
+<pub-id pub-id-type="pmid">21454790</pub-id></mixed-citation></ref><ref id="eva12877-bib-0025"><mixed-citation publication-type="journal" id="eva12877-cit-0025">
+<string-name>
+<surname>Excoffier</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hofer</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foll</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Detecting loci under selection in a hierarchically structured population</article-title>. <source xml:lang="en">Heredity</source>, <volume>103</volume>, <fpage>285</fpage>&#x02013;<lpage>298</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.2009.74</pub-id>
+<pub-id pub-id-type="pmid">19623208</pub-id></mixed-citation></ref><ref id="eva12877-bib-0026"><mixed-citation publication-type="journal" id="eva12877-cit-0026">
+<string-name>
+<surname>Ferguson</surname>, <given-names>A.</given-names>
+</string-name> (<year>1989</year>). <article-title>Genetic differences among brown trout, <italic>Salmo trutta</italic>, stocks and their Importance for the conservation and management of the species</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>21</volume>, <fpage>35</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2427.1989.tb01346.x</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0027"><mixed-citation publication-type="journal" id="eva12877-cit-0027">
+<string-name>
+<surname>Flanagan</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Forester</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Latch</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Aitken</surname>, <given-names>S. N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hoban</surname>, <given-names>S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Guidelines for planning genomic assessment and monitoring of locally adaptive variation to inform species conservation</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <pub-id pub-id-type="doi">10.1111/eva.12569</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0028"><mixed-citation publication-type="journal" id="eva12877-cit-0028">
+<string-name>
+<surname>Foll</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gaggiotti</surname>, <given-names>O.</given-names>
+</string-name> (<year>2008</year>). <article-title>A genome&#x02010;scan method to identify selected loci appropriate for both dominant and codominant markers: A Bayesian perspective</article-title>. <source xml:lang="en">Genetics</source>, <volume>180</volume>, <fpage>977</fpage>&#x02013;<lpage>993</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.108.092221</pub-id>
+<pub-id pub-id-type="pmid">18780740</pub-id></mixed-citation></ref><ref id="eva12877-bib-0029"><mixed-citation publication-type="journal" id="eva12877-cit-0029">
+<string-name>
+<surname>Forester</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Lasky</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>H. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Urban</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Comparing methods for detecting multilocus adaptation with multivariate genotype&#x02010;environment associations</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>27</volume>, <fpage>2215</fpage>&#x02013;<lpage>2233</lpage>.<pub-id pub-id-type="pmid">29633402</pub-id></mixed-citation></ref><ref id="eva12877-bib-0030"><mixed-citation publication-type="journal" id="eva12877-cit-0030">
+<string-name>
+<surname>Frichot</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Schoville</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Bouchard</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fran&#x000e7;ois</surname>, <given-names>O.</given-names>
+</string-name> (<year>2013</year>). <article-title>Testing for associations between loci and environmental gradients using latent factor mixed models</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>30</volume>, <fpage>1687</fpage>&#x02013;<lpage>1699</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/mst063</pub-id>
+<pub-id pub-id-type="pmid">23543094</pub-id></mixed-citation></ref><ref id="eva12877-bib-0031"><mixed-citation publication-type="journal" id="eva12877-cit-0031">
+<string-name>
+<surname>Funk</surname>, <given-names>W. C.</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Hohenlohe</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Allendorf</surname>, <given-names>F. W.</given-names>
+</string-name> (<year>2012</year>). <article-title>Harnessing genomics for delineating conservation units</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>27</volume>, <fpage>489</fpage>&#x02013;<lpage>496</lpage>.<pub-id pub-id-type="pmid">22727017</pub-id></mixed-citation></ref><ref id="eva12877-bib-0032"><mixed-citation publication-type="journal" id="eva12877-cit-0032">
+<string-name>
+<surname>Gil</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Labonne</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Caudron</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Evaluation of strategies to conserve and restore intraspecific biodiversity of brown trout: Outcomes from genetic monitoring in the French Alps</article-title>. <source xml:lang="en">Reviews in Fish Biology and Fisheries</source>, <volume>26</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>.</mixed-citation></ref><ref id="eva12877-bib-0033"><mixed-citation publication-type="journal" id="eva12877-cit-0033">
+<string-name>
+<surname>Glover</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Pertoldi</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Besnier</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Wennevik</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kent</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Skaala</surname>, <given-names>&#x000d8;.</given-names>
+</string-name> (<year>2013</year>). <article-title>Atlantic salmon populations invaded by farmed escapees: Quantifying genetic introgression with a Bayesian approach and SNPs</article-title>. <source xml:lang="en">BMC Genetics</source>, <volume>14</volume>, <fpage>4</fpage>.<pub-id pub-id-type="pmid">23375055</pub-id></mixed-citation></ref><ref id="eva12877-bib-0034"><mixed-citation publication-type="book" id="eva12877-cit-0034">
+<string-name>
+<surname>Green</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Falls</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Crooks</surname>, <given-names>S.</given-names>
+</string-name> (<year>1990</year>). <source xml:lang="en">Documentation for CRI-MAP, version 2.4</source>. <publisher-loc>St. Louis, MO</publisher-loc>: <publisher-name>Washington University School of Medicine</publisher-name>.</mixed-citation></ref><ref id="eva12877-bib-0035"><mixed-citation publication-type="journal" id="eva12877-cit-0035">
+<string-name>
+<surname>Griffiths</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Koizumi</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Bright</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stevens</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2009</year>). <article-title>A case of isolation by distance and short&#x02010;term temporal stability of population structure in brown trout (<italic>Salmo trutta</italic>) within the River Dart, southwest England</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>2</volume>, <fpage>537</fpage>&#x02013;<lpage>554</lpage>.<pub-id pub-id-type="pmid">25567897</pub-id></mixed-citation></ref><ref id="eva12877-bib-0036"><mixed-citation publication-type="journal" id="eva12877-cit-0036">
+<string-name>
+<surname>Guillot</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Foll</surname>, <given-names>M.</given-names>
+</string-name> (<year>2009</year>). <article-title>Correcting for ascertainment bias in the inference of population structure</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>25</volume>, <fpage>552</fpage>&#x02013;<lpage>554</lpage>.<pub-id pub-id-type="pmid">19136550</pub-id></mixed-citation></ref><ref id="eva12877-bib-0037"><mixed-citation publication-type="journal" id="eva12877-cit-0037">
+<string-name>
+<surname>Hagen</surname>, <given-names>I. J.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<surname>Bolstad</surname>, <given-names>G. H.</given-names>
+</string-name>, <string-name>
+<surname>Diserud</surname>, <given-names>O. H.</given-names>
+</string-name>, <string-name>
+<surname>Hindar</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karlsson</surname>, <given-names>S.</given-names>
+</string-name> (<year>2019</year>). <article-title>Supplementary stocking selects for domesticated genotypes</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>10</volume>, <fpage>199</fpage>.</mixed-citation></ref><ref id="eva12877-bib-0038"><mixed-citation publication-type="journal" id="eva12877-cit-0038">
+<string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Estimating the long&#x02010;term effects of stocking domesticated trout into wild brown trout (<italic>Salmo trutta</italic>) populations: An approach using microsatellite DNA analysis of historical and contemporary samples</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>11</volume>, <fpage>1003</fpage>&#x02013;<lpage>1015</lpage>.<pub-id pub-id-type="pmid">12030979</pub-id></mixed-citation></ref><ref id="eva12877-bib-0039"><mixed-citation publication-type="journal" id="eva12877-cit-0039">
+<string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Fraser</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Meier</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mensberg</surname>, <given-names>K.&#x02010;L.&#x02010;D.</given-names>
+</string-name> (<year>2009</year>). <article-title>Sixty years of anthropogenic pressure: A spatio&#x02010;temporal genetic analysis of brown trout populations subject to stocking and population declines</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>18</volume>, <fpage>2549</fpage>&#x02013;<lpage>2562</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2009.04198.x</pub-id>
+<pub-id pub-id-type="pmid">19457206</pub-id></mixed-citation></ref><ref id="eva12877-bib-0040"><mixed-citation publication-type="journal" id="eva12877-cit-0040">
+<string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jensen</surname>, <given-names>L. F.</given-names>
+</string-name> (<year>2005</year>). <article-title>Sibship within samples of brown trout (<italic>Salmo trutta</italic>) and implications for supportive breeding</article-title>. <source xml:lang="en">Conservation Genetics</source>, <volume>6</volume>, <fpage>297</fpage>&#x02013;<lpage>305</lpage>.</mixed-citation></ref><ref id="eva12877-bib-0041"><mixed-citation publication-type="journal" id="eva12877-cit-0041">
+<string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Limborg</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Ferchaud</surname>, <given-names>A.&#x02010;L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pujolar</surname>, <given-names>J.&#x02010;M.</given-names>
+</string-name> (<year>2014</year>). <article-title>The effects of Medieval dams on genetic divergence and demographic history in brown trout populations</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>14</volume>, <fpage>122</fpage>.<pub-id pub-id-type="pmid">24903056</pub-id></mixed-citation></ref><ref id="eva12877-bib-0042"><mixed-citation publication-type="journal" id="eva12877-cit-0042">
+<string-name>
+<surname>Hecht</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Matala</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Hess</surname>, <given-names>J. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Narum</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Environmental adaptation in chinook salmon (<italic>Oncorhynchus tshawytscha</italic>) throughout their North American range</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>24</volume>, <fpage>5573</fpage>&#x02013;<lpage>5595</lpage>.<pub-id pub-id-type="pmid">26465117</pub-id></mixed-citation></ref><ref id="eva12877-bib-0043"><mixed-citation publication-type="journal" id="eva12877-cit-0043">
+<string-name>
+<surname>Hemmer&#x02010;Hansen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Therkildsen</surname>, <given-names>N. O.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>M. I.</given-names>
+</string-name>, <string-name>
+<surname>Ogden</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Geffen</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Carvalho</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>2013</year>). <article-title>A genomic island linked to ecotype divergence in Atlantic cod</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>22</volume>, <fpage>2653</fpage>&#x02013;<lpage>2667</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12284</pub-id>
+<pub-id pub-id-type="pmid">23611647</pub-id></mixed-citation></ref><ref id="eva12877-bib-0044"><mixed-citation publication-type="journal" id="eva12877-cit-0044">
+<string-name>
+<surname>Hewitt</surname>, <given-names>H. G. M.</given-names>
+</string-name> (<year>2000</year>). <article-title>The genetic legacy of the quaternary ice ages</article-title>. <source xml:lang="en">Nature</source>, <volume>405</volume>, <fpage>907</fpage>&#x02013;<lpage>913</lpage>. <pub-id pub-id-type="doi">10.1038/35016000</pub-id>
+<pub-id pub-id-type="pmid">10879524</pub-id></mixed-citation></ref><ref id="eva12877-bib-0045"><mixed-citation publication-type="journal" id="eva12877-cit-0045">
+<string-name>
+<surname>Imhof</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Fitzgibbon</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Annable</surname>, <given-names>W. K.</given-names>
+</string-name> (<year>1994</year>). <article-title>A hierarchical evaluation system for characterizing watershed ecosystems for fish habitat</article-title>. <source xml:lang="en">Canadian Journal of Fisheries and Aquatic Sciences</source>, <volume>53</volume>(<issue>S1</issue>), <fpage>312</fpage>&#x02013;<lpage>326</lpage>.</mixed-citation></ref><ref id="eva12877-bib-0046"><mixed-citation publication-type="journal" id="eva12877-cit-0046">
+<string-name>
+<surname>Jacquin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gauthey</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Roussille</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Le Henaff</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tentelier</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Labonne</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Melanin in a changing world: Brown trout coloration reflects alternative reproductive strategies in variable environments</article-title>. <source xml:lang="en">Behavioral Ecology</source>, <volume>28</volume>, <fpage>1423</fpage>&#x02013;<lpage>1434</lpage>. <pub-id pub-id-type="doi">10.1093/beheco/arx102</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0047"><mixed-citation publication-type="journal" id="eva12877-cit-0047">
+<string-name>
+<surname>Jensen</surname>, <given-names>L. F.</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Pertoldi</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Holdensgaard</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Mensberg</surname>, <given-names>K.&#x02010;L.&#x02010;D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Loeschcke</surname>, <given-names>V.</given-names>
+</string-name> (<year>2008</year>). <article-title>Local adaptation in brown trout early life&#x02010;history traits: Implications for climate change adaptability</article-title>. <source xml:lang="en">Proceedings of the Royal Society London: Series B</source>, <volume>275</volume>, <fpage>2859</fpage>&#x02013;<lpage>2868</lpage>.</mixed-citation></ref><ref id="eva12877-bib-0048"><mixed-citation publication-type="journal" id="eva12877-cit-0048">
+<string-name>
+<surname>Jombart</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>adegenet: A R package for the multivariate analysis of genetic markers</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>24</volume>, <fpage>1403</fpage>&#x02013;<lpage>1405</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btn129</pub-id>
+<pub-id pub-id-type="pmid">18397895</pub-id></mixed-citation></ref><ref id="eva12877-bib-0049"><mixed-citation publication-type="journal" id="eva12877-cit-0049">
+<string-name>
+<surname>Jombart</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ahmed</surname>, <given-names>I.</given-names>
+</string-name> (<year>2011</year>). <article-title>adegenet 1.3&#x02010;1: New tools for the analysis of genome&#x02010;wide SNP data</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>27</volume>, <fpage>3070</fpage>&#x02013;<lpage>3071</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btr521</pub-id>
+<pub-id pub-id-type="pmid">21926124</pub-id></mixed-citation></ref><ref id="eva12877-bib-0050"><mixed-citation publication-type="journal" id="eva12877-cit-0050">
+<string-name>
+<surname>Klemetsen</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Amundsen</surname>, <given-names>P.&#x02010;A.</given-names>
+</string-name>, <string-name>
+<surname>Dempson</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>O'Connell</surname>, <given-names>M. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mortensen</surname>, <given-names>E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Atlantic salmon <italic>Salmo salar</italic> L., brown trout <italic>Salmo trutta</italic> L. and Arctic charr <italic>Salvelinus alpinus</italic> (L.): A review of aspects of their life histories</article-title>. <source xml:lang="en">Ecology of Freshwater Fishes</source>, <volume>12</volume>, <fpage>1</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1034/j.1600-0633.2003.00010.x</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0051"><mixed-citation publication-type="journal" id="eva12877-cit-0051">
+<string-name>
+<surname>Koljonen</surname>, <given-names>M.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koskiniemi</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Wild Estonian and Russian sea trout (<italic>Salmo trutta</italic>) in Finnish coastal sea trout catches: Results of genetic mixed&#x02010;stock analysis</article-title>. <source xml:lang="en">Hereditas</source>, <volume>151</volume>, <fpage>177</fpage>&#x02013;<lpage>195</lpage>.<pub-id pub-id-type="pmid">25588304</pub-id></mixed-citation></ref><ref id="eva12877-bib-0052"><mixed-citation publication-type="journal" id="eva12877-cit-0052">
+<string-name>
+<surname>Laikre</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name>
+<surname>Waples</surname>, <given-names>R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ryman</surname>, <given-names>N.</given-names>
+</string-name> (<year>2010</year>). <article-title>Compromising genetic diversity in the wild: Unmonitored large&#x02010;scale release of plants and animals</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>25</volume>, <fpage>520</fpage>&#x02013;<lpage>529</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2010.06.013</pub-id>
+<pub-id pub-id-type="pmid">20688414</pub-id></mixed-citation></ref><ref id="eva12877-bib-0053"><mixed-citation publication-type="journal" id="eva12877-cit-0053">
+<string-name>
+<surname>Lamichhaney</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fuentes&#x02010;Pardo</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Rafati</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ryman</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>McCracken</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>Bourne</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Andersson</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Parallel adaptive evolution of geographically distant herring populations on both sides of the North Atlantic Ocean</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences USA</source>, <volume>114</volume>, <fpage>E3452</fpage>&#x02013;<lpage>E3461</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1617728114</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0054"><mixed-citation publication-type="journal" id="eva12877-cit-0054">
+<string-name>
+<surname>Lehnert</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Kess</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bentzen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kent</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Lien</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gilbey</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bradbury</surname>, <given-names>I. R.</given-names>
+</string-name> (<year>2019</year>). <article-title>Genomic signatures and correlates of widespread population declines in salmon</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>10</volume>, <fpage>2996</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-019-10972-w</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0055"><mixed-citation publication-type="journal" id="eva12877-cit-0055">
+<string-name>
+<surname>Leitwein</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Guinand</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Pouzadoux</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Desmarais</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Berrebi</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gagnaire</surname>, <given-names>P.&#x02010;A.</given-names>
+</string-name> (<year>2017</year>). <article-title>A dense brown trout (<italic>Salmo trutta</italic>) linkage map reveals recent chromosomal rearrangements in the <italic>Salmo</italic> genus and the impact of selection on linked neutral diversity</article-title>. <source xml:lang="en">G3: Genes Genomes Genetics</source>, <volume>7</volume>, <fpage>1365</fpage>&#x02013;<lpage>1376</lpage>.<pub-id pub-id-type="pmid">28235829</pub-id></mixed-citation></ref><ref id="eva12877-bib-0056"><mixed-citation publication-type="journal" id="eva12877-cit-0056">
+<string-name>
+<surname>Lemopoulos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Uusi&#x02010;Heikkil&#x000e4;</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Huusko</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vasem&#x000e4;gi</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vainikki</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Comparison of migratory and resident populations of Brown trout reveals candidate genes for migration tendency</article-title>. <source xml:lang="en">Genome Biology and Evolution</source>, <volume>10</volume>, <fpage>1493</fpage>&#x02013;<lpage>1503</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evy102</pub-id>
+<pub-id pub-id-type="pmid">29850813</pub-id></mixed-citation></ref><ref id="eva12877-bib-0057"><mixed-citation publication-type="journal" id="eva12877-cit-0057">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Durbin</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Fast and accurate short read alignment with Burrows&#x02010;Wheeler transform</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>25</volume>, <fpage>1754</fpage>&#x02013;<lpage>1760</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btp324</pub-id>
+<pub-id pub-id-type="pmid">19451168</pub-id></mixed-citation></ref><ref id="eva12877-bib-0058"><mixed-citation publication-type="journal" id="eva12877-cit-0058">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Handsaker</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wysoker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fennell</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ruan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Homer</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <collab collab-type="authors">1000 Genome Project Data Processing Subgroup</collab>
+(<year>2009</year>). <article-title>The Sequence alignment/map (SAM) format and SAMtools</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>25</volume>, <fpage>2078</fpage>&#x02013;<lpage>2079</lpage>.<pub-id pub-id-type="pmid">19505943</pub-id></mixed-citation></ref><ref id="eva12877-bib-0059"><mixed-citation publication-type="journal" id="eva12877-cit-0059">
+<string-name>
+<surname>Li</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ruan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>Z.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>). <article-title>De novo assembly of human genomes with massively parallel short read sequencing</article-title>. <source xml:lang="en">Genome Research</source>, <volume>20</volume>, <fpage>265</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1101/gr.097261.109</pub-id>
+<pub-id pub-id-type="pmid">20019144</pub-id></mixed-citation></ref><ref id="eva12877-bib-0060"><mixed-citation publication-type="journal" id="eva12877-cit-0060">
+<string-name>
+<surname>Lien</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gidskehaug</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Moen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>, <given-names>W. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kent</surname>, <given-names>M. P.</given-names>
+</string-name> (<year>2011</year>). <article-title>A dense SNP&#x02010;based linkage map of Atlantic salmon (<italic>Salmo salar</italic>) reveals extended chromosome homeologies and striking differences in sex&#x02010;specific recombination patterns</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>12</volume>, <fpage>615</fpage>.<pub-id pub-id-type="pmid">22182215</pub-id></mixed-citation></ref><ref id="eva12877-bib-0061"><mixed-citation publication-type="journal" id="eva12877-cit-0061">
+<string-name>
+<surname>Lotterhos</surname>, <given-names>K. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Whitlock</surname>, <given-names>M. C.</given-names>
+</string-name> (<year>2015</year>). <article-title>The relative power of genome scans to detect local adaptation depends on sampling design and statistical method</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>24</volume>, <fpage>1031</fpage>&#x02013;<lpage>1046</lpage>. <pub-id pub-id-type="doi">10.1111/mec.13100</pub-id>
+<pub-id pub-id-type="pmid">25648189</pub-id></mixed-citation></ref><ref id="eva12877-bib-0062"><mixed-citation publication-type="journal" id="eva12877-cit-0062">
+<string-name>
+<surname>Luu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bazin</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blum</surname>, <given-names>M. G. B.</given-names>
+</string-name> (<year>2017</year>). <article-title>pcadapt: An R package to perform genome scans for selection based on principal component analysis</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>17</volume>, <fpage>67</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">27601374</pub-id></mixed-citation></ref><ref id="eva12877-bib-0063"><mixed-citation publication-type="journal" id="eva12877-cit-0063">
+<string-name>
+<surname>Mart&#x000ed;nez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Vi&#x000f1;as</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bouza</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Arias</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Amaro</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>S&#x000e1;nchez</surname>, <given-names>L.</given-names>
+</string-name> (<year>1991</year>). <article-title>Cytogenetical characterization of hatchery stocks and natural populations of Sea and Brown Trout from northwestern Spain</article-title>. <source xml:lang="en">Heredity</source>, <volume>66</volume>, <fpage>9</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.1991.2</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0064"><mixed-citation publication-type="journal" id="eva12877-cit-0064">
+<string-name>
+<surname>Matala</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Ackerman</surname>, <given-names>M. W.</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Narum</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Relative contributions of neutral and non&#x02010;neutral genetic differentiation to inform conservation of steelhead trout across highly variable landscapes</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>7</volume>, <fpage>682</fpage>&#x02013;<lpage>701</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12174</pub-id>
+<pub-id pub-id-type="pmid">25067950</pub-id></mixed-citation></ref><ref id="eva12877-bib-0065"><mixed-citation publication-type="journal" id="eva12877-cit-0065">
+<string-name>
+<surname>McCairns</surname>, <given-names>R. J. S.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sasaki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bernatchez</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beheregaray</surname>, <given-names>L. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>The adaptive potential of subtropical rainbowfish in the face of climate change: Heritability and heritable plasticity for the expression of candidate genes</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>18</volume>, <fpage>531</fpage>&#x02013;<lpage>545</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12363</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0066"><mixed-citation publication-type="journal" id="eva12877-cit-0066">
+<string-name>
+<surname>McKeown</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Hynes</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Duguid</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Prodohl</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Phylogeographic structure of brown trout <italic>Salmo trutta</italic> in Britain and Ireland: Glacial refugia, postglacial colonization and origins of sympatric populations</article-title>. <source xml:lang="en">Journal of Fish Biology</source>, <volume>76</volume>, <fpage>319</fpage>&#x02013;<lpage>347</lpage>.<pub-id pub-id-type="pmid">20738710</pub-id></mixed-citation></ref><ref id="eva12877-bib-0067"><mixed-citation publication-type="journal" id="eva12877-cit-0067">
+<string-name>
+<surname>Mee</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Bernatchez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Reist</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>, <given-names>S. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Taylor</surname>, <given-names>E. B.</given-names>
+</string-name> (<year>2015</year>). <article-title>Identifying designatable units for intraspecific conservation prioritization: A hierarchical approach applied to the lake whitefish species complex (<italic>Coregonus</italic> spp.)</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>8</volume>, <fpage>423</fpage>&#x02013;<lpage>441</lpage>.<pub-id pub-id-type="pmid">26029257</pub-id></mixed-citation></ref><ref id="eva12877-bib-0068"><mixed-citation publication-type="journal" id="eva12877-cit-0068">
+<string-name>
+<surname>Meier</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Bekkevold</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Skaala</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mensberg</surname>, <given-names>K. L. D.</given-names>
+</string-name> (<year>2011</year>). <article-title>An assessment of the spatial scale of local adaptation in brown trout (<italic>Salmo trutta</italic> L.): Footprints of selection at microsatellite DNA loci</article-title>. <source xml:lang="en">Heredity</source>, <volume>106</volume>, <fpage>488</fpage>&#x02013;<lpage>499</lpage>. <pub-id pub-id-type="doi">10.1038/hdy.2010.164</pub-id>
+<pub-id pub-id-type="pmid">21224872</pub-id></mixed-citation></ref><ref id="eva12877-bib-0069"><mixed-citation publication-type="journal" id="eva12877-cit-0069">
+<string-name>
+<surname>Narum</surname>, <given-names>S. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hess</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2011</year>). <article-title>Comparison of FST outlier tests for SNP loci under selection</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>11</volume>(<issue>Suppl 1</issue>), <fpage>184</fpage>&#x02013;<lpage>194</lpage>.<pub-id pub-id-type="pmid">21429174</pub-id></mixed-citation></ref><ref id="eva12877-bib-0070"><mixed-citation publication-type="journal" id="eva12877-cit-0070">
+<string-name>
+<surname>Nielsen</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Cariani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Aoidh</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Maes</surname>, <given-names>G. E.</given-names>
+</string-name>, <string-name>
+<surname>Milano</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Ogden</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Carvalho</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Gene&#x02010;associated markers provide tools for tackling illegal fishing and false eco&#x02010;certification</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>3</volume>, <fpage>851</fpage>
+<pub-id pub-id-type="doi">10.1038/ncomms1845</pub-id>
+</mixed-citation></ref><ref id="eva12877-bib-0071"><mixed-citation publication-type="book" id="eva12877-cit-0071">
+<string-name>
+<surname>Oksanen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Blanchet</surname>, <given-names>F. G.</given-names>
+</string-name>, <string-name>
+<surname>Friendly</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kindt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Legendre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mcglinn</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wagner</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015</year>). <source xml:lang="en">Vegan: Community ecology package. R package version 2.3&#x02010;2</source>. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=vegan">https://CRAN.R-project.org/package=vegan</ext-link>
+</mixed-citation></ref><ref id="eva12877-bib-0072"><mixed-citation publication-type="journal" id="eva12877-cit-0072">
+<string-name>
+<surname>&#x000d8;stergaard</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Loeschcke</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nielsen</surname>, <given-names>E. E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Long&#x02010;term temporal changes of genetic composition in brown trout (<italic>Salmo trutta</italic> L.) populations inhabiting an unstable environment</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>12</volume>, <fpage>3123</fpage>&#x02013;<lpage>3135</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-294X.2003.01976.x</pub-id>
+<pub-id pub-id-type="pmid">14629391</pub-id></mixed-citation></ref><ref id="eva12877-bib-0073"><mixed-citation publication-type="journal" id="eva12877-cit-0073">
+<string-name>
+<surname>Pavlidis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Stephan</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stamatakis</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>A critical assessment of storytelling: Gene ontology categories and the importance of validating genomic scans</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>29</volume>, <fpage>3237</fpage>&#x02013;<lpage>3248</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/mss136</pub-id>
+<pub-id pub-id-type="pmid">22617950</pub-id></mixed-citation></ref><ref id="eva12877-bib-0074"><mixed-citation publication-type="journal" id="eva12877-cit-0074">
+<string-name>
+<surname>Perrier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Bourret</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kent</surname>, <given-names>M. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bernatchez</surname>, <given-names>L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Parallel and nonparallel genome&#x02010;wide divergence among replicate population pairs of freshwater and anadromous Atlantic salmon</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>22</volume>, <fpage>5577</fpage>&#x02013;<lpage>5593</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12500</pub-id>
+<pub-id pub-id-type="pmid">24730037</pub-id></mixed-citation></ref><ref id="eva12877-bib-0075"><mixed-citation publication-type="journal" id="eva12877-cit-0075">
+<string-name>
+<surname>Pritchard</surname>, <given-names>V. L.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000e4;kinen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>V&#x000e4;h&#x000e4;</surname>, <given-names>J.&#x02010;P.</given-names>
+</string-name>, <string-name>
+<surname>Erkinaro</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Orell</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Primmer</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Genomic signatures of fine&#x02010;scale local adaptation in Atlantic salmon suggest involvement of sexual maturation, energy homeostasis, behaviour, and immune defence&#x02010;related genes</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>27</volume>, <fpage>2560</fpage>&#x02013;<lpage>2575</lpage>.<pub-id pub-id-type="pmid">29691916</pub-id></mixed-citation></ref><ref id="eva12877-bib-0076"><mixed-citation publication-type="journal" id="eva12877-cit-0076">
+<string-name>
+<surname>Pujolar</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Vincenzi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zane</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Crivelli</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Temporal changes in allele frequencies in a small marble trout <italic>Salmo marmoratus</italic> population threatened by extreme flood events</article-title>. <source xml:lang="en">Journal of Fish Biology</source>, <volume>88</volume>, <fpage>1175</fpage>&#x02013;<lpage>1190</lpage>.<pub-id pub-id-type="pmid">26832308</pub-id></mixed-citation></ref><ref id="eva12877-bib-0077"><mixed-citation publication-type="journal" id="eva12877-cit-0077">
+<string-name>
+<surname>Rockman</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2012</year>). <article-title>The QTN program and the alleles that matter for evolution: All that's gold does not glitter</article-title>. <source xml:lang="en">Evolution</source>, <volume>66</volume>, <fpage>1</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2011.01486.x</pub-id>
+<pub-id pub-id-type="pmid">22220860</pub-id></mixed-citation></ref><ref id="eva12877-bib-0078"><mixed-citation publication-type="journal" id="eva12877-cit-0078">
+<string-name>
+<surname>Roschanski</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Csillery</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Liepelt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Oddou&#x02010;Muratorio</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ziegenhagen</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Huard</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Fady</surname>, <given-names>B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Evidence of divergent selection for drought and cold tolerance at landscape and local scales in <italic>Abies alba</italic> Mill. in the French Mediterranean Alps</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>25</volume>, <fpage>776</fpage>&#x02013;<lpage>794</lpage>.<pub-id pub-id-type="pmid">26676992</pub-id></mixed-citation></ref><ref id="eva12877-bib-0079"><mixed-citation publication-type="journal" id="eva12877-cit-0079">
+<string-name>
+<surname>Rose</surname>, <given-names>J.</given-names>
+</string-name> (<year>1994</year>). <article-title>Major river systems of central and southern Britain during the Early and Middle Pleistocene</article-title>. <source xml:lang="en">Terra Nova</source>, <volume>6</volume>, <fpage>435</fpage>&#x02013;<lpage>443</lpage>.</mixed-citation></ref><ref id="eva12877-bib-0080"><mixed-citation publication-type="journal" id="eva12877-cit-0080">
+<string-name>
+<surname>Rosenblum</surname>, <given-names>E. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Novembre</surname>, <given-names>J.</given-names>
+</string-name> (<year>2007</year>). <article-title>Ascertainment bias in spatially structured populations: A case study in the Eastern Fence Lizard</article-title>. <source xml:lang="en">Journal of Heredity</source>, <volume>98</volume>, <fpage>331</fpage>&#x02013;<lpage>336</lpage>.<pub-id pub-id-type="pmid">17611259</pub-id></mixed-citation></ref><ref id="eva12877-bib-0081"><mixed-citation publication-type="journal" id="eva12877-cit-0081">
+<string-name>
+<surname>Savolainen</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Lascoux</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meril&#x000e4;</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Ecological genomics of local adaptation</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>14</volume>, <fpage>807</fpage>&#x02013;<lpage>820</lpage>.</mixed-citation></ref><ref id="eva12877-bib-0082"><mixed-citation publication-type="journal" id="eva12877-cit-0082">
+<string-name>
+<surname>Solberg</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Dyrhovden</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Matre</surname>, <given-names>I. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Glover</surname>, <given-names>K. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Thermal plasticity in farmed, wild and hybrid Atlantic salmon during early development: Has domestication caused divergence in low temperature tolerance?</article-title>
+<source xml:lang="en">BMC Evolutionary Biology</source>, <volume>16</volume>, <fpage>38</fpage>.<pub-id pub-id-type="pmid">26883947</pub-id></mixed-citation></ref><ref id="eva12877-bib-0083"><mixed-citation publication-type="journal" id="eva12877-cit-0083">
+<string-name>
+<surname>Stelkens</surname>, <given-names>R. B.</given-names>
+</string-name>, <string-name>
+<surname>Jaffuel</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Escher</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wedekind</surname>, <given-names>C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Genetic and phenotypic population divergence on a microgeographic scale in brown trout</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>21</volume>, <fpage>2896</fpage>&#x02013;<lpage>2915</lpage>.<pub-id pub-id-type="pmid">22554245</pub-id></mixed-citation></ref><ref id="eva12877-bib-0084"><mixed-citation publication-type="journal" id="eva12877-cit-0084">
+<string-name>
+<surname>Vasem&#x000e4;gi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Primmer</surname>, <given-names>C. R.</given-names>
+</string-name> (<year>2005</year>). <article-title>Expressed sequence tag (EST) linked microsatellites as a source of gene associated polymorphisms for detecting signatures of divergent selection in Atlantic salmon (<italic>Salmo salar</italic> L.)</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>22</volume>, <fpage>1067</fpage>&#x02013;<lpage>1076</lpage>.<pub-id pub-id-type="pmid">15689532</pub-id></mixed-citation></ref><ref id="eva12877-bib-0085"><mixed-citation publication-type="journal" id="eva12877-cit-0085">
+<string-name>
+<surname>Vatsiou</surname>, <given-names>A. I.</given-names>
+</string-name>, <string-name>
+<surname>Bazin</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gaggiotti</surname>, <given-names>O. E.</given-names>
+</string-name> (<year>2016</year>). <article-title>Detection of selective sweeps in structured populations: A comparison of recent methods</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>25</volume>, <fpage>89</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">26314386</pub-id></mixed-citation></ref><ref id="eva12877-bib-0086"><mixed-citation publication-type="journal" id="eva12877-cit-0086">
+<string-name>
+<surname>Vera</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bouza</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Stocking impact, population structure and conservation of wild brown trout populations in inner Galicia (NW Spain), an unstable hydrologic region</article-title>. <source xml:lang="en">Aquatic conservation&#x02010;marine and Freshwater Ecosystems</source>, <volume>28</volume>, <fpage>435</fpage>&#x02013;<lpage>443</lpage>.</mixed-citation></ref><ref id="eva12877-bib-0087"><mixed-citation publication-type="journal" id="eva12877-cit-0087">
+<string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>A simulation module in the computer program COLONY for sibship and parentage analysis</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>13</volume>, <fpage>734</fpage>&#x02013;<lpage>739</lpage>.<pub-id pub-id-type="pmid">23615269</pub-id></mixed-citation></ref><ref id="eva12877-bib-0088"><mixed-citation publication-type="book" id="eva12877-cit-0088">
+<string-name>
+<surname>Warnes</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en"><italic toggle="yes">genetics</italic>: Population genetics, R package CRAN repository, ver. 1.3.8.1</source>. <ext-link ext-link-type="uri" xlink:href="https://github.com/cran/genetics">https://github.com/cran/genetics</ext-link>
+</mixed-citation></ref><ref id="eva12877-bib-0089"><mixed-citation publication-type="journal" id="eva12877-cit-0089">
+<string-name>
+<surname>Weir</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cockerham</surname>, <given-names>C.</given-names>
+</string-name> (<year>1984</year>). <article-title>Estimating F&#x02010;statistics for the analysis of population structure</article-title>. <source xml:lang="en">Evolution</source>, <volume>38</volume>, <fpage>1358</fpage>&#x02013;<lpage>1370</lpage>.<pub-id pub-id-type="pmid">28563791</pub-id></mixed-citation></ref></ref-list></back></article>

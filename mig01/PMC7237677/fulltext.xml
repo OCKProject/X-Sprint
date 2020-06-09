@@ -1,0 +1,769 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//Springer-Verlag//DTD A++ V2.4//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName A++V2.4.dtd?><?SourceDTD.Version 2.4?><?ConverterInfo.XSLTName springer2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group UK</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7237677</article-id><article-id pub-id-type="publisher-id">65208</article-id><article-id pub-id-type="doi">10.1038/s41598-020-65208-5</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>City structure shapes directional resettlement flows in Australia</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7028-4473</contrib-id><name><surname>Slavko</surname><given-names>Bohdan</given-names></name><address><email>bohdan.slavko@sydney.edu.au</email></address><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author"><name><surname>Glavatskiy</surname><given-names>Kirill</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4215-0344</contrib-id><name><surname>Prokopenko</surname><given-names>Mikhail</given-names></name><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1"><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 834X</institution-id><institution-id institution-id-type="GRID">grid.1013.3</institution-id><institution>Centre for Complex Systems, </institution><institution>The University of Sydney, </institution></institution-wrap>Sydney, NSW 2006 Australia </aff></contrib-group><pub-date pub-type="epub"><day>19</day><month>5</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>19</day><month>5</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>10</volume><elocation-id>8235</elocation-id><history><date date-type="received"><day>14</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>27</day><month>4</month><year>2020</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2020</copyright-statement><license license-type="OpenAccess"><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x02019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">Modern urban science views differences in attractiveness of residential suburbs as the main driver of resettlement within a city. In particular, certain suburbs may attract residents due to lower commute costs, and this is believed to lead to compactification of a city, with highly populated central business district and sprawled suburbia. In this paper we assess residential resettlement patterns in Australian capital cities by analyzing the 2011 and 2016 Australian Census data. Rather than explicitly defining a residential attractiveness of each suburb in subjective terms, we introduce and calibrate a model which quantifies the intra-city migration flows in terms of the attractiveness potentials (and their differences), inferring these from the data. We discover that, despite the existence of well-known static agglomeration patterns favouring central districts over the suburbia, the dynamic flows that shape the intra-city migration over the last decade reveal the preference directed away from the central districts with a high density of jobs and population, towards the less populated suburbs on the periphery. Furthermore, we discover that the relocation distance of such resettlement flows plays a vital role, and explains a significant part of the variation in migration flows: the resettlement flow markedly decreases with the relocation distance. Finally, we propose a conjecture that these directional resettlement flows are explained by the cities&#x02019; structure, with monocentric cities exhibiting outward flows with much higher reluctance to long-distance relocation. This conjecture is verified across the major Australian capitals: both monocentric (Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart) and polycentric (Darwin and Canberra).</p></abstract><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>Sustainability</kwd><kwd>Applied mathematics</kwd><kwd>Thermodynamics</kwd></kwd-group><funding-group><award-group><funding-source><institution>University of Sydney&#x00026;apos;s Postgraduate Research Scholarship SC0789</institution></funding-source></award-group></funding-group><funding-group><award-group><funding-source><institution>Australian Reseach Council Discovery Projec DP170102927</institution></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; The Author(s) 2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1" sec-type="introduction"><title>Introduction</title><p id="Par2">The modern world undergoes rapid urbanisation<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>. Growing complexity of cities demands new fundamental understanding and rigorous models of the urban dynamics, including diverse and transient intra-urban migration patterns. At the same time, the increasing availability of large-scale spatiotemporal data (e.g., from censuses or surveys) provides an additional impetus for quantitative modelling of urban development and related dynamics<sup><xref ref-type="bibr" rid="CR2">2</xref>&#x02013;<xref ref-type="bibr" rid="CR4">4</xref></sup>. A consistent modeling framework for settlement formation does not yet exist<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>, despite an abundance of stable empirical patterns<sup><xref ref-type="bibr" rid="CR5">5</xref>&#x02013;<xref ref-type="bibr" rid="CR12">12</xref></sup> and theoretical insights<sup><xref ref-type="bibr" rid="CR13">13</xref>&#x02013;<xref ref-type="bibr" rid="CR22">22</xref></sup> that can potentially improve our understanding of how cities grow and self-organise.</p><p id="Par3">Contemporary cities are shaped by the long process of settlement formation and evolution which involves multiple types of migration and resettlement. In social sciences it is common to investigate population migration in the context of individual motivation and social consequences<sup><xref ref-type="bibr" rid="CR23">23</xref>&#x02013;<xref ref-type="bibr" rid="CR25">25</xref></sup>. However, heterogeneous preferences of individual residents cannot be easily integrated into their aggregate migration flows. The latter is a collective phenomenon which we believe is determined mainly by the spatial city structure<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>. Furthermore, such migration patterns are usually persistent in time. In particular, we observe strong correlation between migration flows in two different periods of 2006&#x02013;2011 and 2011&#x02013;2016 (see Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">6</xref> in the Supplementary Material). Focusing on a small number of macroscopic parameters (such as migration flow) instead of a large number of microscopic degrees of freedom (individual human choices) is one of the underlying motivations of this study, developed from the perspective of sociophysics<sup><xref ref-type="bibr" rid="CR26">26</xref>&#x02013;<xref ref-type="bibr" rid="CR31">31</xref></sup>.</p><p id="Par4">Although static properties of modern cities have been studied quite extensively, the spatial evolution of cities over time remains a subject of vigorous research. Often the dynamics of evolution is typically assumed to be determined by the current static structure. In particular, the compact structure of modern cities can be explained by the transportation cost minimisation<sup><xref ref-type="bibr" rid="CR18">18</xref>,<xref ref-type="bibr" rid="CR32">32</xref></sup>, so that the already dense central business districts attract even more jobs and more residents, while the sparsely populated city&#x02019;s periphery is being diluted. An actual verification of this division is subject to data availability. For example, various statistics of resettlement processes may be traced on the national level using census data, but typically, detailed information is not collected. In particular, the US<sup><xref ref-type="bibr" rid="CR33">33</xref></sup> or Canadian<sup><xref ref-type="bibr" rid="CR34">34</xref></sup> census datasets do not contain records of previous places of residence, and instead merely include relocation events &#x02014; as a result, this prevents tracking intra-urban migration flows and studying their influence on the spatial structure of the cities. In contrast, the Australian Census<sup><xref ref-type="bibr" rid="CR35">35</xref></sup> does collect such information, which makes it a source of unique data for dynamic analysis. Thus, a detailed analysis of the Australian Census data can provide insights of how the static agglomeration patterns affect the dynamic evolution of a city.</p><p id="Par5">The notion of subjective suburb&#x02019;s attractiveness is often considered in the context of identifying the city structure<sup><xref ref-type="bibr" rid="CR18">18</xref>,<xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR27">27</xref>,<xref ref-type="bibr" rid="CR36">36</xref></sup>. We introduce a model comprising the concept of a <italic>revealed attractiveness</italic> potential that drives intra-urban migration. This potential absorbs all characteristics of a suburb, which indicate to what extent people are statistically attracted to it &#x02014; this potential hence affects the aggregate relocation flows. These characteristics may include the distance to the centers of business or retail activity<sup><xref ref-type="bibr" rid="CR37">37</xref>,<xref ref-type="bibr" rid="CR38">38</xref></sup>, the public transport accessibility<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>, the quality of local infrastructure (schools and other local services)<sup><xref ref-type="bibr" rid="CR36">36</xref>,<xref ref-type="bibr" rid="CR40">40</xref></sup>, the housing affordability<sup><xref ref-type="bibr" rid="CR37">37</xref>,<xref ref-type="bibr" rid="CR41">41</xref></sup>, and perhaps, other publicly known but not explicitly defined subjective factors. Our model treats the attractiveness as a revealed quantitative characteristic of a suburb, inferring it from data, rather than being based on a particular subjective characterization.</p><p id="Par6">Using our resettlement model, we analyze intra-urban migration flows in the Australian capital cities, represented by the corresponding Greater Capital Areas (GCA): Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart, Darwin, and Canberra (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>). These cities are the major centres of business, economic and cultural activities across Australian states and territories, and are well distanced from each other. Furthermore, these cities vary in trajectories of their historical development, ranging from short periods of centralized planning to long intervals of self-organized evolution. The general diversity observed across major urban centres is expected to be reflected in patterns of modern urban dynamics<sup><xref ref-type="bibr" rid="CR42">42</xref>,<xref ref-type="bibr" rid="CR43">43</xref></sup> and, in particular, in patterns of the resettlement dynamics.<fig id="Fig1"><label>Figure 1</label><caption><p>Australian capital cities: location on the map, population (P), and area (A), according to 2016 Census.</p></caption><graphic xlink:href="41598_2020_65208_Fig1_HTML" id="d30e352"/></fig></p><p id="Par7">We use the latest Census data to estimate the spatial distribution of revealed attractiveness and its contribution to the migration flows. As a result, we discover that the role of the suburbs&#x02019; attractiveness is opposite to what may be expected by a naive perspective: the migration flows are directed away from the central districts with a high population density and infrastructure accessibility, towards sparsely populated suburbs (typically located at the city&#x02019;s outskirts). In addition, the attractiveness of suburbs alone does not allow one to predict the resettlement flows with an adequate precision. In particular, we observe that, to a large extent, the migration flows are determined by the relocation distance: the short-distance relocations occur much more often than the long-distance ones.</p><p id="Par8">Finally, we observe and quantify a specific relationship between the dynamic migration patterns and the static city structure, defined in terms of its polycentricity (as illustrated by e.g. Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>). Namely, six out of eight capital cities (Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart) are monocentric, and at the same time exhibit a high <italic>reluctance to long-distance relocations</italic>, with a clear center-to-periphery migration flow. In contrast, two out of eight capital cities (Darwin and Canberra) are non-monocentric, while exhibiting a low reluctance to long-distance relocations without a well-defined flow direction. While it is hard to make a definite conclusion based on small number of cities, we make a conjecture: not only does the human resettlement affect the spatial structure of cities, but the city structure itself may also affect the intra-urban migration. A proper verification of this conjecture is subject to future research and data availability.<fig id="Fig2"><label>Figure 2</label><caption><p>Urban sprawl of GCA, according to 2016 Census. Yellow color corresponds to the lowest population, while blue color corresponds to the highest population. The bar on the right encodes the value of the density measured in the amount of people per km<sup>2</sup>. Note that the density range and therefore the color correspondence are different for each GCA. The suburbs with the population density less than 10 people/km<sup>2</sup> are not shown.</p></caption><graphic xlink:href="41598_2020_65208_Fig2_HTML" id="d30e377"/></fig></p></sec><sec id="Sec2"><title>Results</title><p id="Par9">We analyze residential migration using thee related hypotheses, which are referred here as the baseline hypothesis, the extended hypothesis, and the spatial hypothesis. The baseline hypothesis investigates the sole effect of the attractiveness potentials <italic>per se</italic>. The extended hypothesis augments the baseline with the relocation distance dependence. Finally, the spatial hypothesis focuses on the relocation distance alone.</p><p id="Par10">According to all hypotheses the migration flow <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ik}$$\end{document}</tex-math><mml:math id="M2"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq1.gif"/></alternatives></inline-formula> (amount of relocated people per unit of time) from suburb <italic>i</italic> to suburb <italic>k</italic> is proportional to the populations <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${P}_{i}$$\end{document}</tex-math><mml:math id="M4"><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq2.gif"/></alternatives></inline-formula> and <inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${P}_{k}$$\end{document}</tex-math><mml:math id="M6"><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq3.gif"/></alternatives></inline-formula> of either suburb, as well as to the migration driving force <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$exp({f}_{ik})$$\end{document}</tex-math><mml:math id="M8"><mml:mi>e</mml:mi><mml:mi>x</mml:mi><mml:mi>p</mml:mi><mml:mo>(</mml:mo><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq4.gif"/></alternatives></inline-formula>:<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ik}=\mu \,{P}_{i}\,{P}_{k}\,{e}^{{f}_{ik}},$$\end{document}</tex-math><mml:math id="M10" display="block"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>&#x003bc;</mml:mi><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mspace width=".25em"/><mml:msup><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2020_65208_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq5"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mu $$\end{document}</tex-math><mml:math id="M12"><mml:mi>&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq5.gif"/></alternatives></inline-formula> is a positive normalizing constant. In particular, we fit Census data on migration flows <inline-formula id="IEq6"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ik}$$\end{document}</tex-math><mml:math id="M14"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq6.gif"/></alternatives></inline-formula> to the model equations and judge on the validity of each hypothesis based on the goodness of fit and on the number of fitting parameters, which are summarized in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Calibration details of migration models (2)&#x02013;(4) fitted to the 2011&#x02013;2016 data.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2">GCA</th><th colspan="3"># of parameters</th><th colspan="3"><inline-formula id="IEq7"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${{\boldsymbol{R}}}^{2}$$\end{document}</tex-math><mml:math id="M16"><mml:msup><mml:mrow><mml:mi mathvariant="bold-italic">R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq7.gif"/></alternatives></inline-formula></th></tr><tr><th>baseline</th><th>extended</th><th>spatial</th><th>baseline</th><th>extended</th><th>spatial</th></tr></thead><tbody><tr><td>Sydney</td><td>313</td><td>314</td><td>2</td><td>0.04</td><td>0.68</td><td>0.59</td></tr><tr><td>Melbourne</td><td>310</td><td>311</td><td>2</td><td>0.04</td><td>0.70</td><td>0.58</td></tr><tr><td>Brisbane</td><td>237</td><td>238</td><td>2</td><td>0.06</td><td>0.68</td><td>0.64</td></tr><tr><td>Adelaide</td><td>111</td><td>112</td><td>2</td><td>0.13</td><td>0.76</td><td>0.72</td></tr><tr><td>Perth</td><td>174</td><td>175</td><td>2</td><td>0.13</td><td>0.72</td><td>0.58</td></tr><tr><td>Hobart</td><td>36</td><td>37</td><td>2</td><td>0.16</td><td>0.65</td><td>0.64</td></tr><tr><td>Darwin</td><td>45</td><td>46</td><td>2</td><td>0.36</td><td>0.62</td><td>0.45</td></tr><tr><td>Canberra</td><td>132</td><td>133</td><td>2</td><td>0.36</td><td>0.78</td><td>0.62</td></tr></tbody></table></table-wrap></p><p id="Par11">We observe, that the baseline hypothesis (2) provides the worst fit, both in terms of the coefficient of determination and the number of parameters. In contrast, the extended hypothesis (3) uses only one parameter more, but provides the best fit in terms of the coefficient of determinations. Finally, the spatial hypothesis (4) isolates the differences between the extended and the baseline hypothesis and uses 2 parameters only, providing the goodness of fit comparable to the extended hypothesis. This indicates that the spatial hypothesis captures the main pattern in relocations, while the extended hypothesis provides additional insights. Below we describe each of these hypotheses in detail.</p><sec id="Sec3"><title>Baseline migration hypothesis: attractiveness potentials</title><p id="Par12">To asses the impact of suburb attractiveness on residential migration flows, we adopt the migration model of Weidlich and Haag<sup><xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR40">40</xref></sup> which is based on the analogy between the processes of human resettlement and chemical reactions. For each suburb <italic>i</italic> we calculate a value of the potential <inline-formula id="IEq8"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M18"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq8.gif"/></alternatives></inline-formula>, which measures the suburb&#x02019;s attractiveness. The higher the (positive) value of the potential is, the more attractive the suburb is. It can be interpreted as an aggregated indicator which combines all possible characteristics attributed to an individual suburb <italic>i</italic>. These characteristics may include population density, distance to centers of business and retail activity, quality of public services (schools, parks, etc.), transportation connectivity, and other hedonic indicators of the suburb. The notion of the suburb&#x02019;s potential was introduced in the analysis of inter-regional migration<sup><xref ref-type="bibr" rid="CR44">44</xref></sup>, and its role in the dynamics of residential resettlement has been investigated in our earlier study<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>. In particular, we demonstrated, that the model incorporating the suburb&#x02019;s potentials contains critical regimes where small fluctuations in the model parameters may result in sharp changes in the spatial population structure. This aspect of the approach is comparable to the Boltzmann-Lotka-Volterra model (also known as Harris and Wilson model) which describes an evolution of the urban structures<sup><xref ref-type="bibr" rid="CR13">13</xref>,<xref ref-type="bibr" rid="CR27">27</xref></sup>, predicting a qualitatively similar long-term outcome<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>.</p><p id="Par13">In the baseline hypothesis, the migration force <inline-formula id="IEq9"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{ik}$$\end{document}</tex-math><mml:math id="M20"><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq9.gif"/></alternatives></inline-formula> from suburb <italic>i</italic> to suburb <italic>k</italic> is modelled as<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{ik}={u}_{k}-{u}_{i}.$$\end{document}</tex-math><mml:math id="M22" display="block"><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2020_65208_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>where the sign of the migration force is chosen in such a ways that the migration flows are directed from a suburb with the lower potential to a suburb with the higher potential. Instead of assuming of how the suburb&#x02019;s potential depends on its characteristics, we <italic>infer their values directly from the data</italic>. In particular, the suburb&#x02019;s potentials <inline-formula id="IEq10"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M24"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq10.gif"/></alternatives></inline-formula> are treated as independent parameters. For a city with <italic>N</italic> suburbs there are <italic>N</italic>+1 parameters which are fitted to <inline-formula id="IEq11"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N(N-\mathrm{1)}$$\end{document}</tex-math><mml:math id="M26"><mml:mi>N</mml:mi><mml:mo>(</mml:mo><mml:mi>N</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mn>1)</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq11.gif"/></alternatives></inline-formula> migration flows between each pair of suburbs. This model allows us to test the hypothesis that the migration flow from suburb <italic>i</italic> to suburb <italic>k</italic> depends only on the difference in individual characteristics of these suburbs (which we call &#x0201c;attractiveness&#x0201d;), and does not depend on other pairwise characteristics (such as distance or other types of proximity). In other words, we test whether the attractiveness <inline-formula id="IEq12"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{k}$$\end{document}</tex-math><mml:math id="M28"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq12.gif"/></alternatives></inline-formula> of suburb <italic>k</italic> equally enhances the migration flows <inline-formula id="IEq13"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ik}$$\end{document}</tex-math><mml:math id="M30"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq13.gif"/></alternatives></inline-formula> from all suburbs <italic>i</italic>, regardless of their proximity to <italic>k</italic>.</p><p id="Par14">The results of calibration for the period of 2011&#x02013;2016, and the corresponding number of model parameters are presented in Table [<xref rid="MOESM1" ref-type="media">1]</xref> (and in Table [<xref rid="MOESM1" ref-type="media">3]</xref> in the supplementary material for the 2006&#x02013;2011; the revealed values of attractiveness are displayed in Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">7</xref> in the Supplementary Material). The determination coefficient <inline-formula id="IEq14"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${R}^{2}$$\end{document}</tex-math><mml:math id="M32"><mml:msup><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq14.gif"/></alternatives></inline-formula> is very low, indicating that the attractiveness potentials <inline-formula id="IEq15"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M34"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq15.gif"/></alternatives></inline-formula> fail to explain systematic migration patterns. This in turn means that the impact of any suburb&#x02019;s characteristic on the residential migration is low and the attractiveness alone does not provide significant information on the resettlement flows.</p></sec><sec id="Sec4"><title>Extended migration hypothesis: attractiveness potentials together with relocation distance</title><p id="Par15">We next extend the baseline hypothesis to include additional characteristics which may affect the relocation process. In particular, we assume that the force driving a migration flow from suburb <italic>i</italic> to suburb <italic>k</italic> depends also on the distance <inline-formula id="IEq16"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{ik}$$\end{document}</tex-math><mml:math id="M36"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq16.gif"/></alternatives></inline-formula> between these suburbs, so that the migration force <inline-formula id="IEq17"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{ik}$$\end{document}</tex-math><mml:math id="M38"><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq17.gif"/></alternatives></inline-formula> is set as follows:<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{ik}={u}_{k}-{u}_{i}-\gamma \,{d}_{ik},$$\end{document}</tex-math><mml:math id="M40" display="block"><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>,</mml:mo></mml:math><graphic xlink:href="41598_2020_65208_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq18"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M42"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq18.gif"/></alternatives></inline-formula> is the same for all suburbs. This model extends the baseline model (2) by adding a pairwise characteristic <inline-formula id="IEq19"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{ik}$$\end{document}</tex-math><mml:math id="M44"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq19.gif"/></alternatives></inline-formula>, i.e., the distance between the destination <italic>k</italic> and the source <italic>i</italic> of the corresponding migration flow <inline-formula id="IEq20"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ik}$$\end{document}</tex-math><mml:math id="M46"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq20.gif"/></alternatives></inline-formula>. In particular, the migration flow to suburb <italic>k</italic> is determined not only by its intrinsic attractiveness, but also by the proximity of a source <italic>i</italic> to the destination <italic>k</italic>.</p><p id="Par16">The factor <inline-formula id="IEq21"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M48"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq21.gif"/></alternatives></inline-formula> can be interpreted as the dissatisfaction associated with the relocation distance, and will be referred to as the relocation impedance. A high value of <inline-formula id="IEq22"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M50"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq22.gif"/></alternatives></inline-formula> means that people relocate mostly to neighbouring suburbs, while a lower value of <inline-formula id="IEq23"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M52"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq23.gif"/></alternatives></inline-formula> means that people relocate both to neighbouring and more distant suburbs with equal preference.</p><p id="Par17">Distance-dependent migration is investigated in various areas of social and biological sciences, such as population biology<sup><xref ref-type="bibr" rid="CR45">45</xref>&#x02013;<xref ref-type="bibr" rid="CR47">47</xref></sup>, daily commutes<sup><xref ref-type="bibr" rid="CR6">6</xref></sup>, shopping activity<sup><xref ref-type="bibr" rid="CR5">5</xref>,<xref ref-type="bibr" rid="CR48">48</xref></sup>, trafficking of goods<sup><xref ref-type="bibr" rid="CR6">6</xref>,<xref ref-type="bibr" rid="CR49">49</xref>,<xref ref-type="bibr" rid="CR50">50</xref></sup>, inter-city phone calls<sup><xref ref-type="bibr" rid="CR51">51</xref></sup>. There are various functional forms of the distance dependence. The most common ones are the inverse quadratic<sup><xref ref-type="bibr" rid="CR48">48</xref>,<xref ref-type="bibr" rid="CR50">50</xref>,<xref ref-type="bibr" rid="CR51">51</xref></sup>, exponential<sup><xref ref-type="bibr" rid="CR13">13</xref>,<xref ref-type="bibr" rid="CR36">36</xref>,<xref ref-type="bibr" rid="CR52">52</xref>,<xref ref-type="bibr" rid="CR53">53</xref></sup>, their combination<sup><xref ref-type="bibr" rid="CR50">50</xref></sup> and Gaussian-like<sup><xref ref-type="bibr" rid="CR46">46</xref>,<xref ref-type="bibr" rid="CR54">54</xref></sup> functions. We adopt this approach to describe the internal city migration, and use the exponential form of the distance dependence.</p><p id="Par18">The results of the calibration include now the value of the relocation impedance, which is listed in Table&#x000a0;<xref rid="Tab2" ref-type="table">2</xref>, in addition to the values of the attractiveness of each suburb (Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref>). The quality of fit (Table <xref ref-type="bibr" rid="CR1">1</xref>) of the extended hypothesis increases substantially in comparison to the baseline hypothesis (2). The values of the coefficient of determination <inline-formula id="IEq24"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${R}^{2}$$\end{document}</tex-math><mml:math id="M54"><mml:msup><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq24.gif"/></alternatives></inline-formula> indicate that contribution of the individual potentials to the quality of the overall fit is much lower than the contribution of the distance between the suburbs. This means, among other things, that the share of relocations which are driven by the attractiveness is much smaller in comparison to the relocations driven by geographic proximity.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Relocation impedance calibrated from the 2011&#x02013;2016 data using models (3) and (4). Model (2) essentially implies <inline-formula id="IEq25"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma =0$$\end{document}</tex-math><mml:math id="M56"><mml:mi>&#x003b3;</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq25.gif"/></alternatives></inline-formula>.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>GCA</th><th>baseline</th><th>extended</th><th>spatial</th></tr></thead><tbody><tr><td>Sydney</td><td>0</td><td>1.01</td><td>0.91</td></tr><tr><td>Melbourne</td><td>0</td><td>0.94</td><td>0.88</td></tr><tr><td>Brisbane</td><td>0</td><td>0.83</td><td>0.79</td></tr><tr><td>Adelaide</td><td>0</td><td>0.82</td><td>0.78</td></tr><tr><td>Perth</td><td>0</td><td>0.85</td><td>0.76</td></tr><tr><td>Hobart</td><td>0</td><td>0.74</td><td>0.73</td></tr><tr><td>Darwin</td><td>0</td><td>0.25</td><td>0.24</td></tr><tr><td>Canberra</td><td>0</td><td>0.36</td><td>0.36</td></tr></tbody></table></table-wrap><fig id="Fig3"><label>Figure 3</label><caption><p>Values of the revealed attractiveness <inline-formula id="IEq26"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M58"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq26.gif"/></alternatives></inline-formula> fitted to 2011&#x02013;2016 migration data. Potential of each suburb varies from the highest value (blue) to the lowest value (yellow) for each particular GCA. The bar on the right encodes the value of the potentials <inline-formula id="IEq27"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M60"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq27.gif"/></alternatives></inline-formula> whose values are normalized so that minimum value is zero. Note that the density range and therefore the color correspondence are different for each GCA. The suburbs with the population density less than 10 people/km<sup>2</sup> are not shown.</p></caption><graphic xlink:href="41598_2020_65208_Fig3_HTML" id="d30e1510"/></fig></p><p id="Par19">In addition, we observe that the fitted values of the relocation impedance <inline-formula id="IEq28"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M62"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq28.gif"/></alternatives></inline-formula> reveal a certain pattern. For the majority of the cities the values of <inline-formula id="IEq29"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M64"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq29.gif"/></alternatives></inline-formula> are within the interval 0.75&#x02013;0.90. In contrast, the relocation impedance values for Canberra and Darwin are within 0.25&#x02013;0.35, i.e., the range which significantly differs from other capital cities.</p><p id="Par20">Finally, comparing the values of the attractiveness potentials in Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3</xref> with the population density in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>, we observe a notable correlation between them (as shown in Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">8</xref> in the Supplementary Material). In the majority of the cities the densely populated central suburbs appear to be less attractive for residential migration, while the remote suburbs seem to attract a higher number of new residents. In contrast, in Darwin and Canberra, the migration flows are directed to the suburbs around the highly populated areas. These observations are consistent with theoretical studies<sup><xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR40">40</xref></sup> where it is assumed that the attractiveness potential increases with the population density only until a certain threshold level, beyond which the attractiveness goes down. This means, in particular, that for the majority of Australian capitals this threshold value is quite low. This is fairly surprising, since even the largest Australian capitals have very low population density compared with European and Asian cities which have not reached such threshold yet (cf. 20,781 people/km<sup>2</sup> in Paris<sup><xref ref-type="bibr" rid="CR55">55</xref></sup> and 6,158 people/km<sup>2</sup> in Tokyo<sup><xref ref-type="bibr" rid="CR56">56</xref></sup> vs the values in Table 4 in the supplementary material in Australian capitals).</p><p id="Par21">It is worth noting that this pattern becomes visible only in the extended model (3), whereas the values of potentials <inline-formula id="IEq30"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M66"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq30.gif"/></alternatives></inline-formula> estimated in accordance with the baseline model (2) are not well defined (Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">7</xref> in the Supplementary Material). This demonstrates the importance of including the relocation distance into the migration model for a sensible estimation of <inline-formula id="IEq31"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M68"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq31.gif"/></alternatives></inline-formula>.</p></sec><sec id="Sec5"><title>Spatial migration hypothesis: relocation distance without attractiveness potentials</title><p id="Par22">In order to contrast the roles of the relocation distance and the attractiveness potentials, we may consider a simplification of the extended hypothesis, by assuming that the migration force <inline-formula id="IEq32"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{ik}$$\end{document}</tex-math><mml:math id="M70"><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq32.gif"/></alternatives></inline-formula> is determined by only the relocation distance:<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${f}_{ik}=-\,\gamma \,{d}_{ik}.$$\end{document}</tex-math><mml:math id="M72" display="block"><mml:msub><mml:mrow><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mi>&#x003b3;</mml:mi><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>.</mml:mo></mml:math><graphic xlink:href="41598_2020_65208_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par23">In this way we abstract away a large number of parameters (the attractiveness of each individual suburb), and keep only two parameters: the relocation impedance and the normalization factor.</p><p id="Par24">The calibrated values of the relocation distance are shown in Table <xref ref-type="bibr" rid="CR2">2</xref>,while the quality of fit is shown in Table <xref ref-type="bibr" rid="CR1">1</xref> (and Table 3 in the supplementary material). The calibrated values of <inline-formula id="IEq33"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M74"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq33.gif"/></alternatives></inline-formula> for the spatial model are similar to the ones for the extended model (3). Canberra and Darwin substantially differ from the other capitals by the values of relocation impedance having magnitude in the range of 0.22&#x02013;0.24 (Darwin) and 0.34&#x02013;0.36 (Canberra), compared to 0.73&#x02013;0.94 in the other cities. Despite a significant reduction in the number of model parameters (from &#x0201c;number of suburbs&#x0201d; plus two in (3) to just two in (4)), the goodness of fit has not changed substantially (<inline-formula id="IEq34"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${R}^{2}$$\end{document}</tex-math><mml:math id="M76"><mml:msup><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq34.gif"/></alternatives></inline-formula> decreased by 10&#x02013;15 percentage points).</p></sec><sec id="Sec6"><title>Relating migration patterns to spatial structure of cities</title><p id="Par25">The presented results lead to two important conclusions. Firstly, we observe that temporal stability in intra-urban migration flows (Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">6</xref> in the Supplementary Material) can be explained by the fact that the most intensive migration occur between suburbs that are geographically close, while the individual characteristics of suburbs have a significantly smaller influence on the residential migration in the majority of GCA. Secondly, there are two capital cities whose migration patterns substantially differ from those shown by the other capitals. In particular, in Darwin and Canberra, the suburbs&#x02019; characteristics (represented by the attractiveness potentials) play more important role in shaping the residential migration, and the long distance relocations occur more often than in other capital cities. In this section we investigate how the spatial city structure affects these relocation patterns.</p><p id="Par26">First, we note that canonical properties used to characterize cities, such as the population or the area (Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1</xref>), do not explain the observed difference in the migration patterns, as evidenced by Figs.&#x000a0;<xref rid="MOESM1" ref-type="media">10</xref> and <xref rid="MOESM1" ref-type="media">11</xref> in the supplementary materials. In particular, Hobart has low population and area but displays a high relocation impedance. This contrast is also observed in small non-capital cities with a sufficiently representative number of suburbs. Furthermore, the overall variation in the population and area of the capital cities does not concur with the variation of the relocation impedance. This indicates that the relocation impedance may depend on other, more refined, characteristics of a city which better reflect its internal structure.</p><p id="Par27">There exists a number of approaches which identify the most important characteristics of urban spatial structures, including compactness and spreading<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR57">57</xref></sup>, spatial clustering of hotspots (areas with high population density or intensive economic activity)<sup><xref ref-type="bibr" rid="CR58">58</xref></sup>, monocentricty versus polycentricity<sup><xref ref-type="bibr" rid="CR59">59</xref></sup>, population density profile<sup><xref ref-type="bibr" rid="CR60">60</xref></sup>, etc. In a recent study<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>, two main indicators capturing the whole diversity of the possible urban structures have been introduced: the degree of heterogeneity and the degree of spreading. Here we adopt the latter, and investigate to what extent the suburbs with a high population density are localized together, and how far they are spread across a city.</p><p id="Par28">The spreading index<sup><xref ref-type="bibr" rid="CR10">10</xref></sup> is defined as the ratio of the average distance between the highly populated areas to the average distance between all areas in a city:<disp-formula id="Equ5"><label>5</label><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\eta (\rho )\,=\,\frac{\sum _{i,j}\,{d}_{ij}\,{\xi }_{i}(\rho )\,{\xi }_{j}(\rho )}{\sum _{i,j}\,{d}_{ij}{S}_{i}{S}_{j}}$$\end{document}</tex-math><mml:math id="M78" display="block"><mml:mi>&#x003b7;</mml:mi><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo><mml:mspace width=".25em"/><mml:mo>=</mml:mo><mml:mspace width=".25em"/><mml:mfrac><mml:mrow><mml:mrow><mml:munder><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:munder></mml:mrow><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>&#x003be;</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>&#x003be;</mml:mi></mml:mrow><mml:mrow><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mrow><mml:munder><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:munder></mml:mrow><mml:mspace width=".25em"/><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:math><graphic xlink:href="41598_2020_65208_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq35"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\xi }_{i}(\rho )\equiv {S}_{i}\Theta ({\rho }_{i}-\rho )\,S/S(\rho )$$\end{document}</tex-math><mml:math id="M80"><mml:msub><mml:mrow><mml:mi>&#x003be;</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo><mml:mo>&#x02261;</mml:mo><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mi mathvariant="normal">&#x00398;</mml:mi><mml:mo>(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo><mml:mspace width=".25em"/><mml:mi>S</mml:mi><mml:mo>/</mml:mo><mml:mi>S</mml:mi><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq35.gif"/></alternatives></inline-formula>, with <inline-formula id="IEq36"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Theta (x)$$\end{document}</tex-math><mml:math id="M82"><mml:mi mathvariant="normal">&#x00398;</mml:mi><mml:mo>(</mml:mo><mml:mi>x</mml:mi><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq36.gif"/></alternatives></inline-formula> being the Heaviside step function, <inline-formula id="IEq37"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${S}_{i}$$\end{document}</tex-math><mml:math id="M84"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq37.gif"/></alternatives></inline-formula> is the area of suburb <italic>i</italic>, <italic>S</italic> is the total area of suburbs, and <inline-formula id="IEq38"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S(\rho )$$\end{document}</tex-math><mml:math id="M86"><mml:mi>S</mml:mi><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq38.gif"/></alternatives></inline-formula> is the area of suburbs with the population density higher than <inline-formula id="IEq39"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho $$\end{document}</tex-math><mml:math id="M88"><mml:mi>&#x003c1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq39.gif"/></alternatives></inline-formula>. The spreading index is a function of the density, declining rapidly from 1 to 0 if the city is monocentric, in which case the most populated suburbs are heavily clustered within a single area. In contrast, if the suburbs with high population density are spread all around the city, <inline-formula id="IEq40"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\eta (\rho )$$\end{document}</tex-math><mml:math id="M90"><mml:mi>&#x003b7;</mml:mi><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq40.gif"/></alternatives></inline-formula> remains high within a large range of <inline-formula id="IEq41"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\rho $$\end{document}</tex-math><mml:math id="M92"><mml:mi>&#x003c1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq41.gif"/></alternatives></inline-formula> values. It is possible to evaluate a single value of the spreading index <inline-formula id="IEq42"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\eta }^{\ast }$$\end{document}</tex-math><mml:math id="M94"><mml:msup><mml:mrow><mml:mi>&#x003b7;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq42.gif"/></alternatives></inline-formula> (instead of the entire function <inline-formula id="IEq43"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\eta (\rho )$$\end{document}</tex-math><mml:math id="M96"><mml:mi>&#x003b7;</mml:mi><mml:mo>(</mml:mo><mml:mi>&#x003c1;</mml:mi><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq43.gif"/></alternatives></inline-formula>), for a particular value of the threshold density <inline-formula id="IEq44"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rho }^{\ast }$$\end{document}</tex-math><mml:math id="M98"><mml:msup><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq44.gif"/></alternatives></inline-formula>, reflecting the intuitive concepts of city &#x0201c;spreadness&#x0201d; and &#x0201c;monocetricity&#x0201d;<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR61">61</xref></sup>. To evaluate particular threshold values of the density <inline-formula id="IEq45"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rho }^{\ast }$$\end{document}</tex-math><mml:math id="M100"><mml:msup><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq45.gif"/></alternatives></inline-formula> for each GCA, as well as the spreading index <inline-formula id="IEq46"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\eta }^{\ast }=\eta ({\rho }^{\ast })$$\end{document}</tex-math><mml:math id="M102"><mml:msup><mml:mrow><mml:mi>&#x003b7;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:mi>&#x003b7;</mml:mi><mml:mo>(</mml:mo><mml:msup><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq46.gif"/></alternatives></inline-formula>, we follow methods quantifying spatial urban organization with respect to the population density<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR61">61</xref></sup>. The threshold densities for each GCA are listed in Table 4 of the supplementary material.</p><p id="Par29">The spreading index <inline-formula id="IEq47"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\eta }^{\ast }$$\end{document}</tex-math><mml:math id="M104"><mml:msup><mml:mrow><mml:mi>&#x003b7;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq47.gif"/></alternatives></inline-formula> is plotted against the corresponding relocation impedance <inline-formula id="IEq48"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M106"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq48.gif"/></alternatives></inline-formula> in Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4</xref>. In cities with a low spreading index we observe a higher relocation impedance (which is typical for compact monocentric cities<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>). Conversely, a low relocation impedance is observed in cities with high <inline-formula id="IEq49"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\eta }^{\ast }$$\end{document}</tex-math><mml:math id="M108"><mml:msup><mml:mrow><mml:mi>&#x003b7;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq49.gif"/></alternatives></inline-formula> (which is typical for spread-out polycentric cities<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>). We can identify the cluster of monocentric cities with a high relocation impedance, for which <inline-formula id="IEq50"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M110"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq50.gif"/></alternatives></inline-formula> is in the interval <inline-formula id="IEq51"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.8\pm 0.12$$\end{document}</tex-math><mml:math id="M112"><mml:mn>0.8</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.12</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq51.gif"/></alternatives></inline-formula>, while <inline-formula id="IEq52"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\eta }^{\ast }$$\end{document}</tex-math><mml:math id="M114"><mml:msup><mml:mrow><mml:mi>&#x003b7;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq52.gif"/></alternatives></inline-formula> is in the interval <inline-formula id="IEq53"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0.4\pm 0.14$$\end{document}</tex-math><mml:math id="M116"><mml:mn>0.4</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.14</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq53.gif"/></alternatives></inline-formula>. This cluster is robust with respect to an extension to non-capital cities with comparable population and the number of suburbs. In particular, the smallest number of suburbs among all GCAs is 35 (Hobart).<fig id="Fig4"><label>Figure 4</label><caption><p>Resettlement diagram for Australian capital cities. The vertical axis measures the spreading index (5) at a threshold population density (Table 4 in the supplementary material), while the horizontal axis measures the city&#x02019;s relocation impedance of the spatial model ((4), Table <xref ref-type="bibr" rid="CR2">2</xref>). Each GCA corresponds to a point on the diagram.</p></caption><graphic xlink:href="41598_2020_65208_Fig4_HTML" id="d30e2222"/></fig></p><p id="Par30">Most of non-capital Australian cities have less than 30 suburbs, with only two exceptions (Gold Coast and Sunshine Coast). The relocation impedance values for Gold Coast and Sunshine Coast are 0.68 and 0.81 respectively (not shown in the figure), and the corresponding values of spreading index are 0.51 and 0.41. This means that these two cities belong to the monocentric cluster with the high relocation impedance as well.</p><p id="Par31">The spreading index analysis is illustrated in Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref>: the population density of each suburb is compared to the threshold density calculated by the LouBar methodology<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR61">61</xref></sup> (see Table 4 in the supplementary material) of the corresponding city, and is identified as being high (blue) or low (yellow). We observe that a clear majority of the cities (Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart) include high-density suburbs, predominantly clustered around a single center. In contrast, the two remaining cities (Darwin and Canberra) include high-density suburbs clustered around multiple centers. Comparing Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5</xref> with the actual density distribution within each GCA in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>, we conclude that the adopted method (comprising the binary threshold <inline-formula id="IEq54"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rho }^{\ast }$$\end{document}</tex-math><mml:math id="M118"><mml:msup><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq54.gif"/></alternatives></inline-formula> and spreading index <inline-formula id="IEq55"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\eta }^{\ast }$$\end{document}</tex-math><mml:math id="M120"><mml:msup><mml:mrow><mml:mi>&#x003b7;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq55.gif"/></alternatives></inline-formula>) indeed reflects the intuitive perception of a city &#x0201c;spreadness&#x0201d;.<fig id="Fig5"><label>Figure 5</label><caption><p>Binary density map of GCA for 2016 Census. The population density of each suburb is compared to the threshold density calculated by the LouBar methodology<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR61">61</xref></sup> (see Table 4 in the Supplementary Material) of the corresponding city, and is identified as being high (blue) or low (yellow). The suburbs with the population density less than 10 people/km<sup>2</sup> are not shown.</p></caption><graphic xlink:href="41598_2020_65208_Fig5_HTML" id="d30e2290"/></fig></p><p id="Par32">The spreading index reflects structural properties of a city, while the relocation impedance reflects its dynamic properties. The observed correlation between these two quantities suggests that the population dynamics is likely to be influenced by urban spatial structure.</p></sec></sec><sec id="Sec7" sec-type="conclusion"><title>Conclusions</title><p id="Par33">Our analysis of intra-urban resettlement in the Australian Capital Cities leads to several important conclusions. In particular, we observe that the revealed attractiveness of individual suburbs (which may include, among other characteristics, the distance to the city center, population density, quality of infrastructure, etc.) alone cannot explain the migration flows with a satisfactory precision. In contrast, we discover that the relocation distance alone provides much higher determination of migration flows than the suburbs&#x02019; attractiveness.</p><p id="Par34">It is interesting to note that while the importance of the geographical distance has been shown for various types of migration (in particular, inter-city migration<sup><xref ref-type="bibr" rid="CR6">6</xref>,<xref ref-type="bibr" rid="CR62">62</xref></sup>, intra-urban commutes<sup><xref ref-type="bibr" rid="CR13">13</xref>,<xref ref-type="bibr" rid="CR52">52</xref></sup>, or even migration of animals<sup><xref ref-type="bibr" rid="CR63">63</xref>&#x02013;<xref ref-type="bibr" rid="CR65">65</xref></sup>, which obey the so-called &#x0201c;gravity law&#x0201d;), it is generally believed that the relocation distance is not important for intra-urban resettlement. In particular, the traditional understanding of how the distance affects migration relies on the associated transportation costs<sup><xref ref-type="bibr" rid="CR62">62</xref></sup>, which are supposed to be negligible for relocations within the same city. Here we show that this is not the case for resettlement in Australian capital cities, and that the relocation distance alone can explain circa 50% of the variation in migration flows. Moreover, we observe that all capital cities except for Darwin and Canberra form a cluster of monocentric cities with high relocation impedance. In particular, we see that with respect to intra-urban resettlement, the cities which differ in size, population, transportation network and other dynamical details, reveal similar migration patterns which are independent of these features.</p><p id="Par35">In addition, we observe that the spatial structure of the attractiveness revealed from the migration data is opposite to the static settlement patterns with central districts being more popular than the city outskirts. Instead we show that the most attractive suburbs are located not in the central areas with high population density and intensive business and retail activity, but in sparsely populated outskirts. These results are also consistent with observations typically reported by various real estate analysts<sup><xref ref-type="bibr" rid="CR66">66</xref></sup>.</p><p id="Par36">We report two exceptions to these more general observations: Darwin and Canberra. In particular, in these GCAs i) the migration flows are directed towards more densely populated areas; ii) the relocation impedance is low; iii) the spreading index is high. This indicates that the migration dynamics in these cities is significantly different from the one across all other GCAs. While this can be simply a coincidental feature, we speculate that this is a consequence of historical development of these cities, in which centralized governmental planing played a much larger role than in the other GCAs which followed more than 100 years of essentially self-organized evolution. Indeed, a large part of Canberra was built in the period during 1961&#x02013;1981<sup><xref ref-type="bibr" rid="CR67">67</xref></sup>, in accordance with government housing and developing programs<sup><xref ref-type="bibr" rid="CR68">68</xref></sup>, while Darwin was completely rebuilt twice: after WWII, and in late 1970s following Cyclon Tracy which destroyed 80% of houses<sup><xref ref-type="bibr" rid="CR69">69</xref>,<xref ref-type="bibr" rid="CR70">70</xref></sup>. We believe that this can be an indication of the differences between self-organized and planned development trajectories of cities. It would be interesting to verify such a conjecture for other cities which were highly influenced by centralized planning (e.g., Brasilia, Cancun, Singapore, Washington D.C., etc.).</p></sec><sec id="Sec8" sec-type="materials|methods"><title>Materials and Methods</title><p id="Par37">To perform our analysis, we use the data about internal migration in eight Australian capital cities (Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart, Darwin and Canberra) from the Australian Census datasets (2011 and 2016), provided by the Australian Bureau of Statistics<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. We analyze the Greater Capital Areas (GCAs), which represent urbanized contiguous areas around the corresponding cities. The Census data are organized by the so-called &#x0201c;statistical areas&#x0201d; (SAs), where people reside. The data also contain information on where people resided at the Census date and 5 years before the Census date. The information is provided on the aggregate level in terms of the number of people, and not on the individual level. The data are available in various resolutions, and we use the &#x0201c;Statistical Areas Level 2&#x0201d; (SA2s) resolution. There are 2,310 SA2 regions in entire Australia and between 30&#x02013;300 SA2s in each GCA. Each SA2 has a population generally within a range of 3,000&#x02013;25,000 persons<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>, while some of SA2s within each GCA, such as national parks or industrial objects, have negligible population. In our analysis, we discard suburbs with the population density less than 10 persons/km<sup>2</sup>, setting the difference between the urban and the rural suburbs. This particular value is chosen to indicate a threshold beyond which the spreading index <inline-formula id="IEq56"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\eta }^{\ast }$$\end{document}</tex-math><mml:math id="M122"><mml:msup><mml:mrow><mml:mi>&#x003b7;</mml:mi></mml:mrow><mml:mo>&#x0204e;</mml:mo></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq56.gif"/></alternatives></inline-formula> becomes insensitive to the threshold variation, as shown in Fig.&#x000a0;<xref rid="MOESM1" ref-type="media">9</xref> of Supplementary Material.</p><p id="Par38">We built the dataset of migration flows, which makes a correspondence between each pair of statistical areas <inline-formula id="IEq57"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(i,k)$$\end{document}</tex-math><mml:math id="M124"><mml:mo>(</mml:mo><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq57.gif"/></alternatives></inline-formula> and the amount of people relocated from <italic>i</italic> to <italic>k</italic>. The values of <inline-formula id="IEq58"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{ik}$$\end{document}</tex-math><mml:math id="M126"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq58.gif"/></alternatives></inline-formula> are calculated as distances between centroids of suburbs <italic>i</italic> and <italic>k</italic>. To take into account the fact that the sizes of suburbs are not uniform (and hence, distances between big suburbs are larger), we normalize <inline-formula id="IEq59"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{ik}$$\end{document}</tex-math><mml:math id="M128"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq59.gif"/></alternatives></inline-formula> by factor <inline-formula id="IEq60"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${({S}_{i}{S}_{k})}^{-\mathrm{1/4}}$$\end{document}</tex-math><mml:math id="M130"><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>1/4</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq60.gif"/></alternatives></inline-formula> where <inline-formula id="IEq61"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${S}_{i}$$\end{document}</tex-math><mml:math id="M132"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq61.gif"/></alternatives></inline-formula> and <inline-formula id="IEq62"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${S}_{k}$$\end{document}</tex-math><mml:math id="M134"><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq62.gif"/></alternatives></inline-formula> are the areas of suburb <italic>i</italic> and <italic>k</italic> respectively. This means that <inline-formula id="IEq63"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${d}_{ik}$$\end{document}</tex-math><mml:math id="M136"><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq63.gif"/></alternatives></inline-formula> is a dimensionless quantity, measured in the number of suburbs (as linear measurements of a suburb are proportional to the square root of its size).</p><p id="Par39">In our analysis we do not consider people who do not change their place of residence within the observation period (the case when <inline-formula id="IEq64"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i=k$$\end{document}</tex-math><mml:math id="M138"><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mi>k</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq64.gif"/></alternatives></inline-formula>) because their number is significantly larger than the number of those who do, and it might distort the model parameters&#x02019; estimates. Moreover, it is reasonable to expect that quantities <inline-formula id="IEq65"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ii}$$\end{document}</tex-math><mml:math id="M140"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq65.gif"/></alternatives></inline-formula> cannot be described by the same model because the magnitude of migration flow <inline-formula id="IEq66"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ik}$$\end{document}</tex-math><mml:math id="M142"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq66.gif"/></alternatives></inline-formula> (<inline-formula id="IEq67"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i\ne k$$\end{document}</tex-math><mml:math id="M144"><mml:mi>i</mml:mi><mml:mo>&#x02260;</mml:mo><mml:mi>k</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq67.gif"/></alternatives></inline-formula>) goes up as the time of observation increases, while the number of people <inline-formula id="IEq68"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ii}$$\end{document}</tex-math><mml:math id="M146"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq68.gif"/></alternatives></inline-formula> staying in the same area within this period goes down. Also, we do not analyze external migration flows (in and out of GCA).</p><p id="Par40">The fitting procedure is performed numerically using the ordinary least square technique and the trust region reflective algorithm implemented in SciPy 1.3.0 library in Python<sup><xref ref-type="bibr" rid="CR71">71</xref></sup> (method scipy.optimize.leastsq): <inline-formula id="IEq69"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\theta ={\rm{\arg }}{{\rm{\min }}}_{{\rm{\theta }}}{\sum }_{i,j}{({T}_{ij}-{\hat{T}}_{ij}(\theta ))}^{2},$$\end{document}</tex-math><mml:math id="M148"><mml:mi>&#x003b8;</mml:mi><mml:mo>=</mml:mo><mml:mi mathvariant="normal">arg</mml:mi><mml:msub><mml:mrow><mml:mi mathvariant="normal">min</mml:mi></mml:mrow><mml:mi mathvariant="normal">&#x003b8;</mml:mi></mml:msub><mml:msub><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>T</mml:mi><mml:mo>&#x002c6;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>(</mml:mo><mml:mi>&#x003b8;</mml:mi><mml:mo>)</mml:mo><mml:mo>)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>,</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq69.gif"/></alternatives></inline-formula> where <inline-formula id="IEq70"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\theta $$\end{document}</tex-math><mml:math id="M150"><mml:mi>&#x003b8;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq70.gif"/></alternatives></inline-formula> is a vector of parameters that include <inline-formula id="IEq71"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mu $$\end{document}</tex-math><mml:math id="M152"><mml:mi>&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq71.gif"/></alternatives></inline-formula> and potentials <inline-formula id="IEq72"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M154"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq72.gif"/></alternatives></inline-formula> in model (2), <inline-formula id="IEq73"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mu $$\end{document}</tex-math><mml:math id="M156"><mml:mi>&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq73.gif"/></alternatives></inline-formula>, <inline-formula id="IEq74"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M158"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq74.gif"/></alternatives></inline-formula> and potentials <inline-formula id="IEq75"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${u}_{i}$$\end{document}</tex-math><mml:math id="M160"><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq75.gif"/></alternatives></inline-formula> in model (3), <inline-formula id="IEq76"><alternatives><tex-math id="M161">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mu $$\end{document}</tex-math><mml:math id="M162"><mml:mi>&#x003bc;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq76.gif"/></alternatives></inline-formula> and <inline-formula id="IEq77"><alternatives><tex-math id="M163">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M164"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq77.gif"/></alternatives></inline-formula> in model (4), where <inline-formula id="IEq78"><alternatives><tex-math id="M165">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ij}$$\end{document}</tex-math><mml:math id="M166"><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq78.gif"/></alternatives></inline-formula> is actual migration flow from suburb <italic>i</italic> to suburb <italic>j</italic>, and <inline-formula id="IEq79"><alternatives><tex-math id="M167">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\hat{T}}_{ij}(\theta )$$\end{document}</tex-math><mml:math id="M168"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>T</mml:mi><mml:mo>&#x002c6;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>(</mml:mo><mml:mi>&#x003b8;</mml:mi><mml:mo>)</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq79.gif"/></alternatives></inline-formula> is the migration flow calculated according to the corresponding model for the parameters given by vector <inline-formula id="IEq80"><alternatives><tex-math id="M169">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\theta $$\end{document}</tex-math><mml:math id="M170"><mml:mi>&#x003b8;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_65208_Article_IEq80.gif"/></alternatives></inline-formula>. Note that despite the form suggested by Eq. (<xref rid="Equ1" ref-type="">1</xref>), minimizing the logarithmic residual is not feasible, as there exist many suburb pairs with zero migration between them.</p></sec><sec sec-type="supplementary-material"><title>Supplementary information</title><sec id="Sec9"><p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41598_2020_65208_MOESM1_ESM.pdf"><caption><p>Supplementary&#x000a0;Material.</p></caption></media></supplementary-material>
+</p></sec></sec></body><back><fn-group><fn><p><bold>Publisher&#x02019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><sec><title>Supplementary information</title><p>is available for this paper at 10.1038/s41598-020-65208-5.</p></sec><ack><title>Acknowledgements</title><p>This work is supported by the University of Sydney&#x02019;s Postgraduate Research Scholarship SC0789, and the Australian Research Council Discovery Project DP170102927.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>B.S. analyzed the data, all authors developed the model and prepared the manuscript.</p></notes><notes notes-type="data-availability"><title>Data availability</title><p>All data needed to evaluate the conclusions in the paper are available from Australian Bureau of Statistics<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>.</p></notes><notes id="FPar1" notes-type="COI-statement"><title>Competing interests</title><p id="Par41">The authors declare no competing interests.</p></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><mixed-citation publication-type="other">United Nations. World urbanization prospects: The 2014 revision, highlights. department of economic and social affairs. <italic>Popul. Div. United Nations</italic><bold>32</bold> (2014).</mixed-citation></ref><ref id="CR2"><label>2.</label><mixed-citation publication-type="other">Barthelemy, M. <italic>The structure and dynamics of cities</italic> (Cambridge University Press, 2016).</mixed-citation></ref><ref id="CR3"><label>3.</label><mixed-citation publication-type="other">Zachreson, C. <italic>et al.</italic> Urbanization affects peak timing, prevalence, and bimodality of influenza pandemics in Australia: Results of a census-calibrated model. <italic>Sci. Adv</italic>. <bold>4</bold>, eaau5294 (2018).</mixed-citation></ref><ref id="CR4"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Glavatskiy</surname><given-names>KS</given-names></name><name><surname>Prokopenko</surname><given-names>M</given-names></name><name><surname>Carro</surname><given-names>A</given-names></name><name><surname>Ormerod</surname><given-names>P</given-names></name><name><surname>Harre</surname><given-names>M</given-names></name></person-group><article-title>Explaining herding and volatility in the cyclical price dynamics of urban housing markets using a large scale agent-based model</article-title><source>arXiv preprint arXiv</source><year>2020</year><volume>2004</volume><fpage>07571</fpage></element-citation></ref><ref id="CR5"><label>5.</label><mixed-citation publication-type="other">Reilly, W. J. <italic>et al</italic>. <italic>Methods for the study of retail relationships</italic> (University of Texas at Austin, 1929).</mixed-citation></ref><ref id="CR6"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zipf</surname><given-names>GK</given-names></name></person-group><article-title>The p 1 p 2/d hypothesis: on the intercity movement of persons</article-title><source>Am. sociological review</source><year>1946</year><volume>11</volume><fpage>677</fpage><lpage>686</lpage><pub-id pub-id-type="doi">10.2307/2087063</pub-id></element-citation></ref><ref id="CR7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Batty</surname><given-names>M</given-names></name></person-group><article-title>Rank clocks</article-title><source>Nature</source><year>2006</year><volume>444</volume><fpage>592</fpage><pub-id pub-id-type="doi">10.1038/nature05302</pub-id><?supplied-pmid 17136088?><pub-id pub-id-type="pmid">17136088</pub-id></element-citation></ref><ref id="CR8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brockmann</surname><given-names>D</given-names></name><name><surname>Hufnagel</surname><given-names>L</given-names></name><name><surname>Geisel</surname><given-names>T</given-names></name></person-group><article-title>The scaling laws of human travel</article-title><source>Nature</source><year>2006</year><volume>439</volume><fpage>462</fpage><lpage>465</lpage><pub-id pub-id-type="doi">10.1038/nature04292</pub-id><?supplied-pmid 16437114?><pub-id pub-id-type="pmid">16437114</pub-id></element-citation></ref><ref id="CR9"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arcaute</surname><given-names>E</given-names></name><etal/></person-group><article-title>Cities and regions in britain through hierarchical percolation</article-title><source>Royal Soc. open science</source><year>2016</year><volume>3</volume><fpage>150691</fpage><pub-id pub-id-type="doi">10.1098/rsos.150691</pub-id></element-citation></ref><ref id="CR10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Volpati</surname><given-names>V</given-names></name><name><surname>Barthelemy</surname><given-names>M</given-names></name></person-group><article-title>The spatial organization of the population density in cities</article-title><source>arXiv preprint arXiv</source><year>2018</year><volume>1804</volume><fpage>00855</fpage></element-citation></ref><ref id="CR11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barbosa</surname><given-names>H</given-names></name><etal/></person-group><article-title>Human mobility: Models and applications</article-title><source>Phys. Reports</source><year>2018</year><volume>734</volume><fpage>1</fpage><lpage>74</lpage><pub-id pub-id-type="doi">10.1016/j.physrep.2018.01.001</pub-id></element-citation></ref><ref id="CR12"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fletcher</surname><given-names>RJ</given-names></name></person-group><article-title>Trajectories of low-density settlements past and present</article-title><source>Front. Digit. Humanit.</source><year>2019</year><volume>6</volume><fpage>14</fpage><pub-id pub-id-type="doi">10.3389/fdigh.2019.00014</pub-id></element-citation></ref><ref id="CR13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harris</surname><given-names>B</given-names></name><name><surname>Wilson</surname><given-names>AG</given-names></name></person-group><article-title>Equilibrium values and dynamics of attractiveness terms in production-constrained spatialinteraction models</article-title><source>Environ. planning A</source><year>1978</year><volume>10</volume><fpage>371</fpage><lpage>388</lpage><pub-id pub-id-type="doi">10.1068/a100371</pub-id></element-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fujita</surname><given-names>M</given-names></name><name><surname>Ogawa</surname><given-names>H</given-names></name></person-group><article-title>Multiple equilibria and structural transition of non-monocentric urban configurations</article-title><source>Reg. science urban economics</source><year>1982</year><volume>12</volume><fpage>161</fpage><lpage>196</lpage><pub-id pub-id-type="doi">10.1016/0166-0462(82)90031-X</pub-id></element-citation></ref><ref id="CR15"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haag</surname><given-names>G</given-names></name><name><surname>Weidlich</surname><given-names>W</given-names></name></person-group><article-title>A stochastic theory of interregional migration</article-title><source>Geogr. Analysis</source><year>1984</year><volume>16</volume><fpage>331</fpage><lpage>357</lpage><pub-id pub-id-type="doi">10.1111/j.1538-4632.1984.tb00820.x</pub-id></element-citation></ref><ref id="CR16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weidlich</surname><given-names>W</given-names></name><name><surname>Munz</surname><given-names>M</given-names></name></person-group><article-title>Settlement formation</article-title><source>The Annals Reg. Sci.</source><year>1990</year><volume>24</volume><fpage>83</fpage><lpage>106</lpage><pub-id pub-id-type="doi">10.1007/BF01579725</pub-id></element-citation></ref><ref id="CR17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Simini</surname><given-names>F</given-names></name><name><surname>Gonz&#x000e1;lez</surname><given-names>MC</given-names></name><name><surname>Maritan</surname><given-names>A</given-names></name><name><surname>Barab&#x000e1;si</surname><given-names>A-L</given-names></name></person-group><article-title>A universal model for mobility and migration patterns</article-title><source>Nature</source><year>2012</year><volume>484</volume><fpage>96</fpage><pub-id pub-id-type="doi">10.1038/nature10856</pub-id><pub-id pub-id-type="pmid">22367540</pub-id></element-citation></ref><ref id="CR18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Louf</surname><given-names>R</given-names></name><name><surname>Barthelemy</surname><given-names>M</given-names></name></person-group><article-title>Modeling the polycentric transition of cities</article-title><source>Phys. review letters</source><year>2013</year><volume>111</volume><fpage>198702</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.111.198702</pub-id></element-citation></ref><ref id="CR19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Osawa</surname><given-names>M</given-names></name><name><surname>Akamatsu</surname><given-names>T</given-names></name><name><surname>Takayama</surname><given-names>Y</given-names></name></person-group><article-title>Harris and Wilson (1978) model revisited: The spatial period-doubling cascade in an urban retail model</article-title><source>J. Reg. Sci.</source><year>2017</year><volume>57</volume><fpage>442</fpage><lpage>466</lpage><pub-id pub-id-type="doi">10.1111/jors.12306</pub-id></element-citation></ref><ref id="CR20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ellam</surname><given-names>L</given-names></name><name><surname>Girolami</surname><given-names>M</given-names></name><name><surname>Pavliotis</surname><given-names>GA</given-names></name><name><surname>Wilson</surname><given-names>A</given-names></name></person-group><article-title>Stochastic modelling of urban structure</article-title><source>Proc. Royal Soc. A: Math. Phys. Eng. Sci.</source><year>2018</year><volume>474</volume><fpage>20170700</fpage><pub-id pub-id-type="doi">10.1098/rspa.2017.0700</pub-id></element-citation></ref><ref id="CR21"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carra</surname><given-names>G</given-names></name><name><surname>Barthelemy</surname><given-names>M</given-names></name></person-group><article-title>A fundamental diagram of urbanization. Environ</article-title><source>Plan. B: Urban Anal. City Sci.</source><year>2019</year><volume>46</volume><fpage>690</fpage><lpage>706</lpage></element-citation></ref><ref id="CR22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sahasranaman</surname><given-names>A</given-names></name><name><surname>Bettencourt</surname><given-names>LM</given-names></name></person-group><article-title>Urban geography and scaling of contemporary indian cities</article-title><source>J. Royal Soc. Interface</source><year>2019</year><volume>16</volume><fpage>20180758</fpage><pub-id pub-id-type="doi">10.1098/rsif.2018.0758</pub-id></element-citation></ref><ref id="CR23"><label>23.</label><mixed-citation publication-type="other">Rossi, P. H. <italic>Why families move: A study in the social psychology of urban residential mobility</italic> (Free Press, 1955).</mixed-citation></ref><ref id="CR24"><label>24.</label><mixed-citation publication-type="other">Hanson, S. &#x00026; Pratt, G. <italic>Gender, work and space</italic> (Routledge, 2003).</mixed-citation></ref><ref id="CR25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hanson</surname><given-names>S</given-names></name></person-group><article-title>Perspectives on the geographic stability and mobility of people in cities</article-title><source>Proc. Natl. Acad. Sci.</source><year>2005</year><volume>102</volume><fpage>15301</fpage><lpage>15306</lpage><pub-id pub-id-type="doi">10.1073/pnas.0507309102</pub-id><?supplied-pmid 16230616?><pub-id pub-id-type="pmid">16230616</pub-id></element-citation></ref><ref id="CR26"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Helbing</surname><given-names>D</given-names></name><name><surname>Molnar</surname><given-names>P</given-names></name></person-group><article-title>Social force model for pedestrian dynamics</article-title><source>Phys. review E</source><year>1995</year><volume>51</volume><fpage>4282</fpage><pub-id pub-id-type="doi">10.1103/PhysRevE.51.4282</pub-id></element-citation></ref><ref id="CR27"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wilson</surname><given-names>A</given-names></name></person-group><article-title>Boltzmann, Lotka and Volterra and spatial structural evolution: an integrated methodology for some dynamical systems</article-title><source>J. The Royal Soc. Interface</source><year>2008</year><volume>5</volume><fpage>865</fpage><lpage>871</lpage><pub-id pub-id-type="doi">10.1098/rsif.2007.1288</pub-id></element-citation></ref><ref id="CR28"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Helbing</surname><given-names>D</given-names></name><name><surname>Yu</surname><given-names>W</given-names></name></person-group><article-title>The outbreak of cooperation among success-driven individuals under noisy conditions</article-title><source>Proc. Natl. Acad. Sci.</source><year>2009</year><volume>106</volume><fpage>3680</fpage><lpage>3685</lpage><pub-id pub-id-type="doi">10.1073/pnas.0811503106</pub-id><?supplied-pmid 19237576?><pub-id pub-id-type="pmid">19237576</pub-id></element-citation></ref><ref id="CR29"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bouchaud</surname><given-names>J-P</given-names></name></person-group><article-title>Crises and collective socio-economic phenomena: simple models and challenges</article-title><source>J. Stat. Phys.</source><year>2013</year><volume>151</volume><fpage>567</fpage><lpage>606</lpage><pub-id pub-id-type="doi">10.1007/s10955-012-0687-3</pub-id></element-citation></ref><ref id="CR30"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hernando</surname><given-names>A</given-names></name><name><surname>Hernando</surname><given-names>R</given-names></name><name><surname>Plastino</surname><given-names>A</given-names></name><name><surname>Plastino</surname><given-names>A</given-names></name></person-group><article-title>The workings of the maximum entropy principle in collective human behaviour</article-title><source>J. The Royal Soc. Interface</source><year>2013</year><volume>10</volume><fpage>20120758</fpage><pub-id pub-id-type="doi">10.1098/rsif.2012.0758</pub-id></element-citation></ref><ref id="CR31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harding</surname><given-names>N</given-names></name><name><surname>Nigmatullin</surname><given-names>R</given-names></name><name><surname>Prokopenko</surname><given-names>M</given-names></name></person-group><article-title>Thermodynamic efficiency of contagions: a statistical mechanical analysis of the sis epidemic model</article-title><source>Interface focus</source><year>2018</year><volume>8</volume><fpage>20180036</fpage><pub-id pub-id-type="doi">10.1098/rsfs.2018.0036</pub-id><?supplied-pmid 30443333?><pub-id pub-id-type="pmid">30443333</pub-id></element-citation></ref><ref id="CR32"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fujita</surname><given-names>M</given-names></name></person-group><article-title>The evolution of spatial economics: from th&#x000fc;nen to the new economic geography</article-title><source>The Jpn. Econ. Rev.</source><year>2010</year><volume>61</volume><fpage>1</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.1111/j.1468-5876.2009.00504.x</pub-id></element-citation></ref><ref id="CR33"><label>33.</label><mixed-citation publication-type="other">United States Census Bureau. American fact finder, <ext-link ext-link-type="uri" xlink:href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml">https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml</ext-link>.</mixed-citation></ref><ref id="CR34"><label>34.</label><mixed-citation publication-type="other">Statistics Canada. 2016 census profile web data service, <ext-link ext-link-type="uri" xlink:href="https://www12.statcan.gc.ca/wds-sdw/cpr2016-eng.cfm">https://www12.statcan.gc.ca/wds-sdw/cpr2016-eng.cfm</ext-link>.</mixed-citation></ref><ref id="CR35"><label>35.</label><mixed-citation publication-type="other">Australian Bureau of Statistics. TableBuilder. <ext-link ext-link-type="uri" xlink:href="http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/2016%20TableBuilder/">http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/2016%20TableBuilder/</ext-link>.</mixed-citation></ref><ref id="CR36"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crosato</surname><given-names>E</given-names></name><name><surname>Nigmatullin</surname><given-names>R</given-names></name><name><surname>Prokopenko</surname><given-names>M</given-names></name></person-group><article-title>On critical dynamics and thermodynamic efficiency of urban transformations</article-title><source>Royal Soc. open science</source><year>2018</year><volume>5</volume><fpage>180863</fpage><pub-id pub-id-type="doi">10.1098/rsos.180863</pub-id></element-citation></ref><ref id="CR37"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>JH</given-names></name><name><surname>Pagliara</surname><given-names>F</given-names></name><name><surname>Preston</surname><given-names>J</given-names></name></person-group><article-title>The intention to move and residential location choice behaviour</article-title><source>Urban studies</source><year>2005</year><volume>42</volume><fpage>1621</fpage><lpage>1636</lpage><pub-id pub-id-type="doi">10.1080/00420980500185611</pub-id></element-citation></ref><ref id="CR38"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>P&#x000e9;rez</surname><given-names>PE</given-names></name><name><surname>Mart&#x000ed;nez</surname><given-names>FJ</given-names></name></person-group><article-title>&#x00026; Ort&#x000fa;zar, J. d. D. Microeconomic formulation and estimation of a residential location choice model: implications for the value of time</article-title><source>J. regional science</source><year>2003</year><volume>43</volume><fpage>771</fpage><lpage>789</lpage><pub-id pub-id-type="doi">10.1111/j.0022-4146.2003.00320.x</pub-id></element-citation></ref><ref id="CR39"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>H</given-names></name><name><surname>Levinson</surname><given-names>D</given-names></name><name><surname>Sarkar</surname><given-names>S</given-names></name></person-group><article-title>How transit scaling shapes cities</article-title><source>Nat. Sustain.</source><year>2019</year><volume>2</volume><fpage>1142</fpage><lpage>1148</lpage><pub-id pub-id-type="doi">10.1038/s41893-019-0427-7</pub-id></element-citation></ref><ref id="CR40"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Slavko</surname><given-names>B</given-names></name><name><surname>Glavatskiy</surname><given-names>K</given-names></name><name><surname>Prokopenko</surname><given-names>M</given-names></name></person-group><article-title>Dynamic resettlement as a mechanism of phase transitions in urban configurations</article-title><source>Phys. Rev. E</source><year>2019</year><volume>99</volume><fpage>042143</fpage><pub-id pub-id-type="doi">10.1103/PhysRevE.99.042143</pub-id><?supplied-pmid 31108611?><pub-id pub-id-type="pmid">31108611</pub-id></element-citation></ref><ref id="CR41"><label>41.</label><mixed-citation publication-type="other">McFadden, D. Modeling the choice of residential location. <italic>Transp. Res. Rec</italic>. <bold>673</bold> (1978).</mixed-citation></ref><ref id="CR42"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barthelemy</surname><given-names>M</given-names></name><name><surname>Bordin</surname><given-names>P</given-names></name><name><surname>Berestycki</surname><given-names>H</given-names></name><name><surname>Gribaudi</surname><given-names>M</given-names></name></person-group><article-title>Self-organization versus top-down planning in the evolution of a city</article-title><source>Sci. reports</source><year>2013</year><volume>3</volume><fpage>2153</fpage><pub-id pub-id-type="doi">10.1038/srep02153</pub-id></element-citation></ref><ref id="CR43"><label>43.</label><mixed-citation publication-type="other">Bertaud, A. &#x00026; Malpezzi, S. The spatial distribution of population in 35 world cities: the role of markets, planning and topography. <italic>The Cent. for urban land economic research, The Univ. Wis</italic>. (1999).</mixed-citation></ref><ref id="CR44"><label>44.</label><mixed-citation publication-type="other">Weidlich, W. &#x00026; Haag, G. <italic>Interregional migration: dynamic theory and comparative analysis</italic>, vol. 4 (Springer, 1988).</mixed-citation></ref><ref id="CR45"><label>45.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kareiva</surname><given-names>P</given-names></name></person-group><article-title>Local movement in herbivorous insects: applying a passive diffusion model to mark-recapture field experiments</article-title><source>Oecologia</source><year>1983</year><volume>57</volume><fpage>322</fpage><lpage>327</lpage><pub-id pub-id-type="doi">10.1007/BF00377175</pub-id><?supplied-pmid 28309358?><pub-id pub-id-type="pmid">28309358</pub-id></element-citation></ref><ref id="CR46"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Okubo</surname><given-names>A</given-names></name></person-group><article-title>Dynamical aspects of animal grouping: swarms, schools, flocks, and herds</article-title><source>Adv. biophysics</source><year>1986</year><volume>22</volume><fpage>1</fpage><lpage>94</lpage><pub-id pub-id-type="doi">10.1016/0065-227X(86)90003-1</pub-id></element-citation></ref><ref id="CR47"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jopp</surname><given-names>F</given-names></name></person-group><article-title>Comparative studies on the dispersal of the great ramshorn (planorbarius corneus l.): A modelling approach</article-title><source>Limnologica</source><year>2006</year><volume>36</volume><fpage>17</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1016/j.limno.2005.10.003</pub-id></element-citation></ref><ref id="CR48"><label>48.</label><mixed-citation publication-type="other">Huff, D. L. Defining and estimating a trading area. <italic>The J. Mark</italic>. 34&#x02013;38 (1964).</mixed-citation></ref><ref id="CR49"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jung</surname><given-names>W-S</given-names></name><name><surname>Wang</surname><given-names>F</given-names></name><name><surname>Stanley</surname><given-names>HE</given-names></name></person-group><article-title>Gravity model in the korean highway</article-title><source>EPL (Europhysics Lett.</source><year>2008</year><volume>81</volume><fpage>48005</fpage><pub-id pub-id-type="doi">10.1209/0295-5075/81/48005</pub-id></element-citation></ref><ref id="CR50"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kaluza</surname><given-names>P</given-names></name><name><surname>K&#x000f6;lzsch</surname><given-names>A</given-names></name><name><surname>Gastner</surname><given-names>MT</given-names></name><name><surname>Blasius</surname><given-names>B</given-names></name></person-group><article-title>The complex network of global cargo ship movements</article-title><source>J. Royal Soc. Interface</source><year>2010</year><volume>7</volume><fpage>1093</fpage><lpage>1103</lpage><pub-id pub-id-type="doi">10.1098/rsif.2009.0495</pub-id></element-citation></ref><ref id="CR51"><label>51.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krings</surname><given-names>G</given-names></name><name><surname>Calabrese</surname><given-names>F</given-names></name><name><surname>Ratti</surname><given-names>C</given-names></name><name><surname>Blondel</surname><given-names>VD</given-names></name></person-group><article-title>Urban gravity: a model for inter-city telecommunication flows</article-title><source>J. Stat. Mech. Theory Exp.</source><year>2009</year><volume>2009</volume><fpage>L07003</fpage><pub-id pub-id-type="doi">10.1088/1742-5468/2009/07/L07003</pub-id></element-citation></ref><ref id="CR52"><label>52.</label><mixed-citation publication-type="other">Wilson, A. G. The use of entropy maximising models in the theory of trip distribution, mode split and route split. <italic>J. Transp. Econ. Policy</italic> 108&#x02013;126 (1969).</mixed-citation></ref><ref id="CR53"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Balcan</surname><given-names>D</given-names></name><etal/></person-group><article-title>Multiscale mobility networks and the spatial spreading of infectious diseases</article-title><source>Proc. Natl. Acad. Sci.</source><year>2009</year><volume>106</volume><fpage>21484</fpage><lpage>21489</lpage><pub-id pub-id-type="doi">10.1073/pnas.0906910106</pub-id><?supplied-pmid 20018697?><pub-id pub-id-type="pmid">20018697</pub-id></element-citation></ref><ref id="CR54"><label>54.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skellam</surname><given-names>JG</given-names></name></person-group><article-title>Random dispersal in theoretical populations</article-title><source>Biometrika</source><year>1951</year><volume>38</volume><fpage>196</fpage><lpage>218</lpage><pub-id pub-id-type="doi">10.1093/biomet/38.1-2.196</pub-id><?supplied-pmid 14848123?><pub-id pub-id-type="pmid">14848123</pub-id></element-citation></ref><ref id="CR55"><label>55.</label><mixed-citation publication-type="other">Institut national de la statistique et des &#x000e9;tudes &#x000e9;conomiques. Comparateur de territoire, <ext-link ext-link-type="uri" xlink:href="https://www.insee.fr/fr/statistiques/1405599?geo=DEP-75">https://www.insee.fr/fr/statistiques/1405599?geo=DEP-75</ext-link>.</mixed-citation></ref><ref id="CR56"><label>56.</label><mixed-citation publication-type="other">Tokyo Metropolitan Government. Tokyo&#x02019;s history, geography, and population, <ext-link ext-link-type="uri" xlink:href="http://www.metro.tokyo.jp/ENGLISH/ABOUT/HISTORY/history03.htm">http://www.metro.tokyo.jp/ENGLISH/ABOUT/HISTORY/history03.htm</ext-link>.</mixed-citation></ref><ref id="CR57"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pereira</surname><given-names>RHM</given-names></name><name><surname>Nadalin</surname><given-names>V</given-names></name><name><surname>Monasterio</surname><given-names>L</given-names></name><name><surname>Albuquerque</surname><given-names>PH</given-names></name></person-group><article-title>Urban centrality: a simple index</article-title><source>Geogr. analysis</source><year>2013</year><volume>45</volume><fpage>77</fpage><lpage>89</lpage><pub-id pub-id-type="doi">10.1111/gean.12002</pub-id></element-citation></ref><ref id="CR58"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tsai</surname><given-names>Y-H</given-names></name></person-group><article-title>Quantifying urban form: compactness versus&#x02019; sprawl&#x02019;</article-title><source>Urban studies</source><year>2005</year><volume>42</volume><fpage>141</fpage><lpage>161</lpage><pub-id pub-id-type="doi">10.1080/0042098042000309748</pub-id></element-citation></ref><ref id="CR59"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giuliano</surname><given-names>G</given-names></name><name><surname>Small</surname><given-names>KA</given-names></name></person-group><article-title>Subcenters in the los angeles region</article-title><source>Reg. science urban economics</source><year>1991</year><volume>21</volume><fpage>163</fpage><lpage>182</lpage><pub-id pub-id-type="doi">10.1016/0166-0462(91)90032-I</pub-id></element-citation></ref><ref id="CR60"><label>60.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bertaud</surname><given-names>A</given-names></name><name><surname>Malpezzi</surname><given-names>S</given-names></name></person-group><article-title>The spatial distribution of population in 48 world cities: Implications for economies in transition. Cent. for urban land economics research</article-title><source>Univ. Wis.</source><year>2003</year><volume>32</volume><fpage>54</fpage><lpage>55</lpage></element-citation></ref><ref id="CR61"><label>61.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Louail</surname><given-names>T</given-names></name><etal/></person-group><article-title>From mobile phone data to the spatial structure of cities</article-title><source>Sci. reports</source><year>2014</year><volume>4</volume><fpage>5276</fpage></element-citation></ref><ref id="CR62"><label>62.</label><mixed-citation publication-type="other">Boyle, P., Halfacree, K. &#x00026; Robinson, V. Defining and measuring migration. <italic>Explor. Contemp. Migr. Lond</italic>. 34&#x02013;56 (1998).</mixed-citation></ref><ref id="CR63"><label>63.</label><mixed-citation publication-type="other">Shigesada, N. <italic>et al</italic>. Invasion and the range expansion of species: effects of long-distance dispersal. <italic>Dispersal ecology</italic> 350&#x02013;373 (2002).</mixed-citation></ref><ref id="CR64"><label>64.</label><mixed-citation publication-type="other">Afanasyev, V. <italic>et al</italic>. Revisiting l&#x000e9;vy flight search patterns of wandering albatrosses, bumblebees and deer. <italic>Nature</italic><bold>449</bold>, 6993Grimm (2007).</mixed-citation></ref><ref id="CR65"><label>65.</label><mixed-citation publication-type="other">Petrovskii, S. &#x00026; Morozov, A. Dispersal in a statistically structured population: fat tails revisited. <italic>The Am. Nat</italic>. <bold>173</bold>, 278&#x02013;289 (2008).</mixed-citation></ref><ref id="CR66"><label>66.</label><mixed-citation publication-type="other">McGrath Estate Agents. The mcgrath report 2020, <ext-link ext-link-type="uri" xlink:href="https://issuu.com/mcgrathestateagents/docs/the_mcgrath_report_2020_-_mcgrath_estate_agents">https://issuu.com/mcgrathestateagents/docs/the_mcgrath_report_2020_-_mcgrath_estate_agents</ext-link>.</mixed-citation></ref><ref id="CR67"><label>67.</label><mixed-citation publication-type="other">Sparke, E. <italic>et al</italic>. <italic>Canberra 1954&#x02013;1980</italic> (The Australian National University, 1987).</mixed-citation></ref><ref id="CR68"><label>68.</label><mixed-citation publication-type="other">Gibbney, H. J. <italic>et al</italic>. <italic>Canberra 1913&#x02013;1953</italic> (The Australian National University, 1988).</mixed-citation></ref><ref id="CR69"><label>69.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taylor</surname><given-names>J</given-names></name><name><surname>Lea</surname><given-names>JP</given-names></name></person-group><article-title>Darwin</article-title><source>Cities</source><year>1988</year><volume>5</volume><fpage>226</fpage><lpage>233</lpage><pub-id pub-id-type="doi">10.1016/0264-2751(88)90041-8</pub-id></element-citation></ref><ref id="CR70"><label>70.</label><mixed-citation publication-type="other">Bureau of Meteorology. Tropical cyclone extremes, <ext-link ext-link-type="uri" xlink:href="http://www.bom.gov.au/cyclone/about/extremes.shtml">http://www.bom.gov.au/cyclone/about/extremes.shtml</ext-link>. Archived from the original on 21 July 2015. Retrieved 19 July 2015.</mixed-citation></ref><ref id="CR71"><label>71.</label><mixed-citation publication-type="other">The SciPy community. SciPy: Open source scientific tools for Python (2001).</mixed-citation></ref></ref-list></back></article>

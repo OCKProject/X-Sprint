@@ -1,0 +1,462 @@
+{
+  "id": [
+    "32462015"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32462015"
+  ],
+  "pmcid": [
+    "PMC7240788"
+  ],
+  "doi": [
+    "10.1155/2020/7472618"
+  ],
+  "title": [
+    "A Static Magnetic Field Inhibits the Migration and Telomerase Function of Mouse Breast Cancer Cells."
+  ],
+  "authorString": [
+    "Fan Z, Hu P, Xiang L, Liu Y, He R, Lu T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fan Z"
+          ],
+          "firstName": [
+            "Zhu"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7535-2823",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Life Sciences, Beijing University of Chinese Medicine, Beijing 100029, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu P"
+          ],
+          "firstName": [
+            "Pingdong"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8974-5129",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Brain and Cognitive Science, Institute of Biophysics, CAS, Beijing 100101, China.",
+                "University of Chinese Academy of Sciences, Beijing 100101, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang L"
+          ],
+          "firstName": [
+            "Lekang"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Life Sciences, Beijing University of Chinese Medicine, Beijing 100029, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5868-3447",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Life Sciences, Beijing University of Chinese Medicine, Beijing 100029, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He R"
+          ],
+          "firstName": [
+            "Rongqiao"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Brain and Cognitive Science, Institute of Biophysics, CAS, Beijing 100101, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8247-8387",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Life Sciences, Beijing University of Chinese Medicine, Beijing 100029, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7535-2823",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8974-5129",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5868-3447",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8247-8387",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2925583"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "7472618"
+  ],
+  "abstractText": [
+    "Static magnetic field (SMF) has a potential as a cancer therapeutic modality due to its specific inhibitory effects on the proliferation of multiple cancer cells. However, the underlying mechanism remains unclear, and just a few studies have examined the effects of SMF on metastasis, an important concern in cancer treatment. In this study, we evaluated the effects of moderate SMF (~150 mT) on the proliferation and migration of 4T1 breast cancer cells. Our results showed that SMF treatment accelerated cell proliferation but inhibited cell migration. Further, SMF treatment shortened the telomere length, decreased telomerase activity, and inhibited the expression of the cancer-specific marker telomerase reverse transcriptase (TERT), which may be related to expression upregulation of e2f1, a transcription repressor of TERT and positive regulator of the mitotic cell cycle. Our results revealed that SMF repressed both, cell migration and telomerase function. The telomerase network is responsive to SMF and may be involved in SMF-mediated cancer-specific effects; moreover, it may function as a therapeutic target in magnetic therapy of cancers."
+  ],
+  "affiliation": [
+    "School of Life Sciences, Beijing University of Chinese Medicine, Beijing 100029, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/7472618"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7240788"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7240788?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/7472618"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-29"
+  ],
+  "firstIndexDate": [
+    "2020-05-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-28"
+  ],
+  "dateOfRevision": [
+    "2020-05-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-11"
+  ],
+  "firstPublicationDate": [
+    "2020-05-11"
+  ]
+}

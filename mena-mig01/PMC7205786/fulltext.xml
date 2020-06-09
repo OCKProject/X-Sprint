@@ -1,0 +1,729 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7205786</article-id><article-id pub-id-type="doi">10.1111/jcmm.15183</article-id><article-id pub-id-type="publisher-id">JCMM15183</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>PTBP1 modulates osteosarcoma chemoresistance to cisplatin by regulating the expression of the copper transporter SLC31A1</article-title><alt-title alt-title-type="left-running-head">CHENG et al.</alt-title></title-group><contrib-group><contrib id="jcmm15183-cr-0001" contrib-type="author"><name><surname>Cheng</surname><given-names>Cheng</given-names></name><xref ref-type="aff" rid="jcmm15183-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15183-cr-0002" contrib-type="author"><name><surname>Ding</surname><given-names>Qiuyue</given-names></name><xref ref-type="aff" rid="jcmm15183-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15183-cr-0003" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Zhicai</given-names></name><xref ref-type="aff" rid="jcmm15183-aff-0001">
+<sup>1</sup>
+</xref><address><email>ZZC_WHUH@163.com</email></address></contrib><contrib id="jcmm15183-cr-0004" contrib-type="author"><name><surname>Wang</surname><given-names>Shangyu</given-names></name><xref ref-type="aff" rid="jcmm15183-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15183-cr-0005" contrib-type="author"><name><surname>Zhong</surname><given-names>Binlong</given-names></name><xref ref-type="aff" rid="jcmm15183-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15183-cr-0006" contrib-type="author"><name><surname>Huang</surname><given-names>Xin</given-names></name><xref ref-type="aff" rid="jcmm15183-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15183-cr-0007" contrib-type="author" corresp="yes"><name><surname>Shao</surname><given-names>Zengwu</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1616-8118</contrib-id><xref ref-type="aff" rid="jcmm15183-aff-0001">
+<sup>1</sup>
+</xref><address><email>SZW_WHUH@163.com</email></address></contrib></contrib-group><aff id="jcmm15183-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Orthopedics</named-content>
+<named-content content-type="organisation-division">Union Hospital</named-content>
+<named-content content-type="organisation-division">Tongji Medical College</named-content>
+<institution>Huazhong University of Science and Technology</institution>
+<city>Wuhan</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Zhicai Zhang and Zengwu Shao, Department of Orthopedics, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, 1277 Jiefang Avenue, Wuhan 430022, China.<break/>
+Emails: <email>ZZC_WHUH@163.com</email> (ZZ) and <email>SZW_WHUH@163.com</email> (ZS)<break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>3</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2020</year></pub-date><volume>24</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/jcmm.v24.9</issue-id><fpage>5274</fpage><lpage>5289</lpage><history><date date-type="received"><day>11</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>26</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>06</day><month>3</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JCMM-24-5274.pdf"/><abstract id="jcmm15183-abs-0001"><title>Abstract</title><p>Chemoresistance is the main obstacle of treatment in patients with osteosarcoma. RNA&#x02010;binding protein PTBP1 has been identified as an oncogene in various cancers. However, the role of PTBP1 in osteosarcoma, especially in chemoresistant osteosarcoma, and the underlying mechanism remain unclear. In this study, we aimed to explore the functions of PTBP1 in chemoresistance of osteosarcoma. We found that PTBP1 was significantly increased in chemotherapeutically insensitive osteosarcoma tissues and cisplatin&#x02010;resistant osteosarcoma cell lines (MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub>) as compared to chemotherapy&#x02010;sensitive osteosarcoma tissues and cell lines. Knock&#x02010;down of PTBP1 can enhance the anti&#x02010;proliferation and apoptosis&#x02010;induced effects of cisplatin in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells. Moreover, PTBP1 knock&#x02010;down significantly up&#x02010;regulated the expression of the copper transporter SLC31A1, as indicated by transcriptome sequencing. Through RNA immunoprecipitation, dual&#x02010;luciferase reporter assay and RNA stability detection, we confirmed that PTBP1 binds to SLC31A1 mRNA and regulates the expression level of SLC31A1 by affecting mRNA stability. Additionally, SLC31A1 silencing abrogated the chemosensitizing effect of PTBP1 knock&#x02010;down in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells. Using a nude mouse xenograft model, we further confirmed that PTBP1 knock&#x02010;down enhanced chemoresistant osteosarcoma responsiveness to cisplatin treatment in vivo. Collectively, the present study suggests that PTBP1 is a crucial determinant of chemoresistance in osteosarcoma.</p></abstract><kwd-group><kwd id="jcmm15183-kwd-0001">chemoresistance</kwd><kwd id="jcmm15183-kwd-0002">osteosarcoma</kwd><kwd id="jcmm15183-kwd-0003">PTBP1</kwd><kwd id="jcmm15183-kwd-0004">SLC31A1</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>81572203</award-id><award-id>91649204</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Natural Science Foundation of Hubei Province </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100003819</institution-id></institution-wrap></funding-source><award-id>2018CFB118</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="1"/><page-count count="16"/><word-count count="8275"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.1 mode:remove_FC converted:07.05.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm15183-cit-1001">
+<string-name>
+<surname>Cheng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>PTBP1 modulates osteosarcoma chemoresistance to cisplatin by regulating the expression of the copper transporter SLC31A1</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2020</year>;<volume>24</volume>:<fpage>5274</fpage>&#x02013;<lpage>5289</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.15183</pub-id>
+</mixed-citation>
+</p><fn-group id="jcmm15183-ntgp-0001"><fn fn-type="equal" id="jcmm15183-note-0001"><p>Cheng Cheng and Qiuyue Ding equally contributed to this study.</p></fn></fn-group></notes></front><body id="jcmm15183-body-0001"><sec id="jcmm15183-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Osteosarcoma is the most common primary malignant bone tumour in children and adolescents.<xref rid="jcmm15183-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> For osteosarcoma treatment, the application of neoadjuvant chemotherapy drugs, including cisplatin, doxorubicin and methotrexate, has improved the limb salvage rate and raised the long&#x02010;term survival rate of patients to approximately 70%.<xref rid="jcmm15183-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="jcmm15183-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Cisplatin exerts anti&#x02010;cancer effects by crosslinking with the purine bases on DNA and interfering with DNA repair mechanisms, subsequently causing DNA damage and eventually inducing apoptosis of cancer cells.<xref rid="jcmm15183-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="jcmm15183-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Although this treatment strategy is effective, the development of cisplatin resistance has emerged as a major cause of chemotherapy failure, resulting in overall survival stagnation over the past three decades.<xref rid="jcmm15183-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="jcmm15183-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="jcmm15183-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Therefore, overcoming the chemoresistance of osteosarcoma and exploring potential molecular mechanisms have become key issues for improving the survival rate of osteosarcoma patients.</p><p>Cisplatin resistance attributes to a variety of factors, including abnormal genetic alterations, tumour microenvironment changes, epigenetic abnormalities and cancer stem cells.<xref rid="jcmm15183-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="jcmm15183-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="jcmm15183-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="jcmm15183-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> It is noteworthy that drug accumulation disorder has emerged as a crucial contributor in the cisplatin resistance.<xref rid="jcmm15183-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> Traditionally, platinum drugs penetrate cell membranes mainly through passive diffusion, but recent studies have found that ATP&#x02010;consuming active transport weighs more in platinum drug transport, and copper transporters (CTRs) are responsible for this transport pattern.<xref rid="jcmm15183-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="jcmm15183-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Copper transporters are mainly distributed in cell membranes, endoplasmic reticulum, lysosomes and other organelles, and the main function of CTRs is to transport copper and maintain intracellular copper homeostasis.<xref rid="jcmm15183-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> CTRs involved in platinum drug transport mainly depend on copper transporter 1 (SLC31A1), copper transporter 2 (SLC31A2), ATPase copper transporting alpha (ATP7A) and ATPase copper transporting beta (ATP7B). Among them, SLC31A1 is the major member that affects the intracellular concentration of platinum drugs and mediates the uptake of 60%~70% cisplatin and 30%~40% carboplatin in cells.<xref rid="jcmm15183-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> Previous studies have demonstrated that the expression level of SLC31A1 is associated with the chemoresistance of cancers. Yong et al found that oleandrin increases the chemosensitivity of osteosarcoma by inhibiting the degradation of copper transporter 1.<xref rid="jcmm15183-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> Lv et al<xref rid="jcmm15183-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> corroborated that down&#x02010;regulation of copper transporter 1 is responsible for the cisplatin resistance in ovarian cancer. Takeda et al<xref rid="jcmm15183-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> revealed the relationship between the expression level of copper transporter 1 and chemoresistance in triple&#x02010;negative breast cancer. However, the role of SLC31A1 in cisplatin&#x02010;resistant osteosarcoma remains unclear.</p><p>Post&#x02010;transcriptional regulation, as a key regulation mode that affects various biological behaviours of tumours, has been extensively studied by researchers.<xref rid="jcmm15183-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="jcmm15183-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> Post&#x02010;transcriptional regulation depends on the RNA&#x02010;binding proteins (RBPs), which directly bind to target RNA and affect the transport, stability, splicing and degradation of RNA, thereby regulating the expression of target genes and playing a role in pro&#x02010;cancer or anti&#x02010;cancer process.<xref rid="jcmm15183-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="jcmm15183-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> PTBP1 is a newly discovered RNA&#x02010;binding protein which specifically binds to polypyrimidine sequences on RNA and regulates the expression of downstream target genes with different or even opposing functions.<xref rid="jcmm15183-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> Increasing evidence has demonstrated that PTBP1 plays a critical role in the malignant characteristics of tumours and may be a target for cancer treatment. Xie et al<xref rid="jcmm15183-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> found that PTBP1 promotes the proliferation and metastasis of bladder cancer cells by selective splicing of MEIS2 and PKM. Li et al<xref rid="jcmm15183-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> demonstrated that PTBP1 promotes the migration and invasion of lung cancer cells by enhancing the skipping of exon11a of the MENA precursor gene. Jo et al<xref rid="jcmm15183-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> revealed that PTBP1 promotes metastasis of colorectal cancer by binding ATG10 mRNA and suppressing its expression. More interestingly, PTBP1 is associated with the response of cancer cells to chemotherapeutic drugs. Cheng et al<xref rid="jcmm15183-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> found that PTBP1 ablation could overcome resistance of colon cancer cell to vincristine and oxaliplatin through glycolytic regulation. Cui et al<xref rid="jcmm15183-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> confirmed that PTBP1 affects the apoptosis of cancer cells induced by chemotherapeutic drugs by regulating the expression of MCL. Besides, former studies have uncovered that PTBP1 undergo regulation of non&#x02010;coding RNAs in the progression of various cancers.<xref rid="jcmm15183-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="jcmm15183-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> Currently, the status of PTBP1 in osteosarcoma and the underlying regulatory mechanisms of PTBP1 affect biological characteristics, especially the chemotherapeutic response of osteosarcoma cells, and have not been clearly reported.</p><p>In the present study, we aim to investigate the role of PTBP1 in cisplatin&#x02010;resistant osteosarcoma; moreover, we sought to address the detail mechanisms on how PTBP1 affects the cisplatin resistance of osteosarcoma. We first confirmed that PTBP1 expression was increased in human osteosarcoma tissues, especially tissues with a poor response to chemotherapy. Then, we demonstrated that PTBP1 knock&#x02010;down enhanced the chemosensitivity of cisplatin&#x02010;resistant osteosarcoma cells to cisplatin by directly up&#x02010;regulating the expression level of SLC31A1. Furthermore, we established a cisplatin&#x02010;resistant osteosarcoma xenograft model in nude mice and exhibited that PTPB1 silencing could significantly enhance the inhibitory effect of cisplatin on cisplatin&#x02010;resistant osteosarcoma. Taken together, our results suggest that PTPB1 is a novel target for overcoming the cisplatin resistance of osteosarcoma.</p></sec><sec sec-type="materials-and-methods" id="jcmm15183-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcmm15183-sec-0003"><label>2.1</label><title>Patients and clinical samples</title><p>Twenty&#x02010;five osteosarcoma patients who underwent tumour resection in the department of orthopaedics of Wuhan Union Hospital were selected. All patients received a cisplatin&#x02010;based chemotherapy regimen before surgery. Tumour tissues and corresponding adjacent normal tissues were frozen in liquid nitrogen within 30&#x000a0;minutes after isolation. The collected specimens were obtained with the informed consent of the patients or the patient's parents. The chemotherapeutic response of cancer tissue was assessed by an expert panel of pathologists. The good chemotherapy response (GR) was defined as the necrosis rate higher than 90% and the poor response (PR) as the necrosis rate &#x0003c;90%. This study was approved by the Ethics Committee of Tongji Medical College and complied with the Declaration of Helsinki.</p></sec><sec id="jcmm15183-sec-0004"><label>2.2</label><title>Cell culture, transfection and treatment</title><p>Human osteosarcoma cell lines MG&#x02010;63, U&#x02010;2OS and human osteoblast cell line NHOst were obtained from ScienCell Research Laboratories and cultured in DMEM/F12 medium (Gibco) containing 10% foetal bovine serum (Gibco) and 1% penicillin&#x02010;streptomycin (Biosharp) at 37&#x000b0;C and 5% CO<sub>2</sub>.</p><p>PTBP1 short hairpin RNA (sh&#x02010;PTBP1) and control vector plasmids (sh&#x02010;control) were purchased from Genechem to specifically knock&#x02010;down PTBP1. The sh&#x02010;PTBP1 #1 sequence was 5&#x02032;&#x02010;AGCCCATCTACATCCAGTT&#x02010;3&#x02032;; the sh&#x02010;PTBP1 #2 sequence was 5&#x02032;&#x02010;CAACGTCAAGTACAACAAT&#x02010;3&#x02032;; the sh&#x02010;PTBP1 #3 sequence was 5&#x02032;&#x02010;TCGTCAAAGGATTCAAGTT&#x02010;3&#x02032;, and the sh&#x02010;control sequence was 5&#x02032;&#x02010; TTCTCCGAACGTGTCACGT&#x02010;3&#x02032;. Small interfering RNA specific for SLC31A1 (si&#x02010;SLC31A1) and negative control (si&#x02010;NC) were purchased from Ribobio. The si&#x02010;SLC31A1 sequence was 5&#x02032;&#x02010;CUGCGUAAGUCACAAGUCA dTdT&#x02010;3&#x02032;. Lipofectamine 3000 (Invitrogen) was used to conduct cell transfections in accordance with the manufacturer's guidelines.</p><p>For cisplatin&#x02010;resistant cell lines generation, we prepared 50&#x000a0;mmol/L cisplatin solution and diluted it to 1~50&#x000a0;&#x003bc;mol/L for use. In vitro experiments, we used completed medium containing 0.01% DMF as control group and 1&#x000a0;&#x003bc;mol/L cisplatin treated cells for 48&#x000a0;hours as cisplatin treatment group.</p></sec><sec id="jcmm15183-sec-0005"><label>2.3</label><title>Bioinformatics analysis</title><p>Data sets of gene expression profiles and clinical follow&#x02010;up data of six common tumours, bladder cancer (BLCA), colon cancer (COAD), renal clear cell carcinoma (KIRC), hepatocellular carcinoma (LIHC), lung adenocarcinoma (LUAD) and gastric cancer (STAD), were downloaded from the TCGA database (<ext-link ext-link-type="uri" xlink:href="http://cancergenome.nih.gov/">http://cancergenome.nih.gov/</ext-link>). Data were converted, managed and analysed by the edgeR package in R (version 3.4.1) to compare the expression of PTBP1 in the above tumours and normal tissues. The KM&#x02010;plot website (<ext-link ext-link-type="uri" xlink:href="http://www.kmplot.com/">http://www.kmplot.com/</ext-link>) was used to identify the correlation between PTBP1 level and prognosis in the TCGA data sets.</p></sec><sec id="jcmm15183-sec-0006"><label>2.4</label><title>Generation of cisplatin&#x02010;resistant cell lines</title><p>According to a previous study,<xref rid="jcmm15183-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> cisplatin&#x02010;resistant (CISR) sub&#x02010;lines MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> were derived from MG&#x02010;63 and U&#x02010;2OS cells by continuous stimulation with increasing concentrations of cisplatin. Initially, 1&#x000a0;&#x003bc;mol/L cisplatin was used to treat MG&#x02010;63 and U&#x02010;2OS cells for 72&#x000a0;hours, and then, the medium was replaced with cisplatin&#x02010;free medium to restore the cells to their previous state. Thereafter, the low to high dosage of cisplatin (1~50&#x000a0;&#x003bc;mol/L) was used to stimulate cells. CISR cells were obtained when 30&#x000a0;&#x003bc;mol/L cisplatin killed cells &#x0003c;25%.</p></sec><sec id="jcmm15183-sec-0007"><label>2.5</label><title>Cell viability assay</title><p>Cell viability was determined by Cell Counting Kit&#x02010;8 (CCK&#x02010;8, Dojindo) assay and colony formation assay. For the CCK&#x02010;8 assay, cells with different treatments were cultured in 96&#x02010;well plates at 5000 cells per well. After the indicated times, exchanged for serum&#x02010;free medium and added 10&#x000a0;&#x003bc;L CCK&#x02010;8 solution into each well. The absorbance at 450&#x000a0;nm was measured by a microplate reader (Thermo Scientific) after incubation at 37&#x02103; for 2&#x000a0;hours.</p><p>The transfected and control group cells were seeded in 6&#x02010;well plates at 500 cells per well, treated with 1&#x000a0;&#x003bc;mol/L cisplatin for 48&#x000a0;hours upon cell adherence and then cultured under standard conditions, and the culture medium was changed every 3&#x000a0;days. Fourteen days later, the cells were fixed with polyformaldehyde and stained with 0.1% crystal violet (Beyotime). The number of colonies was counted with ImageJ software.</p></sec><sec id="jcmm15183-sec-0008"><label>2.6</label><title>Flow cytometry</title><p>An Annexin V&#x02010;FITC apoptosis kit (BD Biosciences) was used to determine the number of apoptotic cells according to the manufacturer's instructions. Briefly, cells were harvested and washed twice with cold PBS and resuspended in 500&#x000a0;&#x003bc;L of binding buffer. The cell samples were incubated with Annexin V for 10&#x000a0;minutes in the dark and then incubated with FITC for 5&#x000a0;minutes. Flow cytometric analysis was performed with a FACS Calibur flow cytometer (BD Biosciences) and WINMDI 2.8 software.</p></sec><sec id="jcmm15183-sec-0009"><label>2.7</label><title>Quantitative real&#x02010;time PCR</title><p>Total RNA was extracted with TRIzol reagent (Beyotime) and used to synthesize cDNA with a PrimeScript&#x02122; II First&#x02010;Strand cDNA Synthesis Kit (Takara). qRT&#x02010;PCR primers were generated by Sangon Biotech. qRT&#x02010;PCR was carried out using a SYBR Primer&#x02010;Script RT&#x02010;PCR kit (Takara) with a CFX96 Touch quantitative PCR system (Bio&#x02010;Rad). To obtain more reliable results, we selected &#x003b2;&#x02010;actin and GAPDH as the internal reference genes through geNorm software evaluation. We calculated the geometric mean of the Ct value of two internal reference genes and then analysed relative gene expression by the 2<sup>&#x02212;&#x00394;&#x00394;Ct</sup> method. Primers for PTBP1 were 5&#x02032;&#x02010;GCTGCACCTCTCCAACATCC&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;GTCGTGGTTGTGCAGGTCAA&#x02010;3&#x02032; (reverse); primers for SLC31A1 were 5&#x02032;&#x02010;GGGGATGAGCTATATGGACTCC&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;TCACCAAACCGGAAAACAGTAG&#x02010;3&#x02032; (reverse); primers for &#x003b2;&#x02010;actin were 5&#x02032;&#x02010;AGAGCTACGAGCTGCCTGAC&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;AGCACTGTGTTGGCGTACAG&#x02010;3&#x02032; (reverse); primers for GAPDH were 5&#x02032;&#x02010;GAAGGTGAAGGTCGGAGTC&#x02010;3&#x02032; (forward) and 5&#x02032;&#x02010;GAAGATGGTGATGGGATTTC&#x02010;3&#x02032; (reverse).</p></sec><sec id="jcmm15183-sec-0010"><label>2.8</label><title>Western blot analysis</title><p>Total proteins were extracted from cells using lysis buffer supplemented with the complete protease inhibitor cocktail (Abcam). The following primary antibodies were used for Western blot analysis: anti&#x02010;PTBP1 (ab133734, Abcam), anti&#x02010;SLC31A1 (ab129067, Abcam), anti&#x02010;Cleaved Parp antibody (ab32064, Abcam), anti&#x02010;Cleaved Caspase&#x02010;3 antibody (ab2302, Abcam), anti&#x02010;Bax antibody (ab32503, Abcam), anti&#x02010;Bcl&#x02010;2 antibody (ab32124, Abcam) and anti&#x02010;&#x003b2;&#x02010;actin antibody (ab8226, Abcam). The detailed steps of the assay have been described in our previous paper.<xref rid="jcmm15183-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref> Briefly, the protein concentration was determined by BCA method, and then, total protein lysates were fractionated using SDS&#x02010;PAGE and transferred onto PVDF membranes. Membranes were blocked with 5% non&#x02010;fat milk and incubated with the above primary antibodies. Horseradish peroxidase&#x02010;conjugated secondary antibody was used to develop blots. The grey value was measured by ImageJ software.</p></sec><sec id="jcmm15183-sec-0011"><label>2.9</label><title>Transcriptome sequencing and gene enrichment analysis</title><p>About 3&#x000a0;&#x003bc;g of high&#x02010;quality total RNA from MG&#x02010;63<sub>CISR</sub> or U&#x02010;2OS<sub>CISR</sub> cells transfected with sh&#x02010;PTBP1 or sh&#x02010;control was used as the sample preparations and sent to a commercial company for transcriptome sequencing (Genergy Inc). The DEGseq package was used to identify differentially expressed genes between the control group and the sh&#x02010;PTBP1 group with parameters of |log<sub>2</sub>FoldChange|&#x000a0;&#x02265;&#x000a0;1 and <italic>P</italic> value&#x000a0;&#x0003c;&#x000a0;.05. Gene Ontology analysis and KEGG Pathway analysis of differentially expressed genes were conducted with the clusterprofiler package in R.</p></sec><sec id="jcmm15183-sec-0012"><label>2.10</label><title>RNA immunoprecipitation</title><p>RNA immunoprecipitation was performed using the Magna RIP RNA&#x02010;Binding Protein Immunoprecipitation kit (Millipore) according to the manufacturer's instructions. Briefly, cells were washed with cold PBS and lysed in RIP lysis buffer. A/G immunomagnetic beads and anti&#x02010;PTBP1 antibody or anti&#x02010;IgG (ab172730, Abcam) were premixed in immunoprecipitation buffer to immunoprecipitate endogenous PTBP1&#x02010;RNA complexes. After immunoprecipitated complexes were washed, they were treated with proteinase K. RNA isolation was conducted by the phenol&#x02010;chloroform method. The purified RNA was used for qPCR to measure the level of SLC31A1 mRNA binding with PTBP1 protein. Results are presented relative to IgG immunoprecipitation.</p></sec><sec id="jcmm15183-sec-0013"><label>2.11</label><title>RNA stability</title><p>To evaluate the effect of PTBP1 on the stability of SLC31A1 mRNA, we detected the half&#x02010;life of SLC31A1 mRNA. About 5&#x000a0;&#x003bc;g/mL actinomycin D was used to treat cells, which were subsequently collected at 0, 2, 4, 6 and 8&#x000a0;hours. Total RNA was extracted by TRIzol reagent as previously described. The level of SLC31A1 mRNA was measured by qRT&#x02010;PCR, and the half&#x02010;life of mRNA was obtained by non&#x02010;linear regression analysis.</p></sec><sec id="jcmm15183-sec-0014"><label>2.12</label><title>Luciferase reporter assay</title><p>The human SLC31A1 3&#x02032;&#x02010;UTR luciferase reporter vector and mutant SLC31A1 3&#x02032;&#x02010;UTR vector containing a mutation in the predicted PTBP1 binding sequence (CUCUCU to AAAAA) were purchased from Genechem. Briefly, cells were seeded in 6&#x02010;well plates, transfected with Renilla luciferase vector and pGL3 reporter for 48&#x000a0;hours, and the luciferase activity was measured by a Dual&#x02010;Luciferase Reporter Assay System (Promega).</p></sec><sec id="jcmm15183-sec-0015"><label>2.13</label><title>Measurement of intracellular Pt accumulation</title><p>The level of intracellular Pt accumulation was detected by inductively coupled plasma mass spectrometry (ICP&#x02010;MS) and performed by the toxicology laboratory of the School of Public Health, Tongji Medical College. The detection values were standardized by protein concentrations, which were determined by a BCA Protein Assay kit (Beyotime).</p></sec><sec id="jcmm15183-sec-0016"><label>2.14</label><title>Establishment of in vivo cisplatin&#x02010;resistant osteosarcoma xenograft model</title><p>Twelve 4&#x02010;week&#x02010;old female nude mice were randomly divided into two groups: group A (8 mice) and group B (4 mice). In group A, 5&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> MG&#x02010;63<sub>CISR</sub> cells were injected subcutaneously into the right hind flanks of nude mice. Similarly, 5&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> MG&#x02010;63<sub>CISR</sub> cells with stably PTBP1 knock&#x02010;down were injected subcutaneously into the right hind flanks of nude mice in group B. Two weeks later, when the tumour volume reached approximately 100 mm<sup>3</sup>, group A was randomly divided into two groups on average, one group was given 2&#x000a0;mg/kg of cisplatin per day, the other group was given the same volume of saline, and the group B was given 2&#x000a0;mg/kg of cisplatin per day. Tumour volume was measured with a vernier calliper on 7, 14 and 21&#x000a0;days. All animals were killed on 21&#x000a0;days, and the mass of tumours was weighed.</p><p>The mice were obtained from Charles River Laboratory, and all animal care and experiments were conducted according to the guidelines of the Ethics Committee of Animal Experiment of Tongji Medical College.</p></sec><sec id="jcmm15183-sec-0017"><label>2.15</label><title>TUNEL assay</title><p>Formalin&#x02010;fixed osteosarcoma tissues were embedded in paraffin and cut into 4&#x02010;&#x003bc;m sections. The TUNEL assay was performed with the One Step TUNEL Apoptosis Assay kit (Beyotime). Briefly, the paraffin&#x02010;embedded sections were dewaxed and washed for 20&#x000a0;minutes with 20&#x000a0;&#x003bc;g/mL DNase&#x02010;free protease K at 37&#x000b0;C and then washed three times with PBS. The TUNEL assay solution was allocated according to the instructions, and sections were incubated in TUNEL assay solution at 37&#x000b0;C for 60&#x000a0;minutes in the dark. After PBS washed three times, the nuclei were stained with DAPI. Fluorescence images were captured by the fluorescence microscopy (Olympus).</p></sec><sec id="jcmm15183-sec-0018"><label>2.16</label><title>HE staining and immunohistochemical staining</title><p>For haematoxylin and eosin (HE) staining, the sections were stained with haematoxylin aqueous solution for 10&#x000a0;minutes, rinsed with running water for 1&#x000a0;hour, dehydrated in 70% and 90% alcohol and finally stained with eosin dye solution for 10&#x000a0;minutes. For immunohistochemical staining, the sections were blocked with 5% BSA and then stained with an anti&#x02010;PTBP1 antibody (1:100), anti&#x02010;SLC31A1 antibody (1:100), anti&#x02010;Cleaved Parp antibody (1:100), anti&#x02010;Cleaved Caspase&#x02010;3 antibody (1:100), anti&#x02010;Bax antibody (1:100) or anti&#x02010;Bcl&#x02010;2 antibody (1:100) at 4&#x000b0;C overnight. Finally, the section was incubated with an HRP&#x02010;labelled goat anti&#x02010;rabbit secondary antibody. Tissue sections were scanned by Pannoramic 250 Flash III (3DHistech Ltd.). Image acquisition and analysis were completed by CaseViewer software (3DHistech Inc) and Image&#x02010;Pro Plus software (Media Cybernetics Inc).</p></sec><sec id="jcmm15183-sec-0019"><label>2.17</label><title>Statistical analysis</title><p>All experiments were independently repeated at least three times. SPSS 22.0 software and GraphPad Prism 7.0 software were used for all statistical analyses in this study. The difference between groups was analysed by 2&#x02010;tailed Student's <italic>t</italic> test or ANOVA. Data are presented as the mean&#x000a0;&#x000b1;&#x000a0;SD. A <italic>P</italic> value&#x000a0;&#x0003c;&#x000a0;.05 was considered as statistically significant.</p></sec></sec><sec sec-type="results" id="jcmm15183-sec-0020"><label>3</label><title>RESULTS</title><sec id="jcmm15183-sec-0021"><label>3.1</label><title>PTBP1 expression is up&#x02010;regulated in several common cancers</title><p>To explore the expression level of PTBP1 in several common cancers, we initially conducted bioinformatics analysis of the TCGA data set. We found that PTBP1 expression was increased in several common cancers, including BLCA, COAD, KIRC, LIHC, LUAD and STAD (Figure&#x000a0;<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">S1A&#x02010;C</xref>,G&#x02010;<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">I</xref>). However, only BLCA and LIHC cohorts showed a separation between the normal and cancer samples (Figure&#x000a0;<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">S1A</xref>,<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">G</xref>), and the expression of PTBP1 in the normal samples falls within the 10%&#x02010;90% range of the cancer cohort in other cancer types (Figure&#x000a0;<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">S1B</xref>,<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">C</xref>,H&#x02010;<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">I</xref>). For overall survival rate, in KIRC and LUAD, although high PTBP1 drives poorer outcome (Figure&#x000a0;<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">S1F</xref>,<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">K</xref>), the expression level of PTBP1 in normal tissues is very close to that in cancer tissues. In the other four cancers, PTBP1 expression did not affect the prognosis (Figure&#x000a0;<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">S1D</xref>,<xref rid="jcmm15183-sup-0001" ref-type="supplementary-material">E</xref>,J,L). These results suggest that although PTBP1 expression exhibits an increasing tendency in some human cancers, the relationship between PTBP1 level and prognosis is uncertain.</p></sec><sec id="jcmm15183-sec-0022"><label>3.2</label><title>PTBP1 up&#x02010;regulation is associated with poor response to chemotherapy and serves as a prognostic factor in osteosarcoma</title><p>Because PTBP1 expression exhibits an increasing tendency in some common cancers, we investigated whether PTBP1 has a role in osteosarcoma, especially in the chemoresistance of osteosarcoma. We first assessed the expression of PTPB1 in 25 pairs of osteosarcoma tissues and adjacent normal tissues by qRT&#x02010;PCR. As shown in Figure&#x000a0;<xref rid="jcmm15183-fig-0001" ref-type="fig">1A</xref>,<xref rid="jcmm15183-fig-0001" ref-type="fig">B</xref>, the PTBP1 expression level was higher in 19 osteosarcoma tissues than that in the matched normal tissues. In the remaining 6 cases, there was no significant difference in PTBP1 levels between tumours and normal tissues. According to the pathological diagnosis, 8 osteosarcoma patients were classified as having a poor response to chemotherapy, and 17 patients were defined as having a good response. Then, qRT&#x02010;PCR and immunohistochemistry confirmed that the expression level of PTBP1 was higher in poor responders than in good responders (Figure&#x000a0;<xref rid="jcmm15183-fig-0001" ref-type="fig">1C</xref>,<xref rid="jcmm15183-fig-0001" ref-type="fig">D</xref>). Moreover, we processed the clinical data of all patients to explore the relationship between PTBP1 expression and the clinical and pathological characteristics in 25 osteosarcoma patients. The results showed that the expression of PTBP1 was not correlated with age, gender, location of tumorigenesis, pathological classification and pathological grading of tumours (Table&#x000a0;<xref rid="jcmm15183-tbl-0001" ref-type="table">1</xref>). Additionally, Kaplan&#x02010;Meier analysis revealed that patients with high expression levels of PTBP1 had a poor overall survival rate (Figure&#x000a0;<xref rid="jcmm15183-fig-0001" ref-type="fig">1E</xref>). Taken together, these results demonstrate that PTBP1 up&#x02010;regulation is associated with poor response to chemotherapy of osteosarcoma, and higher PTBP1 expression predicts worse prognoses in osteosarcoma patients.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>PTBP1 up&#x02010;regulation is associated with poor response to chemotherapy and serves as a prognostic factor in osteosarcoma. A and B, Detection of PTBP1 expression in 25 pairs of osteosarcoma tissues and matched normal tissues by real&#x02010;time quantitative polymerase chain reaction (qRT&#x02010;PCR). C, In cases with poor response (PR) to chemotherapy and cases with good response (GR) to chemotherapy, PTBP1 mRNA level was measured by qRT&#x02010;PCR. D, PTBP1 expression in normal tissues, GR tissues and PR tissues was measured by immunohistochemistry (IHC). Scale bars: 500&#x000a0;&#x003bc;m (25&#x000d7;) and 50&#x000a0;&#x003bc;m (200&#x000d7;). IOD is integrated optical density. E, Kaplan&#x02010;Meier plot survival time in patients with low and high PTBP1 expression. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-24-5274-g001"/></fig><table-wrap id="jcmm15183-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of patients with osteosarcoma</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Variables</th><th align="left" valign="top" rowspan="1" colspan="1">PTBP1 low (n&#x000a0;=&#x000a0;19)</th><th align="left" valign="top" rowspan="1" colspan="1">PTBP1 high (n&#x000a0;=&#x000a0;6)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value<xref ref-type="fn" rid="jcmm15183-note-0002">*</xref>
+</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">11 (57.89%)</td><td align="left" rowspan="1" colspan="1">3 (50%)</td><td align="char" char="." rowspan="2" colspan="1">.734</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">8 (42.11%)</td><td align="left" rowspan="1" colspan="1">3 (50%)</td></tr><tr><td align="left" colspan="4" rowspan="1">Age (y)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Median</td><td align="left" rowspan="1" colspan="1">15.3</td><td align="left" rowspan="1" colspan="1">14.6</td><td align="char" char="." rowspan="2" colspan="1">&#x0003e;.99</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Range</td><td align="left" rowspan="1" colspan="1">8&#x02010;19</td><td align="left" rowspan="1" colspan="1">6&#x02010;21</td></tr><tr><td align="left" colspan="4" rowspan="1">Anatomical site</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Femur</td><td align="left" rowspan="1" colspan="1">6 (31.58%)</td><td align="left" rowspan="1" colspan="1">2 (33.33%)</td><td align="char" char="." rowspan="5" colspan="1">.840</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tibia</td><td align="left" rowspan="1" colspan="1">6 (31.58%)</td><td align="left" rowspan="1" colspan="1">2 (33.33%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Humerus</td><td align="left" rowspan="1" colspan="1">4 (21.05%)</td><td align="left" rowspan="1" colspan="1">1 (16.67%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pelvis</td><td align="left" rowspan="1" colspan="1">2 (10.53%)</td><td align="left" rowspan="1" colspan="1">0 (0.00%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">1 (5.26%)</td><td align="left" rowspan="1" colspan="1">1 (16.67%)</td></tr><tr><td align="left" colspan="4" rowspan="1">Histologic subtype</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Osteoblastic</td><td align="left" rowspan="1" colspan="1">9 (47.37%)</td><td align="left" rowspan="1" colspan="1">3 (50.00%)</td><td align="char" char="." rowspan="5" colspan="1">.691</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Chondroblastic</td><td align="left" rowspan="1" colspan="1">4 (21.05%)</td><td align="left" rowspan="1" colspan="1">2 (33.33%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Fibroblastic</td><td align="left" rowspan="1" colspan="1">4 (21.05%)</td><td align="left" rowspan="1" colspan="1">1 (16.67%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Telangiectatic</td><td align="left" rowspan="1" colspan="1">1 (5.26%)</td><td align="left" rowspan="1" colspan="1">0 (0.00%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">1 (5.26%)</td><td align="left" rowspan="1" colspan="1">0 (0.00%)</td></tr><tr><td align="left" colspan="4" rowspan="1">Histologic grade</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">III</td><td align="left" rowspan="1" colspan="1">7 (36.84%)</td><td align="left" rowspan="1" colspan="1">2 (33.33%)</td><td align="char" char="." rowspan="2" colspan="1">.876</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IV</td><td align="left" rowspan="1" colspan="1">12 (63.16%)</td><td align="left" rowspan="1" colspan="1">4 (66.67%)</td></tr><tr><td align="left" colspan="4" rowspan="1">Enneking grade</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IIA</td><td align="left" rowspan="1" colspan="1">8 (42.11%)</td><td align="left" rowspan="1" colspan="1">3 (50%)</td><td align="char" char="." rowspan="2" colspan="1">.734</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IIB</td><td align="left" rowspan="1" colspan="1">11 (57.89%)</td><td align="left" rowspan="1" colspan="1">3 (50%)</td></tr></tbody></table><table-wrap-foot id="jcmm15183-ntgp-0002"><fn id="jcmm15183-note-0002"><label>*</label><p>The difference in variables between the two groups was measured by chi&#x02010;square test.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jcmm15183-sec-0023"><label>3.3</label><title>PTBP1 is up&#x02010;regulated in osteosarcoma cell lines and cisplatin&#x02010;resistant cell lines</title><p>Aberrant expression of PTBP1 has been observed in osteosarcoma tissues, and it is associated with poor response to chemotherapy. Next, we examined the level of PTBP1 in osteosarcoma cells and CISR osteosarcoma cells. Real&#x02010;time quantitative PCR and Western blot analysis showed that the expression of PTBP1 in the osteosarcoma cell lines MG&#x02010;63 and U&#x02010;2OS was higher than that in the human osteoblast cell line NHOst (Figure&#x000a0;<xref rid="jcmm15183-sup-0002" ref-type="supplementary-material">S2A</xref>,<xref rid="jcmm15183-sup-0002" ref-type="supplementary-material">B</xref>). In the CISR cell lines MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub>, the expression intensity of PTBP1 was stronger than that in MG&#x02010;63 and U&#x02010;2OS cell lines (Figure&#x000a0;<xref rid="jcmm15183-sup-0002" ref-type="supplementary-material">S2C&#x02010;F</xref>). Together, these results suggest that PTBP1 up&#x02010;regulation is associated with the cisplatin resistance of osteosarcoma at the cellular level.</p></sec><sec id="jcmm15183-sec-0024"><label>3.4</label><title>PTBP1 deficiency enhances cisplatin efficacy in CISR osteosarcoma cells</title><p>To further investigate the role of PTBP1 in CISR osteosarcoma cells, we silenced PTBP1 expression in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells using shRNA specific for PTBP1. First, we validated the transfection efficiency of sh&#x02010;PTBP1 in CISR cells by qRT&#x02010;PCR and Western blot (Figure&#x000a0;<xref rid="jcmm15183-sup-0003" ref-type="supplementary-material">S3A</xref>,<xref rid="jcmm15183-sup-0003" ref-type="supplementary-material">B</xref>). According to the results, we chose sh&#x02010;PTBP1 #1 for subsequent experiments. The CCK&#x02010;8 assay and colony formation assay were used to detect the sensitivity of MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells to cisplatin after PTBP1 silenced. The results indicated that PTBP1 knock&#x02010;down alone had no obviously effect on cell viability and colony formation ability but enhanced the effect of cisplatin on CSIR cells (Figure&#x000a0;<xref rid="jcmm15183-fig-0002" ref-type="fig">2A&#x02010;C</xref>). In addition, cell apoptosis was not affected by the suppression of PTBP1, whereas the number of apoptotic cells induced by cisplatin increased significantly upon PTBP1 knock&#x02010;down (Figure&#x000a0;<xref rid="jcmm15183-fig-0002" ref-type="fig">2D</xref>). To determine whether the effect of sh&#x02010;PTBP1 on cisplatin sensitivity is specific to the CISR cells, we transfected MG&#x02010;63 and U&#x02010;2OS cells with sh&#x02010;PTBP1 and performed CCK&#x02010;8 assay. We found that sh&#x02010;PTBP1 has no significant effect on cell viability and cisplatin sensitivity of MG&#x02010;63 and U&#x02010;2OS cells (Figure&#x000a0;<xref rid="jcmm15183-fig-0002" ref-type="fig">2E</xref>,<xref rid="jcmm15183-fig-0002" ref-type="fig">F</xref>). Overall, these results reveal that inhibiting PTBP1 expression could enhance the killing effect of cisplatin on CISR osteosarcoma cells.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>PTBP1 deficiency enhances cisplatin efficacy in CISR osteosarcoma cells. A, The effect of PTBP1 knock&#x02010;down on cell viability of CISR osteosarcoma cells was measured by CCK&#x02010;8 assay. B, The effect of PTBP1 knock&#x02010;down on cisplatin&#x02010;induced inhibition of cell viability of CISR osteosarcoma cells was verified by CCK&#x02010;8 assay. C, Colony formation assay examined the effects of PTBP1 knock&#x02010;down, cisplatin alone and PTBP1 knock&#x02010;down combined with cisplatin on colony formation ability of CISR osteosarcoma cells. D, Flow cytometric analysis was used to detect the effects of PTBP1 knock&#x02010;down, cisplatin alone and PTBP1 knock&#x02010;down combined with cisplatin on cell apoptosis of CISR osteosarcoma cells. E, The effect of sh&#x02010;PTBP1 on cell viability of MG&#x02010;63 and U&#x02010;2OS cells was measured by CCK&#x02010;8 assay. F, The effect of sh&#x02010;PTBP1 on cisplatin&#x02010;induced inhibition of cell viability of MG&#x02010;63 and U&#x02010;2OS cells was verified by CCK&#x02010;8 assay. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, n.s is no significance</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-24-5274-g002"/></fig></sec><sec id="jcmm15183-sec-0025"><label>3.5</label><title>PTBP1 interacts with SLC31A1 mRNA in CISR osteosarcoma cells</title><p>Since PTBP1 is a typical RNA&#x02010;binding protein, the post&#x02010;transcriptional regulation of target genes is likely to be a potential molecular mechanism for its function. To identify the downstream targets of PTBP1, we performed transcriptome sequencing using total RNA from PTBP1 knock&#x02010;down MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells. With cut&#x02010;off criteria (|log<sub>2</sub>FoldChange|&#x000a0;&#x02265;&#x000a0;1 and <italic>P</italic> value&#x000a0;&#x0003c;&#x000a0;.05), the results exhibited that the expression of 386 genes was up&#x02010;regulated and 245 genes was down&#x02010;regulated in PTBP1 knock&#x02010;down MG&#x02010;63<sub>CISR</sub> cells compared with the control MG&#x02010;63<sub>CISR</sub> cells (Figure&#x000a0;<xref rid="jcmm15183-fig-0003" ref-type="fig">3A</xref>). Moreover, the expression of 367 genes was up&#x02010;regulated and 151 genes was down&#x02010;regulated in PTBP1 knock&#x02010;down U&#x02010;2OS<sub>CISR</sub> cells compared with the control U&#x02010;2OS<sub>CISR</sub> cells (Figure&#x000a0;<xref rid="jcmm15183-fig-0003" ref-type="fig">3B</xref>). All differentially expressed genes were listed in Tables&#x000a0;<xref rid="jcmm15183-sup-0005" ref-type="supplementary-material">S1</xref> and <xref rid="jcmm15183-sup-0006" ref-type="supplementary-material">S2</xref> and subsequently performed Gene Ontology (GO) analysis (Figure&#x000a0;<xref rid="jcmm15183-sup-0004" ref-type="supplementary-material">S4A</xref>,<xref rid="jcmm15183-sup-0004" ref-type="supplementary-material">B</xref>) and KEGG Pathway analysis (Figure&#x000a0;<xref rid="jcmm15183-sup-0004" ref-type="supplementary-material">S4C</xref>,<xref rid="jcmm15183-sup-0004" ref-type="supplementary-material">D</xref>). According to previous studies on PTBP1 in cancer, we found that PTBP1 could reduce the stability of mRNA by binding to it in a variety of cancer cells, which further negatively regulates the expression of the target gene.<xref rid="jcmm15183-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="jcmm15183-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>, <xref rid="jcmm15183-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> Therefore, we hypothesized that PTBP1 functions by reducing the stability of downstream target RNA and inhibiting the expression of them. Through analysis of the data, we found that 31 genes overlapped within up&#x02010;regulated expression group, and among them, the expression of SLC31A1 was most significantly affected by PTBP1 (the <italic>P</italic> value was the lowest) (Figure&#x000a0;<xref rid="jcmm15183-fig-0003" ref-type="fig">3C</xref>). To further verify whether PTBP1 directly binds to SLC31A1 mRNA, RNA immunoprecipitation assay was performed in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells. The results confirmed that SLC31A1 mRNA was significantly enriched in anti&#x02010;PTBP1 antibody co&#x02010;precipitated RNA fragments (Figure&#x000a0;<xref rid="jcmm15183-fig-0003" ref-type="fig">3D</xref>), suggesting that PTBP1 binds to SLC31A1 mRNA in these cells. The results of the dual&#x02010;luciferase reporter assay showed that compared with the sh&#x02010;control, we detect a significant increase in luciferase activity of wild&#x02010;type SLC31A1 3&#x02032;&#x02010;UTR reporter when transfected with sh&#x02010;PTBP1 in CISR cells. However, down&#x02010;regulation of PTBP1 had no repressive effect on the mutant SLC31A1 3&#x02032;&#x02010;UTR construct (Figure&#x000a0;<xref rid="jcmm15183-fig-0003" ref-type="fig">3E</xref>). Thereafter, we carried out the RNA stability assay to analysis the half&#x02010;life of SLC31A1 mRNA. As shown in Figure&#x000a0;<xref rid="jcmm15183-fig-0003" ref-type="fig">3F</xref>, the half&#x02010;life of SLC31A1 mRNA was 4.21 and 4.54&#x000a0;hours in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells, respectively, while the half&#x02010;life of SLC31A1 was longer than 8&#x000a0;hours in PTBP1 knock&#x02010;down cells. Taken together, these results indicate that PTBP1 can bind to the messenger RNA of SLC31A1, which further accelerates its degradation.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>PTBP1 regulates the expression of SLC31A1 in CISR osteosarcoma cells. A and B, Transcriptome sequencing was performed after knocking down PTBP1 in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells. Target genes which fold change&#x000a0;&#x0003e;&#x000a0;2 and FDR&#x000a0;&#x0003c;&#x000a0;0.05 were selected for cluster analysis and represent as heat maps. Blue indicates down&#x02010;regulation of gene expression, and red indicates up&#x02010;regulation of gene expression. C, Venn diagram shows the overlap of highly expressed genes in two sets of sequencing results. D, RNA immunoprecipitation in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells using an anti&#x02010;IgG control or anti&#x02010;PTBP1 antibody. SLC31A1 and &#x003b2;&#x02010;actin mRNA abundance in immune&#x02010;precipitated fraction was measured by qRT&#x02010;PCR. E, The SLC31A1 3&#x02032;&#x02010;UTR reporter constructs containing the wild&#x02010;type (WT) or mutant (MU) PTBP1 binding sequences were co&#x02010;transfected with sh&#x02010;control or sh&#x02010;PTBP1 into MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells and luciferase activity levels measured. F, The relative level of SLC31A1 mRNA after treated with 5&#x000a0;&#x003bc;g/mL actinomycin D for 0, 2, 4, 6 and 8&#x000a0;h was measured by qRT&#x02010;PCR, and the half&#x02010;life of SLC31A1 mRNA was analysed by non&#x02010;linear regression analysis. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, n.s no significance</p></caption><graphic id="nlm-graphic-5" xlink:href="JCMM-24-5274-g003"/></fig></sec><sec id="jcmm15183-sec-0026"><label>3.6</label><title>SLC31A1 is down&#x02010;regulated in chemotherapy&#x02010;insensitive osteosarcoma tissues and CISR osteosarcoma cells</title><p>To further explore the role of SLC31A1 in osteosarcoma, we assessed the level of SLC31A1 in osteosarcoma tissues and CISR osteosarcoma cells. The results of qRT&#x02010;PCR analysis showed that the expression of SLC31A1 mRNA was down&#x02010;regulated in osteosarcoma tissues, especially lower in chemotherapy&#x02010;insensitive osteosarcoma tissues, and there was a negative correlation between the expression of SLC31A1 and PTBP1 in osteosarcoma tissue (Figure&#x000a0;<xref rid="jcmm15183-fig-0004" ref-type="fig">4A</xref>,<xref rid="jcmm15183-fig-0004" ref-type="fig">B</xref>). Moreover, IHC staining showed that the positive rate of SLC31A1 in good responders was significantly higher than that in poor responders (Figure&#x000a0;<xref rid="jcmm15183-fig-0004" ref-type="fig">4C</xref>). qRT&#x02010;PCR and Western blot analysis demonstrated that the levels of SLC31A1 in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells were significantly lower than that in their original cells (Figure&#x000a0;<xref rid="jcmm15183-fig-0004" ref-type="fig">4D</xref>,G). Moreover, PTBP1 knock&#x02010;down increased the expression level of SLC31A1 in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells (Figure&#x000a0;<xref rid="jcmm15183-fig-0004" ref-type="fig">4E</xref>,H). To determine whether sh&#x02010;PTBP1 in MG&#x02010;63 and U&#x02010;2OS cells has a similar effect on increasing SLC31A1 expression, we transfected MG&#x02010;63 and U&#x02010;2OS cells with sh&#x02010;PTBP1 and performed qRT&#x02010;PCR and Western blot assay to measure the level of SLC31A1 in PTBP1 knock&#x02010;down cells. The results implied that PTBP1 knock&#x02010;down in cisplatin&#x02010;sensitive osteosarcoma cells also increased the expression of SLC31A1 (Figure&#x000a0;<xref rid="jcmm15183-fig-0004" ref-type="fig">4F</xref>,<xref rid="jcmm15183-fig-0004" ref-type="fig">I</xref>). Together, these results suggest that the expression of SLC31A1 is decreased in chemotherapy&#x02010;insensitive osteosarcoma tissues and CISR osteosarcoma cells, and the effect of PTBP1 knock&#x02010;down on SLC31A1 up&#x02010;regulation is not unique to CISR cells.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>SLC31A1 is down&#x02010;regulated in chemotherapy&#x02010;insensitive osteosarcoma tissues and CISR osteosarcoma cells. A, The level of SLC31A1 mRNA in osteosarcoma tissues was measured by qRT&#x02010;PCR. B, Linear regression analysis of the correlation between the expression levels of SLC31A1 and PTBP1 in osteosarcoma. C, SLC31A1 expression in GR tissues and PR tissues was measured by IHC. Scale bars: 500&#x000a0;&#x003bc;m (25&#x000d7;) and 50&#x000a0;&#x003bc;m (200&#x000d7;). D and G, The expression of SLC31A1 in MG&#x02010;63, U&#x02010;2OS and their cisplatin&#x02010;resistant sub&#x02010;lines was measured by qRT&#x02010;PCR and Western blot. E and H, The expression of SLC31A1 in MG&#x02010;63<sub>CISR</sub>, U&#x02010;2OS<sub>CISR</sub> cells and PTBP1 knock&#x02010;down MG&#x02010;63<sub>CISR</sub>, U&#x02010;2OS<sub>CISR</sub> cells was measured by qRT&#x02010;PCR and Western blot. F and I, The expression of SLC31A1 in MG&#x02010;63, U&#x02010;2OS cells and PTBP1 knock&#x02010;down MG&#x02010;63, U&#x02010;2OS cells was measured by qRT&#x02010;PCR and Western blot. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01</p></caption><graphic id="nlm-graphic-7" xlink:href="JCMM-24-5274-g004"/></fig></sec><sec id="jcmm15183-sec-0027"><label>3.7</label><title>SLC31A1 knock&#x02010;down abrogates the effect of PTBP1 silence on the chemosensitivity of CISR osteosarcoma cells</title><p>To evaluate whether SLC31A1 mediates PTBP1 functions, we carried out rescue experiments by knocking down SLC31A1 in CISR cells. Initially, qRT&#x02010;PCR and Western blot were used to validate the transfection efficiency of the SLC31A1 siRNA in MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells (Figure&#x000a0;<xref rid="jcmm15183-sup-0003" ref-type="supplementary-material">S3C</xref>,<xref rid="jcmm15183-sup-0003" ref-type="supplementary-material">D</xref>). Intracellular platinum concentration measurements showed that PTBP1 knock&#x02010;down resulted in intracellular platinum accumulation, and after the inhibition of SLC31A1, the intracellular platinum concentration decreased accordingly (Figure&#x000a0;<xref rid="jcmm15183-fig-0005" ref-type="fig">5A</xref>). The cell viability assay and colony formation assay results indicated that that the inhibition of SLC31A1 abrogated the effects of PTBP1 knock&#x02010;down on cell sensitivity to cisplatin (Figure&#x000a0;<xref rid="jcmm15183-fig-0005" ref-type="fig">5B</xref>,<xref rid="jcmm15183-fig-0005" ref-type="fig">C</xref>). In addition, the percentage of cells that underwent apoptosis was decreased significantly after SLC31A1 knock&#x02010;down (Figure&#x000a0;<xref rid="jcmm15183-fig-0005" ref-type="fig">5D</xref>). As expect, these data suggest that SLC31A1 mediates the effect of PTBP1 knock&#x02010;down on the chemosensitivity of CISR osteosarcoma cells by regulating the uptake of cisplatin.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>SLC31A1 knock&#x02010;down abrogates the effect of PTBP1 silence on the chemosensitivity of CISR osteosarcoma cells. A, In MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells, intracellular platinum concentration was determined by inductively coupled plasma mass spectrometry (ICP&#x02010;MS). B and C, CCK&#x02010;8 assay and colony formation assay determined the cell viability and colony formation ability of MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells. D, Flow cytometric analysis of apoptosis was used to detect the effects of cisplatin alone. PTBP1 knock&#x02010;down combined with cisplatin, PTBP1 knock&#x02010;down combined with cisplatin simultaneously inhibited SLC31A1 on cell apoptosis. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01</p></caption><graphic id="nlm-graphic-9" xlink:href="JCMM-24-5274-g005"/></fig></sec><sec id="jcmm15183-sec-0028"><label>3.8</label><title>SLC31A1 mediates the regulation of PTPB1 on cisplatin&#x02010;induced apoptosis&#x02010;related genes expression</title><p>The mitochondrial pathway is one of the main ways of cisplatin&#x02010;induced cancer cell apoptosis.<xref rid="jcmm15183-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="jcmm15183-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> As mentioned above, PTBP1 knock&#x02010;down results in the up&#x02010;regulation of SLC31A1 and the accumulation of intracellular cisplatin. Therefore, we hypothesized that PTBP1 and SLC31A1 could affect the expression of genes related to the mitochondrial apoptotic pathway. To validate our assumption, we examined the expression of apoptosis&#x02010;related genes in mitochondrial pathway in two kinds of CISR cells by Western blot. As shown in Figure&#x000a0;<xref rid="jcmm15183-fig-0006" ref-type="fig">6</xref>, the levels of the pro&#x02010;apoptotic genes Cleaved Parp, Cleaved Caspase&#x02010;3 and Bax were up&#x02010;regulated, and the level of the anti&#x02010;apoptotic gene Bcl&#x02010;2 did not change after 48&#x000a0;hours of intervention with 1&#x000a0;&#x003bc;mol/L cisplatin alone. After 48&#x000a0;hours of treatment with 1&#x000a0;&#x003bc;mol/L cisplatin in PTBP1 knock&#x02010;down cells, the expression of these pro&#x02010;apoptotic genes increased significantly, and the expression of Bcl&#x02010;2 decreased significantly. However, SLC31A1 silencing reversed the effect of PTBP1 on cisplatin&#x02010;induced pro&#x02010;apoptotic genes expression, and the expression of anti&#x02010;apoptotic genes remained at a relatively low level. Taken together, SLC31A1 mediates the effect of PTPB1 on the expression of apoptosis&#x02010;related genes induced by cisplatin.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>SLC31A1 mediates the regulation of PTPB1 on cisplatin&#x02010;induced apoptosis&#x02010;related genes expression. Western blot assay was used to measure the protein expression of pro&#x02010;apoptotic related genes: Cleaved Parp, Cleaved Caspase&#x02010;3, Bax, and anti&#x02010;apoptotic gene Bcl&#x02010;2 after different treatments. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, n.s is no significance</p></caption><graphic id="nlm-graphic-11" xlink:href="JCMM-24-5274-g006"/></fig></sec><sec id="jcmm15183-sec-0029"><label>3.9</label><title>PTBP1 knock&#x02010;down potentiates the anti&#x02010;tumour effect of cisplatin on cisplatin&#x02010;resistant osteosarcoma in vivo</title><p>Through a series of experiments in vitro, we found that PTBP1 knock&#x02010;down could overcome the cisplatin resistance of MG&#x02010;63<sub>CISR</sub> and U&#x02010;2OS<sub>CISR</sub> cells. To further investigate the effect of PTBP1 knock&#x02010;down in vivo, we carried out osteosarcoma xenograft and treatment experiments in nude mice. The treatment scheme is shown in Figure&#x000a0;<xref rid="jcmm15183-fig-0007" ref-type="fig">7A</xref>. The results revealed that treatment with 2&#x000a0;mg/kg cisplatin alone had no obvious effects on CISR osteosarcoma in vivo. However, cisplatin could significantly inhibit the growth of PTBP1 knock&#x02010;down osteosarcoma xenograft in vivo (Figure&#x000a0;<xref rid="jcmm15183-fig-0007" ref-type="fig">7B&#x02010;D</xref>). TUNEL assays showed that treatment with cisplatin alone caused only minimal osteosarcoma apoptosis. In contrast, cisplatin treatment combined with PTBP1 knock&#x02010;down induced apoptosis in large areas of tumours (Figure&#x000a0;<xref rid="jcmm15183-fig-0007" ref-type="fig">7E</xref>). In the HE staining, we found that the combination of PTBP1 knock&#x02010;down and cisplatin treatment resulted in increased nuclear fragmentation. Moreover, immunohistochemistry (IHC) staining indicated that PTBP1 knock&#x02010;down combined with cisplatin treatment produced a significant pro&#x02010;apoptotic effect in osteosarcoma in vivo (Figure&#x000a0;<xref rid="jcmm15183-fig-0008" ref-type="fig">8</xref>). Together, PTBP1 knock&#x02010;down potentiates the anti&#x02010;tumour effect of cisplatin on cisplatin&#x02010;resistant osteosarcoma in vivo.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>PTBP1 knock&#x02010;down potentiates the anti&#x02010;tumour effect of cisplatin on cisplatin&#x02010;resistant osteosarcoma in vivo. A, The treatment scheme. B, The general view of xenograft tumours in nude mice after 21&#x000a0;d of different treatments. C, Volume of xenograft tumours after 0, 7, 14 and 21&#x000a0;d of different treatments. D, Mass of xenograft tumours after 21&#x000a0;d of different treatments. E, Tunel assay determined the killing effect of different treatments on xenograft tumours in nude mice. Scale bar: 200&#x000a0;&#x003bc;m (40&#x000d7;). *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05</p></caption><graphic id="nlm-graphic-13" xlink:href="JCMM-24-5274-g007"/></fig><fig fig-type="Figure" xml:lang="en" id="jcmm15183-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Haematoxylin and eosin (HE) and IHC staining of xenograft osteosarcoma. HE staining and IHC staining were used to detect the nucleus fragmentation and the expression of related genes in xenograft tumours. Scale bar: 100&#x000a0;&#x003bc;m (100&#x000d7;)</p></caption><graphic id="nlm-graphic-15" xlink:href="JCMM-24-5274-g008"/></fig></sec></sec><sec sec-type="discussion" id="jcmm15183-sec-0030"><label>4</label><title>DISCUSSION</title><p>Since adjuvant chemotherapy has been widely used in the treatment of osteosarcoma, the prognosis of osteosarcoma patients has been greatly improved. However, one of the major barriers in curing osteosarcoma is the emergence of chemoresistance. Therefore, overcoming this obstacle is the main focus of the current research on osteosarcoma treatment. To solve the problem of chemoresistance in osteosarcoma, it is important to reveal the underlying molecular mechanism and to develop effective chemosensitizers for first&#x02010;line chemotherapeutic drugs. In this study, we demonstrated the biological roles of PTBP1 and SLC31A1 in chemoresistant osteosarcoma for the first time.</p><p>As one of the most critical participants in the regulation of intracellular RNA biological function, RNA&#x02010;binding proteins have been proved to be widely involved in the occurrence, progression and chemoresistance of various cancers.<xref rid="jcmm15183-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="jcmm15183-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="jcmm15183-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref> PTBP1 is a member of the heterogeneous nuclear ribonucleoprotein family as well as a typical RNA&#x02010;binding protein. In this study, we initially found that PTBP1 expression is increased in several common cancers, but it has no clear relationship with prognosis through bioinformatics analysis. On this basis, we revealed that PTBP1 is aberrantly expressed in osteosarcoma tissues and cells, especially those insensitive to chemotherapeutics. The survival analysis indicated that high expression of PTBP1 predicts the worse prognosis. Then, we conducted in vitro assays and in vivo experiments, and the results demonstrated that knock&#x02010;down PTBP1 in CISR osteosarcoma cells enhances the anti&#x02010;tumour effect of cisplatin. These findings suggest that PTBP1 acts as a determinant in regulating the chemosensitivity of osteosarcoma to cisplatin. Currently, a series of researches have demonstrated that PTBP1 is abnormally expressed in cancer tissues or cells and is associated with the pathological processes of cancer development.<xref rid="jcmm15183-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="jcmm15183-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="jcmm15183-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref> Most of the molecular mechanisms involved in these studies are post&#x02010;transcriptional regulation of PTBP1, which is determined by the nature of PTBP1 as an RNA&#x02010;binding protein.<xref rid="jcmm15183-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="jcmm15183-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> Consequently, from the perspective of post&#x02010;transcriptional regulation, we identified SLC31A1 as the target of PTBP1 in CISR osteosarcoma cells by transcriptome sequencing, RIP assay and luciferase reporter assay.</p><p>Platinum drugs, like other essential metal ions, enter cells via the cell membranes and distribute, eventually being excreted extracellularly. The anti&#x02010;tumour efficiency of platinum chemotherapeutics depends on the concentration of platinum drugs in cancer cells,<xref rid="jcmm15183-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="jcmm15183-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> while the vast majority of acquired chemoresistance is accompanied by a down&#x02010;regulation of intracellular platinum drugs aggregation.<xref rid="jcmm15183-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref> Previous studies have demonstrated that copper&#x02010;related transporters and metabolic systems play an important role in the intake, distribution and excretion of platinum.<xref rid="jcmm15183-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="jcmm15183-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref> The SLC31A1 gene encodes copper transporter 1 protein, which efficiently transport copper and maintain the homeostasis of copper in cells. A growing body of evidence suggests that SLC31A1 is responsible for the majority of the active transport of platinum drugs in cancer cells.<xref rid="jcmm15183-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>, <xref rid="jcmm15183-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref> Abnormal expression of SLC31A1 in cancer cells affects the sensitivity of cells to platinum drugs and even directly leads to chemoresistance of cancer cells.<xref rid="jcmm15183-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>, <xref rid="jcmm15183-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref> As above described, we identified SLC31A1 as the target of PTBP1 in CISR osteosarcoma cells. We further confirmed that SLC31A1 expression is lower in cisplatin&#x02010;insensitive osteosarcoma tissues and CISR cells. Furthermore, we validated the regulatory effect of PTBP1 on the expression of SLC31A1 and chemosensitivity enhanced by PTBP1 knock&#x02010;down is mediated by SLC31A1 in CISR osteosarcoma cells through a series of assays. It is noteworthy that PTBP1 knock&#x02010;down also up&#x02010;regulated the expression of SLC31A1 in MG&#x02010;63 and U&#x02010;2OS cells, but PTBP1 silencing did not enhance the response of these sensitive cell lines to cisplatin. We think the possible reason is that there are already high levels of SLC31A1 in MG&#x02010;63 and U&#x02010;2OS cells. These channels are sufficient for cells to take up external cisplatin. Besides, the cisplatin uptake by SLC31A1 accounts for 60%~70% of the total uptake.<xref rid="jcmm15183-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> Therefore, even if the expression level of SLC31A1 is increased, more cisplatin cannot be taken up into cells when the external cisplatin concentration is unchanged. Of course, this requires our further verification and exploration.</p><p>In conclusion, our study reveals the role of PTBP1 in CISR osteosarcoma cells and its relevance with prognosis of osteosarcoma patients. PTBP1 affects the expression level of SLC31A1 by binding to its mRNA, thereby affecting the uptake of cisplatin by CISR osteosarcoma cells and regulating the sensitivity of CISR osteosarcoma cells to cisplatin. Our evidence provides a new perspective for the treatment of osteosarcoma chemoresistance.</p></sec><sec sec-type="COI-statement" id="jcmm15183-sec-0032"><title>CONFLICT OF INTERESTS</title><p>All authors declare that they have no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jcmm15183-sup-0001"><caption><p>Fig S1</p></caption><media xlink:href="JCMM-24-5274-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm15183-sup-0002"><caption><p>Fig S2</p></caption><media xlink:href="JCMM-24-5274-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm15183-sup-0003"><caption><p>Fig S3</p></caption><media xlink:href="JCMM-24-5274-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm15183-sup-0004"><caption><p>Fig S4</p></caption><media xlink:href="JCMM-24-5274-s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm15183-sup-0005"><caption><p>Table S1</p></caption><media xlink:href="JCMM-24-5274-s005.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm15183-sup-0006"><caption><p>Table S2</p></caption><media xlink:href="JCMM-24-5274-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm15183-sup-0007"><caption><p>Supplementary Material</p></caption><media xlink:href="JCMM-24-5274-s007.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jcmm15183-sec-0031"><title>ACKNOWLEDGEMENTS</title><p>This work was supported by grants from the Major Research Plan of the National Natural Science Foundation of China (grant numbers: 91649204 and 81572203) and the Hubei Natural Science Foundation (grant number: 2018CFB118). Cheng Cheng, Qiuyue Ding and Shangyu Wang performed the assays. Binlong Zhong and Xin Huang assisted with the assays. Cheng Cheng and Qiuyue Ding analysed the data and wrote the paper. Zhicai Zhang and Zengwu Shao designed the research study.</p></ack><sec sec-type="data-availability" id="jcmm15183-sec-0034"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="jcmm15183-bibl-0001"><title>REFERENCES</title><ref id="jcmm15183-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0001">
+<string-name>
+<surname>Ottaviani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The epidemiology of osteosarcoma</article-title>. <source xml:lang="en">Cancer Treat Res</source>. <year>2009</year>;<volume>152</volume>:<fpage>3</fpage>&#x02010;<lpage>13</lpage>.<pub-id pub-id-type="pmid">20213383</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0002">
+<string-name>
+<surname>Harrison</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Geller</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>VO</given-names>
+</string-name>, <string-name>
+<surname>Gorlick</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Current and future therapeutic approaches for osteosarcoma</article-title>. <source xml:lang="en">Expert Rev Anticancer Ther</source>. <year>2018</year>;<volume>18</volume>:<fpage>39</fpage>&#x02010;<lpage>50</lpage>.<pub-id pub-id-type="pmid">29210294</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0003">
+<string-name>
+<surname>Robl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Pauli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Botter</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Bode&#x02010;Lesniewska</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fuchs</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Prognostic value of tumor suppressors in osteosarcoma before and after neoadjuvant chemotherapy</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2015</year>;<volume>15</volume>:<fpage>379</fpage>.<pub-id pub-id-type="pmid">25956431</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0004">
+<string-name>
+<surname>Kim</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>J&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>GFRA1 promotes cisplatin&#x02010;induced chemoresistance in osteosarcoma by inducing autophagy</article-title>. <source xml:lang="en">Autophagy</source>. <year>2017</year>;<volume>13</volume>:<fpage>149</fpage>&#x02010;<lpage>168</lpage>.<pub-id pub-id-type="pmid">27754745</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0005">
+<string-name>
+<surname>Dasari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tchounwou</surname>
+<given-names>PB</given-names>
+</string-name>. <article-title>Cisplatin in cancer therapy: molecular mechanisms of action</article-title>. <source xml:lang="en">Eur J Pharmacol</source>. <year>2014</year>;<volume>740</volume>:<fpage>364</fpage>&#x02010;<lpage>378</lpage>.<pub-id pub-id-type="pmid">25058905</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0006">
+<string-name>
+<surname>Yan</surname>
+<given-names>GN</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>QN</given-names>
+</string-name>. <article-title>Advances in osteosarcoma stem cell research and opportunities for novel therapeutic targets</article-title>. <source xml:lang="en">Cancer Lett</source>. <year>2016</year>;<volume>370</volume>:<fpage>268</fpage>&#x02010;<lpage>274</lpage>.<pub-id pub-id-type="pmid">26571463</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0007">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Nobusue</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>ROCK inhibition induces terminal adipocyte differentiation and suppresses tumorigenesis in chemoresistant osteosarcoma cells</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2019</year>;<volume>79</volume>:<fpage>3088</fpage>&#x02010;<lpage>3099</lpage>.<pub-id pub-id-type="pmid">30992323</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0008">
+<string-name>
+<surname>He</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Histone methyltransferase NSD2 regulates apoptosis and chemosensitivity in osteosarcoma</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2019</year>;<volume>10</volume>:<fpage>65</fpage>.<pub-id pub-id-type="pmid">30683853</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0009">
+<string-name>
+<surname>Galluzzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Vitale</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Michels</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Systems biology of cisplatin resistance: past, present and future</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2014</year>;<volume>5</volume>:<elocation-id>e1257</elocation-id>.<pub-id pub-id-type="pmid">24874729</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0010">
+<string-name>
+<surname>Chen</surname>
+<given-names>S&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>J&#x02010;Y</given-names>
+</string-name>. <article-title>New insights into mechanisms of cisplatin resistance: from tumor cell to microenvironment</article-title>. <source xml:lang="en">Int J Mol Sci</source>. <year>2019</year>;<volume>20</volume>:<fpage>4136</fpage>.</mixed-citation></ref><ref id="jcmm15183-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0011">
+<string-name>
+<surname>Shen</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Pouliot</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Gottesman</surname>
+<given-names>MM</given-names>
+</string-name>. <article-title>Cisplatin resistance: a cellular self&#x02010;defense mechanism resulting from multiple epigenetic and genetic changes</article-title>. <source xml:lang="en">Pharmacol Rev</source>. <year>2012</year>;<volume>64</volume>:<fpage>706</fpage>&#x02010;<lpage>721</lpage>.<pub-id pub-id-type="pmid">22659329</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0012">
+<string-name>
+<surname>Castilho</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Squarize</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Almeida</surname>
+<given-names>LO</given-names>
+</string-name>. <article-title>Epigenetic modifications and head and neck cancer: implications for tumor progression and resistance to therapy</article-title>. <source xml:lang="en">Int J Mol Sci</source>. <year>2017</year>;<volume>18</volume>:<fpage>1506</fpage>.</mixed-citation></ref><ref id="jcmm15183-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0013">
+<string-name>
+<surname>Sun</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Enhancer of zeste homolog 2 promotes cisplatin resistance by reducing cellular platinum accumulation</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2018</year>;<volume>109</volume>:<fpage>1853</fpage>&#x02010;<lpage>1864</lpage>.<pub-id pub-id-type="pmid">29630768</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0014">
+<string-name>
+<surname>Lasorsa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Natile</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rosato</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tadini&#x02010;Buoninsegni</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Arnesano</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Monitoring interactions inside cells by advanced spectroscopies: overview of copper transporters and cisplatin</article-title>. <source xml:lang="en">Curr Med Chem</source>. <year>2018</year>;<volume>25</volume>:<fpage>462</fpage>&#x02010;<lpage>477</lpage>.<pub-id pub-id-type="pmid">29121854</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0015">
+<string-name>
+<surname>Spreckelmeyer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Orvig</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Casini</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Cellular transport mechanisms of cytotoxic metallodrugs: an overview beyond cisplatin</article-title>. <source xml:lang="en">Molecules</source>. <year>2014</year>;<volume>19</volume>:<fpage>15584</fpage>&#x02010;<lpage>15610</lpage>.<pub-id pub-id-type="pmid">25268716</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0016">
+<string-name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>SLC31 (CTR) family of copper transporters in health and disease</article-title>. <source xml:lang="en">Mol Aspects Med</source>. <year>2013</year>;<volume>34</volume>:<fpage>561</fpage>&#x02010;<lpage>570</lpage>.<pub-id pub-id-type="pmid">23506889</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0017">
+<string-name>
+<surname>Wee</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name>
+<surname>Weinstein</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Fraser</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Assinder</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>The mammalian copper transporters CTR1 and CTR2 and their roles in development and disease</article-title>. <source xml:lang="en">Int J Biochem Cell Biol</source>. <year>2013</year>;<volume>45</volume>:<fpage>960</fpage>&#x02010;<lpage>963</lpage>.<pub-id pub-id-type="pmid">23391749</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0018">
+<string-name>
+<surname>Yong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Oleandrin sensitizes human osteosarcoma cells to cisplatin by preventing degradation of the copper transporter 1</article-title>. <source xml:lang="en">Phytother Res</source>. <year>2019</year>;<volume>33</volume>:<fpage>1837</fpage>&#x02010;<lpage>1850</lpage>.<pub-id pub-id-type="pmid">31050072</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0019">
+<string-name>
+<surname>Lv</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Core fucosylation of copper transporter 1 plays a crucial role in cisplatin&#x02010;resistance of epithelial ovarian cancer by regulating drug uptake</article-title>. <source xml:lang="en">Mol Carcinog</source>. <year>2019</year>;<volume>58</volume>:<fpage>794</fpage>&#x02010;<lpage>807</lpage>.<pub-id pub-id-type="pmid">30614075</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0020">
+<string-name>
+<surname>Takeda</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Naka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ogane</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Impact of expression levels of platinum&#x02010;uptake transporters copper transporter 1 and organic cation transporter 2 on resistance to anthracycline/taxane&#x02010;based chemotherapy in triple&#x02010;negative breast cancer</article-title>. <source xml:lang="en">Breast Cancer (Auckl)</source>. <year>2015</year>;<volume>9</volume>:<fpage>49</fpage>&#x02010;<lpage>57</lpage>.<pub-id pub-id-type="pmid">26309405</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0021">
+<string-name>
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Post&#x02010;transcriptional regulation of cancer/testis antigen MAGEC2 expression by TRIM28 in tumor cells</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2018</year>;<volume>18</volume>:<fpage>971</fpage>.<pub-id pub-id-type="pmid">30309319</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0022">
+<string-name>
+<surname>Kang</surname>
+<given-names>M&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>WY</given-names>
+</string-name>, et al. <article-title>Musashi RNA&#x02010;binding protein 2 regulates estrogen receptor 1 function in breast cancer</article-title>. <source xml:lang="en">Oncogene</source>. <year>2017</year>;<volume>36</volume>:<fpage>1745</fpage>&#x02010;<lpage>1752</lpage>.<pub-id pub-id-type="pmid">27593929</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0023">
+<string-name>
+<surname>Pereira</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Billaud</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Almeida</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>RNA&#x02010;binding proteins in cancer: old players and new actors</article-title>. <source xml:lang="en">Trends Cancer</source>. <year>2017</year>;<volume>3</volume>:<fpage>506</fpage>&#x02010;<lpage>528</lpage>.<pub-id pub-id-type="pmid">28718405</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0024">
+<string-name>
+<surname>Kudinov</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Karanicolas</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Golemis</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Boumber</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Musashi RNA&#x02010;binding proteins as cancer drivers and novel therapeutic targets</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2017</year>;<volume>23</volume>:<fpage>2143</fpage>&#x02010;<lpage>2153</lpage>.<pub-id pub-id-type="pmid">28143872</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0025">
+<string-name>
+<surname>Vuong</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>PTBP1 and PTBP2 serve both specific and redundant functions in neuronal pre&#x02010;mRNA splicing</article-title>. <source xml:lang="en">Cell Rep</source>. <year>2016</year>;<volume>17</volume>:<fpage>2766</fpage>&#x02010;<lpage>2775</lpage>.<pub-id pub-id-type="pmid">27926877</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0026">
+<string-name>
+<surname>Xie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>XU</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Polypyrimidine tract binding protein 1 promotes lymphatic metastasis and proliferation of bladder cancer via alternative splicing of MEIS2 and PKM</article-title>. <source xml:lang="en">Cancer Lett</source>. <year>2019</year>;<volume>449</volume>:<fpage>31</fpage>&#x02010;<lpage>44</lpage>.<pub-id pub-id-type="pmid">30742945</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0027">
+<string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>PTBP1 enhances exon11a skipping in Mena pre&#x02010;mRNA to promote migration and invasion in lung carcinoma cells</article-title>. <source xml:lang="en">Biochim Biophys Acta Gene Regul Mech</source>. <year>2019</year>;<volume>1862</volume>:<fpage>858</fpage>&#x02010;<lpage>869</lpage>.<pub-id pub-id-type="pmid">31075540</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0028">
+<string-name>
+<surname>Jo</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name>
+<surname>Roh</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Polypyrimidine tract&#x02010;binding protein 1&#x02010;mediated down&#x02010;regulation of ATG10 facilitates metastasis of colorectal cancer cells</article-title>. <source xml:lang="en">Cancer Lett</source>. <year>2017</year>;<volume>385</volume>:<fpage>21</fpage>&#x02010;<lpage>27</lpage>.<pub-id pub-id-type="pmid">27836735</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0029">
+<string-name>
+<surname>Cheng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>PTBP1 knockdown overcomes the resistance to vincristine and oxaliplatin in drug&#x02010;resistant colon cancer cells through regulation of glycolysis</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2018</year>;<volume>108</volume>:<fpage>194</fpage>&#x02010;<lpage>200</lpage>.<pub-id pub-id-type="pmid">30219676</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0030">
+<string-name>
+<surname>Cui</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Placzek</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>PTBP1 modulation of MCL1 expression regulates cellular apoptosis induced by antitubulin chemotherapeutics</article-title>. <source xml:lang="en">Cell Death Differ</source>. <year>2016</year>;<volume>23</volume>:<fpage>1681</fpage>&#x02010;<lpage>1690</lpage>.<pub-id pub-id-type="pmid">27367564</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0031">
+<string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Trottier</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Barbier</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Long noncoding RNA MEG3 induces cholestatic liver injury by interaction with PTBP1 to facilitate shp mRNA decay</article-title>. <source xml:lang="en">Hepatology</source>. <year>2017</year>;<volume>65</volume>:<fpage>604</fpage>&#x02010;<lpage>615</lpage>.<pub-id pub-id-type="pmid">27770549</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0032">
+<string-name>
+<surname>Jiang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Long noncoding RNA HCG22 suppresses proliferation and metastasis of bladder cancer cells by regulation of PTBP1</article-title>. <source xml:lang="en">J Cell Physiol</source>. <year>2020</year>;<volume>235</volume>(<issue>2</issue>):<fpage>1711</fpage>&#x02010;<lpage>1722</lpage>.<pub-id pub-id-type="pmid">31304601</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0033">
+<string-name>
+<surname>Hu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Prognostic and clinicopathological significance of DEPTOR expression in cancer patients: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Onco Targets Ther</source>. <year>2018</year>;<volume>11</volume>:<fpage>5083</fpage>&#x02010;<lpage>5092</lpage>.<pub-id pub-id-type="pmid">30174446</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0034">
+<string-name>
+<surname>Cho</surname>
+<given-names>C&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>S&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>PTBP1&#x02010;mediated regulation of AXL mRNA stability plays a role in lung tumorigenesis</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2019</year>;<volume>9</volume>:<fpage>16922</fpage>.<pub-id pub-id-type="pmid">31729427</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0035">
+<string-name>
+<surname>Garc&#x000ed;a&#x02010;C&#x000e1;rdenas</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Guerrero</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Cort&#x000e9;s</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Post&#x02010;transcriptional regulation of colorectal cancer: a focus on RNA&#x02010;binding proteins</article-title>. <source xml:lang="en">Front Mol Biosci</source>. <year>2019</year>;<volume>6</volume>:<fpage>65</fpage>.<pub-id pub-id-type="pmid">31440515</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0036">
+<string-name>
+<surname>Guo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Qu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The role of RNA&#x02010;binding protein tristetraprolin in cancer and immunity</article-title>. <source xml:lang="en">Med Oncol</source>. <year>2017</year>;<volume>34</volume>:<fpage>196</fpage>.<pub-id pub-id-type="pmid">29124478</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0037">
+<string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>PTBP1 promotes the growth of breast cancer cells through the PTEN/Akt pathway and autophagy</article-title>. <source xml:lang="en">J Cell Physiol</source>. <year>2018</year>;<volume>233</volume>:<fpage>8930</fpage>&#x02010;<lpage>8939</lpage>.<pub-id pub-id-type="pmid">29856478</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0038">
+<string-name>
+<surname>Calabretta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bielli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Passacantilli</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Modulation of PKM alternative splicing by PTBP1 promotes gemcitabine resistance in pancreatic cancer cells</article-title>. <source xml:lang="en">Oncogene</source>. <year>2016</year>;<volume>35</volume>:<fpage>2031</fpage>&#x02010;<lpage>2039</lpage>.<pub-id pub-id-type="pmid">26234680</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0039">
+<string-name>
+<surname>Bielli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Panzeri</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lattanzio</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The splicing factor PTBP1 promotes expression of oncogenic splice variants and predicts poor prognosis in patients with non&#x02010;muscle&#x02010;invasive bladder cancer</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2018</year>;<volume>24</volume>:<fpage>5422</fpage>&#x02010;<lpage>5432</lpage>.<pub-id pub-id-type="pmid">30012566</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0040">
+<string-name>
+<surname>Sayed</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Robin</surname>
+<given-names>JD</given-names>
+</string-name>, et al. <article-title>NOVA1 directs PTBP1 to hTERT pre&#x02010;mRNA and promotes telomerase activity in cancer cells</article-title>. <source xml:lang="en">Oncogene</source>. <year>2019</year>;<volume>38</volume>:<fpage>2937</fpage>&#x02010;<lpage>2952</lpage>.<pub-id pub-id-type="pmid">30568224</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0041">
+<string-name>
+<surname>Cui</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Placzek</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>PTBP1 enhances miR&#x02010;101&#x02010;guided AGO2 targeting to MCL1 and promotes miR&#x02010;101&#x02010;induced apoptosis</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2018</year>;<volume>9</volume>:<fpage>552</fpage>.<pub-id pub-id-type="pmid">29748555</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0042">
+<string-name>
+<surname>Kim</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>DR</given-names>
+</string-name>, et al. <article-title>Copper transporter CTR1 expression and tissue platinum concentration in non&#x02010;small cell lung cancer</article-title>. <source xml:lang="en">Lung Cancer</source>. <year>2014</year>;<volume>85</volume>:<fpage>88</fpage>&#x02010;<lpage>93</lpage>.<pub-id pub-id-type="pmid">24792335</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0043">
+<string-name>
+<surname>Ferreira</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Peixoto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Neves</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Mechanisms of cisplatin resistance and targeting of cancer stem cells: adding glycosylation to the equation</article-title>. <source xml:lang="en">Drug Resist Updat</source>. <year>2016</year>;<volume>24</volume>:<fpage>34</fpage>&#x02010;<lpage>54</lpage>.<pub-id pub-id-type="pmid">26830314</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0044">
+<string-name>
+<surname>Akerfeldt</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Tran</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hambley</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>New</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Interactions of cisplatin and the copper transporter CTR1 in human colon cancer cells</article-title>. <source xml:lang="en">J Biol Inorg Chem</source>. <year>2017</year>;<volume>22</volume>:<fpage>765</fpage>&#x02010;<lpage>774</lpage>.<pub-id pub-id-type="pmid">28516214</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0045">
+<string-name>
+<surname>Zhu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shanbhag</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Petris</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>A role for the ATP7A copper transporter in tumorigenesis and cisplatin resistance</article-title>. <source xml:lang="en">J Cancer</source>. <year>2017</year>;<volume>8</volume>:<fpage>1952</fpage>&#x02010;<lpage>1958</lpage>.<pub-id pub-id-type="pmid">28819394</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0046">
+<string-name>
+<surname>Jong</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name>
+<surname>McKeage</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Emerging roles of metal solute carriers in cancer mechanisms and treatment</article-title>. <source xml:lang="en">Biopharm Drug Dispos</source>. <year>2014</year>;<volume>35</volume>:<fpage>450</fpage>&#x02010;<lpage>462</lpage>.<pub-id pub-id-type="pmid">24889085</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0047">
+<string-name>
+<surname>Fung</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Tepede</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Pluchino</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>Uptake of compounds that selectively kill multidrug&#x02010;resistant cells: the copper transporter SLC31A1 (CTR1) increases cellular accumulation of the thiosemicarbazone NSC73306</article-title>. <source xml:lang="en">Mol Pharm</source>. <year>2014</year>;<volume>11</volume>:<fpage>2692</fpage>&#x02010;<lpage>2702</lpage>.<pub-id pub-id-type="pmid">24800945</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0048">
+<string-name>
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Association between polymorphisms in CTR1, CTR2, ATP7A, and ATP7B and platinum resistance in epithelial ovarian cancer</article-title>. <source xml:lang="en">Int J Clin Pharmacol Ther</source>. <year>2017</year>;<volume>55</volume>:<fpage>774</fpage>&#x02010;<lpage>780</lpage>.<pub-id pub-id-type="pmid">28737129</pub-id></mixed-citation></ref><ref id="jcmm15183-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jcmm15183-cit-0049">
+<string-name>
+<surname>Feng</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>SOX9/miR&#x02010;130a/CTR1 axis modulates DDP&#x02010;resistance of cervical cancer cell</article-title>. <source xml:lang="en">Cell Cycle</source>. <year>2018</year>;<volume>17</volume>:<fpage>448</fpage>&#x02010;<lpage>458</lpage>.<pub-id pub-id-type="pmid">29099271</pub-id></mixed-citation></ref></ref-list></back></article>

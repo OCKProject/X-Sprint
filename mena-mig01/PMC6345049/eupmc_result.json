@@ -1,0 +1,1251 @@
+{
+  "id": [
+    "30678714"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30678714"
+  ],
+  "pmcid": [
+    "PMC6345049"
+  ],
+  "doi": [
+    "10.1186/s13058-018-1079-7"
+  ],
+  "title": [
+    "Intravital imaging reveals systemic ezrin inhibition impedes cancer cell migration and lymph node metastasis in breast cancer."
+  ],
+  "authorString": [
+    "Ghaffari A, Hoskin V, Turashvili G, Varma S, Mewburn J, Mullins G, Greer PA, Kiefer F, Day AG, Madarnas Y, SenGupta S, Elliott BE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ghaffari A"
+          ],
+          "firstName": [
+            "Abdi"
+          ],
+          "lastName": [
+            "Ghaffari"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5035-243X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada. ghaffari@queensu.ca.",
+                "Cancer Research Institute, Division of Cancer Biology and Genetics, Queen's University, 18 Stuart Street, Kingston, ON, K7L 3N6, Canada. ghaffari@queensu.ca."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hoskin V"
+          ],
+          "firstName": [
+            "Victoria"
+          ],
+          "lastName": [
+            "Hoskin"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada.",
+                "Cancer Research Institute, Division of Cancer Biology and Genetics, Queen's University, 18 Stuart Street, Kingston, ON, K7L 3N6, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Turashvili G"
+          ],
+          "firstName": [
+            "Gulisa"
+          ],
+          "lastName": [
+            "Turashvili"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6125-5865",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Varma S"
+          ],
+          "firstName": [
+            "Sonal"
+          ],
+          "lastName": [
+            "Varma"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mewburn J"
+          ],
+          "firstName": [
+            "Jeff"
+          ],
+          "lastName": [
+            "Mewburn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Research Institute, Division of Cancer Biology and Genetics, Queen's University, 18 Stuart Street, Kingston, ON, K7L 3N6, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mullins G"
+          ],
+          "firstName": [
+            "Graeme"
+          ],
+          "lastName": [
+            "Mullins"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada.",
+                "Cancer Research Institute, Division of Cancer Biology and Genetics, Queen's University, 18 Stuart Street, Kingston, ON, K7L 3N6, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Greer PA"
+          ],
+          "firstName": [
+            "Peter A"
+          ],
+          "lastName": [
+            "Greer"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada.",
+                "Cancer Research Institute, Division of Cancer Biology and Genetics, Queen's University, 18 Stuart Street, Kingston, ON, K7L 3N6, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kiefer F"
+          ],
+          "firstName": [
+            "Friedemann"
+          ],
+          "lastName": [
+            "Kiefer"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Max Planck Institute for Molecular Biomedicine, Münster, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Day AG"
+          ],
+          "firstName": [
+            "Andrew G"
+          ],
+          "lastName": [
+            "Day"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Kingston General Hospital Research Institute, Kingston, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Madarnas Y"
+          ],
+          "firstName": [
+            "Yolanda"
+          ],
+          "lastName": [
+            "Madarnas"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, Queen's University, Kingston, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "SenGupta S"
+          ],
+          "firstName": [
+            "Sandip"
+          ],
+          "lastName": [
+            "SenGupta"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elliott BE"
+          ],
+          "firstName": [
+            "Bruce E"
+          ],
+          "lastName": [
+            "Elliott"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada. elliottb@queensu.ca.",
+                "Cancer Research Institute, Division of Cancer Biology and Genetics, Queen's University, 18 Stuart Street, Kingston, ON, K7L 3N6, Canada. elliottb@queensu.ca."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5035-243X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6125-5865",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2767274"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Breast cancer research : BCR"
+          ],
+          "ISOAbbreviation": [
+            "Breast Cancer Res."
+          ],
+          "medlineAbbreviation": [
+            "Breast Cancer Res"
+          ],
+          "NLMid": [
+            "100927353"
+          ],
+          "ISSN": [
+            "1465-5411"
+          ],
+          "ESSN": [
+            "1465-542X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "12"
+  ],
+  "abstractText": [
+    "BACKGROUND:Limited understanding of the cancer biology of metastatic sites is a major factor contributing to poor outcomes in cancer patients. The regional lymph nodes are the most common site of metastasis in most solid cancers and their involvement is a strong predictor of relapse in breast cancer (BC). We have previously shown that ezrin, a cytoskeletal-membrane linker protein, is associated with lymphovascular invasion and promotes metastatic progression in BC. However, the efficacy of pharmacological inhibition of ezrin in blocking cancer cell migration and metastasis remains unexplored in BC. METHODS:We quantified ezrin expression in a BC tissue microarray (n = 347) to assess its correlation with risk of relapse. Next, we developed a quantitative intravital microscopy (qIVM) approach, using a syngeneic lymphatic reporter mouse tumor model, to investigate the effect of systemic ezrin inhibition on cancer cell migration and metastasis. RESULTS:We show that ezrin is expressed at significantly higher levels in lymph node metastases compared to matched primary tumors, and that a high tumor ezrin level is associated with increased risk of relapse in BC patients with regional disease. Using qIVM, we observe a subset of cancer cells that retain their invasive and migratory phenotype at the tumor-draining lymph node. We further show that systemic inhibition of ezrin, using a small molecule compound (NSC668394), impedes the migration of cancer cells in vivo. Furthermore, systemic ezrin inhibition leads to reductions in metastatic burden at the distal axillary lymph node and lungs. CONCLUSIONS:Our findings demonstrate that the tumor ezrin level act as an independent biomarker in predicting relapse and provide a rationale for therapeutic targeting of ezrin to reduce the metastatic capacity of cancer cells in high-risk BC patients with elevated ezrin expression."
+  ],
+  "affiliation": [
+    "Department of Pathology and Molecular Medicine, Queen's University, Kingston, Canada. ghaffari@queensu.ca."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "114518"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lymph Nodes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TR"
+                  ],
+                  "qualifierName": [
+                    "transplantation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Transgenic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SC"
+                  ],
+                  "qualifierName": [
+                    "secondary"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lymphatic Metastasis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Recurrence, Local"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenols"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quinolones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytoskeletal Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tissue Array Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Reporter"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intravital Microscopy"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomarker",
+        "cell migration",
+        "Metastatic Disease",
+        "lymph node metastasis",
+        "Ezrin",
+        "Quantitative Intravital Imaging"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "ezrin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Phenols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cytoskeletal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Quinolones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "NSC668394"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13058-018-1079-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6345049"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6345049?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13058-018-1079-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-22"
+  ],
+  "dateOfCreation": [
+    "2019-01-26"
+  ],
+  "firstIndexDate": [
+    "2019-01-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-09"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-24"
+  ],
+  "firstPublicationDate": [
+    "2019-01-24"
+  ]
+}

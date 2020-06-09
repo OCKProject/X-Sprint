@@ -1,0 +1,898 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> <head> <style type="text/css">
+      	     		 
+      	    a                          {background : #ffffff; }
+      	    article                    {border-style : dotted; border-width : 2px; }
+		 	
+		 	div                        {background : #ffffcc;}
+		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+		 	div.ack                    {border-style : solid ; border-color : red; margin : 2em; }
+		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.boxed-text             {margin : 5em; border-style : solid;}
+		 	div.contrib-group          {margin : 1em; }
+		 	div.fig                    {border-style : solid; border-width : 2px; margin : 2em; }
+		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+		 	div.given-names            {font-style : italic;}
+		 	div.intro                  {border-style : inset; margin : 5px;}
+		 	div.introduction           {border-style : inset; margin : 5px;}
+		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.journal-title-group    {background : #ffeeee;}
+		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+		 	div.kwd                    {font-style : italic}
+		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+		 	div.name                   {font-weight : bold;}
+		 	div.alt-title              {font-style : italic; font-size : 12px;}
+		 	
+		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+		 	div.title                  {font-family : courier; font-weight : bold;
+		 	                            font-size : 16pt; margin : 5px;}
+		 	
+		 	div.materials_methods      {border-style : double; margin : 5px; }
+		 	div.methods                {border-style : double; margin : 5px; }
+		 	
+		 	div.results                {border-style : solid; margin : 5px;}
+		 	div.background             {border-style : dotted; margin : 5px;}
+		 	
+		 	div.discussion             {border-style : groove; margin : 5px;}
+		 	div.conclusion             {border-style : ridge; margin : 5px;}
+		 	div.conclusions             {border-style : ridge; margin : 5px;}
+		 	div.supplementary-material {border-style : inset; margin : 5px;}
+		 	div.abbreviations          {border-style : double; border-color : red; margin : 5px;}
+		 	div.competinginterests     {border-style : double; border-color : blue; margin : 5px;}
+		 	div.acknowledgements       {border-style : double; border-color : green; margin : 5px;}
+		 	div.authors_contributions   {border-style : double; border-color : purple; margin : 5px;}
+		 	
+		 	div.publisher              {border-style : outset; margin : 5px;}
+		 	div.fn-type-conflict       {background : #f88; }
+		 	div.fn-type-con            {background : #ddf; }
+		 	div.fn-type-other          {background : #ddd; }
+		 	
+		 	div.unknown                {background : #ffd;
+									 	  border-style : solid;
+									 	  border-width : 1px;
+									 	  padding : 2 px;}
+		 	  
+      	    table                      {background : #ffffdd;}
+		 	tr                         {background : #ddddff; padding : 1px;}
+		 	
+		 	span                       {background : #ffcccc;}
+		 	
+		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+		 	span.collab                {background : #ddffff; }
+		 	span.comment               {font-family : courier; font-size : 6px; background : #ffaaff;}
+		 	span.contrib               {background : #ffffff;}
+		 	span.corresp               {background : #ddffdd; }
+		 	span.doi                   {background : #ffffff;}
+		 	span.email                 {font-family : courier; }
+		 	span.etal                  {font-style : italic;}
+		 	span.fpage                 {font-family : courier;}
+		 	span.given-names           {background : #ffffff;}
+		 	span.iso-abbrev            {background : #ffffff;}
+		 	span.issn-epub             {background : #ffffff;}
+		 	span.issn-ppub             {background : #ffffff;}
+		 	span.journal-title         {background : #ffffff;}
+		 	span.lpage                 {font-family : courier;}
+		 	span.mixed-article-title   {font-style : italic ;}
+		 	span.nlm-ta                {background : #ffffff;}
+		 	span.pmc                   {background : #ffffff;}
+		 	span.pmcid                 {background : #ffffff;}
+		 	span.pmid                  {background : #ffffff;}
+		 	span.publisher             {background : #ffffff;}
+		 	span.publisher-id          {background : #ffffff;}
+		 	span.publisher-name        {background : #ffffff;}
+		 	span.source                {background : #ffffff;}
+		 	span.subject               {background : #ffffff;}
+		 	span.surname               {background : #ffffff;}
+		 	span.volume                {font-family : courier; font-weight : bold;}
+		 	span.year                  {font-family : courier ; font-style : italic;}
+			</style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"><span class="nlm-ta" title="nlm-ta">PLoS One</span><span class="iso-abbrev" title="iso-abbrev">PLoS ONE</span><span class="publisher-id" title="publisher-id">plos</span><span class="pmc" title="pmc">plosone</span><div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"><span class="journal-title" tagx="journal-title" title="journal-title">PLoS ONE</span></div><span class="issn-epub" tagx="issn" title="issn-epub">1932-6203</span><div class="publisher" tagx="publisher" title="publisher"><span class="publisher-name" tagx="publisher-name" title="publisher-name">Public Library of Science</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">San Francisco, CA USA</span></div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"><span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/5279727">5279727</a></span><span class="pmid" title="pmid"> pmid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/28135306">28135306</a></span><span class="publisher-id" title="publisher-id">PONE-D-16-36132</span><span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.1371/journal.pone.0170485">10.1371/journal.pone.0170485</a></span><div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Research Article</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Medicine and Health Sciences</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Clinical Genetics</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Genetic Diseases</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Autosomal Recessive Diseases</span>: <span class="subject" title="subject">Thalassemia</span></div> </div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">People and Places</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Demography</span>: <span class="subject" title="subject">Death Rates</span></div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">People and Places</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Population Groupings</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Age Groups</span>: <span class="subject" title="subject">Young Adults</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Research and Analysis Methods</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Mathematical and Statistical Techniques</span>: <span class="subject" title="subject">Mathematical Models</span></div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Biology and Life Sciences</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Anatomy</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Body Fluids</span>: <span class="subject" title="subject">Blood</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Medicine and Health Sciences</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Anatomy</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Body Fluids</span>: <span class="subject" title="subject">Blood</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Biology and Life Sciences</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Physiology</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Body Fluids</span>: <span class="subject" title="subject">Blood</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Medicine and Health Sciences</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Physiology</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Body Fluids</span>: <span class="subject" title="subject">Blood</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Medicine and Health Sciences</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Hematology</span>: <span class="subject" title="subject">Blood</span></div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Biology and Life Sciences</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Genetics</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Gene Identification and Analysis</span>: <span class="subject" title="subject">Genetic Screens</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">People and Places</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Population Groupings</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Age Groups</span>: <span class="subject" title="subject">Children</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">People and Places</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Population Groupings</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Families</span>: <span class="subject" title="subject">Children</span></div> </div> </div> <div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">People and Places</span><div class="sub-group" title="subj-group">
+: <span class="subject" title="subject">Demography</span>: <span class="subject" title="subject">Birth Rates</span></div> </div> </div> <div class="title-group"> <div class="article-title" title="article-title">
+Thalassemia in the United Arab Emirates: Why it can be prevented but not eradicated</div> <div class="alt-title" title="alt-title">
+Thalassemia in the UAE</div> </div> <div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kim</span><span class="given-names" tagx="given-names" title="given-names">Sehjeong</span></span><a href="#aff001" /><a href="#cor001">*</a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tridane</span><span class="given-names" tagx="given-names" title="given-names">Abdessamad</span></span><a href="#aff001" /></span></div><span class="citation_author_institution" id="aff001">[], <span class="addr-line" title="addr-line">Department of Mathematical Sciences/United Arab Emirates University, Al Ain, Abu Dhabi, United Arab Emirates</span></span><div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Grosso</span><span class="given-names" tagx="given-names" title="given-names">Michela</span></span><span class="role" tagx="role" title="role">Editor</span><a href="#edit1" /></span></div><span class="citation_author_institution" id="edit1">[], <span class="addr-line" title="addr-line">University of Naples Federico II, ITALY</span></span><div class="author-notes" title="author-notes"> <div class="fn-type-COI-statement" title="COI-statement"> <p><b>Competing Interests: </b>The authors have declared that no competing interests exist.</p> </div> <div class="fn-type-con" title="con"> <p> </p><ul> <li> <p><b>Conceptualization:</b> SK.</p> </li> <li> <p><b>Formal analysis:</b> SK.</p> </li> <li> <p><b>Funding acquisition:</b> SK AT.</p> </li> <li> <p><b>Investigation:</b> SK AT.</p> </li> <li> <p><b>Methodology:</b> SK AT.</p> </li> <li> <p><b>Project administration:</b> SK AT.</p> </li> <li> <p><b>Software:</b> AT.</p> </li> <li> <p><b>Supervision:</b> SK AT.</p> </li> <li> <p><b>Validation:</b> SK AT.</p> </li> <li> <p><b>Visualization:</b> SK AT.</p> </li> <li> <p><b>Writing – original draft:</b> SK AT.</p> </li> <li> <p><b>Writing – review &amp;amp; editing:</b> SK AT.</p> </li> </ul> <p /> </div> <div class="corresp" title="corresp">
+* E-mail: <span class="email" tagx="email" title="email">sehjung.kim@uaeu.ac.ae</span></div> </div><span class="pub-date-collection" title="pub-date-collection">collection: <span>2017</span></span><span class="pub-date-epub" title="pub-date-epub">epub: <span>2017-1-1</span></span><span class="volume" tagx="volume" title="volume">12</span><span class="issue" tagx="issue" title="issue">1</span><span class="elocation-id" tagx="elocation-id" title="elocation-id">e0170485</span><span class="history" title="history"><span class="received" title="received">received: 2016-10-11</span><span class="accepted" title="accepted">accepted: 2017-1-5</span></span><div class="permissions"><span class="copyright" title="copyright">(C) <span class="copyright-holder" tagx="copyright-holder" title="copyright-holder">Kim, Tridane</span>, <span class="copyright-year" tagx="copyright-year" title="copyright-year">2017</span></span><span class="license" title="license"><span class="license-p" title="license-p">This is an open access article distributed under the terms of the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</span></span></div><a class="self-uri" href="pone.0170485.pdf" title="self-uri">pone.0170485.pdf</a><div class="abstract" title="abstract"> <div class="abstract-title" title="abstract-title">
+Abstract</div> <p>Thalassemia is a genetic blood disorder that causes abnormal hemoglobin. Hemoglobin is a protein in red blood cells that carries oxygen and is made of two proteins from four <i>α</i>-globin genes and two <i>β</i>-globin genes. A defect in one or more of these genes causes thalassemia. The treatment of thalassemia mostly depends on life-long blood transfusions and removal of excessive iron from the blood stream. Such tremendous blood consumption puts pressure on the national blood stock in many countries. In particular, in the United Arab Emirates (UAE), various forms of thalassemia prevention have been used and hence, the substantial reduction of the thalassemia major population has been achieved. However, the thalassemia carrier population still remains high, which leads to the potential increase in the thalassemia major population through carrier-carrier marriages. In this work, we investigate the long-term impact and efficacy of thalassemia prevention measures via mathematical modeling at a population level. To our best knowledge, this type of assessment has not been done before and there is no mathematical model that has investigated such a problem for thalassemia or any blood disorders at a population level. By using UAE data, we perform numerical simulations of our model and conduct sensitivity analysis of parameter values to see which parameter values affect most the dynamics of our model. We discover that the prevention measures can contribute to reduce the prevalence of the disease only in the short term but not eradicate the disease in the long term.</p> </div> <div class="funding-group" title="funding-group"> <div class="funding" title="funding">
+Funding</div> <div class="funding-statement" title="funding-statement">
+SK is supported in part by the United Arab Emirates University Start-up grant with No. 31S106 and AT by the United Arab Emirates University Start-up grant with No. 31S105 with <a href="http://www.uaeu.ac.ae">www.uaeu.ac.ae</a>. The funder had no role in study design, analysis, decision to publish, or preparation of the manuscript.</div> </div> <div class="counts" title="counts"><span class="fig-count" title="fig-count">fig-count: </span><span class="table-count" title="table-count">table-count: </span><span class="page-count" title="page-count">page-count: </span></div> <div class="custom-meta-group" title="custom-meta-group"> <meta name="Data Availability" value="All relevant data are within the paper and its Supporting Information files." /> </div> </div> <div class="title" tagx="title" title="title">
+Data Availability</div> <p>All relevant data are within the paper and its Supporting Information files.</p> </div> <div class="body" title="body"> <div class="intro" title="intro"> <div class="title" tagx="title" title="title">
+Introduction</div> <p>Thalassemia is a genetic blood disorder in which the body makes an abnormal form of hemoglobin, the protein in red blood cells that carries oxygen. Hemoglobin is made of two proteins from four <i>α</i>-globin genes and two <i>β</i>-globin genes. There are two types of thalassemia: <i>α</i>-thalassemia and <i>β</i>-thalassemia depending on which globin genes are defected. <i>α</i>-thalassemia occurs when one or more of the four <i>α</i>-globin genes are missing, damaged or changed. <i>β</i>-thalassemia occurs when both <i>β</i>-globin genes are affected [<a href="#pone.0170485.ref001">1</a>–<a href="#pone.0170485.ref004">4</a>]. Thalassemia major occurs when a child inherits two defected globin genes, one from each parent. Thalassemia minor occurs when a child inherits one defected globin gene from only one parent. People with thalassemia minor usually do not show symptoms and can live a normal life without treatment. Also, a person with thalassemie minor is often called a thalassemia carrier, or simply just a carrier. Thus, for example, if a child is diagnosed with <i>α</i>-thalassemia major, the child inherited two defected <i>α</i>-globin genes from both parents. If a child is a <i>β</i>-thalassemia carrier, the child inherited one defected <i>β</i>-globin gene from one of his or her parents. Thalassemia major usually causes a chronic, lifelong anemia that begins in early childhood and often must be treated with frequent blood transfusions due to the deformity of red blood cells. Because of the requirement of life-long blood transfusion as a treatment protocol, thalassemia treatment requires a huge amount of national blood stock, which could put pressure on the use of blood for other types of treatments. Moreover, thalassemia treatment often results in significant complications including iron overload, bone deformities and cardiovascular illness.</p> <p>Thus, thalassemia has been a burden on the healthcare systems of many countries in the Mediterranean area, the Middle Eastern and North African (MENA) region, Transcaucasia, Central Asia, the Indian subcontinent, and Southeast Asia [<a href="#pone.0170485.ref004">4</a>, <a href="#pone.0170485.ref005">5</a>]. Due to the migration of people from these regions, thalassemia populations have become a public health concern even in North America [<a href="#pone.0170485.ref005">5</a>]. Today, worldwide, 56,000 conceptions cause thalassemia; of these, approximately 30,000 are affected by <i>β</i>-thalassemia and 3,500 succumb perinatally from the hydrops fetalis syndrome, a type of <i>α</i>-thalassemia. It has also been estimated that, worldwide, 9 million thalassemia carrier women become pregnant annually and 1.33 million pregnancies are at risk for a thalassemia major condition [<a href="#pone.0170485.ref006">6</a>, <a href="#pone.0170485.ref007">7</a>]. In particular, the MENA region shows a high prevalence of thalassemia major and carrier populations due to a consanguineous marriage tradition [<a href="#pone.0170485.ref008">8</a>, <a href="#pone.0170485.ref009">9</a>]. A consanguineous marriage can be defined as a marriage between two individuals who are related as second cousins or closer with the inbreeding coefficient equal to or higher than 0.0156 [<a href="#pone.0170485.ref010">10</a>], where the inbreeding coefficient represents a measure of the proportion of loci at which the offspring of a consanguineous marriage is expected to inherit identical gene copies from both parents. It has been found that consanguineous marriages lead to the increased expression of autosomal recessive disorders [<a href="#pone.0170485.ref011">11</a>–<a href="#pone.0170485.ref014">14</a>].</p> <p>Among the countries in the MENA region, the United Arab Emirtes (UAE) with around a 50% consanguineous marriage rate as shown in <a href="#pone.0170485.t001">Table 1</a> [<a href="#pone.0170485.ref015">15</a>–<a href="#pone.0170485.ref018">18</a>] has a substantial prevalence of thalassemia carrier. This rate has been increasing and the explanation for such an increase is not yet known [<a href="#pone.0170485.ref008">8</a>]. The high prevalence of a thalassemia carrier population is a public health concern since there will be a 25% chance of having a thalassemia major child if a carrier-carrier marriage occurs, leading to a potential increase in the thalassemia major population. In addition, the UAE has the most various heterozygote of <i>β</i>-thalassemia [<a href="#pone.0170485.ref008">8</a>, <a href="#pone.0170485.ref015">15</a>]. The UAE government has been expending tremendous effort to raise public awareness and identify the thalassemia carrier population. In 2008, the UAE government launched a nationwide campaign to promote premarital screening. Since 2012, premarital screening has been mandatory for all about-to-marry couples [<a href="#pone.0170485.ref019">19</a>]. Prematrital screening offers a non-directive genetic counseling to at-risk couples [<a href="#pone.0170485.ref020">20</a>]. At-risk couples who are carrier-carrier couples receive information about the risk of having a thalassemia child and options of prenatal and neonatal diagnosis and preimplantation diagnosis. However, the final decision to get married lies on them and many carrier-carrier couples choose to marry anyway. Also, it is worth mentioning that the termination of pregnancy regarding thalassemia is not practiced as a solution for the prevention of thalassemia in the UAE. Today, the number of affected births has been almost halved compared to the time before the introduction of prevention [<a href="#pone.0170485.ref021">21</a>]. However, continued public awareness, promotion of prevention programs, and a centralized and cooperative national genetic service are still needed for thalassemia prevention in the UAE [<a href="#pone.0170485.ref008">8</a>].</p> <div class="table-wrap_UNKNOWN" id="pone.0170485.t001" orientation="portrait" position="float"><a href="https://dx.doi.org/10.1371/journal.pone.0170485.t001">10.1371/journal.pone.0170485.t001</a><span class="label" tagx="label" title="label">Table 1</span> <div class="title" tagx="title" title="title">
+Consanguineous marriage rates and prevalence of thalassemia carrier in the MENA region.</div>  <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.t001g" /> <table frame="box" rules="all" border="0"> <div class="colgroup_UNKNOWN" span="1"> <div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div>  <thead> <tr> <th align="center" rowspan="1" colspan="1">Country</th> <th align="center" rowspan="1" colspan="1">Consanguineous Marriage (%)</th> <th align="center" rowspan="1" colspan="1">Inbreeding Coefficient</th> <th align="center" rowspan="1" colspan="1"><i>β</i>-thalassemia carrier (%)</th> <th align="center" rowspan="1" colspan="1"><i>α</i>-thalassemia carrier (%)</th> </tr> </thead> <tbody> <tr> <td align="center" rowspan="1" colspan="1">Bahrain</td> <td align="center" rowspan="1" colspan="1">31.8–44.5</td> <td align="center" rowspan="1" colspan="1">0.0152–0.0166</td> <td align="center" rowspan="1" colspan="1">2.9</td> <td align="center" rowspan="1" colspan="1">24.2</td> </tr> <tr> <td align="center" rowspan="1" colspan="1">Egypt</td> <td align="center" rowspan="1" colspan="1">29</td> <td align="center" rowspan="1" colspan="1">0.0101</td> <td align="center" rowspan="1" colspan="1">4.5</td> <td align="center" rowspan="1" colspan="1">N/A</td> </tr> <tr> <td align="center" rowspan="1" colspan="1">Jordan</td> <td align="center" rowspan="1" colspan="1">25.6–52.9</td> <td align="center" rowspan="1" colspan="1">0.0142–0.0284</td> <td align="center" rowspan="1" colspan="1">3–5.9</td> <td align="center" rowspan="1" colspan="1">2–3.5</td> </tr> <tr> <td align="center" rowspan="1" colspan="1">Kuwait</td> <td align="center" rowspan="1" colspan="1">54.3</td> <td align="center" rowspan="1" colspan="1">0.047</td> <td align="center" rowspan="1" colspan="1">N/A</td> <td align="center" rowspan="1" colspan="1">5–10</td> </tr> <tr> <td align="center" rowspan="1" colspan="1">Saudi Arabia</td> <td align="center" rowspan="1" colspan="1">41.4–51.7</td> <td align="center" rowspan="1" colspan="1">0.0196–0.0312</td> <td align="center" rowspan="1" colspan="1">1–15</td> <td align="center" rowspan="1" colspan="1">5–10</td> </tr> <tr> <td align="center" rowspan="1" colspan="1">UAE</td> <td align="center" rowspan="1" colspan="1">50.5</td> <td align="center" rowspan="1" colspan="1">0.0222</td> <td align="center" rowspan="1" colspan="1">8.5</td> <td align="center" rowspan="1" colspan="1">49</td> </tr> </tbody> </table> </div> </div> <p>The motive behind all these efforts toward thalassemia prevention is based on the two hypotheses:</p> <ul> <li> <p>(H1) Premarital screening will prevent the intermarriage in the carrier population;</p> </li> <li> <p>(H2) In addition to premarital screening, if young adults are educated about thalassemia, marriage among the carrier populations will be prevented.</p> </li> </ul> <p specific-use="continuation">The two hypotheses have been made by many governments that need to manage thalassemia in their countries. The baseline expectation of the hypotheses is the reduction of the thalassmia major population and eventual elimination of thalassemia from the population. Nowadays, the UAE as many other countries do celebrates an almost-thalassemia-free status due to various prevention methods [<a href="#pone.0170485.ref022">22</a>]. However, as a relatively young country with a high proportion of working population [<a href="#pone.0170485.ref019">19</a>], the UAE’s population growth will continue and hence the thalassemia carrier population will likewise grow. This implies that a high prevalence of thalassemia carrier population in the UAE will continue. As the carrier population continues to marry each other, thalassemia cases are highly likely to reappear. In this paper, we use a mathematical model and computer simulations with UAE population data to test the two hypotheses and investigate the possibility that thalassemia in the UAE can be eradicated via thalassemia prevention methods. We would also like to make the case that for the foreseeable future the UAE government needs to continue its attention to the thalassemia prevention program at existing levels.</p> </div> <div class="materials_methods" title="materials|methods"> <div class="title" tagx="title" title="title">
+Methods</div> <div class="modelformulationandassumptions" title="sec"> <div class="title" tagx="title" title="title">
+Model Formulation and Assumptions</div> <p>With a mathematical model using UAE population data, we investigate whether thalassemia prevention methods such as premarital screening and education can achieve the eradication of thalassemia in the long term. Here, we would like to emphasize that education includes all types of possible genetic counseling and efforts toward public awareness of thalassemia by health authorities in the UAE.</p> <p>Our approach is to use a <i>compartment model</i> that divides the whole population into several subgroups in the UAE. Then, we describe the interactions among the subgroups via differential equations. In our model, we classify the subgroup populations into the following three age groups, three genetic groups, two screening groups, and two thalassemia education groups as</p> <ul> <li> <p>Children: Aged 12 or under in primary school level or lower</p> <p>Young adults: Aged 13–24 at or above middle school including college level before marriage</p> <p>Adults: Aged 25 or older after college level, marriageable or married;</p> </li> <li> <p>Normal: Inherited no thalassemia genes from parents</p> <p>Carrier: Inherited one thalassemia gene from parents</p> <p>Major: Inherited two thalassemia genes from parents;</p> </li> <li> <p>Screened Normal and Screened Carrier: Subgroups who are screened and whose genetic status is verified;</p> </li> <li> <p>Educated and Not educated: Subgroups who are educated about thalassemia or not.</p> </li> </ul> <p specific-use="continuation">The young adult group includes adolescents aged 13–18 who can receive education about thalassemia and college students or older aged 19–24 who may have education about thalassemia and are likely to get premarital screening. In other words, people in this group can receive education about thalassemia and need to take premarital screening if they are going to marry. These classifications can overlap. For example, an individual can be classified as a carrier educated young adult if he or she is around twenty five years old, not married and screened as a carrier who received the education about thalassemia. Since thalassemia is a genetic disease passed to the next generation through marriage, it is natural to consider both genders in all classes except the married class. We consider a married couple as one unit. Then, we assume the following:</p> <ol> <li> <p>Since the average marriage age is 24.5 in the UAE [<a href="#pone.0170485.ref023">23</a>], premarital screening for thalassemia is given to those in the young adult group who are about to marry.</p> </li> <li> <p>Thalassemia awareness education is given to the young adult population and genetic counseling is given to marriageable couples.</p> </li> <li> <p>People who receive premarital screening or thalassemia awareness education can reconsider their marriage decision.</p> </li> <li> <p>The thalassemia major class has a very low chance of marriage due to prolonged treatments. Hence, the marriage rate of the thalassemia major class is negligible.</p> </li> <li> <p>Except for the thalassemia major class, all other classes can marry.</p> </li> <li> <p>The chances of marriages among single males and females are</p> <ul> <li> <p>normal male × normal female</p> </li> <li> <p>normal male × carrier female or carrier male × normal female</p> </li> <li> <p>carrier male × carrier female</p> </li> </ul> </li> </ol> <p specific-use="continuation">We define each population subgroup with the variable names as shown in <a href="#pone.0170485.t002">Table 2</a>. For the model, the following parameter values are used based on the UAE population data shown in <a href="#pone.0170485.t003">Table 3</a>. With the variables and parameters, we describe the dynamics of all subgroups (compartments) via differential equations as follows. For example, the dynamics of children (boys) and thalassemia male can be written as </p><div class="disp-formula" title="disp-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e001g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Birth</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Diagnosed</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+thalassemia</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+boys</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+   </div> <div class="mo_UNKNOWN">
+-</div> <div class="mtext_UNKNOWN">
+Growth to young adult male</div> <div class="mo_UNKNOWN">
+-</div> <div class="mtext_UNKNOWN">
+Death</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+-</div> <div class="mi_UNKNOWN">
+ζ</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="mi_UNKNOWN">
+ζ</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+G</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> </div> </div> </div></div></div><span class="label" tagx="label" title="label">(1)</span></div> <div class="disp-formula" title="disp-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e002g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Diagnosed</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+thalassemia</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+boys</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+  </div> <div class="mo_UNKNOWN">
+-</div> <div class="mtext_UNKNOWN">
+Reduction of thalassemia due to education</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+  </div> <div class="mo_UNKNOWN">
+-</div> <div class="mtext_UNKNOWN">
+Death</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ζ</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="mfenced_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="mi_UNKNOWN">
+ζ</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+F</div> </div> </div> </div> </div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+T</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> </div> </div> </div></div></div><span class="label" tagx="label" title="label">(2)</span></div> The dynamics of single normal young adult males who are either educated or not educated about thalassemia can be described as <div class="disp-formula" title="disp-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e003g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Educated</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+young</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+adult</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+males</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Screened</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+marriageable</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+males</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Death</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="mi_UNKNOWN">
+ζ</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> </div> </div> </div></div></div><span class="label" tagx="label" title="label">(3)</span></div> <div class="disp-formula" title="disp-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e004g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Uneducated</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+young</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+adult</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+males</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Screened</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+marriageable</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+males</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Death</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="mi_UNKNOWN">
+ε</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="mi_UNKNOWN">
+ζ</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> </div> </div> </div></div></div><span class="label" tagx="label" title="label">(4)</span></div> where premarital screening is given to marriageable single young adult males. The dynamics of educated single and carrier female adults is given by <div class="disp-formula" title="disp-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e005g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Screened</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+educated</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+normal</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+adult</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+females</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Marriage</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+with</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+male</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+marriageable</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+subgroups</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Death</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> <div class="mi_UNKNOWN">
+A</div> </div> </div> </div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> </div> </div> </div></div></div><span class="label" tagx="label" title="label">(5)</span></div> <div class="disp-formula" title="disp-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e006g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mtable_UNKNOWN"> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </div> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Screened</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+educated</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+adult</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+carrier</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+females</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Marriage</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+with</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+male</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+marriageable</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+subgroups</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
++</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Reconsideration</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+of</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+marriage</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+with</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+carrier</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+males</div> <div class="mspace_UNKNOWN" /> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+-</div> <div class="mspace_UNKNOWN" /> <div class="mtext_UNKNOWN">
+Death</div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mo_UNKNOWN">
+=</div> </div> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> <div class="mi_UNKNOWN">
+A</div> </div> </div> </div> </div> </div> </div> <div class="mtr_UNKNOWN"> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN" /> <div class="mtd_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> <div class="mi_UNKNOWN">
+A</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> </div> </div> </div> </div></div></div><span class="label" tagx="label" title="label">(6)</span></div> where the reconsideration of marriage of the carrier females with carrier males means the dissolution of the marriage as an outcome of the education and premarital screening. The schema of the population dynamics is shown in <a href="#pone.0170485.g001">Fig 1</a>. For the full scope of the mathematical model, see <a href="#pone.0170485.s001">S1 Material</a>.<p /> <div class="table-wrap_UNKNOWN" id="pone.0170485.t002" orientation="portrait" position="float"><a href="https://dx.doi.org/10.1371/journal.pone.0170485.t002">10.1371/journal.pone.0170485.t002</a><span class="label" tagx="label" title="label">Table 2</span> <div class="title" tagx="title" title="title">
+Subgroup variable names.</div>  <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.t002g" /> <table frame="box" rules="all" border="0"> <div class="colgroup_UNKNOWN" span="1"> <div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div>  <thead> <tr> <th align="center" rowspan="1" colspan="1">Subgroup Variable</th> <th align="center" rowspan="1" colspan="1">Characteristics</th> </tr> </thead> <tbody> <tr> <td align="center" rowspan="1" colspan="1"><i>G</i><sub><i>M</i></sub>, <i>G</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Children: Boys and girls aged 0–12</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>T</i><sub><i>M</i></sub>, <i>T</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Thalassemia major population </td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>S</i><sub><i>M</i></sub>, <i>S</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Normal singles uneducated about thalassemia: Male and female young adults aged 13–24</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e007g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e008g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+E</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Normal singles educated about thalassemia: Male and female young adults aged 13–24</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e009g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e010g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Normal singles educated about thalassemia: Male and female adults screened and marriageable aged 25 or older</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e011g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e012g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Carrier singles educated about thalassemia: Male and female adults screened and marriageable aged 25 or older</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e013g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e014g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+A</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Normal singles not educated about thalassemia: Male and female adults screened and marriageable aged 25 or older</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e015g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e016g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+A</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Carrier singles not educated about thalassemia: Male and female adults screened and marriageable aged 25 or older</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>U</i></td> <td align="left" rowspan="1" colspan="1">Married (United) population</td> </tr> </tbody> </table> </div> </div> <div class="table-wrap_UNKNOWN" id="pone.0170485.t003" orientation="portrait" position="float"><a href="https://dx.doi.org/10.1371/journal.pone.0170485.t003">10.1371/journal.pone.0170485.t003</a><span class="label" tagx="label" title="label">Table 3</span> <div class="title" tagx="title" title="title">
+Literature based and estimated parameter values.</div>  <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.t003g" /> <table frame="box" rules="all" border="0"> <div class="colgroup_UNKNOWN" span="1"> <div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" align="left" valign="middle" span="1" /></div>  <thead> <tr> <th align="center" rowspan="1" colspan="1">Parameters</th> <th align="left" rowspan="1" colspan="1">Name</th> <th align="center" rowspan="1" colspan="1">Male</th> <th align="center" rowspan="1" colspan="1">Female</th> <th align="center" rowspan="1" colspan="1">References</th> </tr> </thead> <tbody> <tr> <td align="center" rowspan="1" colspan="1"><i>b</i><sub><i>M</i></sub> | <i>b</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Birth rates<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.0363</td> <td align="center" rowspan="1" colspan="1">0.0352</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref024">24</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>γ</i><sub><i>M</i></sub> | <i>γ</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Proportion of young adults<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.0433</td> <td align="center" rowspan="1" colspan="1">0.0447</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref019">19</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>α</i><sub><i>M</i></sub> | <i>α</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Marriage rates<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.02</td> <td align="center" rowspan="1" colspan="1">0.0172</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref024">24</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e017g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> </div></div></div></span> | <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e018g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Premarital screening rates<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.0413</td> <td align="center" rowspan="1" colspan="1">0.0335</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref024">24</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e019g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> </div></div></div></span> | <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e020g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Thalassemia carrier detection rates<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.0833</td> <td align="center" rowspan="1" colspan="1">0.0833</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref016">16</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e021g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div></div></div></span> | <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e022g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+F</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Thalassemia detection adjusting rates<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.15</td> <td align="center" rowspan="1" colspan="1">0.144</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref025">25</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>d</i><sub><i>M</i></sub> | <i>d</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Normal death rates<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.003</td> <td align="center" rowspan="1" colspan="1">0.0019</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref024">24</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e023g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+G</div> </div></div></div></span> | <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e024g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+G</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">Child mortality rates<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.014</td> <td align="center" rowspan="1" colspan="1">0.008</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref023">23</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>d</i><sub><i>T</i></sub></td> <td align="left" rowspan="1" colspan="1">Death rate due to thalassemia<a href="#t003fn001">†</a></td> <td align="center" rowspan="1" colspan="1">0.016</td> <td align="center" rowspan="1" colspan="1">0.016</td> <td align="center" rowspan="1" colspan="1">[<a href="#pone.0170485.ref001">1</a>]</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>ν</i><sub><i>M</i></sub> | <i>ν</i><sub><i>F</i></sub></td> <td align="left" rowspan="1" colspan="1">Marriage reconsideration rates (MRR)</td> <td align="center" rowspan="1" colspan="1">30%</td> <td align="center" rowspan="1" colspan="1">30%</td> <td align="center" rowspan="1" colspan="1">−</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e025g" /><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+M</div> </div></div></div></span> | <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e026g" /><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+F</div> </div></div></div></span></td> <td align="left" rowspan="1" colspan="1">MRR of educated singles</td> <td align="center" rowspan="1" colspan="1">50%</td> <td align="center" rowspan="1" colspan="1">50%</td> <td align="center" rowspan="1" colspan="1">−</td> </tr> <tr> <td align="center" rowspan="1" colspan="1"><i>ε</i></td> <td align="left" rowspan="1" colspan="1">Education rate of marriageable singles</td> <td align="center" rowspan="1" colspan="1">20%</td> <td align="center" rowspan="1" colspan="1">20%</td> <td align="center" rowspan="1" colspan="1">−</td> </tr> </tbody> </table> </div> <div class="table-wrap-foot_UNKNOWN"> <div class="fn-type-" title=""> <p><sup>†</sup> The unit of parameter values except <i>ν</i><sub><i>M</i></sub>, <i>ν</i><sub><i>F</i></sub>, <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e027g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e028g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span> and <i>ε</i> is per person. Since marriage reconsideration rate or education rate has not been found, we assign values for simulation purpose in our study.<p /> </div> </div> </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/10.1371/journal.pone.0170485.g001"><span class="label" tagx="label" title="label">Fig 1</span></a></div>   <div class="title" tagx="title" title="title">
+Schema of population dynamics of the mathematical model.</div> <p>Each box represents a population subgroup, i.e. compartment. The arrows indicate how the population in each compartment could move from one compartment to another via our mathematical model. The variable names are found in <a href="#pone.0170485.t002">Table 2</a> and the mathematical equations on the arrows can be found in <a href="#pone.0170485.s001">S1 Material</a>. For example, <i>b</i><sub><i>K</i></sub><i>U</i> means newborn boys or girls from married coupled and hence they are moved to the children compartments <i>G</i><sub><i>M</i></sub> or <i>G</i><sub><i>F</i></sub>.</p>   </div> <p>Then, the mathematical model explains the evolution of the population subgroups in <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e029g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+.</div> </div></div></div> To see the effect of the education and premarital screening on the eradication of thalassemia in the long term, we will study the sensitivity of parameters and two steady states called equilibrium points such as<p /> <ul> <li><span class="label" tagx="label" title="label">(i) Type I</span><p>Thalassemia free equilibrium point, i.e., <i>T</i><sub><i>M</i></sub> = <i>T</i><sub><i>F</i></sub> = 0, <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e030g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e031g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+;</div> </div></div></div></span><p /> </li> <li><span class="label" tagx="label" title="label">(ii) Type II</span><p>Thalassemia major free only equilibrium point, i.e., <i>T</i><sub><i>M</i></sub> = <i>T</i><sub><i>F</i></sub> = 0 only and <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e032g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e033g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e034g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+A</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e035g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div></div></div></span> are not necessarily zero<p /> </li> </ul> <p specific-use="continuation">in the following section via a mathematical analysis and computer simulations. All our simulations are generated with R software [<a href="#pone.0170485.ref026">26</a>], and the sensitivity analysis with Flexible Modelling Environment (FME) package [<a href="#pone.0170485.ref027">27</a>].</p> </div> </div> <div class="results" title="results"> <div class="title" tagx="title" title="title">
+Results</div> <p>First, we show that the considered model is well posed in <a href="#pone.0170485.s001">S1 Material</a>. Second, we investigate the stability of two possible disease free equilibrium points, Types I and II equilibrium points. Here, Type I equilibrium point implies the eventual extinction of thalassemia major and carrier populations, and Type II equilibrium point indicates the extinction of only thalassemia major population in the future. We focus on these equilibrium points only because they are the aim of any thalassemia control to eradicate the disease.</p> <p>Through the analysis of our mathematical model, we verified that Types I and II equilibrium points are both <i>unstable</i> under the education and premarital screening factors (see the proof in <a href="#pone.0170485.s001">S1 Material</a>). That is, although we may be able to push a given thalassemia status in the UAE toward Type I or Type II equilibrium status by premarital screening and education factors, we will never achieve thalassemia free or thalassemia major free only status in the long term. Thus, thalassemia prevention via premarital screening and education is possible but not effective enough to achieve thalassemia free status. However, this result does not mean that the education and premarital screening are not effective at all. Since these two prevention measures could send a message about the risk of carrier-carrier marriage, i.e. 25% chance of having thalassemia major children, the influence of the two prevention measures should be considered in the marriage decision of carrier-carrier couples. For fixed education and premarital screening rates as in <a href="#pone.0170485.t003">Table 3</a>, we vary the marriage reconsideration rates from 0% to 100% with the initial data <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e036g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+16</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+040</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e037g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+15</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+350</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e038g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+120</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e039g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+100</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e040g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+100</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+000</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e041g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+20</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+000</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e042g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+4</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+500</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e043g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+4</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+500</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e044g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+M</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+65</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+000</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e045g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+500</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><i>S</i><sub><i>F</i><sup><i>o</i></sup></sub> = 100,000, <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e046g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+20</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+000</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e047g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+4</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+400</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e048g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+3</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+600</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e049g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+F</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+55</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+000</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e050g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+o</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> <div class="mn_UNKNOWN">
+400</div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span> and <i>U</i><sup><i>o</i></sup> = 15,000. <a href="#pone.0170485.g002">Fig 2</a> shows that as the marriage reconsideration rates increase, the number of thalassemia major population in both genders decreases. However, this cannot be sustained unless the marriage reconsideration rate of carrier-carrier couples is 100%. Otherwise, the number of thalassemia major cases will increase eventually.<p /> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/10.1371/journal.pone.0170485.g002"><span class="label" tagx="label" title="label">Fig 2</span></a></div>   <div class="title" tagx="title" title="title">
+Simulation results of thalassemia major population in both genders with different level of marriage reconsideration rates.</div> <p>(a) Thalassemia female <i>T</i><sub><i>F</i></sub> with different marriage reconsideration rates. (b) Thalassemia male <i>T</i><sub><i>M</i></sub> with different marriage reconsideration rates. <i>ν</i><sub><i>K</i></sub> and <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e051g" /><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+K</div> </div></div></div> are the marriage reconsideration rates of educated and uneducated carrier populations for <i>K</i> = {<i>M</i>, <i>F</i>}. <i>ν</i><sub><i>K</i></sub> = 0 (<span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e052g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mi_UNKNOWN">
+K</div> </div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div></div></div></span>) means all of uneducated (educated) carrier males or females do not give up their marriage decision, whereas <i>ν</i><sub><i>K</i></sub> = 1 (<span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e053g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mi_UNKNOWN">
+K</div> </div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div></div></div></span>) means all of uneducated (educated) carrier males or females do give up their marriage decision due to screening and education. The education and premarital screening rates are as in <a href="#pone.0170485.t003">Table 3</a>.<p />   </div> <p>Then, we investigate the sensitivity of the model parameters on variables in order to measure the burden of the disease and the impact of the prevention methods. For each variable, we estimate the sensitivity regarding parameters as they change over time, then eliminate the outliers and plot the variance of the variable in a box plot. For our study, we present the sensitivity analysis of significant parameters with respect to selected variables such as thalassemia and carrier populations.</p> <p><a href="#pone.0170485.g003">Fig 3</a> shows that thalassemia major population in both genders tends to increase as birth rates increase. The reason is that marriages between carrier-carrier couples rise as the UAE population grows. Since the carrier population grows as the UAE population grows, marriages between carrier-carrier couples are more likely to increase as well. The increase number of carrier-carrier marriages can increase the potential number of thalassemia major children. Thus, <a href="#pone.0170485.g003">Fig 3</a> reflects the result of <a href="#pone.0170485.g002">Fig 2</a>. Obviously the death rates (natural, child mortality or thalassemia related) have a negative effect on thalassemia population in both genders. It is interesting to notice that thalassemia major population is more affected by the birth rates than thalassemia detection rates (<span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e054g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+T</div> </div></div></div> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e055g" mimetype="image" position="anchor" orientation="portrait" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+T</div> </div></div></div></span>) due to the rapid population growth in the UAE.<p /> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/10.1371/journal.pone.0170485.g003"><span class="label" tagx="label" title="label">Fig 3</span></a></div>   <div class="title" tagx="title" title="title">
+Sensitivity regarding the birth, death, thalassemia diagnosis rates with respect to thalassemia populations.</div> <p>(a) Sensitivity of <i>b</i><sub><i>F</i></sub>, <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e056g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e057g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><i>d</i><sub><i>T</i></sub> and <i>d</i><sub><i>F</i></sub> with respect to <i>T</i><sub><i>F</i></sub>. (b) Sensitivity of <i>b</i><sub><i>M</i></sub>, <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e058g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+η</div> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e059g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><i>d</i><sub><i>T</i></sub> and <i>d</i><sub><i>M</i></sub> with respect to <i>T</i><sub><i>M</i></sub>. Note that <i>b</i><sub><i>M</i></sub>, <i>b</i><sub><i>F</i></sub> are birth rates, <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e060g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span><span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e061g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+F</div> </div></div></div></span> are child mortality rates, <i>d</i><sub><i>M</i></sub>, <i>d</i><sub><i>F</i></sub> and <i>d</i><sub><i>T</i></sub> are normal male and female death rates and thalassemia induced death rates, respectively.<p />   </div> <p>In the inner plots in <a href="#pone.0170485.g004">Fig 4(a) and 4(b)</a>, thalassemia major population in both genders decreases as the education rate of single young adults and marriage reconsideration rates of educated and uneducated carrier population increase. Since the education factor indirectly influences the marriage reconsideration of carrier-carrier couples, thalassemia major population in both genders is more sensitive to the education factors than the marriage reconsideration rates. In the outer plots in <a href="#pone.0170485.g004">Fig 4(a) and 4(b)</a>, as the rate of premarital screening increases, thalassemia major population in both genders increases. The explanation for this phenomenon is the coverage of the premarital screening and detection of carrier populations. In other words, the premarital screening includes all about-to-marry couples from all adult classes, whereas the education and marriage reconsideration are conducted only for the part of young adults and carrier populations, respectively. Hence, the absolute magnitude of the sensitivity regarding the premarital screening is biggest among the four parameters in <a href="#pone.0170485.g004">Fig 4</a>. Moreover, since the carrier population will increase as the UAE population grows, the numbers of identified carrier population will rise via the premarital screening. This implies the potential increase of carrier-carrier marriages, which leads to a probable growth of thalassemia major population.</p> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/10.1371/journal.pone.0170485.g004"><span class="label" tagx="label" title="label">Fig 4</span></a></div>   <div class="title" tagx="title" title="title">
+Sensitivity regarding the education, marriage reconsideration and premarital screening rates with respect to thalassemia major population in both genders.</div> <p>(a) Sensitivity of <i>ϵ</i>, <i>ν</i><sub><i>F</i></sub>, <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e062g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e063g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+F</div> </div></div></div></span> with respect to <i>T</i><sub><i>F</i></sub>. (b) Sensitivity of <i>ϵ</i>, <i>ν</i><sub><i>M</i></sub>, <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e064g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e065g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+M</div> </div></div></div></span> with respect to <i>T</i><sub><i>M</i></sub>. Note that <i>ε</i> is the education rate, <i>ν</i><sub><i>K</i></sub> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e066g" /><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+K</div> </div></div></div></span> the marriage reconsideration rates of uneducated and educated carrier populations, respectively, and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e067g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+K</div> </div></div></div></span> is the premarital screening rate. The inner plots in (a) and (b) are the enlargement of sensitivity regarding <i>ϵ</i>, <i>ν</i><sub><i>K</i></sub>, and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e068g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+ν</div> <div class="mo_UNKNOWN">
+˜</div> </div> <div class="mi_UNKNOWN">
+K</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></div></span> where <i>K</i> = {<i>M</i>, <i>F</i>}.<p />   </div> <p>In <a href="#pone.0170485.g005">Fig 5</a>, as premarital screening rate increases, the increasing number of identified carrier population is observed. This is a benefit of the premarital screening that could detect carrier population over time. The magnitude of sensitivity regarding premarital screening with respect to uneducated carrier singles is larger than that of educated carrier singles. The reason is that the proportion of educated carrier young adults is smaller than the uneducated carrier young adults. Thus, when these populations are about to marry, the more number of uneducated carrier populations will be identified via premarital screening than that of educated carrier populations.</p> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/10.1371/journal.pone.0170485.g005"><span class="label" tagx="label" title="label">Fig 5</span></a></div>   <div class="title" tagx="title" title="title">
+Sensitivity regarding premarital screening rates with respect to educated and uneducated carrier populations.</div> <p>(a) Sensitivity with respect to uneducated and educated carrier single males, <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e069g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> </div></div></div> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e070g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+M</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div></span> (b) Sensitivity with respect to uneducated and educated carrier single females, <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e071g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mi_UNKNOWN">
+A</div> </div></div></div></span> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e072g" /><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> </div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div></span> Note that <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e073g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+M</div> </div></div></div></span> and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="graphic_UNKNOWN" id="pone.0170485.e074g" /><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+F</div> </div></div></div></span> are the premarital screening rates for males and females who are about to marry.<p />   </div> </div> <div class="conclusions" title="conclusions"> <div class="title" tagx="title" title="title">
+Discussion</div> <p>The assessment of the effectiveness of thalassemia prevention measures used in the UAE should not be done only by relying on the decrease in the number of thalassemia cases. It is important to investigate the extent to which these measures are able to sustain the current situation in the UAE and whether these measures can truly eradicate the disease. In order to answer these questions, we presented a mathematical model at a population level to study the reliability of the education factor and premarital screening as control measures to eradicate thalassemia in the UAE. To our best knowledge, this type of assessment has not been done before and there is no mathematical model that has investigated such a problem for thalassemia or any other blood disorders at a population level.</p> <p>Our model considered the three different age groups of children, young adults and adults, and imposed an education factor about thalassemia on the young adult group to see the effect on the reduction of marriages between carrier-carrier couples. Also, as the UAE government requires premarital screening, the current mandatory premarital screening of about-to-marry couples was considered as another control factor in our model. We had tested the following government hypotheses about thalassemia prevention:</p> <ul> <li> <p>(H1) The premarital screening will prevent the intermarriage in the carrier populations;</p> </li> <li> <p>(H2) In addition to premarital screening, if young adults were educated about thalassemia, marriage among the carrier populations will be prevented.</p> </li> </ul> <p>Since it is difficult to directly measure the impact of education and premarital screening on the UAE population, we performed parameter sensitivity analysis of the model with respect to the thalassemia major populations and uneducated and educated carrier populations as shown in Figs <a href="#pone.0170485.g003">3</a>–<a href="#pone.0170485.g005">5</a>. We found that as birth rates increased, the thalassemia major population increased; and that as marriage reconsideration rates increased, the thalassemia major population decreased. The birth rate effect is due to the rapid population growth of the UAE whereby the thalassemia carrier populations who still marry and could produce thalassemia major children increase. Interestingly, the sensitivity regarding education and premarital screening rates showed two opposite directions. That is, as the rate of education about thalassemia increased, the number of thalassemia cases decreased. On the other hand, as the rate of premarital screening increased, the thalassemia major population tended to increase. As mentioned before, the UAE population growth results in the growth of carrier population. Thus, as the carrier population grows, the premarital screening will identify the increasing number of carrier population, which implies the future growth of thalassemia major children in the UAE. Therefore, the sensitivity result regarding premarital screening measures the depth of the potential problem of carrier-carrier marriages.</p> <p>Our mathematical analysis and simulations in <a href="#pone.0170485.g002">Fig 2</a> showed that although these control measures such as education about thalassemia and premarital screening seem to help in reducing the number of thalassemia cases in the the UAE, this decrease in cases is not an indicator of a possible thalassemia-free status in the future. In fact, the number of thalassemia cases will increase eventually. Thus, we summarize what we found from our mathematical modeling as follows:</p> <ol> <li> <p>Premarital screening and education about thalassemia do not effectively reduce marriages between carrier populations;</p> </li> <li> <p>Unless all carrier-carrier marriages are stopped, the eradication of thalassemia can not be guaranteed;</p> </li> <li> <p>As long as a carrier population is present in the whole population, a thalassemia major population will always exist;</p> </li> <li> <p>Unless the birth rate is strictly smaller than the death rate of the whole population, thalassemia-free status will never be achieved no matter what control measures are used.</p> </li> </ol> <p>The result of our study regarding premarital screening and carrier-carrier marriages are consistent with the situation in other MENA countries, such as Jordan and the Kingdom of Saudi Arabia, that have a high rate of consanguineous marriage as shown in <a href="#pone.0170485.t001">Table 1</a>. These countries implemented mandatory premarital screening but do not allow termination of pregnancy for thalassemia prevention like the UAE. It has been reported that premarital screening contributed toward detecting carrier population and that carriers who knew their genetic status prior to marriage were more likely to cancel marriage with another carrier in these countries [<a href="#pone.0170485.ref028">28</a>]. However, premarital screening did not effectively reduce the carrier-carrier marriages in these countries [<a href="#pone.0170485.ref028">28</a>, <a href="#pone.0170485.ref029">29</a>].</p> <p>The limitation of this work is lack of data on the impact of education about thalassemia and marriage reconsideration of carrier-carrier couples in the UAE. In fact, collecting this type of data, in particular, the impact of education about thalassemia will require the collaboration between local schools and government bodies, valid questionnaires to assess the impacts, and work force to process the collected data. Thus, it may take several years to complete the assessment. The significance of our work is providing a scientific assessment about the impact of education and marriage reconsideration of carrier-carrier couples via mathematical modeling and sensitivity analysis without such data. Furthermore, the result of our study can raise public awareness about the implication of carrier-carrier marriages that have a 1-in-4 chance of having thalassemia major child and the fact that only 100% marriage reconsideration of carrier-carrier couples can lead to the thalassemia eradication in the UAE.</p> <p>In conclusion, the UAE’s current almost-thalassemia-free status does not imply that the population is approaching true thalassemia free status because there is still a large carrier population in the UAE. The UAE might experience a decrease in thalassemia major population due to government efforts to reduce carrier-carrier marriages, but as soon as the government stops its emphasis on thalassemia control at present level, the thalassemia major population will experience a resurgence. Therefore, we suggest that the UAE government continue its current level of thalassemia management and develop various additional ways to reduce carrier-carrier marriages.</p> </div> <div class="supplementary-material" title="supplementary-material"> <div class="title" tagx="title" title="title">
+Supporting Information</div> <div class="local-data" title="local-data"><span class="label" tagx="label" title="label">S1 Material</span> <div class="title" tagx="title" title="title">
+Supplementary material for mathematical model.</div> <p>(PDF)</p>  <div class="media" title="media"><a href="pone.0170485.s001.pdf">LINK</a> <p>Click here for additional data file.</p>  </div> </div> </div> </div> <div class="back" title="back"> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+References</div> <li tag="ref"><a name="pone.0170485.ref001" /><span class="label" tagx="label" title="label">1</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Thalassemia Foundation of Canada. Guidelines for the clinical care of patients with thalassemia in Canada. Thalassemia.ca. 2009. Available from: <a href="http://www.thalassemia.ca/resources/">http://www.thalassemia.ca/resources/</a></span></li> <li tag="ref"><a name="pone.0170485.ref002" /><span class="label" tagx="label" title="label">2</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cao</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Galanello</span><span class="given-names" tagx="given-names" title="given-names">R</span></span>. <span class="mixed-article-title" title="mixed-article-title">Beta-thalassemia</span>. <span class="source" tagx="source" title="source">Genetics in Medicine</span>. <span class="year" tagx="year" title="year">2010</span>;<span class="volume" tagx="volume" title="volume">12</span>(<span class="issue" tagx="issue" title="issue">2</span>):<span class="fpage" tagx="fpage" title="fpage">61</span>–<span class="lpage" tagx="lpage" title="lpage">76</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1097/GIM.0b013e3181cd68ed">10.1097/GIM.0b013e3181cd68ed</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20098328">20098328</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref003" /><span class="label" tagx="label" title="label">3</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Danjou</span><span class="given-names" tagx="given-names" title="given-names">F</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Anni</span><span class="given-names" tagx="given-names" title="given-names">F</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Galanello</span><span class="given-names" tagx="given-names" title="given-names">R</span></span>. <span class="mixed-article-title" title="mixed-article-title">Beta-thalassemia: From genotype to phenotype</span>. <span class="source" tagx="source" title="source">Haematologica</span>. <span class="year" tagx="year" title="year">2011</span>;<span class="volume" tagx="volume" title="volume">96</span>(<span class="issue" tagx="issue" title="issue">11</span>):<span class="fpage" tagx="fpage" title="fpage">1573</span>–<span class="lpage" tagx="lpage" title="lpage">1575</span>. <span class="pub-id"><a href="https://dx.doi.org/10.3324/haematol.2011.055962">10.3324/haematol.2011.055962</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22058279">22058279</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref004" /><span class="label" tagx="label" title="label">4</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Weatherall</span><span class="given-names" tagx="given-names" title="given-names">D</span></span>. <span class="mixed-article-title" title="mixed-article-title">The inherited diseases of hemoglobin are an emerging global health burden</span>. <span class="source" tagx="source" title="source">Blood</span>. <span class="year" tagx="year" title="year">2010</span>;<span class="volume" tagx="volume" title="volume">115</span>(<span class="issue" tagx="issue" title="issue">22</span>):<span class="fpage" tagx="fpage" title="fpage">4331</span>–<span class="lpage" tagx="lpage" title="lpage">4336</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1182/blood-2010-01-251348">10.1182/blood-2010-01-251348</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20233970">20233970</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref005" /><span class="label" tagx="label" title="label">5</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Vichinsky</span><span class="given-names" tagx="given-names" title="given-names">E</span></span>. <span class="mixed-article-title" title="mixed-article-title">Changing patterns of thalassemia worldwide</span>. <span class="source" tagx="source" title="source">Annals of the New York Academy of Sciences</span>. <span class="year" tagx="year" title="year">2005</span>;<span class="volume" tagx="volume" title="volume">1054</span>(<span class="issue" tagx="issue" title="issue">1</span>):<span class="fpage" tagx="fpage" title="fpage">18</span>–<span class="lpage" tagx="lpage" title="lpage">24</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1196/annals.1345.003">10.1196/annals.1345.003</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/16339647">16339647</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref006" /><span class="label" tagx="label" title="label">6</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Modell</span><span class="given-names" tagx="given-names" title="given-names">B</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Darlison</span><span class="given-names" tagx="given-names" title="given-names">M</span></span>. <span class="mixed-article-title" title="mixed-article-title">Global epidemiology of haemoglobin disorders and derived service indicators</span>. <span class="source" tagx="source" title="source">Bulletin of the World Health Organization</span>. <span class="year" tagx="year" title="year">2008</span>;<span class="volume" tagx="volume" title="volume">86</span>(<span class="issue" tagx="issue" title="issue">6</span>):<span class="fpage" tagx="fpage" title="fpage">480</span>–<span class="lpage" tagx="lpage" title="lpage">487</span>. <span class="pub-id"><a href="https://dx.doi.org/10.2471/BLT.06.036673">10.2471/BLT.06.036673</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/18568278">18568278</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref007" /><span class="label" tagx="label" title="label">7</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Weatherall</span><span class="given-names" tagx="given-names" title="given-names">D</span></span>. <span class="mixed-article-title" title="mixed-article-title">Thalassemia as a global health problem: Recent progress toward its control in the developing countries</span>. <span class="source" tagx="source" title="source">Annals of the New York Academy of Sciences</span>. <span class="year" tagx="year" title="year">2010</span>;<span class="volume" tagx="volume" title="volume">1202</span>(<span class="issue" tagx="issue" title="issue">1</span>):<span class="fpage" tagx="fpage" title="fpage">17</span>–<span class="lpage" tagx="lpage" title="lpage">23</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1111/j.1749-6632.2010.05546.x">10.1111/j.1749-6632.2010.05546.x</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20712767">20712767</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref008" /><span class="label" tagx="label" title="label">8</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Al-Gazali</span><span class="given-names" tagx="given-names" title="given-names">L</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Alwash</span><span class="given-names" tagx="given-names" title="given-names">R</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Abdulrazzaq</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span>. <span class="mixed-article-title" title="mixed-article-title">United Arab Emirates: Communities and community genetics</span>. <span class="source" tagx="source" title="source">Public Health Genomics</span>. <span class="year" tagx="year" title="year">2005</span>;<span class="volume" tagx="volume" title="volume">8</span>(<span class="issue" tagx="issue" title="issue">3</span>):<span class="fpage" tagx="fpage" title="fpage">186</span>–<span class="lpage" tagx="lpage" title="lpage">196</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1159/000086764">10.1159/000086764</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref009" /><span class="label" tagx="label" title="label">9</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Al-Gazali</span><span class="given-names" tagx="given-names" title="given-names">L</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ali</span><span class="given-names" tagx="given-names" title="given-names">B</span></span>. <span class="mixed-article-title" title="mixed-article-title">Mutations of a country: A mutation review of single gene disorders in the United Arab Emirates (UAE)</span>. <span class="source" tagx="source" title="source">Human Mutation</span>. <span class="year" tagx="year" title="year">2010</span>;<span class="volume" tagx="volume" title="volume">31</span>(<span class="issue" tagx="issue" title="issue">5</span>):<span class="fpage" tagx="fpage" title="fpage">505</span>–<span class="lpage" tagx="lpage" title="lpage">520</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1002/humu.21232">10.1002/humu.21232</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20437613">20437613</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref010" /><span class="label" tagx="label" title="label">10</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bittles</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>. <span class="mixed-article-title" title="mixed-article-title">Consanguinity and its relevance to clinical genetics</span>. <span class="source" tagx="source" title="source">Clinical Genetics</span>. <span class="year" tagx="year" title="year">2008</span>;<span class="volume" tagx="volume" title="volume">60</span>(<span class="issue" tagx="issue" title="issue">2</span>):<span class="fpage" tagx="fpage" title="fpage">89</span>–<span class="lpage" tagx="lpage" title="lpage">98</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1034/j.1399-0004.2001.600201.x">10.1034/j.1399-0004.2001.600201.x</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref011" /><span class="label" tagx="label" title="label">11</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bittles</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mason</span><span class="given-names" tagx="given-names" title="given-names">W</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Greene</span><span class="given-names" tagx="given-names" title="given-names">J</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rao</span><span class="given-names" tagx="given-names" title="given-names">N</span></span>. <span class="mixed-article-title" title="mixed-article-title">Reproductive behavior and health in consanguineous marriages</span>. <span class="source" tagx="source" title="source">Science</span>. <span class="year" tagx="year" title="year">1991</span>;<span class="volume" tagx="volume" title="volume">252</span>(<span class="issue" tagx="issue" title="issue">5007</span>):<span class="fpage" tagx="fpage" title="fpage">789</span>–<span class="lpage" tagx="lpage" title="lpage">794</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1126/science.2028254">10.1126/science.2028254</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/2028254">2028254</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref012" /><span class="label" tagx="label" title="label">12</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bittles</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Black</span><span class="given-names" tagx="given-names" title="given-names">M</span></span>. <span class="mixed-article-title" title="mixed-article-title">The impact of consanguinity on neonatal and infant health</span>. <span class="source" tagx="source" title="source">Early Human Development</span>. <span class="year" tagx="year" title="year">2010</span>;<span class="volume" tagx="volume" title="volume">86</span>(<span class="issue" tagx="issue" title="issue">11</span>):<span class="fpage" tagx="fpage" title="fpage">737</span>–<span class="lpage" tagx="lpage" title="lpage">741</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1016/j.earlhumdev.2010.08.003">10.1016/j.earlhumdev.2010.08.003</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20832202">20832202</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref013" /><span class="label" tagx="label" title="label">13</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hamamy</span><span class="given-names" tagx="given-names" title="given-names">H</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Antonarakis</span><span class="given-names" tagx="given-names" title="given-names">S</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cavalli-Sforza</span><span class="given-names" tagx="given-names" title="given-names">L</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Temtamy</span><span class="given-names" tagx="given-names" title="given-names">S</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Romeo</span><span class="given-names" tagx="given-names" title="given-names">G</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kate</span><span class="given-names" tagx="given-names" title="given-names">L</span></span><span class="etal" title="etal"><i>et al.</i></span><span class="mixed-article-title" title="mixed-article-title">Consanguineous marriages, pearls and perils: Geneva International Consanguinity Workshop Report</span>. <span class="source" tagx="source" title="source">Genetics in Medicine</span>. <span class="year" tagx="year" title="year">2011</span>;<span class="volume" tagx="volume" title="volume">13</span>(<span class="issue" tagx="issue" title="issue">9</span>):<span class="fpage" tagx="fpage" title="fpage">841</span>–<span class="lpage" tagx="lpage" title="lpage">847</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1097/GIM.0b013e318217477f">10.1097/GIM.0b013e318217477f</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/21555946">21555946</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref014" /><span class="label" tagx="label" title="label">14</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tadmouri</span><span class="given-names" tagx="given-names" title="given-names">G</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nair</span><span class="given-names" tagx="given-names" title="given-names">P</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Obeid</span><span class="given-names" tagx="given-names" title="given-names">T</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Al Ali</span><span class="given-names" tagx="given-names" title="given-names">M</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Al Khaja</span><span class="given-names" tagx="given-names" title="given-names">N</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hamamy</span><span class="given-names" tagx="given-names" title="given-names">H</span></span>. <span class="mixed-article-title" title="mixed-article-title">Consanguinity and reproductive health among Arabs</span>. <span class="source" tagx="source" title="source">Reproductive Health</span>. <span class="year" tagx="year" title="year">2009</span>;<span class="volume" tagx="volume" title="volume">6</span>(<span class="issue" tagx="issue" title="issue">1</span>):<span class="fpage" tagx="fpage" title="fpage">17</span><span class="pub-id"><a href="https://dx.doi.org/10.1186/1742-4755-6-17">10.1186/1742-4755-6-17</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19811666">19811666</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref015" /><span class="label" tagx="label" title="label">15</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Baysal</span><span class="given-names" tagx="given-names" title="given-names">E</span></span>. <span class="mixed-article-title" title="mixed-article-title">Molecular heterogeneity of beta-thalassemia in the United Arab Emirates</span>. <span class="source" tagx="source" title="source">Community Genetics</span>. <span class="year" tagx="year" title="year">2005</span>;<span class="volume" tagx="volume" title="volume">8</span>(<span class="issue" tagx="issue" title="issue">1</span>):<span class="fpage" tagx="fpage" title="fpage">35</span>–<span class="lpage" tagx="lpage" title="lpage">39</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1159/000083336">10.1159/000083336</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/15767753">15767753</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref016" /><span class="label" tagx="label" title="label">16</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Baysal</span><span class="given-names" tagx="given-names" title="given-names">E</span></span>. <span class="mixed-article-title" title="mixed-article-title">Molecular basis of <i>β</i>−thalassemia in the United Arab Emirates</span>. <span class="source" tagx="source" title="source">Hemoglobin</span>. <span class="year" tagx="year" title="year">2011</span>;<span class="volume" tagx="volume" title="volume">35</span>(<span class="issue" tagx="issue" title="issue">5–6</span>):<span class="fpage" tagx="fpage" title="fpage">581</span>–<span class="lpage" tagx="lpage" title="lpage">588</span>. <span class="pub-id"><a href="https://dx.doi.org/10.3109/03630269.2011.634706">10.3109/03630269.2011.634706</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22074124">22074124</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref017" /><span class="label" tagx="label" title="label">17</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Denic</span><span class="given-names" tagx="given-names" title="given-names">S</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Aden</span><span class="given-names" tagx="given-names" title="given-names">B</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nagelkerke</span><span class="given-names" tagx="given-names" title="given-names">N</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Essa</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>. <span class="mixed-article-title" title="mixed-article-title"><i>β</i>−Thalassemia in Abu Dhabi: Consanguinity and tribal stratification are major factors explaining the high prevalence of the disease</span>. <span class="source" tagx="source" title="source">Hemoglobin</span>. <span class="year" tagx="year" title="year">2013</span>;<span class="volume" tagx="volume" title="volume">37</span>(<span class="issue" tagx="issue" title="issue">4</span>):<span class="fpage" tagx="fpage" title="fpage">351</span>–<span class="lpage" tagx="lpage" title="lpage">358</span>. <span class="pub-id"><a href="https://dx.doi.org/10.3109/03630269.2013.790827">10.3109/03630269.2013.790827</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23600619">23600619</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref018" /><span class="label" tagx="label" title="label">18</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Al-Dabbagh</span><span class="given-names" tagx="given-names" title="given-names">B</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shawqi</span><span class="given-names" tagx="given-names" title="given-names">S</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yasin</span><span class="given-names" tagx="given-names" title="given-names">J</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Al Essa</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nagelkerke</span><span class="given-names" tagx="given-names" title="given-names">N</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Denic</span><span class="given-names" tagx="given-names" title="given-names">S</span></span>. <span class="mixed-article-title" title="mixed-article-title">Half of the Emirati population aas abnormal red cell parameters: Challenges for standards and screening guidelines</span>. <span class="source" tagx="source" title="source">Hemoglobin</span>. <span class="year" tagx="year" title="year">2013</span>;<span class="volume" tagx="volume" title="volume">38</span>(<span class="issue" tagx="issue" title="issue">1</span>):<span class="fpage" tagx="fpage" title="fpage">56</span>–<span class="lpage" tagx="lpage" title="lpage">59</span>. <span class="pub-id"><a href="https://dx.doi.org/10.3109/03630269.2013.848811">10.3109/03630269.2013.848811</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/24205932">24205932</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref019" /><span class="label" tagx="label" title="label">19</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Health Authority Abu Dhabi. Health statistics 2013. Haad.ae. 2013. Available from: <a href="http://www.haad.ae">http://www.haad.ae</a></span></li> <li tag="ref"><a name="pone.0170485.ref020" /><span class="label" tagx="label" title="label">20</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Belhoul</span><span class="given-names" tagx="given-names" title="given-names">K</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Abdulrahman</span><span class="given-names" tagx="given-names" title="given-names">M</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Alraei</span><span class="given-names" tagx="given-names" title="given-names">R</span></span>. <span class="mixed-article-title" title="mixed-article-title">Hemoglobinopathy carrier prevalence in the United Arab Emirates: First analysis of the Dubai health authority premarital screening program results</span>. <span class="source" tagx="source" title="source">Hemoglobin</span>. <span class="year" tagx="year" title="year">2013</span>;<span class="volume" tagx="volume" title="volume">37</span>(<span class="issue" tagx="issue" title="issue">4</span>):<span class="fpage" tagx="fpage" title="fpage">359</span>–<span class="lpage" tagx="lpage" title="lpage">368</span>. <span class="pub-id"><a href="https://dx.doi.org/10.3109/03630269.2013.791627">10.3109/03630269.2013.791627</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23647352">23647352</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref021" /><span class="label" tagx="label" title="label">21</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Sheikh Saud bin Saqr Al Qasimi Foundation for Policy Research. Public health in the United Arab Emirates and Ras Al Khaimah. 2015. Availablefrom: <a href="http://www.alqasimifoundation.com/admin/Content/File-1312201511130.pdf">http://www.alqasimifoundation.com/admin/Content/File-1312201511130.pdf</a></span></li> <li tag="ref"><a name="pone.0170485.ref022" /><span class="label" tagx="label" title="label">22</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cao</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kan</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span>. <span class="mixed-article-title" title="mixed-article-title">The Prevention of thalassemia</span>. <span class="source" tagx="source" title="source">Cold Spring Harbor Perspectives in Medicine</span>. <span class="year" tagx="year" title="year">2013</span>;<span class="volume" tagx="volume" title="volume">3</span>(<span class="issue" tagx="issue" title="issue">2</span>):<span class="fpage" tagx="fpage" title="fpage">a011775</span><span class="pub-id"><a href="https://dx.doi.org/10.1101/cshperspect.a011775">10.1101/cshperspect.a011775</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23378598">23378598</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref023" /><span class="label" tagx="label" title="label">23</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Statistics Center Abu Dhabi. Statistical yearbook of Abu Dhabi 2013. Government.ae. Available from: <a href="http://government.ae/documents/10138/3525509/SYB+2013+English+-full+version.pdf/324407c4-8e0d-4d09-abab-6983547234c8;jsessionid=23GI0V7f+yzLK2zWOB7DJQgI.undefined">http://government.ae/documents/10138/3525509/SYB+2013+English+-full+version.pdf/324407c4-8e0d-4d09-abab-6983547234c8;jsessionid=23GI0V7f+yzLK2zWOB7DJQgI.undefined</a></span></li> <li tag="ref"><a name="pone.0170485.ref024" /><span class="label" tagx="label" title="label">24</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Federal Competitiveness and Statistics Authority. Statistics by subjects. 2015. Available from: <a href="http://fcsa.gov.ae">http://fcsa.gov.ae</a></span></li> <li tag="ref"><a name="pone.0170485.ref025" /><span class="label" tagx="label" title="label">25</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">WHO. Genes and human disease. Who.int. Available from: <a href="http://www.who.int/genomics/public/geneticdiseases/en/index2.html">http://www.who.int/genomics/public/geneticdiseases/en/index2.html</a></span></li> <li tag="ref"><a name="pone.0170485.ref026" /><span class="label" tagx="label" title="label">26</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="collab'">collab: R Development Core Team</span>, <span class="source" tagx="source" title="source">R: A language and environment for statistical computing</span>. <span class="publisher-name" tagx="publisher-name" title="publisher-name">R Foundation for Statistical Computing</span>, <span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Vienna, Austria</span>, <span class="year" tagx="year" title="year">2016</span>.</span></li> <li tag="ref"><a name="pone.0170485.ref027" /><span class="label" tagx="label" title="label">27</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="mixed-article-title" title="mixed-article-title">Karline Soetaert and Thomas Petzoldt, Inverse modeling, sensitivity and Monte Carlo analysis in R using package FME</span>. <span class="source" tagx="source" title="source">Journal of Statistical Software</span><span class="volume" tagx="volume" title="volume">33</span> (<span class="year" tagx="year" title="year">2010</span>), <span class="issue" tagx="issue" title="issue">no. 3</span>, <span class="fpage" tagx="fpage" title="fpage">1</span>–<span class="lpage" tagx="lpage" title="lpage">28</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20808728">20808728</a></span></span></li> <li tag="ref"><a name="pone.0170485.ref028" /><span class="label" tagx="label" title="label">28</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Alswaidi</span><span class="given-names" tagx="given-names" title="given-names">FM</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">O’Brien</span><span class="given-names" tagx="given-names" title="given-names">SJ</span></span>. <span class="mixed-article-title" title="mixed-article-title">Premarital screening programs for haemoglobinopathies, HIV and hepatitis viruses: Review and factors affecting their success</span>. <span class="source" tagx="source" title="source">Journal of Medical Screen</span>. <span class="year" tagx="year" title="year">2009</span>;<span class="volume" tagx="volume" title="volume">16</span>(<span class="issue" tagx="issue" title="issue">1</span>):<span class="fpage" tagx="fpage" title="fpage">22</span>–<span class="lpage" tagx="lpage" title="lpage">28</span>.</span></li> <li tag="ref"><a name="pone.0170485.ref029" /><span class="label" tagx="label" title="label">29</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Saffi</span><span class="given-names" tagx="given-names" title="given-names">M</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Howard</span><span class="given-names" tagx="given-names" title="given-names">N</span></span>. <span class="mixed-article-title" title="mixed-article-title">Exploring the effectiveness of mandatory premarital screening and genetic counseling programs for beta-thalassemia in the Middle East: A scoping review</span>. <span class="source" tagx="source" title="source">Public Health Genomics</span>. <span class="year" tagx="year" title="year">2015</span>;<span class="volume" tagx="volume" title="volume">18</span>(<span class="issue" tagx="issue" title="issue">4</span>):<span class="fpage" tagx="fpage" title="fpage">193</span>–<span class="lpage" tagx="lpage" title="lpage">203</span>. <span class="pub-id"><a href="https://dx.doi.org/10.1159/000430837">10.1159/000430837</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/26045079">26045079</a></span></span></li> </ul> </div> </div>  </body></html>

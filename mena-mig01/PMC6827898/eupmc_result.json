@@ -1,0 +1,923 @@
+{
+  "id": [
+    "31682640"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31682640"
+  ],
+  "pmcid": [
+    "PMC6827898"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0217451"
+  ],
+  "title": [
+    "Addiction of mesenchymal phenotypes on the FGF/FGFR axis in oral squamous cell carcinoma cells."
+  ],
+  "authorString": [
+    "Osada AH, Endo K, Kimura Y, Sakamoto K, Nakamura R, Sakamoto K, Ueki K, Yoshizawa K, Miyazawa K, Saitoh M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Osada AH"
+          ],
+          "firstName": [
+            "Asami Hotta"
+          ],
+          "lastName": [
+            "Osada"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan.",
+                "Department of Oral and Maxillofacial Surgery, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan.",
+                "Center for Medical Education and Sciences, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Endo K"
+          ],
+          "firstName": [
+            "Kaori"
+          ],
+          "lastName": [
+            "Endo"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kimura Y"
+          ],
+          "firstName": [
+            "Yujiro"
+          ],
+          "lastName": [
+            "Kimura"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan.",
+                "Department of Oral and Maxillofacial Surgery, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sakamoto K"
+          ],
+          "firstName": [
+            "Kei"
+          ],
+          "lastName": [
+            "Sakamoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oral Pathology, Graduate School of Medical and Dental Sciences, Tokyo Medical and Dental University, Yushima, Bunkyo-ku, Tokyo, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nakamura R"
+          ],
+          "firstName": [
+            "Ryosuke"
+          ],
+          "lastName": [
+            "Nakamura"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center for Medical Education and Sciences, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan.",
+                "Department of Oral Surgery, Kofu Municipal Hospital, Kofu, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sakamoto K"
+          ],
+          "firstName": [
+            "Kaname"
+          ],
+          "lastName": [
+            "Sakamoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ueki K"
+          ],
+          "firstName": [
+            "Koichiro"
+          ],
+          "lastName": [
+            "Ueki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oral and Maxillofacial Surgery, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshizawa K"
+          ],
+          "firstName": [
+            "Kunio"
+          ],
+          "lastName": [
+            "Yoshizawa"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oral and Maxillofacial Surgery, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miyazawa K"
+          ],
+          "firstName": [
+            "Keiji"
+          ],
+          "lastName": [
+            "Miyazawa"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saitoh M"
+          ],
+          "firstName": [
+            "Masao"
+          ],
+          "lastName": [
+            "Saitoh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0793-1679",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan.",
+                "Center for Medical Education and Sciences, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0793-1679",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2876045"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0217451"
+  ],
+  "abstractText": [
+    "The epithelial-mesenchymal transition (EMT) is a crucial morphological event that occurs during epithelial tumor progression. ZEB1/2 are EMT transcription factors that are positively correlated with EMT phenotypes and breast cancer aggressiveness. ZEB1/2 regulate the alternative splicing and hence isoform switching of fibroblast growth factor receptors (FGFRs) by repressing the epithelial splicing regulatory proteins, ESRP1 and ESRP2. Here, we show that the mesenchymal-like phenotypes of oral squamous cell carcinoma (OSCC) cells are dependent on autocrine FGF-FGFR signaling. Mesenchymal-like OSCC cells express low levels of ESRP1/2 and high levels of ZEB1/2, resulting in constitutive expression of the IIIc-isoform of FGFR, FGFR(IIIc). By contrast, epithelial-like OSCC cells showed opposite expression profiles for these proteins and constitutive expression of the IIIb-isoform of FGFR2, FGFR2(IIIb). Importantly, ERK1/2 was constitutively phosphorylated through FGFR1(IIIc), which was activated by factors secreted autonomously by mesenchymal-like OSCC cells and involved in sustained high-level expression of ZEB1. Antagonizing FGFR1 with either inhibitors or siRNAs considerably repressed ZEB1 expression and restored epithelial-like traits. Therefore, autocrine FGF-FGFR(IIIc) signaling appears to be responsible for sustaining ZEB1/2 at high levels and the EMT phenotype in OSCC cells."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, Interdisciplinary Graduate School of Medicine, University of Yamanashi, Chuo, Yamanashi, Japan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epithelial Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carcinoma, Squamous Cell"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mouth Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibroblast Growth Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptors, Fibroblast Growth Factor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Isoforms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Small Interfering"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MAP Kinase Signaling System"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alternative Splicing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphorylation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epithelial-Mesenchymal Transition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Protein Isoforms"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fibroblast Growth Factors"
+          ],
+          "registryNumber": [
+            "62031-54-3"
+          ]
+        },
+        {
+          "name": [
+            "Receptors, Fibroblast Growth Factor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Small Interfering"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0217451"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6827898"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6827898?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0217451"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR78962"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-03-13"
+  ],
+  "dateOfCreation": [
+    "2019-11-05"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-14"
+  ],
+  "dateOfRevision": [
+    "2020-03-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-04"
+  ],
+  "firstPublicationDate": [
+    "2019-11-04"
+  ]
+}

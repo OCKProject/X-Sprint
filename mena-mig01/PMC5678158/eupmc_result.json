@@ -1,0 +1,756 @@
+{
+  "id": [
+    "29138761"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29138761"
+  ],
+  "pmcid": [
+    "PMC5678158"
+  ],
+  "doi": [
+    "10.1038/s41523-017-0043-5"
+  ],
+  "title": [
+    "A metastasis biomarker (MetaSite Breast™ Score) is associated with distant recurrence in hormone receptor-positive, HER2-negative early-stage breast cancer."
+  ],
+  "authorString": [
+    "Sparano JA, Gray R, Oktay MH, Entenberg D, Rohan T, Xue X, Donovan M, Peterson M, Shuber A, Hamilton DA, D'Alfonso T, Goldstein LJ, Gertler F, Davidson NE, Condeelis J, Jones J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sparano JA"
+          ],
+          "firstName": [
+            "Joseph A"
+          ],
+          "lastName": [
+            "Sparano"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Montefiore Medical Center, Albert Einstein College of Medicine, 1695 Eastchester Road, 10461 Bronx, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gray R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Gray"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "ECOG-ACRIN Research Group, Boston, MA USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oktay MH"
+          ],
+          "firstName": [
+            "Maja H"
+          ],
+          "lastName": [
+            "Oktay"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Montefiore Medical Center, Albert Einstein College of Medicine, 1695 Eastchester Road, 10461 Bronx, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Entenberg D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Entenberg"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Albert Einstein College of Medicine, Bronx, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rohan T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Rohan"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Albert Einstein College of Medicine, Bronx, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xue X"
+          ],
+          "firstName": [
+            "Xiaonan"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Albert Einstein College of Medicine, Bronx, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Donovan M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Donovan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Mt. Sinai School of Medicine, New York, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peterson M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Peterson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MetaStat, Inc, Boston, MA USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shuber A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Shuber"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MetaStat, Inc, Boston, MA USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hamilton DA"
+          ],
+          "firstName": [
+            "Douglas A"
+          ],
+          "lastName": [
+            "Hamilton"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MetaStat, Inc, Boston, MA USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "D'Alfonso T"
+          ],
+          "firstName": [
+            "Timothy"
+          ],
+          "lastName": [
+            "D'Alfonso"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Weill Cornell Medicine, New York, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Goldstein LJ"
+          ],
+          "firstName": [
+            "Lori J"
+          ],
+          "lastName": [
+            "Goldstein"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Fox Chase Cancer Center, Philadelphia, PA USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gertler F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Gertler"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Massachusetts Institute of Technology, Boston, MA USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Davidson NE"
+          ],
+          "firstName": [
+            "Nancy E"
+          ],
+          "lastName": [
+            "Davidson"
+          ],
+          "initials": [
+            "NE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Pittsburgh Cancer Institute, Pittsburgh, PA USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Condeelis J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Condeelis"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Albert Einstein College of Medicine, Bronx, NY USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jones J"
+          ],
+          "firstName": [
+            "Joan"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Albert Einstein College of Medicine, Bronx, NY USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2526771"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NPJ breast cancer"
+          ],
+          "ISOAbbreviation": [
+            "NPJ Breast Cancer"
+          ],
+          "medlineAbbreviation": [
+            "NPJ Breast Cancer"
+          ],
+          "NLMid": [
+            "101674891"
+          ],
+          "ISSN": [
+            "2374-4677"
+          ],
+          "ESSN": [
+            "2374-4677"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "42"
+  ],
+  "abstractText": [
+    "Metastasis is the primary cause of death in early-stage breast cancer. We evaluated the association between a metastasis biomarker, which we call \"Tumor Microenviroment of Metastasis\" (TMEM), and risk of recurrence. TMEM are microanatomic structures where invasive tumor cells are in direct contact with endothelial cells and macrophages, and which serve as intravasation sites for tumor cells into the circulation. We evaluated primary tumors from 600 patients with Stage I-III breast cancer treated with adjuvant chemotherapy in trial E2197 (NCT00003519), plus endocrine therapy for hormone receptor (HR)+ disease. TMEM were identified and enumerated using an analytically validated, fully automated digital pathology/image analysis method (MetaSite Breast™), hereafter referred to as MetaSite Score (MS). The objectives were to determine the association between MS and distant relapse free interval (DRFI) and relapse free interval (RFI). MS was not associated with tumor size or nodal status, and correlated poorly with Oncotype DX Recurrence Score (r = 0.29) in 297 patients with HR+/HER2- disease. Proportional hazards models revealed a significant positive association between continuous MS and DRFI (p = 0.001) and RFI (p = 0.00006) in HR+/HER2- disease in years 0-5, and by MS tertiles for DRFI (p = 0.04) and RFI (p = 0.01), but not after year 5 or in triple negative or HER2+ disease. Multivariate models in HR+/HER- disease including continuous MS, clinical covariates, and categorical Recurrence Score (<18, 18-30, > 30) showed MS is an independent predictor for 5-year RFI (p = 0.05). MetaSite Score provides prognostic information for early recurrence complementary to clinicopathologic features and Recurrence Score."
+  ],
+  "affiliation": [
+    "Montefiore Medical Center, Albert Einstein College of Medicine, 1695 Eastchester Road, 10461 Bronx, NY USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U10 CA021115"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U10 CA025224"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U10 CA066636"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U10 CA180820"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24 CA196172"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DP2 OD001996"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U10 CA180794"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UG1 CA189859"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 CA100324"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U10 CA032291"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U10 CA023318"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41523-017-0043-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5678158"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5678158?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41523-017-0043-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-11-16"
+  ],
+  "firstIndexDate": [
+    "2017-11-16"
+  ],
+  "fullTextReceivedDate": [
+    "2017-11-16"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-08"
+  ],
+  "firstPublicationDate": [
+    "2017-11-08"
+  ]
+}

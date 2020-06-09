@@ -1,0 +1,381 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Thorac Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Thorac Cancer</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1759-7714</journal-id><journal-id journal-id-type="publisher-id">TCA</journal-id><journal-title-group><journal-title>Thoracic Cancer</journal-title></journal-title-group><issn pub-type="ppub">1759-7706</issn><issn pub-type="epub">1759-7714</issn><publisher><publisher-name>John Wiley &#x00026; Sons Australia, Ltd</publisher-name><publisher-loc>Melbourne</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7262928</article-id><article-id pub-id-type="doi">10.1111/1759-7714.13441</article-id><article-id pub-id-type="publisher-id">TCA13441</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>
+<styled-content style="fixed-case" toggle="no">MicroRNA</styled-content>&#x02010;125b as a tumor suppressor by targeting <styled-content style="fixed-case" toggle="no">MMP11</styled-content> in breast cancer</article-title><alt-title alt-title-type="right-running-head"><styled-content style="fixed-case" toggle="no">MicroRNA</styled-content>&#x02010;125b suppresses breast cancer</alt-title><alt-title alt-title-type="left-running-head">Y. Wang <italic>et al.</italic></alt-title></title-group><contrib-group><contrib id="tca13441-cr-0001" contrib-type="author"><name><surname>Wang</surname><given-names>Yanan</given-names></name><address><email>wangyanan@sohu.com</email></address><xref ref-type="aff" rid="tca13441-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="tca13441-note-0001">
+<sup>[Link]</sup>
+</xref></contrib><contrib id="tca13441-cr-0002" contrib-type="author"><name><surname>Wei</surname><given-names>Yaning</given-names></name><xref ref-type="aff" rid="tca13441-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="tca13441-note-0001">
+<sup>[Link]</sup>
+</xref></contrib><contrib id="tca13441-cr-0003" contrib-type="author"><name><surname>Fan</surname><given-names>Xiangyu</given-names></name><xref ref-type="aff" rid="tca13441-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca13441-cr-0004" contrib-type="author"><name><surname>Zhang</surname><given-names>Pei</given-names></name><xref ref-type="aff" rid="tca13441-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca13441-cr-0005" contrib-type="author"><name><surname>Wang</surname><given-names>Pan</given-names></name><xref ref-type="aff" rid="tca13441-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tca13441-cr-0006" contrib-type="author" corresp="yes"><name><surname>Cheng</surname><given-names>Shujie</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8605-9518</contrib-id><xref ref-type="aff" rid="tca13441-aff-0003">
+<sup>3</sup>
+</xref><address><email>csj326647@sina.com</email></address></contrib><contrib id="tca13441-cr-0007" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Jinku</given-names></name><xref ref-type="aff" rid="tca13441-aff-0004">
+<sup>4</sup>
+</xref><address><email>zjkblk@sina.com</email></address></contrib></contrib-group><aff id="tca13441-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Affiliated Hospital of Hebei University</institution>
+<city>Baoding</city>
+<country country="CN">China</country>
+</aff><aff id="tca13441-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Oncology</named-content>
+<institution>Affiliated Hospital of Hebei University</institution>
+<city>Baoding</city>
+<country country="CN">China</country>
+</aff><aff id="tca13441-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Affiliated Hospital of Hebei University</institution>
+<city>Baoding</city>
+<country country="CN">China</country>
+</aff><aff id="tca13441-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>No.1 Central Hospital of Baoding</institution>
+<city>Baoding</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence<break/>
+Shujie Cheng, Department of Surgery, Affiliated Hospital of Hebei University, Baoding 071030, China.<break/>
+Tel: +86 312 5981 663<break/>
+Fax: +86 312 5981 580<break/>
+E&#x02010;mail: <email>csj326647@sina.com</email><break/>
+Jinku Zhang, Department of Pathology, No.1 Central Hospital of Baoding, Baoding 071000, China.<break/>
+Tel: +86 312 5976 527<break/>
+Fax: +86 312 5976 586<break/>
+Email: <email>zjkblk@sina.com</email><break/></corresp><fn id="tca13441-note-0001"><p>
+<sup>&#x02020;</sup>Both authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>14</day><month>4</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2020</year></pub-date><volume>11</volume><issue>6</issue><issue-id pub-id-type="doi">10.1111/tca.v11.6</issue-id><fpage>1613</fpage><lpage>1620</lpage><history><date date-type="received"><day>05</day><month>3</month><year>2020</year></date><date date-type="rev-recd"><day>30</day><month>3</month><year>2020</year></date><date date-type="accepted"><day>01</day><month>4</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 China Lung Oncology Group and Wiley Publishing Asia Pty Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Thoracic Cancer</italic> published by China Lung Oncology Group and John Wiley &#x00026; Sons Australia, Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:TCA-11-1613.pdf"/><abstract><sec id="tca13441-sec-0001"><title>Background</title><p>Breast cancer is a common type of tumor in women worldwide. MicroRNAs have been identified as regulators in many human cancers. The aim of this study was therefore to investigate the functional role of miR&#x02010;125b in regulating breast cancer progression.</p></sec><sec id="tca13441-sec-0002"><title>Methods</title><p>We used the StarBase database to investigate the expression of miRNA&#x02010;125b in breast cancer and adjacent normal tissues. MMP11 3&#x02032;&#x02010;UTR construct and luciferase reporter assays was performed for target genes. Cell proliferation was evaluated by CCK&#x02010;8 and colony formation assay. The migration and invasion were assessed by transwell assay.</p></sec><sec id="tca13441-sec-0003"><title>Results</title><p>Luciferase reporter assays showed miRNA&#x02010;125b directly targeted MMP11. miRNA&#x02010;125b by transfection with its mimic in breast cancer cells significantly suppressed breast cancer cell proliferation and migration. Western blot revealed that overexpression of miRNA&#x02010;125b substantially reduced MMP11 protein expression. We used the UALCAN database to investigate the expression of MMP11 in human breast cancer and adjacent normal tissues. In addition, we found that miRNA&#x02010;125b spoiled MMP11 induced breast cancer cell proliferation and migration promotion effect.</p></sec><sec id="tca13441-sec-0004"><title>Conclusions</title><p>miRNA&#x02010;125b mimic inhibited proliferation, migration, and invasion of breast cancer cells through targeting MMP11 protein.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="tca13441-kwd-0001">Breast cancer</kwd><kwd id="tca13441-kwd-0002">MicroRNA&#x02010;125b</kwd><kwd id="tca13441-kwd-0003">migration</kwd><kwd id="tca13441-kwd-0004">MMP11</kwd></kwd-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="8"/><word-count count="4545"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June, 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.3 mode:remove_FC converted:01.06.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="tca13441-body-0001"><sec id="tca13441-sec-0005"><title>Introduction</title><p>Breast cancer is the most common malignant tumor in women worldwide.<xref rid="tca13441-bib-0001" ref-type="ref">1</xref> According to statistics data from the World Health Organization, 12 million new breast cancer patients are added each year, causing 465&#x02009;000 deaths, and the prevalence of breast cancer continues to rise.<xref rid="tca13441-bib-0002" ref-type="ref">2</xref>, <xref rid="tca13441-bib-0003" ref-type="ref">3</xref>
+</p><p>Matrix metalloproteinases (MMP) are a family of Zn<sup>2+</sup>&#x02010; dependent endonucleases involved in the degradation of extracellular matrix. At present, there are 28 protein members in the MMP family. They can be divided into the following subgroups which include collagenase and gelatinase, interstitial lysins, and membrane&#x02010;type MMPs.<xref rid="tca13441-bib-0004" ref-type="ref">4</xref>, <xref rid="tca13441-bib-0005" ref-type="ref">5</xref> MMP&#x02010;11 was first discovered by Basset <italic>et al</italic>. in 1990 and MMP&#x02010;11 was considered to play an important role in the development of breast cancer.<xref rid="tca13441-bib-0006" ref-type="ref">6</xref> MMP&#x02010;11 is different from other proteases of the MMP family in that it is secreted as an active precursor and can only degrade some enzymes (such as serine proteases), and cannot directly hydrolyze extracellular matrix molecules. Some studies have found that MMP&#x02010;11 may be involved in the invasion and metastasis of breast cancer, but the functional role of MMP&#x02010;11 is still unclear. In our study, we investigated the roles of MMP11 in breast cancer cells.</p><p>MicroRNA is a small molecule RNA formed by Dicer enzyme processing in eukaryotes, and has high conservation, timing and tissue specificity.<xref rid="tca13441-bib-0007" ref-type="ref">7</xref> MicroRNA is ubiquitous in different organisms, and is closely related to the occurrence and development of tumors. Mainstream research suggests that mature microRNAs, together with other proteins, form an RNA&#x02010;induced silencing complex that binds to the 3&#x02032;untranslated region (3&#x02032;UTR) of the target gene mRNA in a fully or partially complementary manner and silences gene expression. Studies have found that at least one third of the protein&#x02010;coding genes are regulated by microRNAs, and their regulation almost involve the entire process of cell life, including differentiation, proliferation, metabolism and apoptosis.<xref rid="tca13441-bib-0008" ref-type="ref">8</xref>, <xref rid="tca13441-bib-0009" ref-type="ref">9</xref> Therefore, a microRNA has many downstream target genes that can cause extensive protein changes, thereby inducing or suppressing the occurrence or development of tumor. A large number of studies have shown that miRNA&#x02010;125b is significantly increased in tumor tissues of oral and endometrial cancers, and can promote tumor cell proliferation through various pathways.<xref rid="tca13441-bib-0010" ref-type="ref">10</xref>, <xref rid="tca13441-bib-0011" ref-type="ref">11</xref> MicroRNA, as a population with significant abnormal expression, regulates mRNA expression mainly at the post&#x02010;transcriptional level. Numerous tumor&#x02010;related proteins are regulated by microRNAs in this process, and play a role in regulating tumor nutrition and vascular supply, inducing immune escape, and changing the microenvironment of tumors. As an early confirmed abnormal expression molecule in invasive breast cancer, the relationship between miR&#x02010;125b and some proteins that are clearly involved in tumor cell proliferation and metastasis has been a hot topic in recent years. It has been reported that inhibiting miR&#x02010;125b regulates the Wnt/&#x003b2;&#x02010;catenin pathway and EMT.<xref rid="tca13441-bib-0012" ref-type="ref">12</xref> In many breast cancer cell lines, miR&#x02010;125b inhibited BAK1 gene expression and confers paclitaxel resistance.<xref rid="tca13441-bib-0013" ref-type="ref">13</xref> In addition, it has been confirmed that miR&#x02010;125b can induce distant metastasis of breast cancer by mediating the STARD13 in MCF&#x02010;7 and MDA&#x02010;MB&#x02010;231 breast cancer cell lines.<xref rid="tca13441-bib-0014" ref-type="ref">14</xref> However, the relationship between miR&#x02010;125b expression and breast cancer has not as yet been fully clarified, and more detailed mechanism research is needed to clarify its complex biological effects. In this study, we demonstrated that miR&#x02010;125b can regulate MMP11 expression to fully illustrate the mechanisms involving breast cancer progression.</p></sec><sec id="tca13441-sec-0006"><title>Methods</title><sec id="tca13441-sec-0007"><title>Cells and reagents</title><p>The human breast cancer cell lines T47D and SKBR3 were purchased from the Shanghai Cell Bank of the Chinese Academy of Science (Shanghai, China). All breast cancer cell lines were incubated in DMEM (Invitrogen, Thermo Fisher Scientific, MA, USA). All cells were cultured in an incubator containing 5% CO<sub>2</sub>, and 10% fetal bovine serum was added to the cell medium. The cell culture temperature was 37&#x000b0;C. The synthetic miRNA fragments (Rebio, Shenzhen, China) were transfected using Lipofectamine 3000 (Invitrogen, Thermo Fisher Scientific). The MMP11 recombinant plasmid and negative control plasmid (Origene, Suzhou, China) were added to the cell lines according to the manufacturer's protocol. For the following experiments, the cells were harvested after 48&#x02009;hours of transfection. The antibodies used for immunoblotting were as follows: GAPDH (ab8245), MMP11 (ab53143) (Abcam, Cambridge, USA), ACTB (3700) (Cell Signaling Technology, Danvers, USA).</p></sec><sec id="tca13441-sec-0008"><title>Western blot</title><p>Cells were digested with 0.25% trypsin and collected by centrifugation (1000&#x02009;<italic>g</italic>), then lysed in RIPA buffer for 30&#x02009;minutes. Protein concentration was determined using a bicinchoninic acid protein determination kit (Thermo Scientific, MA, USA), and then mixed with 1x loading buffer. The sample proteins were separated using 10% sodium dodecyl sulfate&#x02010;polyacrylamide gel electrophoresis (SDS&#x02010;PAGE) and the proteins were blotted onto polyvinylidene fluoride (PVDF) membranes (Millipore, Billerica, MA, USA). The membranes were blocked with 5% nonfat skimmed milk for one hour at room temperature, incubated overnight at 4&#x000b0;C with primary antibody, and then incubated with secondary HRP conjugated antibody for one hour at room temperature. The immunoreactive blots were visualized using an enhanced chemiluminescence reagent (Beyotime, Shanghai, China).</p></sec><sec id="tca13441-sec-0009"><title>Quantitative real&#x02010;time PCR (qRT&#x02010;PCR)</title><p>Total RNA was extracted from breast cancer cell lines using TRIzol Reagent (Life Technologies, Carlsbad, CA, USA). The cell growth medium was removed and 1 mL of TRIzol Reagent per 10<sup>5</sup> cells was added to the culture dish to lyse the cells. It was then incubated for five minutes to permit complete dissociation of the nucleoproteins complex. Then, 200&#x02009;&#x003bc;L of chloroform per 1 mL of TRIzol was added and incubated for two minutes. The sample was centrifuged for 15&#x02009;minutes at 12&#x02009;000&#x000d7;<italic>g</italic> at 4&#x000b0;C. The aqueous phase containing the RNA was then collected and we proceeded to precipitate, wash and then solubilize the RNA. For reverse transcription (RT) of microRNA, we used miScript reverse transcription kit (Qiagen, Dusseldorf, Germany). This was then quantified with SYBR&#x02010;green real&#x02010;time Master Mix under an Applied Biosystems 7900 Sequence Detection system (Applied Biosystems, MA, USA). The relative expression of miR&#x02010;125b was normalized to that of GAPDH using the 2&#x02009;&#x02212;&#x02009;&#x00394;&#x00394;Ct method.</p></sec><sec id="tca13441-sec-0010"><title>Cell counting kit&#x02010;8 (CCK&#x02010;8) assay</title><p>The cells were seeded in a 96&#x02010;well plate at a density of 2000&#x02009;cells/well in 100&#x02009;&#x003bc;L of culture medium. The plate was then placed for an appropriate length of time in the incubator. We then added 10 &#x003bc;L of CCK&#x02010;8 solution to each well of the plate. The optical density value (OD) at 450&#x02009;nm was detected using a microplate spectrophotometer (Thermo Scientific, MA, USA).</p></sec><sec id="tca13441-sec-0011"><title>Colony formation assay</title><p>For the colony formation assay, a total of 500 cells/well were seeded into 6&#x02010;well plates and incubated for 15&#x02009;days. Cell colonies were fixed with methanol, then the colonies were stained with 0.5% crystal violet (Sigma, Darmstadt, Germany) for 30&#x02009;minutes at room temperature. The total number of colonies were photographed and counted.</p></sec><sec id="tca13441-sec-0012"><title>Transwell assay</title><p>For invasion assay, Matrigel&#x02010;coated transwell chambers (8 &#x003bc;m in pore size, 24 wells) were used. Cells were plated into the upper chambers with FBS&#x02010;free medium. The lower chambers were filled with medium plus with 10% FBS. After 48&#x02009;hours incubation, cells on the upper surface of the insert (noninvasive cells) were removed with a cotton swab. Cells invaded by Matrigel were stained with 0.1% crystal violet and counted under a microscope.</p></sec><sec id="tca13441-sec-0013"><title>Wound healing assay</title><p>Transfected cells were seeded into 6&#x02010;well plates at a density of 1&#x02009;&#x000d7;&#x02009;10<sup>5</sup> cells/well in medium containing 10% FBS and cultured until ~80% confluence. Six hours later, with cell confluency reaching about 90%, a 10 &#x003bc;L pipette was used to scratch across the surface to make a wound. The cells were then washed twice with PBS to remove cell debris. With refreshed medium, cells were incubated for 24 or 48&#x02009;hours. Wounds were analyzed using Image J software.</p></sec><sec id="tca13441-sec-0014"><title>Luciferase reporter assay</title><p>Bioinformatic analysis algorithm TargetScan was used to predict the targets of miR&#x02010;125b. The wild&#x02010;type (wt) or mutant (mut) miR&#x02010;125b binding sequences from MMP11 3&#x02032;UTR were cloned into pGL3 Basic vector. miR&#x02010;125b sequences were cloned into mCherry vectors. Thereafter, the cells were cotransfected with miR&#x02010;125b mimic, MMP11 (wt) and MMP11 (mut) using Lipo3000 according to the manufacturer's protocol. Renilla luciferase was used as a control for transfection efficiency. Cells were harvested after 48&#x02009;hours incubation. The luciferase activities were analyzed using the dual&#x02010;luciferase reporter assay system (Promega, Madison, USA) after transfection for 48&#x02009;hours. In brief, we prepared a sufficient amount of the 1X working concentration by adding one volume of 5X passive lysis buffer to four volumes of distilled water and mixing well. The culture plates were gently shaken and placed on an orbital shaker to ensure coverage of the cell monolayer with 1X PLB. The culture plates were then shaken for 15&#x02009;minutes at room temperature. We prepared the Luciferase Assay Reagent II by resuspending the provided lyophilized Luciferase Assay Substrate in 10 mL of the supplied Luciferase Assay Buffer II. An adequate volume was prepared in order to perform the desired number of DLR assays. Then, we added one volume of 50X Stop &#x00026; Glo Substrate to 50 volumes of Stop &#x00026; Glo Buffer in a glass. We carefully transferred up to 20&#x02009;&#x003bc;L of cell lysate into the luminometer tube containing LARII and mixed by pipetting, then placed the tube in the luminometer and initiated reading. We then added 100 &#x003bc;L Stop &#x00026; Glo Reagent, mixed the solutions by vortexing briefly and initiated reading.</p></sec><sec id="tca13441-sec-0015"><title>Statistical analysis</title><p>If differences were found, the Student's <italic>t</italic>&#x02010;test was used for comparison between the two groups. Statistically significant differences among the three or above groups were determined using one&#x02010;way analysis of variance and Tukey's post hoc test. Data analysis was performed with GraphPad Prism 5 software (Graphpad Software, Inc., La Jolla, CA) and presented as means&#x02009;&#x000b1;&#x02009;standard deviation (SD). If the <italic>P</italic>&#x02010;value did not exceed 0.05, the data was considered to be statistically significant.</p></sec></sec><sec id="tca13441-sec-0016"><title>Results</title><sec id="tca13441-sec-0017"><title>Overexpression of miR&#x02010;125b abrogates breast cancer cell proliferation</title><p>The synthetic miRNAs were transfected into the T47D and SKBR3 cell lines. The results of qRT&#x02010;PCR showed that expression level of miR&#x02010;125b was obviously increased by miR&#x02010;125b mimic but decreased by miR&#x02010;125b inhibitor (Fig <xref rid="tca13441-fig-0001" ref-type="fig">1</xref>a). The colony formation assay exhibited that miR&#x02010;125b mimic reduced the number of colonies and miR&#x02010;125b inhibitor suppressed the colony formation ability of breast cancer cells (Fig <xref rid="tca13441-fig-0001" ref-type="fig">1</xref>b). In addition, the CCK&#x02010;8 assay exhibited that miR&#x02010;125b mimic inhibited, whereas miR&#x02010;125b inhibitor enhanced breast cancer cell proliferation (Fig <xref rid="tca13441-fig-0001" ref-type="fig">1</xref>c,d). These results indicated that miR&#x02010;125b had an ability to suppress cell proliferation in breast cancer.</p><fig fig-type="Figure" xml:lang="en" id="tca13441-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Overexpression of miR&#x02010;125b abrogates breast cancer cell proliferation. (<bold>a</bold>) miR&#x02010;125b expression in breast cancer cell lines (T47D and SKBR3) was measured by qRT&#x02010;PCR (<inline-graphic xlink:href="TCA-11-1613-g006.jpg" xlink:title="image"/>) miR&#x02010;125b mimic, (<inline-graphic xlink:href="TCA-11-1613-g007.jpg" xlink:title="image"/>) NC&#x02010;miRNA, and (<inline-graphic xlink:href="TCA-11-1613-g008.jpg" xlink:title="image"/>) miR&#x02010;125b inhibitor. (<bold>b</bold>) Colony formation numbers in T47D and SKBR3 cell lines was investigated after transfecting miR&#x02010;125b mimic and inhibitor (<inline-graphic xlink:href="TCA-11-1613-g009.jpg" xlink:title="image"/>) miR&#x02010;125b mimic, (<inline-graphic xlink:href="TCA-11-1613-g010.jpg" xlink:title="image"/>) NC&#x02010;miRNA, and (<inline-graphic xlink:href="TCA-11-1613-g011.jpg" xlink:title="image"/>) miR&#x02010;125b inhibitor. (<bold>c</bold>) Cell proliferation was detected in T47D after transfecting miR&#x02010;125b mimic and inhibitor (<inline-graphic xlink:href="TCA-11-1613-g012.jpg" xlink:title="image"/>) miR&#x02010;125b mimic, (<inline-graphic xlink:href="TCA-11-1613-g013.jpg" xlink:title="image"/>) miR&#x02010;125b inhibitor, and, (<inline-graphic xlink:href="TCA-11-1613-g014.jpg" xlink:title="image"/>) NC&#x02010;miRNA. (<bold>d</bold>) Cell proliferation was detected in SKBR3 after transfecting miR&#x02010;125b mimic and inhibitor (<inline-graphic xlink:href="TCA-11-1613-g015.jpg" xlink:title="image"/>) miR&#x02010;125b mimic, (<inline-graphic xlink:href="TCA-11-1613-g016.jpg" xlink:title="image"/>) miR&#x02010;125b inhibitor, and, (<inline-graphic xlink:href="TCA-11-1613-g017.jpg" xlink:title="image"/>) NC&#x02010;miRNA. **<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001.</p></caption><graphic id="nlm-graphic-1" xlink:href="TCA-11-1613-g001"/></fig></sec><sec id="tca13441-sec-0018"><title>Overexpression of miR&#x02010;125b suppresses breast cancer cell migration</title><p>Next, we investigated whether miR&#x02010;125b was involved in breast cancer cell migration and invasion. Wound healing assay showed that miR&#x02010;125b mimic obviously inhibited T47D cell migration compared to control group cells (Fig <xref rid="tca13441-fig-0002" ref-type="fig">2</xref>a,b). Cell migration and invasion ability were detected by performing transwell assays following transfection with miR&#x02010;125b mimic. The data implied that miR&#x02010;125b mimic significantly reduced the migration and invasion SKBR3 cell numbers compared with the NC&#x02010;miRNA transfected group (Fig <xref rid="tca13441-fig-0002" ref-type="fig">2</xref>c,d). The results implied that miR&#x02010;125b had an ability to inhibit cell migration and invasion in breast cancer.</p><fig fig-type="Figure" xml:lang="en" id="tca13441-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Overexpression of miR&#x02010;125b suppresses breast cancer cell migration. (<bold>a</bold>) Wound healing assay was performed in T47D after transfecting miR&#x02010;125b mimic. (<bold>b</bold>) Statistical analysis of cell migration in T47D ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001. (<bold>c</bold>) Transwell assay was performed in SKBR3 after transfecting miR&#x02010;125b mimic (<inline-graphic xlink:href="TCA-11-1613-g018.jpg" xlink:title="image"/>) NC, and (<inline-graphic xlink:href="TCA-11-1613-g019.jpg" xlink:title="image"/>) mimic. (<bold>d</bold>) Statistical analysis of cell migration and invasion in SKBR3, ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001.</p></caption><graphic id="nlm-graphic-3" xlink:href="TCA-11-1613-g002"/></fig></sec><sec id="tca13441-sec-0019"><title>miR&#x02010;125b targets MMP11 in breast cancer cells</title><p>To determine the putative miR&#x02010;125b target genes involved in the behavior of breast cancer cells, we combined the databases (miRBase and Targetscan). The data revealed that MMP11 contains a putative binding site for miR&#x02010;125b (Fig <xref rid="tca13441-fig-0003" ref-type="fig">3</xref>a). To confirm whether MMP11 is a direct target of miR&#x02010;125b, a renilla&#x02010;luciferase reporter assay was performed. We cloned the full length 3&#x02032;UTR sequence of MMP11 mRNA containing a wild&#x02010;type or mutant miR&#x02010;125b binding sequence downstream of firefly luciferase in the dual&#x02010;luciferase vector. We detected the effect of miR&#x02010;125b on luciferase activity in 293T cells. Dual&#x02010;luciferase reporter assay showed that miR&#x02010;125b mimic could inhibit the luciferase activity of MMP11 reporters (Fig <xref rid="tca13441-fig-0003" ref-type="fig">3</xref>b). Further, we found MMP11 protein levels could be reduced by miR&#x02010;125b mimic (Fig <xref rid="tca13441-fig-0003" ref-type="fig">3</xref>c). These results showed that MMP11 was a direct target of miR&#x02010;125b in breast cancer cells.</p><fig fig-type="Figure" xml:lang="en" id="tca13441-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>miR&#x02010;125b targets MMP11 in breast cancer cells. (<bold>a</bold>) Predicted binding site between miR&#x02010;125b and 3&#x02032;&#x02010;UTR of MMP11. (<bold>b</bold>) Luciferase activity in T47D (<inline-graphic xlink:href="TCA-11-1613-g020.jpg" xlink:title="image"/>) NC, and (<inline-graphic xlink:href="TCA-11-1613-g021.jpg" xlink:title="image"/>) mimic and SKBR3 (<inline-graphic xlink:href="TCA-11-1613-g022.jpg" xlink:title="image"/>) NC, and (<inline-graphic xlink:href="TCA-11-1613-g023.jpg" xlink:title="image"/>) mimic cell lines transfected with wild&#x02010;type or mutation MMP11 and mimic or NC&#x02010;miRNA. (<bold>c</bold>) MMP11 protein expression was detected in T47D and SKBR3 cell lines transfected with miR&#x02010;125b mimic or NC&#x02010;miRNA.</p></caption><graphic id="nlm-graphic-5" xlink:href="TCA-11-1613-g003"/></fig></sec><sec id="tca13441-sec-0020"><title>Restoration of MMP11 spoiled the inhibitory effects of miR&#x02010;125b on breast cancer cells</title><p>If MMP11 serves as the functional link of miR&#x02010;125b in breast cancer cells, re&#x02010;expression of MMP11 in miR&#x02010;125b overexpressed cells should be able to reverse the effects of miR&#x02010;125b. Western blot showed that MMP11 protein levels were obviously upregulated by transfecting MMP11 plasmid. Moreover, we found the upregulation effect of MMP11 plasmid could be reversed by miR&#x02010;125b mimic (Fig <xref rid="tca13441-fig-0004" ref-type="fig">4</xref>a,b). CCK&#x02010;8 and colony formation assays revealed that miR&#x02010;125b mimic abolished the promoter effects of MMP11 on cell proliferation (Fig <xref rid="tca13441-fig-0004" ref-type="fig">4</xref>c,d). The wound healing assay revealed that the facilitating effects of MMP11 on SKBR3 cell migration could be reversed by miR&#x02010;125b mimic (Fig <xref rid="tca13441-fig-0004" ref-type="fig">4</xref>e). Further, the transwell assay revealed that the promoter effects of MMP11 on T47D cell invasion and migration could also be reversed by miR&#x02010;125b mimic (Fig <xref rid="tca13441-fig-0004" ref-type="fig">4</xref>f). These findings indicate that MMP11 is a functional mediator for miR&#x02010;125b in breast cancer cells.</p><fig fig-type="Figure" xml:lang="en" id="tca13441-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Restoration of MMP11 spoiled the inhibition effects of miR&#x02010;125b on breast cancer cells. (<bold>a</bold>) MMP11 protein expression in T47D cell line transfected with MMP11 construct and/or miR&#x02010;125b mimic. (<bold>b</bold>) MMP11 protein expression in SKBR3 cell line transfected with MMP11 construct and/or miR&#x02010;125b mimic. (<bold>c</bold>) Cell proliferation was detected in T47D after transfecting MMP11 construct and/or miR&#x02010;125b mimic (<inline-graphic xlink:href="TCA-11-1613-g024.jpg" xlink:title="image"/>) MMP11, (<inline-graphic xlink:href="TCA-11-1613-g025.jpg" xlink:title="image"/>) NC, and (<inline-graphic xlink:href="TCA-11-1613-g026.jpg" xlink:title="image"/>) MMP11+mimic. (<bold>d</bold>) Colony formation numbers was detected in SKBR3 after transfecting MMP11 construct and/or miR&#x02010;125b mimic (<inline-graphic xlink:href="TCA-11-1613-g027.jpg" xlink:title="image"/>) MMP11, (<inline-graphic xlink:href="TCA-11-1613-g028.jpg" xlink:title="image"/>) NC, and (<inline-graphic xlink:href="TCA-11-1613-g029.jpg" xlink:title="image"/>) MMP11+mimic. (<bold>e</bold>) Wound healing assay was performed in SKBR3 after transfecting MMP11 construct and/or miR&#x02010;125b mimic. (<bold>f</bold>) Transwell assay was performed in T47D after transfecting MMP11 construct and/or miR&#x02010;125b mimic.</p></caption><graphic id="nlm-graphic-7" xlink:href="TCA-11-1613-g004"/></fig></sec><sec id="tca13441-sec-0021"><title>Expression level of miR&#x02010;125b and MMP11 expression in breast cancer tissues</title><p>We performed an analysis to determine miR&#x02010;125b expression in breast cancer tissues using the StarBase database. Statistical analysis of miR&#x02010;125b expression revealed that it was decreased in breast cancer tissue compared with normal breast tissue (Fig <xref rid="tca13441-fig-0005" ref-type="fig">5</xref>a). Furthermore, Kaplan&#x02010;Meier plotter database analysis showed two survival curves for the two groups defined by high and low expression of miR&#x02010;125b in patients with breast cancer, and found that miR&#x02010;125b expression level had a significant effect on overall survival of patients (Fig <xref rid="tca13441-fig-0005" ref-type="fig">5</xref>b). In addition, the expression of MMP11 between breast cancer tissue with normal breast tissue were initially analyzed by using UALCAN database (Fig <xref rid="tca13441-fig-0005" ref-type="fig">5</xref>c). Further analysis found that expression of MMP11 was significantly elevated in various individual cancer stages tissue than normal breast tissues (Fig <xref rid="tca13441-fig-0005" ref-type="fig">5</xref>d). These data were also consistent with the in vitro results.</p><fig fig-type="Figure" xml:lang="en" id="tca13441-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The expression level of miR&#x02010;125b and MMP11 expression in breast cancer tissues. (<bold>a</bold>) Low miR&#x02010;125b expression in breast cancer compared with the normal group. (<bold>b</bold>) Relationship between miR&#x02010;125b expression level and prognosis of patients with breast cancer (<inline-graphic xlink:href="TCA-11-1613-g030.jpg" xlink:title="image"/>) low, and (<inline-graphic xlink:href="TCA-11-1613-g031.jpg" xlink:title="image"/>) high. (<bold>c</bold>) High MMP11 expression in breast cancer compared with the normal group. (<bold>d</bold>) The expression of MMP11 was higher in breast cancer based on individual cancer stages than normal tissues.</p></caption><graphic id="nlm-graphic-9" xlink:href="TCA-11-1613-g005"/></fig></sec></sec><sec id="tca13441-sec-0022"><title>Discussion</title><p>The functions of some miRNAs in cancer show different characteristics: some appear as tumor suppressor genes in solid tumors, and others act as oncogenes in hematopoietic system tumors. For example, miR&#x02010;29a is involved in tumor immune escape in some solid tumors such as neuroblastoma, breast cancer, lung cancer, and prostate cancer.<xref rid="tca13441-bib-0015" ref-type="ref">15</xref> In addition, miR&#x02010;29a can lead to the development of acute myeloid leukemia by changing the differentiation of bone marrow progenitor cells.<xref rid="tca13441-bib-0016" ref-type="ref">16</xref> There are two precursors to miR&#x02010;125b: has&#x02010;miR&#x02010;125b&#x02010;1 is transcribed from chromosome 1 lq23, and its coding gene is located in an exon region; has&#x02010;miR&#x02010;125b&#x02010;2 is transcribed from chromosome 21q2, and its coding gene is located in an intron region. MiR&#x02010;125b has also very different functions in different tumors. In ovarian cancer, miR&#x02010;125b can induce cell cycle arrest and inhibit cell proliferation and clonal formation.<xref rid="tca13441-bib-0017" ref-type="ref">17</xref> In bladder cancer, miR&#x02010;125b intervening E2F3&#x02010;Cyclin A2 pathway regulates cell&#x02010;phase transitions, and inhibits bladder cancer cell activity and growth.<xref rid="tca13441-bib-0018" ref-type="ref">18</xref> miR&#x02010;125b also inhibits G1/S phase transition and cell proliferation in hepatocellular carcinoma, and has a tumor suppressor role.<xref rid="tca13441-bib-0019" ref-type="ref">19</xref> In contrast, colorectal cancer patients with high miR&#x02010;125b expression have poor prognosis.<xref rid="tca13441-bib-0020" ref-type="ref">20</xref> In nervous system tumors, miR&#x02010;125b participates in important processes in early neural differentiation.<xref rid="tca13441-bib-0021" ref-type="ref">21</xref> Downregulation of miR&#x02010;125b can also inhibit the proliferation of glioma cells and enhance trans retinoic acid&#x02010;induced apoptosis.<xref rid="tca13441-bib-0022" ref-type="ref">22</xref> In the hematopoietic system, miR&#x02010;125b may be a carcinogen. Overexpression of miR&#x02010;125b in mice can inhibit forward differentiation of bone marrow progenitor cells and cause metastatic myeloid leukemia.<xref rid="tca13441-bib-0023" ref-type="ref">23</xref> Transplantation of ectopically expressed miR&#x02010;125b fetal liver cells into mice can cause an abnormal increase of white blood cells and the occurrence of various blood diseases including leukemia, and indicates that miR&#x02010;125b is involved in the process of hematopoiesis.<xref rid="tca13441-bib-0024" ref-type="ref">24</xref> In summary, miR&#x02010;125b is a multifunctional miRNA that exerts different physiological functions through different regulatory mechanisms in different tissue systems and their tumors. The results of this study confirmed that transiently high expression miR&#x02010;125b can inhibit cell migration and proliferation in breast cancer cells, thereby demonstrating the anticancer effect of miR&#x02010;125b in breast cancer.</p><p>MMP11 was first discovered in breast cancer and has antiapoptotic functions. It can inhibit cancer cell apoptosis and promote tumor development.<sup>25</sup> There are many conflicting conclusions about the correlation between MMP&#x02010;11 and clinical features, which may be related to experimental design, pathological type, ethnic type, enrolled sample size and evaluation criteria. Due to the complexity of breast cancer development and individual differences in gene expression, MMP&#x02010;11 is likely to participate in multiple steps of breast cancer development and tumor cell invasion and metastasis. In pancreatic cancer cells, MMP11 is associated with cancer cell migration and invasion, and overexpression of MMP11 can promote the occurrence and development of pancreatic cancer. This study found that MMP11 was significantly upregulated in breast cancer tissues. In breast cancer cells, MMP11 is overexpressed, with a significant increase in cell migration and invasion. Supplementing miR&#x02010;125b can reverse the effect of MMP11 on cell migration. In summary, the inhibition of MMP11 may become an intervention method for the treatment of malignant tumors.</p><p>Our data indicated that miR&#x02010;125b expression was downregulated in breast cancer tissue and mediated cell proliferation, migration and invasion through regulating MMP11, implying that the tumor suppressive role of miR&#x02010;125b in breast cancer. Targeting MMP11/miR&#x02010;125b axis may be a treatment strategy in the future.</p></sec><sec id="tca13441-sec-0023"><title>Disclosure</title><p>The authors declare no competing financial interests.</p></sec></body><back><ref-list id="tca13441-bibl-0001" content-type="cited-references"><title>References</title><ref id="tca13441-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="tca13441-cit-0001">
+<string-name>
+<surname>Hu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Abstract 3634: A gain&#x02010;of&#x02010;function mutation in tyrosine phosphatase SHP&#x02010;2 enhances breast carcinoma malignant phenotypes</article-title>. <source xml:lang="en">Cancer Res</source>
+<year>2015</year>; <volume>75</volume> (<issue>Suppl. 15</issue>): <fpage>3634</fpage>.</mixed-citation></ref><ref id="tca13441-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="tca13441-cit-0002">
+<string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>High levels of nucleolar spindle&#x02010;associated protein and reduced levels of BRCA1 expression predict poor prognosis in triple&#x02010;negative breast cancer</article-title>. <source xml:lang="en">PLOS One</source>
+<year>2015</year>; <volume>10</volume> (<issue>10</issue>): <elocation-id>e0140572</elocation-id>.<pub-id pub-id-type="pmid">26485712</pub-id></mixed-citation></ref><ref id="tca13441-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="tca13441-cit-0003">
+<string-name>
+<surname>La Barge</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Mora&#x02010;Blanco</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Samson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Miyano</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Breast cancer beyond the age of mutation</article-title>. <source xml:lang="en">Gerontology</source>
+<year>2015</year>; <volume>62</volume> (<issue>4</issue>): <fpage>434</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">26539838</pub-id></mixed-citation></ref><ref id="tca13441-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="tca13441-cit-0004">
+<string-name>
+<surname>Fern&#x000e1;ndez&#x02010;Guinea</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>&#x000c1;lvarez&#x02010;Cofi&#x000f1;o</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Eir&#x000f3;</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Low microvascular density at the tumor center is related to the expression of metalloproteases and their inhibitors and with the occurrence of distant metastasis in breast carcinomas</article-title>. <source xml:lang="en">Int J Clin Oncol</source>
+<year>2013</year>; <volume>18</volume> (<issue>4</issue>): <fpage>629</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">22688161</pub-id></mixed-citation></ref><ref id="tca13441-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="tca13441-cit-0005">
+<string-name>
+<surname>Demers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Couillard</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e9;langer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>St&#x02010;Pierre</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>New roles for matrix metalloproteinases in metastasis</article-title>. <source xml:lang="en">Crit Rev Immunol</source>
+<year>2005</year>; <volume>25</volume> (<issue>6</issue>): <fpage>493</fpage>&#x02013;<lpage>523</lpage>.<pub-id pub-id-type="pmid">16390324</pub-id></mixed-citation></ref><ref id="tca13441-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="tca13441-cit-0006">
+<string-name>
+<surname>Basset</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bellocq</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>A novel metalloproteinase gene specifically expressed in stromal cells of breast carcinomas</article-title>. <source xml:lang="en">Nature</source>
+<year>1990</year>; <volume>348</volume> (<issue>6303</issue>): <fpage>699</fpage>&#x02013;<lpage>704</lpage>.<pub-id pub-id-type="pmid">1701851</pub-id></mixed-citation></ref><ref id="tca13441-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="tca13441-cit-0007">
+<string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Loss of function of OsDCL1 affects microRNA accumulation and causes developmental defects in rice</article-title>. <source xml:lang="en">Plant Physiol</source>
+<year>2005</year>; <volume>139</volume> (<issue>1</issue>): <fpage>296</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">16126864</pub-id></mixed-citation></ref><ref id="tca13441-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="tca13441-cit-0008">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNAs as big regulators of neural stem/progenitor cell proliferation, differentiation and migration: A potential treatment for stroke</article-title>. <source xml:lang="en">Curr Pharm des</source>
+<year>2017</year>; <volume>23</volume> (<issue>15</issue>): <fpage>2252</fpage>&#x02013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">28245761</pub-id></mixed-citation></ref><ref id="tca13441-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="tca13441-cit-0009">
+<string-name>
+<surname>Yongyu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lewei</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jian</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yuqin</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>MicroRNA&#x02010;18a targets IRF2 and CBX7 to promote cell proliferation in hepatocellular carcinoma</article-title>. <source xml:lang="en">Oncol Res</source>
+<year>2018</year>; <volume>26</volume>: <fpage>1327</fpage>&#x02013;<lpage>34</lpage>.</mixed-citation></ref><ref id="tca13441-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="tca13441-cit-0010">
+<string-name>
+<surname>Zuberi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mir</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gandhi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ray</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Saxena</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Utility of serum miR&#x02010;125b as a diagnostic and prognostic indicator and its alliance with a panel of tumor suppressor genes in epithelial ovarian cancer</article-title>. <source xml:lang="en">PLOS One</source>
+<year>2016</year>; <volume>11</volume> (<issue>4</issue>): <elocation-id>e0153902</elocation-id>.<pub-id pub-id-type="pmid">27092777</pub-id></mixed-citation></ref><ref id="tca13441-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="tca13441-cit-0011">
+<string-name>
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNA&#x02010;125b promotes tumor metastasis through targeting tumor protein 53&#x02010;induced nuclear protein 1 in patients with non&#x02010;small&#x02010;cell lung cancer</article-title>. <source xml:lang="en">Cancer Cell Int</source>
+<year>2015</year>; <volume>15</volume> (<issue>1</issue>): <fpage>84</fpage>.<pub-id pub-id-type="pmid">26388699</pub-id></mixed-citation></ref><ref id="tca13441-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="tca13441-cit-0012">
+<string-name>
+<surname>Nie</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>YC</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MiR&#x02010;125b regulates the proliferation and metastasis of triple negative breast cancer cells via the Wnt/beta&#x02010;catenin pathway and EMT</article-title>. <source xml:lang="en">Biosci Biotechnol Biochem</source>
+<year>2019</year>; <volume>83</volume> (<issue>6</issue>): <fpage>1062</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">30950326</pub-id></mixed-citation></ref><ref id="tca13441-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="tca13441-cit-0013">
+<string-name>
+<surname>Zhou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNA&#x02010;125b confers the resistance of breast cancer cells to paclitaxel through suppression of pro&#x02010;apoptotic Bcl&#x02010;2 antagonist killer 1 (Bak1) expression</article-title>. <source xml:lang="en">J Biol Chem</source>
+<year>2010</year>; <volume>285</volume>: <fpage>21496</fpage>&#x02013;<lpage>507</lpage>.<pub-id pub-id-type="pmid">20460378</pub-id></mixed-citation></ref><ref id="tca13441-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="tca13441-cit-0014">
+<string-name>
+<surname>Tang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Xi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>MicroRNA&#x02010;125b induces metastasis by targeting STARD13 in MCF&#x02010;7 and MDA&#x02010;MB&#x02010;231 breast cancer cells</article-title>. <source xml:lang="en">PLOS One</source>
+<year>2012</year>; <volume>7</volume>: <elocation-id>e35435</elocation-id>.<pub-id pub-id-type="pmid">22693547</pub-id></mixed-citation></ref><ref id="tca13441-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="tca13441-cit-0015">
+<string-name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>H&#x02010;F</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>
+<given-names>NKV</given-names>
+</string-name>. <article-title>MicroRNA miR&#x02010;29 modulates expression of Immunoinhibitory molecule B7&#x02010;H3: Potential implications for immune based therapy of human solid tumors</article-title>. <source xml:lang="en">Cancer Res</source>
+<year>2009</year>; <volume>69</volume> (<issue>15</issue>): <fpage>6275</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">19584290</pub-id></mixed-citation></ref><ref id="tca13441-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="tca13441-cit-0016">
+<string-name>
+<surname>Han</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Bhagat</surname>
+<given-names>G</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNA&#x02010;29a induces aberrant self&#x02010;renewal capacity in hematopoietic progenitors, biased myeloid development, and acute myeloid leukemia</article-title>. <source xml:lang="en">J Exp Med</source>
+<year>2010</year>; <volume>207</volume> (<issue>3</issue>): <fpage>475</fpage>&#x02013;<lpage>89</lpage>.<pub-id pub-id-type="pmid">20212066</pub-id></mixed-citation></ref><ref id="tca13441-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="tca13441-cit-0017">
+<string-name>
+<surname>Guan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>MiR&#x02010;125b targets BCL3 and suppresses ovarian cancer proliferation</article-title>. <source xml:lang="en">Int J Cancer</source>
+<year>2011</year>; <volume>128</volume> (<issue>10</issue>): <fpage>2274</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">20658525</pub-id></mixed-citation></ref><ref id="tca13441-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="tca13441-cit-0018">
+<string-name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>Q</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNA&#x02010;125b suppresses the development of bladder cancer by targeting E2F3</article-title>. <source xml:lang="en">Int J Cancer</source>
+<year>2011</year>; <volume>128</volume> (<issue>8</issue>): <fpage>1758</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">20549700</pub-id></mixed-citation></ref><ref id="tca13441-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="tca13441-cit-0019">
+<string-name>
+<surname>Zhou</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Shang</surname>
+<given-names>LR</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNA&#x02010;125b and microRNA&#x02010;100 suppress metastasis of hepatocellular carcinoma by disrupting the formation of vessels that encapsulated tumour clusters: miR&#x02010;125b and miR&#x02010;100 abrogate VETC&#x02010;dependent metastasis</article-title>. <source xml:lang="en">J Pathol</source>
+<year>2016</year>; <volume>240</volume> (<issue>4</issue>): <fpage>450</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">27577856</pub-id></mixed-citation></ref><ref id="tca13441-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="tca13441-cit-0020">
+<string-name>
+<surname>Nishida</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yokobori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mimori</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNA miR&#x02010;125b is a prognostic marker in human colorectal cancer</article-title>. <source xml:lang="en">Int J Oncol</source>
+<year>2011</year>; <volume>38</volume> (<issue>5</issue>): <fpage>1437</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">21399871</pub-id></mixed-citation></ref><ref id="tca13441-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="tca13441-cit-0021">
+<string-name>
+<surname>Le</surname>
+<given-names>MTN</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>B</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>MicroRNA&#x02010;125b promotes neuronal differentiation in human cells by repressing multiple targets</article-title>. <source xml:lang="en">Mol Cell Biol</source>
+<year>2009</year>; <volume>29</volume> (<issue>19</issue>): <fpage>5290</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">19635812</pub-id></mixed-citation></ref><ref id="tca13441-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="tca13441-cit-0022">
+<string-name>
+<surname>Chaudhuri</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>So</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Mehta</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Oncomir miR&#x02010;125b regulates hematopoiesis by targeting the gene Lin28A</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<year>2012</year>; <volume>109</volume> (<issue>11</issue>): <fpage>4233</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">22366319</pub-id></mixed-citation></ref><ref id="tca13441-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="tca13441-cit-0023">
+<string-name>
+<surname>Bousquet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lodish</surname>
+<given-names>HF</given-names>
+</string-name>. <article-title>MicroRNA miR&#x02010;125b causes leukemia</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<year>2010</year>; <volume>107</volume> (<issue>50</issue>): <fpage>21558</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">21118985</pub-id></mixed-citation></ref><ref id="tca13441-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="tca13441-cit-0024">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Insights into the distinct roles of MMP&#x02010;11 in tumor biology and future therapeutics (review)</article-title>. <source xml:lang="en">Int J Oncol</source>
+<year>2016</year>; <volume>48</volume> (<issue>5</issue>): <fpage>1783</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">26892540</pub-id></mixed-citation></ref></ref-list></back></article>

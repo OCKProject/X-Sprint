@@ -1,0 +1,874 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Evol Appl</journal-id><journal-id journal-id-type="iso-abbrev">Evol Appl</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1752-4571</journal-id><journal-id journal-id-type="publisher-id">EVA</journal-id><journal-title-group><journal-title>Evolutionary Applications</journal-title></journal-title-group><issn pub-type="epub">1752-4571</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7232771</article-id><article-id pub-id-type="doi">10.1111/eva.12914</article-id><article-id pub-id-type="publisher-id">EVA12914</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Spatial genetic structure in a crustacean herbivore highlights the need for local considerations in Baltic Sea biodiversity management</article-title><alt-title alt-title-type="left-running-head">DE WIT et al.</alt-title></title-group><contrib-group><contrib id="eva12914-cr-0001" contrib-type="author" corresp="yes"><name><surname>De Wit</surname><given-names>Pierre</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4709-3438</contrib-id><xref ref-type="aff" rid="eva12914-aff-0001">
+<sup>1</sup>
+</xref><address><email>pierre.de_wit@marine.gu.se</email></address></contrib><contrib id="eva12914-cr-0002" contrib-type="author"><name><surname>Jonsson</surname><given-names>Per R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1793-5473</contrib-id><xref ref-type="aff" rid="eva12914-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="eva12914-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="eva12914-cr-0003" contrib-type="author"><name><surname>Pereyra</surname><given-names>Ricardo T.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9635-5433</contrib-id><xref ref-type="aff" rid="eva12914-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="eva12914-cr-0004" contrib-type="author"><name><surname>Panova</surname><given-names>Marina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4147-6473</contrib-id><xref ref-type="aff" rid="eva12914-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="eva12914-cr-0005" contrib-type="author"><name><surname>Andr&#x000e9;</surname><given-names>Carl</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4404-7292</contrib-id><xref ref-type="aff" rid="eva12914-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="eva12914-cr-0006" contrib-type="author"><name><surname>Johannesson</surname><given-names>Kerstin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0176-7986</contrib-id><xref ref-type="aff" rid="eva12914-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="eva12914-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Marine Sciences</named-content>
+<institution>University of Gothenburg</institution>
+<city>Tj&#x000e4;rn&#x000f6;</city>
+<country country="SE">Sweden</country>
+</aff><aff id="eva12914-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Environmental and Marine Biology</named-content>
+<institution>&#x000c5;bo Akademi University</institution>
+<city>Turku</city>
+<country country="FI">Finland</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Pierre De Wit, Department of Marine Sciences, University of Gothenburg, Tj&#x000e4;rn&#x000f6;, Sweden.<break/>
+Email: <email>pierre.de_wit@marine.gu.se</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>2</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2020</year></pub-date><volume>13</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/eva.v13.5</issue-id><fpage>974</fpage><lpage>990</lpage><history><date date-type="received"><day>01</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>19</day><month>12</month><year>2019</year></date><date date-type="accepted"><day>20</day><month>12</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Evolutionary Applications</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:EVA-13-974.pdf"/><abstract id="eva12914-abs-0001"><title>Abstract</title><p>Incorporating species' eco&#x02010;evolutionary responses to human&#x02010;caused disturbances remains a challenge in marine management efforts. A prerequisite is knowledge of geographic structure and scale of genetic diversity and connectivity&#x02014;the so&#x02010;called seascape genetic patterns. The Baltic Sea is an excellent model system for studies linking seascape genetics with effects of anthropogenic stress. However, seascape genetic patterns in this area are only described for a few species and are completely unknown for invertebrate herbivores, which constitute a critical part of the ecosystem. This information is crucial for sustainable management, particularly under future scenarios of rapid environmental change. Here, we investigate the population genetic structure among 31 locations throughout the Baltic Sea, of which 45% were located in marine protected areas, in one of the most important herbivores of this region, the isopod crustacean <italic>Idotea balthica</italic>, using an array of 33,774 genome&#x02010;wide SNP markers derived from 2b&#x02010;RAD sequencing. In addition, we generate a biophysical connectivity matrix for <italic>I. balthica</italic> from a combination of oceanographic current models and estimated life history traits. We find population structure on scales of hundreds of kilometers across the Baltic Sea, where genomic patterns in most cases closely match biophysical connectivity, indicating passive transport with oceanographic currents as an important mean of dispersal in this species. We also find a reduced genetic diversity in terms of heterozygosity along the main salinity gradient of the Baltic Sea, suggesting periods of low population size. Our results provide crucial information for the management of a key ecosystem species under expected changes in temperature and salinity following global climate change in a marine coastal area.</p></abstract><kwd-group><kwd id="eva12914-kwd-0001">Baltic Sea</kwd><kwd id="eva12914-kwd-0002">connectivity</kwd><kwd id="eva12914-kwd-0003"><italic>Idotea balthica</italic></kwd><kwd id="eva12914-kwd-0004">marine protected areas</kwd><kwd id="eva12914-kwd-0005">seascape genetics</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>EU and the Swedish Research Council FORMAS</funding-source></award-group></funding-group><counts><fig-count count="8"/><table-count count="1"/><page-count count="17"/><word-count count="12261"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.1 mode:remove_FC converted:18.05.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="eva12914-cit-1001">
+<string-name>
+<surname>De Wit</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Pereyra</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Panova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Johannesson</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Spatial genetic structure in a crustacean herbivore highlights the need for local considerations in Baltic Sea biodiversity management</article-title>. <source xml:lang="en">Evol Appl</source>. <year>2020</year>;<volume>13</volume>:<fpage>974</fpage>&#x02013;<lpage>990</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12914</pub-id>
+</mixed-citation>
+</p></notes></front><body id="eva12914-body-0001"><sec id="eva12914-sec-0001"><label>1</label><title>INTRODUCTION</title><p>The capacity of a species to disperse across the land/seascape is one of the most important traits determining its resilience to environmental change (Travis et al., <xref rid="eva12914-bib-0069" ref-type="ref">2013</xref>). Dispersal counteracts population fragmentation, which tends to render more isolated populations vulnerable to local stressors such as over&#x02010;exploitation or habitat degradation (Doerr et al. <xref rid="eva12914-bib-0013" ref-type="ref">2011</xref>). EDConnectivity, dispersal behaviour and conservation under climate change: A response to Hodgson. In addition, effects of large&#x02010;scale gradual changes such as climate change are less profound in species with high dispersal capabilities, as they are better able to shift their distribution ranges through migration (Doerr et al., <xref rid="eva12914-bib-0013" ref-type="ref">2011</xref>). Species with poor dispersal abilities living in areas with physical barriers to dispersal are particularly vulnerable, so knowledge about where these barriers are located, and in which areas isolated populations are found, is two pieces of information critical to management efforts worldwide (Selkoe et al., <xref rid="eva12914-bib-0064" ref-type="ref">2016</xref>). In the marine environment, the realized gene flow resulting from various types of larval/propagule dispersal, as well as juvenile and adult movements, has for long remained unknown for a majority of species. The apparent lack of obvious dispersal barriers in the oceans led earlier biologists to conclude that marine populations show little fragmentation. However, a multitude of studies have later shown that many marine species are spatially structured on smaller scales than previously thought (reviewed in Selkoe et al., <xref rid="eva12914-bib-0064" ref-type="ref">2016</xref>). In order to better understand the location of dispersal barriers and their consequences, seascape genetic studies are performed by connecting biophysical dispersal models, ecology, and population genetic data (Galindo, Olson, &#x00026; Palumbi, <xref rid="eva12914-bib-0019" ref-type="ref">2006</xref>). This information is highly relevant for managers in conservation of species, for example, in the establishment and/or evaluation of networks of marine protected areas (MPAs) (Underwood, Smith, Van, &#x00026; Gilmour, <xref rid="eva12914-bib-0070" ref-type="ref">2009</xref>). Further, future species distributions will shift as a consequence of climate change, with important management implications. For example, Loarie et al. (<xref rid="eva12914-bib-0039" ref-type="ref">2009</xref>) showed that due to climate change, on a global scale only 8% of protected areas designed today would still contain the habitat they were designed to protect in 100&#x000a0;years from now. In coastal areas, one strategy for mitigation would be to ensure that geographic areas likely to be strongly impacted by the changing environment are well connected to other suitable areas through dispersal corridors (Jonsson, Kotta, &#x00026; Andersson, <xref rid="eva12914-bib-0027" ref-type="ref">2018</xref>), where one key feature would be protection of habitat&#x02010;forming species.</p><p>The Baltic Sea (Figure <xref rid="eva12914-fig-0001" ref-type="fig">1</xref>) is an ideal area to study the interaction between biophysical connectivity, eco&#x02010;evolutionary dynamics, and population genetic structure. This is primarily because oceanographic patterns are relatively well described in the Baltic Sea (Hordoir et al., <xref rid="eva12914-bib-0021" ref-type="ref">2019</xref>). The Baltic Sea is a multibasin marginal sea, with rather strong oceanographic barriers and sharp environmental gradients separating the different basins (Lepp&#x000e4;ranta &#x00026; Myrberg, <xref rid="eva12914-bib-0037" ref-type="ref">2009</xref>). There is also limited oceanographic connectivity between the Baltic and the adjacent North Sea (Moksnes, Corell, Tryman, Hordoir, &#x00026; Jonsson, <xref rid="eva12914-bib-0047" ref-type="ref">2014</xref>), effectively isolating Baltic populations of marine organisms and reducing gene flow among coastal populations of marine species. Furthermore, the connection to the North Sea opened recently, about 8,000&#x000a0;years ago (Ignatius, Axberg, Niemist&#x000f6;, &#x00026; Winterhalter, <xref rid="eva12914-bib-0022" ref-type="ref">1981</xref>), and while the majority of marine species in the Atlantic failed to colonize it completely, others have reached differently far into the Baltic Sea and along its strong salinity gradient (Ojaveer et al., <xref rid="eva12914-bib-0050" ref-type="ref">2010</xref>). These distributional differences may be due to, for example, differences in stress tolerance (Weinberger, Buchholz, Karez, &#x00026; Wahl, <xref rid="eva12914-bib-0073" ref-type="ref">2008</xref>; Wrange et al., <xref rid="eva12914-bib-0077" ref-type="ref">2014</xref>), dispersal (Sj&#x000f6;qvist, Godhe, Jonsson, Sundqvist, &#x00026; Kremp, <xref rid="eva12914-bib-0065" ref-type="ref">2015</xref>; Urho, <xref rid="eva12914-bib-0071" ref-type="ref">1999</xref>), or reproductive abilities across species (Jaspers, M&#x000f8;ller, &#x00026; Ki&#x000f8;rboe, <xref rid="eva12914-bib-0024" ref-type="ref">2011</xref>). In addition, what seems common to many of these marine species is a strong genetic divergence between the North Sea and Baltic Sea populations, with a sharp boundary at the North Sea&#x02013;Baltic Sea environmental transition zone, which is located just southeast of the Danish straits (Johannesson &#x00026; Andr&#x000e9;, <xref rid="eva12914-bib-0025" ref-type="ref">2006</xref>). There are multiple potential reasons for the maintenance of this boundary, including local adaptation to the steep salinity cline in the area in combination with a reduced connectivity into the Baltic Sea by current patterns (Le Moan, Jim&#x000e9;nez&#x02010;Mena, Bekkevold, &#x00026; Hemmer&#x02010;Hansen, <xref rid="eva12914-bib-0034" ref-type="ref">2019a</xref>). Also, reproductive incompatibilities arisen from historical geographic separation, in some cases before the opening of the Baltic Sea, could also act to maintain population separation in the face of secondary contact (Bierne, Welch, Loire, Bonhomme, &#x00026; David, <xref rid="eva12914-bib-0005" ref-type="ref">2011</xref>; Le Moan, Gaggiotti, Henriques, &#x00026; Martinez, <xref rid="eva12914-bib-0033" ref-type="ref">2019b</xref>; Le Moan, Jim&#x000e9;nez&#x02010;Mena, et al., <xref rid="eva12914-bib-0034" ref-type="ref">2019a</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Map of the study area (the Baltic Sea), with collecting locations marked with dots colored by region</p></caption><graphic id="nlm-graphic-1" xlink:href="EVA-13-974-g001"/></fig><p>The Baltic Sea has recently been proposed as a reference and model system (a "time&#x02010;machine") for other coastal areas as it is ahead of other areas with respect to issues such as impacts of climate change, habitat loss, eutrophication, pollution, and over&#x02010;fishing, as well as being at the forefront when it comes to both monitoring, scientific investigations, and management measures (Reusch et al., <xref rid="eva12914-bib-0060" ref-type="ref">2018</xref>). The Baltic Sea is one of the fastest&#x02010;warming regions in the world (Reusch et al., <xref rid="eva12914-bib-0060" ref-type="ref">2018</xref>), which will be accompanied by additional increased precipitation resulting in a strong reduction in salinity (Meier, Hordoir, et al., <xref rid="eva12914-bib-0044" ref-type="ref">2012a</xref>). This is expected to lead to substantial range shifts of species with loss of marine species, expansion of freshwater species, and continued rapid introduction of new species (Ojaveer &#x00026; Kotta, <xref rid="eva12914-bib-0051" ref-type="ref">2015</xref>). For management of individual species, knowledge of dispersal barriers and population fragmentation is critical to improve measures. One major concern is whether northern Baltic Sea populations possess dispersal capabilities and adaptability to higher temperatures, or to salinity reductions and shift their ranges to the south to escape extinction (Johannesson, Smolarz, Grahn, &#x00026; Andre, <xref rid="eva12914-bib-0026" ref-type="ref">2011</xref>; Jonsson et al., <xref rid="eva12914-bib-0027" ref-type="ref">2018</xref>).</p><p>Seascape genetic studies are scarce in the Baltic Sea. The studies undertaken to date focus mainly on commercially caught fish species (&#x000d6;stman, Olsson, Dannewitz, Palm, &#x00026; Florin, <xref rid="eva12914-bib-0054" ref-type="ref">2017</xref>; Wennerstr&#x000f6;m, Jansson, &#x00026; Laikre, <xref rid="eva12914-bib-0074" ref-type="ref">2017</xref>), which show highly species&#x02010;specific patterns. Some fish, such as perch and herring, are clearly structured geographically (Lamichhaney et al., <xref rid="eva12914-bib-0031" ref-type="ref">2012</xref>; Olsson, Mo, Florin, Aho, &#x00026; Ryman, <xref rid="eva12914-bib-0053" ref-type="ref">2011</xref>; Teacher, Andr&#x000e9;, Jonsson, &#x00026; Meril&#x000e4;, <xref rid="eva12914-bib-0067" ref-type="ref">2013</xref>), as are species with distinct spawning areas such as cod and salmon (Barth et al., <xref rid="eva12914-bib-0002" ref-type="ref">2019</xref>; Berg et al., <xref rid="eva12914-bib-0004" ref-type="ref">2015</xref>; Po&#x00107;wierz&#x02010;Kotus et al., <xref rid="eva12914-bib-0057" ref-type="ref">2015</xref>). In addition, a few studies using a restricted set of genetic markers on the brown algal habitat&#x02010;founding species <italic>Fucus vesiculosus</italic> and <italic>Fucus radicans</italic> (Ardehed et al., <xref rid="eva12914-bib-0001" ref-type="ref">2016</xref>; Pereyra et al., <xref rid="eva12914-bib-0055" ref-type="ref">2013</xref>) found very distinct population structure patterns. However, in different species of flatfish this does not seem to be the case (Le Moan, Gaggiotti, et al., <xref rid="eva12914-bib-0033" ref-type="ref">2019b</xref>; Nielsen, Nielsen, Meldrup, &#x00026; Hansen, <xref rid="eva12914-bib-0048" ref-type="ref">2004</xref>), highlighting that population genetic patterns often are species&#x02010;specific and depend on traits such as dispersal potential and population sizes.</p><p>One missing key piece of the puzzle of seascape genetics in the Baltic Sea is the mesograzer herbivore guild&#x02014;small, mostly crustacean grazers, which use macroalgae for food and shelter and in turn provide an important food source for fish. Three species of isopods of the genus <italic>Idotea</italic> are arguably the most important herbivores in the depauperate Baltic Sea ecosystem (Leidenberger, H&#x000e5;rding, &#x00026; Jonsson, <xref rid="eva12914-bib-0036" ref-type="ref">2012</xref>), the most common one being <italic>Idotea balthica</italic>. They are generalist grazers on different algae and sea grasses, but also have the uncommon ability to survive and grow solely on a diet of brown algae of the genus <italic>Fucus</italic> (Bell &#x00026; Sotka, <xref rid="eva12914-bib-0003" ref-type="ref">2012</xref>). Indeed, in some areas in the Baltic, densities of <italic>I. balthica</italic> can rise to astonishing numbers (more than 80 individuals/100&#x000a0;g wet weight of <italic>Fucus</italic>) and their grazing can severely decimate <italic>Fucus</italic> in a local area (Engkvist, Malm, &#x00026; Tobiasson, <xref rid="eva12914-bib-0014" ref-type="ref">2000</xref>). While these invertebrates thus form an important ecological function, no previous studies have examined population genetic patterns or dispersal potentials of these species in the Baltic Sea. <italic>Idotea</italic> species brood their young and have no pelagic larval dispersal phase, which would largely prevent dispersal. On the other hand, adults are strong swimmers, and in addition, they have the potential to raft long distances and cross open&#x02010;sea barriers attached to free&#x02010;floating algae (Rothausler, Corell, &#x00026; Jormalainen, <xref rid="eva12914-bib-0061" ref-type="ref">2015</xref>; Thiel &#x00026; Gutow, <xref rid="eva12914-bib-0068" ref-type="ref">2005</xref>), which might counteract the lack of larval dispersal.</p><p>To investigate the dispersal potential of mesograzers in the Baltic Sea, we here use a seascape genetics approach applied on <italic>I. balthica</italic>. Our objectives are to describe the population genetic structure and identify barriers to dispersal in the Baltic Sea region. We also aim to locate hotspots of genetic diversity, which could be considered to be of higher protective value, as well as isolated areas of low diversity and low connectivity which might be at higher risk of local extinction. In order to achieve these goals, we combine biophysical transport models and population genomic data of high spatial resolution and test for concordance between genetic and biophysical model data. If patterns are concordant, it will be possible to extrapolate genetic patterns geographically in order to generate maps that could be used in management efforts. Thus, the information produced here provides important input for future considerations in the Baltic Sea MPA network.</p><p>We collected isopods from outside of the entrance of the Baltic Sea to the innermost areas of the species' distribution range (the Bothnian Sea and the Gulf of Finland), with almost half of the sites being MPA sites. Using 2b&#x02010;RAD sequencing (Wang, Meyer, McKay, &#x00026; Matz, <xref rid="eva12914-bib-0072" ref-type="ref">2012</xref>), we identified approximately 35,000 SNP markers randomly distributed across the genome, which we used to estimate population differentiation, barriers to dispersal, and areas of high and low genetic diversity. We also estimated a connectivity matrix using a biophysical model based on oceanographic circulation patterns combined with hypothesized dispersal traits of <italic>I. balthica</italic>, which we compared to the population genetic structure indicated by the genomic data. We hypothesized that the lack of larval dispersal in this species has resulted in strong population fragmentation along the Baltic Sea coast and that the population genetic structure follows an isolation&#x02010;by&#x02010;distance pattern where oceanographic connectivity largely explains the genetic patterns. We explicitly compared genetic diversity within and outside of HELCOM MPA sites. According to international conventions, placement of MPA sites should take genetic diversity into account (e.g., EU Framework Directive 2008/56/EC). If the current marine MPA network within the study area has been optimally designed in this respect, we would expect samples from MPAs to contain higher genetic diversity than non&#x02010;MPA ones. Further, we hypothesize that the <italic>I. balthica</italic> population in the Baltic Sea has a reduced genetic diversity compared to outside locations, due to periodically low population sizes either before, during, or after the colonization of the Baltic, as has been observed in other species (Johannesson &#x00026; Andr&#x000e9;, <xref rid="eva12914-bib-0025" ref-type="ref">2006</xref>).</p></sec><sec sec-type="materials-and-methods" id="eva12914-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="eva12914-sec-0003"><label>2.1</label><title>Field collection</title><p>Individuals of <italic>Idotea balthica</italic> were collected from 31 locations in the Baltic Sea (including Kattegat/Skagerrak) by snorkeling and picking isopods from <italic>Fucus</italic> from August 8 to October 2, 2014 (except/W&#x02010;1, which was sampled on May 15, 2015), with 14 locations being within HELCOM MPAs (Table <xref rid="eva12914-tbl-0001" ref-type="table">1</xref>). From hereon, a group of isopod individuals collected at one specific sampling location and time will be referred to as a <italic>sample</italic>. Animals were decapitated and stored in 95% ethanol at &#x02212;20&#x000b0;C. From most locations, DNA from 20 individuals was extracted, four of which twice for technical replication, using a Qiagen Blood &#x00026; Tissue kit and following the standard protocol, with the addition of RNAse during the last 30&#x000a0;min of the tissue lysis step in order to avoid RNA contamination. DNA quantity was measured using a QuBit dsDNA BR assay, and quality was assessed through gel electrophoresis.</p><table-wrap id="eva12914-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Collecting location information. Broad&#x02010;scale geographic regions are color&#x02010;coded as follows: Green&#x02014;Western Baltic Sea (Skagerrak/Kattegatt/Danish Straits area) (W); Blue&#x02014;Swedish Baltic Sea proper (SBA); Purple&#x02014;Swedish Bothnian Sea (SBO); Red&#x02014;Finnish Bothnian Sea (including the Archipelago Sea) (FBO); Black&#x02014;Gulf of Finland and Estonia (GFE). Color codings are used consistently throughout the manuscript. Summer and winter values for temperature and salinity are averages 1995&#x02013;2004 for June&#x02013;August and December&#x02013;February, respectively</p></caption><graphic id="nlm-graphic-3" xlink:href="EVA-13-974-g009"/><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="eva12914-sec-0004"><label>2.2</label><title>Genotyping</title><p>2b&#x02010;RAD libraries (Wang et al., <xref rid="eva12914-bib-0072" ref-type="ref">2012</xref>) were prepared from the DNA using a modified version of the laboratory protocol developed by Mikhail Matz, available at: <ext-link ext-link-type="uri" xlink:href="https://github.com/DeWitP/BONUS_BAMBI_IDOTEA">https://github.com/DeWitP/BONUS_BAMBI_IDOTEA</ext-link>. In brief, 100&#x02013;200&#x000a0;ng of DNA template was fragmented using the type 2b endonuclease enzyme BcgI, after which adapters were ligated to the ends of the excised 36&#x02010;bp fragments. Fragments were then amplified with barcoded adapters, after which they were pooled equimolarly into 24&#x02010;sample population pools (20 individuals&#x000a0;+&#x000a0;4 technical replicates). All pools were sequenced in an Illumina HiSeq 2,500 machine, 50bp single&#x02010;end, at the Swedish National Genomics Infrastructure's SNP &#x00026; SEQ platform at Uppsala University.</p><p>All bioinformatic analyses were run on the University of Gothenburg computer cluster &#x0201c;Albiorix&#x0201d; (<ext-link ext-link-type="uri" xlink:href="http://albiorix.bioenv.gu.se/">http://albiorix.bioenv.gu.se/</ext-link>). All commands used in the analyses can be found here: <ext-link ext-link-type="uri" xlink:href="https://github.com/DeWitP/BONUS_BAMBI_IDOTEA">https://github.com/DeWitP/BONUS_BAMBI_IDOTEA</ext-link>. An unpublished draft genome assembly for <italic>I. balthica</italic> was used as a reference for mapping the 2b&#x02010;RAD data, using bowtie2 (Langmead &#x00026; Salzberg, <xref rid="eva12914-bib-0032" ref-type="ref">2012</xref>) (information for the genome project can be found at <ext-link ext-link-type="uri" xlink:href="https://github.com/The-Bioinformatics-Group/Idotea_genome_project">https://github.com/The-Bioinformatics-Group/Idotea_genome_project</ext-link>). The standard GATK pipeline (McKenna et al., <xref rid="eva12914-bib-0041" ref-type="ref">2010</xref>) was followed for SNP calling (using the UnifiedGenotyper), including InDel realignment, quality score recalibration (BQSR), and variant score quality recalibration (VQSR), using sites identically genotyped across all technical replicates as a &#x0201c;True&#x0201d; training set for the machine learning algorithm. Poorly genotyped individuals and SNP sites genotyped at&#x000a0;&#x0003c;&#x000a0;80% of all individuals were filtered out, as well as highly (&#x0003e;75%) heterozygous sites. The data set was pruned in order to keep only one SNP site for each RAD fragment. Finally, technical replicates examined for concordance in genotype estimates were discarded from further analysis.</p></sec><sec id="eva12914-sec-0005"><label>2.3</label><title>Among&#x02010;sample summary statistics and differentiation</title><p>Mean pairwise <italic>F</italic>
+<sub>ST</sub>, as well as sample allele frequency differentiation p&#x02010;values using Fisher's exact probability test, was calculated for all loci combined for all sample pairs using GENEPOP (Raymond &#x00026; Rousset, <xref rid="eva12914-bib-0059" ref-type="ref">1995</xref>; Rousset, <xref rid="eva12914-bib-0062" ref-type="ref">2008</xref>) (Option 3, &#x0201c;Genic differentiation for all pairs of populations,&#x0201d; with default Markov chain parameters). This method computes sample allele frequencies and seeks to reject the null hypothesis that alleles in both samples are drawn from the same distribution. Pairwise <italic>F</italic>
+<sub>ST</sub> values were transformed using a metric multidimensional scaling (MDS) approach, which summarizes the genetic distances in a multidimensional plane with as few dimensions as possible, after which the first two dimensions were plotted using R. Genetic diversity indices (<italic>F</italic>
+<sub>IS</sub> and expected heterozygosity <italic>H</italic>
+<sub>E</sub>) were calculated using Arlequin v.3.5.2.2 (Excoffier &#x00026; Lischer, <xref rid="eva12914-bib-0016" ref-type="ref">2010</xref>). Mean expected heterozygosity for each sample as a response variable depending on location&#x02010;specific environmental factors (summer salinity, winter salinity, summer temperature, winter temperature, MPA status, and distance from the North Sea following the coastline (see Table <xref rid="eva12914-tbl-0001" ref-type="table">1</xref>)) were modeled using multiple regression in R, after which the significance of each explanatory variable was tested using ANOVA. To do this, environmental data for the top 6&#x000a0;m were extracted from the Rossby Centre Oceanographic circulation model (Meier, D&#x000f6;scher, &#x00026; Fax&#x000e9;n, <xref rid="eva12914-bib-0043" ref-type="ref">2003</xref>) and averaged across 1995&#x02013;2004 for all locations except for W&#x02010;1, which was outside the domain of the model. For the location W&#x02010;1, empirical data from the ICES database (ices.dk) for depths&#x000a0;&#x02264;&#x000a0;5&#x000a0;m were averaged for the years 1995&#x02013;2004 for the nearest locations present in the database. Summer and winter values were averages for June&#x02013;August and December to February, respectively. Summer and winter salinity were found to be strongly correlated, and thus, only summer salinity was used as a factor. For all other factors, variance inflation factors were&#x000a0;&#x0003c;&#x000a0;3, and thus, they were kept in the model.</p></sec><sec id="eva12914-sec-0006"><label>2.4</label><title>Principal components analysis</title><p>An identity&#x02010;by&#x02010;state (IBS) distance (1&#x02014;IBS) matrix was calculated on an individual basis from the full 33,774 SNP dataset, using plink 1.9 (Purcell et al., <xref rid="eva12914-bib-0058" ref-type="ref">2007</xref>). A Canonical Analysis of Principal coordinates (CAP) was performed using the Vegan R package, assigning multidimensional coordinates to each isopod individual. This method is similar to a PCA or an MDS, but it rotates the eigenvector axes in such a way as to maximize the among&#x02010;sample differences. Also, a test of the significance of sample as a factor was tested through an ANCOVA within the Adonis R package.</p><p>To identify loci potentially affected by natural selection, a global <italic>F</italic>
+<sub>ST</sub> outlier analysis was performed using two methods, Bayescan v 2.1 (Foll &#x00026; Gaggiotti, <xref rid="eva12914-bib-0017" ref-type="ref">2008</xref>), using a cutoff value of an FDR&#x02010;corrected p&#x02010;value of 10<sup>&#x02013;4</sup> to determine significance, and OutFLANK (Whitlock &#x00026; Lotterhos, <xref rid="eva12914-bib-0075" ref-type="ref">2015</xref>), which is more stringent than BayeScan in outlier calling, and thus minimizes false positives. The output from the two methods was then examined for overlap. IBS matrices and CAP analyses were calculated separately for the shared outliers and nonoutliers, in order to determine whether outliers had disproportionate or distortive effects on the genetic structure analyses. As outliers and nonoutliers showed similar patterns, outliers were kept in downstream analyses.</p></sec><sec id="eva12914-sec-0007"><label>2.5</label><title>Geographically explicit population inference</title><p>Genotype likelihoods for all SNP sites were extracted from the vcf files using bcftools, which were input to NGSadmix (Skotte, Sand Korneliussen, &#x00026; Albrechtsen, <xref rid="eva12914-bib-0066" ref-type="ref">2013</xref>) for population cluster analysis. NGSadmix uses a probabilistic framework to infer ancestry. <italic>K</italic> of 2&#x02013;32 genetic clusters were evaluated, with 10 replicates of each. The output q&#x02010;matrices of NGSadmix were combined for each <italic>K</italic> and plotted as barplots using CLUMPAK online (<ext-link ext-link-type="uri" xlink:href="http://clumpak.tau.ac.il/index.html">http://clumpak.tau.ac.il/index.html</ext-link>). Cross&#x02010;validation scores were examined for each <italic>K</italic> to infer the most probable number of population clusters.</p><p>The software &#x0201c;conStruct&#x0201d; (Bradburd, Coop, &#x00026; Ralph, <xref rid="eva12914-bib-0007" ref-type="ref">2018</xref>) was used to generate pie charts of admixture proportions at <italic>K</italic>&#x000a0;=&#x000a0;3 (given by the most significant drop in NGSadmix cross&#x02010;validation scores, see results). conStruct uses a Bayesian MCMC algorithm to estimate the posterior distribution of admixture proportions. The input for conStruct was sample allele frequency for each SNP, and the MCMC analysis was run with two chains, 50&#x000a0;000 iterations, in the nonspatial mode of the software. In order to extrapolate NGSadmix&#x02010;estimated ancestry coefficients (proportion of the genome belonging to the different clusters) on geographic scales, the R package TESS (Caye, Deist, Martins, Michel, &#x00026; Fran&#x000e7;ois, <xref rid="eva12914-bib-0008" ref-type="ref">2016</xref>) was used. We chose <italic>K</italic>&#x000a0;=&#x000a0;12 genetic clusters for plotting (given by a plateau in NGSadmix cross&#x02010;validation scores, see Results). A map of the Baltic Sea was downloaded from <ext-link ext-link-type="uri" xlink:href="https://maps.ngdc.noaa.gov/viewers/wcs-client/">https://maps.ngdc.noaa.gov/viewers/wcs-client/</ext-link>, from which a grid was generated with a constraint on elevation from 0&#x000a0;m to &#x02212;30&#x000a0;m (grid size 1,852 &#x000d7; 1,852&#x000a0;m). The constraints were chosen to account for variability in depth within each grid cell, as well as for plotting reasons. Ancestry coefficients for the 12 different clusters were then geographically imputed and plotted on the map in different color scales.</p><p>Finally, variability in genetic diversity was modeled and extrapolated geographically using the software package EEMS (Petkova, Novembre, &#x00026; Stephens, <xref rid="eva12914-bib-0056" ref-type="ref">2015</xref>). This software uses an isolation&#x02010;by&#x02010;distance model with stepping stones (&#x0201c;demes&#x0201d;) as a null model in order to infer geographic areas of high and low genetic diversity using the parameter <italic>q</italic>, a parameter which reflects the expected genetic differences among two individuals collected at the same site (Petkova et al., <xref rid="eva12914-bib-0056" ref-type="ref">2015</xref>) (not to confuse with the ancestry coefficients from the NGSadmix analysis above, which are also denoted &#x0201c;<italic>q</italic>&#x0201d;). A full&#x02010;rank distance matrix was generated by imputing missing genotype values with observed mean genotype at each SNP site, as implemented by the &#x0201c;bed2diffs_v2&#x0201d; tool distributed with the EEMS software. Geographic coordinates from 86 vertices specifying a polygon enclosing the Baltic Sea were extracted from Google Earth (earth.google.com/web/), after which the EEMS software was run in three separate mcmc chains, each with default lengths (2&#x000a0;M iterations, burn&#x02010;in 1&#x000a0;M iterations, writing every 10&#x000a0;K iterations to file), using 300 demes. The output was examined for convergence and plotted on a map of Europe using the rEEMSplots R package (distributed with EEMS).</p></sec><sec id="eva12914-sec-0008"><label>2.6</label><title>Biophysical model</title><p>A biophysical model was used to estimate dispersal probabilities and multigenerational connectivity calculated from stepping&#x02010;stone dispersal across generations. All results below from the biophysical model are referred to as &#x0201c;connectivity,&#x0201d; to be distinguished from results obtained from genetic data, which are referred to using the terms &#x0201c;gene flow&#x0201d; and &#x0201c;population structure.&#x0201d; The biophysical model is based on the oceanographic circulation model NEMO&#x02010;Nordic that produces water velocity fields with spatial resolution of 3.7&#x000a0;km in the horizontal and 3&#x02013;12&#x000a0;m in the vertical, and a temporal resolution of 3&#x000a0;hr (for details, see Hordoir et al., <xref rid="eva12914-bib-0021" ref-type="ref">2019</xref>). The velocity fields are used by the Lagrangian particle tracking model TRACMASS (de Vries &#x00026; D&#x000f6;&#x000f6;s, <xref rid="eva12914-bib-0010" ref-type="ref">2001</xref>) to estimate dispersal from a location <italic>i</italic> to a location <italic>j</italic> where results are conveniently summarized as a normalized connectivity matrix with elements specifying the dispersal probability between all locations in the domain (Jonsson, Nilsson Jacobi, &#x00026; Moksnes, <xref rid="eva12914-bib-0028" ref-type="ref">2016</xref>). The particle tracking model calculated the dispersal from and to 34,036 locations where particles were parameterized to mimic dispersal of <italic>I. balthica</italic> assuming the following traits and conditions: Reproduction occurs between April and September, drift or swimming of adults or juveniles is in the surface water (0&#x02013;2&#x000a0;m), and the total duration of the dispersive phase was here approximated to be ca. 5&#x000a0;days. Dispersal of <italic>Idotea</italic> spp. is not well known but is believed to be short (Leidenberger et al., <xref rid="eva12914-bib-0036" ref-type="ref">2012</xref>), with rare long&#x02010;distance rafting events, motivating the choice of dispersal time. The trait combination assumed here possibly leads to an overestimation of realized dispersal and should be seen as a maximum rate. We also only considered model grid cells with a mean depth less than 30&#x000a0;m, as in the genetic analyses above. In total, the dispersal simulations of <italic>I. balthica</italic> included 34 million particles.</p><p>To identify potential dispersal barriers, we applied a clustering method (Nilsson Jacobi, Andr&#x000e9;, D&#x000f6;&#x000f6;s, &#x00026; Jonsson, <xref rid="eva12914-bib-0049" ref-type="ref">2012</xref>) based on the connectivity matrix. Identification of geographic areas separated by partial dispersal barriers is here formulated as a minimization problem with a tuneable penalty term for merging clusters, which makes it possible to subdivide areas with varying degrees of dispersal restrictions. Areas that have an internal connectivity above the dispersal restriction are color&#x02010;coded, and the transitions of colors thus indicate partial dispersal barriers. From the dispersal matrix, we produced three maps of subdivided connectivity clusters separated by partial dispersal barriers with mean probabilities of crossing barriers of 0.001, 0.002, and 0.003, producing 7, 13, and 24 connectivity clusters, respectively.</p><p>Multigenerational connectivity was calculated from the dispersal connectivity matrix by multiplying the matrix with itself for each generation (Jahnke et al., <xref rid="eva12914-bib-0023" ref-type="ref">2018</xref>). This procedure calculates the stepping&#x02010;stone dispersal when dispersal probability for all possible routes is summed across all generations for 64 generations. With a mean dispersal distance of approximately 25&#x000a0;km per generation, simulations for 64 generations should ensure potential stepping&#x02010;stone connectivity and gene flow on the scale of the Baltic Sea in the absence of barriers.</p></sec><sec id="eva12914-sec-0009"><label>2.7</label><title>Genetic versus. biophysical connectivity</title><p>The correlation between genetic differentiation (pairwise <italic>F</italic>
+<sub>ST</sub>) and multigenerational connectivity estimated from the biophysical model was tested with Mantel tests (Mantel, <xref rid="eva12914-bib-0040" ref-type="ref">1967</xref>). Correlations with both untransformed and logarithmically transformed (log<sub>10</sub>(<italic>x</italic>&#x000a0;+&#x000a0;1e&#x02010;50)) connectivity matrices (64 generations) were tested. Because pairwise <italic>F</italic>
+<sub>ST</sub> data are symmetric, we extracted symmetric connectivity matrices by using either the minimum connectivity (minimum of <italic>i</italic> to <italic>j</italic> and <italic>j</italic> to <italic>i</italic>), the maximum connectivity, or the mean connectivity. In addition, distributions of pairwise <italic>F</italic>
+<sub>ST</sub> values within each region and between regions were plotted as boxplots in R, and a regression analysis was performed to examine potential isolation&#x02010;by&#x02010;distance patterns between mean connectivity and pairwise <italic>F</italic>
+<sub>ST</sub>.</p></sec></sec><sec sec-type="results" id="eva12914-sec-0010"><label>3</label><title>RESULTS</title><sec id="eva12914-sec-0011"><label>3.1</label><title>Accuracy of genotyping</title><p>The 2b&#x02010;RAD libraries generated <italic>&#x000b5;</italic>&#x000a0;=&#x000a0;8.64&#x000a0;M reads&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic> 3.72 Mreads per individual, and mapping rates (not including multiple hits) were <italic>&#x000b5;</italic>&#x000a0;=&#x000a0;20.23% &#x000b1; <italic>SD</italic> 2.26% (Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S1</xref>). This rather low percentage is not unexpected given the short nature of the 2b&#x02010;RAD tags and the incomplete genome assembly used (NG50&#x000a0;=&#x000a0;12.9&#x000a0;kb based on assumed haploid genome length 1&#x000a0;Gb; 338&#x000a0;k contigs; 1.54&#x000a0;Gb total length; 80% BUSCO completeness using Metazoa reference). Using 25,329 SNPs that had identical genotypes across all replicate pairs of individuals as a &#x0201c;true&#x0201d; training set for the VQSR, we estimated the true transition/transversion ratio (<italic>T<sub>i</sub></italic>/<italic>T<sub>v</sub></italic>) to be 1.348. By examining different truth&#x02010;sensitivity tranches, we could observe a sharp drop in <italic>T<sub>i</sub></italic>/<italic>T<sub>v</sub></italic>at above 95% truth sensitivity, so we used 95% as the cutoff tranche for SNP filtering. After filtering for highly heterozygous (likely lumped paralogous) loci, and thinning the dataset to one SNP/ RAD fragment, we were left with 57,641 SNPs, and after filtering out poorly genotyped sites, the final genotype dataset consisted of 33,774 SNP sites, genotyped at a minimum of 80% of 575 individuals (Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S1</xref>) from the 31 different samples (Figure <xref rid="eva12914-fig-0001" ref-type="fig">1</xref>; Table <xref rid="eva12914-tbl-0001" ref-type="table">1</xref>). Genotyping correspondences among technical replicate individuals were high, <italic>&#x000b5;</italic>&#x000a0;=&#x000a0;97.70% &#x000b1; <italic>SD</italic>&#x000a0;=&#x000a0;2.49% (Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S2</xref>), and missing data were evenly distributed across samples, with only 9 loci not genotyped in any individual in one sample, and no loci with all missing data from more than one sample (Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S3</xref>).</p></sec><sec id="eva12914-sec-0012"><label>3.2</label><title>Among&#x02010;sample summary statistics and differentiation</title><p>Overall, considering all loci, <italic>F</italic>
+<sub>IS</sub> values were close to zero in all 31 samples, indicating within&#x02010;location panmixia (mean&#x000a0;=&#x000a0;0.020&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic> 0.029; <italic>n</italic>&#x000a0;=&#x000a0;31; Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S4</xref>).</p><p>Pairwise <italic>F</italic>
+<sub>ST</sub> values among samples ranged from 0.001 to 0.068 (mean&#x000a0;=&#x000a0;0.025&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic> 0.012; <italic>n</italic>&#x000a0;=&#x000a0;465) (Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S5</xref> above diagonal). In general, <italic>F</italic>
+<sub>ST</sub> values among samples within a region were smaller than <italic>F</italic>
+<sub>ST</sub> values among samples from different regions, with the highest values between SBO samples and W/GFE samples (mean&#x000a0;=&#x000a0;0.053&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic> 0.006; <italic>n</italic>&#x000a0;=&#x000a0;32) Figure <xref rid="eva12914-sup-0001" ref-type="supplementary-material">S1</xref>). In an MDS plot (Figure <xref rid="eva12914-sup-0002" ref-type="supplementary-material">S2</xref>), axis 1 and axis 2 together explain much of the variance in pairwise <italic>F</italic>
+<sub>ST</sub> (61% and 24%, respectively). In this analysis, the Swedish Bothnian Sea samples (SBO&#x02010;1 and SBO&#x02010;2) in particular diverge strongly from all others along both primary axes. There was significant genetic differentiation (based on sample allele frequencies) among most samples (Fisher's exact test <italic>p</italic> &#x000ab; .001; Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S5</xref> below diagonal). Exceptions to this pattern were found in the Skagerrak/Kattegat/Danish straits area (W&#x02010;1&#x02010;9; marked blue in Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S5</xref>) and along the northern part of the Finnish Bothnian Sea coast (FBO&#x02010;1&#x02010;6; marked green in Table <xref rid="eva12914-sup-0006" ref-type="supplementary-material">S5</xref>), where many samples were not significantly differentiated from each other, indicating that these samples were taken from the same population. Surprisingly, the Estonian samples collected from three of the sites (GFE&#x02010;4 to GFE&#x02010;6, and in particular, GFE&#x02010;5) were genetically similar both to eastern Finnish sites (FBO&#x02010;5,6) and to sites from Kattegat/Skagerrak/Belt Sea (W&#x02010;1&#x02013;8) and western Baltic Proper (SBA&#x02010;2,3) samples. Unfortunately, the fragmented reference genome used did not allow for a closer examination of <italic>F</italic>
+<sub>ST</sub> patterns along chromosomes.</p><p>Mean expected heterozygosity per sample (<xref rid="eva12914-sup-0006" ref-type="supplementary-material">Table S4</xref>) was strongly correlated with the location's salinity (Figure <xref rid="eva12914-fig-0002" ref-type="fig">2</xref>, ANOVA <italic>p</italic>&#x000a0;=&#x000a0;5.36E&#x02010;08), primarily due to a major drop at the North Sea&#x02013;Baltic Sea transition zone (without W samples, <italic>p</italic>&#x000a0;=&#x000a0;.10). However, there was no significant effect of mean summer (<italic>p</italic>&#x000a0;=&#x000a0;.28) or winter (<italic>p</italic>&#x000a0;=&#x000a0;.09) temperature, or with geographic coastline distance from the North Sea (<italic>p</italic>&#x000a0;=&#x000a0;.56). Heterozygosity was also not significantly different between HELCOM MPA and non&#x02010;MPA locations (<italic>p</italic>&#x000a0;=&#x000a0;.26) (<xref rid="eva12914-sup-0006" ref-type="supplementary-material">Table S6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Expected heterozygosity (<italic>H</italic>
+<sub>E</sub>) as a function of salinity in the Baltic Sea (<italic>p</italic>&#x000a0;=&#x000a0;8.5E&#x02010;08), with dots colored by region</p></caption><graphic id="nlm-graphic-5" xlink:href="EVA-13-974-g002"/></fig></sec><sec id="eva12914-sec-0013"><label>3.3</label><title>Individual&#x02010;based inference of genetic admixture and population structure</title><p>Our canonical analysis of principal coordinates (CAP) was based on an IBS distance matrix calculated for all individuals in all samples. BayeScan identified 487 <italic>F</italic>
+<sub>ST</sub> outliers across all samples (Figure <xref rid="eva12914-sup-0002" ref-type="supplementary-material">S3</xref>a), and OutFLANK identified 170 <italic>F</italic>
+<sub>ST</sub> outliers, where 111 of the outliers overlapped across both methods. Separate CAP analyses for outliers and nonoutliers (Figure <xref rid="eva12914-sup-0002" ref-type="supplementary-material">S3</xref>b&#x02010;d) revealed similar clustering patterns, although there was less separation along the two principal axes in both outlier datasets, which could be due to the lower number of SNPs used, or to the structuring of the outlier loci. Exceptions from the overall similarity were the two Swedish Bothnian Sea samples (SBO&#x02010;1 and SBO&#x02010;2), being much less deviant from the rest of the samples when using outliers only than when the analysis was based on nonoutliers. Mean summer salinity was an equally strongly significant factor in the CAP axis 1 loading in both outliers and in nonoutliers (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;2E&#x02010;16; <xref rid="eva12914-sup-0006" ref-type="supplementary-material">Table S6</xref>). Due to the similar patterns observed in both types of loci, all loci were analyzed together for inferring genetic structure.</p><p>The combined CAP analysis clearly separated samples, or groups of samples, from each other, matching the geographic distribution of the collecting locations almost perfectly (Figure <xref rid="eva12914-fig-0003" ref-type="fig">3</xref>). Indeed, sample was a strongly significant factor, explaining 12% of the genetic variance (ANCOVA, <italic>p</italic>&#x000a0;=&#x000a0;.001; <xref rid="eva12914-sup-0006" ref-type="supplementary-material">Table S6</xref>). Just as in the sample&#x02010;level analysis of allele frequency differentiation above, samples collected from different regions were always separated from each other, while in some cases standard deviations from samples collected in the same region overlapped in the CAP. Individuals in samples from the Skagerrak/Kattegat/Danish straits area (W&#x02010;1,2,3,6,7,8) completely overlapped each other in the CAP, as did individuals from the northernmost Finnish Bothnian Sea samples (FBO&#x02010;1,2,3,4), again indicating panmictic populations in these two regions. Along the coast of the Swedish Baltic Sea Proper (SBA) and the southern part of the Finnish Bothnian Sea (FBO&#x02010;5,6,7), there was a step&#x02010;wise divergence (see differentiation along CAP axis 1, Figure <xref rid="eva12914-fig-0003" ref-type="fig">3</xref>), while the Gulf of Finland and Estonian samples diverged along CAP axis 2, as did the Swedish Bothnian Sea populations (although in the other direction of the axis), indicating that each of these samples were collected from a distinct population. Thus, while most samples were distinct in the CAP, there was also an overall pattern of divergence along three main directions in CAP1 and 2; one in the west (with negative CAP1 and positive CAP2 loadings), one in the north Baltic/Bothnian seas (with positive loadings on both CAP1 and 2), and a third one in the Gulf of Finland/Estonia (negative CAP2 loadings). In the Gulf of Finland, samples GFE&#x02010;1,2,3 were separated from Estonian samples GFE&#x02010;4,5,6,7 along CAP axis 1. Interestingly, sample GFE&#x02010;5 (Sarve, Estonia) also showed a very large spread among individuals in both principal axes of the CAP, with some individuals being very close to individuals from the Western Baltic, while others were more similar to individuals found in other Estonian samples.</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Constrained ordination plot of identity&#x02010;by&#x02010;state distances among all <italic>I. balthica</italic> individuals used in this study</p></caption><graphic id="nlm-graphic-7" xlink:href="EVA-13-974-g003"/></fig><p>The admixture analysis was run for <italic>K</italic>&#x000a0;=&#x000a0;2&#x02013;32 (Figure <xref rid="eva12914-sup-0004" ref-type="supplementary-material">S4</xref>), and examining the cross&#x02010;validation scores (Figure <xref rid="eva12914-sup-0005" ref-type="supplementary-material">S5</xref>), the most significant drop was found from <italic>K</italic>&#x000a0;=&#x000a0;2 to <italic>K</italic>&#x000a0;=&#x000a0;3, and a plateau was found at <italic>K</italic>&#x000a0;=&#x000a0;11&#x02013;12 (after an increase in the cross&#x02010;validation value at <italic>K</italic>&#x000a0;=&#x000a0;10), although the software did identify more fine&#x02010;scale population structure also at higher <italic>K</italic> values. Thus, we chose to focus on <italic>K</italic>&#x000a0;=&#x000a0;3 and 12. At <italic>K</italic>&#x000a0;=&#x000a0;3, western samples, North Baltic/Bothnian Sea ones, and Estonian ones (excluding the Estonian GFE&#x02010;3 sample) formed three main clusters (Figure <xref rid="eva12914-fig-0004" ref-type="fig">4</xref>a). In admixture pie charts generated by conStruct (Figure <xref rid="eva12914-fig-0004" ref-type="fig">4</xref>b), the three main clusters were clearly associated with the different regions, with the red cluster being dominant in the west, the yellow dominant in the Baltic Sea, and the blue cluster dominant in the Gulf of Finland. Interestingly, the red cluster was also observed in samples GFE&#x02010;5 and GFE&#x02010;6, in Estonia, while the Swedish southeast coast consisted of a gradual shift of genetic material from the red to the yellow cluster, which could be an indication of a possible secondary contact zone among historically separated lineages.</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(a) Admixture plot at <italic>K</italic>&#x000a0;=&#x000a0;3. (b) Pie charts of admixture coefficients inferred by conStruct (<italic>K</italic>&#x000a0;=&#x000a0;3), plotted on a map of the Baltic Sea</p></caption><graphic id="nlm-graphic-9" xlink:href="EVA-13-974-g004"/></fig><p>At <italic>K</italic>&#x000a0;=&#x000a0;12, a pattern of step&#x02010;wise divergence of samples could be seen along the Swedish west and south coast (Figure <xref rid="eva12914-fig-0005" ref-type="fig">5</xref>a). Western Estonian samples clearly separated out from all others. In the west, W&#x02010;4 and W&#x02010;9 clustered together, W&#x02010;1 was separated, while all other samples grouped together. In the east, there was one large cluster all along the Northern Bothnian Sea coast of Finland, one cluster in the Gulf of Finland, and two on the Swedish coast: SBA&#x02010;5,6 and SBA&#x02010;4, respectively, while the geographically intermediate samples FBO&#x02010;5 and FBO&#x02010;6 appeared to contain a mix of genetic material from the Swedish and the Finnish clusters. By geographically extrapolating admixture coefficients at K&#x000a0;=&#x000a0;12 using the TESS algorithm, the geographic distributions of the different genetic clusters, and the main boundaries between them, were plotted in different color scales on a map of the Baltic Sea (Figure <xref rid="eva12914-fig-0005" ref-type="fig">5</xref>b). As there were no samples collected in Poland, Lithuania, and Latvia, nor on the island of Gotland, the imputations in these areas are subject to caution. Nevertheless, the large&#x02010;scale structure seen in the map indicated at minimum 10 geographically separated populations in the study area, located in: 1. Skagerrak; 2. Kattegatt (including the Danish straits); 3. The Western Baltic (Sweden/Germany), 4. The Swedish Baltic Proper; 5. The Swedish Bothnian Sea; 6. Southwestern Finland (including the Archipelago Sea); 7. The northern Finnish Bothnian Sea coast; 8. The Helsinki area; 9. The deep Gulf of Finland; 10. The Estonian islands.</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>(a) Admixture plot at <italic>K</italic>&#x000a0;=&#x000a0;12. (b, c) Spatially inferred genetic structure. (b) Admixture coefficients interpolated geographically, with population clusters in different color scales (<italic>K</italic>&#x000a0;=&#x000a0;12). Admixture coefficients are illustrated in different color scales, approaching 1 in dark shades, and lower scores in progressively lighter ones. Regions with steep color gradients can be thought of as areas with dispersal barriers, separating genetically divergent populations; (c) within&#x02010;deme effective genetic diversity q (on the log10 scale), a parameter that reflects the expected genetic differences among two individuals collected at the same site, extrapolated geographically, with higher than mean diversity in red and lower in blue</p></caption><graphic id="nlm-graphic-11" xlink:href="EVA-13-974-g005"/></fig><p>Finally, within&#x02010;deme effective genetic diversity (<italic>q</italic>) (Petkova et al., <xref rid="eva12914-bib-0056" ref-type="ref">2015</xref>) was higher in the Skagerrak area than in the Baltic Sea, with particularly low values on the Swedish Bothnian Sea coast (SBO&#x02010;1 and SBO&#x02010;2) and in western Estonia (GFE&#x02010;7) (Figure <xref rid="eva12914-fig-0005" ref-type="fig">5</xref>c).</p></sec><sec id="eva12914-sec-0014"><label>3.4</label><title>Biophysical model predictions of connectivity</title><p>The asymmetrical multigeneration connectivity matrix (64 generations) based on the biophysical particle model (Figure <xref rid="eva12914-fig-0006" ref-type="fig">6</xref>, <xref rid="eva12914-sup-0006" ref-type="supplementary-material">Table S7</xref>) showed that there were certain regions with high internal connectivity, which were less well&#x02010;connected to each other. The western Baltic, the Finnish Bothnian Sea, southern Finland, and western Estonia were four such regions. In contrast, along the Swedish southeast coast, isolation&#x02010;by&#x02010;distance was expected from the model. Connectivity was in general symmetrical, with a few interesting exceptions: Connectivity was several orders of magnitude higher from the Finnish coast (FBO&#x02010;5,6,7) to the Swedish East coast (SBA&#x02010;5,6) than in the other direction. Instead, there was stronger connectivity from the northernmost locality in the Swedish Bothnian Sea (SBO&#x02010;1) over to the Finnish Bothnian Sea sites. Along the Finnish Bothnian Sea coast, connectivity was also asymmetrical according to the model, with higher values going northward than southward, and along the Swedish south coast, there is more transport from the Baltic toward the Kattegat/Skagerrak region than in the other direction. Interestingly, the particle model also indicated a high connectivity from the western Baltic to western Estonia, via Poland, Lithuania, and Latvia, resulting in a significant amount of connectivity from the Swedish south coast (W&#x02010;5, SBA&#x02010;1) to the western Estonian sites.</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Biophysical connectivity matrix among the sites used in this study, based on a multigenerational iteration of the particle tracking model</p></caption><graphic id="nlm-graphic-13" xlink:href="EVA-13-974-g006"/></fig><p>The barrier analysis, which is a way to project the multigeneration connectivity matrix in a geographic dimension, also identified regions with high internal connectivity within the Baltic Sea separated by barriers with high resistance to dispersal (Figure <xref rid="eva12914-fig-0007" ref-type="fig">7</xref>). The number of regions varied according to the selected threshold of allowed mean dispersal among regions. The model with the highest threshold (Figure <xref rid="eva12914-fig-0007" ref-type="fig">7</xref>c) most closely matched our genetic data, in that it identified the separation between the Swedish Bothnian Sea samples and other (including nearby) samples. However, this cutoff value also separated Finnish Gulf of Finland samples from Estonian ones, which was not clearly evident in the genetic data (although the yellow conStruct cluster is largely restricted to the Gulf of Finland); here, the barriers in Figure <xref rid="eva12914-fig-0007" ref-type="fig">7</xref>b better matched the genetic data. The barrier analysis averages connectivity values to and from sites and thus inaccurately represents instances of highly asymmetric gene flow, which could explain this discrepancy.</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Connectivity barrier inference based on the biophysical model of dispersal, clustering areas of high connectivity marked as different colors. Threshold for barrier identification ranges from low dispersal probability between regions (0.001) in panel (a) intermediate (0.002) in panel (b), and high (0.003) in panel (c)</p></caption><graphic id="nlm-graphic-15" xlink:href="EVA-13-974-g007"/></fig><p>Overall, the biophysical model (mean connectivity) was strongly correlated with pairwise genetic distance (<italic>F</italic>
+<sub>ST</sub>) (Mantel <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;1E&#x02010;5, <italic>R</italic>&#x000a0;=&#x000a0;&#x02212;0.45). However, the regression analysis identified two separate isolation&#x02010;by&#x02010;distance (IBD) correlations in the dataset: one involving pairwise comparisons including one of the two SBO samples (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.76) and one with all remaining pairwise comparisons (<italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.44) (Figure <xref rid="eva12914-fig-0008" ref-type="fig">8</xref>; <xref rid="eva12914-sup-0006" ref-type="supplementary-material">Table S6</xref>).</p><fig fig-type="Figure" xml:lang="en" id="eva12914-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Pairwise <italic>F</italic>
+<sub>ST</sub> as a function of log10 mean connectivity. Two separate correlations are found for pairwise comparisons involving Swedish Bothnian Sea (SBO) samples (yellow triangles; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;2E&#x02010;16; <italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.76) and pairwise comparisons among all other samples (blue dots; <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;2E&#x02010;16; <italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.44)</p></caption><graphic id="nlm-graphic-17" xlink:href="EVA-13-974-g008"/></fig></sec></sec><sec sec-type="discussion" id="eva12914-sec-0015"><label>4</label><title>DISCUSSION</title><sec id="eva12914-sec-0016"><label>4.1</label><title>Concordance between biophysical connectivity and genetic structure</title><p>The population genomic data produced here shows the presence of genetically differentiated populations of <italic>Idotea balthica</italic> within the Baltic Sea. In some of the regions, there are significant population differences on scales of less than 100&#x000a0;km. This contrasts to patterns in some fish species such as sticklebacks (DeFaveri, Jonsson, &#x00026; Meril&#x000e4;, <xref rid="eva12914-bib-0012" ref-type="ref">2013</xref>) and herring (Lamichhaney et al., <xref rid="eva12914-bib-0031" ref-type="ref">2012</xref>) where populations are genetically structured at broad geographic scales in the Baltic Sea, while in other fish species, such as perch and whitefish, genetic differences are found also on relatively small scales (Olsson, Florin, Mo, Aho, &#x00026; Ryman, <xref rid="eva12914-bib-0052" ref-type="ref">2012</xref>; Olsson et al., <xref rid="eva12914-bib-0053" ref-type="ref">2011</xref>). Instead, the strong genetic structure in <italic>I. balthica</italic> is similar to the pattern present in the seaweed <italic>Fucus vesiculosus</italic> (Ardehed et al., <xref rid="eva12914-bib-0001" ref-type="ref">2016</xref>), which has an overlapping distribution with <italic>I. balthica</italic> and provides food and shelter to the isopod (Kotta et al., <xref rid="eva12914-bib-0029" ref-type="ref">2019</xref>). Further, the genetic patterns match the biophysical connectivity model closely, suggesting that passive dispersal is an important factor influencing the genetic structure in this species. Without pelagic larval dispersal, long&#x02010;distance dispersal is most likely through rafting of adult or juvenile individuals associated to <italic>Fucus</italic> or possibly other seaweeds (Clarkin, Maggs, Arnott, Briggs, &#x00026; Houghton, <xref rid="eva12914-bib-0009" ref-type="ref">2012</xref>; Thiel &#x00026; Gutow, <xref rid="eva12914-bib-0068" ref-type="ref">2005</xref>; Winston, <xref rid="eva12914-bib-0076" ref-type="ref">2012</xref>). Although we observed a few individuals with partly western ancestry at the Estonian GFE&#x02010;5 site, which perhaps support the hypothesis of long&#x02010;distance dispersal along the southern Baltic Sea coast, our data suggest that long&#x02010;range dispersal of <italic>I. balthica</italic> in the Baltic Sea is rare. One potential reason could be the high predation risk&#x02014;<italic>Idotea</italic> spp. are usually found in high numbers only in thick algal belts, where they are protected from predation from multiple fish species (Merilaita, <xref rid="eva12914-bib-0046" ref-type="ref">2001</xref>). So, any long&#x02010;distance swimming or rafting with parts of algal thalli would entail a high risk of being eaten. The biophysical model of connectivity included pelagic drift during 5&#x000a0;days. Although this may overestimate the dispersal capability of <italic>I. balthica</italic>, the model still suggests several areas acting as physical barriers to dispersal as visualized in the barrier analysis (Figure <xref rid="eva12914-fig-0007" ref-type="fig">7</xref>). The barrier analysis with a step&#x02010;wise increase of the allowed dispersal probability (0.001&#x02013;0.003) across barriers indicates the strength of barriers and the robustness of connectivity clusters (Nilsson Jacobi et al., <xref rid="eva12914-bib-0049" ref-type="ref">2012</xref>). Some dispersal barriers are consistent across a range of dispersal thresholds (e.g., between western Estonia and the Gulf of Finland), whereas other barriers are more labile (e.g., along the Swedish east coast). In general, the barrier analysis alone predicted the population genetic structure showed by the genetic data well (Mantel test r = &#x02212;0.45). However, we cannot rule out contributions from demographic history (Gagnaire et al., <xref rid="eva12914-bib-0018" ref-type="ref">2015</xref>; Le Moan, Gaggiotti, et al., <xref rid="eva12914-bib-0033" ref-type="ref">2019b</xref>), local adaptation (Johannesson et al., <xref rid="eva12914-bib-0026" ref-type="ref">2011</xref>), and/or genetic incompatibilities (Bierne et al., <xref rid="eva12914-bib-0005" ref-type="ref">2011</xref>), in shaping the population genetic structure of the species. In particular, at K&#x000a0;=&#x000a0;3, there is a pattern of three main clusters, which could be a signal of anciently separated lineages, one in the west, one in the north, and one in the east. This pattern can also be observed as separations along three different directions in the CAP analysis, with central Baltic samples being located in the middle being a sign of potential introgression among the clusters. However, the isolation&#x02010;by&#x02010;distance analysis does not seem to indicate larger genetic distances between&#x02010;cluster variation than within&#x02010;cluster variation in <italic>F</italic>
+<sub>ST</sub>, indicating that more sensitive methods (e.g., site&#x02010;frequency spectrum based analyses) need to be used to examine patterns arising from historical demographic events.</p><p>The Swedish Bothnian sea samples (SBO&#x02010;1,2) show low genetic diversity and are genetically isolated from all other samples with high pairwise <italic>F</italic>
+<sub>ST</sub> estimates. They are also found to be significantly more distant from other samples in the isolation&#x02010;by&#x02010;distance regression analysis. This is partly at odds with the barrier analysis, which indicates that dispersal along the Swedish coast include these localities, except in the most stringent setting of the barrier analysis (Figure <xref rid="eva12914-fig-0007" ref-type="fig">7</xref>c). However, when the possibility for asymmetric dispersal is also considered (heatmap in Figure <xref rid="eva12914-fig-0006" ref-type="fig">6</xref>), the biophysical model shows that SBO&#x02010;1 and SBO&#x02010;2 are almost isolated from incoming migrants, although they might act as sources to locations mainly along the western coast of Finland. It seems that the patterns of the oceanic currents north of the &#x000c5;land archipelago provide an effective barrier to westward dispersal in this area, instead directing transfer of individuals from Sweden to the Finnish Archipelago sea, and then northward along the Finnish Bothnian Sea coast. Another inconsistency is that the biophysical model suggests dispersal from Finland to Sweden in the transition area between the Bothnian Sea and the Bothnian Bay (the &#x0201c;North Quark&#x0201d;; see Figure <xref rid="eva12914-fig-0001" ref-type="fig">1</xref>). <italic>Idotea balthica</italic> is quite common on the Finnish side (FBO&#x02010;1,2), and this area is shallow and may provide good stepping&#x02010;stone dispersal for shallow&#x02010;water organisms, so even species with limited dispersal ability should be able to cross over to Sweden from the Finnish side. However, isopods are not found on the Swedish side (Leidenberger et al., <xref rid="eva12914-bib-0036" ref-type="ref">2012</xref>). In fact, our SBO&#x02010;2 site, approximately 300&#x000a0;km further south, is the most northern point of the species distribution on the Swedish coast. There are available habitats (<italic>Fucus</italic> belts) north of this site, although the distribution of <italic>Fucus</italic> spp<italic>.</italic> becomes increasingly patchy. Niche modeling studies (Kotta et al., <xref rid="eva12914-bib-0029" ref-type="ref">2019</xref>; Leidenberger, Giovanni, Kulawik, Williams, &#x00026; Bourlat, <xref rid="eva12914-bib-0035" ref-type="ref">2015</xref>) indicate that the northern Bothnian Sea coast should be inhabitable to the isopods, rendering the reason for their absence in this area an interesting topic for future research.</p></sec><sec id="eva12914-sec-0017"><label>4.2</label><title>Main population units of <italic>Idotea balthica</italic> in the Baltic Sea</title><p>
+<italic>Idotea balthica</italic> along the Finnish Bothnian Sea coast is one large continuous population in the northern part (FBO&#x02010;1,2,3,4). As prevailing currents are northward bound along the Finnish coast, it is likely that gene flow is mainly in the south&#x02013;north direction (from FBO&#x02010;5,6). Possibly, the northernmost Finnish population might be a sink population with low reproductive output and few dispersive juveniles, which would add to the explanation of lack of dispersal to the Swedish side. The strong genetic separation of the Swedish and Finnish Bothnian Sea coasts can be compared to the genetic patterns observed in <italic>Fucus</italic>. While <italic>F. radicans</italic> show weak structure throughout the region due to dominance of a few large clones, <italic>F. vesiculosus</italic> is differentiated both between Sweden and Finland and also among sampling sites within both countries (Pereyra et al., <xref rid="eva12914-bib-0055" ref-type="ref">2013</xref>). Again, it seems as if the herbivore and its host species show similar structuring patterns, and an interesting future avenue for research would be to compare current gene flow and colonization history of both species more closely.</p><p>The Estonian coast is divided into two distinct regions: the Gulf of Finland area, which is genetically more similar to the Finnish side of the Gulf of Finland, and western Estonia, represented by the islands of Hiiumaa and Saaremaa. Interestingly, both the pairwise <italic>F</italic>
+<sub>ST</sub> MDS plot (Figure <xref rid="eva12914-sup-0002" ref-type="supplementary-material">S2</xref>) and the CAP analysis (Figure <xref rid="eva12914-fig-0003" ref-type="fig">3</xref>) indicated gene flow from southern Sweden and eastern Germany to Estonia. The biophysical model also indicated a relatively high potential for dispersal in this direction (Figure <xref rid="eva12914-fig-0006" ref-type="fig">6</xref>). However, the Baltic Sea coastline of Poland, Latvia, and Lithuania is sandy and lacks <italic>Fucus</italic>, which would provide an effective barrier to gene flow for <italic>Idotea</italic> unless the isopod can use other habitats (e.g., <italic>Zostera</italic> beds) as stepping stones for dispersal. The Polish, Latvian, and Lithuanian coasts have historically supported extensive seagrass beds, although almost all of those are gone today (Bostr&#x000f6;m, Baden, &#x00026; Krause&#x02010;Jensen, <xref rid="eva12914-bib-0006" ref-type="ref">2003</xref>). Further sampling of <italic>Idotea</italic> along these shores will be necessary in order to illuminate the patterns of gene flow here.</p><p>Along the Swedish coast, starting from &#x000d6;resund (W&#x02010;4), samples show a strong step&#x02010;wise isolation&#x02010;by&#x02010;distance divergence going in to the Baltic. Such a pattern is expected following a colonization front moving into the Baltic Sea along the coast, with founder effects leading to increasing levels of differentiation (Excoffier, Foll, &#x00026; Petit, <xref rid="eva12914-bib-0015" ref-type="ref">2009</xref>). Alternatively, this pattern could be explained by a historical separation into three separate lineages in the Baltic Sea, with secondary contact generating a gradual introgression pattern along the Swedish coast (Bierne et al., <xref rid="eva12914-bib-0005" ref-type="ref">2011</xref>). The CAP and construct analyses seem to support this interpretation, although the isolation&#x02010;by&#x02010;distance regression only singles out the Swedish Bothnian Sea samples as more divergent than predicted by connectivity only. A third possibility is that divergent selection on either side the steep salinity gradient of the transition zone cause the observed differentiation. Modeling the demographic history of the species and the timing of the range expansion into the Baltic Sea along with reciprocal transplant experiments (to test for local adaptation to different salinities) would be beneficial in order to gain a deeper understanding of the contribution of the individual factors during establishment of the observed genetic structure.</p></sec><sec id="eva12914-sec-0018"><label>4.3</label><title>Reduced genetic diversity</title><p>The low heterozygosity in <italic>I. balthica</italic> in the Baltic Proper corresponds to a 12% drop compared to the most diverse sample on the Swedish west coast (W&#x02010;1). Interestingly, this corresponds very well to the average drop in nuclear genetic diversity of Baltic Sea populations of various marine species (11%&#x02013;12%) (Johannesson &#x00026; Andr&#x000e9;, <xref rid="eva12914-bib-0025" ref-type="ref">2006</xref>). One possible explanation is the influence of genetic drift due to periodically low population sizes purging diversity in the Baltic Sea (Johannesson &#x00026; Andr&#x000e9;, <xref rid="eva12914-bib-0025" ref-type="ref">2006</xref>). However, some observed patterns could also be explained by secondary contact and introgression among historically separated lineages enhancing diversity locally. Secondary contact zones in this area have been recently described for three species of fish (Le Moan, Gaggiotti, et al., <xref rid="eva12914-bib-0033" ref-type="ref">2019b</xref>). However, as the genomic reference used in this study was highly fragmented, we could not investigate genomic patterns of introgression in our dataset. Hopefully, future improvements in genome sequencing will allow for such studies in the future.</p><p>Within the Baltic Sea, the western part of Estonia stands out as a region of lower genetic diversity, in large part due to low diversity in the sample GFE&#x02010;7 (Figure <xref rid="eva12914-fig-0005" ref-type="fig">5</xref>c; <xref rid="eva12914-sup-0006" ref-type="supplementary-material">Table S4</xref>). GFE&#x02010;7 was collected on the highly exposed west coast of Saaremaa island, where also the biophysical connectivity analysis indicates a lower input of propagules compared to other sites along the Estonian coast (Figure <xref rid="eva12914-fig-0006" ref-type="fig">6</xref>). Along the isolated Swedish Bothnian Sea coast, diversity is also low, especially in sample SBO&#x02010;1 (Gr&#x000e4;s&#x000f6; island). These locations could be considered important from a MPA network perspective, as local reductions in diversity are due to either low population sizes, low migration, or a combination of the two factors.</p></sec><sec id="eva12914-sec-0019"><label>4.4</label><title>Management and conservation implications</title><p>The reduced within&#x02010;species genetic diversity, and the need for adaptations to the rapidly changing Baltic Sea, call for management and conservation actions (Johannesson et al., <xref rid="eva12914-bib-0026" ref-type="ref">2011</xref>). Marine protected areas (MPAs) would be one way to conserve genetically diverse and hence valuable populations. Despite the fact that the Baltic Sea hosts a number of MPAs (each with unique historical and regulatory conditions), we found no significant difference in genetic diversity in populations of <italic>I. balthica</italic> within and outside of HELCOM marine protected areas. This lack of relationship between MPAs and within&#x02010;species genetic diversity has been documented also in other species in the Baltic Sea (Wennerstr&#x000f6;m et al., <xref rid="eva12914-bib-0074" ref-type="ref">2017</xref>), although there are documented positive relationships in other areas of the world (Lester et al., <xref rid="eva12914-bib-0038" ref-type="ref">2009</xref>). According to both the United Nations Convention of Biological Diversity (CBD 1993) and the European Union Marine Strategy Framework Directive (Directive 2008/56/EC), designation of protected areas should be planned with regard to conservation of biodiversity, including within&#x02010;species genetic diversity (Laikre et al., <xref rid="eva12914-bib-0030" ref-type="ref">2016</xref>). On the Baltic Sea scale, the Helsinki Commission also recognizes within&#x02010;species diversity as an important factor in determining ecosystem resilience (HELCOM, <xref rid="eva12914-bib-0020" ref-type="ref">2009</xref>). However, this objective has to date not been implemented in management plans and in the design and location of the present MPAs in the Baltic Sea (Laikre et al., <xref rid="eva12914-bib-0030" ref-type="ref">2016</xref>). Useful information of species genetic diversity is currently accumulating, but managers hesitate to use genetic diversity in day&#x02010;to&#x02010;day operations as they find this type of information difficult to interpret (Sandstr&#x000f6;m, Lundmark, Andersson, Johannesson, &#x00026; Laikre, <xref rid="eva12914-bib-0063" ref-type="ref">2019</xref>). One way to overcome this problem may be to provide easy&#x02010;to&#x02010;interpret maps of genetic diversity and population subdivision, which can be used to implement management efforts in several ways: First, the genetic clusters identified in Figure <xref rid="eva12914-fig-0005" ref-type="fig">5</xref>b can be considered as a good starting point for defining management units in this organism, where the Kattegat/Skagerrak/Danish Straits area, and also the west coast of Finland might be managed as single units, while in the other parts of the study area the observed population divergence indicates a need for more local management units. It is important to note, however, that this study does not include data from the island of Gotland, nor from the coasts of Poland, Latvia, and Lithuania. In these areas, there are (rare) historical records of <italic>I. balthica</italic> (Leidenberger et al., <xref rid="eva12914-bib-0036" ref-type="ref">2012</xref>). Large parts of the southern Baltic coast consist of sandy areas with limited <italic>Fucus</italic>&#x02010;habitat, yet <italic>I. balthica</italic> can also be found in eelgrass (<italic>Zostera marina</italic>) beds, so it cannot be excluded that there are additional genetic clusters present there. Further sampling efforts will be necessary in order to resolve this issue.</p><p>Second, highly diverse populations of high priority for conservation can be identified from the genetic data. Genetic diversity is a proxy for the long&#x02010;term adaptability of a population and can also be considered a sign of a relatively large and stable population size. In this dataset, sites with higher than average genetic diversity (as measured by expected heterozygosity) while considering the overall salinity effect can be found on the eastern side of the Estonian islands of Hiiumaa and Saaremaa (samples GFE&#x02010;5 and 6), where oceanographic currents from both the Gulf of Finland, the Bay of Riga, and the Baltic Proper converge, and also in the V&#x000e4;stervik area on the Swedish southeast coast (sample SBA&#x02010;4) (samples marked in Figure <xref rid="eva12914-fig-0002" ref-type="fig">2</xref>), which harbors the highest amount of diversity of all samples collected along the Baltic Sea coasts. Establishment of MPAs in these areas would probably be very beneficial to the long&#x02010;term sustainability of the Baltic <italic>I. balthica</italic> population in general.</p><p>Finally, as significant warming and decrease in salinity are expected in the Baltic Sea before the end of this century, local extinctions of isopod populations throughout the area, especially near current range margins, are to be expected (Kotta et al., <xref rid="eva12914-bib-0029" ref-type="ref">2019</xref>). These could in turn have immediate negative consequences for ecosystem functions as isopods are important as food for, for example, local populations of herring and perch. While local extinctions might be unavoidable at the most northern areas, populations further south could be supported by influx of genetic material, which might contain low&#x02010;salinity tolerant traits, from the north. A potential management strategy to minimize the detrimental effects of climate change would thus be to facilitate dispersal southward along the salinity gradient by protecting suitable habitats (continuous <italic>Fucus</italic> belts), especially along the Swedish Bothnian Sea and northern Baltic Sea coasts, as it may otherwise be difficult for low&#x02010;salinity adapted genotypes to track the receding salinity gradient (Kotta et al., <xref rid="eva12914-bib-0029" ref-type="ref">2019</xref>). This is especially important as our data show that the Swedish Bothnian Sea coast is genetically isolated. There is currently a lack of designated MPAs in this particular area aiming to protect <italic>Fucus</italic> spp., an overview of which seems motivated to maintain stepping&#x02010;stone possibilities for north to south gene flow in <italic>I. balthica</italic>. It might also be considered to physically translocate northern populations to more southerly areas. While this type of manipulation is controversial, it might prove necessary under rapidly decreasing salinities in order to sustain more southern Baltic Sea populations of isopods. Surface salinity has been decreasing since 1980 and may reach 3 psu in large parts of the Baltic Proper before the end of the century (Meier, Andersson, et al., <xref rid="eva12914-bib-0042" ref-type="ref">2012b</xref>; Meier, Kjellstr&#x000f6;m, &#x00026; Graham, <xref rid="eva12914-bib-0045" ref-type="ref">2006</xref>). However, it is still unclear exactly how the interactions of all projected environmental changes will affect species distributions within the next hundred years, so consequently it will be important to establish genetic monitoring, in order to be able to give early warnings for loss of genetic diversity in of both <italic>Fucus</italic> spp. and <italic>I. balthica</italic>.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="eva12914-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-974-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12914-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-974-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12914-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-974-s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12914-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-974-s004.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12914-sup-0005"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-974-s005.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="eva12914-sup-0006"><caption><p>&#x000a0;</p></caption><media xlink:href="EVA-13-974-s006.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="eva12914-sec-0020"><title>ACKNOWLEDGEMENTS</title><p>This work resulted from the BONUS BAMBI project supported by BONUS (Art 185), funded jointly by the EU and the Swedish Research Council FORMAS. The Linnaeus Centre for Marine Evolutionary Biology at the University of Gothenburg (CeMEB) kindly provided additional funds for sequencing. We would also like to thank the Swedish National Genomic Infrastructure (NGI) and the SNP&#x00026;SEQ Technology platform at Uppsala University for sequencing. All bioinformatics analyses were run on the Albiorix computer cluster (<ext-link ext-link-type="uri" xlink:href="http://albiorix.bioenv.gu.se/">http://albiorix.bioenv.gu.se/</ext-link>) at the Department of Marine Sciences, University of Gothenburg. Finally, we would like to thank our collaborators Melanie Heckwolf, Britta Meyer, Luca Rugiu, Veijo Jormalainen, Eva Roth&#x000e4;usler, Hanna Corell, and Merli P&#x000e4;rnoja for assistance in field campaigns.</p></ack><sec sec-type="data-availability" id="eva12914-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>All raw sequencing data were submitted to the NCBI Short Read Archive, BioProject PRJNA551577. Vcf files containing all genotype calls were submitted to the Dryad online repository (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.xksn02vbk" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.xksn02vbk</ext-link>) (De Wit et al., <xref rid="eva12914-bib-0011" ref-type="ref">2019</xref>). The unpublished genome sequence is available upon request at <ext-link ext-link-type="uri" xlink:href="http://albiorix.bioenv.gu.se/Idotea_balthica.html">http://albiorix.bioenv.gu.se/Idotea_balthica.html</ext-link>.</p></sec><ref-list content-type="cited-references" id="eva12914-bibl-0001"><title>REFERENCES</title><ref id="eva12914-bib-0001"><mixed-citation publication-type="journal" id="eva12914-cit-0001">
+<string-name>
+<surname>Ardehed</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sundqvist</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Schagerstr&#x000f6;m</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Zagrodzka</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Kovaltchouk</surname>, <given-names>N. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Johannesson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <article-title>Divergence within and among seaweed siblings (<italic>Fucus vesiculosus</italic> and <italic>F. radicans</italic>) in the Baltic Sea</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>11</volume>, <elocation-id>e0161266</elocation-id>.<pub-id pub-id-type="pmid">27525655</pub-id></mixed-citation></ref><ref id="eva12914-bib-0002"><mixed-citation publication-type="journal" id="eva12914-cit-0002">
+<string-name>
+<surname>Barth</surname>, <given-names>J. M. I.</given-names>
+</string-name>, <string-name>
+<surname>Villegas&#x02010;R&#x000ed;os</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Freitas</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Moland</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Star</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jentoft</surname>, <given-names>S.</given-names>
+</string-name> (<year>2019</year>). <article-title>Disentangling structural genomic and behavioural barriers in a sea of connectivity</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>28</volume>, <fpage>1394</fpage>&#x02013;<lpage>1411</lpage>. <pub-id pub-id-type="doi">10.1111/mec.15010</pub-id>
+<pub-id pub-id-type="pmid">30633410</pub-id></mixed-citation></ref><ref id="eva12914-bib-0003"><mixed-citation publication-type="journal" id="eva12914-cit-0003">
+<string-name>
+<surname>Bell</surname>, <given-names>T. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sotka</surname>, <given-names>E. E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Local adaptation in adult feeding preference and juvenile performance in the generalist herbivore <italic>Idotea balthica</italic>
+</article-title>. <source xml:lang="en">Oecologia</source>, <volume>170</volume>, <fpage>383</fpage>&#x02013;<lpage>393</lpage>. <pub-id pub-id-type="doi">10.1007/s00442-012-2302-3</pub-id>
+<pub-id pub-id-type="pmid">22451011</pub-id></mixed-citation></ref><ref id="eva12914-bib-0004"><mixed-citation publication-type="journal" id="eva12914-cit-0004">
+<string-name>
+<surname>Berg</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Jentoft</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Star</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Ring</surname>, <given-names>K. H.</given-names>
+</string-name>, <string-name>
+<surname>Knutsen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lien</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Adaptation to low salinity promotes genomic divergence in Atlantic cod (<italic>Gadus morhua</italic> L.)</article-title>. <source xml:lang="en">Genome Biology and Evolution</source>, <volume>7</volume>, <fpage>1644</fpage>&#x02013;<lpage>1663</lpage>. <pub-id pub-id-type="doi">10.1093/gbe/evv093</pub-id>
+<pub-id pub-id-type="pmid">25994933</pub-id></mixed-citation></ref><ref id="eva12914-bib-0005"><mixed-citation publication-type="journal" id="eva12914-cit-0005">
+<string-name>
+<surname>Bierne</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Welch</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Loire</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bonhomme</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>David</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>). <article-title>The coupling hypothesis: Why genome scans may fail to map local adaptation genes</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>20</volume>, <fpage>2044</fpage>&#x02013;<lpage>2072</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2011.05080.x</pub-id>
+<pub-id pub-id-type="pmid">21476991</pub-id></mixed-citation></ref><ref id="eva12914-bib-0006"><mixed-citation publication-type="miscellaneous" id="eva12914-cit-0006">
+<string-name>
+<surname>Bostr&#x000f6;m</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Baden</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Krause&#x02010;Jensen</surname>, <given-names>D.</given-names>
+</string-name> (<year>2003</year>) <article-title>1. The seagrasses of Scandinavia and the Baltic Sea</article-title>. In: Green EP and Short FT. World Atlas of Seagrasses. Prepared by the UIMEP World Conservation Monitoring Centre. University of California Press, Berkeley, USA.</mixed-citation></ref><ref id="eva12914-bib-0007"><mixed-citation publication-type="journal" id="eva12914-cit-0007">
+<string-name>
+<surname>Bradburd</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Coop</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ralph</surname>, <given-names>P. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Inferring continuous and discrete population genetic structure across space</article-title>. <source xml:lang="en">Genetics</source>, <volume>210</volume>, <fpage>33</fpage>&#x02013;<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.118.301333</pub-id>
+<pub-id pub-id-type="pmid">30026187</pub-id></mixed-citation></ref><ref id="eva12914-bib-0008"><mixed-citation publication-type="journal" id="eva12914-cit-0008">
+<string-name>
+<surname>Caye</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Deist</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Martins</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Michel</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fran&#x000e7;ois</surname>, <given-names>O.</given-names>
+</string-name> (<year>2016</year>). <article-title>TESS3: Fast inference of spatial population structure and genome scans for selection</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>16</volume>, <fpage>540</fpage>&#x02013;<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1111/1755-0998.12471</pub-id>
+<pub-id pub-id-type="pmid">26417651</pub-id></mixed-citation></ref><ref id="eva12914-bib-0009"><mixed-citation publication-type="journal" id="eva12914-cit-0009">
+<string-name>
+<surname>Clarkin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Maggs</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Arnott</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Briggs</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Houghton</surname>, <given-names>J. D. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>The colonization of macroalgal rafts by the genus <italic>Idotea</italic> (subphylum Crustacea; Order Isopoda): An active or passive process?</article-title>
+<source xml:lang="en">Journal of the Marine Biological Association of the United Kingdom</source>, <volume>92</volume>, <fpage>1273</fpage>&#x02013;<lpage>1282</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0010"><mixed-citation publication-type="journal" id="eva12914-cit-0010">
+<string-name>
+<surname>de Vries</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>D&#x000f6;&#x000f6;s</surname>, <given-names>K.</given-names>
+</string-name> (<year>2001</year>). <article-title>Calculating lagrangian trajectories using time&#x02010;dependent velocity fields</article-title>. <source xml:lang="en">Journal of Atmospheric and Oceanic Technology</source>, <volume>18</volume>, <fpage>1092</fpage>&#x02013;<lpage>1101</lpage>. <pub-id pub-id-type="doi">10.1175/1520-0426(2001)018&#x0003c;1092:CLTUTD&#x0003e;2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0011"><mixed-citation publication-type="miscellaneous" id="eva12914-cit-0011">
+<string-name>
+<surname>De Wit</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Pereyra</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name>
+<surname>Panova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johannesson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2019</year>). <article-title>Data from: Spatial genetic structure in a crustacean herbivore highlights the need for local considerations in Baltic Sea biodiversity management</article-title>. Dryad, Dataset<pub-id pub-id-type="doi">10.5061/dryad.xksn02vbk</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0012"><mixed-citation publication-type="journal" id="eva12914-cit-0012">
+<string-name>
+<surname>DeFaveri</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meril&#x000e4;</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Heterogeneous genomic differentiation in marine threespine sticklebacks: Adaptation along an environmental gradient</article-title>. <source xml:lang="en">Evolution</source>, <volume>67</volume>, <fpage>2530</fpage>&#x02013;<lpage>2546</lpage>.<pub-id pub-id-type="pmid">24033165</pub-id></mixed-citation></ref><ref id="eva12914-bib-0013"><mixed-citation publication-type="journal" id="eva12914-cit-0013">
+<string-name>
+<surname>Doerr</surname>, <given-names>V. A. J.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Doerr</surname>, <given-names>E. D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Connectivity dispersal behaviour and conservation under climate change: A response to Hodgson et al</article-title>
+<source xml:lang="en">Journal of Applied Ecology</source>, <volume>48</volume>, <fpage>143</fpage>&#x02013;<lpage>147</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0014"><mixed-citation publication-type="journal" id="eva12914-cit-0014">
+<string-name>
+<surname>Engkvist</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Malm</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tobiasson</surname>, <given-names>S.</given-names>
+</string-name> (<year>2000</year>). <article-title>Density dependent grazing effects of the isopod <italic>Idotea baltica</italic> Pallas on <italic>Fucus vesiculosus</italic> L in the Baltic sea</article-title>. <source xml:lang="en">Aquatic Ecology</source>, <volume>34</volume>, <fpage>253</fpage>&#x02013;<lpage>260</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0015"><mixed-citation publication-type="journal" id="eva12914-cit-0015">
+<string-name>
+<surname>Excoffier</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Foll</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Petit</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Genetic Consequences of Range Expansions</article-title>. <source xml:lang="en">Annual Review of Ecology, Evolution, and Systematics</source>, <volume>40</volume>, <fpage>481</fpage>&#x02013;<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.39.110707.173414</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0016"><mixed-citation publication-type="journal" id="eva12914-cit-0016">
+<string-name>
+<surname>Excoffier</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lischer</surname>, <given-names>H. E. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Arlequin suite ver 3.5: A new series of programs to perform population genetics analyses under Linux and Windows</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>10</volume>, <fpage>564</fpage>&#x02013;<lpage>567</lpage>. <pub-id pub-id-type="doi">10.1111/j.1755-0998.2010.02847.x</pub-id>
+<pub-id pub-id-type="pmid">21565059</pub-id></mixed-citation></ref><ref id="eva12914-bib-0017"><mixed-citation publication-type="journal" id="eva12914-cit-0017">
+<string-name>
+<surname>Foll</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gaggiotti</surname>, <given-names>O.</given-names>
+</string-name> (<year>2008</year>). <article-title>A genome&#x02010;scan method to identify selected loci appropriate for both dominant and codominant markers: A Bayesian perspective</article-title>. <source xml:lang="en">Genetics</source>, <volume>180</volume>, <fpage>977</fpage>&#x02013;<lpage>993</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.108.092221</pub-id>
+<pub-id pub-id-type="pmid">18780740</pub-id></mixed-citation></ref><ref id="eva12914-bib-0018"><mixed-citation publication-type="journal" id="eva12914-cit-0018">
+<string-name>
+<surname>Gagnaire</surname>, <given-names>P.&#x02010;A.</given-names>
+</string-name>, <string-name>
+<surname>Broquet</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Aurelle</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Viard</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Souissi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bonhomme</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bierne</surname>, <given-names>N.</given-names>
+</string-name> (<year>2015</year>). <article-title>Using neutral, selected, and hitchhiker loci to assess connectivity of marine populations in the genomic era</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>8</volume>, <fpage>769</fpage>&#x02013;<lpage>786</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12288</pub-id>
+<pub-id pub-id-type="pmid">26366195</pub-id></mixed-citation></ref><ref id="eva12914-bib-0019"><mixed-citation publication-type="journal" id="eva12914-cit-0019">
+<string-name>
+<surname>Galindo</surname>, <given-names>H. M.</given-names>
+</string-name>, <string-name>
+<surname>Olson</surname>, <given-names>D. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palumbi</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2006</year>). <article-title>Seascape genetics: A coupled oceanographic&#x02010;genetic model predicts population structure of Caribbean corals</article-title>. <source xml:lang="en">Current Biology</source>, <volume>16</volume>, <fpage>1622</fpage>&#x02013;<lpage>1626</lpage>. <pub-id pub-id-type="doi">10.1016/j.cub.2006.06.052</pub-id>
+<pub-id pub-id-type="pmid">16920623</pub-id></mixed-citation></ref><ref id="eva12914-bib-0020"><mixed-citation publication-type="miscellaneous" id="eva12914-cit-0020">
+<collab collab-type="authors">HELCOM</collab>
+(<year>2009</year>
+<article-title>). Biodiversity in the Baltic Sea &#x02013; An integrated thematic assessment on biodiversity and nature conservation in the Baltic Sea</article-title>. Balt. Sea Environ. Proc. No. 116B. <italic>Baltic Marine Environment Protection Commission &#x02013; Helsinki Commission</italic>.</mixed-citation></ref><ref id="eva12914-bib-0021"><mixed-citation publication-type="journal" id="eva12914-cit-0021">
+<string-name>
+<surname>Hordoir</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Axell</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000f6;glund</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Dieterich</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fransner</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gr&#x000f6;ger</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Haapala</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Nemo&#x02010;Nordic 1.0: A NEMO&#x02010;based ocean model for the Baltic and North seas &#x02013; research and operational applications</article-title>. <source xml:lang="en">Geoscientific Model Development</source>, <volume>12</volume>, <fpage>363</fpage>&#x02013;<lpage>386</lpage>. <pub-id pub-id-type="doi">10.5194/gmd-12-363-2019</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0022"><mixed-citation publication-type="book" id="eva12914-cit-0022">
+<string-name>
+<surname>Ignatius</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Axberg</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Niemist&#x000f6;</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Winterhalter</surname>, <given-names>B.</given-names>
+</string-name> (<year>1981</year>). <chapter-title>Quaternary geology of the Baltic Sea</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Voipio</surname><given-names>A.</given-names></name></person-group> (Ed.), <source xml:lang="en">The Baltic Sea</source> (pp. <fpage>54</fpage>&#x02013;<lpage>104</lpage>). Elsevier Oceanographic Series. <publisher-loc>Amsterdam</publisher-loc>: <publisher-name>Elsevier Scientific</publisher-name>.</mixed-citation></ref><ref id="eva12914-bib-0023"><mixed-citation publication-type="journal" id="eva12914-cit-0023">
+<string-name>
+<surname>Jahnke</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Moksnes</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Loo</surname>, <given-names>L.&#x02010;O.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson Jacobi</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Olsen</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Seascape genetics and biophysical connectivity modelling support conservation of the seagrass <italic>Zostera marina</italic> in the Skagerrak&#x02010;Kattegat region of the eastern North Sea</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>11</volume>, <fpage>645</fpage>&#x02013;<lpage>661</lpage>.<pub-id pub-id-type="pmid">29875808</pub-id></mixed-citation></ref><ref id="eva12914-bib-0024"><mixed-citation publication-type="journal" id="eva12914-cit-0024">
+<string-name>
+<surname>Jaspers</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>M&#x000f8;ller</surname>, <given-names>L. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ki&#x000f8;rboe</surname>, <given-names>T.</given-names>
+</string-name> (<year>2011</year>). <article-title>Salinity Gradient of the Baltic Sea Limits the Reproduction and Population Expansion of the Newly Invaded Comb Jelly <italic>Mnemiopsis leidyi</italic>
+</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <elocation-id>e24065</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0024065</pub-id>
+<pub-id pub-id-type="pmid">21887373</pub-id></mixed-citation></ref><ref id="eva12914-bib-0025"><mixed-citation publication-type="journal" id="eva12914-cit-0025">
+<string-name>
+<surname>Johannesson</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name> (<year>2006</year>). <article-title>Life on the margin: Genetic isolation and diversity loss in a peripheral marine ecosystem, the Baltic Sea</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>15</volume>, <fpage>2013</fpage>&#x02013;<lpage>2029</lpage>.<pub-id pub-id-type="pmid">16780421</pub-id></mixed-citation></ref><ref id="eva12914-bib-0026"><mixed-citation publication-type="journal" id="eva12914-cit-0026">
+<string-name>
+<surname>Johannesson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Smolarz</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Grahn</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Andre</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>The future of Baltic Sea populations : Local extinction or evolutionary rescue ?</article-title>
+<source xml:lang="en">Ambio</source>, <volume>40</volume>, <fpage>179</fpage>&#x02013;<lpage>190</lpage>.<pub-id pub-id-type="pmid">21446396</pub-id></mixed-citation></ref><ref id="eva12914-bib-0027"><mixed-citation publication-type="journal" id="eva12914-cit-0027">
+<string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Kotta</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>H. C.</given-names>
+</string-name> et al (<year>2018</year>). <article-title>High climate velocity and population fragmentation may constrain climate&#x02010;driven range shift of the key habitat former <italic>Fucus vesiculosus</italic>
+</article-title>. <source xml:lang="en">Diversity and Distributions</source>, <volume>24</volume>, <fpage>892</fpage>&#x02013;<lpage>905</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0028"><mixed-citation publication-type="journal" id="eva12914-cit-0028">
+<string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Nilsson Jacobi</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moksnes</surname>, <given-names>P.&#x02010;O.</given-names>
+</string-name> (<year>2016</year>). <article-title>How to select networks of marine protected areas for multiple species with different dispersal strategies</article-title>. <source xml:lang="en">Diversity and Distributions</source>, <volume>22</volume>, <fpage>161</fpage>&#x02013;<lpage>173</lpage>. <pub-id pub-id-type="doi">10.1111/ddi.12394</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0029"><mixed-citation publication-type="journal" id="eva12914-cit-0029">
+<string-name>
+<surname>Kotta</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Vanhatalo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>J&#x000e4;nes</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Orav&#x02010;Kotta</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Rugiu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jormalainen</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Johannesson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2019</year>). <article-title>Integrating experimental and distribution data to predict future species patterns</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>9</volume>, <fpage>1821</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-018-38416-3</pub-id>
+<pub-id pub-id-type="pmid">30755688</pub-id></mixed-citation></ref><ref id="eva12914-bib-0030"><mixed-citation publication-type="journal" id="eva12914-cit-0030">
+<string-name>
+<surname>Laikre</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lundmark</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jansson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Wennerstr&#x000f6;m</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Edman</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sandstr&#x000f6;m</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Lack of recognition of genetic biodiversity: International policy and its implementation in Baltic Sea marine protected areas</article-title>. <source xml:lang="en">Ambio</source>, <volume>45</volume>, <fpage>661</fpage>&#x02013;<lpage>680</lpage>. <pub-id pub-id-type="doi">10.1007/s13280-016-0776-7</pub-id>
+<pub-id pub-id-type="pmid">27098316</pub-id></mixed-citation></ref><ref id="eva12914-bib-0031"><mixed-citation publication-type="journal" id="eva12914-cit-0031">
+<string-name>
+<surname>Lamichhaney</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Barrio</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Rafati</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Sundstrom</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>, <given-names>C.&#x02010;J.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>E. R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Andersson</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Population&#x02010;scale sequencing reveals genetic differentiation due to local adaptation in Atlantic herring</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences</source>, <volume>109</volume>, <fpage>19345</fpage>&#x02013;<lpage>19350</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1216128109</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0032"><mixed-citation publication-type="journal" id="eva12914-cit-0032">
+<string-name>
+<surname>Langmead</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salzberg</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Fast gapped&#x02010;read alignment with Bowtie 2</article-title>. <source xml:lang="en">Nature Methods</source>, <volume>9</volume>, <fpage>357</fpage>&#x02013;<lpage>359</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.1923</pub-id>
+<pub-id pub-id-type="pmid">22388286</pub-id></mixed-citation></ref><ref id="eva12914-bib-0033"><mixed-citation publication-type="miscellaneous" id="eva12914-cit-0033">
+<string-name>
+<surname>Le Moan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gaggiotti</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Henriques</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Martinez</surname>, <given-names>P.</given-names>
+</string-name> (<year>2019b</year>). <article-title>Beyond parallel evolution&#x0202f;: when several species colonize the same environmental gradient</article-title>. <italic>bioRxiv</italic> Available online: DOI: <pub-id pub-id-type="doi">10.1101/662569</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0034"><mixed-citation publication-type="miscellaneous" id="eva12914-cit-0034">
+<string-name>
+<surname>Le Moan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jim&#x000e9;nez&#x02010;Mena</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Bekkevold</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hemmer&#x02010;Hansen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019a</year>). <article-title>Fine scale population structure linked to neutral divergence in the common sole (<italic>Solea solea</italic>), a marine fish with high dispersal capacity</article-title>. <italic>bioRxiv</italic> Available online: DOI: <pub-id pub-id-type="doi">10.1101/662619</pub-id>.</mixed-citation></ref><ref id="eva12914-bib-0035"><mixed-citation publication-type="journal" id="eva12914-cit-0035">
+<string-name>
+<surname>Leidenberger</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>De Giovanni</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kulawik</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>A. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bourlat</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Mapping present and future potential distribution patterns for a meso&#x02010;grazer guild in the Baltic Sea</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>42</volume>, <fpage>241</fpage>&#x02013;<lpage>254</lpage>. <pub-id pub-id-type="doi">10.1111/jbi.12395</pub-id>
+<pub-id pub-id-type="pmid">25653464</pub-id></mixed-citation></ref><ref id="eva12914-bib-0036"><mixed-citation publication-type="journal" id="eva12914-cit-0036">
+<string-name>
+<surname>Leidenberger</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e5;rding</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Ecology and distribution of the isopod genus <italic>Idotea</italic> in the Baltic Sea: Key species in a changing environment</article-title>. <source xml:lang="en">Journal of Crustacean Biology</source>, <volume>32</volume>, <fpage>359</fpage>&#x02013;<lpage>381</lpage>. <pub-id pub-id-type="doi">10.1163/193724012X626485</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0037"><mixed-citation publication-type="book" id="eva12914-cit-0037">
+<string-name>
+<surname>Lepp&#x000e4;ranta</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Myrberg</surname>, <given-names>K.</given-names>
+</string-name> (<year>2009</year>). <source xml:lang="en">Physical oceanography of the Baltic Sea</source>. <publisher-loc>Chiester, UK, Springer&#x02010;Verlag, Berlin Heidelberg, New York</publisher-loc>: <publisher-name>Praxis Publishing Ltd</publisher-name>.</mixed-citation></ref><ref id="eva12914-bib-0038"><mixed-citation publication-type="journal" id="eva12914-cit-0038">
+<string-name>
+<surname>Lester</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Halpern</surname>, <given-names>B. S.</given-names>
+</string-name>, <string-name>
+<surname>Grorud&#x02010;Colvert</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lubchenco</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ruttenberg</surname>, <given-names>B. I.</given-names>
+</string-name>, <string-name>
+<surname>Gaines</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Warner</surname>, <given-names>R. R.</given-names>
+</string-name> (<year>2009</year>). <article-title>Biological effects within no&#x02010;take marine reserves: A global synthesis</article-title>. <source xml:lang="en">Marine Ecology Progress Series</source>, <volume>384</volume>, <fpage>33</fpage>&#x02013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.3354/meps08029</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0039"><mixed-citation publication-type="journal" id="eva12914-cit-0039">
+<string-name>
+<surname>Loarie</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Duffy</surname>, <given-names>P. B.</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Asner</surname>, <given-names>G. P.</given-names>
+</string-name>, <string-name>
+<surname>Field</surname>, <given-names>C. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ackerly</surname>, <given-names>D. D.</given-names>
+</string-name> (<year>2009</year>). <article-title>The velocity of climate change</article-title>. <source xml:lang="en">Nature</source>, <volume>462</volume>, <fpage>1052</fpage>&#x02013;<lpage>1055</lpage>. <pub-id pub-id-type="doi">10.1038/nature08649</pub-id>
+<pub-id pub-id-type="pmid">20033047</pub-id></mixed-citation></ref><ref id="eva12914-bib-0040"><mixed-citation publication-type="journal" id="eva12914-cit-0040">
+<string-name>
+<surname>Mantel</surname>, <given-names>N.</given-names>
+</string-name> (<year>1967</year>). <article-title>Ranking procedures for arbitrarily restricted observation</article-title>. <source xml:lang="en">Biometrics</source>, <volume>23</volume>, <fpage>65</fpage>&#x02013;<lpage>78</lpage>. <pub-id pub-id-type="doi">10.2307/2528282</pub-id>
+<pub-id pub-id-type="pmid">6050473</pub-id></mixed-citation></ref><ref id="eva12914-bib-0041"><mixed-citation publication-type="journal" id="eva12914-cit-0041">
+<string-name>
+<surname>McKenna</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hanna</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Banks</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name>
+<surname>Kernytsky</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Garimella</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>DePristo</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2010</year>). <article-title>The genome analysis toolkit : A MapReduce framework for analyzing next&#x02010;generation DNA sequencing data</article-title>. <source xml:lang="en">Genome Research</source>, <volume>20</volume>, <fpage>1297</fpage>&#x02013;<lpage>1303</lpage>.<pub-id pub-id-type="pmid">20644199</pub-id></mixed-citation></ref><ref id="eva12914-bib-0042"><mixed-citation publication-type="journal" id="eva12914-cit-0042">
+<string-name>
+<surname>Meier</surname>, <given-names>H. E. M.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name>
+<surname>Arheimer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Blenckner</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Chubarenko</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Donnelly</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zorita</surname>, <given-names>E.</given-names>
+</string-name> (<year>2012b</year>). <article-title>Comparing reconstructed past variations and future projections of the Baltic Sea ecosystem&#x02014;first results from multi&#x02010;model ensemble simulations</article-title>. <source xml:lang="en">Environmental Research Letters</source>, <volume>7</volume>, <fpage>034005</fpage>
+<pub-id pub-id-type="doi">10.1088/1748-9326/7/3/034005</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0043"><mixed-citation publication-type="journal" id="eva12914-cit-0043">
+<string-name>
+<surname>Meier</surname>, <given-names>H. E. M.</given-names>
+</string-name>, <string-name>
+<surname>D&#x000f6;scher</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fax&#x000e9;n</surname>, <given-names>T.</given-names>
+</string-name> (<year>2003</year>). <article-title>A multiprocessor coupled ice&#x02010;ocean model for the Baltic Sea: Application to salt inflow</article-title>. <source xml:lang="en">JGR Oceans</source>, <volume>108</volume>, <fpage>3273</fpage>.</mixed-citation></ref><ref id="eva12914-bib-0044"><mixed-citation publication-type="journal" id="eva12914-cit-0044">
+<string-name>
+<surname>Meier</surname>, <given-names>H. E. M.</given-names>
+</string-name>, <string-name>
+<surname>Hordoir</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name>
+<surname>Dieterich</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Eilola</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gustafsson</surname>, <given-names>B. G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Schimanke</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012a</year>). <article-title>Modeling the combined impact of changing climate and changing nutrient loads on the Baltic Sea environment in an ensemble of transient simulations for 1961&#x02013;2099</article-title>. <source xml:lang="en">Climate Dynamics</source>, <volume>39</volume>, <fpage>2421</fpage>&#x02013;<lpage>2441</lpage>. <pub-id pub-id-type="doi">10.1007/s00382-012-1339-7</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0045"><mixed-citation publication-type="journal" id="eva12914-cit-0045">
+<string-name>
+<surname>Meier</surname>, <given-names>H. E. M.</given-names>
+</string-name>, <string-name>
+<surname>Kjellstr&#x000f6;m</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Graham</surname>, <given-names>P.</given-names>
+</string-name> (<year>2006</year>). <article-title>Estimating uncertainties of projected Baltic Sea salinity in the late 21st century</article-title>. <source xml:lang="en">Geophysical Research Letters</source>, <volume>33</volume>, <fpage>L15705</fpage>
+<pub-id pub-id-type="doi">10.1029/2006GL026488</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0046"><mixed-citation publication-type="journal" id="eva12914-cit-0046">
+<string-name>
+<surname>Merilaita</surname>, <given-names>S.</given-names>
+</string-name> (<year>2001</year>). <article-title>Habitat heterogeneity, predation and gene flow: Colour polymorphism in the isopod, <italic>Idotea baltica</italic>
+</article-title>. <source xml:lang="en">Evolutionary Ecology</source>, <volume>15</volume>, <fpage>103</fpage>&#x02013;<lpage>116</lpage>. <pub-id pub-id-type="doi">10.1023/A:1013814623311</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0047"><mixed-citation publication-type="journal" id="eva12914-cit-0047">
+<string-name>
+<surname>Moksnes</surname>, <given-names>P. O.</given-names>
+</string-name>, <string-name>
+<surname>Corell</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tryman</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hordoir</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name> (<year>2014</year>). <article-title>Larval behavior and dispersal mechanisms in shore crab larvae (<italic>Carcinus maenas</italic>): Local adaptations to different tidal environments?</article-title>
+<source xml:lang="en">Limnology and Oceanography</source>, <volume>59</volume>, <fpage>588</fpage>&#x02013;<lpage>602</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0048"><mixed-citation publication-type="journal" id="eva12914-cit-0048">
+<string-name>
+<surname>Nielsen</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>, <given-names>P. H.</given-names>
+</string-name>, <string-name>
+<surname>Meldrup</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hansen</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>2004</year>). <article-title>Genetic population structure of turbot (<italic>Scophthalmus maximus</italic> L.) supports the presence of multiple hybrid zones for marine fishes in the transition zone between the Baltic Sea and the North Sea</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>13</volume>, <fpage>585</fpage>&#x02013;<lpage>595</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-294X.2004.02097.x</pub-id>
+<pub-id pub-id-type="pmid">14871363</pub-id></mixed-citation></ref><ref id="eva12914-bib-0049"><mixed-citation publication-type="journal" id="eva12914-cit-0049">
+<string-name>
+<surname>Nilsson Jacobi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>D&#x000f6;&#x000f6;s</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Identification of subpopulations from connectivity matrices</article-title>. <source xml:lang="en">Ecography</source>, <volume>35</volume>, <fpage>1004</fpage>&#x02013;<lpage>1016</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0587.2012.07281.x</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0050"><mixed-citation publication-type="journal" id="eva12914-cit-0050">
+<string-name>
+<surname>Ojaveer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jaanus</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>MacKenzie</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Olenin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Radziejewska</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zaiko</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>). <article-title>Status of Biodiversity in the Baltic Sea</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>5</volume>, <elocation-id>e12467</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0012467</pub-id>
+<pub-id pub-id-type="pmid">20824189</pub-id></mixed-citation></ref><ref id="eva12914-bib-0051"><mixed-citation publication-type="journal" id="eva12914-cit-0051">
+<string-name>
+<surname>Ojaveer</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kotta</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Ecosystem impacts of the widespread non&#x02010;indigenous species in the Baltic Sea: Literature survey evidences major limitations in knowledge</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>750</volume>, <fpage>171</fpage>&#x02013;<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-014-2080-5</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0052"><mixed-citation publication-type="journal" id="eva12914-cit-0052">
+<string-name>
+<surname>Olsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Florin</surname>, <given-names>A.&#x02010;B.</given-names>
+</string-name>, <string-name>
+<surname>Mo</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Aho</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ryman</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Genetic structure of whitefish (<italic>Coregonus maraena</italic>) in the Baltic Sea</article-title>. <source xml:lang="en">Estuarine, Coastal and Shelf Science</source>, <volume>97</volume>, <fpage>104</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecss.2011.11.032</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0053"><mixed-citation publication-type="journal" id="eva12914-cit-0053">
+<string-name>
+<surname>Olsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mo</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Florin</surname>, <given-names>A.&#x02010;B.</given-names>
+</string-name>, <string-name>
+<surname>Aho</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ryman</surname>, <given-names>N.</given-names>
+</string-name> (<year>2011</year>). <article-title>Genetic population structure of perch <italic>Perca fluviatilis</italic> along the Swedish coast of the Baltic Sea</article-title>. <source xml:lang="en">Journal of Fish Biology</source>, <volume>79</volume>, <fpage>122</fpage>&#x02013;<lpage>137</lpage>. <pub-id pub-id-type="doi">10.1111/j.1095-8649.2011.02998.x</pub-id>
+<pub-id pub-id-type="pmid">21722115</pub-id></mixed-citation></ref><ref id="eva12914-bib-0054"><mixed-citation publication-type="journal" id="eva12914-cit-0054">
+<string-name>
+<surname>&#x000d6;stman</surname>, <given-names>&#x000d6;.</given-names>
+</string-name>, <string-name>
+<surname>Olsson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dannewitz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Palm</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Florin</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>2017</year>). <article-title>Inferring spatial structure from population genetics and spatial synchrony in demography of Baltic Sea fishes: Implications for management</article-title>. <source xml:lang="en">Fish and Fisheries</source>, <volume>18</volume>, <fpage>324</fpage>&#x02013;<lpage>339</lpage>. <pub-id pub-id-type="doi">10.1111/faf.12182</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0055"><mixed-citation publication-type="journal" id="eva12914-cit-0055">
+<string-name>
+<surname>Pereyra</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name>
+<surname>Huenchu&#x000f1;ir</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Forslund</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kautsky</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Johannesson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2013</year>). <article-title>Parallel speciation or long&#x02010;distance dispersal? Lessons from seaweeds (<italic>Fucus</italic>) in the Baltic Sea</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>26</volume>, <fpage>1727</fpage>&#x02013;<lpage>1737</lpage>.<pub-id pub-id-type="pmid">23859364</pub-id></mixed-citation></ref><ref id="eva12914-bib-0056"><mixed-citation publication-type="journal" id="eva12914-cit-0056">
+<string-name>
+<surname>Petkova</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Novembre</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stephens</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>). <article-title>Visualizing spatial population structure with estimated effective migration surfaces</article-title>. <source xml:lang="en">Nature Genetics</source>, <volume>48</volume>, <fpage>94</fpage>&#x02013;<lpage>100</lpage>. <pub-id pub-id-type="doi">10.1038/ng.3464</pub-id>
+<pub-id pub-id-type="pmid">26642242</pub-id></mixed-citation></ref><ref id="eva12914-bib-0057"><mixed-citation publication-type="journal" id="eva12914-cit-0057">
+<string-name>
+<surname>Po&#x00107;wierz&#x02010;Kotus</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Berna&#x0015b;</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kent</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Lien</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Leli&#x00171;na</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>D&#x00119;bowski</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wenne</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Restitution and genetic differentiation of salmon populations in the southern Baltic genotyped with the Atlantic salmon 7K SNP array</article-title>. <source xml:lang="en">Genetics Selection Evolution</source>, <volume>47</volume>, <fpage>39</fpage>
+<pub-id pub-id-type="doi">10.1186/s12711-015-0121-9</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0058"><mixed-citation publication-type="journal" id="eva12914-cit-0058">
+<string-name>
+<surname>Purcell</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Neale</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Todd&#x02010;brown</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Bender</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Sham</surname>, <given-names>P. C.</given-names>
+</string-name> (<year>2007</year>). <article-title>PLINK: A tool set for whole&#x02010;genome association and population&#x02010;based linkage analyses</article-title>. <source xml:lang="en">The American Journal of Human Genetics</source>, <volume>81</volume>, <fpage>559</fpage>&#x02013;<lpage>575</lpage>.<pub-id pub-id-type="pmid">17701901</pub-id></mixed-citation></ref><ref id="eva12914-bib-0059"><mixed-citation publication-type="journal" id="eva12914-cit-0059">
+<string-name>
+<surname>Raymond</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name> (<year>1995</year>). <article-title>GENEPOP (Version 1.2): Population genetics software for exact tests and ecumenicism</article-title>. <source xml:lang="en">Journal of Heredity</source>, <volume>86</volume>, <fpage>248</fpage>&#x02013;<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1093/oxfordjournals.jhered.a111573</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0060"><mixed-citation publication-type="journal" id="eva12914-cit-0060">
+<string-name>
+<surname>Reusch</surname>, <given-names>T. B. H.</given-names>
+</string-name>, <string-name>
+<surname>Dierking</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name>
+<surname>Bonsdorff</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Carstensen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Casini</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zandersen</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>The Baltic Sea as a time machine for the future coastal ocean. </article-title>
+<source xml:lang="en">Science. Advances</source>, <volume>4</volume>, <fpage>eaar8195</fpage>
+<pub-id pub-id-type="doi">10.1126/sciadv.aar8195</pub-id>
+<pub-id pub-id-type="pmid">29750199</pub-id></mixed-citation></ref><ref id="eva12914-bib-0061"><mixed-citation publication-type="journal" id="eva12914-cit-0061">
+<string-name>
+<surname>Rothausler</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Corell</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jormalainen</surname>, <given-names>V.</given-names>
+</string-name> (<year>2015</year>). <article-title>Abundance and dispersal trajectories of floating <italic>Fucus vesiculosus</italic> in the Northern Baltic Sea</article-title>. <source xml:lang="en">Limnology and Oceanography</source>, <volume>60</volume>, <fpage>2173</fpage>&#x02013;<lpage>2184</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0062"><mixed-citation publication-type="journal" id="eva12914-cit-0062">
+<string-name>
+<surname>Rousset</surname>, <given-names>F.</given-names>
+</string-name> (<year>2008</year>). <article-title>GENEPOP&#x02019;007: A complete re&#x02010;implementation of the GENEPOP software for Windows and Linux</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>8</volume>, <fpage>103</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">21585727</pub-id></mixed-citation></ref><ref id="eva12914-bib-0063"><mixed-citation publication-type="journal" id="eva12914-cit-0063">
+<string-name>
+<surname>Sandstr&#x000f6;m</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lundmark</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Johannesson</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Laikre</surname>, <given-names>L.</given-names>
+</string-name> (<year>2019</year>). <article-title>Understanding and bridging the conservation&#x02010;genetics gap in marine conservation</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>33</volume>, <fpage>725</fpage>&#x02013;<lpage>728</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.13272</pub-id>
+<pub-id pub-id-type="pmid">30578637</pub-id></mixed-citation></ref><ref id="eva12914-bib-0064"><mixed-citation publication-type="journal" id="eva12914-cit-0064">
+<string-name>
+<surname>Selkoe</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>D&#x02019;Aloia</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Crandall</surname>, <given-names>E. D.</given-names>
+</string-name>, <string-name>
+<surname>Iacchei</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Liggins</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Puritz</surname>, <given-names>J. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Toonen</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>A decade of seascape genetics: Contributions to basic and applied marine connectivity</article-title>. <source xml:lang="en">Marine Ecology Progress Series</source>, <volume>554</volume>, <fpage>1</fpage>&#x02013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.3354/meps11792</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0065"><mixed-citation publication-type="journal" id="eva12914-cit-0065">
+<string-name>
+<surname>Sj&#x000f6;qvist</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Godhe</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Sundqvist</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kremp</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Local adaptation and oceanographic connectivity patterns explain genetic differentiation of a marine diatom across the North Sea &#x02013; Baltic Sea salinity gradient</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>24</volume>, <fpage>2871</fpage>&#x02013;<lpage>2885</lpage>. <pub-id pub-id-type="doi">10.1111/mec.13208</pub-id>
+<pub-id pub-id-type="pmid">25892181</pub-id></mixed-citation></ref><ref id="eva12914-bib-0066"><mixed-citation publication-type="journal" id="eva12914-cit-0066">
+<string-name>
+<surname>Skotte</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sand Korneliussen</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Albrechtsen</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Estimating individual admixture proportions from next generation sequencing data</article-title>. <source xml:lang="en">Genetics</source>, <volume>195</volume>, <fpage>693</fpage>&#x02013;<lpage>702</lpage>. <pub-id pub-id-type="doi">10.1534/genetics.113.154138</pub-id>
+<pub-id pub-id-type="pmid">24026093</pub-id></mixed-citation></ref><ref id="eva12914-bib-0067"><mixed-citation publication-type="journal" id="eva12914-cit-0067">
+<string-name>
+<surname>Teacher</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>P. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meril&#x000e4;</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Oceanographic connectivity and environmental correlates of genetic structuring in Atlantic herring in the Baltic Sea</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>6</volume>, <fpage>549</fpage>&#x02013;<lpage>567</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12042</pub-id>
+<pub-id pub-id-type="pmid">23745145</pub-id></mixed-citation></ref><ref id="eva12914-bib-0068"><mixed-citation publication-type="book" id="eva12914-cit-0068">
+<string-name>
+<surname>Thiel</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gutow</surname>, <given-names>L.</given-names>
+</string-name> (<year>2005</year>). <chapter-title>The ecology of rafting in the marine environment. II. The rafting organisms and community</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Gibson</surname><given-names>R. N.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Atkinson</surname><given-names>R. J. A.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Gordon</surname><given-names>J. D. M.</given-names></name></person-group> (Eds.), <source xml:lang="en">Oceanography and marine biology: An annual review</source>, <volume>43</volume>, (pp. <fpage>279</fpage>-<lpage>418</lpage>). <publisher-loc>New York, NY</publisher-loc>:<publisher-name>Taylor &#x00026; Francis</publisher-name>.</mixed-citation></ref><ref id="eva12914-bib-0069"><mixed-citation publication-type="journal" id="eva12914-cit-0069">
+<string-name>
+<surname>Travis</surname>, <given-names>J. M. J.</given-names>
+</string-name>, <string-name>
+<surname>Delgado</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bocedi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Baguette</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Barto&#x00144;</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Bonte</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bullock</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Dispersal and species&#x02019; responses to climate change</article-title>. <source xml:lang="en">Oikos</source>, <volume>122</volume>, <fpage>1532</fpage>&#x02013;<lpage>1540</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0706.2013.00399.x</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0070"><mixed-citation publication-type="journal" id="eva12914-cit-0070">
+<string-name>
+<surname>Underwood</surname>, <given-names>J. N.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>L. D.</given-names>
+</string-name>, <string-name>
+<surname>Van</surname>, <given-names>O. M. J. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gilmour</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Ecologically relevant dispersal of corals on isolated reefs: Implications for managing resilience</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>19</volume>, <fpage>18</fpage>&#x02013;<lpage>29</lpage>.<pub-id pub-id-type="pmid">19323171</pub-id></mixed-citation></ref><ref id="eva12914-bib-0071"><mixed-citation publication-type="journal" id="eva12914-cit-0071">
+<string-name>
+<surname>Urho</surname>, <given-names>L.</given-names>
+</string-name> (<year>1999</year>). <article-title>Relationship between dispersal of larvae and nursery areas in the Baltic Sea</article-title>. <source xml:lang="en">ICES Journal of Marine Science, </source>
+<volume>56</volume>, <fpage>114</fpage>&#x02013;<lpage>121</lpage>. <pub-id pub-id-type="doi">10.1006/jmsc.1999.0634</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0072"><mixed-citation publication-type="journal" id="eva12914-cit-0072">
+<string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>, <given-names>J. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Matz</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2012</year>). <article-title>2b&#x02010;RAD: A simple and flexible method for genome&#x02010;wide genotyping</article-title>. <source xml:lang="en">Nature Methods</source>, <volume>9</volume>, <fpage>808</fpage>&#x02013;<lpage>812</lpage>.<pub-id pub-id-type="pmid">22609625</pub-id></mixed-citation></ref><ref id="eva12914-bib-0073"><mixed-citation publication-type="journal" id="eva12914-cit-0073">
+<string-name>
+<surname>Weinberger</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Buchholz</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Karez</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wahl</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>The invasive red alga <italic>Gracilaria vermiculophylla</italic> in the Baltic Sea: Adaptation to brackish water may compensate for light limitation</article-title>. <source xml:lang="en">Aquatic Biology</source>, <volume>3</volume>, <fpage>251</fpage>&#x02013;<lpage>264</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0074"><mixed-citation publication-type="journal" id="eva12914-cit-0074">
+<string-name>
+<surname>Wennerstr&#x000f6;m</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Jansson</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Laikre</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Baltic Sea genetic biodiversity: Current knowledge relating to conservation management</article-title>. <source xml:lang="en">Aquatic Conservation: Marine and Freshwater Ecosystems</source>, <volume>27</volume>, <fpage>1069</fpage>&#x02013;<lpage>1090</lpage>. <pub-id pub-id-type="doi">10.1002/aqc.2771</pub-id>
+</mixed-citation></ref><ref id="eva12914-bib-0075"><mixed-citation publication-type="journal" id="eva12914-cit-0075">
+<string-name>
+<surname>Whitlock</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lotterhos</surname>, <given-names>K. E.</given-names>
+</string-name> (<year>2015</year>). <article-title>Reliable detection of loci responsible for local adaptation: Inference of a null model through trimming the distribution of F<italic><sub>ST</sub></italic>*</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>186</volume>, <fpage>S24</fpage>&#x02013;<lpage>S36</lpage>.</mixed-citation></ref><ref id="eva12914-bib-0076"><mixed-citation publication-type="journal" id="eva12914-cit-0076">
+<string-name>
+<surname>Winston</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Dispersal in marine organisms without a pelagic larval phase</article-title>. <source xml:lang="en">Integrative and Comparative Biology</source>, <volume>52</volume>, <fpage>447</fpage>&#x02013;<lpage>457</lpage>. <pub-id pub-id-type="doi">10.1093/icb/ics040</pub-id>
+<pub-id pub-id-type="pmid">22505589</pub-id></mixed-citation></ref><ref id="eva12914-bib-0077"><mixed-citation publication-type="journal" id="eva12914-cit-0077">
+<string-name>
+<surname>Wrange</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Andr&#x000e9;</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lundh</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lind</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Blomberg</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Havenhand</surname>, <given-names>J. N.</given-names>
+</string-name> (<year>2014</year>). <article-title>Importance of plasticity and local adaptation for coping with changing salinity in coastal areas: A test case with barnacles in the Baltic Sea</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>14</volume>, <fpage>156</fpage>.<pub-id pub-id-type="pmid">25038588</pub-id></mixed-citation></ref></ref-list></back></article>

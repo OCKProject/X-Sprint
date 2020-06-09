@@ -1,0 +1,518 @@
+{
+  "id": [
+    "32420386"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32420386"
+  ],
+  "pmcid": [
+    "PMC7201693"
+  ],
+  "doi": [
+    "10.1155/2020/9519235"
+  ],
+  "title": [
+    "The Prediction and Prognostic Significance of INPP5K Expression in Patients with Liver Cancer."
+  ],
+  "authorString": [
+    "Wang R, Jiao Y, Li Y, Ye S, Pan G, Qin S, Hua F, Liu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang R"
+          ],
+          "firstName": [
+            "Ruobing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6176-2023",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hepatobiliary and Pancreatic Surgery, The First Hospital of Jilin University, Changchun, Jilin 130021, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiao Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Jiao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6914-7949",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hepatobiliary and Pancreatic Surgery, The First Hospital of Jilin University, Changchun, Jilin 130021, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yanqing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7030-5537",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathophysiology, College of Basic Medical Sciences, Jilin University, Changchun, Jilin 130021, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ye S"
+          ],
+          "firstName": [
+            "Siyang"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiology, The Second Hospital of Jilin University, Changchun, Jilin 130022, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan G"
+          ],
+          "firstName": [
+            "Guoqiang"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, The First Hospital of Jilin University, Changchun, Jilin 130021, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qin S"
+          ],
+          "firstName": [
+            "Shanshan"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Radiology, Affiliated Hospital of Qingdao University, Qingdao, Shandong 266000, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hua F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Hua"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2970-1305",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cardiovascular Internal Medicine, The First Hospital of Jilin University, Changchun, Jilin 130021, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yahui"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4018-5404",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hepatobiliary and Pancreatic Surgery, The First Hospital of Jilin University, Changchun, Jilin 130021, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6176-2023",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6914-7949",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7030-5537",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2970-1305",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4018-5404",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2925583"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "9519235"
+  ],
+  "abstractText": [
+    "Liver cancer is a devastating disease for humans with poor prognosis. Although the survival rate of patients with liver cancer has improved in the past decades, the recurrence and metastasis of liver cancer are still obstacles for us. Inositol polyphosphate-5-phosphatase K (INPP5K) belongs to the family of phosphoinositide 5-phosphatases (PI 5-phosphatases), which have been reported to be associated with cell migration, polarity, adhesion, and cell invasion, especially in cancers. However, there have been few studies on the correlation of INPP5K and liver cancer. In this study, we explored the prognostic significance of INPP5K in liver cancer through bioinformatics analysis of data collected from The Cancer Genome Atlas (TCGA) database. Chi-square and Fisher exact tests were used to evaluate the relationship between INPP5K expression and clinical characteristics. Our results showed that low INPP5K expression was correlated with poor outcomes in liver cancer patients. Univariate and multivariate Cox analyses demonstrated that low INPP5K mRNA expression played a significant role in shortening overall survival (OS) and relapse-free survival (RFS), which might serve as the useful biomarker and prognostic factor for liver cancer. In conclusion, low INPP5K mRNA expression is an independent risk factor for poor prognosis in liver cancer."
+  ],
+  "affiliation": [
+    "Department of Hepatobiliary and Pancreatic Surgery, The First Hospital of Jilin University, Changchun, Jilin 130021, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/9519235"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7201693"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7201693?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/9519235"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-19"
+  ],
+  "firstIndexDate": [
+    "2020-05-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-17"
+  ],
+  "dateOfRevision": [
+    "2020-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-25"
+  ],
+  "firstPublicationDate": [
+    "2020-04-25"
+  ]
+}

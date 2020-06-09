@@ -1,0 +1,533 @@
+{
+  "id": [
+    "32477928"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32477928"
+  ],
+  "pmcid": [
+    "PMC7235162"
+  ],
+  "doi": [
+    "10.3389/fonc.2020.00589"
+  ],
+  "title": [
+    "Downregulation of HMGA1 Mediates Autophagy and Inhibits Migration and Invasion in Bladder Cancer via miRNA-221/TP53INP1/p-ERK Axis."
+  ],
+  "authorString": [
+    "Liu X, Zhou Z, Wang Y, Zhu K, Deng W, Li Y, Zhou X, Chen L, Li Y, Xie A, Zeng T, Wang G, Fu B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiaoqiang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China.",
+                "Jiangxi Institute of Urology, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Z"
+          ],
+          "firstName": [
+            "Zhengtao"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yibing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Emergency, The Second Affiliated Hospital of Nanchang University, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu K"
+          ],
+          "firstName": [
+            "Ke"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China.",
+                "Jiangxi Institute of Urology, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deng W"
+          ],
+          "firstName": [
+            "Wen"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yulei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xiaochen"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Luyao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xie A"
+          ],
+          "firstName": [
+            "An"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Jiangxi Institute of Urology, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The People's Hospital of Jiangxi Province, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Gongxian"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China.",
+                "Jiangxi Institute of Urology, Nanchang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fu B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China.",
+                "Jiangxi Institute of Urology, Nanchang, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2911881"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "589"
+  ],
+  "abstractText": [
+    "MicroRNAs (miRNAs) have been implicated in regulating the development and metastasis of human cancers. MiR-221 is reported to be an oncogene in multiple cancers, including bladder cancer (BC). Deregulation of autophagy is associated with multiple human malignant cancers. Whether and how miR-221 regulates autophagy and how miR-221 has been regulated in BC are poorly understood. This study explored the potential functions and mechanisms of miR-221 in the autophagy and tumorigenesis of BC. We showed that the downregulation of miR-221 induces autophagy via increasing TP53INP1 (tumor protein p53 inducible nuclear protein 1) and inhibits migration and invasion of BC cells through suppressing activation of extracellular signal-regulated kinase (ERK). Furthermore, the expression of miR-221 is regulated by high-mobility group AT-hook 1 (HMGA1) which is overexpressed in BC. And both miR-221 and HMGA1 are correlated with poor patient survival in BC. Finally, the downregulation of HMGA1 suppressed the proliferative, migrative, and invasive property of BC by inducing toxic autophagy via miR-221/TP53INP1/p-ERK axis. Collectively, our findings demonstrate that the downregulation of miR-221 and HMGA1 mediates autophagy in BC, and both of them are valuable therapeutic targets for BC."
+  ],
+  "affiliation": [
+    "Department of Urology, The First Affiliated Hospital of Nanchang University, Nanchang, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bladder cancer",
+        "Autophagy",
+        "Mir-221",
+        "Tp53inp1",
+        "High-mobility Group At-hook 1 (Hmga1)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00589"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7235162"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7235162?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00589"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-02"
+  ],
+  "firstIndexDate": [
+    "2020-06-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-31"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-12"
+  ],
+  "firstPublicationDate": [
+    "2020-05-12"
+  ]
+}

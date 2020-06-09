@@ -1,0 +1,446 @@
+{
+  "id": [
+    "32269827"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32269827"
+  ],
+  "pmcid": [
+    "PMC7137974"
+  ],
+  "doi": [
+    "10.1098/rsos.200250"
+  ],
+  "title": [
+    "Releases of Asian houbara must respect genetic and geographic origin to preserve inherited migration behaviour: evidence from a translocation experiment. "
+  ],
+  "authorString": [
+    "Burnside RJ, Buchan C, Salliss D, Collar NJ, Dolman PM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Burnside RJ"
+          ],
+          "firstName": [
+            "Robert J"
+          ],
+          "lastName": [
+            "Burnside"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2859-7294",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Environmental Sciences, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR4 7TJ, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Buchan C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Buchan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6530-9971",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Environmental Sciences, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR4 7TJ, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salliss D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Salliss"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2328-9295",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Environmental Sciences, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR4 7TJ, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Collar NJ"
+          ],
+          "firstName": [
+            "Nigel J"
+          ],
+          "lastName": [
+            "Collar"
+          ],
+          "initials": [
+            "NJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9677-3611",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Environmental Sciences, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR4 7TJ, UK.",
+                "BirdLife International, Pembroke Street, Cambridge CB2 3QZ, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dolman PM"
+          ],
+          "firstName": [
+            "Paul M"
+          ],
+          "lastName": [
+            "Dolman"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9340-2791",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Environmental Sciences, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR4 7TJ, UK."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2859-7294",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6530-9971",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2328-9295",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9677-3611",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9340-2791",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "plain_english",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2935673"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Royal Society open science"
+          ],
+          "ISOAbbreviation": [
+            "R Soc Open Sci"
+          ],
+          "medlineAbbreviation": [
+            "R Soc Open Sci"
+          ],
+          "NLMid": [
+            "101647528"
+          ],
+          "ISSN": [
+            "2054-5703"
+          ],
+          "ESSN": [
+            "2054-5703"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "200250"
+  ],
+  "abstractText": [
+    "Maintaining appropriate migratory strategies is important in conservation; however, translocations of migratory animals may alter locally evolved migration behaviours of recipient populations if these are different and heritable. We used satellite telemetry and experimental translocation to quantify differences and assess heritability in migration behaviours between three migratory Asian houbara (Chlamydotis macqueenii) breeding populations (640 km range across eastern, central and western Uzbekistan). Adults from the eastern population migrated twice as far (mean = 1184 km ± 44 s.e.) as the western population (656 km ± 183 s.e.) and showed significantly less variation in migration distance than the central population (1030 km ± 127 s.e.). The western and central populations wintered significantly further north (mean: +8.32° N ± 1.70 s.e. and +4.19° N ± 1.16 s.e., respectively) and the central population further west (-3.47° E ± 1.46 s.e.) than individuals from the eastern population. These differences could arise from a differing innate drive, or through learnt facultative responses to topography, filtered by survival. Translocated birds from the eastern population (wild-laid and captive-reared, n = 5) migrated further than adults from either western or central recipient populations, particularly in their second migration year. Translocated birds continued migrating south past suitable wintering grounds used by the recipient populations despite having to negotiate mountain obstacles. Together, this suggests a considerable conserved heritable migratory component with local adaptation at a fine geographic scale. Surviving translocated individuals returned to their release site, suggesting that continued translocations would lead to introgression of the heritable component and risk altering recipient migration patterns. Conservation biologists considering translocation interventions for migratory populations should evaluate potential genetic components of migratory behaviour."
+  ],
+  "affiliation": [
+    "School of Environmental Sciences, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR4 7TJ, UK."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1098/rsos.200250"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7137974"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7137974?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1098/rsos.200250"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-10"
+  ],
+  "firstIndexDate": [
+    "2020-04-10"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-13"
+  ],
+  "dateOfRevision": [
+    "2020-04-11"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-18"
+  ],
+  "firstPublicationDate": [
+    "2020-03-18"
+  ]
+}

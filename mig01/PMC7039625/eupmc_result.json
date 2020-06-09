@@ -1,0 +1,318 @@
+{
+  "id": [
+    "32079471"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32079471"
+  ],
+  "pmcid": [
+    "PMC7039625"
+  ],
+  "doi": [
+    "10.1080/19336950.2020.1730020"
+  ],
+  "title": [
+    "TRPV1 inhibits smooth muscle cell phenotype switching in a mouse model of abdominal aortic aneurysm."
+  ],
+  "authorString": [
+    "Wang S, Jia C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shuo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiology, Shengjing Hospital of China Medical University, Shenyang, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jia C"
+          ],
+          "firstName": [
+            "Chenhong"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiology, Shengjing Hospital of China Medical University, Shenyang, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2893050"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Channels (Austin, Tex.)"
+          ],
+          "ISOAbbreviation": [
+            "Channels (Austin)"
+          ],
+          "medlineAbbreviation": [
+            "Channels (Austin)"
+          ],
+          "NLMid": [
+            "101321614"
+          ],
+          "ISSN": [
+            "1933-6950"
+          ],
+          "ESSN": [
+            "1933-6969"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "59-68"
+  ],
+  "abstractText": [
+    "The natural outcome of abdominal aortic aneurysm (AAA) is that of slow progression and ultimate rupture, then a life-threatening hemorrhage consequently. Ruptured AAA is a dramatic catastrophe and constitutes one of the leading causes of acute death in elderly men. However, the mechanism of AAA is still unclear. Transient receptor potential vanilloid (TRPV) family has protective effects in cardiovascular diseases. In this study, we revealed the expression and the pathogenesis of TRPV1 in a mouse AAA model. The results presented here identify TRPV1 could be a potential therapeutic target for AAA treatment."
+  ],
+  "affiliation": [
+    "Department of Cardiology, Shengjing Hospital of China Medical University, Shenyang, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vascular smooth muscle cell",
+        "Abdominal aortic aneurysm",
+        "TRPV1"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336950.2020.1730020"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7039625"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7039625?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336950.2020.1730020"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-22"
+  ],
+  "firstIndexDate": [
+    "2020-02-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-05"
+  ],
+  "dateOfRevision": [
+    "2020-03-04"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

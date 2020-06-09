@@ -1,0 +1,370 @@
+{
+  "id": [
+    "32477833"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32477833"
+  ],
+  "pmcid": [
+    "PMC7243817"
+  ],
+  "doi": [
+    "10.7717/peerj.8975"
+  ],
+  "title": [
+    "Non-parallel changes in songbird migration timing are not explained by changes in stopover duration."
+  ],
+  "authorString": [
+    "Dorian NN, Lloyd-Evans TL, Reed JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dorian NN"
+          ],
+          "firstName": [
+            "Nicholas N"
+          ],
+          "lastName": [
+            "Dorian"
+          ],
+          "initials": [
+            "NN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5616-7588",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, Tufts University, Medford, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lloyd-Evans TL"
+          ],
+          "firstName": [
+            "Trevor L"
+          ],
+          "lastName": [
+            "Lloyd-Evans"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Manomet Inc., Manomet, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reed JM"
+          ],
+          "firstName": [
+            "J Michael"
+          ],
+          "lastName": [
+            "Reed"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3571-2652",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, Tufts University, Medford, MA, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5616-7588",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3571-2652",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2899974"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e8975"
+  ],
+  "abstractText": [
+    "Shifts in the timing of animal migration are widespread and well-documented; however, the mechanism underlying these changes is largely unknown. In this study, we test the hypothesis that systematic changes in stopover duration-the time that individuals spend resting and refueling at a site-are driving shifts in songbird migration timing. Specifically, we predicted that increases in stopover duration at our study site could generate increases in passage duration-the number of days that a study site is occupied by a particular species-by changing the temporal breadth of observations and vise versa. We analyzed an uninterrupted 46-year bird banding dataset from Massachusetts, USA using quantile regression, which allowed us to detect changes in early-and late-arriving birds, as well as changes in passage duration. We found that median spring migration had advanced by 1.04 days per decade; that these advances had strengthened over the last 13 years; and that early-and late-arriving birds were advancing in parallel, leading to negligible changes in the duration of spring passage at our site (+0.07 days per decade). In contrast, changes in fall migration were less consistent. Across species, we found that median fall migration had delayed by 0.80 days per decade, and that changes were stronger in late-arriving birds, leading to an average increase in passage duration of 0.45 days per decade. Trends in stopover duration, however, were weak and negative and, as a result, could not explain any changes in passage duration. We discuss, and provide some evidence, that changes in population age-structure, cryptic geographic variation, or shifts in resource availability are consistent with increases in fall passage duration. Moreover, we demonstrate the importance of evaluating changes across the entire phenological distribution, rather than just the mean, and stress this as an important consideration for future studies."
+  ],
+  "affiliation": [
+    "Department of Biology, Tufts University, Medford, MA, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phenology",
+        "Mark-recapture",
+        "Bird banding",
+        "Hierarchical Models",
+        "Cormack–jolly–seber",
+        "Quantile Regresision",
+        "Stopover Duration"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.8975"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7243817"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7243817?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.8975"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-06-02"
+  ],
+  "firstIndexDate": [
+    "2020-06-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-01"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-19"
+  ],
+  "firstPublicationDate": [
+    "2020-05-19"
+  ]
+}

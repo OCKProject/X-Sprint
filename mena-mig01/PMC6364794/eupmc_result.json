@@ -1,0 +1,548 @@
+{
+  "id": [
+    "30517697"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30517697"
+  ],
+  "pmcid": [
+    "PMC6364794"
+  ],
+  "doi": [
+    "10.1093/trstmh/try124"
+  ],
+  "title": [
+    "The double burden of diabetes and global infection in low and middle-income countries."
+  ],
+  "authorString": [
+    "Dunachie S, Chamnan P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dunachie S"
+          ],
+          "firstName": [
+            "Susanna"
+          ],
+          "lastName": [
+            "Dunachie"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5665-6293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Mahidol-Oxford Tropical Medicine Research Unit, Mahidol University, 3rd Floor, 60th Anniversary Chalermprakiat Building, 420/6 Ratchawithi Rd., Ratchathewi District, Bangkok, Thailand.",
+                "Centre for Tropical Medicine and Global Health, University of Oxford, Nuffield Department of Medicine Research Building, University of Oxford, Old Road campus, Roosevelt Drie, Headington, Oxford, United Kingdom.",
+                "The Peter Medawar Building for Pathogen Research, University of Oxford, South Parks Road, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chamnan P"
+          ],
+          "firstName": [
+            "Parinya"
+          ],
+          "lastName": [
+            "Chamnan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5202-4149",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cardiometabolic Research Group, Department of Social Medicine, Sunpasitthiprasong Hospital, Tambon Nai Mueang, Amphoe Mueang Ubon Ratchathani, Chang Wat Ubon Ratchathani, Thailand."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5665-6293",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5202-4149",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "113"
+      ],
+      "journalIssueId": [
+        "2780019"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Transactions of the Royal Society of Tropical Medicine and Hygiene"
+          ],
+          "ISOAbbreviation": [
+            "Trans. R. Soc. Trop. Med. Hyg."
+          ],
+          "medlineAbbreviation": [
+            "Trans R Soc Trop Med Hyg"
+          ],
+          "NLMid": [
+            "7506129"
+          ],
+          "ISSN": [
+            "0035-9203"
+          ],
+          "ESSN": [
+            "1878-3503"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "56-64"
+  ],
+  "abstractText": [
+    "Four out of five people in the world with diabetes now live in low- and middle-income countries (LMIC), and the incidence of diabetes is accelerating in poorer communities. Diabetes increases susceptibility to infection and worsens outcomes for some of the world's major infectious diseases such as tuberculosis, melioidosis and dengue, but the relationship between diabetes and many neglected tropical diseases is yet to be accurately characterised. There is some evidence that chronic viral infections such as hepatitis B and HIV may predispose to the development of type 2 diabetes by chronic inflammatory and immunometabolic mechanisms. Helminth infections such as schistosomiasis may be protective against the development of diabetes, and this finding opens up new territory for discovery of novel therapeutics for the prevention and treatment of diabetes. A greater understanding of the impact of diabetes on risks and outcomes for infections causing significant diseases in LMIC is essential in order to develop vaccines and therapies for the growing number of people with diabetes at risk of infection, and to prioritise research agendas, public health interventions and policy. This review seeks to give an overview of the current international diabetes burden, the evidence for interactions between diabetes and infection, immune mechanisms for the interaction, and potential interventions to tackle the dual burden of diabetes and infection."
+  ],
+  "affiliation": [
+    "Mahidol-Oxford Tropical Medicine Research Unit, Mahidol University, 3rd Floor, 60th Anniversary Chalermprakiat Building, 420/6 Ratchawithi Rd., Ratchathewi District, Bangkok, Thailand."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "100174/Z/12/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_PC_17218"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/R005850/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "WT100174/Z/12/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communicable Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parasitic Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diabetes Mellitus, Type 2"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Incidence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Comorbidity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Developing Countries"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poverty"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/trstmh/try124"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6364794"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6364794?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/trstmh/try124"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-27"
+  ],
+  "dateOfCreation": [
+    "2018-12-06"
+  ],
+  "firstIndexDate": [
+    "2018-12-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-22"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "firstPublicationDate": [
+    "2019-02-01"
+  ]
+}

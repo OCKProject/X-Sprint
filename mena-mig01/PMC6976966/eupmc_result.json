@@ -1,0 +1,490 @@
+{
+  "id": [
+    "31993085"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31993085"
+  ],
+  "pmcid": [
+    "PMC6976966"
+  ],
+  "doi": [
+    "10.1111/eva.12877"
+  ],
+  "title": [
+    "Northern European Salmo trutta (L.) populations are genetically divergent across geographical regions and environmental gradients."
+  ],
+  "authorString": [
+    "Bekkevold D, Höjesjö J, Nielsen EE, Aldvén D, Als TD, Sodeland M, Kent MP, Lien S, Hansen MM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bekkevold D"
+          ],
+          "firstName": [
+            "Dorte"
+          ],
+          "lastName": [
+            "Bekkevold"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5297-032X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute of Aquatic Resources Technical University of Denmark Silkeborg Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Höjesjö J"
+          ],
+          "firstName": [
+            "Johan"
+          ],
+          "lastName": [
+            "Höjesjö"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biological & Environmental Sciences University of Gothenburg Gothenburg Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nielsen EE"
+          ],
+          "firstName": [
+            "Einar Eg"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "EE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institute of Aquatic Resources Technical University of Denmark Silkeborg Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Aldvén D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Aldvén"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Generations R&D Vattenfall AB Älvkarleby Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Als TD"
+          ],
+          "firstName": [
+            "Thomas Damm"
+          ],
+          "lastName": [
+            "Als"
+          ],
+          "initials": [
+            "TD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biomedicine Aarhus University Aarhus Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sodeland M"
+          ],
+          "firstName": [
+            "Marte"
+          ],
+          "lastName": [
+            "Sodeland"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Natural Sciences University of Agder Kristiansand Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kent MP"
+          ],
+          "firstName": [
+            "Matthew Peter"
+          ],
+          "lastName": [
+            "Kent"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Biosciences Norwegian University of Life Sciences Ås Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lien S"
+          ],
+          "firstName": [
+            "Sigbjørn"
+          ],
+          "lastName": [
+            "Lien"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Faculty of Biosciences Norwegian University of Life Sciences Ås Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hansen MM"
+          ],
+          "firstName": [
+            "Michael Møller"
+          ],
+          "lastName": [
+            "Hansen"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5372-4828",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Bioscience - Genetics, Ecology and Evolution Aarhus University Aarhus Denmark."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5297-032X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5372-4828",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2905770"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evolutionary applications"
+          ],
+          "ISOAbbreviation": [
+            "Evol Appl"
+          ],
+          "medlineAbbreviation": [
+            "Evol Appl"
+          ],
+          "NLMid": [
+            "101461828"
+          ],
+          "ISSN": [
+            "1752-4571"
+          ],
+          "ESSN": [
+            "1752-4571"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "400-416"
+  ],
+  "abstractText": [
+    "The salmonid fish Brown trout is iconic as a model for the application of conservation genetics to understand and manage local interspecific variation. However, there is still scant information about relationships between local and large-scale population structure, and to what extent geographical and environmental variables are associated with barriers to gene flow. We used information from 3,782 mapped SNPs developed for the present study and conducted outlier tests and gene-environment association (GEA) analyses in order to examine drivers of population structure. Analyses comprised >2,600 fish from 72 riverine populations spanning a central part of the species' distribution in northern Europe. We report hitherto unidentified genetic breaks in population structure, indicating strong barriers to gene flow. GEA loci were widely spread across genomic regions and showed correlations with climatic, abiotic and geographical parameters. In some cases, individual loci showed consistent GEA across the geographical regions Britain, Europe and Scandinavia. In other cases, correlations were observed only within a sub-set of regions, suggesting that locus-specific variation was associated with local processes. A paired-population sampling design allowed us to evaluate sampling effects on detection of outlier loci and GEA. Two widely applied methods for outlier detection (pcadapt and bayescan) showed low overlap in loci identified as statistical outliers across sub-sets of data. Two GEA analytical approaches (LFMM and RDA) showed good correspondence concerning loci associated with specific variables, but LFMM identified five times more statistically significant associations than RDA. Our results emphasize the importance of carefully considering the statistical methods applied for the hypotheses being tested in outlier analysis. Sampling design may have lower impact on results if the objective is to identify GEA loci and their population distribution. Our study provides new insights into trout populations, and results have direct management implications in serving as a tool for identification of conservation units."
+  ],
+  "affiliation": [
+    "National Institute of Aquatic Resources Technical University of Denmark Silkeborg Denmark."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brown Trout",
+        "Local Adaptation",
+        "Salmonid",
+        "Outlier Test",
+        "Genotype‐environment Association"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/eva.12877"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6976966"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6976966?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/eva.12877"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-30"
+  ],
+  "firstIndexDate": [
+    "2020-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-05"
+  ],
+  "dateOfRevision": [
+    "2020-01-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-01"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

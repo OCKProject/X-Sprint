@@ -1,0 +1,515 @@
+{
+  "id": [
+    "31546992"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31546992"
+  ],
+  "pmcid": [
+    "PMC6836129"
+  ],
+  "doi": [
+    "10.3390/nu11102260"
+  ],
+  "title": [
+    "Microbial Metabolites of Flavan-3-Ols and Their Biological Activity."
+  ],
+  "authorString": [
+    "Márquez Campos E, Stehle P, Simon MC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Márquez Campos E"
+          ],
+          "firstName": [
+            "Estefanía"
+          ],
+          "lastName": [
+            "Márquez Campos"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Nutrition and Food Sciences, Nutrition and Microbiota, University of Bonn, 53115 Bonn, Germany. estefania.marquezc@gmail.com.",
+                "Department of Nutrition and Food Sciences, Nutritional Physiology, University of Bonn, 53115 Bonn, Germany. estefania.marquezc@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stehle P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Stehle"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4596-8088",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Nutrition and Food Sciences, Nutritional Physiology, University of Bonn, 53115 Bonn, Germany. p.stehle@uni-bonn.de."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Simon MC"
+          ],
+          "firstName": [
+            "Marie-Christine"
+          ],
+          "lastName": [
+            "Simon"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6625-1265",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Nutrition and Food Sciences, Nutrition and Microbiota, University of Bonn, 53115 Bonn, Germany. marie-christine.simon@uni-bonn.de."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4596-8088",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6625-1265",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2861438"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Flavan-3-ols are the main contributors to polyphenol intake. Many varying beneficial health effects in humans have been attributed to them, including the prevention of cardiovascular disease and cancer. Nevertheless, the mechanisms by which these flavonoids could exert beneficial functions are not entirely known. Several in vitro studies and in vivo animal models have tried to elucidate the role of the specific colonic metabolites on the health properties that are attributed to the parent compounds since a larger number of ingested flavan-3-ols reach the colon and undergo there microbial metabolism. Many new studies about this topic have been performed over the last few years and, to the best of our knowledge, no scientific literature review regarding the bioactivity of all identified microbial metabolites of flavan-3-ols has been recently published. Therefore, the aim of this review is to present the current status of knowledge on the potential health benefits of flavan-3-ol microbial metabolites in humans while using the latest evidence on their biological activity."
+  ],
+  "affiliation": [
+    "Department of Nutrition and Food Sciences, Nutrition and Microbiota, University of Bonn, 53115 Bonn, Germany. estefania.marquezc@gmail.com."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "01EA1707"
+          ],
+          "agency": [
+            "Bundesministerium für Bildung und Forschung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Colon"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flavonoids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PK"
+                  ],
+                  "qualifierName": [
+                    "pharmacokinetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Availability"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Microbiome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolism",
+        "Flavonoids",
+        "Polyphenols",
+        "Microbiota"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Flavonoids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "flavan-3-ol"
+          ],
+          "registryNumber": [
+            "35HDD3NRIE"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11102260"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6836129"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6836129?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11102260"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-03-03"
+  ],
+  "dateOfCreation": [
+    "2019-09-25"
+  ],
+  "firstIndexDate": [
+    "2019-09-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-27"
+  ],
+  "dateOfRevision": [
+    "2020-03-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-20"
+  ],
+  "firstPublicationDate": [
+    "2019-09-20"
+  ]
+}

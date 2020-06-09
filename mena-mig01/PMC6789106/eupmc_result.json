@@ -1,0 +1,489 @@
+{
+  "id": [
+    "31604968"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31604968"
+  ],
+  "pmcid": [
+    "PMC6789106"
+  ],
+  "doi": [
+    "10.1038/s41598-019-50876-9"
+  ],
+  "title": [
+    "Introducing the first whole genomes of nationals from the United Arab Emirates."
+  ],
+  "authorString": [
+    "AlSafar HS, Al-Ali M, Elbait GD, Al-Maini MH, Ruta D, Peramo B, Henschel A, Tay GK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "AlSafar HS"
+          ],
+          "firstName": [
+            "Habiba S"
+          ],
+          "lastName": [
+            "AlSafar"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7141-1438",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center of Biotechnology, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
+                "Department of Biomedical Engineering, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
+                "College of Medicine and Health Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Ali M"
+          ],
+          "firstName": [
+            "Mariam"
+          ],
+          "lastName": [
+            "Al-Ali"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center of Biotechnology, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
+                "Department of Biomedical Engineering, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elbait GD"
+          ],
+          "firstName": [
+            "Gihan Daw"
+          ],
+          "lastName": [
+            "Elbait"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center of Biotechnology, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Maini MH"
+          ],
+          "firstName": [
+            "Mustafa H"
+          ],
+          "lastName": [
+            "Al-Maini"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Mafraq Hospital, Abu Dhabi, United Arab Emirates."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruta D"
+          ],
+          "firstName": [
+            "Dymitr"
+          ],
+          "lastName": [
+            "Ruta"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Etisalat-British Telecom Innovation Center, Abu Dhabi, United Arab Emirates."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peramo B"
+          ],
+          "firstName": [
+            "Braulio"
+          ],
+          "lastName": [
+            "Peramo"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Al Ain Fertility Center, Al Ain, United Arab Emirates."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Henschel A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Henschel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center of Biotechnology, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
+                "Department of Computer Science, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tay GK"
+          ],
+          "firstName": [
+            "Guan K"
+          ],
+          "lastName": [
+            "Tay"
+          ],
+          "initials": [
+            "GK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6639-3298",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center of Biotechnology, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates. guan.tay@ku.ac.ae.",
+                "Department of Biomedical Engineering, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates. guan.tay@ku.ac.ae.",
+                "College of Medicine and Health Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates. guan.tay@ku.ac.ae.",
+                "School of Psychiatry and Clinical Neurosciences, University of Western Australia, Nedlands, Australia. guan.tay@ku.ac.ae.",
+                "School of Medical and Health Sciences, Edith Cowan University, Joondalup, Australia. guan.tay@ku.ac.ae."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7141-1438",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6639-3298",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2866017"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "14725"
+  ],
+  "abstractText": [
+    "Whole Genome Sequencing (WGS) provides an in depth description of genome variation. In the era of large-scale population genome projects, the assembly of ethnic-specific genomes combined with mapping human reference genomes of underrepresented populations has improved the understanding of human diversity and disease associations. In this study, for the first time, whole genome sequences of two nationals of the United Arab Emirates (UAE) at >27X coverage are reported. The two Emirati individuals were predominantly of Central/South Asian ancestry. An in-house customized pipeline using BWA, Picard followed by the GATK tools to map the raw data from whole genome sequences of both individuals was used. A total of 3,994,521 variants (3,350,574 Single Nucleotide Polymorphisms (SNPs) and 643,947 indels) were identified for the first individual, the UAE S001 sample. A similar number of variants, 4,031,580 (3,373,501 SNPs and 658,079 indels), were identified for UAE S002. Variants that are associated with diabetes, hypertension, increased cholesterol levels, and obesity were also identified in these individuals. These Whole Genome Sequences has provided a starting point for constructing a UAE reference panel which will lead to improvements in the delivery of precision medicine, quality of life for affected individuals and a reduction in healthcare costs. The information compiled will likely lead to the identification of target genes that could potentially lead to the development of novel therapeutic modalities."
+  ],
+  "affiliation": [
+    "Center of Biotechnology, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-50876-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6789106"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6789106?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-50876-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp",
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-13"
+  ],
+  "firstIndexDate": [
+    "2019-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2020-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-11"
+  ],
+  "firstPublicationDate": [
+    "2019-10-11"
+  ]
+}

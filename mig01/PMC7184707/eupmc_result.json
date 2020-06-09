@@ -1,0 +1,418 @@
+{
+  "id": [
+    "32355466"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32355466"
+  ],
+  "pmcid": [
+    "PMC7184707"
+  ],
+  "doi": [
+    "10.1186/s12935-020-01221-y"
+  ],
+  "title": [
+    "A long non-coding RNA LINC00461-dependent mechanism underlying breast cancer invasion and migration via the miR-144-3p/KPNA2 axis."
+  ],
+  "authorString": [
+    "Zhang Q, Jin X, Shi W, Chen X, Pang W, Yu X, Yang L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Q"
+          ],
+          "firstName": [
+            "Qiang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin X"
+          ],
+          "firstName": [
+            "Xiaoyan"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi W"
+          ],
+          "firstName": [
+            "Wenbiao"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pang W"
+          ],
+          "firstName": [
+            "Wenyang"
+          ],
+          "lastName": [
+            "Pang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu X"
+          ],
+          "firstName": [
+            "Xiaodong"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Linjun"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2898933"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer Cell International"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Cell Int."
+          ],
+          "medlineAbbreviation": [
+            "Cancer Cell Int"
+          ],
+          "NLMid": [
+            "101139795"
+          ],
+          "ISSN": [
+            "1475-2867"
+          ],
+          "ESSN": [
+            "1475-2867"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "137"
+  ],
+  "abstractText": [
+    "Background:The purpose of this study was to explore the regulatory mechanism of the long non-coding RNA (lncRNA) LINC00461 underlying the breast cancer invasion and migration via the miR-144-3p/KPNA2 axis. Methods:Bioinformatics methods were applied to screen differentially expressed mRNAs, miRNAs and lncRNAs for construction of a competing endogenous RNA (ceRNA) network. LINC00461, KPNA2 and miR-144-3p were identified, and KPNA2 was predicted to be a target of miR-144-3p and significantly correlated with breast cancer prognosis. To make the findings more convincible, we used qRT-PCR to detect the expression levels of LINC00461 and miR-144-3p in breast cancer cells, and conducted western blot to determine KPNA2 protein level. Then, RIP was performed to assess the combination between miR-144-3p and LINC00461 or KPNA2, and dual-luciferase reporter assay was used to validate the targeted relationship between miR-144-3p and KPNA2. Furthermore, Transwell was employed for the examination of cell invasion and migration in breast cancer. Results:LINC00461 was predicted to regulate KPNA2 through sponging miR-144-3p as revealed by the ceRNA network. Besides, LINC00461 and KPNA2 were found to be remarkably highly-expressed in breast cancer cells, while miR-144-3p was poorly-expressed. Silencing LINC00461 could promote miR-144-3p expression, thus inhibiting cell invasion and migration. In addition, KPNA2 was confirmed to be a direct target of miR-144-3p. Silencing miR-144-3p or overexpressing KPNA2 could reverse the inhibitory effect of LINC00461 silencing on cell invasion and migration in breast cancer. Conclusion:LINC00461 promoted the expression of KPNA2 by competitively binding to miR-144-3p, thereby promoting the invasion and migration of breast cancer cells."
+  ],
+  "affiliation": [
+    "Department of Breast Central, Taizhou Municipal Hospital, No.138 Zhongshan Road, Taizhou, 318000 Zhejiang China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Breast cancer",
+        "Invasion",
+        "Kpna2",
+        "Mir-144-3p",
+        "Linc00461"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01221-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7184707"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7184707?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01221-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-02"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-02"
+  ],
+  "dateOfRevision": [
+    "2020-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-26"
+  ],
+  "firstPublicationDate": [
+    "2020-04-26"
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "id": [
+    "32269257"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32269257"
+  ],
+  "pmcid": [
+    "PMC7142146"
+  ],
+  "doi": [
+    "10.1038/s41598-020-62997-7"
+  ],
+  "title": [
+    "Dynamic spherical harmonics approach for shape classification of migrating cells."
+  ],
+  "authorString": [
+    "Medyukhina A, Blickensdorf M, Cseresnyés Z, Ruef N, Stein JV, Figge MT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Medyukhina A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Medyukhina"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Applied Systems Biology, Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute (HKI), Jena, Germany.",
+                "Center for Bioimage Informatics, St. Jude Children's Research Hospital, Memphis, TN, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blickensdorf M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Blickensdorf"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Applied Systems Biology, Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute (HKI), Jena, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cseresnyés Z"
+          ],
+          "firstName": [
+            "Zoltán"
+          ],
+          "lastName": [
+            "Cseresnyés"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Applied Systems Biology, Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute (HKI), Jena, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruef N"
+          ],
+          "firstName": [
+            "Nora"
+          ],
+          "lastName": [
+            "Ruef"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5211-3363",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, Microbiology and Immunology, University of Fribourg, Fribourg, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stein JV"
+          ],
+          "firstName": [
+            "Jens V"
+          ],
+          "lastName": [
+            "Stein"
+          ],
+          "initials": [
+            "JV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, Microbiology and Immunology, University of Fribourg, Fribourg, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Figge MT"
+          ],
+          "firstName": [
+            "Marc Thilo"
+          ],
+          "lastName": [
+            "Figge"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Applied Systems Biology, Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute (HKI), Jena, Germany. thilo.figge@leibniz-hki.de.",
+                "Institute of Microbiology, Faculty of Biological Sciences, Friedrich Schiller University Jena, Jena, Germany. thilo.figge@leibniz-hki.de.",
+                "Center for Sepsis Control and Care (CSCC), Jena University Hospital, Jena, Germany. thilo.figge@leibniz-hki.de."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5211-3363",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2931281"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "6072"
+  ],
+  "abstractText": [
+    "Cell migration involves dynamic changes in cell shape. Intricate patterns of cell shape can be analyzed and classified using advanced shape descriptors, including spherical harmonics (SPHARM). Though SPHARM have been used to analyze and classify migrating cells, such classification did not exploit SPHARM spectra in their dynamics. Here, we examine whether additional information from dynamic SPHARM improves classification of cell migration patterns. We combine the static and dynamic SPHARM approach with a support-vector-machine classifier and compare their classification accuracies. We demonstrate that the dynamic SPHARM analysis classifies cell migration patterns more accurately than the static one for both synthetic and experimental data. Furthermore, by comparing the computed accuracies with that of a naive classifier, we can identify the experimental conditions and model parameters that significantly affect cell shape. This capability should - in the future - help to pinpoint factors that play an essential role in cell migration."
+  ],
+  "affiliation": [
+    "Applied Systems Biology, Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute (HKI), Jena, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-62997-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7142146"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7142146?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-62997-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-10"
+  ],
+  "firstIndexDate": [
+    "2020-04-10"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-17"
+  ],
+  "dateOfRevision": [
+    "2020-04-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-08"
+  ],
+  "firstPublicationDate": [
+    "2020-04-08"
+  ]
+}

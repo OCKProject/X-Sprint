@@ -1,0 +1,715 @@
+{
+  "id": [
+    "32350286"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32350286"
+  ],
+  "pmcid": [
+    "PMC7190624"
+  ],
+  "doi": [
+    "10.1038/s41598-020-63312-0"
+  ],
+  "title": [
+    "Arctic avian predators synchronise their spring migration with the northern progression of snowmelt."
+  ],
+  "authorString": [
+    "Curk T, Pokrovsky I, Lecomte N, Aarvak T, Burnham K, Dietz A, Franke A, Gauthier G, Jacobsen KO, Kidd J, Lewis SB, Øien IJ, Solheim R, Wiebe K, Wikelski M, Therrien JF, Safi K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Curk T"
+          ],
+          "firstName": [
+            "Teja"
+          ],
+          "lastName": [
+            "Curk"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Max Planck Institute of Animal Behavior, Department of Migration, Am Obstberg 1, Radolfzell, 78315, Germany. tcurk@ab.mpg.de.",
+                "University of Konstanz, Department of Biology, Universitätsstraße 10, Konstanz, 78464, Germany. tcurk@ab.mpg.de."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pokrovsky I"
+          ],
+          "firstName": [
+            "Ivan"
+          ],
+          "lastName": [
+            "Pokrovsky"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6533-674X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Max Planck Institute of Animal Behavior, Department of Migration, Am Obstberg 1, Radolfzell, 78315, Germany.",
+                "Institute of Plant and Animal Ecology, Ural Division Russian Academy of Sciences, 8 marta str. 202/3, Yekaterinburg, 620144, Russia.",
+                "Institute of Biological Problems of the North, Magadan, Ulitsa Portovaya 18, 685000, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lecomte N"
+          ],
+          "firstName": [
+            "Nicolas"
+          ],
+          "lastName": [
+            "Lecomte"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Canada Research Chair in Polar and Boreal Ecology, Department of Biology, Université de Moncton, 18 Antonine-Maillet, Moncton, NB E1A 3E9, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Aarvak T"
+          ],
+          "firstName": [
+            "Tomas"
+          ],
+          "lastName": [
+            "Aarvak"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4592-9123",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Norwegian Ornithological Society, BirdLife Norway, Sandgata 30B, Trondheim, 7012, Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Burnham K"
+          ],
+          "firstName": [
+            "Kurt"
+          ],
+          "lastName": [
+            "Burnham"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "High Arctic Institute, 603 10th Avenue, Orion, IL, 61273, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dietz A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Dietz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "German Aerospace Center (DLR), German Remote Sensing Data Center (DFD), Pfaffenwaldring 38-40, Stuttgart, 70569, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Franke A"
+          ],
+          "firstName": [
+            "Alastair"
+          ],
+          "lastName": [
+            "Franke"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Alberta, Faculty of Science, 116 St NW, Edmonton, AB, T6G 2R3, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gauthier G"
+          ],
+          "firstName": [
+            "Gilles"
+          ],
+          "lastName": [
+            "Gauthier"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Université Laval, Department of Biology and Centre d'études nordiques, 1045 avenue de la Médecine, Québec, QC, G1V 0A6, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jacobsen KO"
+          ],
+          "firstName": [
+            "Karl-Otto"
+          ],
+          "lastName": [
+            "Jacobsen"
+          ],
+          "initials": [
+            "KO"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Norwegian Institute for Nature Research, Department of Arctic Ecology, Hjalmar Johansens gate 14, Tromso, 9296, Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kidd J"
+          ],
+          "firstName": [
+            "Jeff"
+          ],
+          "lastName": [
+            "Kidd"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Kidd Biological Inc, 2911 Meridian Court, Anacortes, WA, 98221, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lewis SB"
+          ],
+          "firstName": [
+            "Stephen B"
+          ],
+          "lastName": [
+            "Lewis"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "U.S. Fish and Wildlife Service, Division of Migratory Bird Management, 3000 Vintage Blvd 201, Juneau, AK, 99801, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Øien IJ"
+          ],
+          "firstName": [
+            "Ingar J"
+          ],
+          "lastName": [
+            "Øien"
+          ],
+          "initials": [
+            "IJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Norwegian Ornithological Society, BirdLife Norway, Sandgata 30B, Trondheim, 7012, Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Solheim R"
+          ],
+          "firstName": [
+            "Roar"
+          ],
+          "lastName": [
+            "Solheim"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Agder, Zoological Department, Universitetsveien 25 D, Kristiansand S, 4630, Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wiebe K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Wiebe"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3148-8278",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Saskatchewan, Department of Biology, 112 Science Place, Saskatoon, S7N 5E2, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wikelski M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Wikelski"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Max Planck Institute of Animal Behavior, Department of Migration, Am Obstberg 1, Radolfzell, 78315, Germany.",
+                "University of Konstanz, Department of Biology, Universitätsstraße 10, Konstanz, 78464, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Therrien JF"
+          ],
+          "firstName": [
+            "Jean-François"
+          ],
+          "lastName": [
+            "Therrien"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1046-0962",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hawk Mountain Sanctuary, Acopian Center for Conservation Learning, 410 Summer Valley Road, Orwigsburg, PA, 17961, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Safi K"
+          ],
+          "firstName": [
+            "Kamran"
+          ],
+          "lastName": [
+            "Safi"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8418-6759",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Max Planck Institute of Animal Behavior, Department of Migration, Am Obstberg 1, Radolfzell, 78315, Germany.",
+                "University of Konstanz, Department of Biology, Universitätsstraße 10, Konstanz, 78464, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6533-674X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4592-9123",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3148-8278",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1046-0962",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8418-6759",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2931281"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "7220"
+  ],
+  "abstractText": [
+    "Migratory species display a range of migration patterns between irruptive (facultative) to regular (obligate), as a response to different predictability of resources. In the Arctic, snow directly influences resource availability. The causes and consequences of different migration patterns of migratory species as a response to the snow conditions remains however unexplored. Birds migrating to the Arctic are expected to follow the spring snowmelt to optimise their arrival time and select for snow-free areas to maximise prey encounter en-route. Based on large-scale movement data, we compared the migration patterns of three top predator species of the tundra in relation to the spatio-temporal dynamics of snow cover. The snowy owl, an irruptive migrant, the rough-legged buzzard, with an intermediary migration pattern, and the peregrine falcon as a regular migrant, all followed, as expected, the spring snowmelt during their migrations. However, the owl stayed ahead, the buzzard stayed on, and the falcon stayed behind the spatio-temporal peak in snowmelt. Although none of the species avoided snow-covered areas, they presumably used snow presence as a cue to time their arrival at their breeding grounds. We show the importance of environmental cues for species with different migration patterns."
+  ],
+  "affiliation": [
+    "Max Planck Institute of Animal Behavior, Department of Migration, Am Obstberg 1, Radolfzell, 78315, Germany. tcurk@ab.mpg.de."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-63312-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7190624"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7190624?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-63312-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-01"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-07"
+  ],
+  "dateOfRevision": [
+    "2020-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-29"
+  ],
+  "firstPublicationDate": [
+    "2020-04-29"
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "id": [
+    "30287914"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30287914"
+  ],
+  "pmcid": [
+    "PMC6189126"
+  ],
+  "doi": [
+    "10.1038/s41416-018-0264-x"
+  ],
+  "title": [
+    "The colorectal cancer epidemic: challenges and opportunities for primary, secondary and tertiary prevention."
+  ],
+  "authorString": [
+    "Brenner H, Chen C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brenner H"
+          ],
+          "firstName": [
+            "Hermann"
+          ],
+          "lastName": [
+            "Brenner"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Epidemiology and Aging Research, German Cancer Research Center (DKFZ), Heidelberg, Germany. h.brenner@dkfz.de.",
+                "Division of Preventive Oncology, German Cancer Research Center (DKFZ) and National Center for Tumor Diseases (NCT), Heidelberg, Germany. h.brenner@dkfz.de.",
+                "German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany. h.brenner@dkfz.de."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Clinical Epidemiology and Aging Research, German Cancer Research Center (DKFZ), Heidelberg, Germany.",
+                "Medical Faculty Heidelberg, University of Heidelberg, Heidelberg, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "119"
+      ],
+      "journalIssueId": [
+        "2739482"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "British journal of cancer"
+          ],
+          "ISOAbbreviation": [
+            "Br. J. Cancer"
+          ],
+          "medlineAbbreviation": [
+            "Br J Cancer"
+          ],
+          "NLMid": [
+            "0370635"
+          ],
+          "ISSN": [
+            "0007-0920"
+          ],
+          "ESSN": [
+            "1532-1827"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "785-792"
+  ],
+  "abstractText": [
+    "Colorectal cancer (CRC) is both one of the most common and one of the most preventable cancers globally, with powerful but strongly missed potential for primary, secondary and tertiary prevention. CRC incidence has traditionally been the highest in affluent Western countries, but it is now increasing rapidly with economic development in many other parts of the world. CRC shares several main risk factors, such as smoking, excessive alcohol consumption, physical inactivity and being overweight, with other common diseases; therefore, primary prevention efforts to reduce these risk factors are expected to have multiple beneficial effects that extend beyond CRC prevention, and should have high public health impact. A sizeable reduction in the incidence and mortality of CRC can also be achieved by offering effective screening tests, such as faecal immunochemical tests, flexible sigmoidoscopy and colonoscopy, in organised screening programmes which have been implemented in an increasing number of countries. Countries with early and high uptake rates of effective screening have exhibited major declines in CRC incidence and mortality, in contrast to most other countries. Finally, increasing evidence shows that the prognosis and quality of life of CRC patients can be substantially improved by tertiary prevention measures, such as the administration of low-dose aspirin and the promotion of physical activity."
+  ],
+  "affiliation": [
+    "Division of Clinical Epidemiology and Aging Research, German Cancer Research Center (DKFZ), Heidelberg, Germany. h.brenner@dkfz.de."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Colorectal Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MO"
+                  ],
+                  "qualifierName": [
+                    "mortality"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prognosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Incidence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Assessment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Primary Prevention"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Early Detection of Cancer"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Secondary Prevention"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tertiary Prevention"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epidemics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Healthy Lifestyle"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41416-018-0264-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6189126"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6189126?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41416-018-0264-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-08-26"
+  ],
+  "dateOfCreation": [
+    "2018-10-06"
+  ],
+  "firstIndexDate": [
+    "2018-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-07"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-04"
+  ],
+  "firstPublicationDate": [
+    "2018-10-04"
+  ],
+  "embargoDate": [
+    "2019-10-04"
+  ]
+}

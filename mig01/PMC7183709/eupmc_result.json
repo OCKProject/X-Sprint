@@ -1,0 +1,358 @@
+{
+  "id": [
+    "32334633"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32334633"
+  ],
+  "pmcid": [
+    "PMC7183709"
+  ],
+  "doi": [
+    "10.1186/s13018-020-01679-6"
+  ],
+  "title": [
+    "PENK inhibits osteosarcoma cell migration by activating the PI3K/Akt signaling pathway."
+  ],
+  "authorString": [
+    "Zhang HP, Yu ZL, Wu BB, Sun FR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang HP"
+          ],
+          "firstName": [
+            "Hai-Ping"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "HP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopedics, Second Affiliated Hospital of Nantong University, Nantong, 226000, Jiangsu, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu ZL"
+          ],
+          "firstName": [
+            "Zi-Liang"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "ZL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopedics, Second Affiliated Hospital of Nantong University, Nantong, 226000, Jiangsu, People's Republic of China.",
+                "School of Medicine, Nantong University, Nantong, 226000, Jiangsu, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu BB"
+          ],
+          "firstName": [
+            "Bing-Bing"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "BB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopedics, Second Affiliated Hospital of Nantong University, Nantong, 226000, Jiangsu, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun FR"
+          ],
+          "firstName": [
+            "Fa-Rui"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "FR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopedics, Huangshi Central Hospital, Affiliated Hospital of Hubei Polytechnic University, Edong Healthcare Group, Tianjin Rd, Huangshi, 435000, Hubei Province, People's Republic of China. zhuzouxie19890118@163.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2931174"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of orthopaedic surgery and research"
+          ],
+          "ISOAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "medlineAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "NLMid": [
+            "101265112"
+          ],
+          "ISSN": [
+            "1749-799X"
+          ],
+          "ESSN": [
+            "1749-799X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "162"
+  ],
+  "abstractText": [
+    "BACKGROUND:This article reports the effects of proenkephalin (PENK) on osteosarcoma (OS) cell migration. METHODS:A Gene Expression Omnibus (GEO) dataset was used to identify differentially expressed genes (DEGs) in OS tumor samples and normal human osteoblasts. Tumor tissue and adjacent normal tissue were collected from 40 OS patients. MG63 cells were transfected with si-PENK. Transwell migration assays and wound healing assays were performed to compare the effect of PENK on migration. Moreover, LY294002 was used to identify the potential mechanism. Gene expression was examined via qRT-PCR and Western blotting. RESULTS:Bioinformatic analysis revealed that PENK was downregulated in OS tumor samples compared with normal human osteoblasts. Moreover, PENK was identified as the hub gene of the DEGs. The PI3K/Akt signaling pathway was significantly enriched in the DEGs. Moreover, PENK was downregulated in OS and MG63 cells compared with the corresponding control cells. Silencing PENK promoted MG63 cell migration; however, treatment with LY294002 partially attenuated PENK silencing-induced OS cell migration. CONCLUSION:PENK inhibits OS cell migration by activating the PI3K/Akt signaling pathway."
+  ],
+  "affiliation": [
+    "Department of Orthopedics, Second Affiliated Hospital of Nantong University, Nantong, 226000, Jiangsu, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Osteosarcoma",
+        "PI3K",
+        "AKT",
+        "Penk"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13018-020-01679-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7183709"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7183709?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13018-020-01679-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-27"
+  ],
+  "firstIndexDate": [
+    "2020-04-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-01"
+  ],
+  "dateOfRevision": [
+    "2020-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-25"
+  ],
+  "firstPublicationDate": [
+    "2020-04-25"
+  ]
+}

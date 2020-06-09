@@ -1,0 +1,537 @@
+{
+  "id": [
+    "24445372"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24445372"
+  ],
+  "pmcid": [
+    "PMC3921267"
+  ],
+  "doi": [
+    "10.1097/coh.0000000000000038"
+  ],
+  "title": [
+    "The emerging face of the HIV epidemic in the Middle East and North Africa."
+  ],
+  "authorString": [
+    "Mumtaz GR, Riedner G, Abu-Raddad LJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mumtaz GR"
+          ],
+          "firstName": [
+            "Ghina R"
+          ],
+          "lastName": [
+            "Mumtaz"
+          ],
+          "initials": [
+            "GR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "aInfectious Disease Epidemiology Group, Weill Cornell Medical College - Qatar, Cornell University, Qatar Foundation - Education City, Doha, Qatar bRegional Office of the Eastern Mediterranean, World Health Organization, Cairo, Egypt cDepartment of Public Health, Weill Cornell Medical College, Cornell University, New York, New York, USA dVaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Riedner G"
+          ],
+          "firstName": [
+            "Gabriele"
+          ],
+          "lastName": [
+            "Riedner"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Abu-Raddad LJ"
+          ],
+          "firstName": [
+            "Laith J"
+          ],
+          "lastName": [
+            "Abu-Raddad"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0790-0506",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0790-0506",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2123685"
+      ],
+      "dateOfPublication": [
+        "2014 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current opinion in HIV and AIDS"
+          ],
+          "ISOAbbreviation": [
+            "Curr Opin HIV AIDS"
+          ],
+          "medlineAbbreviation": [
+            "Curr Opin HIV AIDS"
+          ],
+          "NLMid": [
+            "101264945"
+          ],
+          "ISSN": [
+            "1746-630X"
+          ],
+          "ESSN": [
+            "1746-6318"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "183-191"
+  ],
+  "abstractText": [
+    "A volume of quality HIV data has materialized recently in the Middle East and North Africa (MENA). This review provides a thematic narrative of the patterns of HIV infection transmission in this region in light of these data.Tens of integrated bio-behavioral surveillance surveys among hard-to-reach key populations at higher risk have been conducted in MENA in the recent years. Many of the studies reported appreciable and growing HIV prevalence. A few studies found alarming prevalence of as much as 87.2% HIV prevalence among people who inject drugs in Tripoli, Libya. The discovery of these hitherto hidden epidemics was unsettling to some authorities after years in which the importance of a focus on HIV prevention among key populations was not recognized.The new data from MENA indicate growing HIV epidemics among key populations across the region. There is heterogeneity, however, as to which key populations are affected and in what proportions in different countries. In a few countries, HIV appears to affect only one key population and often there is substantial geographical heterogeneity in HIV transmission. Data are indicative of a growing HIV disease burden in this part of the globe, in contrast with the declining epidemics in most other regions."
+  ],
+  "affiliation": [
+    "aInfectious Disease Epidemiology Group, Weill Cornell Medical College - Qatar, Cornell University, Qatar Foundation - Education City, Doha, Qatar bRegional Office of the Eastern Mediterranean, World Health Organization, Cairo, Egypt cDepartment of Public Health, Weill Cornell Medical College, Cornell University, New York, New York, USA dVaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "001"
+          ],
+          "agency": [
+            "World Health Organization"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communicable Diseases, Emerging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa, Northern"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle East"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        },
+        {
+          "code": [
+            "X"
+          ],
+          "name": [
+            "AIDS/HIV research"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24445372/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24445372/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/COH.0000000000000038"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3921267"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3921267?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/coh.0000000000000038"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "27"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-09-22"
+  ],
+  "dateOfCreation": [
+    "2014-02-06"
+  ],
+  "firstIndexDate": [
+    "2014-01-23"
+  ],
+  "fullTextReceivedDate": [
+    "2014-02-16"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "firstPublicationDate": [
+    "2014-03-01"
+  ]
+}

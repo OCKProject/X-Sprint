@@ -1,0 +1,587 @@
+{
+  "id": [
+    "32296065"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32296065"
+  ],
+  "pmcid": [
+    "PMC7160204"
+  ],
+  "doi": [
+    "10.1038/s41467-020-15536-x"
+  ],
+  "title": [
+    "Hydrogen migration at restructuring palladium-silver oxide boundaries dramatically enhances reduction rate of silver oxide."
+  ],
+  "authorString": [
+    "O'Connor CR, van Spronsen MA, Egle T, Xu F, Kersell HR, Oliver-Meseguer J, Karatok M, Salmeron M, Madix RJ, Friend CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "O'Connor CR"
+          ],
+          "firstName": [
+            "Christopher R"
+          ],
+          "lastName": [
+            "O'Connor"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9224-9342",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Spronsen MA"
+          ],
+          "firstName": [
+            "Matthijs A"
+          ],
+          "lastName": [
+            "van Spronsen"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5136-2816",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA.",
+                "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Egle T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Egle"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1670-9754",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, 02138, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8166-0275",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kersell HR"
+          ],
+          "firstName": [
+            "Heath R"
+          ],
+          "lastName": [
+            "Kersell"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oliver-Meseguer J"
+          ],
+          "firstName": [
+            "Judit"
+          ],
+          "lastName": [
+            "Oliver-Meseguer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karatok M"
+          ],
+          "firstName": [
+            "Mustafa"
+          ],
+          "lastName": [
+            "Karatok"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5509-5463",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salmeron M"
+          ],
+          "firstName": [
+            "Miquel"
+          ],
+          "lastName": [
+            "Salmeron"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2887-8128",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA, 94720, USA.",
+                "Department of Materials Science and Engineering, University of California, Berkeley, CA, 94720, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Madix RJ"
+          ],
+          "firstName": [
+            "Robert J"
+          ],
+          "lastName": [
+            "Madix"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, 02138, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Friend CM"
+          ],
+          "firstName": [
+            "Cynthia M"
+          ],
+          "lastName": [
+            "Friend"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8673-9046",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA. friend@fas.harvard.edu.",
+                "School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, 02138, USA. friend@fas.harvard.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9224-9342",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5136-2816",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1670-9754",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8166-0275",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5509-5463",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2887-8128",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8673-9046",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2931277"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1844"
+  ],
+  "abstractText": [
+    "Heterogeneous catalysts are complex materials with multiple interfaces. A critical proposition in exploiting bifunctionality in alloy catalysts is to achieve surface migration across interfaces separating functionally dissimilar regions. Herein, we demonstrate the enhancement of more than 104 in the rate of molecular hydrogen reduction of a silver surface oxide in the presence of palladium oxide compared to pure silver oxide resulting from the transfer of atomic hydrogen from palladium oxide islands onto the surrounding surface formed from oxidation of a palladium-silver alloy. The palladium-silver interface also dynamically restructures during reduction, resulting in silver-palladium intermixing. This study clearly demonstrates the migration of reaction intermediates and catalyst material across surface interfacial boundaries in alloys with a significant effect on surface reactivity, having broad implications for the catalytic function of bimetallic materials."
+  ],
+  "affiliation": [
+    "Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA, 02138, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-020-15536-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7160204"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7160204?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-020-15536-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-17"
+  ],
+  "firstIndexDate": [
+    "2020-04-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-24"
+  ],
+  "dateOfRevision": [
+    "2020-04-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-15"
+  ],
+  "firstPublicationDate": [
+    "2020-04-15"
+  ]
+}

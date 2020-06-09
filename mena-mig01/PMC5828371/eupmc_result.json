@@ -1,0 +1,364 @@
+{
+  "id": [
+    "29599799"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29599799"
+  ],
+  "pmcid": [
+    "PMC5828371"
+  ],
+  "doi": [
+    "10.1155/2018/6727421"
+  ],
+  "title": [
+    "Peroxisome Proliferator-Activated Receptor γ and PGC-1α in Cancer: Dual Actions as Tumor Promoter and Suppressor."
+  ],
+  "authorString": [
+    "Yun SH, Han SH, Park JI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yun SH"
+          ],
+          "firstName": [
+            "Seong-Hoon"
+          ],
+          "lastName": [
+            "Yun"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6197-1383",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Dong-A University College of Medicine, Busan, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han SH"
+          ],
+          "firstName": [
+            "Sang-Heum"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4098-9859",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Dong-A University College of Medicine, Busan, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park JI"
+          ],
+          "firstName": [
+            "Joo-In"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6156-8201",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry, Dong-A University College of Medicine, Busan, Republic of Korea."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6197-1383",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4098-9859",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6156-8201",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2654962"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PPAR research"
+          ],
+          "ISOAbbreviation": [
+            "PPAR Res"
+          ],
+          "medlineAbbreviation": [
+            "PPAR Res"
+          ],
+          "NLMid": [
+            "101269101"
+          ],
+          "ISSN": [
+            "1687-4757"
+          ],
+          "ESSN": [
+            "1687-4765"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "6727421"
+  ],
+  "abstractText": [
+    "Peroxisome proliferator-activated receptor γ (PPARγ) is part of a nuclear receptor superfamily that regulates gene expression involved in cell differentiation, proliferation, immune/inflammation response, and lipid metabolism. PPARγ coactivator-1α (PGC-1α), initially identified as a PPARγ-interacting protein, is an important regulator of diverse metabolic pathways, such as oxidative metabolism and energy homeostasis. The role of PGC-1α in diabetes, neurodegeneration, and cardiovascular disease is particularly well known. PGC-1α is also now known to play important roles in cancer, independent of the role of PPARγ in cancer. Though many researchers have studied the expression and clinical implications of PPARγ and PGC-1α in cancer, there are still many controversies about the role of PPARγ and PGC-1α in cancer. This review examines and summarizes some recent data on the role and action mechanisms of PPARγ and PGC-1α in cancer, respectively, particularly the recent progress in understanding the role of PPARγ in several cancers since our review was published in 2012."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, Dong-A University College of Medicine, Busan, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/6727421"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5828371"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5828371?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/6727421"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-31"
+  ],
+  "firstIndexDate": [
+    "2018-03-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-08"
+  ],
+  "dateOfRevision": [
+    "2018-04-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-21"
+  ],
+  "firstPublicationDate": [
+    "2018-01-21"
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "id": [
+    "32150666"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32150666"
+  ],
+  "pmcid": [
+    "PMC7193175"
+  ],
+  "doi": [
+    "10.1002/2211-5463.12833"
+  ],
+  "title": [
+    "LncRNA EGOT decreases breast cancer cell viability and migration via inactivation of the Hedgehog pathway."
+  ],
+  "authorString": [
+    "Qiu S, Chen G, Peng J, Liu J, Chen J, Wang J, Li L, Yang K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qiu S"
+          ],
+          "firstName": [
+            "Shuang"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen G"
+          ],
+          "firstName": [
+            "Guobing"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peng J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jia"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jumin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jianjun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang K"
+          ],
+          "firstName": [
+            "Kunxian"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8546-248X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8546-248X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2948539"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "FEBS open bio"
+          ],
+          "ISOAbbreviation": [
+            "FEBS Open Bio"
+          ],
+          "medlineAbbreviation": [
+            "FEBS Open Bio"
+          ],
+          "NLMid": [
+            "101580716"
+          ],
+          "ISSN": [
+            "2211-5463"
+          ],
+          "ESSN": [
+            "2211-5463"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "817-826"
+  ],
+  "abstractText": [
+    "The long noncoding RNA (lncRNA) Eosinophil Granule Ontogeny Transcript (EGOT) has been reported to inhibit the proliferation and migration of glioma cells, and promote the development and progression of gastric cancer through the Hedgehog (Hh) signaling pathway. This study was conducted to assess the role of EGOT in the progression of breast cancer. We observed that EGOT is significantly down-regulated in breast cancer tissues and cell lines, and EGOT expression is negatively correlated with the Ki67 expression. Overexpression of EGOT in BT549 cells decreased cell viability and migration. In addition, overexpression of EGOT resulted in decreases in expression of key genes in the Hh pathway, including Gli1, smoothened protein, protein patched homolog 1 and Hedgehog-interacting protein (HHIP). Breast cancer tissues exhibited an increase in Gli1 expressions. Altered expression of Gli1, smoothened protein, protein patched homolog 1 and HHIP caused by EGOT overexpression were fully restored in cells transfected with plasmid complementory DNA (pcDNA) EGOT and treated with purmorphamine, an agonist of the Hh pathway. Cell viability and migration were also restored by purmorphamine. We conclude that lncRNA EGOT may inhibit breast cancer cell viability and migration via inactivation of the Hh pathway."
+  ],
+  "affiliation": [
+    "Department of Breast and Thyroid Surgery, The First People's Hospital of Yunnan Province, The Affiliated Hospital of Kunming University of Science and Technology, Kunming, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017FE467(-153)"
+          ],
+          "agency": [
+            "Joint Program of Applied Basic Research of Yunnan Provincial Department of Science and Technology - Kunming Medical University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cell proliferation",
+        "Breast cancer",
+        "cell migration",
+        "Hedgehog Pathway",
+        "Lncrna Egot"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/2211-5463.12833"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7193175"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7193175?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/2211-5463.12833"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-10"
+  ],
+  "firstIndexDate": [
+    "2020-03-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-03"
+  ],
+  "dateOfRevision": [
+    "2020-05-02"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-08"
+  ],
+  "firstPublicationDate": [
+    "2020-04-08"
+  ]
+}

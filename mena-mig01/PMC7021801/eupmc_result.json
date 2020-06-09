@@ -1,0 +1,509 @@
+{
+  "id": [
+    "32060424"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32060424"
+  ],
+  "pmcid": [
+    "PMC7021801"
+  ],
+  "doi": [
+    "10.1038/s41522-020-0117-2"
+  ],
+  "title": [
+    "Network analysis infers the wilt pathogen invasion associated with non-detrimental bacteria."
+  ],
+  "authorString": [
+    "Hu Q, Tan L, Gu S, Xiao Y, Xiong X, Zeng WA, Feng K, Wei Z, Deng Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu Q"
+          ],
+          "firstName": [
+            "Qiulong"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "CAS Key Laboratory for Environmental Biotechnology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, China.",
+                "Hunan Agricultural University, Changsha, Hunan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tan L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Agricultural University, Changsha, Hunan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gu S"
+          ],
+          "firstName": [
+            "Songsong"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Agricultural University, Changsha, Hunan, China.",
+                "Institute for Marine Science and Technology, Shandong University, Qingdao, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao Y"
+          ],
+          "firstName": [
+            "Yansong"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Chenzhou Tobacco Company of Hunan Province, Chenzhou, Hunan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong X"
+          ],
+          "firstName": [
+            "Xingyao"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Agricultural University, Changsha, Hunan, China.",
+                "Institute of Vegetables and Flowers, Chinese Agricultural Sciences, Beijing, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng WA"
+          ],
+          "firstName": [
+            "Wei-Ai"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "WA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Changsha Tobacco Company of Hunan Province, Changsha, Hunan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "CAS Key Laboratory for Environmental Biotechnology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, China.",
+                "College of Resources and Environment, University of Chinese Academy of Sciences, Beijing, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei Z"
+          ],
+          "firstName": [
+            "Zhong"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nanjing Agricultural University, Nanjing, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deng Y"
+          ],
+          "firstName": [
+            "Ye"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7584-0632",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "CAS Key Laboratory for Environmental Biotechnology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, China. yedeng@rcees.ac.cn.",
+                "Institute for Marine Science and Technology, Shandong University, Qingdao, China. yedeng@rcees.ac.cn.",
+                "College of Resources and Environment, University of Chinese Academy of Sciences, Beijing, China. yedeng@rcees.ac.cn."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7584-0632",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2912932"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NPJ biofilms and microbiomes"
+          ],
+          "ISOAbbreviation": [
+            "NPJ Biofilms Microbiomes"
+          ],
+          "medlineAbbreviation": [
+            "NPJ Biofilms Microbiomes"
+          ],
+          "NLMid": [
+            "101666944"
+          ],
+          "ISSN": [
+            "2055-5008"
+          ],
+          "ESSN": [
+            "2055-5008"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "8"
+  ],
+  "abstractText": [
+    "The microbiota colonizing the root endophytic compartment and surrounding rhizosphere soils contribute to plant growth and health. However, the key members of plant soil and endophytic microbial communities involved in inhibiting or assisting pathogen invasion remain elusive. By utilizing 16S high-throughput sequencing and a molecular ecological network (MEN) approach, we systematically studied the interactions within bacterial communities in plant endophytic compartments (stem and root) and the surrounding soil (bulk and rhizosphere) during bacterial wilt invasion. The endophytic communities were found to be strongly influenced by pathogen invasion according to analysis of microbial diversity and community structure and composition. Endophytic communities of the infected plants were primarily derived from soil communities, as assessed by the SourceTracker program, but with rare migration from soil communities to endophytic communities observed in healthy plants. Soil and endophytic microbiomes from infected plants showed modular topology and greater complexity in network analysis, and a higher number of interactions than those in healthy plants. Furthermore, interactions among microbial members revealed that pathogenic Ralstonia members were positively correlated with several bacterial genera, including Delftia, Stenotrophomonas, Bacillus, Clostridium XlVa, Fontibacillus, Acidovorax, Herminiimonas, and three unclassified bacterial genera, in infected plant roots. Our findings indicated that the pathogen invasion in the rhizosphere and endophytic compartments may be highly associated with bacteria that are normally not detrimental, and sometimes even beneficial, to plants."
+  ],
+  "affiliation": [
+    "CAS Key Laboratory for Environmental Biotechnology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CAS, QYZDB-SSW-DQC026"
+          ],
+          "agency": [
+            "CAS | Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences (RCEES, CAS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41522-020-0117-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7021801"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7021801?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41522-020-0117-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-02-16"
+  ],
+  "firstIndexDate": [
+    "2020-02-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-05"
+  ],
+  "dateOfRevision": [
+    "2020-03-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-14"
+  ],
+  "firstPublicationDate": [
+    "2020-02-14"
+  ]
+}

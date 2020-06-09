@@ -1,0 +1,418 @@
+{
+  "id": [
+    "PMC7193913"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7193913"
+  ],
+  "doi": [
+    "10.4196/kjpp.2020.24.3.193"
+  ],
+  "title": [
+    "Inhibition of chromosomal region maintenance 1 suppresses the migration and invasion of glioma cells via inactivation of the STAT3/MMP2 signaling pathway."
+  ],
+  "authorString": [
+    "Shan Q, Li S, Cao Q, Yue C, Niu M, Chen X, Shi L, Li H, Gao S, Liang J, Yu R, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shan Q"
+          ],
+          "firstName": [
+            "Qianqian"
+          ],
+          "lastName": [
+            "Shan"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Insititute of Nervous System Diseases, The Affiliated Hospital of Xuzhou Medical University, Xuzhou Medical University, Xuzhou, Jiangsu 221002, Jiangsu Key Laboratory of Bone Marrow Stem Cell, Xuzhou Medical University, Xuzhou, Jiangsu 221002, Department of Neurosurgery, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221002, China"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shengsheng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Cao Q"
+          ],
+          "firstName": [
+            "Qiyu"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Q"
+          ]
+        },
+        {
+          "fullName": [
+            "Yue C"
+          ],
+          "firstName": [
+            "Chenglong"
+          ],
+          "lastName": [
+            "Yue"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Niu M"
+          ],
+          "firstName": [
+            "Mingshan"
+          ],
+          "lastName": [
+            "Niu"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiangyu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Shi L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Huan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Gao S"
+          ],
+          "firstName": [
+            "Shangfeng"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Liang J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Yu R"
+          ],
+          "firstName": [
+            "Rutong"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xuejiao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2954397"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Korean journal of physiology & pharmacology : official journal of the Korean Physiological Society and the Korean Society of Pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Korean J. Physiol. Pharmacol."
+          ],
+          "medlineAbbreviation": [
+            "Korean J Physiol Pharmacol"
+          ],
+          "NLMid": [
+            "9709505"
+          ],
+          "ISSN": [
+            "1226-4512"
+          ],
+          "ESSN": [
+            "2093-3827"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "193-201"
+  ],
+  "abstractText": [
+    "Chromosomal region maintenance 1 (CRM1) is associated with an adverse prognosis in glioma. We previously reported that CRM1 inhibition suppressed glioma cell proliferation both in vitro and in vivo. In this study, we investigated the role of CRM1 in the migration and invasion of glioma cells. S109, a novel reversible selective inhibitor of CRM1, was used to treat Human glioma U87 and U251 cells. Cell migration and invasion were evaluated by wound-healing and transwell invasion assays. The results showed that S109 significantly inhibited the migration and invasion of U87 and U251 cells. However, mutation of Cys528 in CRM1 abolished the inhibitory activity of S109 in glioma cells. Furthermore, we found that S109 treatment decreased the expression level and activity of MMP2 and reduced the level of phosphorylated STAT3 but not total STAT3. Therefore, the inhibition of migration and invasion induced by S109 may be associated with the downregulation of MMP2 activity and expression, and inactivation of the STAT3 signaling pathway. These results support our previous conclusion that inhibition of CRM1 is an attractive strategy for the treatment of glioma."
+  ],
+  "affiliation": [
+    "Insititute of Nervous System Diseases, The Affiliated Hospital of Xuzhou Medical University, Xuzhou Medical University, Xuzhou, Jiangsu 221002, Jiangsu Key Laboratory of Bone Marrow Stem Cell, Xuzhou Medical University, Xuzhou, Jiangsu 221002, Department of Neurosurgery, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221002, China"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Invasion",
+        "Glioma",
+        "S109",
+        "Stat3/mmp2 Signaling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193913/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7193913"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4196/kjpp.2020.24.3.193"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-13"
+  ],
+  "firstIndexDate": [
+    "2020-05-14"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-13"
+  ],
+  "dateOfRevision": [
+    "2020-05-13"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-01"
+  ],
+  "firstPublicationDate": [
+    "2020-05-01"
+  ]
+}

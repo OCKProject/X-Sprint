@@ -1,0 +1,884 @@
+{
+  "id": [
+    "29602307"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29602307"
+  ],
+  "pmcid": [
+    "PMC5877387"
+  ],
+  "doi": [
+    "10.1186/s12951-018-0354-1"
+  ],
+  "title": [
+    "Nanoparticles engineered to bind cellular motors for efficient delivery."
+  ],
+  "authorString": [
+    "Dalmau-Mena I, Del Pino P, Pelaz B, Cuesta-Geijo MÁ, Galindo I, Moros M, de la Fuente JM, Alonso C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dalmau-Mena I"
+          ],
+          "firstName": [
+            "Inmaculada"
+          ],
+          "lastName": [
+            "Dalmau-Mena"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Dpt. Biotecnología, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Carretera de la Coruña km 7.5, 28040, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Del Pino P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Del Pino"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Nanociencia de Aragón, Universidad de Zaragoza, Mariano Esquillor, s/n, 50018, Zaragoza, Spain.",
+                "Centro Singular de Investigación en Química Biolóxica e Materiais Moleculares (CiQUS), Departamento de Física de Partículas, Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pelaz B"
+          ],
+          "firstName": [
+            "Beatriz"
+          ],
+          "lastName": [
+            "Pelaz"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Nanociencia de Aragón, Universidad de Zaragoza, Mariano Esquillor, s/n, 50018, Zaragoza, Spain.",
+                "Centro Singular de Investigación en Química Biolóxica e Materiais Moleculares (CiQUS), Departamento de Física de Partículas, Universidad de Santiago de Compostela, 15782, Santiago de Compostela, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cuesta-Geijo MÁ"
+          ],
+          "firstName": [
+            "Miguel Ángel"
+          ],
+          "lastName": [
+            "Cuesta-Geijo"
+          ],
+          "initials": [
+            "MÁ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Dpt. Biotecnología, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Carretera de la Coruña km 7.5, 28040, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Galindo I"
+          ],
+          "firstName": [
+            "Inmaculada"
+          ],
+          "lastName": [
+            "Galindo"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8257-9797",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Dpt. Biotecnología, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Carretera de la Coruña km 7.5, 28040, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moros M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Moros"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2861-2469",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Nanociencia de Aragón, Universidad de Zaragoza, Mariano Esquillor, s/n, 50018, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de la Fuente JM"
+          ],
+          "firstName": [
+            "Jesús M"
+          ],
+          "lastName": [
+            "de la Fuente"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Aragon Materials Science Institute (ICMA), CSIC-University of Zaragoza and CIBER-BBN, C/Pedro Cerbuna 12, 50009, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alonso C"
+          ],
+          "firstName": [
+            "Covadonga"
+          ],
+          "lastName": [
+            "Alonso"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0862-6177",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Dpt. Biotecnología, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Carretera de la Coruña km 7.5, 28040, Madrid, Spain. calonso@inia.es."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8257-9797",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2861-2469",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0862-6177",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2657271"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of nanobiotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J Nanobiotechnology"
+          ],
+          "medlineAbbreviation": [
+            "J Nanobiotechnology"
+          ],
+          "NLMid": [
+            "101152208"
+          ],
+          "ISSN": [
+            "1477-3155"
+          ],
+          "ESSN": [
+            "1477-3155"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "33"
+  ],
+  "abstractText": [
+    "Dynein is a cytoskeletal molecular motor protein that transports cellular cargoes along microtubules. Biomimetic synthetic peptides designed to bind dynein have been shown to acquire dynamic properties such as cell accumulation and active intra- and inter-cellular motion through cell-to-cell contacts and projections to distant cells. On the basis of these properties dynein-binding peptides could be used to functionalize nanoparticles for drug delivery applications.Here, we show that gold nanoparticles modified with dynein-binding delivery sequences become mobile, powered by molecular motor proteins. Modified nanoparticles showed dynamic properties, such as travelling the cytosol, crossing intracellular barriers and shuttling the nuclear membrane. Furthermore, nanoparticles were transported from one cell to another through cell-to-cell contacts and quickly spread to distant cells through cell projections.The capacity of these motor-bound nanoparticles to spread to many cells and increasing cellular retention, thus avoiding losses and allowing lower dosage, could make them candidate carriers for drug delivery."
+  ],
+  "affiliation": [
+    "Dpt. Biotecnología, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Carretera de la Coruña km 7.5, 28040, Madrid, Spain."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "AGL2015-69598-R"
+          ],
+          "agency": [
+            "Ministerio de economia, industria y competitividad de España"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ED431G/09"
+          ],
+          "agency": [
+            "Conselleria de Cultura, Educacion y Ordenacion Universitaria"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "239931"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CA15138 Transautophagy"
+          ],
+          "agency": [
+            "UE COST Action"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "239931-NANOPUZZLE"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016-2019"
+          ],
+          "agency": [
+            "Conselleria de Cultura, Educacion y Ordenacion Universitaria"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "AGL2012-34533"
+          ],
+          "agency": [
+            "Ministerio de economia, industria y competitividad de España"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SAF2014-54763-C2-2-R"
+          ],
+          "agency": [
+            "Ministerio de economia, industria y competitividad"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nuclear Envelope"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microtubules"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gold"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peptides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Drug Delivery Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amino Acid Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Weight"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nanotechnology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metal Nanoparticles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dyneins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nanoparticles",
+        "dynein",
+        "Drug Delivery",
+        "Microtubule Motors",
+        "Biomimetic Synthetic Peptides"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Peptides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Gold"
+          ],
+          "registryNumber": [
+            "7440-57-5"
+          ]
+        },
+        {
+          "name": [
+            "Dyneins"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12951-018-0354-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5877387"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5877387?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12951-018-0354-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-17"
+  ],
+  "dateOfCreation": [
+    "2018-04-01"
+  ],
+  "firstIndexDate": [
+    "2018-04-01"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-17"
+  ],
+  "dateOfRevision": [
+    "2018-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-30"
+  ],
+  "firstPublicationDate": [
+    "2018-03-30"
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "id": [
+    "26553686"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26553686"
+  ],
+  "pmcid": [
+    "PMC4639492"
+  ],
+  "doi": [
+    "10.1093/cid/civ519"
+  ],
+  "title": [
+    "Meningococcal Seroepidemiology 1 Year After the PsA-TT Mass Immunization Campaign in Burkina Faso."
+  ],
+  "authorString": [
+    "Tall H, Yaro S, Kpoda HB, Ouangraoua S, Trotter CL, Njanpop Lafourcade BM, Findlow H, Bai X, Martin C, Nwakamma I, Ouedraogo JB, Gessner BD, Borrow R, Mueller JE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tall H"
+          ],
+          "firstName": [
+            "Haoua"
+          ],
+          "lastName": [
+            "Tall"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Agence de Médecine Préventive, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yaro S"
+          ],
+          "firstName": [
+            "Seydou"
+          ],
+          "lastName": [
+            "Yaro"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre Muraz, Bobo-Dioulasso, Burkina Faso."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kpoda HB"
+          ],
+          "firstName": [
+            "Hervé B N"
+          ],
+          "lastName": [
+            "Kpoda"
+          ],
+          "initials": [
+            "HB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre Muraz, Bobo-Dioulasso, Burkina Faso."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ouangraoua S"
+          ],
+          "firstName": [
+            "Soumeya"
+          ],
+          "lastName": [
+            "Ouangraoua"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre Muraz, Bobo-Dioulasso, Burkina Faso."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Trotter CL"
+          ],
+          "firstName": [
+            "Caroline L"
+          ],
+          "lastName": [
+            "Trotter"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4000-2708",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Disease Dynamics Unit, Department of Veterinary Medicine, University of Cambridge."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Njanpop Lafourcade BM"
+          ],
+          "firstName": [
+            "Berthe-Marie"
+          ],
+          "lastName": [
+            "Njanpop Lafourcade"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Agence de Médecine Préventive, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Findlow H"
+          ],
+          "firstName": [
+            "Helen"
+          ],
+          "lastName": [
+            "Findlow"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Vaccine Evaluation Unit, Public Health England, Manchester Royal Infirmary, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bai X"
+          ],
+          "firstName": [
+            "Xilian"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Vaccine Evaluation Unit, Public Health England, Manchester Royal Infirmary, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martin C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Agence de Médecine Préventive, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nwakamma I"
+          ],
+          "firstName": [
+            "Ikenna"
+          ],
+          "lastName": [
+            "Nwakamma"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Ecole des Hautes Etudes en Santé Publique French School of Public Health, Sorbonne Paris Cité, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ouedraogo JB"
+          ],
+          "firstName": [
+            "Jean Bosco"
+          ],
+          "lastName": [
+            "Ouedraogo"
+          ],
+          "initials": [
+            "JB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0412-8733",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institut de Recherche en Science et Santé, Bobo-Dioulasso, Burkina Faso."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gessner BD"
+          ],
+          "firstName": [
+            "Bradford D"
+          ],
+          "lastName": [
+            "Gessner"
+          ],
+          "initials": [
+            "BD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Agence de Médecine Préventive, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Borrow R"
+          ],
+          "firstName": [
+            "Ray"
+          ],
+          "lastName": [
+            "Borrow"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Vaccine Evaluation Unit, Public Health England, Manchester Royal Infirmary, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mueller JE"
+          ],
+          "firstName": [
+            "Judith E"
+          ],
+          "lastName": [
+            "Mueller"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Ecole des Hautes Etudes en Santé Publique French School of Public Health, Sorbonne Paris Cité, France Institut Pasteur, Paris, France."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4000-2708",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0412-8733",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "61 Suppl 5"
+      ],
+      "journalIssueId": [
+        "2342122"
+      ],
+      "dateOfPublication": [
+        "2015 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America"
+          ],
+          "ISOAbbreviation": [
+            "Clin. Infect. Dis."
+          ],
+          "medlineAbbreviation": [
+            "Clin Infect Dis"
+          ],
+          "NLMid": [
+            "9203213"
+          ],
+          "ISSN": [
+            "1058-4838"
+          ],
+          "ESSN": [
+            "1537-6591"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "S540-6"
+  ],
+  "abstractText": [
+    "A group A meningococcal (MenA) conjugate vaccine, PsA-TT (MenAfriVac), was introduced in Burkina Faso via mass campaigns between September and December 2010, targeting the 1- to 29-year-old population. This study describes specific antibody titers in the general population 11 months later and compares them to preintroduction data obtained during 2008 using the same protocol.During October-November 2011, we recruited a representative sample of the population of urban Bobo-Dioulasso aged 6 months to 29 years, who underwent standardized interviews and blood draws. We assessed anti-MenA immunoglobulin G (IgG) concentrations (n = 200) and, using rabbit complement, serum bactericidal antibody (SBA) titers against 2 group A strains: reference strain F8238 (SBAref) (n = 562) and strain 3125 (SBA3125) (n = 200).Among the 562 participants, 481 (86%) were aged ≥23 months and had been eligible for the PsA-TT campaign. Among them, vaccine coverage was 86.3% (95% confidence interval [CI], 82.7%-89.9%). Prevalence of putatively protective antibodies among vaccine-eligible age groups was 97.3% (95% CI, 95.9%-98.7%) for SBAref titers ≥128, 83.6% (95% CI, 77.6%-89.7%) for SBA3125 ≥128, and 84.2% (95% CI, 78.7%-89.7%) for anti-MenA IgG ≥2 µg/mL. Compared to the population aged 23 months to 29 years during 2008, geometric mean titers of SBAref were 7.59-fold higher during 2011, 51.88-fold for SBA3125, and 10.56-fold for IgG.This study shows high seroprevalence against group A meningococci in Burkina Faso following MenAfriVac introduction. Follow-up surveys will provide evidence on the persistence of population-level immunity and the optimal vaccination strategy for long-term control of MenA meningitis in the African meningitis belt."
+  ],
+  "affiliation": [
+    "Agence de Médecine Préventive, Paris, France."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rabbits"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neisseria meningitidis, Serogroup A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Meningitis, Meningococcal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunoglobulin G"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Meningococcal Vaccines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Seroepidemiologic Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blood Bactericidal Activity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Burkina Faso"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Complement System Proteins"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mass Vaccination"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sub-Saharan Africa",
+        "Neisseria meningitidis",
+        "Seroepidemiologic Studies",
+        "conjugate",
+        "Group A"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Immunoglobulin G"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antibodies, Bacterial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Meningococcal Vaccines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Complement System Proteins"
+          ],
+          "registryNumber": [
+            "9007-36-7"
+          ]
+        },
+        {
+          "name": [
+            "MenAfriVac"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/cid/civ519"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4639492"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4639492?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/cid/civ519"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-30"
+  ],
+  "dateOfCreation": [
+    "2015-11-10"
+  ],
+  "firstIndexDate": [
+    "2015-11-11"
+  ],
+  "fullTextReceivedDate": [
+    "2015-11-15"
+  ],
+  "dateOfRevision": [
+    "2015-11-13"
+  ],
+  "firstPublicationDate": [
+    "2015-11-01"
+  ]
+}

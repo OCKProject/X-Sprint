@@ -1,0 +1,525 @@
+{
+  "id": [
+    "32489316"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32489316"
+  ],
+  "pmcid": [
+    "PMC7245777"
+  ],
+  "doi": [
+    "10.1186/s12935-020-01228-5"
+  ],
+  "title": [
+    "lncRNA LIFR-AS1 suppresses invasion and metastasis of non-small cell lung cancer via the miR-942-5p/ZNF471 axis."
+  ],
+  "authorString": [
+    "Wang Q, Wu J, Huang H, Jiang Y, Huang Y, Fang H, Zheng G, Zhou X, Wu Y, Lei C, Hu D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Q"
+          ],
+          "firstName": [
+            "Qun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Radiotherapy, Hubei Cancer Hospital, Tongji Medical College, Huazhong University of Science and Technology, 116 Zhuodaoquan South Road, Wuhan, 430070 China.",
+                "Department of Oncology, The Fifth Hospital of Wuhan, Wuhan, China.",
+                "WuHan University, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pneumology, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fang H"
+          ],
+          "firstName": [
+            "Hongyan"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng G"
+          ],
+          "firstName": [
+            "Gang"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xiaochun"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yujuan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lei C"
+          ],
+          "firstName": [
+            "Changjiang"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Fifth Hospital of Wuhan, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu D"
+          ],
+          "firstName": [
+            "Desheng"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9298-5545",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Radiotherapy, Hubei Cancer Hospital, Tongji Medical College, Huazhong University of Science and Technology, 116 Zhuodaoquan South Road, Wuhan, 430070 China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9298-5545",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2898933"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer Cell International"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Cell Int."
+          ],
+          "medlineAbbreviation": [
+            "Cancer Cell Int"
+          ],
+          "NLMid": [
+            "101139795"
+          ],
+          "ISSN": [
+            "1475-2867"
+          ],
+          "ESSN": [
+            "1475-2867"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "180"
+  ],
+  "abstractText": [
+    "Background:MicroRNA 942-5p (miR-942-5p) has been reported to promote migration and invasion in non-small cell lung cancer (NSCLC), but the underlying mechanism is not completely understood. The interplay between long non-coding RNAs (lncRNAs) and miRNAs plays a crucial role in tumor progression. Methods:In the present study, we performed bioinformatic and biochemical analyses to identify miR-942-5p-interacting lncRNAs. The function and clinical significance of the candidate lncRNA(s) in NSCLC were determined. Results:We identified LIFR-AS1 as a pivotal miR-942-5p-interacting lncRNA. Overexpression of miR-942-5p caused a reduction of LIFR-AS1 in NSCLC cells. LIFR-AS1 showed the ability to sponge miR-942-5p, leading to derepression of ZNF471. Functionally, LIFR-AS1 overexpression inhibited NSCLC cell migration and invasion, whereas LIFR-AS1 silencing yielded an opposite effect. In vivo studies confirmed that LIFR-AS1 overexpression suppressed lung metastasis of NSCLC cells. Rescue experiments demonstrated that enforced expression of miR-942-5p or depletion of ZNF471 restored the migration and invasion capacity of LIFR-AS1-overexpressing cells. Moreover, overexpression of ZNF471 restrained NSCLC cell invasion. Clinically, LIFR-AS1 downregulation was significantly correlated with TNM stage, lymph node metastasis, and reduced overall survival in NSCLC patients. Conclusions:we provide first evidence for the involvement of the LIFR-AS1/miR-942-5p/ZNF471 axis in NSCLC invasion and metastasis. LIFR-AS1 may represent a novel target for the treatment of NSCLC."
+  ],
+  "affiliation": [
+    "Department of Radiotherapy, Hubei Cancer Hospital, Tongji Medical College, Huazhong University of Science and Technology, 116 Zhuodaoquan South Road, Wuhan, 430070 China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lung cancer",
+        "Metastasis",
+        "target gene",
+        "Lncrna",
+        "Mir-942-5p"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01228-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7245777"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7245777?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01228-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-06-04"
+  ],
+  "firstIndexDate": [
+    "2020-06-04"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-03"
+  ],
+  "dateOfRevision": [
+    "2020-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-24"
+  ],
+  "firstPublicationDate": [
+    "2020-05-24"
+  ]
+}

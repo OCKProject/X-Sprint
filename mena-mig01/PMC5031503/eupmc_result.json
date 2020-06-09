@@ -1,0 +1,1342 @@
+{
+  "id": [
+    "26996666"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26996666"
+  ],
+  "pmcid": [
+    "PMC5031503"
+  ],
+  "doi": [
+    "10.1038/onc.2016.47"
+  ],
+  "title": [
+    "Lamellipodin promotes invasive 3D cancer cell migration via regulated interactions with Ena/VASP and SCAR/WAVE."
+  ],
+  "authorString": [
+    "Carmona G, Perera U, Gillett C, Naba A, Law AL, Sharma VP, Wang J, Wyckoff J, Balsamo M, Mosis F, De Piano M, Monypenny J, Woodman N, McConnell RE, Mouneimne G, Van Hemelrijck M, Cao Y, Condeelis J, Hynes RO, Gertler FB, Krause M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carmona G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Carmona"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perera U"
+          ],
+          "firstName": [
+            "U"
+          ],
+          "lastName": [
+            "Perera"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Randall Division of Cell and Molecular Biophysics, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gillett C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Gillett"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Research Oncology, Division of Cancer Studies, Faculty of Life Sciences and Medicine, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Naba A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Naba"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4796-5614",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Law AL"
+          ],
+          "firstName": [
+            "A-L"
+          ],
+          "lastName": [
+            "Law"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Randall Division of Cell and Molecular Biophysics, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma VP"
+          ],
+          "firstName": [
+            "V P"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "VP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+                "Gruss Lipper Biophotonics Center, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Tumor and Cell Biology, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wyckoff J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Wyckoff"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Balsamo M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Balsamo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2315-4761",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mosis F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "Mosis"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Randall Division of Cell and Molecular Biophysics, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De Piano M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "De Piano"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Division of Cancer Studies, Cancer Epidemiology Group, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Monypenny J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Monypenny"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Randall Division of Cell and Molecular Biophysics, London, UK.",
+                "King's College London, Research Oncology, Division of Cancer Studies, Faculty of Life Sciences and Medicine, London, UK.",
+                "King's College London, Division of Cancer Studies, Richard Dimbleby Department of Cancer Research, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Woodman N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Woodman"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Research Oncology, Division of Cancer Studies, Faculty of Life Sciences and Medicine, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "McConnell RE"
+          ],
+          "firstName": [
+            "R E"
+          ],
+          "lastName": [
+            "McConnell"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mouneimne G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Mouneimne"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Arizona Cancer Center, Tucson, AZ, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Van Hemelrijck M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Van Hemelrijck"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7317-0858",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Division of Cancer Studies, Cancer Epidemiology Group, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cao Y"
+          ],
+          "firstName": [
+            "Y"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Tumor and Cell Biology, Karolinska Institute, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Condeelis J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Condeelis"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+                "Gruss Lipper Biophotonics Center, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hynes RO"
+          ],
+          "firstName": [
+            "R O"
+          ],
+          "lastName": [
+            "Hynes"
+          ],
+          "initials": [
+            "RO"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+                "Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gertler FB"
+          ],
+          "firstName": [
+            "F B"
+          ],
+          "lastName": [
+            "Gertler"
+          ],
+          "initials": [
+            "FB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krause M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Krause"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3200-3199",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "King's College London, Randall Division of Cell and Molecular Biophysics, London, UK."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4796-5614",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2315-4761",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7317-0858",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3200-3199",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "39"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2455865"
+      ],
+      "dateOfPublication": [
+        "2016 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncogene"
+          ],
+          "ISOAbbreviation": [
+            "Oncogene"
+          ],
+          "medlineAbbreviation": [
+            "Oncogene"
+          ],
+          "NLMid": [
+            "8711562"
+          ],
+          "ISSN": [
+            "0950-9232"
+          ],
+          "ESSN": [
+            "1476-5594"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "5155-5169"
+  ],
+  "abstractText": [
+    "Cancer invasion is a hallmark of metastasis. The mesenchymal mode of cancer cell invasion is mediated by elongated membrane protrusions driven by the assembly of branched F-actin networks. How deregulation of actin regulators promotes cancer cell invasion is still enigmatic. We report that increased expression and membrane localization of the actin regulator Lamellipodin correlate with reduced metastasis-free survival and poor prognosis in breast cancer patients. In agreement, we find that Lamellipodin depletion reduced lung metastasis in an orthotopic mouse breast cancer model. Invasive 3D cancer cell migration as well as invadopodia formation and matrix degradation was impaired upon Lamellipodin depletion. Mechanistically, we show that Lamellipodin promotes invasive 3D cancer cell migration via both actin-elongating Ena/VASP proteins and the Scar/WAVE complex, which stimulates actin branching. In contrast, Lamellipodin interaction with Scar/WAVE but not with Ena/VASP is required for random 2D cell migration. We identified a phosphorylation-dependent mechanism that regulates selective recruitment of these effectors to Lamellipodin: Abl-mediated Lamellipodin phosphorylation promotes its association with both Scar/WAVE and Ena/VASP, whereas Src-dependent phosphorylation enhances binding to Scar/WAVE but not to Ena/VASP. Through these selective, regulated interactions Lamellipodin mediates directional sensing of epidermal growth factor (EGF) gradients and invasive 3D migration of breast cancer cells. Our findings imply that increased Lamellipodin levels enhance Ena/VASP and Scar/WAVE activities at the plasma membrane to promote 3D invasion and metastasis."
+  ],
+  "affiliation": [
+    "Koch Institute for Integrative Cancer Research at MIT, Massachusetts Institute of Technology, Cambridge, MA, USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1522273"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA150344"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA163109"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 CA100324"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/F011431/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 CA014051"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/J000590/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/N000226/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA112967"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "082907/Z/07/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mammary Neoplasms, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Invasiveness"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epidermal Growth Factor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carrier Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Adhesion Molecules"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Membrane Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphorylation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wiskott-Aldrich Syndrome Protein Family"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actin Cytoskeleton"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Interaction Maps"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Membrane Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Carrier Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Epidermal Growth Factor"
+          ],
+          "registryNumber": [
+            "62229-50-9"
+          ]
+        },
+        {
+          "name": [
+            "DNA-Binding Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cell Adhesion Molecules"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Wiskott-Aldrich Syndrome Protein Family"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Wasf1 protein, mouse"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RAPH1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ENA-VASP proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/onc.2016.47"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5031503"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5031503?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/onc.2016.47"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "24"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS758719"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-01"
+  ],
+  "dateOfCreation": [
+    "2016-03-22"
+  ],
+  "firstIndexDate": [
+    "2016-03-22"
+  ],
+  "fullTextReceivedDate": [
+    "2016-10-02"
+  ],
+  "dateOfRevision": [
+    "2020-03-11"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-21"
+  ],
+  "firstPublicationDate": [
+    "2016-03-21"
+  ]
+}

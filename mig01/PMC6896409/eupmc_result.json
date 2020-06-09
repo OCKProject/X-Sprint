@@ -1,0 +1,582 @@
+{
+  "id": [
+    "31790601"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31790601"
+  ],
+  "pmcid": [
+    "PMC6896409"
+  ],
+  "doi": [
+    "10.1080/14756366.2019.1697251"
+  ],
+  "title": [
+    "Carbonic anhydrase IX as a novel candidate in liquid biopsy."
+  ],
+  "authorString": [
+    "Ozensoy Guler O, Supuran CT, Capasso C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ozensoy Guler O"
+          ],
+          "firstName": [
+            "Ozen"
+          ],
+          "lastName": [
+            "Ozensoy Guler"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Biology, Faculty of Medicine, Yildirim Beyazit University, Ankara, Turkey."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Supuran CT"
+          ],
+          "firstName": [
+            "Claudiu T"
+          ],
+          "lastName": [
+            "Supuran"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4262-0323",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of NEUROFARBA, Section of Pharmaceutical and Nutraceutical Sciences, University of Florence, Polo Scientifico, Firenze, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Capasso C"
+          ],
+          "firstName": [
+            "Clemente"
+          ],
+          "lastName": [
+            "Capasso"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3314-2411",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, Agriculture and Food Sciences, Institute of Biosciences and Bioresources, CNR, Napoli, Italy."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4262-0323",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3314-2411",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2871926"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of enzyme inhibition and medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "NLMid": [
+            "101150203"
+          ],
+          "ISSN": [
+            "1475-6366"
+          ],
+          "ESSN": [
+            "1475-6374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "255-260"
+  ],
+  "abstractText": [
+    "Among the diagnostic techniques for the identification of tumour biomarkers, the liquid biopsy is considered one that offers future research on precision diagnosis and treatment of tumours in a non-invasive manner. The approach consists of isolating tumor-derived components, such as circulating tumour cells (CTC), tumour cell-free DNA (ctDNA), and extracellular vesicles (EVs), from the patient peripheral blood fluids. These elements constitute a source of genomic and proteomic information for cancer treatment. Within the tumour-derived components of the body fluids, the enzyme indicated with the acronym CA IX and belonging to the superfamily of carbonic anhydrases (CA, EC 4.2.1.1) is a promising aspirant for checking tumours. CA IX is a transmembrane-CA isoform that is strongly overexpressed in many cancers being not much diffused in healthy tissues except the gastrointestinal tract. Here, it is summarised the role of CA IX as tumour-associated protein and its putative relationship in liquid biopsyfor diagnosing and monitoring cancer progression."
+  ],
+  "affiliation": [
+    "Department of Medical Biology, Faculty of Medicine, Yildirim Beyazit University, Ankara, Turkey."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carbonic Anhydrase Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carbonic Anhydrase IX"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Liquid Biopsy"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Acidification",
+        "Carbonic Anhydrase Ix",
+        "Tumour Markers",
+        "Liquid Biopsy"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Carbonic Anhydrase Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Carbonic Anhydrase IX"
+          ],
+          "registryNumber": [
+            "EC 4.2.1.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2019.1697251"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6896409"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6896409?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2019.1697251"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-15"
+  ],
+  "dateOfCreation": [
+    "2019-12-03"
+  ],
+  "firstIndexDate": [
+    "2019-12-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-17"
+  ],
+  "dateOfRevision": [
+    "2020-01-15"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

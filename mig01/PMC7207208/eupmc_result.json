@@ -1,0 +1,504 @@
+{
+  "id": [
+    "32411539"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32411539"
+  ],
+  "pmcid": [
+    "PMC7207208"
+  ],
+  "doi": [
+    "10.7717/peerj.9110"
+  ],
+  "title": [
+    "Conditioned medium from M2b macrophages modulates the proliferation, migration, and apoptosis of pulmonary artery smooth muscle cells by deregulating the PI3K/Akt/FoxO3a pathway."
+  ],
+  "authorString": [
+    "Huang S, Yue Y, Feng K, Huang X, Li H, Hou J, Yang S, Huang S, Liang M, Chen G, Wu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Suiqing"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.",
+                "NHC Key Laboratory of Assisted Circulation, Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yue Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Yue"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.",
+                "NHC Key Laboratory of Assisted Circulation, Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng K"
+          ],
+          "firstName": [
+            "Kangni"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang X"
+          ],
+          "firstName": [
+            "Xiaolin"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.",
+                "NHC Key Laboratory of Assisted Circulation, Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Huayang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.",
+                "NHC Key Laboratory of Assisted Circulation, Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hou J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.",
+                "NHC Key Laboratory of Assisted Circulation, Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang S"
+          ],
+          "firstName": [
+            "Song"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "NHC Key Laboratory of Assisted Circulation, Sun Yat-sen University, Guangzhou, China.",
+                "Department of Cardiosurgery Intensive Care Unit, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Shaojie"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.",
+                "NHC Key Laboratory of Assisted Circulation, Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liang M"
+          ],
+          "firstName": [
+            "Mengya"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen G"
+          ],
+          "firstName": [
+            "Guangxian"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Z"
+          ],
+          "firstName": [
+            "Zhongkai"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2899974"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e9110"
+  ],
+  "abstractText": [
+    "Background:Immunity and inflammation are considered to be central features of pulmonary artery hypertension (PAH), in which macrophages are one of the main components of inflammatory cell infiltration around the pulmonary artery. M2b macrophages, which are different from M1 and M2 macrophages, are believed to have immunomodulatory activities and produce little fibrosis. The purpose of this study was to explore the effect of M2b macrophages on pulmonary artery smooth muscle cells (PASMCs) derived from monocrotaline-induced PAH rats. Methods:PASMCs were cultured in serum-free medium, the supernatant of M0 macrophages, or the supernatant of M2b macrophages for 24 hours. Then cell proliferation was assessed by cell counting kit-8 and cell migration ability was detected by wound healing and transwell assays. The apoptosis rate of cells was determined by TUNEL staining and annexin V-PE/7-ADD staining. Western blot was used to detect the expression of Bcl-2 family proteins, cleaved caspase-9 and PI3K/Akt/FoxO3a pathway. LY294002 (a specific inhibitor of PI3K) was used to investigate its effect on PASMCs and its relationship with M2b macrophages. Results:Conditioned medium from M2b macrophages significantly inhibited the proliferation and migration of PASMCs compared with the control group and M0 macrophage group. Furthermore, conditioned medium from M2b macrophages promote PASMC apoptosis and increased the expression of pro-apoptotic proteins Bax and cleaved caspase-9, inhibited the expression of anti-apoptotic proteins Bcl-2 and Bcl-xl. Finally, conditioned medium from M2b macrophages inhibited the PI3K/Akt/FoxO3a pathway. Inhibition of PI3K/Akt/FoxO3a pathway also significantly inhibit the proliferation, migration, and apoptosis resistance of PASMCs. Conclusion:Conditioned medium from M2b macrophages can inhibit the proliferation, migration, and apoptosis resistance of PASMCs, which may be at least partially by deregulating the PI3K/Akt/FoxO3a pathway."
+  ],
+  "affiliation": [
+    "Department of Cardiac Surgery, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apoptosis",
+        "Migration",
+        "Macrophage",
+        "Proliferation",
+        "pulmonary artery smooth muscle cells",
+        "Pulmonary Artery Hypertension",
+        "M2b Macrophages",
+        "The Pi3k/akt/foxo3a Pathway"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.9110"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7207208"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7207208?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.9110"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-16"
+  ],
+  "firstIndexDate": [
+    "2020-05-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-16"
+  ],
+  "dateOfRevision": [
+    "2020-05-18"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-05"
+  ],
+  "firstPublicationDate": [
+    "2020-05-05"
+  ]
+}

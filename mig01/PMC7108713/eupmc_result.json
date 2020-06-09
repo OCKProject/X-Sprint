@@ -1,0 +1,361 @@
+{
+  "id": [
+    "32231355"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32231355"
+  ],
+  "pmcid": [
+    "PMC7108713"
+  ],
+  "doi": [
+    "10.1371/journal.pmed.1003093"
+  ],
+  "title": [
+    "Pre-migration socioeconomic status and post-migration health satisfaction among Syrian refugees in Germany: A cross-sectional analysis."
+  ],
+  "authorString": [
+    "Bauer JM, Brand T, Zeeb H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bauer JM"
+          ],
+          "firstName": [
+            "Jan Michael"
+          ],
+          "lastName": [
+            "Bauer"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6331-4061",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Management, Society and Communication, Copenhagen Business School, Copenhagen, Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Brand T"
+          ],
+          "firstName": [
+            "Tilman"
+          ],
+          "lastName": [
+            "Brand"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Leibniz Institute for Prevention Research and Epidemiology-BIPS, Bremen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zeeb H"
+          ],
+          "firstName": [
+            "Hajo"
+          ],
+          "lastName": [
+            "Zeeb"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Leibniz Institute for Prevention Research and Epidemiology-BIPS, Bremen, Germany.",
+                "Health Sciences Bremen, University of Bremen, Bremen, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6331-4061",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2918448"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS medicine"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Med."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Med"
+          ],
+          "NLMid": [
+            "101231360"
+          ],
+          "ISSN": [
+            "1549-1277"
+          ],
+          "ESSN": [
+            "1549-1676"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e1003093"
+  ],
+  "abstractText": [
+    "BACKGROUND:The large increase in numbers of refugees and asylum seekers in Germany and most of Europe has put the issue of migration itself, the integration of migrants, and also their health at the top of the political agenda. However, the dynamics of refugee health are not yet well understood. From a life-course perspective, migration experience is associated with various risks and changes, which might differ depending on the socioeconomic status (SES) of refugees in their home country. The aim of this paper was to analyze the relationship between pre-migration SES and self-reported health indicators after migration among Syrian refugees. Specifically, we wanted to find out how their SES affects the change in health satisfaction from pre- to post-migration. METHODS AND FINDINGS:We used data from the 2016 refugee survey, which was part of the German Socio-Economic Panel (GSOEP). Although cross-sectional by design, this survey collected information referring to the current situation as a refugee in Germany as well as to their situation before migration. Using a sample of 2,209 adult Syrian refugees who had entered Germany between 2013 and 2016, we conducted a cross-sectional and a quasi-longitudinal (retrospective) analysis. The mean ± SD age was 35 ± 11 years, with 64% of the participants being male. Our results showed a positive association between pre-migration self-reported SES and several subjective health indicators (e.g., health satisfaction, self-reported health, mental health) in the cross-sectional analysis. However, the quasi-longitudinal analysis revealed that the socioeconomic gradient in health satisfaction before migration was strongly attenuated after migration (SES-by-time interaction: -0.48, 95% CI -0.61 to -0.35, p < 0.001; unstandardized regression coefficients, 5-point SES scale and 11-point health outcome scale). Similar results were produced after controlling for sociodemographic characteristics, experiences during the migration passage, and the current situation in Germany. A sex-stratified analysis showed that while there was some improvement in health satisfaction among men from the lowest SES over time, no improvement was found among women. A limitation of this study is that it considers only the first months or years after migration. Thus, we cannot preclude that the socioeconomic gradient regains importance in the longer run. CONCLUSIONS:Our findings suggest that the pre-migration socioeconomic gradient in health satisfaction is strongly attenuated in the first years after migration among Syrian refugees. Hence, a high SES before crisis and migration provides limited protection against the adverse health effects of migration passage."
+  ],
+  "affiliation": [
+    "Department of Management, Society and Communication, Copenhagen Business School, Copenhagen, Denmark."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pmed.1003093"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7108713"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7108713?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pmed.1003093"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-02"
+  ],
+  "firstIndexDate": [
+    "2020-04-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-06"
+  ],
+  "dateOfRevision": [
+    "2020-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-31"
+  ],
+  "firstPublicationDate": [
+    "2020-03-31"
+  ]
+}

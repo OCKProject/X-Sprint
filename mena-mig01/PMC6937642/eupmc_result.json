@@ -1,0 +1,326 @@
+{
+  "id": [
+    "31892940"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31892940"
+  ],
+  "pmcid": [
+    "PMC6937642"
+  ],
+  "doi": [
+    "10.1186/s13031-019-0244-7"
+  ],
+  "title": [
+    "Violent conflict and breastfeeding: the case of Iraq."
+  ],
+  "authorString": [
+    "Diwakar V, Malcolm M, Naufal G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Diwakar V"
+          ],
+          "firstName": [
+            "Vidya"
+          ],
+          "lastName": [
+            "Diwakar"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1Overseas Development Institute, 203 Blackfriars Road, London, SE1 8NJ UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Malcolm M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Malcolm"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2West Chester University, 700 S High Street, West Chester, PA 19382 USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Naufal G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Naufal"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Public Policy Research Institute, 4476 Texas A&M University, College Station, TX 77843-4476 USA.",
+                "4Institute of Labor Economics (IZA), Bonn, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2769876"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Conflict and health"
+          ],
+          "ISOAbbreviation": [
+            "Confl Health"
+          ],
+          "medlineAbbreviation": [
+            "Confl Health"
+          ],
+          "NLMid": [
+            "101286573"
+          ],
+          "ISSN": [
+            "1752-1505"
+          ],
+          "ESSN": [
+            "1752-1505"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "61"
+  ],
+  "abstractText": [
+    "Background:This study explores the relationship between armed conflict and breastfeeding practices of Iraqi mothers. To date, the relationship between violent conflict and breastfeeding is surprisingly understudied. Especially in the Middle East, which is conflict-prone and has a young population, research on war and household behavior is critical for promoting recovery and sustainable development. Methods:This study employs a unique pairing of the Iraq Body Count Database and the 2006 and 2011 Multiple Indicator Cluster Surveys for Iraq. We use probit models to explore the association between armed conflict and several breastfeeding outcomes - whether a child was ever breastfed, whether a child was breastfed within 1 h after birth, whether a child is currently breastfed, and whether an infant under 6 months of age is exclusively breastfed. Our proxies for conflict intensity are the average rate of conflict-related casualties across the 3 years prior to survey administration and the rate of casualties averaged across the 2 years prior to the birth of the child, in the governorate in which the family resides. We employ a number of other independent variables important for breastfeeding status, including health controls and characteristics of the household, child and mother. We also use a Cox proportional hazards model to study the association between conflict and breastfeeding duration. We complement this analysis with various robustness checks, including disaggregation by year, controls for household wealth and an analysis of breastmilk substitutes and their potential for an interaction with household wealth. Results:We find in our main results that increases in conflict-related casualties are associated with a significant decline in the probability that a child was ever breastfed and a decline in the probability that a child is currently breastfeeding. There is no significant association with exclusive breastfeeding or with initiation of breastfeeding within 1 h after birth. This result is robust to alternative measures of conflict, although some coefficients from estimation based on the 2006 subsample are positive and not significant, and reverse causation is a potential source of bias in interpreting cross-sectional feeding patterns. Results on breastfeeding duration are mixed. Our results also suggest an increase in the use of breastfeeding substitutes like formula concurrent to higher levels of conflict among wealthier households. Conclusion:The results are informative in the context of designing policy aimed at stabilizing the long-term health and productivity of populations in conflict areas. Infant formula provided with the objective of offering temporary relief creates risks, including reducing the probability and duration of breastfeeding. Attention to the supply of health care and to support systems for women, especially skilled breastfeeding support and targeted support to infants dependent on formula, are matters of the utmost urgency during and after conflict periods."
+  ],
+  "affiliation": [
+    "1Overseas Development Institute, 203 Blackfriars Road, London, SE1 8NJ UK."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Iraq",
+        "Breastfeeding",
+        "Middle East",
+        "Conflict"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13031-019-0244-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6937642"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6937642?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13031-019-0244-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-02"
+  ],
+  "firstIndexDate": [
+    "2020-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-03"
+  ],
+  "dateOfRevision": [
+    "2020-01-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-30"
+  ],
+  "firstPublicationDate": [
+    "2019-12-30"
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "id": [
+    "32483426"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32483426"
+  ],
+  "pmcid": [
+    "PMC7254989"
+  ],
+  "doi": [
+    "10.7150/thno.43198"
+  ],
+  "title": [
+    "Non-canonical signaling pathway of SNAI2 induces EMT in ovarian cancer cells by suppressing miR-222-3p transcription and upregulating PDCD10."
+  ],
+  "authorString": [
+    "Fan L, Lei H, Zhang S, Peng Y, Fu C, Shu G, Yin G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fan L"
+          ],
+          "firstName": [
+            "Lili"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Xiangya Hospital, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lei H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Xiangya Hospital, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang S"
+          ],
+          "firstName": [
+            "Sai"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Xiangya Hospital, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peng Y"
+          ],
+          "firstName": [
+            "Yulong"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Xiangya Hospital, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fu C"
+          ],
+          "firstName": [
+            "Chunyan"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Xiangya Hospital, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shu G"
+          ],
+          "firstName": [
+            "Guang"
+          ],
+          "lastName": [
+            "Shu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Basic Medical Sciences, Central South University, Changsha, Hunan Province."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin G"
+          ],
+          "firstName": [
+            "Gang"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Xiangya Hospital, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China.",
+                "China-Africa Research Center of Infectious Diseases, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2961074"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Theranostics"
+          ],
+          "ISOAbbreviation": [
+            "Theranostics"
+          ],
+          "medlineAbbreviation": [
+            "Theranostics"
+          ],
+          "NLMid": [
+            "101552395"
+          ],
+          "ISSN": [
+            "1838-7640"
+          ],
+          "ESSN": [
+            "1838-7640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "5895-5913"
+  ],
+  "abstractText": [
+    "Background: Epithelial ovarian cancer (EOC) is one of the most lethal malignancies in women worldwide. Many studies showed the transcription factor SNAI2-induced Epithelial-Mesenchymal Transition (EMT) through inhibiting E-cadherin (E-cad) expression. Our previous study reported that miR-222-3p was an important tumor-suppressive miRNA for EOC development and dissemination. The present study aimed to acquire a deeper mechanistic understanding of the role of miR-222-3p regulation that might contribute to improving current anti-metastasis strategies in EOC. Methods: A variety of techniques were used to measure mRNA and protein expression levels, including quantitative real-time polymerase chain reaction (qRT-PCR), Western blot, immunohistochemical (IHC) staining, and immunofluorescence (IF). Four different microRNA (miRNA) target prediction databases were used to predict the target genes of miR-222. Luciferase assay was performed to determine the direct binding of miR-222-3p to the untranslated region (3'-UTR) of PDCD10. The biological effects of PDCD10 and miR-222-3p were also investigated in vitro by Transwell and wound healing assays, as well as in vivo by a xenograft mice model. Combining UCSC and JASPAR, as well as ENCODE public databases, we predicted that the transcription factor SNAI2 could affect miR-222-3p expression. Luciferase assay was utilized to examine the validity of putative SNAI2 binding sites for miR-222-3p regulation. Chromatin immunoprecipitation (ChIP) was used to explore the SNAI2's occupancy on the miR-222-3p promoter. Results: We observed the inhibitory effect of SNAI2 on miR-222-3p transcription and confirmed the tumor-suppressive function of miR-222-3p both in EOC cells and tissues. PDCD10 was upregulated and inversely correlated with miR-222-3p, both in vitro and in vivo, which was consistent with the information in bioinformatics databases. Furthermore, We observed direct binding of miR-222-3p to the 3'-UTR of PDCD10 and inhibition of PDCD10 translation, which, in turn, inhibited EOC cell migration in vitro and repressed EOC xenografted tumor metastasis in vivo. We found that genetic overexpression of PDCD10 (OE-PDCD10) increased cancer metastasis by down-regulating E-cad and enhancing Vimentin (VIM) thereby inducing EMT and promoting β-catenin/Wnt-mediated cell migration."
+  ],
+  "affiliation": [
+    "Department of Pathology, Xiangya Hospital, School of Basic Medical Sciences, Central South University, Changsha, Hunan Province, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Ovarian cancer",
+        "Snai2",
+        "Pdcd10",
+        "Mir-222-3p"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/thno.43198"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7254989"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7254989?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/thno.43198"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-03"
+  ],
+  "firstIndexDate": [
+    "2020-06-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-02"
+  ],
+  "dateOfRevision": [
+    "2020-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-27"
+  ],
+  "firstPublicationDate": [
+    "2020-04-27"
+  ]
+}

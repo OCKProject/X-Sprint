@@ -1,0 +1,1568 @@
+{
+  "id": [
+    "30862798"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30862798"
+  ],
+  "pmcid": [
+    "PMC6414540"
+  ],
+  "doi": [
+    "10.1038/s41467-019-08547-w"
+  ],
+  "title": [
+    "Homozygous frameshift mutations in FAT1 cause a syndrome characterized by colobomatous-microphthalmia, ptosis, nephropathy and syndactyly."
+  ],
+  "authorString": [
+    "Lahrouchi N, George A, Ratbi I, Schneider R, Elalaoui SC, Moosa S, Bharti S, Sharma R, Abu-Asab M, Onojafe F, Adadi N, Lodder EM, Laarabi FZ, Lamsyah Y, Elorch H, Chebbar I, Postma AV, Lougaris V, Plebani A, Altmueller J, Kyrieleis H, Meiner V, McNeill H, Bharti K, Lyonnet S, Wollnik B, Henrion-Caude A, Berraho A, Hildebrandt F, Bezzina CR, Brooks BP, Sefiani A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lahrouchi N"
+          ],
+          "firstName": [
+            "Najim"
+          ],
+          "lastName": [
+            "Lahrouchi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Amsterdam UMC, University of Amsterdam, Heart Center, Department of Clinical and Experimental Cardiology, Amsterdam Cardiovascular Sciences, Meibergdreef 9, Amsterdam, 1105AZ, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "George A"
+          ],
+          "firstName": [
+            "Aman"
+          ],
+          "lastName": [
+            "George"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Ophthalmic Genetics and Visual Function Branch, National Eye Institute, NIH, Bethesda, MD, 20892, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ratbi I"
+          ],
+          "firstName": [
+            "Ilham"
+          ],
+          "lastName": [
+            "Ratbi"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherche en Génomique des Pathologies Humaines (GENOPATH), Faculté de Médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schneider R"
+          ],
+          "firstName": [
+            "Ronen"
+          ],
+          "lastName": [
+            "Schneider"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pediatrics, Boston Children's Hospital, Harvard Medical School, Boston, MA, 02115, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elalaoui SC"
+          ],
+          "firstName": [
+            "Siham C"
+          ],
+          "lastName": [
+            "Elalaoui"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherche en Génomique des Pathologies Humaines (GENOPATH), Faculté de Médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moosa S"
+          ],
+          "firstName": [
+            "Shahida"
+          ],
+          "lastName": [
+            "Moosa"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4463-3067",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Human Genetics, University Medical Center Goettingen, 37073, Goettingen, Germany.",
+                "Boston Children's Hospital and Harvard Medical School, Boston, MA, 02215, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bharti S"
+          ],
+          "firstName": [
+            "Sanita"
+          ],
+          "lastName": [
+            "Bharti"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Ophthalmic Genetics and Visual Function Branch, National Eye Institute, NIH, Bethesda, MD, 20892, USA.",
+                "Unit on Ocular & Stem Cell Translational Research, National Eye Institute, NIH, Bethesda, MD, 20892, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma R"
+          ],
+          "firstName": [
+            "Ruchi"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unit on Ocular & Stem Cell Translational Research, National Eye Institute, NIH, Bethesda, MD, 20892, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abu-Asab M"
+          ],
+          "firstName": [
+            "Mones"
+          ],
+          "lastName": [
+            "Abu-Asab"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Section of Histopathology, National Eye Institute, NIH, Bethesda, MD, 20892, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Onojafe F"
+          ],
+          "firstName": [
+            "Felix"
+          ],
+          "lastName": [
+            "Onojafe"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Ophthalmic Genetics and Visual Function Branch, National Eye Institute, NIH, Bethesda, MD, 20892, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Adadi N"
+          ],
+          "firstName": [
+            "Najlae"
+          ],
+          "lastName": [
+            "Adadi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherche en Génomique des Pathologies Humaines (GENOPATH), Faculté de Médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lodder EM"
+          ],
+          "firstName": [
+            "Elisabeth M"
+          ],
+          "lastName": [
+            "Lodder"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6017-3796",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Amsterdam UMC, University of Amsterdam, Heart Center, Department of Clinical and Experimental Cardiology, Amsterdam Cardiovascular Sciences, Meibergdreef 9, Amsterdam, 1105AZ, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Laarabi FZ"
+          ],
+          "firstName": [
+            "Fatima-Zahra"
+          ],
+          "lastName": [
+            "Laarabi"
+          ],
+          "initials": [
+            "FZ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Département de génétique médicale, Institut National d'Hygiène, BP 769 Agdal, 10090, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lamsyah Y"
+          ],
+          "firstName": [
+            "Yassine"
+          ],
+          "lastName": [
+            "Lamsyah"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Service d'Ophtalmologie B, Hôpital des Spécialités, CHU Rabat, Faculté de médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elorch H"
+          ],
+          "firstName": [
+            "Hamza"
+          ],
+          "lastName": [
+            "Elorch"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Service d'Ophtalmologie B, Hôpital des Spécialités, CHU Rabat, Faculté de médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chebbar I"
+          ],
+          "firstName": [
+            "Imane"
+          ],
+          "lastName": [
+            "Chebbar"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Service d'Ophtalmologie B, Hôpital des Spécialités, CHU Rabat, Faculté de médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Postma AV"
+          ],
+          "firstName": [
+            "Alex V"
+          ],
+          "lastName": [
+            "Postma"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4874-2487",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Amsterdam UMC, University of Amsterdam, Department of Anatomy, Embryology & Physiology, Amsterdam Cardiovascular Sciences, Meibergdreef 9, Amsterdam, The Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lougaris V"
+          ],
+          "firstName": [
+            "Vassilios"
+          ],
+          "lastName": [
+            "Lougaris"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Pediatrics Clinic and Institute for Molecular Medicine \"A. Nocivelli\", Department of Clinical and Experimental Sciences, University of Brescia and ASST-Spedali Civili of Brescia, 25123, Brescia, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Plebani A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Plebani"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Pediatrics Clinic and Institute for Molecular Medicine \"A. Nocivelli\", Department of Clinical and Experimental Sciences, University of Brescia and ASST-Spedali Civili of Brescia, 25123, Brescia, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Altmueller J"
+          ],
+          "firstName": [
+            "Janine"
+          ],
+          "lastName": [
+            "Altmueller"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cologne Center for Genomics University of Cologne, 50931, Cologne, Germany.",
+                "Center for Molecular Medicine Cologne (CMMC), University of Cologne, Cologne, 50931, Germany.",
+                "Institute of Human Genetics, University of Cologne, 50931, Cologne, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kyrieleis H"
+          ],
+          "firstName": [
+            "Henriette"
+          ],
+          "lastName": [
+            "Kyrieleis"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pediatrics, Bethanien Hospital, Cologne, 42699, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Meiner V"
+          ],
+          "firstName": [
+            "Vardiella"
+          ],
+          "lastName": [
+            "Meiner"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Human Genetics and Metabolic Diseases, Hadassah-Hebrew University Medical Center, Jerusalem, 91120, Israel."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "McNeill H"
+          ],
+          "firstName": [
+            "Helen"
+          ],
+          "lastName": [
+            "McNeill"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Developmental Biology, Washington University School of Medicine, St. Louis, 63110, MO, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bharti K"
+          ],
+          "firstName": [
+            "Kapil"
+          ],
+          "lastName": [
+            "Bharti"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unit on Ocular & Stem Cell Translational Research, National Eye Institute, NIH, Bethesda, MD, 20892, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lyonnet S"
+          ],
+          "firstName": [
+            "Stanislas"
+          ],
+          "lastName": [
+            "Lyonnet"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of embryology and genetics of human malformation, Institut National de la Santé et de la Recherche Médicale (INSERM) UMR 1163, Paris Descartes-Sorbonne Paris Cité University, Institut Imagine, Paris, 75015, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wollnik B"
+          ],
+          "firstName": [
+            "Bernd"
+          ],
+          "lastName": [
+            "Wollnik"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Human Genetics, University Medical Center Goettingen, 37073, Goettingen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Henrion-Caude A"
+          ],
+          "firstName": [
+            "Alexandra"
+          ],
+          "lastName": [
+            "Henrion-Caude"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM UMR-781, Département de Génétique, Hôpital Necker-Enfants Malades, Assistance Publique Hôpitaux de Paris (APHP), Paris, 75015, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Berraho A"
+          ],
+          "firstName": [
+            "Amina"
+          ],
+          "lastName": [
+            "Berraho"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Service d'Ophtalmologie B, Hôpital des Spécialités, CHU Rabat, Faculté de médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hildebrandt F"
+          ],
+          "firstName": [
+            "Friedhelm"
+          ],
+          "lastName": [
+            "Hildebrandt"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7130-0030",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pediatrics, Boston Children's Hospital, Harvard Medical School, Boston, MA, 02115, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bezzina CR"
+          ],
+          "firstName": [
+            "Connie R"
+          ],
+          "lastName": [
+            "Bezzina"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Amsterdam UMC, University of Amsterdam, Heart Center, Department of Clinical and Experimental Cardiology, Amsterdam Cardiovascular Sciences, Meibergdreef 9, Amsterdam, 1105AZ, The Netherlands. c.r.bezzina@amc.uva.nl."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Brooks BP"
+          ],
+          "firstName": [
+            "Brian P"
+          ],
+          "lastName": [
+            "Brooks"
+          ],
+          "initials": [
+            "BP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Ophthalmic Genetics and Visual Function Branch, National Eye Institute, NIH, Bethesda, MD, 20892, USA. brooksb@nei.nih.gov."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sefiani A"
+          ],
+          "firstName": [
+            "Abdelaziz"
+          ],
+          "lastName": [
+            "Sefiani"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre de Recherche en Génomique des Pathologies Humaines (GENOPATH), Faculté de Médecine et de Pharmacie, Mohammed V University of Rabat, 10100, Rabat, Morocco. sefianigen@hotmail.com.",
+                "Département de génétique médicale, Institut National d'Hygiène, BP 769 Agdal, 10090, Rabat, Morocco. sefianigen@hotmail.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4463-3067",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6017-3796",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4874-2487",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7130-0030",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2787934"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1180"
+  ],
+  "abstractText": [
+    "A failure in optic fissure fusion during development can lead to blinding malformations of the eye. Here, we report a syndrome characterized by facial dysmorphism, colobomatous microphthalmia, ptosis and syndactyly with or without nephropathy, associated with homozygous frameshift mutations in FAT1. We show that Fat1 knockout mice and zebrafish embryos homozygous for truncating fat1a mutations exhibit completely penetrant coloboma, recapitulating the most consistent developmental defect observed in affected individuals. In human retinal pigment epithelium (RPE) cells, the primary site for the fusion of optic fissure margins, FAT1 is localized at earliest cell-cell junctions, consistent with a role in facilitating optic fissure fusion during vertebrate eye development. Our findings establish FAT1 as a gene with pleiotropic effects in human, in that frameshift mutations cause a severe multi-system disorder whereas recessive missense mutations had been previously associated with isolated glomerulotubular nephropathy."
+  ],
+  "affiliation": [
+    "Amsterdam UMC, University of Amsterdam, Heart Center, Department of Clinical and Experimental Cardiology, Amsterdam Cardiovascular Sciences, Meibergdreef 9, Amsterdam, 1105AZ, The Netherlands."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DK076683"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DK076683"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eye"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EM"
+                  ],
+                  "qualifierName": [
+                    "embryology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Facial Bones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AB"
+                  ],
+                  "qualifierName": [
+                    "abnormalities"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cells, Cultured"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intercellular Junctions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Knockout"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zebrafish"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Syndactyly"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coloboma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microphthalmos"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blepharoptosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kidney Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Syndrome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zebrafish Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cadherins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Mutational Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Organogenesis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Frameshift Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Embryo, Mammalian"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retinal Pigment Epithelium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CY"
+                  ],
+                  "qualifierName": [
+                    "cytology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Primary Cell Culture"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Exome Sequencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Cadherins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Zebrafish Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "FAT1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "fat1a protein, zebrafish"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "fat1 protein, mouse"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-08547-w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6414540"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6414540?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-08547-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-05"
+  ],
+  "dateOfCreation": [
+    "2019-03-14"
+  ],
+  "firstIndexDate": [
+    "2019-03-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-19"
+  ],
+  "dateOfRevision": [
+    "2020-03-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-12"
+  ],
+  "firstPublicationDate": [
+    "2019-03-12"
+  ]
+}

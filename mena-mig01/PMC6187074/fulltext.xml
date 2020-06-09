@@ -1,0 +1,1135 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Gend Soc</journal-id><journal-id journal-id-type="iso-abbrev">Gend Soc</journal-id><journal-id journal-id-type="publisher-id">GAS</journal-id><journal-id journal-id-type="hwp">spgas</journal-id><journal-title-group><journal-title>Gender &#x00026; Society</journal-title></journal-title-group><issn pub-type="ppub">0891-2432</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage CA: Los Angeles, CA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6187074</article-id><article-id pub-id-type="doi">10.1177/0891243218783670</article-id><article-id pub-id-type="publisher-id">10.1177_0891243218783670</article-id><article-categories><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Re-Understanding Religion and Support for Gender Equality in Arab
+Countries</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Glas</surname><given-names>Saskia</given-names></name><xref ref-type="corresp" rid="corresp1-0891243218783670"/></contrib><contrib contrib-type="author"><name><surname>Spierings</surname><given-names>Niels</given-names></name></contrib><contrib contrib-type="author"><name><surname>Scheepers</surname><given-names>Peer</given-names></name></contrib><aff id="aff1-0891243218783670">Radboud University, the Netherlands</aff></contrib-group><author-notes><corresp id="corresp1-0891243218783670">Saskia Glas, Radboud University, Nijmegen,
+6500 HE, the Netherlands; e-mail: <email>s.glas@ru.nl</email></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>7</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2018</year></pub-date><volume>32</volume><issue>5</issue><fpage>686</fpage><lpage>712</lpage><permissions><copyright-statement>&#x000a9; 2018 by The Author(s)</copyright-statement><copyright-year>2018</copyright-year><copyright-holder content-type="sage">Sociologists for Women in
+Society</copyright-holder><license license-type="open-access" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>Much is said about Middle Eastern and North African (MENA) publics opposing
+gender equality, often referring to patriarchal Islam. However, nuanced
+large-scale studies addressing which specific aspects of religiosity affect
+support for gender equality across the MENA are conspicuously absent. This study
+develops and tests a gendered agentic socialization framework that proposes that
+MENA citizens are not only passively socialized by religion but also have agency
+(within their religiosity). This disaggregates the influence of religiosity,
+highlights its multifacetedness, and theorizes the moderating roles that gender
+and sociocognitive empowerment play via gendered processes of agentic
+dissociations. Using 15 World Values Surveys and multilevel models, our analyses
+show that most dimensions of religiosity fuel opposition to gender equality.
+However, the salience of religion in daily life is found to increase women&#x02019;s
+support for gender equality and cushion the negative impact of religious service
+attendance. Also, gender and education moderate the impacts of several
+religiosity dimensions; for instance, women&#x02019;s (initially greater) support for
+gender equality more sharply declines with increased service attendance than
+men&#x02019;s. Altogether, this study finds that religious socialization is multifaceted
+and gendered, and that certain men and women are inclined and equipped to
+deviate from dominant patriarchal religious interpretations.</p></abstract><kwd-group><kwd>Middle East and North Africa</kwd><kwd>gender equality</kwd><kwd>public opinion</kwd><kwd>Islam</kwd><kwd>agency</kwd></kwd-group><funding-group><award-group id="award1-0891243218783670"><funding-source id="funding1-0891243218783670"><institution-wrap><institution>Nederlandse Organisatie voor Wetenschappelijk
+Onderzoek</institution><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100003246</institution-id></institution-wrap></funding-source><award-id rid="funding1-0891243218783670">406-16-517</award-id></award-group></funding-group></article-meta></front><body><p>Arab Middle Eastern and North African (MENA) publics report one of the world&#x02019;s lowest
+rates of support for gender equality (<xref rid="bibr39-0891243218783670" ref-type="bibr">Norris 2009</xref>; <xref rid="bibr42-0891243218783670" ref-type="bibr">Price 2016</xref>), and, consequently, the Arab MENA
+shows relatively large political and socioeconomic inequalities between men and women
+(<xref rid="bibr41-0891243218783670" ref-type="bibr">Paxton, Kunovich, and Hughes
+2007</xref>). Thorough knowledge of what drives the MENA publics&#x02019; resistance to
+gender equality is thus pivotal to address real-world inequalities. However, previous
+public opinion research and Western public debates explain opposition to gender equality
+in the MENA by pointing rather unidimensionally to Muslims&#x02019; (vs. non-Muslims&#x02019;)
+patriarchal religious socialization (<xref rid="bibr2-0891243218783670" ref-type="bibr">Alexander and Welzel 2011</xref>; <xref rid="bibr22-0891243218783670" ref-type="bibr">Inglehart and Norris 2003</xref>; <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and Fish 2016</xref>; <xref rid="bibr36-0891243218783670" ref-type="bibr">Moaddel 2006</xref>; <xref rid="bibr47-0891243218783670" ref-type="bibr">Rizzo, Meyer, and Ali 2007</xref>).
+This narrative breathes Orientalism: a homogenous MENA &#x0201c;other&#x0201d; characterized by
+irrationality, oppression, passiveness, and, most of all, patriarchal Islam is opposed
+to &#x0201c;the self,&#x0201d; the progressive, active, secular West (<xref rid="bibr1-0891243218783670" ref-type="bibr">Abu-Lughod 2002</xref>; <xref rid="bibr28-0891243218783670" ref-type="bibr">Korteweg 2008</xref>; <xref rid="bibr48-0891243218783670" ref-type="bibr">Said 1979</xref>), without acknowledging or theorizing
+how religiosity is a multifaceted and gendered force.</p><p>The present study aims to understand relations between religiosity and support for gender
+equality in the Arab MENA in a more sophisticated manner by developing and testing new
+theoretical notions of &#x0201c;agentic socialization.&#x0201d; These notions build on multidisciplinary
+insights from classic sociology, in-depth qualitative studies, and feminist scholarship
+(e.g., <xref rid="bibr6-0891243218783670" ref-type="bibr">Avishai and Irby 2017</xref>;
+<xref rid="bibr12-0891243218783670" ref-type="bibr">Charrad 2011</xref>; <xref rid="bibr16-0891243218783670" ref-type="bibr">Elder, Johnson, and Crosnoe
+2003</xref>; <xref rid="bibr52-0891243218783670" ref-type="bibr">Sewell 1992</xref>;
+<xref rid="bibr57-0891243218783670" ref-type="bibr">Spierings 2015</xref>). The
+agentic socialization framework rejects claims that MENA inhabitants are solely and
+uniformly passively socialized to oppose gender equality. Instead, it proposes that MENA
+citizens have agency&#x02014;even within dominant patriarchal socialization&#x02014;and that
+socialization processes are gendered (see also <xref rid="bibr38-0891243218783670" ref-type="bibr">Moghissi 2011</xref>; <xref rid="bibr44-0891243218783670" ref-type="bibr">Read and Bartkowski 2000</xref>; <xref rid="bibr61-0891243218783670" ref-type="bibr">Zion-Waldoks 2015</xref>). The framework thus stresses
+that women and men might &#x0201c;live&#x0201d; their religion differently and have the ability to
+bargain with their religion and interpret it in ways that deviate from the dominant
+patriarchal mainstream (<xref rid="bibr20-0891243218783670" ref-type="bibr">Hall
+1997</xref>; <xref rid="bibr24-0891243218783670" ref-type="bibr">Kandiyoti
+1988</xref>; <xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo
+2014</xref>).</p><p>In applying our framework, we propose that religious socialization may be gendered and
+particularly women may be more inclined to make up their own minds on gender equality
+and religion and that sociocognitive empowerment may equip people to agentically deviate
+from patriarchal religious interpretations. We thus theorize specifically how gender and
+education shape religious reinterpretations. This implies that relations between
+people&#x02019;s religiosity and their support for gender equality differ by gender and
+education, which we test empirically (<xref rid="bibr27-0891243218783670" ref-type="bibr">Khurshid 2015</xref>; <xref rid="bibr43-0891243218783670" ref-type="bibr">Prickett 2015</xref>).</p><p>To understand how religion can be both a source of emancipatory reinterpretations and
+patriarchal socialization, we argue that it is necessary to take a more refined approach
+to individual-level religiosity than to focus on differences between Muslims and
+non-Muslims, as is done in most MENA public opinion studies (e.g., <xref rid="bibr2-0891243218783670" ref-type="bibr">Alexander and Welzel 2011</xref>; <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and Fish 2016</xref>; <xref rid="bibr42-0891243218783670" ref-type="bibr">Price 2016</xref>). We therefore disaggregate the
+concept of religion and conceptualize it multidimensionally. Sociology of religion
+scholars have shown that religiosity is indeed multidimensional and complex, identifying
+among others: communal practices (e.g., attending religious services), doctrinal beliefs
+(e.g., textualism), devotion (e.g., religious self-perception), and salience (e.g.,
+religion-driven daily choices) (<xref rid="bibr14-0891243218783670" ref-type="bibr">Cornwall et al. 1986</xref>; <xref rid="bibr25-0891243218783670" ref-type="bibr">Kellstedt et al. 1996</xref>; <xref rid="bibr58-0891243218783670" ref-type="bibr">Stark and Glock 1968</xref>). Appreciating these distinctions allows us to address
+more precisely in which ways religiosity might have different implications for women and
+more highly educated citizens than for men and lower educated citizens. Altogether, our
+research question reads: To what extent are different dimensions of religiosity related
+to support for gender equality in the Arab MENA, and how do these relations differ for
+women and more highly educated individuals?</p><sec id="section1-0891243218783670"><title>Religious Socialization Reconsidered</title><sec id="section2-0891243218783670"><title>The Agentic Socialization Framework</title><p>Our agentic socialization framework aims to understand support for gender
+equality in the Arab MENA in a nuanced manner by refining and integrating
+classic sociological frames and gender theories (<xref rid="bibr1-0891243218783670" ref-type="bibr">Abu-Lughod 2002</xref>; <xref rid="bibr6-0891243218783670" ref-type="bibr">Avishai and Irby 2017</xref>; <xref rid="bibr16-0891243218783670" ref-type="bibr">Elder, Johnson, and Crosnoe
+2003</xref>; <xref rid="bibr24-0891243218783670" ref-type="bibr">Kandiyoti
+1988</xref>; <xref rid="bibr28-0891243218783670" ref-type="bibr">Korteweg
+2008</xref>; <xref rid="bibr52-0891243218783670" ref-type="bibr">Sewell
+1992</xref>; <xref rid="bibr58-0891243218783670" ref-type="bibr">Stark and
+Glock 1968</xref>). At its core, the framework emphasizes that MENA citizens
+are embedded in dominantly patriarchal religious structures, but that
+socialization processes within those structures differ between men and women.
+Moreover, citizens have the agency to reinterpret their religion; women and men
+in the MENA are not solely passively socialized to follow prevailing religious
+interpretations but can give alternative, progressive meanings to their
+religiosity that are more conducive to support for gender equality.</p><p>Our framework departs from life course theory (<xref rid="bibr16-0891243218783670" ref-type="bibr">Elder, Johnson, and Crosnoe 2003</xref>) and
+agency-structure duality&#x02019;s (<xref rid="bibr52-0891243218783670" ref-type="bibr">Sewell 1992</xref>) assertion that people are always embedded in
+spatio-temporal contexts with pre-existing (socially constructed) structures
+that shape their lives. Here we focus on the established patriarchal
+interpretations of religion in which MENA citizens are embedded from birth and
+childhood on (<xref rid="bibr3-0891243218783670" ref-type="bibr">Al-Hibri
+1982</xref>; <xref rid="bibr35-0891243218783670" ref-type="bibr">Mir-Hosseini 2006</xref>; <xref rid="bibr38-0891243218783670" ref-type="bibr">Moghissi 2011</xref>). Integration in and
+socialization by these pre-existing religious structures shape MENA citizens&#x02019;
+lives, including the meanings they attach to gender. In other words, the more
+integrated individuals are in this patriarchal religion in general, the less
+likely they are to support gender equality. Simultaneously, these theories
+propose that people have the agency to construct their own lives within their
+contexts rather than to merely reproduce patriarchal interpretations from
+generation to generation (<xref rid="bibr16-0891243218783670" ref-type="bibr">Elder, Johnson, and Crosnoe 2003</xref>, 11).</p><p>Regarding agency and gender, Kandiyoti proposed in her influential work that
+women use strategies to maneuver specific patriarchal contexts (1988, 275). In
+the following debate, some argued that women&#x02019;s agency is found in resisting
+religion, which equates agency to secularism and thus denies religious women
+their agency while still conceptualizing religion as a unidimensional force that
+singularly oppresses women (<xref rid="bibr1-0891243218783670" ref-type="bibr">Abu-Lughod 2002</xref>; <xref rid="bibr28-0891243218783670" ref-type="bibr">Korteweg 2008</xref>). Other scholars emphasized &#x0201c;illiberal agency,&#x0201d; which
+claims that religious women might exercise agency in actively being orthodox
+even when that reinforces patriarchal religious structures (<xref rid="bibr5-0891243218783670" ref-type="bibr">Avishai 2008</xref>; <xref rid="bibr33-0891243218783670" ref-type="bibr">Mahmood 2005</xref>). This
+position has been criticized for stretching &#x0201c;agency&#x0201d; so far that it becomes a
+hollow term (<xref rid="bibr38-0891243218783670" ref-type="bibr">Moghissi
+2011</xref>; <xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo
+2014</xref>).</p><p>In our framework, we transcend both views and integrate them into contemporary
+sociological theories. Our premise is that people are indeed&#x02014;to different
+degrees&#x02014;socialized by patriarchal religious structures, but that people embedded
+in these patriarchal religious structures have the agency to subvert dominant
+religious interpretations to promote their (gendered) interests (see also <xref rid="bibr28-0891243218783670" ref-type="bibr">Korteweg 2008</xref>; <xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo 2014</xref>).
+Paradoxically, dominant patriarchal religious structures thus provide the very
+conditions for agentic <italic>re-</italic>interpretations of religion (<xref rid="bibr23-0891243218783670" ref-type="bibr">Jansen 2004</xref>; <xref rid="bibr35-0891243218783670" ref-type="bibr">Mir-Hosseini 2006</xref>;
+<xref rid="bibr43-0891243218783670" ref-type="bibr">Prickett 2015</xref>).
+Religious MENA citizens&#x02014;especially women&#x02014;thus should not be considered to be
+solely passively socialized by patriarchal religious structures but capable of
+actively negotiating religious meanings attached to gender by drawing on
+alternative religious and secular sources (<xref rid="bibr44-0891243218783670" ref-type="bibr">Read and Bartkowski 2000</xref>).</p><p>This framework signifies &#x0201c;religion&#x0201d; as dynamic and negotiable, allowing room to
+advance support for gender equality but simultaneously as containing rigid
+oppressive structures that socialize citizens into patriarchal worldviews. To
+understand how religious socialization shapes people&#x02019;s support for gender
+equality in negotiable ways, we argue that religiosity needs to be
+conceptualized in a multidimensional way because different manifestations of
+individual-level religiosity have different implications regarding socialization
+and negotiability, as will be theorized more concretely below.</p><p>In line with classic and more contemporary distinctions, we firstly differentiate
+between (external) religious practices and (internal) religious beliefs (see
+<xref ref-type="fig" rid="fig1-0891243218783670">Figure 1</xref>) (<xref rid="bibr14-0891243218783670" ref-type="bibr">Cornwall et al. 1986</xref>;
+<xref rid="bibr20-0891243218783670" ref-type="bibr">Hall 1997</xref>; <xref rid="bibr25-0891243218783670" ref-type="bibr">Kellstedt et al. 1996</xref>;
+<xref rid="bibr58-0891243218783670" ref-type="bibr">Stark and Glock
+1968</xref>). We further subdivide religious practices into two categories:
+private religious behaviors that are acted out without others, and communal
+practices, such as attending religious services, that imply exposure to the
+institutional patriarchal establishment&#x02019;s home (<xref rid="bibr4-0891243218783670" ref-type="bibr">Aune 2015</xref>; <xref rid="bibr35-0891243218783670" ref-type="bibr">Mir-Hosseini 2006</xref>; <xref rid="bibr40-0891243218783670" ref-type="bibr">Nyhagen 2017</xref>).
+Concerning religious beliefs, a further distinction can be made as well.
+Doctrinal beliefs stipulate the interpretation of one&#x02019;s religion, whereas
+affective beliefs relate to feelings of attachment to religion regardless of the
+specific content of those beliefs. Affective beliefs encompass a more general
+and abstract attachment to religion in and of itself (&#x0201c;devotion&#x0201d;) and feelings
+that religion specifically guides daily life choices (&#x0201c;salience&#x0201d;). Below, we
+apply our theoretical framework to communal practices (attendance), doctrinal
+beliefs (textualism), and affective beliefs (devotion and salience), the
+dimensions we could incorporate empirically.</p><fig id="fig1-0891243218783670" orientation="portrait" position="float"><label>Figure 1:</label><caption><p>Conceptual Scheme of Religiosity</p></caption><graphic xlink:href="10.1177_0891243218783670-fig1"/></fig></sec><sec id="section3-0891243218783670"><title>Multidimensional Religious Socialization</title><p>Whereas previous quantitative MENA studies have predominantly drawn on
+unidimensional socialization perspectives (e.g., <xref rid="bibr2-0891243218783670" ref-type="bibr">Alexander and Welzel 2011</xref>; <xref rid="bibr22-0891243218783670" ref-type="bibr">Inglehart and Norris
+2003</xref>; <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and
+Fish 2016</xref>; <xref rid="bibr42-0891243218783670" ref-type="bibr">Price
+2016</xref>), our multidimensional framework emphasizes that different
+dimensions of religiosity link differently to socialization and support for
+gender equality. First, attending religious services entails exposure to the
+MENA&#x02019;s structural &#x0201c;ruling patriarchal establishment,&#x0201d; which generally preaches
+gendered worldviews of men and women being complementary and hierarchically
+related (<xref rid="bibr3-0891243218783670" ref-type="bibr">Al-Hibri
+1982</xref>, ix; <xref rid="bibr11-0891243218783670" ref-type="bibr">Bolzendahl
+and Myers 2004</xref>). Frequent attendance therefore is expected to
+increase the likelihood that such messages will be internalized, corroding
+support for gender equality (<xref rid="bibr21-0891243218783670" ref-type="bibr">Hervieu-L&#x000e9;ger 1998</xref>; <xref rid="bibr59-0891243218783670" ref-type="bibr">Sumerau 2012</xref>). Second, doctrinal
+beliefs are expected to influence support for gender equality (<xref rid="bibr3-0891243218783670" ref-type="bibr">Al-Hibri 1982</xref>; <xref rid="bibr30-0891243218783670" ref-type="bibr">Kucinskas 2010</xref>; <xref rid="bibr37-0891243218783670" ref-type="bibr">Moghadam 2013</xref>; <xref rid="bibr57-0891243218783670" ref-type="bibr">Spierings 2015</xref>). The
+doctrinal belief we specifically focus on is &#x0201c;textualism&#x0201d; (<xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo 2014</xref>): the belief that
+religious texts have one static literalist meaning&#x02014;voiced by the
+institutionalized patriarchy&#x02014;instead of a spirit to be interpreted in light of
+the time they were written (<xref rid="bibr34-0891243218783670" ref-type="bibr">Masoud, Jamal, and Nugent 2016</xref>; <xref rid="bibr38-0891243218783670" ref-type="bibr">Moghissi 2011</xref>). For example, the Quran
+and Hadith can be interpreted textually, or literally, as a point-blank
+condemnation of taking your own life,<sup><xref ref-type="fn" rid="fn1-0891243218783670">1</xref></sup> while contextualists have proposed more lenient conclusions based on the
+current rapid expansions of Muslim-majority countries&#x02019; populations (<xref rid="bibr54-0891243218783670" ref-type="bibr">Shapiro 2013</xref>).
+Textualist readings generally oppose gender equality. For instance, interpreting
+the Quran&#x02019;s proclamations on inheritance textually stipulates that women&#x02019;s
+shares should literally be half of men&#x02019;s (4:11, Khan trans.). Contextual
+interpretations stress an emancipatory spirit as women are allocated more than
+the nothing they generally had in the seventh century before Islam (<xref rid="bibr35-0891243218783670" ref-type="bibr">Mir-Hosseini 2006</xref>;
+<xref rid="bibr51-0891243218783670" ref-type="bibr">Selim 2003</xref>).
+Altogether, we thus expect that: The frequency of communal religious service
+attendance and holding textualist beliefs are negatively related to support for
+gender equality (<italic>Hypothesis 1</italic>).</p><p>Drawing attention to affective beliefs, our framework however suggests that
+religiosity might actually fuel support for gender equality. Counter to
+doctrinal beliefs, religious affect does not reflect a certain (patriarchal)
+<italic>content</italic> of beliefs, but rather it reflects on the
+attachment to religion in and of itself, to the main undercurrents of religion.
+These main religious tenets of monotheistic religions have been argued to
+involve benevolent traits related to mercy, generosity, and fairness (<xref rid="bibr50-0891243218783670" ref-type="bibr">Schwartz and Huismans
+1995</xref>). Bloom, Arikan, and Courtemanche&#x02019;s review (<xref rid="bibr10-0891243218783670" ref-type="bibr">2015</xref>, 205), for
+instance, points out that &#x0201c;the major religious traditions all emphasize
+compassion.&#x0201d; Regarding Islam, one of the five pillars, <italic>Zakat</italic>,
+specifically concerns charity, and the Quran designates Allah as
+<italic>al-Rahman</italic> (Most Merciful) and <italic>al-Rahim</italic>
+(Compassionate). Similarly, <xref rid="bibr17-0891243218783670" ref-type="bibr">El Fadl (2001</xref>, 9) has illustrated the Islamic ethos as one of
+general egalitarianism: &#x0201c;Islam rejects elitism and emphasizes that truth is
+equally accessible to all Muslims regardless of race, class, or gender.&#x0201d;
+Altogether, we hypothesize that: The stronger peoples&#x02019; affective religious
+beliefs (devotion and salience), the higher their support for gender equality
+(<italic>Hypothesis 2</italic>).</p></sec><sec id="section4-0891243218783670"><title>Gendered Socialization and Agentic Reinterpretation</title><p>As our agentic socialization framework proposes that citizens are not uniformly
+passively sculpted by dominant religious interpretations, but that socialization
+processes may differ for different societal groups, the impact of individuals&#x02019;
+religiosity may vary with their gender and education (<xref rid="bibr27-0891243218783670" ref-type="bibr">Khurshid 2015</xref>; <xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo 2014</xref>). Several mechanisms lead
+us to expect that religiosity&#x02019;s impact on support for gender equality is
+gendered, including women&#x02019;s personal interests and the gender conservative
+socialization in the MENA region overall (<xref rid="bibr11-0891243218783670" ref-type="bibr">Bolzendahl and Myers 2004</xref>). Concerning
+people&#x02019;s interests, gender equality is generally considered to be more in the
+direct interest of women than men. Currently men benefit from being designated
+head of households with greater legal rights. Therefore, women may be more
+inclined to diverge from patriarchal religious messages and seek or accept
+alternative interpretations that allow them more rights, as several in-depth
+studies have shown (<xref rid="bibr23-0891243218783670" ref-type="bibr">Jansen
+2004</xref>; <xref rid="bibr34-0891243218783670" ref-type="bibr">Masoud,
+Jamal, and Nugent 2016</xref>; <xref rid="bibr38-0891243218783670" ref-type="bibr">Moghissi 2011</xref>; <xref rid="bibr43-0891243218783670" ref-type="bibr">Prickett 2015</xref>; <xref rid="bibr44-0891243218783670" ref-type="bibr">Read and Bartkowski 2000</xref>; <xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo 2014</xref>; <xref rid="bibr51-0891243218783670" ref-type="bibr">Selim 2003</xref>; <xref rid="bibr61-0891243218783670" ref-type="bibr">Zion-Waldoks 2015</xref>).
+Women may also be socialized differently than men. While men tend to be taught
+to be aggressive, competitive, household leaders, women&#x02019;s socialization
+accentuates their supposedly emotional, affectionate, caring, gentle, and
+overall benevolent nature (<xref rid="bibr19-0891243218783670" ref-type="bibr">Gonzalez 2011</xref>; <xref rid="bibr31-0891243218783670" ref-type="bibr">Lueptow, Garovich-Szabo, and Lueptow 2001</xref>). Women&#x02019;s socialization
+into benevolence&#x02014;apart from religious benevolence&#x02014;has been shown to translate to
+greater social compassion and support for gender equality (<xref rid="bibr15-0891243218783670" ref-type="bibr">Eagly et al. 2004</xref>). Both gendered
+interests and gendered socialization thus lead us to expect that women will
+support gender equality more than men, but also that religion&#x02019;s impact will vary
+between women and men. Still, as <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and Fish (2016</xref>, 35) note,
+&#x0201c;surprisingly little has been written about the intersection between sex and
+religious identification with regard to attitudes about gender inequality.&#x0201d;</p><p>Filling this lacuna, first we propose that the gender gap in support for gender
+equality will close with stronger integration in the established religious
+patriarchy. Low integration in institutionalized religion&#x02014;that is, not
+frequenting services and not adhering to strict textualism&#x02014;is expected to
+bolster space to deviate from patriarchal religious interpretations. Given
+gendered socialization and interests, we then propose that especially women will
+use that space (<xref rid="bibr11-0891243218783670" ref-type="bibr">Bolzendahl
+and Myers 2004</xref>), whereas men have no incentive to reinterpret their
+religion on top of their more conservative socialization.</p><p>However, stronger integration in the institutional patriarchy&#x02014;with its
+authoritative truth-claims of the proper interpretation of religion&#x02014;is expected
+to leave little wiggle room for those agentic deviations. Religious service
+attendance and textualism thus are expected to shrink spaces that particularly
+women use, impeding especially women&#x02019;s propensity to benevolent
+reinterpretations. At the same time, it is also theoretically possible that, for
+instance, women who frequent services represent a selective group that is more
+gender conservative even before attendance. Still, here it should be noted again
+that intergenerational transmissions of religiosity and the structural character
+of religious institutions render this possibility less likely. Also, the most
+conservative women might not attend services because there are no facilities or
+because they believe they should pray at home. Not attending services is thus
+not one-to-one translated to being less conservative, which is also illustrated
+by the fact that a substantial number of women attend services at least once a
+week, but even more do so less often.<sup><xref ref-type="fn" rid="fn2-0891243218783670">2</xref></sup> Moreover, a wealth of ethnographic research in this area shows that even
+if attendance is partly a process of self-selection, it seems unlikely that
+women&#x02019;s gender attitudes also are unaffected by attendance (see <xref rid="bibr8-0891243218783670" ref-type="bibr">Bartkowski and Read
+2003</xref>; <xref rid="bibr43-0891243218783670" ref-type="bibr">Prickett
+2015</xref>; <xref rid="bibr44-0891243218783670" ref-type="bibr">Read and
+Bartkowski 2000</xref>). Several studies have even pointed out that women
+who attend religious services start off more progressive but amend their views
+following service attendance (see <xref rid="bibr13-0891243218783670" ref-type="bibr">Chong 2006</xref>; <xref rid="bibr18-0891243218783670" ref-type="bibr">Griffith 1997</xref>). Altogether, we expect
+that, compared to men&#x02019;s, women&#x02019;s initially greater support for gender equality
+will be more sharply reduced when they attend services and adhere to textualist
+beliefs, narrowing the gender gap in support for gender equality. Or formulated
+in more technical terms: Negative relationships between religious service
+attendance and textualism and support for gender equality are stronger for women
+than men (<italic>Hypothesis 3</italic>).</p><p>Women&#x02019;s reinterpretations are however not expected to be stonewalled by all
+dimensions of religiosity, drawing our attention to affective beliefs. Affective
+religious beliefs&#x02014;feelings of attachment to religion rather than particular
+beliefs regarding its proper content&#x02014;are expected to enlarge room for
+reinterpretations as they are disconnected from the institutional religious
+patriarchy and, as noted, may inspire interpreting religion benevolently.
+Women&#x02019;s socialization into compassion and incentives to reinterpret their
+religion are expected to drive women especially to make good use of affective
+beliefs&#x02019; space for renegotiations (<xref rid="bibr43-0891243218783670" ref-type="bibr">Prickett 2015</xref>; <xref rid="bibr44-0891243218783670" ref-type="bibr">Read and Bartkowski 2000</xref>; <xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo 2014</xref>). We thus
+expect that: Affective religious beliefs are positively related to support for
+gender equality especially among women rather than among men (<italic>Hypothesis
+4</italic>).</p><p>Agentic socialization also draws attention to being better equipped to diverge
+from patriarchal religious socialization, which might have particular
+implications for the role of education. As others have argued, more highly
+educated people&#x02019;s cognitive skills allow them to reconcile more easily seemingly
+contradictory views such as strongly religious and feminist ones (<xref rid="bibr37-0891243218783670" ref-type="bibr">Moghadam 2013</xref>). Also,
+their advantaged social position implies that the more highly educated are more
+likely to encounter divergent views on (religious interpretations of) gender
+norms, increasing their awareness of alternatives (<xref rid="bibr53-0891243218783670" ref-type="bibr">Shamaileh 2016</xref>). Because of these
+resources, more highly educated people are expected to deviate from patriarchal
+religious interpretations more often, provided space for such renegotiations
+exists. Thus, among those who are less integrated in the institutional religious
+patriarchy, the more highly educated are expected to support gender equality
+more. However, this educational gap in support for gender equality will close
+with greater service attendance and textualism. In technical terms: Negative
+relations between religious service attendance and textualism and support for
+gender equality are stronger among the more highly educated than the lower
+educated (<italic>Hypothesis 5</italic>).</p><p>Still, as seen, affective religious beliefs do not imply integration in the
+institutional religious patriarchy and are expected to inspire benevolent
+reinterpretations. Following their greater cognitive skills and awareness of
+alternatives, especially more highly educated people are expected to use this
+space and renegotiate religious meanings of gender (<xref rid="bibr37-0891243218783670" ref-type="bibr">Moghadam 2013</xref>). Particularly the more
+highly educated may thus translate affective beliefs into support for gender
+equality: Affective religious beliefs are positively related to support for
+gender equality especially among the more highly educated rather than the lower
+educated (<italic>Hypothesis 6</italic>).</p><p>Finally, regarding the different dimensions of religiosity, our agentic
+socialization framework also proposes that citizens can reinterpret their
+religion in its own terms. Greater religious affect might make people rethink,
+contest, or buffer some dominant oppressive religious interpretations, as
+affective beliefs are expected to create knowledge of and adherence to
+religion&#x02019;s main benevolent messages (<xref rid="bibr10-0891243218783670" ref-type="bibr">Bloom, Arikan, and Courtemanche 2015</xref>;
+<xref rid="bibr50-0891243218783670" ref-type="bibr">Schwartz and Huismans
+1995</xref>). For instance, attachment to the general notion of &#x0201c;love thy
+neighbor&#x0201d; could be expected to make more devoted people less passively receptive
+to patriarchal views voiced in services. Similarly, considering the benevolent
+side of religion, it is expected that when religion is more saliently guiding
+people&#x02019;s daily life choices, textualism is translated less strongly to judging
+others, including prescribing how women should behave. We thus expect that:
+Relations between attending religious services and textualism and support for
+gender equality are weaker with higher levels of religious affect, that is,
+devotion and salience (<italic>Hypothesis 7</italic>).</p></sec></sec><sec sec-type="methods" id="section5-0891243218783670"><title>Methods</title><p>This study uses the MENA subset of the World Values Survey. Of these, 15 surveys
+(2001-2014) included the items needed. They represent 12 countries: Algeria (2x),
+Bahrain, Egypt, Iraq, Jordan (2x), Lebanon, Libya, Morocco (2x), Palestine, Saudi
+Arabia, Tunisia, and Yemen. All surveys target representativeness for the population
+of 18 years and older, using stratified random sampling. These data are
+representative regarding gender and age for most populations, and sometimes for
+education and regional distributions as well.<sup><xref ref-type="fn" rid="fn3-0891243218783670">3</xref></sup> The initial dataset contained 20,254 respondents; after listwise deletion
+19,009 respondents (94 percent) remained. <xref rid="table1-0891243218783670" ref-type="table">Table 1</xref> presents the descriptive
+statistics.</p><table-wrap id="table1-0891243218783670" orientation="portrait" position="float"><label>Table 1:</label><caption><p>Descriptive Statistics of All (Prestandardized) Variables</p></caption><alternatives><graphic xlink:href="10.1177_0891243218783670-table1"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">N</th><th align="center" rowspan="1" colspan="1">Min.</th><th align="center" rowspan="1" colspan="1">Max.</th><th align="center" rowspan="1" colspan="1">Mean</th><th align="center" rowspan="1" colspan="1">SD</th></tr></thead><tbody><tr><td colspan="6" rowspan="1">Dependent variable</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Support for gender equality</td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">35.37</td><td rowspan="1" colspan="1">24.10</td></tr><tr><td colspan="6" rowspan="1">Religion variables</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Religious service attendance<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.59</td><td rowspan="1" colspan="1">0.39</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Textualism<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.92</td><td rowspan="1" colspan="1">0.16</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Devotion<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.78</td><td rowspan="1" colspan="1">0.32</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Salience<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.95</td><td rowspan="1" colspan="1">0.12</td></tr><tr><td colspan="6" rowspan="1">Agency variables</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Gender</td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Men</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.51</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Women</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.49</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;Education<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.45</td><td rowspan="1" colspan="1">0.34</td></tr><tr><td colspan="6" rowspan="1">Control variables</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Denomination</td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Muslim</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Non-Muslim</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.04</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;Age<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">18</td><td rowspan="1" colspan="1">93</td><td rowspan="1" colspan="1">37.03</td><td rowspan="1" colspan="1">14.00</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Age<sup>2,<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></sup></td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1">324</td><td rowspan="1" colspan="1">8,649</td><td rowspan="1" colspan="1">1566.92</td><td rowspan="1" colspan="1">1199.35</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Marital status</td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Not married</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.33</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Separated</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.03</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Widowed</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.04</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Married</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.60</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;Employment status</td><td rowspan="1" colspan="1">19,009</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Full-time employed</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.28</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Part-time employed</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Self-employed</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Retired</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.05</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Homemaker</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Student</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.10</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Non-employed</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.10</td><td rowspan="1" colspan="1"/></tr><tr><td colspan="6" rowspan="1">Robustness check variables</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Prayer</td><td rowspan="1" colspan="1">11,456</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Prayer WVS 4<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">1,132</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.71</td><td rowspan="1" colspan="1">0.43</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Prayer WVS 5<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">1,067</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.87</td><td rowspan="1" colspan="1">0.34</td></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Prayer WVS 6<xref ref-type="table-fn" rid="table-fn3-0891243218783670">*</xref></td><td rowspan="1" colspan="1">9,257</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.75</td><td rowspan="1" colspan="1">0.40</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Particularism</td><td rowspan="1" colspan="1">14,959</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Not particularistic</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.61</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;&#x02003;Particularistic</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">0.39</td><td rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-0891243218783670"><p>NOTE: Min. = minimum; Max. = maximum; SD = standard deviation.</p></fn><fn id="table-fn2-0891243218783670"><p>SOURCE: WVS.</p></fn><fn id="table-fn3-0891243218783670"><label>*</label><p>Variable is z-scored for analyses.</p></fn></table-wrap-foot></table-wrap><sec id="section6-0891243218783670"><title>Support for Gender Equality</title><p>We operationalize support for gender equality using three widely used items on
+gender equality in the public sphere in particular. The three items asked
+respondents to which extent they agreed with the statements: &#x0201c;On the whole, men
+make better political leaders than women do&#x0201d; (four-point scale), &#x0201c;A university
+education is more important for a boy than for a girl&#x0201d; (four-point scale), and
+&#x0201c;When jobs are scarce, men should have more right to a job than women&#x0201d;
+(three-point scale) (e.g., <xref rid="bibr9-0891243218783670" ref-type="bibr">Blaydes and Linzer 2008</xref>; <xref rid="bibr29-0891243218783670" ref-type="bibr">Kostenko, Kuzmuchev, and Ponarin 2016</xref>;
+<xref rid="bibr42-0891243218783670" ref-type="bibr">Price 2016</xref>; <xref rid="bibr56-0891243218783670" ref-type="bibr">Spierings 2014</xref>). Factor
+analyses showed that these items tap into the same underlying factor overall and
+in 16 of 17 surveys separately,<sup><xref ref-type="fn" rid="fn4-0891243218783670">4</xref></sup> indicating measurement equivalency (<xref rid="bibr60-0891243218783670" ref-type="bibr">Van de Vijver and Leung 1997</xref>). All
+items were recoded so that higher scores indicate greater support for gender
+equality. To approximate a normal distribution, we took the square root of the
+mean scores of the three items, weighted by their factor loadings to create the
+index <italic>support for gender equality.</italic> For ease of interpretation,
+the final scale was rescaled to run from 0 to 100. The descriptive analyses
+present a simple summed scale, as is mentioned.</p></sec><sec id="section7-0891243218783670"><title>Religiosity</title><p>We measure the <italic>frequency of religious service attendance</italic> with
+the question &#x0201c;Apart from weddings and funerals, about how often do you attend
+religious services these days?&#x0201d; (never, less than once a year, once a year, only
+on holy days, once a month, once a week, more than once a week). The scores were
+rescaled to a continuous variable ranging from 0 to 1.</p><p>Textualism&#x02014;interpreting religious texts statically and literally instead of
+contextually&#x02014;is measured by the proxy of respondents&#x02019; views regarding the
+justifiability of euthanasia and suicide. As noted in the theory section, taking
+your own life (by euthanasia or suicide) is textually prohibited but
+contextually permitted, making these measurements useful proxies for textualism
+(<xref rid="bibr54-0891243218783670" ref-type="bibr">Shapiro 2013</xref>).
+These measurements, however, only pertain to one particular issue (i.e., taking
+one&#x02019;s own life). Had the data permitted it, it would have been ideal to include
+other issues or a more direct measurement, although we have no strong reason to
+expect that being a textualist on other issues relates differently to support
+for gender equality. Moreover, as discussed below, in our robustness tests we
+included particularism as an alternative measurement of doctrinal beliefs, which
+was measured unrelated to specific issues, and it is similarly related to
+support for gender equality. To operationalize <italic>textualism</italic>, we
+averaged the two 10-point items and rescaled it to a continuous variable ranging
+from 0 to 1. Higher values signal greater textualism. As the distributions of
+the two scales were similar, respondents were included if they had a valid score
+on at least one indicator.</p><p>Concerning affective beliefs, we distinguished devotion and salience (see <xref rid="bibr58-0891243218783670" ref-type="bibr">Stark and Glock 1968</xref>).
+<italic>Devotion</italic>&#x02014;an abstract attachment to religion itself&#x02014;is
+measured using two items that have been shown to tap the same concept before
+(<xref rid="bibr56-0891243218783670" ref-type="bibr">Spierings 2014</xref>):
+(a) &#x0201c;Independently of whether you attend religious services or not, would you
+say you are&#x0201d; a religious person (scored as 1), not a religious person, or a
+convinced atheist (following <xref rid="bibr46-0891243218783670" ref-type="bibr">Rizzo, Abdel-Latif, and Meyer [2007]</xref>, the last two are both scored
+0); and (b) &#x0201c;Here is a list of qualities that children can be encouraged to
+learn at home. Which, if any, do you consider to be especially important?&#x0201d;
+Respondents who chose &#x0201c;religious faith&#x0201d; were considered to be more devoted (1)
+than others (0). The scores of respondents with at least one valid answer were
+averaged to the scale &#x0201c;devotion.&#x0201d;</p><p><italic>Salience</italic>&#x02014;a specific attachment to religion as a guide in (daily)
+life&#x02014;was measured by another two items: &#x0201c;How important is God in your life?&#x0201d;
+(ten-point scale, 0 to 1), and &#x0201c;For each of the following, indicate how
+important it is in your life. Would you say religion is very important (1),
+rather important, not very important, or not at all important (0)?&#x0201d; If at least
+one item was answered validly, scores were averaged to the continuous scale
+&#x0201c;salience.&#x0201d;</p><p>Our measurements of devotion and salience are less distinct from each other than
+the theoretical concepts, as there are no data available on the salience of
+religion in <italic>specific daily</italic> life choices. However, empirically
+devotion and salience are not very strongly related and do not cause
+multicollinearity issues (see <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/0891243218783670">online Appendix 1</ext-link>). We thus include both in our analyses to make
+our results as nuanced and informative as possible.</p></sec><sec id="section8-0891243218783670"><title>Gender and Education</title><p>To study the gendered effects of religiosity, we measure respondents&#x02019;
+<italic>gender</italic> as observed by the interviewer (0: woman; 1: man).
+<italic>Education</italic>, the second moderator, includes four categories
+across surveys: &#x0201c;no formal education completed&#x0201d; (0); &#x0201c;complete elementary&#x0201d; and
+&#x0201c;incomplete secondary&#x0201d; (combined into &#x0201c;elementary,&#x0201d; 0.33); &#x0201c;complete secondary&#x0201d;
+and &#x0201c;incomplete university education&#x0201d; (combined into &#x0201c;secondary,&#x0201d; 0.67); and
+&#x0201c;complete university education and higher&#x0201d; (1).</p></sec><sec id="section9-0891243218783670"><title>Control Variables</title><p>Denomination, age, marital status, and employment status are included as control
+variables. Respondents&#x02019; self-reported denomination, distinguishing between
+Muslims and non-Muslims, is controlled in our models, and we also established
+our results are substantially similar when we estimate models for Muslims
+separately. The Bahrain 2014 survey does not include denomination, but virtually
+all native Bahrainis are Muslim and considered as such here. Unfortunately, a
+more refined distinction among either Muslims or non-Muslims was not available
+in the majority of the surveys; comparing Muslims and non-Muslims does make our
+results comparable to other studies (e.g., <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and Fish 2016</xref>; <xref rid="bibr39-0891243218783670" ref-type="bibr">Norris 2009</xref>).
+<italic>Age</italic> is a continuous scale; respondents under 18 were
+excluded as they were not sampled in all surveys. Age squared is included to
+capture important life course effects. Marital status is distinguished by four
+groups: married, widowed, separated, and never married. Employment status
+encompasses &#x0201c;fulltime employed,&#x0201d; &#x0201c;part-time employed,&#x0201d; &#x0201c;self-employed,&#x0201d;
+&#x0201c;retired,&#x0201d; &#x0201c;homemaker,&#x0201d; &#x0201c;student,&#x0201d; and &#x0201c;non-employed&#x0201d; (including &#x0201c;unemployed&#x0201d;
+and &#x0201c;other non-employed&#x0201d;).</p></sec><sec id="section10-0891243218783670"><title>Analytic Strategy</title><p>Our data have to be modeled using multilevel models to control for clustered
+observations within country-years and countries; one-level models would deflate
+our p-values and increase the chance of type I errors. Random intercepts are
+included at the higher levels (country-time; country).<sup><xref ref-type="fn" rid="fn5-0891243218783670">5</xref></sup> This takes into account the clustered structure of the data and prevents
+us from drawing false positive conclusions. To further increase the rigor of our
+tests we also conducted various robustness checks, which we briefly discuss
+after our main results as they yielded similar findings.</p></sec></sec><sec id="section11-0891243218783670"><title>Support for Gender Equality in the New Millennium</title><p>How supportive of gender equality (focused on equal participation in the public
+sphere) are MENA publics in the new millennium? <xref ref-type="fig" rid="fig2-0891243218783670">Figure 2</xref> presents the mean scores on the
+three items used to measure support for gender equality (without taking their square
+root) and shows that respondents score an average of 36 out of 100 in the WVS data.
+As a point of reference, when we analyze all countries included in the most recent
+WVS wave, the MENA region has the lowest pooled average in the WVS. It is several
+points below that of the next United Nations&#x02013;defined regions&#x02014;Southern Asia and West
+Africa&#x02014;and substantially below the total sample average. Still, we also see
+considerable differences within the MENA region; for instance, women&#x02019;s average
+support is 43, while men&#x02019;s is less than 30.</p><fig id="fig2-0891243218783670" orientation="portrait" position="float"><label>Figure 2:</label><caption><p>Mean Support for Public Gender Equality per Gender per Survey (N =
+19,009)</p></caption><graphic xlink:href="10.1177_0891243218783670-fig2"/></fig></sec><sec id="section12-0891243218783670"><title>Explaining Support for Gender Equality</title><p><xref rid="table2-0891243218783670" ref-type="table">Table 2</xref> presents the
+multilevel regression results for support for gender equality. Model 1 includes all
+direct effects of religiosity (Hypotheses 1 and 2); in Models 2 and 3, the
+moderations between religiosity and gender and education are added, respectively
+(Hypotheses 3 through 6); Model 4 includes interaction terms between the different
+dimensions of religiosity themselves (Hypothesis 7). All models include the control
+variables, which relate to support for gender equality as expected (see <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and Fish 2016</xref>;
+<xref rid="bibr42-0891243218783670" ref-type="bibr">Price 2016</xref>); for
+instance, education has a clear positive impact, and women tend to be considerably
+more supportive of gender equality: more than 15 points on a scale ranging from 0 to
+100.</p><table-wrap id="table2-0891243218783670" orientation="portrait" position="float"><label>Table 2:</label><caption><p>Multilevel analyses of support for public gender equality (N = 19,009)</p></caption><alternatives><graphic xlink:href="10.1177_0891243218783670-table2"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" colspan="2" rowspan="1">Model 1</th><th align="center" colspan="2" rowspan="1">Model 2</th><th align="center" colspan="2" rowspan="1">Model 3</th><th align="center" colspan="2" rowspan="1">Model 4</th></tr><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">b</th><th align="center" rowspan="1" colspan="1">SE</th><th align="center" rowspan="1" colspan="1">b</th><th align="center" rowspan="1" colspan="1">SE</th><th align="center" rowspan="1" colspan="1">b</th><th align="center" rowspan="1" colspan="1">SE</th><th align="center" rowspan="1" colspan="1">b</th><th align="center" rowspan="1" colspan="1">SE</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Religious service attendance</td><td rowspan="1" colspan="1">
+<bold>&#x02212;1.12</bold>
+</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.56</bold>
+</td><td rowspan="1" colspan="1">0.26</td><td rowspan="1" colspan="1">
+<bold>&#x02212;1.13</bold>
+</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">
+<bold>&#x02212;1.16</bold>
+</td><td rowspan="1" colspan="1">0.18</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Women</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&#x02212;0.86</bold>
+</td><td rowspan="1" colspan="1">0.36</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Education</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&#x02212;0.61</bold>
+</td><td rowspan="1" colspan="1">0.16</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Devotion</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.15</td><td rowspan="1" colspan="1">0.17</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Salience</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>0.42</bold>
+</td><td rowspan="1" colspan="1">0.19</td></tr><tr><td rowspan="1" colspan="1">Textualism</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.88</bold>
+</td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.97</bold>
+</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.92</bold>
+</td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.81</bold>
+</td><td rowspan="1" colspan="1">0.18</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Women</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">0.33</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Education</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.14<sup><xref ref-type="table-fn" rid="table-fn4-0891243218783670">&#x02642;</xref></sup></td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Devotion</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.17<sup><xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref></sup></td><td rowspan="1" colspan="1">0.15</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Salience</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.07</td><td rowspan="1" colspan="1">0.11</td></tr><tr><td rowspan="1" colspan="1">Devotion</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.62</bold>
+</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">&#x02212;0.14</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.59</bold>
+</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1">
+<bold>&#x02212;0.56</bold>
+</td><td rowspan="1" colspan="1">0.18</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Women</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>&#x02212;1.12</bold>
+</td><td rowspan="1" colspan="1">0.34</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Education</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">&#x02212;0.13</td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Salience</td><td rowspan="1" colspan="1">&#x02212;0.30</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">
+<bold>&#x02212;1.53</bold>
+</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">
+<italic>&#x02212;0.32</italic>
+</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">&#x02212;0.19</td><td rowspan="1" colspan="1">0.21</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Women</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>2.70</bold>
+</td><td rowspan="1" colspan="1">0.35</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;<xref ref-type="table-fn" rid="table-fn4-0891243218783670">*</xref>Education</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.16<sup><xref ref-type="table-fn" rid="table-fn4-0891243218783670">&#x02640;</xref></sup></td><td rowspan="1" colspan="1">0.18</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Gender: Women (ref. = men)</td><td rowspan="1" colspan="1">
+<bold>15.46</bold>
+</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">
+<bold>15.65</bold>
+</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">
+<bold>15.35</bold>
+</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">
+<bold>15.50</bold>
+</td><td rowspan="1" colspan="1">0.42</td></tr><tr><td rowspan="1" colspan="1">Education</td><td rowspan="1" colspan="1">
+<bold>3.24</bold>
+</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">
+<bold>3.22</bold>
+</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">
+<bold>3.25</bold>
+</td><td rowspan="1" colspan="1">0.19</td><td rowspan="1" colspan="1">
+<bold>3.23</bold>
+</td><td rowspan="1" colspan="1">0.19</td></tr><tr><td rowspan="1" colspan="1">Denomination: Muslim (ref. = non-Muslim)</td><td rowspan="1" colspan="1">
+<bold>&#x02212;4.83</bold>
+</td><td rowspan="1" colspan="1">0.89</td><td rowspan="1" colspan="1">
+<bold>&#x02212;4.90</bold>
+</td><td rowspan="1" colspan="1">0.89</td><td rowspan="1" colspan="1">
+<bold>&#x02212;4.95</bold>
+</td><td rowspan="1" colspan="1">0.89</td><td rowspan="1" colspan="1">
+<bold>&#x02212;4.87</bold>
+</td><td rowspan="1" colspan="1">0.89</td></tr><tr><td rowspan="1" colspan="1">Age</td><td rowspan="1" colspan="1">&#x02212;0.53</td><td rowspan="1" colspan="1">1.05</td><td rowspan="1" colspan="1">&#x02212;0.54</td><td rowspan="1" colspan="1">1.04</td><td rowspan="1" colspan="1">&#x02212;0.40</td><td rowspan="1" colspan="1">1.05</td><td rowspan="1" colspan="1">&#x02212;0.53</td><td rowspan="1" colspan="1">1.05</td></tr><tr><td rowspan="1" colspan="1">Age<sup>2</sup></td><td rowspan="1" colspan="1">0.78</td><td rowspan="1" colspan="1">1.01</td><td rowspan="1" colspan="1">0.82</td><td rowspan="1" colspan="1">1.01</td><td rowspan="1" colspan="1">0.64</td><td rowspan="1" colspan="1">1.01</td><td rowspan="1" colspan="1">0.77</td><td rowspan="1" colspan="1">1.01</td></tr><tr><td colspan="9" rowspan="1">Marital status</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Not married</td><td rowspan="1" colspan="1">0.61</td><td rowspan="1" colspan="1">0.48</td><td rowspan="1" colspan="1">0.71</td><td rowspan="1" colspan="1">0.48</td><td rowspan="1" colspan="1">0.66</td><td rowspan="1" colspan="1">0.48</td><td rowspan="1" colspan="1">0.61</td><td rowspan="1" colspan="1">0.48</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Separated</td><td rowspan="1" colspan="1">
+<bold>2.73</bold>
+</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">
+<bold>2.70</bold>
+</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">
+<bold>2.76</bold>
+</td><td rowspan="1" colspan="1">0.96</td><td rowspan="1" colspan="1">
+<bold>2.69</bold>
+</td><td rowspan="1" colspan="1">0.96</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Widowed</td><td rowspan="1" colspan="1">&#x02212;1.45</td><td rowspan="1" colspan="1">0.86</td><td rowspan="1" colspan="1">&#x02212;1.50</td><td rowspan="1" colspan="1">0.86</td><td rowspan="1" colspan="1">&#x02212;1.38</td><td rowspan="1" colspan="1">0.86</td><td rowspan="1" colspan="1">&#x02212;1.45</td><td rowspan="1" colspan="1">0.86</td></tr><tr><td colspan="9" rowspan="1">Employment status</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Part-time employed</td><td rowspan="1" colspan="1">&#x02212;1.08</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">&#x02212;1.02</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">&#x02212;1.09</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">&#x02212;1.10</td><td rowspan="1" colspan="1">0.62</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Self-employed</td><td rowspan="1" colspan="1">
+<bold>&#x02212;2.24</bold>
+</td><td rowspan="1" colspan="1">0.55</td><td rowspan="1" colspan="1">
+<bold>&#x02212;2.29</bold>
+</td><td rowspan="1" colspan="1">0.55</td><td rowspan="1" colspan="1">
+<bold>&#x02212;2.29</bold>
+</td><td rowspan="1" colspan="1">0.55</td><td rowspan="1" colspan="1">
+<bold>&#x02212;2.27</bold>
+</td><td rowspan="1" colspan="1">0.55</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Retired</td><td rowspan="1" colspan="1">&#x02212;1.11</td><td rowspan="1" colspan="1">0.85</td><td rowspan="1" colspan="1">&#x02212;1.24</td><td rowspan="1" colspan="1">0.85</td><td rowspan="1" colspan="1">&#x02212;1.21</td><td rowspan="1" colspan="1">0.85</td><td rowspan="1" colspan="1">&#x02212;1.13</td><td rowspan="1" colspan="1">0.85</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Homemaker</td><td rowspan="1" colspan="1">
+<bold>&#x02212;5.08</bold>
+</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">
+<bold>&#x02212;5.31</bold>
+</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">
+<bold>&#x02212;4.92</bold>
+</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">
+<bold>&#x02212;5.07</bold>
+</td><td rowspan="1" colspan="1">0.57</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Student</td><td rowspan="1" colspan="1">0.28</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">0.25</td><td rowspan="1" colspan="1">0.69</td><td rowspan="1" colspan="1">0.24</td><td rowspan="1" colspan="1">0.69</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Non-employed</td><td rowspan="1" colspan="1">&#x02212;1.09</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">
+<bold>&#x02212;1.23</bold>
+</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">
+<bold>&#x02212;1.14</bold>
+</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">&#x02212;1.10</td><td rowspan="1" colspan="1">0.62</td></tr><tr><td rowspan="1" colspan="1">Intercept</td><td rowspan="1" colspan="1">
+<bold>34.73</bold>
+</td><td rowspan="1" colspan="1">1.85</td><td rowspan="1" colspan="1">
+<bold>34.58</bold>
+</td><td rowspan="1" colspan="1">1.85</td><td rowspan="1" colspan="1">
+<bold>34.86</bold>
+</td><td rowspan="1" colspan="1">1.83</td><td rowspan="1" colspan="1">
+<bold>34.71</bold>
+</td><td rowspan="1" colspan="1">1.85</td></tr><tr><td colspan="9" rowspan="1">
+<italic>Variance</italic>
+</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Country-year</td><td colspan="2" rowspan="1">38.1</td><td colspan="2" rowspan="1">38.1</td><td colspan="2" rowspan="1">37.4</td><td colspan="2" rowspan="1">38.3</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Individual</td><td colspan="2" rowspan="1">473.0</td><td colspan="2" rowspan="1">471.1</td><td colspan="2" rowspan="1">472.6</td><td colspan="2" rowspan="1">472.8</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn4-0891243218783670"><p>NOTE: Bold coefficients indicate significance at &#x003b1; = 0.05, italics at &#x003b1; =
+0.10. *, <sup>&#x02640;</sup>, and <sup>&#x02642;</sup> indicate parameter is only
+significant in the Muslim subsample, female subsample, or male
+subsample, respectively.</p></fn><fn id="table-fn5-0891243218783670"><p>SOURCE: WVS.</p></fn></table-wrap-foot></table-wrap><sec id="section13-0891243218783670"><title>Multidimensional Religiosity</title><p>Model 1 suggests that religiosity mostly fuels opposition to gender equality.
+MENA inhabitants who attend religious services more frequently, who interpret
+their religion textually, and who are more devoted, all oppose gender equality
+more. However, the salience of religious beliefs is the exception to the rule,
+as it shows no clear significant relationship to support for gender equality.
+Additional analyses indicate this is partly due to contradictory effects in
+different contexts (see <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/0891243218783670">online Appendix 2</ext-link>). Altogether, these results support hypothesis
+1 and lead us to reject hypothesis 2.</p></sec><sec id="section14-0891243218783670"><title>Gender and Education</title><p>Turning our attention to Model 2, we should first repeat that, as expected
+following gendered socialization and gendered interests, women&#x02019;s support for
+gender equality overall is far greater than men&#x02019;s, as is the case after taking
+religiosity and other factors into account (cf. <xref ref-type="fig" rid="fig2-0891243218783670">Figure 2</xref>). Thus, women can and do
+interpret gender equality differently from men, &#x0201c;even&#x0201d; in patriarchal MENA
+countries (<xref rid="bibr11-0891243218783670" ref-type="bibr">Bolzendahl and
+Myers 2004</xref>).</p><p>Model 2 furthermore shows that several dimensions of religiosity also are
+differently related to support for gender equality for women and men. First,
+service attendance is associated with a sharper decline in support for gender
+equality among women than among men. As expected, when women do not attend
+religious services, they are more supportive of gender equality than men (about
+50 vs. 35), but service attendance reduces women&#x02019;s support with (&#x02212;0.56 &#x02212; 0.86)
+&#x02212;1.42, while it only reduces men&#x02019;s with &#x02212;0.56. These findings provide support
+for hypothesis 3, but only partially, as a similar effect is not found for
+textualism. Face-to-face exposure to members of the religious patriarchy voicing
+authoritative messages thus probably shrinks spaces for emancipatory
+reinterpretations that especially women are initially inclined to use, reducing
+the gender gap in support.</p><p>Second and interestingly, religious salience turns out to be negatively related
+to support for gender equality among men (&#x02212;1.53), but actually
+<italic>increases</italic> support for gender equality among women (&#x02212;1.53 +
+2.70 = 1.17), as is illustrated in <xref ref-type="fig" rid="fig3-0891243218783670">Figure 3</xref>. So, women who are more
+affectively attached to their religion support gender equality more, while among
+men the stronger believers support gender equality less. We did not find this
+for devotion; thus, only partial support is found for hypothesis 4. These
+findings illustrate that among women, salience&#x02014;that is, the importance of
+religion in daily life&#x02014;is the religiosity dimension that also functions as a
+help, not a hurdle, to support for gender equality.</p><fig id="fig3-0891243218783670" orientation="portrait" position="float"><label>Figure 3:</label><caption><p>Gendered Relations between Salience and Support for Gender Equality (N =
+19,009)</p></caption><graphic xlink:href="10.1177_0891243218783670-fig3"/></fig><p>Relations between several religiosity indicators and support for gender equality
+also are moderated by educational attainment. Model 3 first indicates that the
+negative impact of religious service attendance strengthens when education
+increases. As expected, more highly educated individuals&#x02019; initially more
+progressive views are reduced more sharply when they frequently partake in
+religious services (see <xref ref-type="fig" rid="fig4-0891243218783670">Figure
+4</xref>). The same is not found for textualism, however; hypothesis 5 is
+thus only partially supported. Model 3 furthermore shows that, among women, the
+negative impact of salience, but not devotion, is weakened by education; these
+findings support hypothesis 6, but only in one specific case. Overall, Models 2
+and 3 suggest that while womanhood and education form a buffer against the
+impact of one&#x02019;s own beliefs, socialization via religious services reduces the
+room for agentic reinterpretations deviating from societally dominant norms,
+diminishing women&#x02019;s and more highly educated citizens&#x02019; initially greater support
+for gender equality.</p><fig id="fig4-0891243218783670" orientation="portrait" position="float"><label>Figure 4:</label><caption><p>Religious Service Attendance and Support for Gender Equality per
+Education Level (N = 19,009)</p></caption><graphic xlink:href="10.1177_0891243218783670-fig4"/></fig></sec><sec id="section15-0891243218783670"><title>Interdependent Religiosity</title><p>Finally, Model 4 shows that salience and devotion weaken the impact of service
+attendance and textualism, respectively.<sup><xref ref-type="fn" rid="fn6-0891243218783670">6</xref></sup> For instance, across the MENA, people who attend services (one standard
+deviation) more often show increased opposition to gender equality, with 1.2
+points, as compared to citizens for whom religion is averagely salient. All
+other things being equal, among individuals for whom religion and God are more
+important in their lives (salience) the impact of attending religious services
+is only (1.16 &#x02212; 0.42) 0.7. Not all expected interaction effects were found to be
+statistically significant, but they were all in the expected direction. These
+findings thus provide some support for hypothesis 7; the patriarchal influence
+of doctrinal religious beliefs and communal practices seems to be mitigated by
+having stronger affective religious beliefs (i.e., salience or devotion). What
+is more, all results together pinpoint religious salience as the only dilutor of
+service attendance&#x02019;s impact, emphasizing that the influence of exposure to the
+institutional religious patriarchy may not be buffered by womanhood or
+education, but it is by (affective) religion itself.</p></sec><sec id="section16-0891243218783670"><title>Robustness Tests</title><p>We conducted additional analyses as robustness checks. As mentioned above, we
+estimated our models on subsamples (only Muslims, women, and men) and within
+individual country-years; divergent results are indicated in <xref rid="table2-0891243218783670" ref-type="table">Table 2</xref> and <ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/0891243218783670">Appendix 2</ext-link>. We also varied the inclusion and operationalization
+of the religiosity variables by including respondents with missing scores on
+denomination and service attendance (classifying them as a separate group);
+additionally distinguishing between the nonreligious and religious non-Muslims;
+and including prayer and particularism, although then many cases have to be
+excluded from the analyses.<sup><xref ref-type="fn" rid="fn7-0891243218783670">7</xref></sup></p><p>Our main results are robust for each of these alternatives. For instance, our
+additional measurements of religiosity relate to support for gender equality as
+expected, which provides further support for hypothesis 1 in particular (see
+<ext-link ext-link-type="uri" xlink:href="http://journals.sagepub.com/doi/suppl/10.1177/0891243218783670">online Appendix 3</ext-link>). As individual prayer is not significantly
+related to support for gender equality, it seems that it is the actual exposure
+to others in services that serves a patriarchal socialization function, and not
+practicing religion in and of itself. Moreover, particularism shows a clear
+negative relation with support for gender equality, which further supports our
+conclusion that adherence to orthodox doctrinal beliefs diminishes support for
+gender equality&#x02014;also when the measure is not focused on one particular issue (as
+textualism was).</p></sec></sec><sec sec-type="conclusions" id="section17-0891243218783670"><title>Conclusion</title><p>This study addressed relations between different dimensions of religiosity and
+support for gender equality, and how they differed for women and more highly
+educated individuals in the Arab MENA. We did so based on a newly developed agentic
+and gendered socialization framework, which we tested on data from 15 WVS surveys
+from between 2001 and 2014. At its core, the agentic and gendered socialization
+framework proposes that while MENA citizens are embedded in dominantly patriarchal
+religious structures, they are not solely or uniformly passively socialized by
+religiosity, as previous large-scale studies implied (cf. <xref rid="bibr22-0891243218783670" ref-type="bibr">Inglehart and Norris 2003</xref>; <xref rid="bibr42-0891243218783670" ref-type="bibr">Price 2016</xref>). Instead, the
+framework proposes that religious socialization is gendered and that people can
+reinterpret their religion and thus actively deviate from patriarchal
+interpretations (<xref rid="bibr16-0891243218783670" ref-type="bibr">Elder, Johnson,
+and Crosnoe 2003</xref>; <xref rid="bibr24-0891243218783670" ref-type="bibr">Kandiyoti 1988</xref>; <xref rid="bibr28-0891243218783670" ref-type="bibr">Korteweg 2008</xref>; <xref rid="bibr45-0891243218783670" ref-type="bibr">Rinaldo 2014</xref>; <xref rid="bibr52-0891243218783670" ref-type="bibr">Sewell
+1992</xref>).</p><p>This framework implies that a disaggregated, multidimensional conceptualization of
+religiosity is needed, instead of focusing on differences between Muslims and
+non-Muslims, as previous studies have done (e.g., <xref rid="bibr22-0891243218783670" ref-type="bibr">Inglehart and Norris 2003</xref>; <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and Fish 2016</xref>;
+<xref rid="bibr39-0891243218783670" ref-type="bibr">Norris 2009</xref>). This is
+because rigid patriarchal religious structures obstruct support for gender equality
+while other dimensions of religiosity stimulate emancipatory advancements (see <xref rid="bibr14-0891243218783670" ref-type="bibr">Cornwall et al. 1986</xref>; <xref rid="bibr20-0891243218783670" ref-type="bibr">Hall 1997</xref>; <xref rid="bibr40-0891243218783670" ref-type="bibr">Nyhagen 2017</xref>; <xref rid="bibr58-0891243218783670" ref-type="bibr">Stark and Glock 1968</xref>).
+Indeed, our results consistently showed that while religious service attendance,
+textualism, and devotion decreased support for gender equality, the salience of
+religious beliefs in life choices had no singularly negative impact. Among women we
+even found that religious salience <italic>increases</italic> support for gender
+equality (cf. <xref rid="bibr49-0891243218783670" ref-type="bibr">Scheepers,
+Gijsberts, and Hello 2002</xref>). Moreover, even though religious salience does
+not consistently fuel support for gender equality (as was expected), it was the only
+moderator in our analyses that buffered the negative impact of exposure to the
+institutional patriarchy in religious services. All in all, these findings showed
+that most but not all dimensions of religiosity serve patriarchal socialization, and
+that using religion as a guideline in daily life is thus the main (or only)
+safeguard to the patriarchal influence of exposure to religious institutions.
+Translating findings from in-depth qualitative studies, religious salience thus
+seems to be the key to reinterpreting religion along more emancipatory lines (e.g.,
+<xref rid="bibr4-0891243218783670" ref-type="bibr">Aune 2015</xref>; <xref rid="bibr23-0891243218783670" ref-type="bibr">Jansen 2004</xref>; <xref rid="bibr35-0891243218783670" ref-type="bibr">Mir-Hosseini 2006</xref>).</p><p>At the core of our framework are genderedness and agency. Consequently, we also
+proposed that relations between religiosity and support for gender equality vary
+between different societal groups. Indeed, religious service attendance was more
+strongly negatively related to support for gender equality among women and more
+highly educated individuals, as service attendance reduced women&#x02019;s and more highly
+educated citizens&#x02019; initially greater support (see <xref rid="bibr31-0891243218783670" ref-type="bibr">Lueptow, Garovich-Szabo, and Lueptow 2001</xref>;
+<xref rid="bibr37-0891243218783670" ref-type="bibr">Moghadam 2013</xref>; <xref rid="bibr61-0891243218783670" ref-type="bibr">Zion-Waldoks 2015</xref>). So it
+seems that among those who have the space to deviate from dominant patriarchal
+interpretations, that is, those exposed less to patriarchal religious institutions,
+especially women and more highly educated individuals use that space to
+progressively reinterpret their religion (<xref rid="bibr3-0891243218783670" ref-type="bibr">Al-Hibri 1982</xref>; <xref rid="bibr38-0891243218783670" ref-type="bibr">Moghissi 2011</xref>; <xref rid="bibr43-0891243218783670" ref-type="bibr">Prickett 2015</xref>; <xref rid="bibr44-0891243218783670" ref-type="bibr">Read and Bartkowski 2000</xref>).</p><p>Also, the negative impact of (internal) religious beliefs, particularly religious
+salience, was weaker among women and more highly educated individuals. Again it
+seems that given the space for renegotiations, women and more highly educated
+individuals more often seek or accept emancipatory reinterpretations of their
+religion conducive to support for gender equality, as suggested by previous
+qualitative studies (<xref rid="bibr7-0891243218783670" ref-type="bibr">Avishai,
+Jafar, and Rinaldo 2015</xref>; <xref rid="bibr24-0891243218783670" ref-type="bibr">Kandiyoti 1988</xref>; <xref rid="bibr27-0891243218783670" ref-type="bibr">Khurshid 2015</xref>; <xref rid="bibr43-0891243218783670" ref-type="bibr">Prickett 2015</xref>). Women and more highly
+educated citizens thus tend to be at the forefront of renegotiating the
+religiosity&#x02013;gender inequality coupling.</p><p>Based on this summary of results, two core contributions of this study to the
+literature can be highlighted. First, we have shown that religiosity is a medley.
+Previous quantitative studies mainly studied denomination (e.g., <xref rid="bibr2-0891243218783670" ref-type="bibr">Alexander and Welzel 2011</xref>;
+<xref rid="bibr22-0891243218783670" ref-type="bibr">Inglehart and Norris
+2003</xref>; <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and
+Fish 2016</xref>), while we theorized a more fine-grained and gendered version
+of religion&#x02019;s relation to support for gender equality. We showed in greater detail
+how (disaggregated) religiosity works and that it is not always a hindrance to
+support for gender equality in the MENA. Especially, religious salience (among
+women) cushions the blow to support for gender equality of other religiosity
+dimensions.</p><p>Second, previous public opinion studies focused on patriarchal socialization,
+implying that individuals in the MENA are passive beings (see <xref rid="bibr48-0891243218783670" ref-type="bibr">Said 1979</xref>; <xref rid="bibr57-0891243218783670" ref-type="bibr">Spierings 2015</xref>). This study provided
+evidence that people who are more inclined (women) and sociocognitively better
+equipped (higher educated) can and do cushion patriarchal interpretations of their
+religiosity. Future research would do well to not only consider MENA citizens as
+unilaterally passively socialized but also as active agents in a gendered
+context.</p><p>Other important avenues for future research can be derived from some of the
+challenges we faced, particularly regarding data availability. First, despite taking
+considerable steps forward, we were unable to tap into every form of religious
+socialization. For instance, no data were available on religious socialization in
+schools or parental homes. The socialization processes in these domains may be
+similar to religious socialization that our data did cover, but that remains an
+empirical question to tackle in future research. Second, panel data provide more
+insights into the assumed causality of religious socialization, but such data are
+currently unavailable. Consequently, we could not empirically show that women&#x02019;s and
+more highly educated citizens&#x02019; support for gender equality is reduced <italic>due
+to</italic> service attendance, instead of women and more highly educated
+citizens who attended services being more conservative from the start. However,
+there are distinct reasons to assume some causality; MENA citizens are embedded in
+religious structures by birth, and previous studies have proposed religious
+socialization processes are ever-present, implying that religious socialization
+predates people forming their opinions on gender equality. Moreover, our models
+controlled for core variables linked to religiosity and gender equality attitudes,
+such as education (<xref rid="bibr2-0891243218783670" ref-type="bibr">Alexander and
+Welzel 2011</xref>; <xref rid="bibr4-0891243218783670" ref-type="bibr">Aune
+2015</xref>).</p><p>Third, some indicators of religiosity leave room for improvement. For instance,
+textualism could not be measured directly. We expect that other aspects of
+textualism would provide similar results&#x02014;an expectation supported by our results
+concerning particularism&#x02014;but further empirical study is welcome. Similarly,
+regarding salience we had no measures on the importance of religion in
+<italic>specific daily</italic> choices (<xref rid="bibr49-0891243218783670" ref-type="bibr">Scheepers, Gijsberts, and Hello 2002</xref>).
+However and if anything, most likely this has led to an
+<italic>under</italic>estimation of salience&#x02019;s relation to support for gender
+equality.</p><p>Finally, we recommend that future researchers look into different domains of support
+for gender equality. Although our theory predicts roughly similar patterns, only
+empirical study can verify this. The vast majority of large-scale quantitative
+studies pertain to public sphere attitudes; studying support for equality in the
+private sphere or sexual emancipation would greatly add to our knowledge (e.g.,
+<xref rid="bibr22-0891243218783670" ref-type="bibr">Inglehart and Norris
+2003</xref>; <xref rid="bibr32-0891243218783670" ref-type="bibr">Lussier and
+Fish 2016</xref>; <xref rid="bibr42-0891243218783670" ref-type="bibr">Price
+2016</xref>). Current data do not permit this, however. For instance, the WVS
+includes an item on the justifiability of divorce, but it is hard to discern whether
+men and women filling out the questionnaire had <italic>talaq</italic> or
+<italic>khul</italic>&#x02019; in mind&#x02014;men&#x02019;s unilateral right to divorce or divorce that
+women can initiate (<xref rid="bibr55-0891243218783670" ref-type="bibr">Shehada
+2016</xref>).</p><p>Still, to our knowledge, this study has included more precise and nuanced
+measurements of religiosity&#x02019;s impact on gender equality attitudes than any other
+MENA study. Studying the multidimensional facets of religiosity, as well as their
+interrelated and particularly agency-moderated influences, has provided important
+and more nuanced insights into the gendered impact religiosity has on support for
+gender equality in the MENA, which is pivotal for women in the MENA as well as for
+public debates around the world.</p></sec><sec sec-type="supplementary-material" id="section18-0891243218783670"><title>Supplemental Material</title><supplementary-material content-type="local-data" id="suppl1-0891243218783670"><caption><title>9129.R2_Online_Appendices_final &#x02013; Supplemental material for
+Re-Understanding Religion And Support For Gender Equality In Arab
+Countries</title></caption><media xlink:href="Online_Appendices_final.docx"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, 9129.R2_Online_Appendices_final for Re-Understanding
+Religion And Support For Gender Equality In Arab Countries by Saskia Glas, Niels
+Spierings and Peer Scheepers in Gender ender &#x00026; Society Society</p></supplementary-material></sec></body><back><fn-group><fn fn-type="other"><p><bold>Authors&#x02019; Note:</bold>This project was funded by the NWO (406-16-517). We thank three anonymous
+reviewers for their insightful feedback.</p></fn></fn-group><notes><fn-group><fn fn-type="other" id="fn1-0891243218783670"><label>1.</label><p>The Quran states, &#x0201c;And no person can ever die except by Allah&#x02019;s leave and at
+an appointed time&#x0201d; (3:145, Khan trans.), and Bukhari&#x02019;s Hadith (4.56.669)
+reports Allah&#x02019;s response to a man who has taken his own life, &#x0201c;My Slave
+hurried to bring death upon himself so I have forbidden him (to enter)
+Paradise.&#x0201d;</p></fn><fn fn-type="other" id="fn2-0891243218783670"><label>2.</label><p>In our sample, women attended services less than men; still, about one-third
+frequents religious services weekly or more.</p></fn><fn fn-type="other" id="fn3-0891243218783670"><label>3.</label><p>
+<ext-link ext-link-type="uri" xlink:href="http://www.worldvaluessurvey.org/">http://www.worldvaluessurvey.org/</ext-link>
+</p></fn><fn fn-type="other" id="fn4-0891243218783670"><label>4.</label><p>In the Bahrain 2014 survey, employment and education loaded on two factors.
+The pooled analysis showed high factor loadings (0.78 [politics], 0.63
+[education], 0.72 [employment]) on one dimension, although Cronbach&#x02019;s alpha
+was moderate (0.50), probably because of the number of items.</p></fn><fn fn-type="other" id="fn5-0891243218783670"><label>5.</label><p><italic>F</italic> tests showed that support&#x02019;s variation over time is
+marginal compared to between countries, justifying our data structure. Also,
+the much debated minimal number of higher-level units is not very relevant,
+as we add no higher-level predictors.</p></fn><fn fn-type="other" id="fn6-0891243218783670"><label>6.</label><p>The interaction terms largely (just) lose their statistical significance in
+the men-only model, but they remain similar in the women-only and
+Muslim-only subsamples.</p></fn><fn fn-type="other" id="fn7-0891243218783670"><label>7.</label><p>Eleven surveys include <italic>frequency of private prayer</italic>. We
+standardized scores per survey. Thirteen surveys included
+<italic>particularism</italic> as follows: &#x0201c;On this list are various
+groups of people. Which would you not like to have as neighbors?&#x0201d; The answer
+&#x0201c;from a different religion&#x0201d; is scored 1, others 0. Details can be obtained
+from the authors.</p></fn></fn-group></notes><bio id="d35e2302"><p>Saskia Glas is a PhD candidate in sociology at Radboud Social and Cultural Research,
+Radboud University (the Netherlands). The project, funded by the NWO, focuses on
+religion, support for gender equality, and Muslim feminism in Arab countries. Her
+research interests include sociopolitical attitudes, political structures, and
+gender equality.</p><p>Niels Spierings is assistant professor in sociology at Radboud Social and Cultural
+Research, Radboud University. His expertise includes women&#x02019;s socioeconomic position,
+religion, migration, political behavior, and sociopolitical attitudes. Two of his
+current projects are funded by NWO and focus on Islamic religiosity and
+politcosocial attitudes in Arab countries.</p><p>Peer Scheepers is professor of comparative methodology at Radboud Social and Cultural
+Research, Radboud University. He focuses on cross-national research on social
+cohesion (e.g., religiosity), on which he has published widely (H-index=48). He is
+member of the Royal Dutch Academy of Arts and Sciences and of Academia Europeae.</p></bio><ref-list><title>References</title><ref id="bibr1-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abu-Lughod</surname><given-names>Lila</given-names></name></person-group>
+<year>2002</year>
+<article-title>Do Muslim women really need
+saving? Anthropological reflections on cultural relativism and its
+others</article-title>. <source>American Anthropologist</source>
+<volume>104</volume> (<issue>3</issue>): <fpage>783</fpage>-90.</mixed-citation></ref><ref id="bibr2-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alexander</surname><given-names>Amy</given-names></name><name><surname>Welzel</surname><given-names>Christian</given-names></name></person-group>
+<year>2011</year>
+<article-title>Islam and patriarchy: How
+robust is Muslim support for patriarchal values?</article-title>
+<source>International Review of Sociology</source>
+<volume>21</volume> (<issue>2</issue>): <fpage>249</fpage>-76.</mixed-citation></ref><ref id="bibr3-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Al-Hibri</surname><given-names>Azizah</given-names></name></person-group>
+<year>1982</year>
+<source>Women and Islam</source>.
+<publisher-loc>Oxford, UK</publisher-loc>:
+<publisher-name>Pergamon</publisher-name>.</mixed-citation></ref><ref id="bibr4-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aune</surname><given-names>Kristin</given-names></name></person-group>
+<year>2015</year>
+<article-title>Feminist spirituality as
+lived religion: How UK feminists forge religio-spiritual
+lives</article-title>. <source>Gender &#x00026; Society</source>
+<volume>29</volume> (<issue>1</issue>): <fpage>122</fpage>-45.</mixed-citation></ref><ref id="bibr5-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Avishai</surname><given-names>Orit</given-names></name></person-group>
+<year>2008</year>
+<article-title>&#x0201c;Doing religion&#x0201d; in a secular
+world: Women in conservative religions and the question of
+agency</article-title>. <source>Gender &#x00026; Society</source>
+<volume>22</volume> (<issue>4</issue>): <fpage>409</fpage>-33.</mixed-citation></ref><ref id="bibr6-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Avishai</surname><given-names>Orit</given-names></name><name><surname>Irby</surname><given-names>Courtney</given-names></name></person-group>
+<year>2017</year>
+<article-title>Bifurcated conversations in
+sociological studies of religion and gender</article-title>. <source>Gender
+&#x00026; Society</source>
+<volume>31</volume> (<issue>5</issue>): <fpage>647</fpage>-76.</mixed-citation></ref><ref id="bibr7-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Avishai</surname><given-names>Orit</given-names></name><name><surname>Jafar</surname><given-names>Afshan</given-names></name><name><surname>Rinaldo</surname><given-names>Rachel</given-names></name></person-group>
+<year>2015</year>
+<article-title>A gender lens on
+religion</article-title>. <source>Gender &#x00026; Society</source>
+<volume>29</volume> (<issue>1</issue>):
+<fpage>5</fpage>-<lpage>25</lpage>.</mixed-citation></ref><ref id="bibr8-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bartkowski</surname><given-names>John</given-names></name><name><surname>Read</surname><given-names>Jen&#x02019;nan</given-names></name></person-group>
+<year>2003</year>
+<article-title>Veiled submission: Gender,
+power, and identity among evangelical and Muslim women in the United
+States</article-title>. <source>Qualitative Sociology</source>
+<volume>26</volume> (<issue>1</issue>):
+<fpage>71</fpage>-<lpage>92</lpage>.</mixed-citation></ref><ref id="bibr9-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blaydes</surname><given-names>Lisa</given-names></name><name><surname>Linzer</surname><given-names>Drew</given-names></name></person-group>
+<year>2008</year>
+<article-title>The political economy of
+women&#x02019;s support for fundamentalist Islam</article-title>. <source>World
+Politics</source>
+<volume>60</volume> (<issue>4</issue>):
+<fpage>576</fpage>-<lpage>609</lpage>.</mixed-citation></ref><ref id="bibr10-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bloom</surname><given-names>Pazit</given-names></name><name><surname>Arikan</surname><given-names>Gizem</given-names></name><name><surname>Courtemanche</surname><given-names>Marie</given-names></name></person-group>
+<year>2015</year>
+<article-title>Religious social identity,
+religious belief, and anti-immigration sentiment</article-title>.
+<source>American Political Science Review</source>
+<volume>109</volume> (<issue>2</issue>): <fpage>203</fpage>-21.</mixed-citation></ref><ref id="bibr11-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bolzendahl</surname><given-names>Catherine</given-names></name><name><surname>Myers</surname><given-names>Daniel</given-names></name></person-group>
+<year>2004</year>
+<article-title>Feminist attitudes and
+support for gender equality: Opinion change in women and men,
+1974-1998</article-title>. <source>Social Forces</source>
+<volume>83</volume> (<issue>2</issue>): <fpage>759</fpage>-90.</mixed-citation></ref><ref id="bibr12-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Charrad</surname><given-names>Mounira</given-names></name></person-group>
+<year>2011</year>
+<article-title>Gender in the Middle East:
+Islam, state, agency</article-title>. <source>Annual Review of
+Sociology</source>
+<volume>37</volume>:<fpage>417</fpage>-37.</mixed-citation></ref><ref id="bibr13-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chong</surname><given-names>Kelly</given-names></name></person-group>
+<year>2006</year>
+<article-title>Negotiating patriarchy: South
+Korean evangelical women and the politics of gender</article-title>.
+<source>Gender &#x00026; Society</source>
+<volume>20</volume> (<issue>6</issue>):
+<fpage>697</fpage>-<lpage>724</lpage>.</mixed-citation></ref><ref id="bibr14-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cornwall</surname><given-names>Marie</given-names></name><name><surname>Albrecht</surname><given-names>Stan</given-names></name><name><surname>Cunningham</surname><given-names>Perry</given-names></name><name><surname>Pitcher</surname><given-names>Brian</given-names></name></person-group>
+<year>1986</year>
+<article-title>The dimensions of
+religiosity: A conceptual model with an empirical test</article-title>.
+<source>Review of Religious Research</source>
+<volume>27</volume> (<issue>3</issue>): <fpage>226</fpage>-44.</mixed-citation></ref><ref id="bibr15-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eagly</surname><given-names>Alice</given-names></name><name><surname>Diekman</surname><given-names>Amanda</given-names></name><name><surname>Johannesen-Schmidt</surname><given-names>Mary</given-names></name><name><surname>Koenig</surname><given-names>Anne</given-names></name></person-group>
+<year>2004</year>
+<article-title>Gender gaps in sociopolitical
+attitudes: A social psychological analysis</article-title>. <source>Journal
+of Personality and Social Psychology</source>
+<volume>87</volume> (<issue>6</issue>):
+<fpage>796</fpage>-<lpage>816</lpage>.<pub-id pub-id-type="pmid">15598107</pub-id></mixed-citation></ref><ref id="bibr16-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Elder</surname><given-names>Glen</given-names></name><name><surname>Johnson</surname><given-names>Monica</given-names></name><name><surname>Crosnoe</surname><given-names>Robert</given-names></name></person-group>
+<year>2003</year>
+<article-title>The emergence and development
+of life course theory</article-title>. In <source>Handbook of the life
+course</source>, edited by <person-group person-group-type="editor"><name><surname>Mortimer</surname><given-names>Jeylan</given-names></name><name><surname>Shanahan</surname><given-names>Michael</given-names></name></person-group>
+<publisher-loc>New York</publisher-loc>: <publisher-name>Kluwer
+Academic</publisher-name>.</mixed-citation></ref><ref id="bibr17-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>El Fadl</surname><given-names>Khaled</given-names></name></person-group>
+<year>2001</year>
+<source>Speaking in God&#x02019;s name. Islamic law,
+authority and women</source>. <publisher-loc>Oxford, UK</publisher-loc>:
+<publisher-name>One World</publisher-name>.</mixed-citation></ref><ref id="bibr18-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Griffith</surname><given-names>Marie</given-names></name></person-group>
+<year>1997</year>
+<source>God&#x02019;s daughters: Evangelical women
+and the power of submission</source>.
+<publisher-loc>Berkeley</publisher-loc>: <publisher-name>University of
+California Press</publisher-name>.</mixed-citation></ref><ref id="bibr19-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gonzalez</surname><given-names>Alessandra</given-names></name></person-group>
+<year>2011</year>
+<article-title>Measuring religiosity in a
+majority Muslim context: Gender, religious salience, and religious
+experience among Kuwaiti college students&#x02014;A research note</article-title>.
+<source>Journal for the Scientific Study of Religion</source>
+<volume>50</volume> (<issue>2</issue>): <fpage>339</fpage>-50.</mixed-citation></ref><ref id="bibr20-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hall</surname><given-names>David</given-names></name></person-group>
+<year>1997</year>
+<source>Lived religion in America: Toward a
+history of practice</source>. <publisher-loc>Princeton, NJ</publisher-loc>:
+<publisher-name>Princeton University
+Press</publisher-name>.</mixed-citation></ref><ref id="bibr21-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hervieu-L&#x000e9;ger</surname><given-names>Dani&#x000e8;le</given-names></name></person-group>
+<year>1998</year>
+<article-title>The transmission and
+formation of socioreligious identities in modernity: An analytical essay on
+the trajectories of identification</article-title>. <source>International
+Sociology</source>
+<volume>13</volume> (<issue>2</issue>): <fpage>213</fpage>-28.</mixed-citation></ref><ref id="bibr22-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Inglehart</surname><given-names>Ronald</given-names></name><name><surname>Norris</surname><given-names>Pippa</given-names></name></person-group>
+<year>2003</year>
+<article-title>The true clash of
+civilizations</article-title>. <source>Foreign Policy</source>
+<volume>135</volume>:<fpage>63</fpage>-<lpage>70</lpage>.</mixed-citation></ref><ref id="bibr23-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jansen</surname><given-names>Willy</given-names></name></person-group>
+<year>2004</year>
+<article-title>The economy of religious
+merit: Women and ajr in Algeria</article-title>. <source>Journal of North
+African Studies</source>
+<volume>9</volume> (<issue>4</issue>):
+<fpage>1</fpage>-<lpage>17</lpage>.</mixed-citation></ref><ref id="bibr24-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kandiyoti</surname><given-names>Deniz</given-names></name></person-group>
+<year>1988</year>
+<article-title>Bargaining with
+patriarchy</article-title>. <source>Gender &#x00026; Society</source>
+<volume>2</volume> (<issue>3</issue>): <fpage>274</fpage>-90.</mixed-citation></ref><ref id="bibr25-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kellstedt</surname><given-names>Lyman</given-names></name><name><surname>Green</surname><given-names>John</given-names></name><name><surname>Guth</surname><given-names>James</given-names></name><name><surname>Smidt</surname><given-names>Corwin</given-names></name></person-group>
+<year>1996</year>
+<article-title>Grasping the essentials: The
+social embodiment of religion and political behavior</article-title>. In
+<source>Religion and the culture wars: Dispatches from the front</source>,
+edited by <person-group person-group-type="editor"><name><surname>Green</surname><given-names>John</given-names></name></person-group>
+<publisher-loc>Lanham, MD</publisher-loc>:
+<publisher-name>Rowman &#x00026; Littlefield</publisher-name>.</mixed-citation></ref><ref id="bibr26-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Khan</surname><given-names>Al-Hilali</given-names></name><name><surname>Taqi-ud-Din</surname><given-names>Muhammad</given-names></name></person-group>
+<year>2018</year>
+<source>The Noble Quran</source>.
+<publisher-name>Muslim directory</publisher-name>, <month>5</month>
+<day>8</day>
+<ext-link ext-link-type="uri" xlink:href="http://www.noorehidayat.org">http://www.noorehidayat.org</ext-link>.</mixed-citation></ref><ref id="bibr27-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khurshid</surname><given-names>Ayesha</given-names></name></person-group>
+<year>2015</year>
+<article-title>Islamic traditions of
+modernity: Gender, class, and Islam in a transnational women&#x02019;s education
+project</article-title>. <source>Gender &#x00026; Society</source>
+<volume>29</volume> (<issue>1</issue>):
+<fpage>98</fpage>-<lpage>121</lpage>.</mixed-citation></ref><ref id="bibr28-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Korteweg</surname><given-names>Anna</given-names></name></person-group>
+<year>2008</year>
+<article-title>The sharia debate in Ontario:
+Gender, Islam, and representations of Muslim women&#x02019;s agency</article-title>.
+<source>Gender &#x00026; Society</source>
+<volume>22</volume> (<issue>4</issue>): <fpage>434</fpage>-54.</mixed-citation></ref><ref id="bibr29-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kostenko</surname><given-names>Veronica</given-names></name><name><surname>Kuzmuchev</surname><given-names>Pavel</given-names></name><name><surname>Ponarin</surname><given-names>Eduard</given-names></name></person-group>
+<year>2016</year>
+<article-title>Attitudes towards gender
+equality and perception of democracy in the Arab world</article-title>.
+<source>Democratization</source>
+<volume>23</volume> (<issue>5</issue>):
+<fpage>1</fpage>-<lpage>28</lpage>.</mixed-citation></ref><ref id="bibr30-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kucinskas</surname><given-names>Jaime</given-names></name></person-group>
+<year>2010</year>
+<article-title>A research note on Islam and
+gender egalitarianism: An examination of Egyptian and Saudi Arabian youth
+attitudes</article-title>. <source>Journal for the Scientific Study of
+Religion</source>
+<volume>49</volume> (<issue>4</issue>): <fpage>761</fpage>-70.</mixed-citation></ref><ref id="bibr31-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lueptow</surname><given-names>Lloyd</given-names></name><name><surname>Garovich-Szabo</surname><given-names>Lori</given-names></name><name><surname>Lueptow</surname><given-names>Margaret</given-names></name></person-group>
+<year>2001</year>
+<article-title>Social change and the
+persistence of sex typing: 1974-1997</article-title>. <source>Social
+Forces</source>
+<volume>80</volume> (<issue>1</issue>):
+<fpage>1</fpage>-<lpage>36</lpage>.</mixed-citation></ref><ref id="bibr32-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lussier</surname><given-names>Danielle</given-names></name><name><surname>Fish</surname><given-names>Steven</given-names></name></person-group>
+<year>2016</year>
+<article-title>Men, Muslims, and attitudes
+toward gender inequality</article-title>. <source>Politics and
+Religion</source>
+<volume>9</volume> (<issue>1</issue>):
+<fpage>29</fpage>-<lpage>60</lpage>.</mixed-citation></ref><ref id="bibr33-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Mahmood</surname><given-names>Saba</given-names></name></person-group>
+<year>2005</year>
+<source>Politics of piety: The Islamic
+revival and the feminist subject</source>. <publisher-loc>Princeton,
+NJ</publisher-loc>: <publisher-name>Princeton University
+Press</publisher-name>.</mixed-citation></ref><ref id="bibr34-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Masoud</surname><given-names>Tarek</given-names></name><name><surname>Jamal</surname><given-names>Amaney</given-names></name><name><surname>Nugent</surname><given-names>Elizabeth</given-names></name></person-group>
+<year>2016</year>
+<article-title>Using the Qur&#x02019;&#x00101;n to empower
+Arab women? Theory and experimental evidence from Egypt</article-title>.
+<source>Comparative Political Studies</source>
+<volume>49</volume> (<issue>12</issue>):
+<fpage>1</fpage>-<lpage>44</lpage>.</mixed-citation></ref><ref id="bibr35-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mir-Hosseini</surname><given-names>Ziba</given-names></name></person-group>
+<year>2006</year>
+<article-title>Muslim women&#x02019;s quest for
+equality: Between Islamic law and feminism</article-title>. <source>Critical
+Inquiry</source>
+<volume>32</volume> (<issue>4</issue>): <fpage>629</fpage>-45.</mixed-citation></ref><ref id="bibr36-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moaddel</surname><given-names>Mansoor</given-names></name></person-group>
+<year>2006</year>
+<article-title>The Saudi public speaks:
+Religion, gender, and politics</article-title>. <source>International
+Journal of Middle East Studies</source>
+<volume>38</volume> (<issue>1</issue>):
+<fpage>79</fpage>-<lpage>108</lpage>.</mixed-citation></ref><ref id="bibr37-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Moghadam</surname><given-names>Valentine</given-names></name></person-group>
+<year>2013</year>
+<source>Modernizing women: Gender and social
+change in the Middle East</source>, <edition>3rd ed.</edition>
+<publisher-loc>Boulder, CO</publisher-loc>: <publisher-name>Lynne
+Rienner</publisher-name>.</mixed-citation></ref><ref id="bibr38-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moghissi</surname><given-names>Haideh</given-names></name></person-group>
+<year>2011</year>
+<article-title>Islamic feminism
+revisited</article-title>. <source>Comparative Studies of South Asia, Africa
+and the Middle East</source>
+<volume>31</volume> (<issue>1</issue>):
+<fpage>76</fpage>-<lpage>84</lpage>.</mixed-citation></ref><ref id="bibr39-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Norris</surname><given-names>Pippa</given-names></name></person-group>
+<year>2009</year>
+<article-title>Why do Arab states lag the
+world in gender equality? HKS faculty research working paper series RWP09-
+020</article-title>. <publisher-name>John F. Kennedy School of Government,
+Harvard University</publisher-name>, <publisher-loc>Cambridge,
+MA</publisher-loc>.</mixed-citation></ref><ref id="bibr40-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nyhagen</surname><given-names>Line</given-names></name></person-group>
+<year>2017</year>
+<article-title>The lived religion approach
+in the sociology of religion and its implications for secular feminist
+analyses of religion</article-title>. <source>Social Compass</source>
+<volume>64</volume> (<issue>4</issue>):
+<fpage>495</fpage>-<lpage>511</lpage>.</mixed-citation></ref><ref id="bibr41-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paxton</surname><given-names>Pamela</given-names></name><name><surname>Kunovich</surname><given-names>Sheri</given-names></name><name><surname>Hughes</surname><given-names>Melanie</given-names></name></person-group>
+<year>2007</year>
+<article-title>Gender in
+politics</article-title>. <source>Annual Review of Sociology</source>
+<volume>33</volume>:<fpage>263</fpage>-84.</mixed-citation></ref><ref id="bibr42-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Price</surname><given-names>Anne</given-names></name></person-group>
+<year>2016</year>
+<article-title>How national structures shape
+attitudes toward women&#x02019;s right to employment in the Middle
+East</article-title>. <source>International Journal of Comparative
+Sociology</source>
+<volume>56</volume> (<issue>6</issue>): <fpage>408</fpage>-32.</mixed-citation></ref><ref id="bibr43-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Prickett</surname><given-names>Pamela</given-names></name></person-group>
+<year>2015</year>
+<article-title>Negotiating gendered
+religious space: The particularities of patriarchy in an African American
+mosque</article-title>. <source>Gender &#x00026; Society</source>
+<volume>29</volume> (<issue>1</issue>):
+<fpage>51</fpage>-<lpage>72</lpage>.</mixed-citation></ref><ref id="bibr44-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Read</surname><given-names>Jen&#x02019;nan</given-names></name><name><surname>Bartkowski</surname><given-names>John</given-names></name></person-group>
+<year>2000</year>
+<article-title>To veil or not to veil? A
+case study of identity negotiation among Muslim women in Austin,
+Texas</article-title>. <source>Gender &#x00026; Society</source>
+<volume>14</volume> (<issue>3</issue>):
+<fpage>395</fpage>-<lpage>417</lpage>.</mixed-citation></ref><ref id="bibr45-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rinaldo</surname><given-names>Rachel</given-names></name></person-group>
+<year>2014</year>
+<article-title>Pious and critical: Muslim
+women activists and the question of agency</article-title>. <source>Gender
+&#x00026; Society</source>
+<volume>28</volume> (<issue>6</issue>): <fpage>824</fpage>-46.</mixed-citation></ref><ref id="bibr46-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rizzo</surname><given-names>Helen</given-names></name><name><surname>Abdel-Latif</surname><given-names>Abdel-Hamid</given-names></name><name><surname>Meyer</surname><given-names>Katherine</given-names></name></person-group>
+<year>2007</year>
+<article-title>The relationship between
+gender equality and democracy: A comparison of Arab versus non-Arab Muslim
+societies</article-title>. <source>Sociology</source>
+<volume>41</volume> (<issue>6</issue>): <fpage>1151</fpage>-70.</mixed-citation></ref><ref id="bibr47-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rizzo</surname><given-names>Helen</given-names></name><name><surname>Meyer</surname><given-names>Katherine</given-names></name><name><surname>Ali</surname><given-names>Yousef</given-names></name></person-group>
+<year>2007</year>
+<article-title>Extending political rights in
+the Middle East: The case of Kuwait</article-title>. <source>Journal of
+Political and Military Sociology</source>
+<volume>35</volume> (<issue>2</issue>): <fpage>177</fpage>-97.</mixed-citation></ref><ref id="bibr48-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Said</surname><given-names>Edward</given-names></name></person-group>
+<year>1979</year>
+<source>Orientalism</source>.
+<publisher-loc>New York</publisher-loc>:
+<publisher-name>Vintage</publisher-name>.</mixed-citation></ref><ref id="bibr49-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scheepers</surname><given-names>Peer</given-names></name><name><surname>Gijsberts</surname><given-names>M&#x000e8;rove</given-names></name><name><surname>Hello</surname><given-names>Evelyn</given-names></name></person-group>
+<year>2002</year>
+<article-title>Religiosity and prejudice
+against ethnic minorities in Europe: Cross-national tests on a controversial
+relationship</article-title>. <source>Review of Religious Research</source>
+<volume>43</volume> (<issue>3</issue>): <fpage>242</fpage>-65.</mixed-citation></ref><ref id="bibr50-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwartz</surname><given-names>Shalom</given-names></name><name><surname>Huismans</surname><given-names>Sipke</given-names></name></person-group>
+<year>1995</year>
+<article-title>Value priorities and
+religiosity in four western religions</article-title>. <source>Social
+Psychology Quarterly</source>
+<volume>58</volume> (<issue>2</issue>):
+<fpage>88</fpage>-<lpage>107</lpage>.</mixed-citation></ref><ref id="bibr51-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Selim</surname><given-names>Nahed</given-names></name></person-group>
+<year>2003</year>
+<source>De vrouwen van de profeet: Hoe vrouw
+(on)vriendelijk is de Koran?</source>
+<publisher-loc>Amsterdam, NL</publisher-loc>: <publisher-name>Van
+Gennep</publisher-name>.</mixed-citation></ref><ref id="bibr52-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sewell</surname><given-names>William</given-names></name></person-group>
+<year>1992</year>
+<article-title>A theory of structure:
+Duality, agency, and transformation</article-title>. <source>American
+Journal of Sociology</source>
+<volume>98</volume> (<issue>1</issue>):
+<fpage>1</fpage>-<lpage>29</lpage>.</mixed-citation></ref><ref id="bibr53-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shamaileh</surname><given-names>Ammar</given-names></name></person-group>
+<year>2016</year>
+<article-title>Am I equal? Internet access
+and perceptions of female political leadership ability in the Arab
+World</article-title>. <source>Journal of Information Technology &#x00026;
+Politics</source>
+<volume>13</volume> (<issue>3</issue>): <fpage>257</fpage>-71.</mixed-citation></ref><ref id="bibr54-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shapiro</surname><given-names>Gilla</given-names></name></person-group>
+<year>2013</year>
+<article-title>Abortion law in
+Muslim-majority countries: An overview of the Islamic discourse with policy
+implications</article-title>. <source>Health Policy and Planning</source>
+<volume>29</volume> (<issue>4</issue>): <fpage>483</fpage>-94.</mixed-citation></ref><ref id="bibr55-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Shehada</surname><given-names>Nahda</given-names></name></person-group>
+<year>2016</year>
+<article-title>The asymmetrical
+representation of gender in Islamic family law</article-title>. In
+<source>Women, law and culture</source>, edited by <person-group person-group-type="editor"><name><surname>Scutt</surname><given-names>Jocelynne A.</given-names></name></person-group>
+<publisher-loc>New York</publisher-loc>: <publisher-name>Palgrave
+Macmillan</publisher-name>.</mixed-citation></ref><ref id="bibr56-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spierings</surname><given-names>Niels</given-names></name></person-group>
+<year>2014</year>
+<article-title>Islamic attitudes and the
+support for gender equality and democracy in seven Arab countries, and the
+role of anti-Western feelings</article-title>. <source>Multidisciplinary
+Journal of Gender Studies</source>
+<volume>3</volume> (<issue>2</issue>): <fpage>423</fpage>-56.</mixed-citation></ref><ref id="bibr57-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Spierings</surname><given-names>Niels</given-names></name></person-group>
+<year>2015</year>
+<source>Women&#x02019;s employment in Muslim
+countries: Patterns of diversity</source>. <publisher-loc>New
+York</publisher-loc>: <publisher-name>Palgrave
+Macmillan</publisher-name>.</mixed-citation></ref><ref id="bibr58-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Stark</surname><given-names>Rodney</given-names></name><name><surname>Glock</surname><given-names>Charles</given-names></name></person-group>
+<year>1968</year>
+<source>American piety: The nature of
+religious commitment</source>. <publisher-loc>Oakland</publisher-loc>:
+<publisher-name>University of California
+Press</publisher-name>.</mixed-citation></ref><ref id="bibr59-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sumerau</surname><given-names>J. Edward</given-names></name></person-group>
+<year>2012</year>
+<article-title>&#x0201c;That&#x02019;s what a man is
+supposed to do&#x0201d;: Compensatory manhood acts in an LGBT Christian
+church</article-title>. <source>Gender &#x00026; Society</source>
+<volume>26</volume> (<issue>3</issue>): <fpage>461</fpage>-87.</mixed-citation></ref><ref id="bibr60-0891243218783670"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Van de Vijver</surname><given-names>Fons</given-names></name><name><surname>Leung</surname><given-names>Kwok</given-names></name></person-group>
+<year>1997</year>
+<source>Methods and data analysis for
+cross-cultural research</source>. <publisher-loc>London</publisher-loc>:
+<publisher-name>Sage</publisher-name>.</mixed-citation></ref><ref id="bibr61-0891243218783670"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zion-Waldoks</surname><given-names>Tanya</given-names></name></person-group>
+<year>2015</year>
+<article-title>Politics of devoted
+resistance: Agency, feminism, and religion among Orthodox Agunah activists
+in Israel</article-title>. <source>Gender &#x00026; Society</source>
+<volume>29</volume> (<issue>1</issue>):
+<fpage>73</fpage>-<lpage>97</lpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,270 @@
+{
+  "id": [
+    "PMC7207456"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7207456"
+  ],
+  "doi": [
+    "10.1210/jendso/bvaa046.1064"
+  ],
+  "title": [
+    "SAT-147 Endogenous Expression of TCF21 by CRISPR/dCas9 System Results in Different Biological Responses in Adrenocortical Carcinoma and Hepatocarcinoma."
+  ],
+  "authorString": [
+    "Kremer JL, Passaia Bds, Lotfi CFP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kremer JL"
+          ],
+          "firstName": [
+            "Jean Lucas"
+          ],
+          "lastName": [
+            "Kremer"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of São Paulo, São Paulo, Brazil"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Passaia Bds"
+          ],
+          "firstName": [
+            "Barbara dos santos"
+          ],
+          "lastName": [
+            "Passaia"
+          ],
+          "initials": [
+            "Bds"
+          ]
+        },
+        {
+          "fullName": [
+            "Lotfi CFP"
+          ],
+          "firstName": [
+            "Claudimara Ferini Pacicco"
+          ],
+          "lastName": [
+            "Lotfi"
+          ],
+          "initials": [
+            "CFP"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2955096"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Endocrine Society"
+          ],
+          "ISOAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "medlineAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "NLMid": [
+            "101697997"
+          ],
+          "ISSN": [
+            "2472-1972"
+          ],
+          "ESSN": [
+            "2472-1972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "AbstractTranscription factor 21 (TCF21/POD-1/Epicardin) inhibits the expression of SF-1 (NR5A1) by binding to the promoter E-box site in adrenocortical carcinoma (ACC). In contrast, TCF21 promotes increased expression of LRH-1 in hepatocarcinoma cell line, HepG2 cells, by binding to the Small Heterodimer Partner (SHP/NR0B2) promoter region, an LRH-1 negative regulator. Epigenetic alteration induced TCF21 loss of function and has been associated with increased of cellular migration and invasion. In ACC, TCF21 promoter is hypermethylated and less expressed. Our aim was to evaluate the effect of TCF21 by expressing or silencing TCF21 in adrenocortical pediatric adenoma, ACA-T7 cells, in ACC cell lines SW-13 and H295R cell line, and in HepG2 cell line. Were used CRISPR/dCas9/TCF21 and pCMVMycPOD1 or siRNATCF21 to express and silence TCF21, respectively. Increased expression of TCF21 in H295RpCMVMycPOD1 and SW-13CRISPR/dCas9/TCF21 cells resulted in significantly decreased cell migration and invasion (53.2±36.1%/70.8±26.5% and 82.6±4.2%/100%, respectively). In ACA-T7/siRNATCF21 cells, the inhibition of TCF21 resulted in significant increase migration and invasion capacity (45.0±12.7%/33.1±17.4%) compared with ACA-T7 cells. Higher TCF21 expression in HepG2CRISPR/dCas9/TCF21 increased invasion [147.08±16.54% (p<0.0001)]. Analysis of metalloproteinase genes expression showed that TCF21 significantly (p<0.01) increased MMP8 expression in SW-13CRISPR/dCas9/TCF21 and H295R/pCMVMycPod-1 whereas decreased MMP9 and MMP2 (p< 0.0001). The opposite effect was observed in ACA-T7/siRNATCF21. Moreover, in HepG2CRISPR/dCas9/TCF21 cells was observed an increase of MMP2 and MMP9 expression (p<0.001). These results suggest that TCF21 regulate epithelial mesenchymal transition and vice versa (EMT/MET) in tumors depending on cellular context. Supported by Fapesp and Capes."
+  ],
+  "affiliation": [
+    "University of São Paulo, São Paulo, Brazil"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7207456/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7207456"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1210/jendso/bvaa046.1064"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-15"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-15"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-08"
+  ],
+  "firstPublicationDate": [
+    "2020-05-08"
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "id": [
+    "31369574"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31369574"
+  ],
+  "pmcid": [
+    "PMC6675081"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0219996"
+  ],
+  "title": [
+    "Methods to include persons living with HIV not receiving HIV care in the Medical Monitoring Project."
+  ],
+  "authorString": [
+    "Wei SC, Messina L, Hood J, Hughes A, Jaenicke T, Johnson K, Mena L, Scheer S, Udeagu CC, Wohl A, Robertson M, Prejean J, Chen M, Tang T, Bertolli J, Johnson CH, Skarbinski J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wei SC"
+          ],
+          "firstName": [
+            "Stanley C"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4933-7398",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Messina L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Messina"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America.",
+                "Oak Ridge Institute for Science and Education, Oak Ridge, Tennessee, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hood J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Hood"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Prevention Division, Public Health Seattle and King County, Seattle, Washington, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "HIV Epidemiology and Surveillance Section, San Francisco Department of Public Health, San Francisco, California, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jaenicke T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Jaenicke"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Office of Infectious Disease, Washington State Department of Health, Tumwater, Washington, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Johnson K"
+          ],
+          "firstName": [
+            "Kendra"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "STD/HIV Office, Mississippi State Department of Health, Jackson, Mississippi, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena L"
+          ],
+          "firstName": [
+            "Leandro"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "STD/HIV Office, Mississippi State Department of Health, Jackson, Mississippi, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Scheer S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Scheer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "HIV Epidemiology and Surveillance Section, San Francisco Department of Public Health, San Francisco, California, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Udeagu CC"
+          ],
+          "firstName": [
+            "Chi-Chi"
+          ],
+          "lastName": [
+            "Udeagu"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Bureau of HIV/AIDS Prevention and Control, New York City Department of Health and Mental Hygiene, New York City, New York, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wohl A"
+          ],
+          "firstName": [
+            "Amy"
+          ],
+          "lastName": [
+            "Wohl"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Program Evaluation Unit, Los Angeles County Department of Public Health, Los Angeles, California, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Robertson M"
+          ],
+          "firstName": [
+            "McKaylee"
+          ],
+          "lastName": [
+            "Robertson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America.",
+                "Oak Ridge Institute for Science and Education, Oak Ridge, Tennessee, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Prejean J"
+          ],
+          "firstName": [
+            "Joseph"
+          ],
+          "lastName": [
+            "Prejean"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen M"
+          ],
+          "firstName": [
+            "Mi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang T"
+          ],
+          "firstName": [
+            "Tian"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bertolli J"
+          ],
+          "firstName": [
+            "Jeanne"
+          ],
+          "lastName": [
+            "Bertolli"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Johnson CH"
+          ],
+          "firstName": [
+            "Christopher H"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Skarbinski J"
+          ],
+          "firstName": [
+            "Jacek"
+          ],
+          "lastName": [
+            "Skarbinski"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4933-7398",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2843511"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0219996"
+  ],
+  "abstractText": [
+    "The Medical Monitoring Project (MMP) is an HIV surveillance system that provides national estimates of HIV-related behaviors and clinical outcomes. When first implemented, MMP excluded persons living with HIV not receiving HIV care. This analysis will describe new case-surveillance-based methods to identify and recruit persons living with HIV who are out of care and at elevated risk for mortality and ongoing HIV transmission. Stratified random samples of all persons living with HIV were selected from the National HIV Surveillance System in five public health jurisdictions from 2012-2014. Sampled persons were located and contacted through seven different data sources and five methods of contact to collect interviews and medical record abstractions. Data were weighted for non-response and case reporting delay. The modified sampling methodology yielded 1159 interviews (adjusted response rate, 44.5%) and matching medical record abstractions for 1087 (93.8%). Of persons with both interview and medical record data, 264 (24.3%) would not have been included using prior MMP methods. Significant predictors were identified for successful contact (e.g., retention in care, adjusted Odds Ratio [aOR] 5.02; 95% Confidence Interval [CI] 1.98-12.73), interview (e.g. moving out of jurisdiction, aOR 0.24; 95% CI: 0.12-0.46) and case reporting delay (e.g. rural residence, aOR 3.18; 95% CI: 2.09-4.85). Case-surveillance-based sampling resulted in a comparable response rate to existing MMP methods while providing information on an important new population. These methods have since been adopted by the nationally representative MMP surveillance system, offering a model for public health program, research and surveillance endeavors seeking inclusion of all persons living with HIV."
+  ],
+  "affiliation": [
+    "Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, U.S. Gov't, P.H.S.",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U62 PS001597"
+          ],
+          "agency": [
+            "NCHHSTP CDC HHS"
+          ],
+          "acronym": [
+            "PS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Viral Load"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Surveillance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0219996"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6675081"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6675081?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0219996"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc0"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-03-03"
+  ],
+  "dateOfCreation": [
+    "2019-08-02"
+  ],
+  "firstIndexDate": [
+    "2019-08-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-25"
+  ],
+  "dateOfRevision": [
+    "2020-03-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-01"
+  ],
+  "firstPublicationDate": [
+    "2019-08-01"
+  ]
+}

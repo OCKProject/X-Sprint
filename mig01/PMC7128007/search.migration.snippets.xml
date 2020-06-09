@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="mig01/PMC7128007/results/search/migration/results.xml">
+  <result pre="good qualitative agreement. Keywords Durotaxis Mathematical modeling Stochastic simulation Cell" exact="migration" post="Funding http://dx.doi.org/10.13039/501100001729Stiftelsen för Strategisk Forskning AM13-0046GerleeP. Funding http://dx.doi.org/10.13039/501100004359Vetenskapsrådet 2014-6095GerleeP."/>
+  <result pre="http://dx.doi.org/10.13039/501100001729Stiftelsen för Strategisk Forskning AM13-0046GerleeP. Funding http://dx.doi.org/10.13039/501100004359Vetenskapsrådet 2014-6095GerleeP. Introduction Cell" exact="migration" post="is essential to many processes such as embryogenesis (Kurosaka"/>
+  <result pre="microenvironment influence cells in many different ways, e.g., proliferation, differentiation," exact="migration" post="and the survival of cells (Keogh et al. 2010;"/>
+  <result pre="cell–substrate adhesiveness (Carter 1967). Another mechanical property relevant to cell" exact="migration" post="is the stiffness of the ECM. It has been"/>
+  <result pre="that a spatially varying stiffness can result in directed cell" exact="migration" post="up stiffness gradients, a phenomenon referred to as durotaxis"/>
+  <result pre="with uniform stiffness. Measurements included a durotactic index called forward" exact="migration" post="index (FMI), persistence and migration speed. Among their findings"/>
+  <result pre="a durotactic index called forward migration index (FMI), persistence and" exact="migration" post="speed. Among their findings was that durotaxis occurred most"/>
+  <result pre="performed which showed that persistence (straightness) contributed little to the" exact="migration" post="up the stiffness gradient, and that cell speed was"/>
+  <result pre="and that cell speed was not at all correlated with" exact="migration" post="up the gradient. The aim of this study is"/>
+  <result pre="is to analyze how deformations of the substrate influence cell" exact="migration" post="with and without a stiffness gradient. We do that"/>
+  <result pre="al. (2019) and compare a number of measures, including forward" exact="migration" post="index (FMI) and cell migration speed. Existing Mathematical Models"/>
+  <result pre="number of measures, including forward migration index (FMI) and cell" exact="migration" post="speed. Existing Mathematical Models of Cell Migration Mathematical models"/>
+  <result pre="Existing Mathematical Models of Cell Migration Mathematical models of cell" exact="migration" post="exist in many forms. Some focus on the subcellular"/>
+  <result pre="preference for stiffer regions, and the second being that the" exact="migration" post="speed was lower on very stiff matrices. One can"/>
+  <result pre="Hillen’s model (Hillen 2006). This model was used to investigate" exact="migration" post="in directed and undirected tissue networks, and it was"/>
+  <result pre="movement. A similar model was later developed that investigated different" exact="migration" post="strategies of amoeboid cells and for mesenchymal cells (Painter"/>
+  <result pre="of amoeboid cells and for mesenchymal cells (Painter 2009). Amoeboid" exact="migration" post="was described as having high velocity with a frequent"/>
+  <result pre="frequent change in direction and with little matrix remodeling. Mesenchymal" exact="migration" post="was assumed to have lower velocity, less frequent direction"/>
+  <result pre="(Escribano et al. 2018), which studied single and collective cell" exact="migration" post="in a linearly elastic substrate with different stiffness gradients."/>
+  <result pre="extracellular matrix. In what follows, we assume that the cell" exact="migration" post="takes place in 1D. Model of a Cell Our"/>
+  <result pre="on a timescale of about 30-60 minutes. After investigating cell" exact="migration" post="on the elastic substrate, we consider the fully plastic"/>
+  <result pre="we use the two measures introduced there, namely the forward" exact="migration" post="index (FMI) and cell speed, defined by 10 \documentclass[12pt]{minimal}"/>
+  <result pre="statistics. Uniform Substrate Stiffness We now begin by investigating cell" exact="migration" post="in the three different cases: the first case is"/>
+  <result pre="the cell in Lagrangian coordinates is larger resulting in faster" exact="migration" post="speeds. This stands in contrast to observations from the"/>
+  <result pre="stiff matrices or show a biphasic relationship where the optimal" exact="migration" post="speed is obtained for intermediate matrix stiffness (DuChez et"/>
+  <result pre="experimentally (Saez et al. 2005). Because of this, the cell" exact="migration" post="speed is also constant and independent of the substrate"/>
+  <result pre="are shown in Fig. 5. As can be seen, the" exact="migration" post="speeds as well as the displacements are lower on"/>
+  <result pre="concluded that cell speed does not contribute to the observed" exact="migration" post="up the stiffness gradient. When comparing constant cell springs"/>
+  <result pre="see that it captures both the phenomena of increased cell" exact="migration" post="on stiffer regions (Fig. 5a) and the large FMI"/>
+  <result pre="in Sect. 3.1. We investigate particularly the impact on cell" exact="migration" post="speed. The results are shown in Fig. 6. It"/>
+  <result pre="movement. Large displacements in the elastic model result in large" exact="migration" post="speeds due to the substrate bouncing back to its"/>
+  <result pre="occur, the large displacements have the effect of decreasing the" exact="migration" post="speeds. Fig. 6 The cell migration speed of a"/>
+  <result pre="effect of decreasing the migration speeds. Fig. 6 The cell" exact="migration" post="speed of a migrating cell in a plastic EMC"/>
+  <result pre="model to investigate the impact of elastic deformations on cell" exact="migration" post="under the assumption that cells move randomly, with no"/>
+  <result pre="carried out a systematic investigation of how the stiffness impacts" exact="migration" post="in the case of both a uniform stiffness profile"/>
+  <result pre="a soft substrate is deformed to a greater extent, the" exact="migration" post="speed will increase too. This is not the case"/>
+  <result pre="assumption, along with constant cell spring coefficients, results in decreased" exact="migration" post="speeds on soft substrates. Our proposed model is a"/>
+  <result pre="the analysis tractable, we have assumed that the single cell" exact="migration" post="takes place on a 1D ECM, and that each"/>
+  <result pre="predictions, but rather to investigate the qualitative aspects of cell" exact="migration" post="on an elastic substrate. It shows that the assumption"/>
+  <result pre="explain the durotactic motion, or the impact of stiffness on" exact="migration" post="speed. In particular, to observe any significant amount of"/>
+  <result pre="mechanisms driving durotaxis. The influence of ECM deformations on cell" exact="migration" post="has been modeled previously in Escribano et al. (2018),"/>
+  <result pre="result in new results. In particular, when modeling collective cell" exact="migration" post="where multiple cells are seeded onto the same substrate,"/>
+  <result pre="Conflict of interest The authors declare that they have no" exact="conflict" post="of interest. References References AlbertsBMolecular biology of the cell2017New"/>
+  <result pre="cell2017New YorkGarland Science AllenaRacheleSciannaMarcoPreziosiLuigiA cellular potts model of single cell" exact="migration" post="in presence of durotaxisMath Biosci2016275577026968932 CalifanoJoseph PReinhart-KingCynthia ASubstrate stiffness"/>
+  <result pre="switching termsMath Biosci201324611724060706 DallonJCMatthewScottSmithWVA force based model of individual cell" exact="migration" post="with discrete attachment sites and random switching termsJ Biomech"/>
+  <result pre="durotaxis depends on substrate stiffness gradient strengthBiophys J20099751313132219720019 JoaquinDanielleGrigolaMichaelKwonGubeumBlasiusChristopherHanYutaoPerlitzDanielJiangJingZieglerYvonneNardulliAnnHsiaK JimmyCell" exact="migration" post="and organization in three-dimensional in vitro culture driven by"/>
+  <result pre="dynamics, cytoskeleton remodeling, and actin motor activity for predicting cell" exact="migration" post="on 3d curved surfaces of the extracellular matrixIntegr Biol201241113861397"/>
+  <result pre="generic, directed motility in rigidity gradientsPhys Rev Lett2017118707810328256894 PainterKJModelling cell" exact="migration" post="strategies in the extracellular matrixJ Math Biol2009584–551118787826 ParkinJacquelineCohenBryonyAn overview"/>
+  <result pre="of the immune systemThe Lancet2001357927017771789 PathakAmitKumarSanjayIndependent regulation of tumor cell" exact="migration" post="by matrix stiffness and confinementProc Natl Acad Sci201210926103341033922689955 ReddyJunuthula"/>
+  <result pre="invading: their strategy for enhanced cell motilityTrends Cell Biol200515313814515752977 YamaguchiHidekiWyckoffJeffreyCondeelisJohnCell" exact="migration" post="in tumorsCurr Opin Cell Biol200517555956416098726 ZamanMuhammad HTrapaniLinda MSieminskiAlisha LMacKellarDrewGongHaiyanKammRoger"/>
+ </snippets>
+</snippetsTree>

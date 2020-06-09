@@ -1,0 +1,825 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> <head> <style type="text/css">
+      	     		 
+      	    a                          {background : #ffffff; }
+      	    article                    {border-style : dotted; border-width : 2px; }
+		 	
+		 	div                        {background : #ffffcc;}
+		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+		 	div.ack                    {border-style : solid ; border-color : red; margin : 2em; }
+		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.boxed-text             {margin : 5em; border-style : solid;}
+		 	div.contrib-group          {margin : 1em; }
+		 	div.fig                    {border-style : solid; border-width : 2px; margin : 2em; }
+		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+		 	div.given-names            {font-style : italic;}
+		 	div.intro                  {border-style : inset; margin : 5px;}
+		 	div.introduction           {border-style : inset; margin : 5px;}
+		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.journal-title-group    {background : #ffeeee;}
+		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+		 	div.kwd                    {font-style : italic}
+		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+		 	div.name                   {font-weight : bold;}
+		 	div.alt-title              {font-style : italic; font-size : 12px;}
+		 	
+		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+		 	div.title                  {font-family : courier; font-weight : bold;
+		 	                            font-size : 16pt; margin : 5px;}
+		 	
+		 	div.materials_methods      {border-style : double; margin : 5px; }
+		 	div.methods                {border-style : double; margin : 5px; }
+		 	
+		 	div.results                {border-style : solid; margin : 5px;}
+		 	div.background             {border-style : dotted; margin : 5px;}
+		 	
+		 	div.discussion             {border-style : groove; margin : 5px;}
+		 	div.conclusion             {border-style : ridge; margin : 5px;}
+		 	div.conclusions             {border-style : ridge; margin : 5px;}
+		 	div.supplementary-material {border-style : inset; margin : 5px;}
+		 	div.abbreviations          {border-style : double; border-color : red; margin : 5px;}
+		 	div.competinginterests     {border-style : double; border-color : blue; margin : 5px;}
+		 	div.acknowledgements       {border-style : double; border-color : green; margin : 5px;}
+		 	div.authors_contributions   {border-style : double; border-color : purple; margin : 5px;}
+		 	
+		 	div.publisher              {border-style : outset; margin : 5px;}
+		 	div.fn-type-conflict       {background : #f88; }
+		 	div.fn-type-con            {background : #ddf; }
+		 	div.fn-type-other          {background : #ddd; }
+		 	
+		 	div.unknown                {background : #ffd;
+									 	  border-style : solid;
+									 	  border-width : 1px;
+									 	  padding : 2 px;}
+		 	  
+      	    table                      {background : #ffffdd;}
+		 	tr                         {background : #ddddff; padding : 1px;}
+		 	
+		 	span                       {background : #ffcccc;}
+		 	
+		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+		 	span.collab                {background : #ddffff; }
+		 	span.comment               {font-family : courier; font-size : 6px; background : #ffaaff;}
+		 	span.contrib               {background : #ffffff;}
+		 	span.corresp               {background : #ddffdd; }
+		 	span.doi                   {background : #ffffff;}
+		 	span.email                 {font-family : courier; }
+		 	span.etal                  {font-style : italic;}
+		 	span.fpage                 {font-family : courier;}
+		 	span.given-names           {background : #ffffff;}
+		 	span.iso-abbrev            {background : #ffffff;}
+		 	span.issn-epub             {background : #ffffff;}
+		 	span.issn-ppub             {background : #ffffff;}
+		 	span.journal-title         {background : #ffffff;}
+		 	span.lpage                 {font-family : courier;}
+		 	span.mixed-article-title   {font-style : italic ;}
+		 	span.nlm-ta                {background : #ffffff;}
+		 	span.pmc                   {background : #ffffff;}
+		 	span.pmcid                 {background : #ffffff;}
+		 	span.pmid                  {background : #ffffff;}
+		 	span.publisher             {background : #ffffff;}
+		 	span.publisher-id          {background : #ffffff;}
+		 	span.publisher-name        {background : #ffffff;}
+		 	span.source                {background : #ffffff;}
+		 	span.subject               {background : #ffffff;}
+		 	span.surname               {background : #ffffff;}
+		 	span.volume                {font-family : courier; font-weight : bold;}
+		 	span.year                  {font-family : courier ; font-style : italic;}
+			</style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"><span class="nlm-ta" title="nlm-ta">J Monet Econ</span><span class="iso-abbrev" title="iso-abbrev">J Monet Econ</span><div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"><span class="journal-title" tagx="journal-title" title="journal-title">Journal of Monetary Economics</span></div><span class="issn-ppub" tagx="issn" title="issn-ppub">0304-3932</span><span class="issn-epub" tagx="issn" title="issn-epub">1873-1295</span><div class="publisher" tagx="publisher" title="publisher"><span class="publisher-name" tagx="publisher-name" title="publisher-name">Published by Elsevier B.V.</span></div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"><span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/7251997">7251997</a></span><span class="publisher-id" title="publisher-id">S0304-3932(20)30058-1</span><span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.1016/j.jmoneco.2020.04.011">10.1016/j.jmoneco.2020.04.011</a></span><div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Article</span></div> <div class="title-group"> <div class="article-title" title="article-title">
+"Migration and sovereign default risk" a comment</div> </div> <div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guerron-Quintana</span><span class="given-names" tagx="given-names" title="given-names">Pablo A.</span></span><span class="email" tagx="email" title="email">pguerron@gmail.com</span><a href="#fn0001">1</a></span><span class="citation_author_institution" id="aff0001">[], </span></div> <div class="author-notes" title="author-notes"> <div class="fn-type-" title=""><span class="label" tagx="label" title="label">1</span><p id="fn1">I thank Grey Gordon for countless hours discussing and studying the role of migration and capital in sovereign default. My discussion benefited significantly from his input. All errors and omissions are my own.</p> </div> </div><span class="pub-date-pmc-release" title="pub-date-pmc-release">pmc-release: <span>2020-5-5</span></span><span class="pub-date-epub" title="pub-date-epub">epub: <span>2020-5-5</span></span><span class="history" title="history"><span class="received" title="received">received: 2020-4-27</span><span class="accepted" title="accepted">accepted: 2020-4-28</span></span><div class="permissions"><span class="copyright" title="copyright">(C) <span class="copyright-holder" tagx="copyright-holder" title="copyright-holder" />, <span class="copyright-year" tagx="copyright-year" title="copyright-year">2020</span></span><span class="license" title="license"><span class="license-p" title="license-p">Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID-19. The COVID-19 resource centre is hosted on Elsevier Connect, the company's public news and information website. Elsevier hereby grants permission to make all its COVID-19-related research that is available on the COVID-19 resource centre - including this research content - immediately available in PubMed Central and other publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.</span></span></div> </div> </div> <div class="body" title="body"> <div class="overview" title="sec"><span class="label" tagx="label" title="label">1</span><div class="title" tagx="title" title="title">
+Overview</div> <p id="p0001"><a href="#bib0001">Alessandria et al. (2020)</a> (ABD henceforth) study the interconnection between migration and sovereign default in the Euro Area. Empirically, the authors use data from Spain, Ireland, Portugal, and Greece before, during, and after the Great Recession. ABD document that the decline in economic activity experienced by those countries in 2008 coincided with an increase in the sovereign debt spreads and a reversal in the flow of capital and workers. More pointedly, the paper reports a strong negative correlation between sovereign spreads and net migration (the difference between immigration and emigration flows). For example, net migration in Portugal contracted from 0.1% in 2008 to about -0.4% in 2012. During the same period, Portugal’s government bond spreads jumped by 10 percentage points.</p> <p id="p0002">The same empirical message emerges from a panel regression exercise using 23 European countries. For the period 2008 - 2016, ABD find that net migration displays a positive correlation with economic activity but a negative correlation with sovereign spreads and unemployment. Importantly, the authors show that these correlations are robust to several controls.</p> <p id="p0003">Motivated by these empirical findings, ABD propose a sovereign default model featuring: 1) a production function that uses labor and capital; and, crucially, 2) the factors of production can freely move in and out of the small open economy. These features have been considered separately in the literature. For example, <a href="#bib0005">Gordon and Guerron-Quintana (2018)</a> introduce labor and capital in an otherwise standard default model. They report that higher capital leads to a decline in sovereign spreads. Regarding labor mobility, <a href="#bib0006">Mandelman and Zlate (2012)</a> report that immigration to the U.S. from Mexico is positively correlated with future wage gains. Furthermore, <a href="#bib0004">Gordon and Guerron-Quintana (2019)</a> study the impact of migration on the borrowing decisions of cities in the United States.</p> <p id="p0004">ABD’s model is calibrated to match salient moments in Spanish data such as the volatility of GDP, the average and volatility of spreads, and, importantly, the average and volatility of the net migration rate in Spain. The model does reasonably well matching other moments. However, it must be noticed that ABD’s benchmark model induces excess smoothness in consumption when compared to the data.<a href="#fn0002">2</a></p> <p id="p0005">The main takeaways from the model can be summarized as follows. First, the migration channel explains about 60% of the observed spreads. Furthermore, the trade balance and investment become less volatile when the model has no migration. Second, from a worker’s point of view, it is always better to have the option to migrate. Third, following an adverse productivity shock, GDP per capita drops by an additional percentage point in the model featuring migration. Fourth, even ten years after the shock, the economy has not recovered, which is consistent with the Spanish experience surrounding the debt crisis in the 2010s. In the model, the long lasting recession results from the slow adjustment of population and physical capital. As stressed in <a href="#bib0003">Gordon and Guerron-Quintana (2017)</a> and <a href="#bib0005">Gordon and Guerron-Quintana (2018)</a>, capital plays a critical role in generating prolonged slumps and asymmetric (negatively skewed) business cycles in emerging economies.</p> <p id="p0006">The rest of the discussion proceeds as follows. <a href="#sec0002">Section 2</a> uses a simple model to highlight the role of migration in sovereign borrowing decisions. In <a href="#sec0003">Section 3</a>, I argue that there is an even more worrisome problem lurking sovereign entities: unfunded pension liabilities. The final section provides some remarks.</p> </div> <div class="understandingmigrationandborrowing" title="sec"><span class="label" tagx="label" title="label">2</span><div class="title" tagx="title" title="title">
+Understanding migration and borrowing</div> <p id="p0007">To grasp the impact of migration on borrowing decisions, suppose an economy comprised of a unit measure of islands and a unit measure of households.<a href="#fn0003">3</a> Consider an arbitrary island. In the first (second) period, the island has a per person deterministic endowment of <i>y</i><sub>1</sub> (<i>y</i><sub>2</sub>). The local government issues <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> </div></div></span> debt per person (<i>b</i><sub>2</sub> &amp;gt; 0 means assets) at price <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mo_UNKNOWN">
+¯</div> </div></div></span>. Hence, total debt issuance is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> where <i>n</i><sub>1</sub> is the initial measure of households on the island. At the beginning of the second period, households draw an idiosyncratic utility cost of moving <i>ϕ</i> ∼ <i>F</i>(<i>ϕ</i>) and then decide whether to migrate. If they migrate, they pay <i>ϕ</i> and obtain expected utility <i>J</i>, which is an equilibrium object.</p> <p id="p0008">Households value consumption according to <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+u</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> where <i>c</i><sub>1</sub> (<i>c</i><sub>2</sub>) is consumption in the first (second) period. Household utility in the second period is <i>u</i>(<i>c</i><sub>2</sub>) if they stay and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+ϕ</div> </div></div></span> if they move, so migration decisions follow a cutoff rule in <i>ϕ</i> with indifference at <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> </div></div></span>. Consequently, the outflow rate is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+J</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+u</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div></span>. The inflow rate is given by <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+¯</div> </div> <div class="mi_UNKNOWN">
+I</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+u</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> where <b>I</b> is a differentiable, increasing function and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+¯</div> </div></div></span> is an equilibrium object that ensures aggregate inflows equal aggregate outflows. (As a result, inflows can depend on the distribution of utility across islands, but that information must be summarized in <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+¯</div> </div></div></span>.) The population law of motion is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>. Furthermore, let’s assume that the migration decision is noisy in the sense that <i>F</i>(0) &amp;gt; 0, so that some people will move even if <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+J</div> </div></div></span>.</p> <p id="p0009">After all migration has taken place, the government pays back its total obligation, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> by taxing the <i>n</i><sub>2</sub> households lump sum. Consequently, per person consumption in the second period is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> </div></div></span>. Proposition 1 in <a href="#bib0004">Gordon and Guerron-Quintana (2019)</a> shows that the <i>local government’s Euler equation for borrowing is</i></p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(1)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mo_UNKNOWN">
+¯</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+β</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div> <p /> <p id="p0010">The Euler equation reflects two competing forces. One is an externality seen in the term <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mo_UNKNOWN">
+≤</div> <div class="mn_UNKNOWN">
+1</div> </div></div></span>. Because the planner does not value the utility of future immigrants and because they bear <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span> of the debt burden (which is their share of the second period population), the marginal cost associated with an additional unit of debt is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div></div></span> or <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span>. Everything else equal, higher in-migration lowers the effective discount factor (<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div></div></span>) and increases borrowing.</p> <p id="p0011">The other force, seen in the term <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> shows that for each migrant attracted to the island through less borrowing, the overall debt burden per person falls. (Conversely, if <i>b</i><sub>2</sub> &amp;gt; 0, each additional entrant reduces assets per person, which discourages savings.) Hence, a forward looking government, internalizing the effects of city finances on migration decisions, should exercise more financial discipline all else equal to attract migrants to the island to reduce debt per person.</p> <p id="p0012">It is straightforward to show that optimal choices by a benevolent planner who maximizes the utility of individuals in <i>all islands</i> require that marginal rates of substitution must be equated across individuals, i.e., <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+β</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+j</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+j</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div></span> for almost all <i>i, j</i>. It is easy to show these must also equal <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mo_UNKNOWN">
+¯</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> i.e., </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(2)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mo_UNKNOWN">
+¯</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+β</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div></div>for almost all <i>i</i>. In comparing <a href="#eq0002">(2)</a> with the local government’s Euler <a href="#eq0001">Eq. (1)</a>, it is clear that <i>overborrowing</i> will occur if the optimal bond choice <i>b</i><sub>2</sub> is close to zero. In that case, the incentive to attract people—reflected in the term <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div></div></span>—is close to zero, while the externality of new migrants shouldering the burden—reflected in <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+o</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span>—is not. This excessive borrowing may translate into higher spreads. Under these circumstances, an adverse productivity shock in the second period may trigger default, reduce the attractiveness of the island (lower <i>u</i>(<i>c</i><sub>2</sub>)), and hence, a reversal in population flows.<p /> </div> <div class="theelephantintheroom:unfundedpensionliabilities" title="sec"><span class="label" tagx="label" title="label">3</span><div class="title" tagx="title" title="title">
+The elephant in the room: unfunded pension liabilities</div> <p id="p0013">Sovereign debt is only one of the financial burdens that countries, states, provinces, and cities are facing. This section uses data from cities in the United States to show that unfunded pension liabilities are also a significant financial problem.<a href="#fn0004">4</a></p> <div class="someevidence" title="sec"><span class="label" tagx="label" title="label">3.1</span><div class="title" tagx="title" title="title">
+Some evidence</div> <p id="p0014">According to <a href="#bib0007">Rauh (2017)</a>, the total amount of unfunded liabilities for all government-sponsored programs, cities, and states was $3.8 trillion in 2017. This is about 1/6th of the U.S. GDP in that year. <a href="#bib0007">Rauh (2017)</a> also shows that the public pension (retirement) systems in Chicago have the worst unfunded liabilities among the largest pension systems in the country. In contrast, San Francisco’s pensions are among the best funded.</p> <p id="p0015"><a href="#fig0001">Fig. 1</a> displays the pension plan’s assets as a percent of liabilities (funded ratio) and the unfunded liabilities for Chicago and San Francisco over the last 17 years. Either measure confirms that the pensions system for San Francisco’s municipal employees is much better funded than that for municipal workers in Chicago. Indeed, San Francisco’s plan had more assets than accrued liabilities before the Great Recession (hence the negative values in the bottom panel in <a href="#fig0001">Fig. 1</a>). In contrast, Chicago’s pension plan started the 2000s with an almost balanced system. Since then it has consistently deteriorated with less than 30% of accrued liabilities being funded by 2018 (San Francisco’s funding ratio is 90% for the same year). </p><div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Fig. 1</span></a></div>   <p>Case studies – Chicago and San Francisco. Note: Funded ratio corresponds to the pension’s assets as a percent of liabilities. Unfunded liabilities are unfunded actuarial accrued liability ($ billions) on an actuarial value basis. Taken from the cities’ Comprehensive Annual Financial Reports.</p>   </div> <p /> <p id="p0016"><a href="#fig0001">Fig. 1</a> also shows that the pension plans were severely affected during and after the financial crisis of 2008–2009. For example, the San Francisco’s funding ratio dropped by 200 basis points between 2008 and 2012. Chicago’s unfunded liabilities doubled during the same period. A stark contrast between these two cities is that San Francisco has been able to stabilize its pension system whereas Chicago’s pension has continued deteriorating in recent years. But even for San Francisco, it is clear that its pension system is in worse shape than at the turn of this century.</p> </div> <div class="astylizedmodel" title="sec"><span class="label" tagx="label" title="label">3.2</span><div class="title" tagx="title" title="title">
+A stylized model</div> <p id="p0017">To highlight the role of pensions in the finances of a sovereign entity (city, state, or country), consider once again an island economy. In each period, two generations coexist in the economy: young and old. For simplicity, assume there is no population growth and that individuals have access to a pay-as-you-go (PAYG) pension system but not to financial markets. The young generation gets an endowment <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> pays a proportional tax <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> and faces the budget constraint<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></span> From the young generation’s perspective, fiscal policy consists on taxes paid today <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div></div></span> and a promised pension tomorrow <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div></div></span>.</p> <p id="p0018">The old generation receives a transfer (pension) from the government so its consumption is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> </div></div></span>. There is a local planner that taxes the young, makes transfers to the old, and sells debt to foreigners. It does so to maximize utility <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> </div></div></span> subject to the households’ budget constraints and its own budget constraint <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></span> Here, <i>q<sub>t</sub></i> is the price of debt issued today <i>B<sub>t</sub></i>.</p> <p id="p0019">If the planner chooses to default on foreigners, the small open economy goes to autarky. Under this scenario, the planner’s budget constraint imposes: </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div>If we consider that <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div></div></span> is a non-defaultable promise (pension) made to the old when it was young, the planner is forced to tax the current young generation to make up for the lost funds from abroad.<p /> <p id="p0020">In contrast, if the planner agrees to repaid its outstanding debt, taxes levied on the young are </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div>From the planner’s point of view, total liabilities today are <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+B</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div></div></span>. This means that past pension promises become a state variable today. Let <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mi_UNKNOWN">
+d</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+B</div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+B</div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div></span> denote the planner’s utility from default and good standing, respectively. The conditioning |<i>d</i> refers to choices made under default whereas the conditioning |<i>nd</i> corresponds to those choices made when in good standing.<p /> <p id="p0021">With full commitment to the old generation, it is optimal to default on foreign creditors if </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+≥</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div>That is, <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+≥</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div>If the young generation is promised the same future pension regardless of the state of the economy (<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+=</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+|</div> </div> <div class="mi_UNKNOWN">
+d</div> </div></div></span>), then default is optimal when <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+≤</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+|</div> </div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> </div></div></span>. That is, the planner defaults if repaying debt imposes a high tax bill on the young generation. Note that the equilibrium is indeterminate since promised pensions are not settled. One potential solution is to promise a pension that leaves the young indifferent between the two stages of life. That is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+β</div> <div class="mi_UNKNOWN">
+log</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div></span>.<a href="#fn0005">5</a> This requires a pension in the amount <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+o</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+[</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+]</div> </div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+β</div> </div> </div> <div class="mo_UNKNOWN">
+.</div> </div></div></div>Under this pension agreement, the condition to default is the same as before: <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mi_UNKNOWN">
+d</div> <div class="mo_UNKNOWN">
+≤</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> <div class="mo_UNKNOWN">
+|</div> </div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+d</div> </div></div></span>. Since <i>T<sup>o</sup></i> is a state variable, pension promises do affect the price of debt today. Higher <i>T<sup>o</sup></i> will require issuing more debt tomorrow, making harder to repay.<p /> <p id="p0022"><b>Conjecture</b>: The price of sovereign debt, <i>q<sub>t</sub></i>, is weakly decreasing in promised pensions to the old, <i>T<sup>o</sup></i>. The intuition is straightforward. As <i>T<sup>o</sup></i> increases, the young generation is taxed at higher rates. In exchange, fiscal policy promises a higher pension tomorrow, which will complicate repayment next period. Alternatively, high <i>T<sup>o</sup></i> can be financed with more debt today. Either way the price of debt is lower.</p> <p id="p0023">From the simple model discussed here, it is clear that public pension systems considerably complicate the finances of sovereign economies. Furthermore, the conjecture on the price of debt suggests that moving forward underfunded pensions systems will likely increase the probability of default by small open economies.</p> </div> </div> <div class="finalremarks" title="sec"><span class="label" tagx="label" title="label">4</span><div class="title" tagx="title" title="title">
+Final remarks</div> <p id="p0024">The results in ABD show that migration brings upon financing challenges on countries. However, migration provides an important adjustment channel during adverse times. Namely, it allows people to reallocate from areas of low productivity to those with high productivity. This is easily seen in the immigration and emigration flows experienced by Spain before and after the 2008 crisis. <a href="#bib0004">Gordon and Guerron-Quintana (2019)</a> report an extreme scenario in which migration across cities in the United States comes to a halt. Their simulations suggest that in the absence of migration GDP per capita would drop by as much as 30% compared with the case in which people freely move in the country.</p> <p id="p0025">Until recently, migration within and across countries (specially within the European Union) was fluid. It remains to be seen how the current Covid-19 medical crisis will affect 1) future migration patterns; and 2) public finances in economically fragile sovereign entities.</p> </div> </div> <div class="back" title="back"> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+References</div> <li tag="ref"><a name="bib0001" /><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Alessandria</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bai</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ding</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span></span><span class="chapter-title" tagx="chapter-title" title="chapter-title">Migration and Sovereign Default Risk</span><span class="source" tagx="source" title="source">Forthcoming Journal of Monetary Economics</span><span class="year" tagx="year" title="year">2020</span></span></li> <li tag="ref"><a name="bib0002" /><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Diamond</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Macroeconomic aspects of social security reform</span><span class="source" tagx="source" title="source">Brookings Pap. Econ. Act.</span><span class="issue" tagx="issue" title="issue">2</span><span class="year" tagx="year" title="year">1997</span><span class="fpage" tagx="fpage" title="fpage">1</span><span class="lpage" tagx="lpage" title="lpage">87</span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/12321914">12321914</a></span></span></li> <li tag="ref"><a name="bib0003" /><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gordon</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guerron-Quintana</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Asymmetric business cycles and sovereign default</span><span class="source" tagx="source" title="source">Econ. Lett.</span><span class="volume" tagx="volume" title="volume">161</span><span class="year" tagx="year" title="year">2017</span><span class="fpage" tagx="fpage" title="fpage">1047</span><span class="lpage" tagx="lpage" title="lpage">1074</span></span></li> <li tag="ref"><a name="bib0004" /><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gordon</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guerron-Quintana</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span></span><span class="chapter-title" tagx="chapter-title" title="chapter-title">On Regional Borrowing, Default, and Migration</span><span class="source" tagx="source" title="source">Technical Report</span><span class="year" tagx="year" title="year">2019</span><span class="publisher-name" tagx="publisher-name" title="publisher-name">Federal Reserve Bank of Richmond</span></span></li> <li tag="ref"><a name="bib0005" /><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gordon</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guerron-Quintana</span><span class="given-names" tagx="given-names" title="given-names">P.A.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Dynamics of investment, debt, and default</span><span class="source" tagx="source" title="source">Rev. Econ. Dyn.</span><span class="volume" tagx="volume" title="volume">28</span><span class="year" tagx="year" title="year">2018</span><span class="fpage" tagx="fpage" title="fpage">71</span><span class="lpage" tagx="lpage" title="lpage">95</span><span class="pub-id"><a href="https://dx.doi.org/10.1016/j.red.2017.07.007">10.1016/j.red.2017.07.007</a></span></span></li> <li tag="ref"><a name="bib0006" /><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mandelman</span><span class="given-names" tagx="given-names" title="given-names">F.S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zlate</span><span class="given-names" tagx="given-names" title="given-names">A.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Immigration, remittances and business cycles</span><span class="source" tagx="source" title="source">J. Monet. Econ.</span><span class="volume" tagx="volume" title="volume">59</span><span class="issue" tagx="issue" title="issue">2</span><span class="year" tagx="year" title="year">2012</span><span class="fpage" tagx="fpage" title="fpage">196</span><span class="lpage" tagx="lpage" title="lpage">213</span><span class="pub-id"><a href="https://dx.doi.org/10.1016/j.jmoneco.2012.01.004">10.1016/j.jmoneco.2012.01.004</a></span></span></li> <li tag="ref"><a name="bib0007" /><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rauh</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Hidden debt, hidden deficits: 2017 edition</span><span class="source" tagx="source" title="source">Hoover Instit. Essay</span><span class="year" tagx="year" title="year">2017</span><span class="fpage" tagx="fpage" title="fpage">1:32</span></span><span class="note" tagx="note" title="note"> <p><a href="https://www.hoover.org/sites/default/files/research/docs/rauh_hiddendebt2017_final_webreadypdf1.pdf">https://www.hoover.org/sites/default/files/research/docs/rauh_hiddendebt2017_final_webreadypdf1.pdf</a></p></span></li> </ul> </div> <div class="fn-group" title="fn-group"> <div class="fn-type-" title=""><span class="label" tagx="label" title="label">2</span><p id="notep0001"><a href="#bib0005">Gordon and Guerron-Quintana (2018)</a> argue that this smoothness results from the presence of capital in the model. This result is also present in ABD’s model as shown by the column "No capital" in Table 3.</p> </div> <div class="fn-type-" title=""><span class="label" tagx="label" title="label">3</span><p id="notep0002">This section relies heavily on the material presented in <a href="#bib0004">Gordon and Guerron-Quintana (2019)</a>.</p> </div> <div class="fn-type-" title=""><span class="label" tagx="label" title="label">4</span><p id="notep0003">Unfunded pension liabilities refer to the portion of promises made to public workers such as teachers, police, and fire workers that are not backed by financial assets.</p> </div> <div class="fn-type-" title=""><span class="label" tagx="label" title="label">5</span><p id="notep0004"><a href="#bib0002">Diamond (1997)</a> sets the pension at <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+y</div> </div> </div></div></span>. That is, a fraction of the taxable income.</p> </div> </div> </div>  </body></html>

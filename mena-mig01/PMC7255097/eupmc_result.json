@@ -1,0 +1,273 @@
+{
+  "id": [
+    "PMC7255097"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7255097"
+  ],
+  "doi": [
+    "10.1016/j.emj.2020.05.002"
+  ],
+  "title": [
+    "Service improvement in public sector operations – A European comparative analysis."
+  ],
+  "authorString": [
+    "Breen L, Hannibal C, Huatuco LH, Dehe B, Xie Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Breen L"
+          ],
+          "firstName": [
+            "Liz"
+          ],
+          "lastName": [
+            "Breen"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Hannibal C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Hannibal"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Huatuco LH"
+          ],
+          "firstName": [
+            "Luisa Huaccho"
+          ],
+          "lastName": [
+            "Huatuco"
+          ],
+          "initials": [
+            "LH"
+          ]
+        },
+        {
+          "fullName": [
+            "Dehe B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Dehe"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Xie Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "Y"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "2959982"
+      ],
+      "dateOfPublication": [
+        "2020 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European Management Journal"
+          ],
+          "ISSN": [
+            "0263-2373"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "489-491"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7255097/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7255097"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.emj.2020.05.002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-30"
+  ],
+  "firstIndexDate": [
+    "2020-05-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-30"
+  ],
+  "dateOfRevision": [
+    "2020-05-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-28"
+  ],
+  "firstPublicationDate": [
+    "2020-05-28"
+  ]
+}

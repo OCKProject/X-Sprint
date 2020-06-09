@@ -1,0 +1,803 @@
+{
+  "id": [
+    "29211032"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29211032"
+  ],
+  "pmcid": [
+    "PMC5748778"
+  ],
+  "doi": [
+    "10.3390/nu9121328"
+  ],
+  "title": [
+    "Bioavailability of Bergamot (Citrus bergamia) Flavanones and Biological Activity of Their Circulating Metabolites in Human Pro-Angiogenic Cells."
+  ],
+  "authorString": [
+    "Spigoni V, Mena P, Fantuzzi F, Tassotti M, Brighenti F, Bonadonna RC, Del Rio D, Dei Cas A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Spigoni V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Spigoni"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine and Surgery, University of Parma, 43126 Parma, Italy. valentina.spigoni@unipr.it."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena P"
+          ],
+          "firstName": [
+            "Pedro"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2150-2977",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Laboratory of Phytochemicals in Physiology, Department of Food & Drugs, University of Parma, 43125 Parma, Italy. pedromiguel.menaparreno@unipr.it."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fantuzzi F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Fantuzzi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3202-3947",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine and Surgery, University of Parma, 43126 Parma, Italy. federica.fantuzzi1@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tassotti M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Tassotti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Laboratory of Phytochemicals in Physiology, Department of Food & Drugs, University of Parma, 43125 Parma, Italy. michele.tassotti@studenti.unipr.it."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Brighenti F"
+          ],
+          "firstName": [
+            "Furio"
+          ],
+          "lastName": [
+            "Brighenti"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Laboratory of Phytochemicals in Physiology, Department of Food & Drugs, University of Parma, 43125 Parma, Italy. furio.brighenti@unipr.it."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bonadonna RC"
+          ],
+          "firstName": [
+            "Riccardo C"
+          ],
+          "lastName": [
+            "Bonadonna"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine and Surgery, University of Parma, 43126 Parma, Italy. riccardo.bonadonna@unipr.it.",
+                "Division of Endocrinology and Metabolic Diseases, Azienda Ospedaliero-Universitaria of Parma, 43126 Parma, Italy. riccardo.bonadonna@unipr.it."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Del Rio D"
+          ],
+          "firstName": [
+            "Daniele"
+          ],
+          "lastName": [
+            "Del Rio"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5394-1259",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Laboratory of Phytochemicals in Physiology, Department of Food & Drugs, University of Parma, 43125 Parma, Italy. daniele.delrio@unipr.it."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dei Cas A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Dei Cas"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine and Surgery, University of Parma, 43126 Parma, Italy. alessandra.deicas@unipr.it.",
+                "Division of Endocrinology and Metabolic Diseases, Azienda Ospedaliero-Universitaria of Parma, 43126 Parma, Italy. alessandra.deicas@unipr.it."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2150-2977",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3202-3947",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5394-1259",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2624002"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Myeloid angiogenic cells (MACs) play a key role in endothelial repairing processes and functionality but their activity may be impaired by the lipotoxic effects of some molecules like stearic acid (SA). Among the dietary components potentially able to modulate endothelial function in vivo, (poly)phenolic compounds represent serious candidates. Here, we apply a comprehensive multidisciplinary approach to shed light on the prospects of Bergamot (Citrus bergamia), a citrus fruit rich in flavanones and other phenolic compounds, in the framework of lipotoxicity-induced MACs impairment. The flavanone profile of bergamot juice was characterized and 16 compounds were identified, with a new 3-hydroxy-3-methylglutaryl (HMG) flavanone, isosakuranetin-7-O-neohesperidoside-6″-O-HMG, described for the first time. Then, a pilot bioavailability study was conducted in healthy volunteers to assess the circulating flavanone metabolites in plasma and urine after consumption of bergamot juice. Up to 12 flavanone phase II conjugates (sulfates and glucuronides of hesperetin, naringenin and eriodyctiol) were detected and quantified. Finally, the effect of some of the metabolites identified in vivo, namely hesperetin-7-O-glucuronide, hesperetin-3'-O-glucuronide, naringenin-7-O-glucuronide and naringenin-4'-O-glucuronide, was tested, at physiological concentrations, on gene expression of inflammatory markers and apoptosis in MACs exposed to SA. Under these conditions, naringenin-4'-O-glucuronide and hesperetin-7-O-glucuronide were able to modulate inflammation, while no flavanone glucuronide was effective in curbing stearate-induced lipoapoptosis. These results demonstrate that some flavanone metabolites, derived from the in vivo transformation of bergamot juice phenolics in humans, may mitigate stearate-induced inflammation in MACs."
+  ],
+  "affiliation": [
+    "Department of Medicine and Surgery, University of Parma, 43126 Parma, Italy. valentina.spigoni@unipr.it."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cells, Cultured"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myeloid Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Citrus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenols"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UR"
+                  ],
+                  "qualifierName": [
+                    "urine"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flavanones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PK"
+                  ],
+                  "qualifierName": [
+                    "pharmacokinetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatography, Liquid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Structure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Availability"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neovascularization, Physiologic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mass Spectrometry"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phenolic compounds",
+        "Inflammation",
+        "hesperetin",
+        "endothelial dysfunction",
+        "bergamot",
+        "Citrus Fruits",
+        "Lipotoxicity",
+        "naringenin",
+        "Myeloid Angiogenic Cells",
+        "Conjugated Phase Ii Metabolites"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Phenols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Flavanones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu9121328"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5748778"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5748778?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu9121328"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-07-26"
+  ],
+  "dateOfCreation": [
+    "2017-12-07"
+  ],
+  "firstIndexDate": [
+    "2017-12-07"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-09"
+  ],
+  "dateOfRevision": [
+    "2018-07-26"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-06"
+  ],
+  "firstPublicationDate": [
+    "2017-12-06"
+  ]
+}

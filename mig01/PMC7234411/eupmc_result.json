@@ -1,0 +1,304 @@
+{
+  "id": [
+    "PMC7234411"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7234411"
+  ],
+  "doi": [
+    "10.1093/schbul/sbaa031.251"
+  ],
+  "title": [
+    "S185. IMPACT OF GENETIC LIABILITY TO SCHIZOPHRENIA ON IMPAIRED MIGRATION OF AUTOLOGOUS INDUCED NEURAL STEM CELLS."
+  ],
+  "authorString": [
+    "Lee J, Song S, Young Lee T, Chang M, Soo Kwon J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee J"
+          ],
+          "firstName": [
+            "Junhee"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Seoul National University College of Medicine"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song S"
+          ],
+          "firstName": [
+            "Sehyeon"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Young Lee T"
+          ],
+          "firstName": [
+            "Tae"
+          ],
+          "lastName": [
+            "Young Lee"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Chang M"
+          ],
+          "firstName": [
+            "Mi-Sook"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Soo Kwon J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Soo Kwon"
+          ],
+          "initials": [
+            "J"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "46"
+      ],
+      "journalIssueId": [
+        "2958596"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Schizophrenia bulletin"
+          ],
+          "ISOAbbreviation": [
+            "Schizophr Bull"
+          ],
+          "medlineAbbreviation": [
+            "Schizophr Bull"
+          ],
+          "NLMid": [
+            "0236760"
+          ],
+          "ISSN": [
+            "1787-9965"
+          ],
+          "ESSN": [
+            "1745-1701"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "S108-S109"
+  ],
+  "abstractText": [
+    "AbstractBackgroundSince previous studies which presented the direct evidences of neurodevelopmental abnormality in schizophrenia using stem cell techniques, recent studies have demonstrated that induced neural stem cells (iNSCs) derived from patients with schizophrenia resembling their fetal brain tissue indeed shows aberrant migration and maintains the gene signature. However, the origin and nature of these abnormalities remain unresolved and no study examined unaffected individuals (UIs) with multiple relatives with schizophrenia.MethodsThree patients diagnosed as schizophrenia (SZs), 3 UIs who has multiple relatives diagnosed as schizophrenia including at least one first-degree relative, and 3 healthy controls (HCs), all males, were recruited from Seoul National University Hospital (SNUH), Korea. iNSCs were generated from human adipose-derived stem cells (hADSCs) using small molecule-based lineage switch technique. The NSC marker expressions in iNSCs were analysed by real-time polymerase chain reaction (qPCR). The migration of iNSCs was analysed by CytoSelect 96-well cell migration assay.ResultsDemographic characteristics were not significantly different among the groups. Level of functioning was significantly lower in SZs. Either mRNA levels of NSC markers or NCAM protein levels were not significantly different among the groups. Doubling time among the groups were not significantly different. Migration capability of iNSCs from not only SZs, but also UIs were significantly smaller than HCs.DiscussionWe report a novel finding of defective ability of the iNSCs of UIs to reach the target along with those of SZs which is the first explicit demonstration of the postulation that neurodevelopmental abnormality might be present in UIs, using iNSCs directly derived from living subjects."
+  ],
+  "affiliation": [
+    "Seoul National University College of Medicine"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7234411/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7234411"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/schbul/sbaa031.251"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-25"
+  ],
+  "firstIndexDate": [
+    "2020-05-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-25"
+  ],
+  "dateOfRevision": [
+    "2020-05-25"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-18"
+  ],
+  "firstPublicationDate": [
+    "2020-05-18"
+  ],
+  "embargoDate": [
+    "2021-05-01"
+  ]
+}

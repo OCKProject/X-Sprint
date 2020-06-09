@@ -1,0 +1,552 @@
+{
+  "id": [
+    "32345657"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32345657"
+  ],
+  "pmcid": [
+    "PMC7197714"
+  ],
+  "doi": [
+    "10.1242/dev.184689"
+  ],
+  "title": [
+    "Fgf-driven Tbx protein activities directly induce myf5 and myod to initiate zebrafish myogenesis."
+  ],
+  "authorString": [
+    "Osborn DPS, Li K, Cutty SJ, Nelson AC, Wardle FC, Hinits Y, Hughes SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Osborn DPS"
+          ],
+          "firstName": [
+            "Daniel P S"
+          ],
+          "lastName": [
+            "Osborn"
+          ],
+          "initials": [
+            "DPS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5266-404X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li K"
+          ],
+          "firstName": [
+            "Kuoyu"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cutty SJ"
+          ],
+          "firstName": [
+            "Stephen J"
+          ],
+          "lastName": [
+            "Cutty"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2750-0932",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nelson AC"
+          ],
+          "firstName": [
+            "Andrew C"
+          ],
+          "lastName": [
+            "Nelson"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1311-8051",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wardle FC"
+          ],
+          "firstName": [
+            "Fiona C"
+          ],
+          "lastName": [
+            "Wardle"
+          ],
+          "initials": [
+            "FC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5444-1889",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hinits Y"
+          ],
+          "firstName": [
+            "Yaniv"
+          ],
+          "lastName": [
+            "Hinits"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2682-1603",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes SM"
+          ],
+          "firstName": [
+            "Simon M"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8227-9225",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK s.hughes@kcl.ac.uk."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5266-404X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2750-0932",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1311-8051",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5444-1889",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2682-1603",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8227-9225",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "147"
+      ],
+      "journalIssueId": [
+        "2940041"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Development (Cambridge, England)"
+          ],
+          "ISOAbbreviation": [
+            "Development"
+          ],
+          "medlineAbbreviation": [
+            "Development"
+          ],
+          "NLMid": [
+            "8701744"
+          ],
+          "ISSN": [
+            "0950-1991"
+          ],
+          "ESSN": [
+            "1477-9129"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Skeletal muscle derives from dorsal mesoderm formed during vertebrate gastrulation. Fibroblast growth factor (Fgf) signalling cooperates with Tbx transcription factors to promote dorsal mesoderm formation, but their role in myogenesis has been unclear. Using zebrafish, we show that dorsally derived Fgf signals act through Tbx16 and Tbxta to induce slow and fast trunk muscle precursors at distinct dorsoventral positions. Tbx16 binds to and directly activates the myf5 and myod genes, which are required for commitment to myogenesis. Tbx16 activity depends on Fgf signalling from the organiser. In contrast, Tbxta is not required for myf5 expression, but binds a specific site upstream of myod that is not bound by Tbx16 and drives (dependent on Fgf signals) myod expression in adaxial slow precursors, thereby initiating trunk myogenesis. After gastrulation, when similar muscle cell populations in the post-anal tail are generated from tailbud, declining Fgf signalling is less effective at initiating adaxial myogenesis, which is instead initiated by Hedgehog signalling from the notochord. Our findings suggest a hypothesis for ancestral vertebrate trunk myogenic patterning and how it was co-opted during tail evolution to generate similar muscle by new mechanisms.This article has an associated 'The people behind the papers' interview."
+  ],
+  "affiliation": [
+    "Randall Centre for Cell and Molecular Biophysics, New Hunt's House, Guy's Campus, King's College London, SE1 1UL, UK."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PG/14/12/30664"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Myosin",
+        "Hedgehog",
+        "Zebrafish",
+        "Muscle",
+        "Myogenin",
+        "MyoD",
+        "FGF",
+        "Spt",
+        "Myf5",
+        "Ntl",
+        "Tbx16",
+        "Tbxta"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1242/dev.184689"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7197714"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1242/dev.184689"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR92374"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-30"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-16"
+  ],
+  "dateOfRevision": [
+    "2020-05-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-28"
+  ],
+  "firstPublicationDate": [
+    "2020-04-28"
+  ]
+}

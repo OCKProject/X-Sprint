@@ -1,0 +1,653 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Matern Child Nutr</journal-id><journal-id journal-id-type="iso-abbrev">Matern Child Nutr</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1740-8709</journal-id><journal-id journal-id-type="publisher-id">MCN</journal-id><journal-title-group><journal-title>Maternal &#x00026; Child Nutrition</journal-title></journal-title-group><issn pub-type="ppub">1740-8695</issn><issn pub-type="epub">1740-8709</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7083443</article-id><article-id pub-id-type="doi">10.1111/mcn.12920</article-id><article-id pub-id-type="publisher-id">MCN12920</article-id><article-id pub-id-type="other">MCN-07-19-OA-4033.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Combined protocol for severe and moderate acute malnutrition in emergencies: Stakeholders perspectives in four countries</article-title><alt-title alt-title-type="left-running-head">Dalglish et al.</alt-title></title-group><contrib-group><contrib id="mcn12920-cr-0001" contrib-type="author" corresp="yes"><name><surname>Dalglish</surname><given-names>Sarah L.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7218-5193</contrib-id><xref ref-type="aff" rid="mcn12920-aff-0001">
+<sup>1</sup>
+</xref><address><email>sarah.dalglish@gmail.com</email></address></contrib><contrib id="mcn12920-cr-0002" contrib-type="author"><name><surname>Seni Badou</surname><given-names>Mamoudou</given-names></name><xref ref-type="aff" rid="mcn12920-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mcn12920-cr-0003" contrib-type="author"><name><surname>Sirat</surname><given-names>Amin</given-names></name><xref ref-type="aff" rid="mcn12920-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mcn12920-cr-0004" contrib-type="author"><name><surname>Abdullahi</surname><given-names>Omar</given-names></name><xref ref-type="aff" rid="mcn12920-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="mcn12920-cr-0005" contrib-type="author"><name><surname>Adalbert</surname><given-names>Mena Fundi Eso</given-names></name><xref ref-type="aff" rid="mcn12920-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="mcn12920-cr-0006" contrib-type="author"><name><surname>Biotteau</surname><given-names>Marie</given-names></name><xref ref-type="aff" rid="mcn12920-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="mcn12920-cr-0007" contrib-type="author"><name><surname>Goldsmith</surname><given-names>Amelia</given-names></name><xref ref-type="aff" rid="mcn12920-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mcn12920-cr-0008" contrib-type="author"><name><surname>Kozuki</surname><given-names>Naoko</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2850-3956</contrib-id><xref ref-type="aff" rid="mcn12920-aff-0007">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="mcn12920-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Johns Hopkins Bloomberg School of Public Health</named-content>
+<institution>Johns Hopkins University</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+</aff><aff id="mcn12920-aff-0002" content-type="private-address">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Nutrition Department</named-content>
+<institution>International Rescue Committee</institution>
+<city>Niamey</city>
+<country country="NE">Niger</country>
+</aff><aff id="mcn12920-aff-0003" content-type="private-address">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Nutrition Department</named-content>
+<institution>International Rescue Committee</institution>
+<city>Maiduguri</city>
+<country country="NG">Nigeria</country>
+</aff><aff id="mcn12920-aff-0004" content-type="private-address">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Nutrition Department</named-content>
+<institution>International Rescue Committee</institution>
+<city>Mogadishu</city>
+<country country="SO">Somalia</country>
+</aff><aff id="mcn12920-aff-0005" content-type="private-address">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Nutrition Department</named-content>
+<institution>International Rescue Committee</institution>
+<city>Juba</city>
+<country country="SS">South Sudan</country>
+</aff><aff id="mcn12920-aff-0006" content-type="private-address">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Nutrition Department</named-content>
+<institution>International Rescue Committee</institution>
+<city>Bamako</city>
+<country country="ML">Mali</country>
+</aff><aff id="mcn12920-aff-0007" content-type="private-address">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Nutrition Department</named-content>
+<institution>International Rescue Committee</institution>
+<city>Washington, DC</city>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Sarah L. Dalglish, Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, 615 N. Wolfe Street, Baltimore, MD 21205, USA.<break/>
+Email: <email>sarah.dalglish@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2020</year></pub-date><volume>16</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/mcn.v16.2</issue-id><elocation-id>e12920</elocation-id><history><date date-type="received"><day>01</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>07</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>11</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Maternal &#x00026; Child Nutrition</italic> published by John Wiley &#x00026; Sons, Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MCN-16-e12920.pdf"/><abstract><title>Abstract</title><p>Each year, acute malnutrition affects an estimated 52 million children under 5 years of age. Current global treatment protocols divide treatment of severe acute malnutrition (SAM) and moderate acute malnutrition (MAM) despite malnutrition being a spectrum disease. A proposed Combined Protocol provides for (a) treatment of MAM and SAM at the same location; (b) diagnosis using middle&#x02010;upper&#x02010;arm circumference (MUAC) and oedema only; (c) treatment using a single product, ready&#x02010;to&#x02010;use&#x02010;therapeutic food (RUTF), and (d) a simplified dosage schedule for RUTF. This study examines stakeholders' knowledge of and opinions on the Combined Protocol in Niger, Nigeria, Somalia, and South Sudan. Data collection included a document review followed by in&#x02010;depth interviews with 50 respondents from government, implementing partners, and multilateral agencies, plus 11 global and regional stakeholders. Data were analysed iteratively using thematic content analysis. We find that acute malnutrition protocols in these countries have not been substantially modified to include components of the Combined Protocol, although aspects were accepted for use in emergencies. Respondents generally agreed that MAM and SAM treatment should be provided in the same location, however they said MUAC and oedema&#x02010;only diagnosis, although more field&#x02010;ready than other diagnostic measures, did not necessarily catch all malnourished children and may not be appropriate for &#x0201c;tall and slim&#x0201d; morphologies. Similarly, using only&#x000a0;RUTF presented inherent logistical advantages, but respondents worried about pipeline issues. Respondents did not express strong opinions about simplified dosage schedules. Stakeholders interviewed indicated more evidence is needed on the operational implications and effectiveness of the Combined Protocol in different contexts.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mcn12920-kwd-0001">assessment of nutritional status</kwd><kwd id="mcn12920-kwd-0002">child nutrition</kwd><kwd id="mcn12920-kwd-0003">health policy</kwd><kwd id="mcn12920-kwd-0004">international child health nutrition</kwd><kwd id="mcn12920-kwd-0005">malnutrition</kwd><kwd id="mcn12920-kwd-0006">policy making</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Elrha's Research for Health in Humanitarian Crises (R2HC) programme</funding-source><award-id>30722</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="11"/><word-count count="6300"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.8 mode:remove_FC converted:20.03.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mcn12920-cit-0001">
+<string-name>
+<surname>Dalglish</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Seni Badou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sirat</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Combined protocol for severe and moderate acute malnutrition in emergencies: Stakeholders perspectives in four countries</article-title>. <source xml:lang="en">Matern Child Nutr</source>. <year>2020</year>;<volume>16</volume>:<elocation-id>e12920</elocation-id>
+<pub-id pub-id-type="doi">10.1111/mcn.12920</pub-id>
+</mixed-citation>
+</p></notes></front><body id="mcn12920-body-0001"><boxed-text position="float" content-type="box" id="mcn12920-blk-0001" orientation="portrait"><caption><title>Key Messages</title></caption><p>
+<list list-type="bullet" id="mcn12920-list-0001"><list-item id="mcn12920-li-0001"><p>Acute malnutrition is a spectrum condition affecting over 50 million children underage 5 each year</p></list-item><list-item id="mcn12920-li-0002"><p>A proposed Combined Protocol to treat acute malnutrition provides for streamlined management of both severe and moderate forms in emergency settings</p></list-item><list-item id="mcn12920-li-0003"><p>Stakeholders in Niger, Nigeria, Somalia and South Sudan were stronglysupportive of providing treatment for both forms of malnutrition at the same location</p></list-item><list-item id="mcn12920-li-0004"><p>However stakeholders raised concerns around the proposed diagnostic criterion prioritizing mid&#x02010;upper arm circumference over weight&#x02010;for&#x02010;height z&#x02010;score and supply pipeline issues potentially affecting availability of ready&#x02010;to&#x02010;use therapeutic foods</p></list-item><list-item id="mcn12920-li-0005"><p>More research is needed on the clinical efficacy and operational implications of the Combined Protocol</p></list-item></list>
+</p></boxed-text><sec id="mcn12920-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Each year, an estimated 52 million children under 5 years of age suffer from acute malnutrition (WHO, &#x00026; World Bank Group, <xref rid="mcn12920-bib-0030" ref-type="ref">2019</xref>). At least 500,000 children die each year from severe acute malnutrition (SAM; Black et al., <xref rid="mcn12920-bib-0007" ref-type="ref">2013</xref>); these children also have weakened immunity and are susceptible to long&#x02010;term developmental delays and chronic disease later in life (Black et al., <xref rid="mcn12920-bib-0006" ref-type="ref">2008</xref>; Lelijveld et al., <xref rid="mcn12920-bib-0022" ref-type="ref">2016</xref>). Children suffering from moderate acute malnutrition (MAM) are also at higher risk of death compared with those who are not acutely malnourished (Chang et al., <xref rid="mcn12920-bib-0011" ref-type="ref">2013</xref>), and moderate malnutrition can create lifelong problems due to cognitive development, and reduce lifelong earnings (Black et al., <xref rid="mcn12920-bib-0006" ref-type="ref">2008</xref>). Food insecurity and hunger caused by ongoing and new conflicts and increasingly by climate change and migration mean that child malnutrition will remain an issue of the utmost concern.</p><p>Global treatment protocols, adapted by most countries for use at national level, call for MAM and SAM to be managed separately, despite malnutrition being a spectrum disease. SAM is treated with ready&#x02010;to&#x02010;use therapeutic food (RUTF) in Outpatient Therapeutic Programs (OTPs), supplied and led by UNICEF. In the absence of codified global guidelines, MAM is often treated with ready&#x02010;to&#x02010;use supplementary food (RUSF) or corn soy blend++ in Supplementary Feeding Programs (SFPs), supplied and led by the World Food Programme (WFP). The International Rescue Committee (IRC) alongside other global actors has been researching the use of a Combined Protocol to manage both conditions, with diagnostic criteria adapted for emergency settings (only middle&#x02010;upper&#x02010;arm circumference, MUAC, and oedema instead of both MUAC and weight&#x02010;for&#x02010;height <italic>z</italic>&#x02010;score, WHZ, together with oedema) as well as a simplified dosage schedule. These approaches are meant to provide harmonized technical guidance, cost&#x02010;efficient supply management, and optimal care for the greatest number of children and families under challenging circumstances. This protocol was tested by the IRC in a randomized controlled trial known as the Combined Protocol for Acute Malnutrition (ComPAS) trial, with results pending (Figure&#x000a0;<xref rid="mcn12920-fig-0001" ref-type="fig">1</xref>; Bailey et al., <xref rid="mcn12920-bib-0003" ref-type="ref">2016</xref>; Bailey et al., <xref rid="mcn12920-bib-0004" ref-type="ref">2018</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mcn12920-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Key components of the Combined Protocol for treatment of MAM (moderate acute malnutrition) and SAM (severe acute malnutrition). For more information, see the trial protocol (Bailey J, Lelijveld N, Marron B, Onyoo P, Ho LS, Manary M, et al. Combined Protocol for Acute Malnutrition Study in rural South Sudan and urban Kenya: study protocol for a randomized controlled trial. Trials. 2018; 19(1): 251). MUAC, middle&#x02010;upper&#x02010;arm circumference; RUTF, ready&#x02010;to&#x02010;use therapeutic food</p></caption><graphic id="nlm-graphic-1" xlink:href="MCN-16-e12920-g001"/></fig><p>Policy discussions about combining, simplifying, and/or improving current malnutrition treatment protocols have advanced among technical and financial partners at global and regional level, particularly in West Africa and to a lesser extent in East Africa. Versions of these approaches have found traction in conflict&#x02010;affected and/or food&#x02010;insecure settings where logistical constraints make delivery of the typical MAM/SAM protocols difficult if not impossible (Hanson, <xref rid="mcn12920-bib-0017" ref-type="ref">2017</xref>; Woodhead, Rio, &#x00026; Zagre, <xref rid="mcn12920-bib-0034" ref-type="ref">2019</xref>). However, it remains unclear the extent to which these protocols are deemed acceptable and appropriate in countries where their use is currently being proposed. It is important to understand factors that influence national stakeholders' consideration and adoption of novel malnutrition protocols in emergency settings.</p><p>This study draws on four case studies to analyse national policy discussions and decision&#x02010;making around acute malnutrition policies in Niger, Nigeria, Somalia, and South Sudan. In each of these countries, rates of child malnutrition have reached emergency levels due to protracted political crises (Somalia and South Sudan) or more localized conflicts (Niger and Nigeria), often exacerbated by seasonal droughts and the effects of climate change. The objective of this article is to examine the perspectives of country&#x02010;level stakeholders with respect to proposed modifications to current MAM and SAM treatment protocols under the Combined Protocol in emergency settings.</p></sec><sec id="mcn12920-sec-0002"><label>2</label><title>METHODS</title><p>Case study methodology is used to reconstruct phenomena to reveal underlying processes and is thus well&#x02010;suited to policy analyses (Yin, <xref rid="mcn12920-bib-0035" ref-type="ref">1994</xref>). We use case studies to understand stakeholders' knowledge and opinions around the four main components of the Combined Protocol and its potential use in emergency settings.</p><p>Data collection (March&#x02013;July 2018) followed standardized guidance and included a desk review of relevant policy and program documents including national policies and guidelines on malnutrition, Ministry of Health (MOH) strategic plans and memos, implementation tools, and academic and research reports. Data collection took place mainly in capital cities (Niamey, Mogadishu, and Juba), except in Nigeria where it took place in Maiduguri, Borno State (phone interviews were conducted with Abuja&#x02010;based respondents). Semistructured interviews were conducted in countries (<italic>n</italic> = 46 interviews, <italic>n</italic> = 50 interviewees) and with stakeholders at global/regional level (<italic>n</italic> = 8 interviews, <italic>n</italic> = 11 interviewees; Table&#x000a0;<xref rid="mcn12920-tbl-0001" ref-type="table">1</xref>). Respondents included personnel of the MOH, UNICEF, WFP, and various NGOs in most countries. All respondents were asked about policy discussions at the national level including key actors and recent events; specific barriers or hesitations about modifying protocols; operational, financial, and practical considerations; and the importance of scientific evidence and global guidance. Most interviews took place in person, although some took place remotely via Skype or phone. Interviews lasted an average of 54 min (range: 33&#x02013;82 min) and were conducted in English for stakeholders in Nigeria, Somalia, and South Sudan and in French in Niger and with some regional/global respondents. A small number of respondents requested not to be recorded; notes were taken for these interviews. Recorded interviews were transcribed verbatim then verified and completed by interviewers.</p><table-wrap id="mcn12920-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Primary data collection</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Number of interviews</th><th align="left" valign="bottom" rowspan="1" colspan="1">Number of interviewees</th><th align="left" valign="bottom" rowspan="1" colspan="1">Number of documents reviewed</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Niger</td><td align="char" valign="top" rowspan="1" colspan="1">13</td><td align="char" valign="top" rowspan="1" colspan="1">15</td><td align="char" valign="top" rowspan="1" colspan="1">12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nigeria</td><td align="char" valign="top" rowspan="1" colspan="1">11</td><td align="char" valign="top" rowspan="1" colspan="1">11</td><td align="char" valign="top" rowspan="1" colspan="1">16</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Somalia</td><td align="char" valign="top" rowspan="1" colspan="1">12</td><td align="char" valign="top" rowspan="1" colspan="1">12</td><td align="char" valign="top" rowspan="1" colspan="1">12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">South Sudan</td><td align="char" valign="top" rowspan="1" colspan="1">10</td><td align="char" valign="top" rowspan="1" colspan="1">12</td><td align="char" valign="top" rowspan="1" colspan="1">11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Global/regional level</td><td align="char" valign="top" rowspan="1" colspan="1">8</td><td align="char" valign="top" rowspan="1" colspan="1">11</td><td align="char" valign="top" rowspan="1" colspan="1">13</td></tr><tr><td align="left" style="background-color:D9D9D9" valign="top" rowspan="1" colspan="1">TOTAL</td><td style="background-color:D9D9D9" align="char" valign="top" rowspan="1" colspan="1">54</td><td style="background-color:D9D9D9" align="char" valign="top" rowspan="1" colspan="1">61</td><td style="background-color:D9D9D9" align="char" valign="top" rowspan="1" colspan="1">54</td></tr></tbody></table></table-wrap><p>Data analysis was iterative and concurrent with data collection, beginning with regular debriefing discussions between lead data collectors to discuss emerging themes and adjust interview questions, combining analytical strands from the document review and interviews. Data from documents were abstracted into a standardized coding form to systematically track key themes, allowing for comparison across cases of theoretical and contextual categories (Maxwell, <xref rid="mcn12920-bib-0024" ref-type="ref">2005</xref>). In&#x02010;country data collection concluded with debriefing sessions to share initial impressions with and seek any clarification from IRC's country nutrition program focal points. Subsequently, interview transcripts were analysed using thematic coding, with categories developed <italic>a priori</italic> based on the theoretical literature and research questions; emergent codes were also developed after testing the coding structure on a first set of interviews. Interviews were coded using NVivo software (Version 11); the final codebook included codes on the content of current malnutrition policy and protocols; policy processes in countries; policy interactions at country, regional, and global level; national context; and the origins, rationale, and arguments for or against combined/simplified protocols. A synthesis report was reviewed by in&#x02010;country IRC staff in all countries for accuracy of facts and interpretation, resulting in minor adjustments.</p><p>Ethical clearance was provided by the relevant bodies in all four countries and by the IRC Institutional Review Board.</p></sec><sec id="mcn12920-sec-0003"><label>3</label><title>RESULTS</title><p>Acute malnutrition protocols in all countries were based on global (World Health Organization, WHO) standards, although not all were current with the latest guideline updates (WHO, <xref rid="mcn12920-bib-0032" ref-type="ref">2012</xref>). In Niger and Somalia, national guidelines are called Integrated Management of Acute Malnutrition, whereas in Nigeria and South Sudan these are called Community Management of Acute Malnutrition (CMAM). Respondents in all countries frequently mentioned that national guidelines were adapted in their essentials from the &#x0201c;global&#x0201d; (WHO) guidelines. Nonetheless, specific aspects of treatment protocols varied slightly by country (Table&#x000a0;<xref rid="mcn12920-tbl-0002" ref-type="table">2</xref>). Differences were particularly notable for MAM treatment, likely due to a lack of global guidance. In Somalia and South Sudan, children received supplementary feeding in Targeted Supplementary Feeding Programs (TSFPs); however, treatment for MAM was virtually absent in Nigeria, both from the protocol and in the field (in Borno state and nationally). Treatment for MAM was included in Niger's protocol; however, RUSF or other supplementary foods were available only in insecure regions and/or those with very high global acute malnutrition rates. Guidelines varied in terms of preference for MUAC over WHZ as screening and discharge criteria, although all had incorporated MUAC in some way. Modes of dispensing treatment also varied, although in most cases MAM and SAM care were not provided in the same place on the same day. In all countries, national guidelines were meant to be applied nationwide including in emergency settings. Next, we examine stakeholders' views on the four proposed components of the combined protocol, as laid out in Figure&#x000a0;<xref rid="mcn12920-fig-0001" ref-type="fig">1</xref>.</p><table-wrap id="mcn12920-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Summary overview of national policies*</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Niger</th><th align="left" valign="bottom" rowspan="1" colspan="1">Nigeria</th><th align="left" valign="bottom" rowspan="1" colspan="1">Somalia</th><th align="left" valign="bottom" rowspan="1" colspan="1">South Sudan</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Name of acute malnutrition protocol</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0201c;National Protocol for Integrated Management of Acute Malnutrition&#x0201d; (2016)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0201c;National Guidelines for Community Management of Acute Malnutrition&#x0201d; (2011)</td><td align="left" valign="top" rowspan="1" colspan="1">&#x0201c;Somali Guidelines for Integrated Management of Acute Malnutrition&#x0201d; (2018)</td><td align="left" valign="top" rowspan="1" colspan="1">Community Management of Acute Malnutrition (2017)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Location of treatment</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM children treated at OTP (in health centre) or SC (in a hospital).</p>
+<p>MAM children may be referred to a health centre, but little RUSF is currently available.</p>
+<p>MAM and uncomplicated SAM cases are seen at the same health centre on different days.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM children are treated at OTP/SC (usually inside a health facility).</p>
+<p>MAM children may be referred to NGOs for local counselling/IYCF programs, if they exist.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM children at treated at OTP/SC, with MAM children treated at TSFP centres.</p>
+<p>The country is moving to ensure SCs, OTPs and TSFPs are henceforth all located together, ideally at health facilities, under the &#x0201c;Rationalization Plan.&#x0201d;</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM children at treated at OTP/SC, with MAM children treated at TSFP centres.</p>
+<p>Sometimes these are at the same physical location but operate on different days.</p>
+<p>Discussion about moving OTPs and TSFPs to the same location.</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Screening/admission/discharge with MUAC or WHZ</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>SAM (SC)</bold>: admission on either MUAC &#x0003c;11.5 <bold><italic>OR</italic></bold> WHZ &#x0003c; &#x02212;3.0 <bold><italic>OR</italic></bold> bilateral oedema + , ++ (all with oedema +++, poor appetite or complications).</p>
+<p>
+<bold>SAM (OTP):</bold> admission on either MUAC &#x0003c;11.5 <bold><italic>OR</italic></bold> WHZ &#x0003c; &#x02212;3.0 <bold><italic>OR</italic></bold> bilateral pitting oedema + , ++ (all without complications) and all with moderate or good appetite.</p>
+<p>
+<bold>MAM (TSFP)</bold>: admission on either MUAC &#x02265; 11.5 and &#x0003c;12.5 <bold><italic>OR</italic></bold> WHZ &#x02265; &#x02212;3.0 and &#x0003c;&#x02212;2.0.</p>
+<p>Discharge on <bold><italic>BOTH</italic></bold> MUAC and WHZ and all during two consecutive weeks or no oedema during 14 days</p>
+<p>MUAC and oedema&#x02212;only is widely used for admissions in mass screenings &#x00026; in emergency situations.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>SAM (SC)</bold>: admission on either MUAC &#x0003c;11.5 <bold><italic>AND/OR</italic></bold> WHZ &#x0003c; &#x02212;3.0 <bold><italic>OR</italic></bold> bilateral oedema +++ (or medical complications or kwashiorkor).</p>
+<p>
+<bold>SAM (OTP):</bold> admission on either MUAC &#x0003c;11.5 <bold><italic>OR</italic></bold> WHZ &#x0003c; &#x02212;3.0 &#x0201c;if used&#x0201d; <bold><italic>OR</italic></bold> bilateral pitting oedema + , ++ (all without complications, and with moderate or good appetite.</p>
+<p>
+<bold>MAM (TSFP)</bold>: admission on either MUAC &#x02265;11.5 and &#x0003c;12.5 <bold><italic>OR</italic></bold> WHZ &#x02265; &#x02212;3.0 and &#x0003c;&#x02212;2.0.</p>
+<p>Discharge on MUAC <bold><italic>OR</italic></bold> WHZ (&#x0201c;if used&#x0201d;) <bold><italic>AND</italic></bold> no oedema during 14 days</p>
+<p>MUAC and oedema&#x02212;only is recommended at facility and community level (WHZ is &#x0201c;time consuming&#x0201d;), as well as for mass screenings &#x00026; in emergency situations.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>SAM (SC)</bold>: admission if MUAC &#x0003c;11.5 (OTP) <bold><italic>OR</italic></bold> WHZ (&#x0003c;&#x02212;3) <bold><italic>OR</italic></bold> bilateral oedema + , ++ (all with oedema +++, poor appetite or complications).</p>
+<p>
+<bold>SAM (OTP)</bold>: admission on MUAC &#x0003c;11.5 <bold><italic>OR</italic></bold> WHZ &#x0003c; &#x02212;3.0 <bold><italic>OR</italic></bold> bilateral pitting oedema +, ++ (without complications).</p>
+<p>
+<bold>MAM (TSFP)</bold>: admission on either MUAC &#x02265; 11.5 and &#x0003c;12.5 <bold><italic>OR</italic></bold> WHZ &#x02265; &#x02212;3.0 and &#x0003c;&#x02212;2.0.</p>
+<p>Discharge criteria are unclear as guidelines are under revisions. Under current guidelines, the discharge criteria for both OTP/TSFP is &#x0003e;12.5 or&#x0003e;&#x02212;2. Where there is TSFP site, the discharge criteria for OTP is &#x0003e;11.5 but where there is no TSFP, the discharge is &#x0003e;12.5.</p>
+<p>MUAC used commonly in emergency situations.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>SAM (SC):</bold> admission if MUAC &#x0003c;11.5 (OTP) <bold><italic>OR</italic></bold> WHZ (&#x0003c;&#x02212;3) <bold><italic>OR</italic></bold> bilateral pitting oedema+++ (all with complications).</p>
+<p>
+<bold>SAM (OTP)</bold>: admission on MUAC &#x0003c; 11.5 <bold><italic>OR</italic></bold> WHZ &#x0003c; &#x02212;3.0 <bold><italic>OR</italic></bold> bilateral pitting oedema + and ++ (all without complications).</p>
+<p>
+<bold>MAM (TSFP):</bold> admission on either MUAC &#x02265; 11.5 and &#x0003c;12.5 <bold><italic>OR</italic></bold> WHZ &#x02265; &#x02212;3.0 and &#x0003c;&#x02212;2.0.</p>
+<p>Discharge on the <bold>same criterion</bold> (MUAC of WHZ) used for admission and no oedema during two consecutive weeks</p>
+<p>If no TSFP, refer to &#x0201c;expanded criteria&#x0201d; for discharge.</p>
+<p>MUAC used commonly in emergency situations.</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Therapeutic products in use</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM: RUTF (Plumpy'Nut)</p>
+<p>MAM: RUSF, CSB++ (or nothing)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM: RUTF (Plumpy'Nut)</p>
+<p>MAM: Super Cereal Plus (or nothing)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM: RUTF (Plumpy'Nut)</p>
+<p>MAM: RUSF (Plumpy'Sup)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>SAM: RUTF (Plumpy'Nut)</p>
+<p>MAM: RUSF (Plumpy'Sup, CSB++)&#x02014;although with frequent stock&#x02212;outs</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dosage</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>RUTF by weight for SAM.</p>
+<p>One sachet of RUSF per day for MAM (not usually available)</p>
+<p>Local products indicated in case of stock&#x02212;out.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>RUTF by weight for SAM,</p>
+<p>No mention of RUSF ration for MAM in current protocol</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>RUTF by weight for SAM,</p>
+<p>One sachet/day RUSF for MAM.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>RUTF by weight for SAM</p>
+<p>One sachet/day RUSF for MAM.</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Exceptions for &#x0201c;emergencies&#x0201d;</td><td align="left" valign="top" rowspan="1" colspan="1">A proposed annex to the current protocol gives a table for reduced dosage (see Annex 5) in case of supply shortages and other emergencies, however it has not been formally adopted.</td><td align="left" valign="top" rowspan="1" colspan="1">None officially stated.</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Exceptions to the national protocol granted to use a single product in case of stockouts, or if there is no OTP/TSFP in a certain area. The process appears to be informal.</p>
+<p>Rapid Response Mechanism teams also use a simplified dosage scheme (two RUTF/child).</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Expanded Criteria is part of the CMAM guidelines, to be used in emergencies as a &#x0201c;stopgap&#x0201d; measure (Annex 4).</p>
+<p>Permission is granted via a formal process involving the Nutrition Cluster, UNICEF and WFP.</p>
+</td></tr></tbody></table><table-wrap-foot id="mcn12920-ntgp-0001"><fn id="mcn12920-note-0001"><p>
+<italic>Note</italic>. There may be deviations from documented guidelines in practice.</p></fn><fn id="mcn12920-note-0002"><p>Abbreviations: CMAM, Community Management of Acute Malnutrition; CSB++, corn soy blend++; MAM, moderate acute malnutrition; MUAC, middle&#x02010;upper&#x02010;arm circumference; OTP, Outpatient Therapeutic Program; RUSF, ready&#x02010;to&#x02010;use supplementary food; RUTF, ready&#x02010;to&#x02010;use&#x02010;therapeutic food; SAM, severe acute malnutrition; TSFP, Targeted Supplementary Feeding Programs; WHZ, weight&#x02010;for&#x02010;height z&#x02010;score.</p></fn></table-wrap-foot></table-wrap><sec id="mcn12920-sec-0004"><label>3.1</label><title>Agreement that MAM &#x00026; SAM should be treated at the same location</title><p>Stakeholders displayed strong agreement about the desirability of providing SAM and MAM treatment at the same location in Nigeria, Somalia, and South Sudan. In Nigeria, where MAM treatment is not prioritized either in national guidance or in the field, stakeholders were nonetheless enthusiastic about integrating treatment in the same location:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0001"><p>&#x0201c;Basically if you ask me about the effectiveness having both MAM and SAM treatment at the same place I can say you are hundred percent very relevant.&#x0201d; (
+<named-content content-type="attribution">National NGO, Nigeria</named-content>)</p></disp-quote>
+</p><p>In Somalia and South Sudan, there was also strong acceptance of providing MAM and SAM treatment in the same place, and respondents frequently characterized the main problem with malnutrition care as being the fact that OTPs and TSFPs were often not placed in the same location:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0002"><p>&#x0201c;If you see a mom with a SAM with complications child at your [stabilization center] and &#x02026; you say to the mom, &#x02018;I will refer you in a two kilometers or three kilometers away to the OTP program,' she will face some obstacles, starting from the transportation.&#x0201d; (
+<named-content content-type="attribution">National NGO, Somalia</named-content>)</p></disp-quote>
+</p><p>In Somalia, recent efforts to improve acute malnutrition services have included implementation of a three&#x02010;phase &#x0201c;Rationalization Plan,&#x0201d; to correct the poor coordination observed during the 2011 famine. In a first phase, stakeholders documented caseloads and mapped operations of implementing partners to reduce redundancies and provide clear mandates to each. The Somalia Nutrition Cluster led the process of geotagging every OTP and TSFP in country with the goal of integrating them. At the time of this study, this process was complete in Somaliland, about halfway finished in Puntland, and furthest behind in the Central South region, where insecurity is greatest (multilateral agency, Somalia). Starting March 2018, the country's latest Rationalization Plan required partners working in certain areas to provide both programs at the same site and/or coordinate with the other actors:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0003"><p>&#x0201c;We have committed wherever there's TSFP or OTP, the other partner should provide the other component to treat.&#x0201d; (
+<named-content content-type="attribution">Government official, Somalia</named-content>)</p></disp-quote>
+</p><p>In South Sudan, the ideal of having treatment for both conditions take place at the same location also holds and is advocated by MOH, UNICEF, WFP, and the Nutrition Cluster:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0004"><p>&#x0201c;Actually our desire is to move towards having the same NGO implementing TSFP and OTP in the same location.&#x0201d; (
+<named-content content-type="attribution">Multilateral agency, South Sudan</named-content>)</p></disp-quote>
+</p><p>Guidance in South Sudan provides for integration of OTPs and TSFPs, and, as in Somalia, the absence of one or the other of these facilities is viewed as a reason to use adaptations of the sort contained in the Combined Protocol.</p><p>Sometimes, treatment for MAM and uncomplicated SAM are provided at the same location but on different days (this was mentioned in Niger and South Sudan). Respondents in both countries mentioned the burden this created for families with children with both MAM and SAM:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0005"><p>&#x0201c;It's true, it's a bit onerous in the sense that a mom who has a SAM child and a MAM child, she has to come on both Monday and Tuesday.&#x0201d; (
+<named-content content-type="attribution">National NGO, Niger</named-content>)</p></disp-quote>
+</p><p>However, in Niger, respondents from the government sector tended to defend the Nigerien system, which includes CRENI (<italic>Centre de r&#x000e9;cup&#x000e9;ration et d'&#x000e9;ducation nutritionnelle intensif</italic>, or Stabilization Center (SC) in a hospital), CRENAS (<italic>Centre de r&#x000e9;cup&#x000e9;ration nutritionnelle ambulatoire pour la malnutrition s&#x000e9;v&#x000e8;re</italic>, or OTP for SAM in a health center), and CRENAM (<italic>Centre de r&#x000e9;cup&#x000e9;ration nutritionnelle ambulatoire pour la malnutrition mod&#x000e9;r&#x000e9;e</italic>, or MAM treatment in a health center):
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0006"><p>&#x0201c;The referral system, as the protocol has provided for, it's not complicated! All the actors are charged with carrying out the different processes. In my opinion, really, it's not complicated!&#x0201d; (
+<named-content content-type="attribution">Government official, Niger</named-content>)</p></disp-quote>
+</p></sec><sec id="mcn12920-sec-0005"><label>3.2</label><title>Acceptability of MUAC for screening, but not always as the sole measure</title><p>In all countries, MUAC is widely used in mass screenings, for example, in camps for internally displaced persons and other insecure locations, and as part of Rapid Response Mechanisms. Pilot projects teaching mothers and other caregivers to screen their children using MUAC themselves (&#x0201c;Mother MUAC&#x0201d;) were also viewed positively in Niger, Nigeria, and Somalia. Nearly across the board, in all countries, respondents agreed that MUAC was a simple measure that was easy to use, a distinct advantage in emergencies:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0007"><p>&#x0201c;When we are dealing with emergencies such as the [internally displaced persons] and such a community&#x000a0;... the MUAC criteria is the best to use, because it is simple.&#x0201d; (
+<named-content content-type="attribution">National NGO, Somalia</named-content>)</p></disp-quote>
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0008"><p>&#x0201c;It's less time&#x02010;consuming, you don't have to spend a lot of time in those Al&#x02010;Shabaab controlled areas.&#x0201d; (
+<named-content content-type="attribution">Multilateral agency, Somalia</named-content>)</p></disp-quote>
+</p><p>Specifically, MUAC was said to be faster, could be used by health workers with limited literacy and numeracy, could be performed by a single health worker, and was field&#x02010;ready (instead of requiring a battery&#x02010;powered scale, as for WHZ). A handful of respondents said that MUAC was a more sensitive measure compared with WHZ, and while others said it could miss a few outliers, this disadvantage could be offset by practical advantages:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0009"><p>&#x0201c;It's fine if we have a few false positives, let's [treat] them anyway.&#x0201d; (
+<named-content content-type="attribution">Bilateral agency, South Sudan</named-content>)</p></disp-quote>
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0010"><p>&#x0201c;I have no problem with screening with MUAC &#x02026; if it means you are going to perhaps miss few children because of that not fitting the outliers versus missing a lot of children because you can't carry around a board and scale and do the calculation &#x02026; to any degree of accuracy, then it's its fine with me.&#x0201d; (Multilateral agency, federal level, Nigeria)</p></disp-quote>
+</p><p>Speaking about emergency situations, most people found the trade&#x02010;off between the perceived accuracy of WHZ and the ease of use of MUAC to be an acceptable one. MUAC's simplicity was often contrasted with the time&#x02010;consuming process of taking WHZ:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0011"><p>&#x0201c;You need to have a big resource to do <italic>Z</italic>&#x02010;score, to taking weight to taking height and to calculate because a lot of mothers are waiting &#x02026; and it will make you kind of disappointing to your beneficiaries.&#x0201d; (
+<named-content content-type="attribution">International NGO, Nigeria</named-content>)</p></disp-quote>
+</p><p>Indeed, WHZ is deprioritized in the Nigerian national protocol: it is described as &#x0201c;more time&#x02010;consuming&#x0201d; and cannot be used as an independent admission criterion at a health centre, whereas MUAC can be. WHZ was also deemed problematic in South Sudan, due to the low education level of health workers:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0012"><p>&#x0201c;Due to the low cadres we have in the field, the <italic>Z</italic>&#x02010;score becomes a bit too complicated for the community component.&#x0201d; (
+<named-content content-type="attribution">International NGO, South Sudan</named-content>)</p></disp-quote>
+</p><p>Respondents in all countries mentioned that using MUAC instead of WHZ would reduce the burden on health workers, and free them up for other tasks, and agreed this was in principle a good thing:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0013"><p>&#x0201c;The essential thing is to lighten the task load.&#x0201d; (Government official, Niger)</p></disp-quote>
+</p><p>However, there was far less agreement about MUAC's appropriateness as the sole criterion for diagnosis and discharge, particularly outside of emergency situations. A number of objections were raised. First, many respondents said that MUAC and WHZ were not interchangeable measures, although a smaller number were able to provide specific details about the differences between the two:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0014"><p>&#x0201c;I think you have seen a lot of publications going around, including recently by Mark Myatt and the [U.S. Centers for Disease Control]. I think the reality is that those two, MUAC and weight to height, do not measure the same thing.&#x0201d; (
+<named-content content-type="attribution">Multilateral agency, South Sudan</named-content>)</p></disp-quote>
+</p><p>More commonly, a few respondents each in Somalia, South Sudan, and to a lesser extent Niger said MUAC was not appropriate for &#x0201c;naturally slender&#x0201d; body types found in these countries and/or among pastoral people (the issue of body type was not mentioned in Nigeria).
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0015"><p>&#x0201c;When you go out into the regions, there are children who are naturally thin. Using the MUAC, in our society, here in the Sahel, MUAC only, well we, we haven't accepted it for the moment!&#x0201d; (
+<named-content content-type="attribution">Government official, Niger</named-content>)</p></disp-quote>
+</p><p>In South Sudan, it was widely agreed by respondents that MUAC and oedema&#x02010;only admissions were inappropriate, given that children would be missed if WHZ were removed. There was strong agreement that South Sudanese anthropometry made MUAC unreliable, reportedly leading one proponent of MUAC and oedema&#x02010;only admissions to quit the recent CMAM guideline development process.</p><p>Strong objections to a MUAC and oedema&#x02010;only protocol were also raised in Niger along different lines: quality of care. In Niger, national policymakers perceived that they had been &#x0201c;lobbied&#x0201d; for MUAC and oedema&#x02010;only by stakeholders from international donors starting in 2014&#x02013;15. Government officials opted to retain WHZ as one possible criteria for admission, and a necessary criterion for discharge. Respondents, particularly those in government, appeared annoyed when asked about a MUAC and oedema&#x02010;only protocol, asserting strongly that WHZ was essential because it is a superior measure for growth monitoring, and is already used throughout the health system for this purpose:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0016"><p>&#x0201c;You agree with me, a correct anthropometry requires weight&#x02010;for&#x02010;height.&#x0201d; (
+<named-content content-type="attribution">Government official, Niger</named-content>)</p></disp-quote>
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0017"><p>&#x0201c;It's true, when you have to measure weight, height, it requires &#x02026; several people and it takes time, but it's not &#x02026; wasted time!&#x0201d; (
+<named-content content-type="attribution">Government official, Niger</named-content>)</p></disp-quote>
+</p><p>A number of non&#x02010;government respondents in Niger characterized government policymakers as being particularly conservative on this point, and recounted the difficulty of convincing the latter to include MUAC as one possible admission criterion (alongside WHZ):
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0018"><p>&#x0201c;For [MUAC] to be an independent admission criteria, it required a memorandum from the Ministry &#x02026; and it was a long battle for that to be accepted.&#x0201d; (
+<named-content content-type="attribution">International NGO, Niger</named-content>)</p></disp-quote>
+</p></sec><sec id="mcn12920-sec-0006"><label>3.3</label><title>Reservations about the appropriateness of RUTF as the single product</title><p>Respondents expressed different opinions on whether RUTF and RUSF were interchangeable products from a clinical standpoint. The majority of respondents said they were very similar, but others said there were significant differences in terms of composition or nutritional content:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0019"><p>&#x0201c;Of course the contents are very different &#x02026; We are talking about the micronutrients here.&#x0201d; (
+<named-content content-type="attribution">Multilateral agency, South Sudan</named-content>)</p></disp-quote>
+</p><p>Respondents more frequently deemed it acceptable for MAM children to be treated with RUTF than for SAM children to be treated with RUSF, while acknowledging that RUSF was better than nothing, if RUTF were not available:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0020"><p>&#x0201c;Basically for RUTF we may use that to treat Moderate Acute Malnutrition but we are not ready to supply supplementary food to treat Severe Acute Malnutrition because the recipes or the ingredients are totally different.&#x0201d; (
+<named-content content-type="attribution">International NGO, Nigeria</named-content>)</p></disp-quote>
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0021"><p>&#x0201c;When we use RUSF to treat children with severe acute malnutrition, that is not the product meant to treat them, so in terms of quality of care, in terms of duration of treatment &#x02026; it's just a stopgap measure.&#x0201d; (
+<named-content content-type="attribution">Multilateral agency, South Sudan</named-content>)</p></disp-quote>
+</p><p>Generally speaking, if one product were to be used, or had to be used due to emergency conditions, a majority of respondents agreed that RUTF was superior to RUSF. Often, it seemed that respondents were open to the idea of a single product, as long as they could be assured this was clinically justifiable:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0022"><p>&#x0201c;If scientifically it can be proved that &#x02026; they could get the product one product for the two&#x02014;why not? That makes it easier.&#x0201d; (
+<named-content content-type="attribution">Government official, Nigeria</named-content>)</p></disp-quote>
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0023"><p>&#x0201c;If scientifically, with evidence, one product can serve for the two forms [of malnutrition], I think it would be a good thing &#x02026; In my opinion, it would be a very good thing if solid scientific proof could be established.&#x0201d; (
+<named-content content-type="attribution">Government official, Niger</named-content>)</p></disp-quote>
+</p><p>Many respondents acknowledged the benefits of using a single product in terms of simplicity and supply chain issues and therefore indirectly on staff time spent managing supplies:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0024"><p>&#x0201c;It will be easier for the management purpose and all the process of logistics and so on and so forth.&#x0201d; (
+<named-content content-type="attribution">International NGO, South Sudan</named-content>)</p></disp-quote>
+</p><p>However, others warned of a potential problem with using RUTF and RUSF interchangeably given the current division of labour between UNICEF and WFP in estimating supply orders and monitoring use:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0025"><p>&#x0201c;UNICEF doesn't buy into this. For &#x02026; all the supplies used &#x02026; there should be a corresponding number of SAM children treated, you see? The same with &#x02026; WFP and with MAM. WFP will only be interested in looking at the number of MAM cases that you treated.&#x0201d; (
+<named-content content-type="attribution">International NGO, Somalia</named-content>)</p></disp-quote>
+</p><p>Comparing the two products from the standpoint of logistics and availability, the pipeline for RUTF was deemed as more reliable than the pipeline for RUSF in all countries. In Niger and Nigeria, this was obviously the case&#x02014;in recent years, WFP funding for MAM treatment has been reduced, and little RUSF is available in either country. In Somalia and South Sudan, respondents said RUSF was available in some areas, but not others, because WFP is not allowed to subcontract monitoring in conflict areas (as UNICEF can)&#x02014;although Rapid Response Mechanisms can and do bring RUSF with them. In contrast, although the supply of RUTF was frequently mentioned as costly, actual stock&#x02010;outs appeared rare.</p><p>Because responsibility for MAM and SAM is divided between WFP and UNICEF and funding and staffing levels are often contingent on the amount of RUSF and RUTF supplied, respectively, stakeholders voiced concerns about moving toward a single product. Protocols seen as threatening existing dispositions could cause strains at country level:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0026"><p>&#x0201c;At Somalia level &#x02026; the Cluster came in very strongly and said &#x02018;Let's not talk about the Combined Protocol. It will raise mandate issues, and we don't want to be part of that.'&#x0201d; (
+<named-content content-type="attribution">International NGO, Somalia</named-content>)</p></disp-quote>
+</p><p>Global&#x02010; and regional&#x02010;level respondents confirmed these issues; one said that &#x0201c;UNICEF and WFP kind of have a turf war going on,&#x0201d; since WFP has become increasingly involved in managing MAM (bilateral agency, global level). Another global respondent said:
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0027"><p>&#x0201c;I feel that UNICEF and WFP at the global level, I still think, are tiptoeing around their own organizational mandates and challenges around anything to do with revisiting how this whole spectrum of acute malnutrition is dealt with.&#x0201d; (
+<named-content content-type="attribution">Bilateral agency, global level</named-content>)</p></disp-quote>
+</p></sec><sec id="mcn12920-sec-0007"><label>3.4</label><title>Views on simplified dosage are pending, following decisions about previous components</title><p>Compared to the three other components of the Combined Protocol reviewed in this study, respondents had less well&#x02010;defined views regarding the use of the proposed simplified MUAC&#x02010;based dosage schedule (two RUTF sachets/day for MUAC &#x0003c; 115 mm, one RUTF sachet/day for MUAC 115&#x02013;&#x0003c;125 mm). When asked, respondents tended not to provide strong arguments one way or the other, perhaps because the choice of dosage protocol would depend on a number of antecedents, specifically around the use of MUAC as a diagnostic criterion, and RUTF as the sole product. Although respondents were generally favourable toward proposals that increased simplicity and reduced the burden on health workers, it is difficult to say from our data how stakeholders view the proposed simplified dosage protocol or the notion of simplified dosage in general.</p><p>One related issue that was brought up only once (in Niger) but bears mentioning is the existence of conflicting paradigms around dosage schedules for acutely malnourished children. Specifically, one respondent (Multilateral agency, Niger) said that government policy actors in Niger and other West African countries were influenced by protocols calling for smaller doses of RUTF at earlier stages of recovery from SAM then increasing dosage as the child improves and requires greater caloric intake. This paradigm is reflected in the work of Michael Golden and Yvonne Grellety, who were funded by UNICEF to review guidelines in Eastern and Southern Africa (National NGO, Somalia). Country&#x02010;level policymakers who are familiar with these protocols may be less receptive to other protocols that are perceived as not following this paradigm. As the UN official in Niger said,
+<disp-quote content-type="quotation" id="mcn12920-blkfxd-0028"><p>&#x0201c;There's this reticence &#x02026; to completely embracing projects that don't have [the Golden protocol], [including]&#x000a0;all the projects that talk about the [Combined Protocol]. Because people aren't necessarily convinced by the initial hypothesis.&#x0201d; (
+<named-content content-type="attribution">Multilateral agency, Niger</named-content>)</p></disp-quote>
+</p></sec></sec><sec id="mcn12920-sec-0008"><label>4</label><title>DISCUSSION</title><p>This study compared the views of malnutrition stakeholders in four countries with different types of emergencies on the Combined Protocol for treatment of MAM and SAM. National guidelines, which had either recently been updated or were currently being updated in all four countries, generally did not reflect the innovations proposed in the Combined Protocol, whether with respect to location of treatment, diagnostic criteria (MUAC and oedema only), treatment product, or dosage schedule. Respondents had different levels of knowledge about, and opinions regarding, the four main components of the Combined Protocol reviewed in this study. The first component, provision of treatment for MAM and SAM in the same physical location, was most well&#x02010;supported by respondents, who agreed this was logical and desirable. However, there were much stronger reservations about the acceptability of MUAC as a sole diagnostic measure (due to concerns about its appropriateness for Sahelian morphologies and as an indicator of growth monitoring) and about the use of RUTF for both MAM and SAM (due to concerns about nutritional content and potential mandate and funding issues between WFP and UNICEF). Regarding the simplified dosage protocol, respondents appeared to withhold judgment, as this would depend on decisions about the previous two components.</p><p>Flaws in current delivery systems of nutrition interventions during periods of food insecurity and emergency have long been recognized by stakeholders in the nutrition sphere (Collins, <xref rid="mcn12920-bib-0012" ref-type="ref">2001</xref>; Woodhead et al., <xref rid="mcn12920-bib-0034" ref-type="ref">2019</xref>). The Combined Protocol represents one of several proposed solutions to perceived difficulties in delivering needed care to acutely malnourished children in emergency situations. In March 2019, stakeholders at WHO, the Office of the United Nations High Commissioner for Refugees, UNICEF, and WFP met in Geneva to discuss and review simplified approaches for the treatment of child wasting (WHO, UNHCR, UNICEF,, &#x00026; WFP, <xref rid="mcn12920-bib-0033" ref-type="ref">2019</xref>). After more than a decade of scaling up current approaches, participants reviewed operational lessons, notably in the context of emergency situations and fragile health systems, focusing on issues of cost, health system infrastructure, national policy, coverage, and quality. The organizations represented agreed to pursue further investigation and documentation of simplified approaches &#x0201c;in exceptional circumstances, where warranted,&#x0201d; develop updated guidance on wasting in all settings (led by WHO), and present a global action plan on wasting by end 2019. As such, in addition to the ComPAS study in South Sudan and Kenya, a number of country&#x02010;level pilots and research projects on simplified are currently underway, notably in West and Central Africa (Woodhead et al., <xref rid="mcn12920-bib-0034" ref-type="ref">2019</xref>).</p><p>More efficient and cost&#x02010;effective ways of preventing and treating SAM would be much welcomed by stakeholders at national and global levels, given the expense of this intervention, both in children's lives and in budgetary expenditures. A cost analysis of one large, well&#x02010;established community&#x02010;based program to treat SAM in Niger found an average cost per child of 149 euros (US$ 175 in today's currency), with cost breakdowns of US$ 83 for outpatient treatment costs and US$ 149 for inpatient treatment costs, respectively (Isanaka et al., <xref rid="mcn12920-bib-0019" ref-type="ref">2017</xref>). Indeed, among 10 interventions recommended to improve maternal and child nutrition, SAM management was by far the most expensive, estimated at a total cost of $2.6 billion to achieve 90% coverage in the 34 highest&#x02010;burden countries (2010 international dollars; Bhutta et al., <xref rid="mcn12920-bib-0005" ref-type="ref">2013</xref>). Yet, the same study also showed that effective management of MAM and SAM was among the most cost&#x02010;effective interventions per life saved, potentially saving up to 435,000 lives per year, when scaled up alongside the other nine interventions.</p><p>As a result of ongoing research, evidence is beginning to emerge that simplified approaches can provide safe, effective treatment in emergency settings. In Sierra Leone, a cluster&#x02010;randomized controlled trial used an integrated protocol with a single product (RUTF) and MUAC&#x02010;only admission (&#x0003c;12.5 cm) to test recovery and coverage rates (Maust et al., <xref rid="mcn12920-bib-0023" ref-type="ref">2015</xref>). The trial protocol provided a decreased ration of RUTF when children reached MAM as measured by MUAC &#x0003e;11.4 and &#x0003c;12.5 cm and counselling messages delivered to parents by peers; the control arm used WHZ for admission and treated MAM with a fortified blended flour and SAM with RUTF. The results indicated greater coverage (number of children who received treatment/number of children eligible for treatment) in communities with integrated management (71 vs. 55%, <italic>P</italic> &#x0003c; .001), with comparable global acute malnutrition recovery rates [910 of 1,100 children (83%) with the integrated protocol, versus 682 of 857 (79%) with the standard]. In northern Burkina Faso, a CMAM program switched from proportional weight gain to MUAC &#x02265;124 mm as the sole discharge criterion, and achieved a slightly higher recovery rate (Risk Ratio: 1.04, 95% CI [1.03, 1.05]) in a sample of 50,841 children (Isanaka et al., <xref rid="mcn12920-bib-0018" ref-type="ref">2019</xref>). SAM children who were discharged in the second period using the MUAC&#x02010;based criterion also had shorter lengths of stay and fewer adverse program outcomes. Further evidence is awaited from the ComPAS trial (Bailey et al., <xref rid="mcn12920-bib-0004" ref-type="ref">2018</xref>) and research by WFP, UNICEF, European Civil Protection and Humanitarian Aid Operations, and other partners in West Africa (Kaul, Husain, Tyrrell, Gaarder, &#x00026; Jimenez, <xref rid="mcn12920-bib-0021" ref-type="ref">2018</xref>).</p><p>There have been fewer trials of combined/simplified protocols in South Asia, although this region is home to the world's largest number of severely wasted children (up to 70% of the global burden) (Ahmed et al., <xref rid="mcn12920-bib-0002" ref-type="ref">2014</xref>). Nonetheless a few country programs and projects have adopted some of the proposed modifications discussed here, albeit in nonemergency settings. In India, a CMAM program initiated by M&#x000e9;decins Sans Fronti&#x000e8;res in Bihar state that admitted children using MUAC &#x0003c; 115&#x000a0;mm for admission and MUAC &#x02265; 120&#x000a0;mm for discharge attained low mortality and high cure rates, in part by lowering the threshold for severity compared to WHZ &#x0003c; &#x02212;3 <italic>SD</italic> (Burza et al., <xref rid="mcn12920-bib-0010" ref-type="ref">2015</xref>). Pakistan's CMAM program has also achieved good recovery and survival rates using Lady Health Workers to screen and refer children based on MUAC &#x0003c; 115 mm (Aguayo et al., <xref rid="mcn12920-bib-0001" ref-type="ref">2018</xref>). However, care should be taken in comparing these programs given that acute malnutrition in the settings studied in our analysis is driven by severe food insecurity (often prefamine warning levels), whereas the drivers of wasting may be different in South Asia.</p><p>Nonetheless, it is clear that more evidence is needed on specific aspects of combined/simplified protocols before national decision&#x02010;makers will substantially revise national protocols. For example, the hesitancy to adopt MUAC and oedema&#x02010;only diagnosis observed in our study is understandable given the lively and ongoing scientific debate on this topic (Briend et al., <xref rid="mcn12920-bib-0009" ref-type="ref">2016</xref>; Grellety &#x00026; Golden, <xref rid="mcn12920-bib-0015" ref-type="ref">2016a</xref>). Compared with WHZ, there is broad agreement that MUAC constitutes the superior measure for use in community screenings, as well as in emergency situations, where obtaining WHZ is often infeasible. M&#x000e9;decins Sans Fronti&#x000e8;res has found success with MUAC in CMAM programming in emergency contexts, using admission thresholds varying from &#x0003c;115 to &#x0003c;125 mm, with outcomes for recovery, mortality, and default surpassing Sphere Minimum Standards in most cases (Hanson, <xref rid="mcn12920-bib-0017" ref-type="ref">2017</xref>; Phelan et al., <xref rid="mcn12920-bib-0026" ref-type="ref">2015</xref>). Although some analyses have suggested that up to three&#x02010;quarters of severely malnourished children are missed by MUAC &#x0003c;115 mm criteria (Grellety &#x00026; Golden, <xref rid="mcn12920-bib-0016" ref-type="ref">2016b</xref>), most proposed MUAC&#x02010;only protocols use a higher threshold than 115 mm. Interventions have sometimes used the sitting height to standing height ratio (or Cormic index) to correct of weight&#x02010;for&#x02010;height measurements for the body morphology of some ethnic groups (Roberfroid et al., <xref rid="mcn12920-bib-0027" ref-type="ref">2015</xref>; Salama et al., <xref rid="mcn12920-bib-0028" ref-type="ref">2001</xref>), but the issue of geographical variations body shape requires further study (Briend et al., <xref rid="mcn12920-bib-0009" ref-type="ref">2016</xref>). Evolving understandings of the frequency of multiple anthropomorphic deficits and the overlap and dynamic interactions between wasting and stunting will also influence this debate (Myatt et al., <xref rid="mcn12920-bib-0025" ref-type="ref">2018</xref>; Wells et al., <xref rid="mcn12920-bib-0031" ref-type="ref">2019</xref>). Although it is beyond the scope of this article to adjudicate the debate around MUAC versus WHZ, greater clarity around the specific conditions under which MUAC is an appropriate diagnostic tool, emphasizing its practicality and ease in difficult field situations, will be needed to assuage stakeholders' observed misgivings.</p><p>Country&#x02010;level stakeholders also need more information about the appropriateness of RUTF as the single product to treat both MAM and SAM. Both products are lipid&#x02010;based nutrient pastes containing similar amounts of protein, although usually from (more expensive) animal sources for RUTF or from soy or whey for RUSF; amounts of vitamins and micronutrients also vary between the two products (Isanaka et al., <xref rid="mcn12920-bib-0020" ref-type="ref">2010</xref>). RUSF was developed for treatment of MAM following the observed success of RUTF for treating SAM; however, RUSF is meant to supplement, not replace, other sources of nutrients. Yet the physiology of weight gain is essentially the same between MAM and SAM (Briend et al., <xref rid="mcn12920-bib-0008" ref-type="ref">2015</xref>), suggesting potential exchangeability between products, although few studies exist to test this proposition. Although RUTF has been used successfully to treat large numbers of MAM children (Defourny, Seroux, Abdelkadar, &#x00026; Harczi, <xref rid="mcn12920-bib-0013" ref-type="ref">2007</xref>), one recent systematic review comparing various lipid&#x02010;based nutrient supplements for treatment of MAM found a higher recovery rate in children receiving RUTF compared to RUSF (RR 1.23, 95% CI [1.09, 1.38]; one study for RUTFs; RR 1.06, 95% CI [1.01, 1.11] for RUSFs; <italic>P</italic> = .02 for subgroup differences; Gera, Pena&#x02010;Rosas, Boy&#x02010;Mena, &#x00026; Sachdev, <xref rid="mcn12920-bib-0014" ref-type="ref">2017</xref>). An earlier study in Niger found a lower risk of wasting with RUSF compared with RUSF; however, this difference was attributed to factors related to a previous intervention (Isanaka et al., <xref rid="mcn12920-bib-0020" ref-type="ref">2010</xref>). More research is needed about the relative efficacy, including weight gain but also micronutrient absorption and functional outcomes, of RUTF, RUSF, and their variants, as well as the cost effectiveness of the different options (Briend et al., <xref rid="mcn12920-bib-0008" ref-type="ref">2015</xref>; Schoonees, Lombard, Musekiwa, Nel, &#x00026; Volmink, <xref rid="mcn12920-bib-0029" ref-type="ref">2019</xref>).</p><p>This study has some limitations. Not all interviewees were able to be reached in&#x02010;person in all study countries due to the short duration of visits for data collection. In Somalia in particular, the researcher's time in country was restricted due to security protocols, which also made it difficult to reach many potential respondents, although additional stakeholders were interviewed in Nairobi. We mitigated this limitation by conducting additional phone interviews and triangulating with documents, reaching saturation on most relevant points. However, given small sample sizes, it remains possible that some perspectives were not fully represented. Next, data were collected by a team of two researchers one in Niger and northeast Nigeria (SD) and the other in Somalia and South Sudan (NK). To ensure congruity, the two researchers held regular and frequent discussions, including debriefing during or shortly after field visits and throughout data analysis. Next, given that NK is an IRC employee, and SD an IRC consultant at the time of data collection, it is possible that some respondents may have tailored their answers on the Combined Protocol, which is often associated with IRC. We used triangulation between respondents, as well as probing on potentially controversial aspects of the protocol, to mitigate this risk. Finally, a handful of interviews at both country and regional level took place with two participants, rather than individually. Given that participants in these settings may have refrained from sharing negative views, particularly regarding their own organization, we interpreted these interviews as representing an institutional standpoint, rather than two individual actors.</p><p>Field&#x02010;level stakeholders are interested and aware of the potential benefits of simplified approaches to treating child wasting in emergency settings, including those included in the Combined Protocol. Further research on specific aspects of these protocols is needed to answer scientific and operational questions, as is already recognized by regional&#x02010; and global&#x02010;level stakeholders, especially on issues where is a lack of consensus. Ongoing dialogue between these levels, and especially with national and MOH officials, will ensure planned research incorporates and answers field&#x02010;level concerns. At country level, stakeholders should be informed about ongoing research and be alert to ways to improve the effectiveness and cost efficiency of their own acute malnutrition programs, including as these may be affected by any global guideline revisions.</p></sec><sec sec-type="COI-statement" id="mcn12920-sec-0011"><title>CONFLICT OF INTEREST</title><p>All authors were employees of the IRC at the time of research, except SD and AG, who were also affiliated with IRC as either consultant or intern.</p></sec><sec id="mcn12920-sec-0012"><title>CONTRIBUTIONS</title><p>SD and NK designed the study and conducted in&#x02010;country data collection, with support and input from SM, AS, OA, MFEA, and MB. AG conducted the desk review and document analysis with SD and NK. Data analysis was conducted by SD and NK, who also wrote the paper, with input from all authors. The final version was approved by all authors.</p></sec></body><back><ack id="mcn12920-sec-0010"><title>ACKNOWLEDGMENTS</title><p>This project is funded by Elrha's Research for Health in Humanitarian Crises programme, which aims to improve health outcomes by strengthening the evidence base for public health interventions in humanitarian crises. The Research for Health in Humanitarian Crises programme is funded equally by the Wellcome Trust and the UK Department for International Development. Visit <ext-link ext-link-type="uri" xlink:href="http://www.elrha.org/r2hc">http://www.elrha.org/r2hc</ext-link> for more information.</p><p>This research was made possible by the support of staff at IRC field offices in Niger, Nigeria, Somalia, South Sudan, and the IRC Somalia satellite office in Kenya. We also thank Sophie Woodhead for providing valuable context and resources on the latest work on simplified approaches in West Africa and at global level.</p></ack><ref-list id="mcn12920-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="mcn12920-bib-0001"><mixed-citation publication-type="journal" id="mcn12920-cit-0002">
+<string-name>
+<surname>Aguayo</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Badgaiyan</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Qadir</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<surname>Bugti</surname>, <given-names>A. N.</given-names>
+</string-name>, <string-name>
+<surname>Alam</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Nishtar</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Galvin</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Community management of acute malnutrition (CMAM) programme in Pakistan effectively treats children with uncomplicated severe wasting</article-title>. <source xml:lang="en">Maternal &#x00026; Child Nutrition</source>, <volume>14</volume>(<issue>Suppl 4</issue>), <elocation-id>e12623</elocation-id>
+<pub-id pub-id-type="doi">10.1111/mcn.12623</pub-id>
+<pub-id pub-id-type="pmid">30499254</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0002"><mixed-citation publication-type="journal" id="mcn12920-cit-0003">
+<string-name>
+<surname>Ahmed</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Hossain</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mahfuz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Choudhury</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hossain</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Bhandari</surname>, <given-names>N.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bhutta</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2014</year>). <article-title>Severe acute malnutrition in Asia</article-title>. <source xml:lang="en">Food and Nutrition Bulletin</source>, <volume>35</volume>(<issue>2_suppl1</issue>), <fpage>S14</fpage>&#x02013;<lpage>S26</lpage>. <pub-id pub-id-type="doi">10.1177/15648265140352s103</pub-id>
+<pub-id pub-id-type="pmid">25069289</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0003"><mixed-citation publication-type="journal" id="mcn12920-cit-0004">
+<string-name>
+<surname>Bailey</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chase</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kerac</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Briend</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Manary</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Opondo</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kim</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Combined Protocol for Acute Malnutrition Study (ComPAS): Stage One Findings</article-title>. <source xml:lang="en">Field Exchange</source>, <volume>53</volume>, <fpage>44</fpage>.</mixed-citation></ref><ref id="mcn12920-bib-0004"><mixed-citation publication-type="journal" id="mcn12920-cit-0005">
+<string-name>
+<surname>Bailey</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lelijveld</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Marron</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Onyoo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Manary</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kerac</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Combined Protocol for Acute Malnutrition Study (ComPAS) in rural South Sudan and urban Kenya: Study protocol for a randomized controlled trial</article-title>. <source xml:lang="en">Trials</source>, <volume>19</volume>(<issue>1</issue>), <fpage>251</fpage>
+<pub-id pub-id-type="doi">10.1186/s13063-018-2643-2</pub-id>
+<pub-id pub-id-type="pmid">29690916</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0005"><mixed-citation publication-type="journal" id="mcn12920-cit-0006">
+<string-name>
+<surname>Bhutta</surname>, <given-names>Z. A.</given-names>
+</string-name>, <string-name>
+<surname>Das</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Rizvi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gaffey</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Horton</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Black</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2013</year>). <article-title>Evidence&#x02010;based interventions for improvement of maternal and child nutrition: what can be done and at what cost?</article-title>
+<source xml:lang="en">The Lancet</source>, <volume>382</volume>(<issue>9890</issue>), <fpage>452</fpage>&#x02013;<lpage>477</lpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(13)60996-4</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0006"><mixed-citation publication-type="journal" id="mcn12920-cit-0007">
+<string-name>
+<surname>Black</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<surname>Bhutta</surname>, <given-names>Z. A.</given-names>
+</string-name>, <string-name>
+<surname>Caulfield</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>de Onis</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ezzati</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rivera</surname>, <given-names>J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Maternal and child undernutrition: Global and regional exposures and health consequences</article-title>. <source xml:lang="en">The Lancet</source>, <volume>371</volume>(<issue>9608</issue>), <fpage>243</fpage>&#x02013;<lpage>260</lpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(07)61690-0</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0007"><mixed-citation publication-type="journal" id="mcn12920-cit-0008">
+<string-name>
+<surname>Black</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Victora</surname>, <given-names>C. G.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Bhutta</surname>, <given-names>Z. A.</given-names>
+</string-name>, <string-name>
+<surname>Christian</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>de Onis</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Uauy</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>). <article-title>Maternal and child undernutrition and overweight in low&#x02010;income and middle&#x02010;income countries</article-title>. <source xml:lang="en">The Lancet</source>, <volume>382</volume>(<issue>9890</issue>), <fpage>427</fpage>&#x02013;<lpage>451</lpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(13)60937-x</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0008"><mixed-citation publication-type="journal" id="mcn12920-cit-0009">
+<string-name>
+<surname>Briend</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Akomo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bahwere</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>de Pee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dibari</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Golden</surname>, <given-names>M. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ryan</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>). <article-title>Developing food supplements for moderately malnourished children: Lessons learned from ready&#x02010;to&#x02010;use therapeutic foods</article-title>. <source xml:lang="en">Food and Nutrition Bulletin</source>, <volume>36</volume>(<issue>1_suppl1</issue>), <fpage>S53</fpage>&#x02013;<lpage>S58</lpage>. <pub-id pub-id-type="doi">10.1177/15648265150361s109</pub-id>
+<pub-id pub-id-type="pmid">25902615</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0009"><mixed-citation publication-type="journal" id="mcn12920-cit-0010">
+<string-name>
+<surname>Briend</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>, <given-names>J.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Avril</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Bahwere</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Berkley</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Whitney</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Low mid&#x02010;upper arm circumference identifies children with a high risk of death who should be the priority target for treatment</article-title>. <source xml:lang="en">BMC Nutrition</source>, <volume>2</volume>(<issue>1</issue>), <fpage>63</fpage>
+<pub-id pub-id-type="doi">10.1186/s40795-016-0101-7</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0010"><mixed-citation publication-type="journal" id="mcn12920-cit-0011">
+<string-name>
+<surname>Burza</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mahajan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Marino</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sunyoto</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shandilya</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tabrez</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Mishra</surname>, <given-names>K. N.</given-names>
+</string-name> (<year>2015</year>). <article-title>Community&#x02010;based management of severe acute malnutrition in India: New evidence from Bihar</article-title>. <source xml:lang="en">The American Journal of Clinical Nutrition</source>, <volume>101</volume>(<issue>4</issue>), <fpage>847</fpage>&#x02013;<lpage>859</lpage>. <pub-id pub-id-type="doi">10.3945/ajcn.114.093294</pub-id>
+<pub-id pub-id-type="pmid">25833981</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0011"><mixed-citation publication-type="journal" id="mcn12920-cit-0012">
+<string-name>
+<surname>Chang</surname>, <given-names>C. Y.</given-names>
+</string-name>, <string-name>
+<surname>Trehan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Thakwalakwa</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Maleta</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Deitchler</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Manary</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Children successfully treated for moderate acute malnutrition remain at risk for malnutrition and death in the subsequent year after recovery</article-title>. <source xml:lang="en">The Journal of Nutrition</source>, <volume>143</volume>(<issue>2</issue>), <fpage>215</fpage>&#x02013;<lpage>220</lpage>. <pub-id pub-id-type="doi">10.3945/jn.112.168047</pub-id>
+<pub-id pub-id-type="pmid">23256140</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0012"><mixed-citation publication-type="journal" id="mcn12920-cit-0013">
+<string-name>
+<surname>Collins</surname>, <given-names>S.</given-names>
+</string-name> (<year>2001</year>). <article-title>Changing the way we address severe malnutrition during famine</article-title>. <source xml:lang="en">The Lancet</source>, <volume>358</volume>(<issue>9280</issue>), <fpage>498</fpage>&#x02013;<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1016/s0140-6736(01)05630-6</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0013"><mixed-citation publication-type="journal" id="mcn12920-cit-0014">
+<string-name>
+<surname>Defourny</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Seroux</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Abdelkadar</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Harczi</surname>, <given-names>G.</given-names>
+</string-name> (<year>2007</year>). <article-title>Management of moderate acute malnutrition with RUTF in Niger</article-title>. <source xml:lang="en">Field Exchange</source>, <volume>31</volume>, <fpage>2</fpage>.</mixed-citation></ref><ref id="mcn12920-bib-0014"><mixed-citation publication-type="journal" id="mcn12920-cit-0015">
+<string-name>
+<surname>Gera</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Pena&#x02010;Rosas</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Boy&#x02010;Mena</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sachdev</surname>, <given-names>H. S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Lipid based nutrient supplements (LNS) for treatment of children (6 months to 59 months) with moderate acute malnutrition (MAM): A systematic review</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>12</volume>(<issue>9</issue>), <elocation-id>e0182096</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0182096</pub-id>
+<pub-id pub-id-type="pmid">28934235</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0015"><mixed-citation publication-type="journal" id="mcn12920-cit-0016">
+<string-name>
+<surname>Grellety</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Golden</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2016a</year>). <article-title>Response to "Low mid&#x02010;upper arm circumference identifies children with a high risk of death who should be the priority target for treatment"</article-title>. <source xml:lang="en">BMC Nutrition</source>, <volume>2</volume>(<issue>1</issue>). <pub-id pub-id-type="doi">10.1186/s40795-016-0101-7</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0016"><mixed-citation publication-type="journal" id="mcn12920-cit-0017">
+<string-name>
+<surname>Grellety</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Golden</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2016b</year>). <article-title>Weight&#x02010;for&#x02010;height and mid&#x02010;upper&#x02010;arm circumference should be used independently to diagnose acute malnutrition: policy implications</article-title>. <source xml:lang="en">BMC Nutrition</source>, <volume>2</volume>(<issue>1</issue>), <fpage>10</fpage>
+<pub-id pub-id-type="doi">10.1186/s40795-016-0049-7</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0017"><mixed-citation publication-type="book" id="mcn12920-cit-0018">
+<string-name>
+<surname>Hanson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2017</year>). <source xml:lang="en">Treating undernutrition in Borno State</source>. <publisher-loc>Nigeria</publisher-loc>: <publisher-name>Adapting strategy in emergencies</publisher-name>, from. <ext-link ext-link-type="uri" xlink:href="http://globalhealth.thelancet.com/2017/01/06/treating-undernutrition-borno-state-nigeria-adapting-strategy-emergencies">http://globalhealth.thelancet.com/2017/01/06/treating-undernutrition-borno-state-nigeria-adapting-strategy-emergencies</ext-link>
+</mixed-citation></ref><ref id="mcn12920-bib-0018"><mixed-citation publication-type="journal" id="mcn12920-cit-0019">
+<string-name>
+<surname>Isanaka</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hanson</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Frison</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Cohuet</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grais</surname>, <given-names>R. F.</given-names>
+</string-name> (<year>2019</year>). <article-title>MUAC as the sole discharge criterion from community&#x02010;based management of severe acute malnutrition in Burkina Faso</article-title>. <source xml:lang="en">Maternal &#x00026; Child Nutrition</source>, <volume>15</volume>(<issue>2</issue>), <elocation-id>e12688</elocation-id>
+<pub-id pub-id-type="doi">10.1111/mcn.12688</pub-id>
+<pub-id pub-id-type="pmid">30194814</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0019"><mixed-citation publication-type="journal" id="mcn12920-cit-0020">
+<string-name>
+<surname>Isanaka</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Menzies</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<surname>Sayyad</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Ayoola</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Grais</surname>, <given-names>R. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Doyon</surname>, <given-names>S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Cost analysis of the treatment of severe acute malnutrition in West Africa</article-title>. <source xml:lang="en">Maternal &#x00026; Child Nutrition</source>, <volume>13</volume>(<issue>4</issue>), <elocation-id>e12398</elocation-id>
+<pub-id pub-id-type="doi">10.1111/mcn.12398</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0020"><mixed-citation publication-type="journal" id="mcn12920-cit-0021">
+<string-name>
+<surname>Isanaka</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Roederer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Djibo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Luquero</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name>
+<surname>Nombela</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Guerin</surname>, <given-names>P. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grais</surname>, <given-names>R. F.</given-names>
+</string-name> (<year>2010</year>). <article-title>Reducing wasting in young children with preventive supplementation: A cohort study in Niger</article-title>. <source xml:lang="en">Pediatrics</source>, <volume>126</volume>(<issue>2</issue>), <elocation-id>e442</elocation-id>&#x02013;<lpage>e450</lpage>. <pub-id pub-id-type="doi">10.1542/peds.2009-2814</pub-id>
+<pub-id pub-id-type="pmid">20660552</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0021"><mixed-citation publication-type="book" id="mcn12920-cit-0022">
+<string-name>
+<surname>Kaul</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Husain</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tyrrell</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gaarder</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jimenez</surname>, <given-names>E.</given-names>
+</string-name> (<year>2018</year>). <source xml:lang="en">Impact evaluations synthesis: Four evaluations of the impact of WFP programmes on nutrition in humanitarian contexts in the Sahel (Vol. OEV/2018/001)</source>. <publisher-loc>Rome</publisher-loc>: <publisher-name>WFP Office of Evaluation</publisher-name>.</mixed-citation></ref><ref id="mcn12920-bib-0022"><mixed-citation publication-type="journal" id="mcn12920-cit-0023">
+<string-name>
+<surname>Lelijveld</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Seal</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wells</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Kirkby</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Opondo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Chimwezi</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kerac</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Chronic disease outcomes after severe acute malnutrition in Malawian children (ChroSAM): a cohort study</article-title>. <source xml:lang="en">The Lancet. Global Health</source>, <volume>4</volume>(<issue>9</issue>), <elocation-id>e654</elocation-id>&#x02013;<lpage>e662</lpage>. <pub-id pub-id-type="doi">10.1016/s2214-109x(16)30133-4</pub-id>
+<pub-id pub-id-type="pmid">27470174</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0023"><mixed-citation publication-type="journal" id="mcn12920-cit-0024">
+<string-name>
+<surname>Maust</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Koroma</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Abla</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Molokwu</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ryan</surname>, <given-names>K. N.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Manary</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Severe and moderate acute malnutrition can be successfully managed with an integrated protocol in Sierra Leone</article-title>. <source xml:lang="en">The Journal of Nutrition</source>, <volume>145</volume>(<issue>11</issue>), <fpage>2604</fpage>&#x02013;<lpage>2609</lpage>. <pub-id pub-id-type="doi">10.3945/jn.115.214957</pub-id>
+<pub-id pub-id-type="pmid">26423737</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0024"><mixed-citation publication-type="book" id="mcn12920-cit-0025">
+<string-name>
+<surname>Maxwell</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2005</year>). <source xml:lang="en">Qualitative research design: An interactive approach&#x02014;Second Edition</source>. <publisher-loc>Thousand Oaks, CA</publisher-loc>: <publisher-name>Sage Publications</publisher-name>.</mixed-citation></ref><ref id="mcn12920-bib-0025"><mixed-citation publication-type="journal" id="mcn12920-cit-0026">
+<string-name>
+<surname>Myatt</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Khara</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Schoenbuchner</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pietzsch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dolan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Lelijveld</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Briend</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Children who are both wasted and stunted are also underweight and have a high risk of death: A descriptive epidemiology of multiple anthropometric deficits using data from 51 countries</article-title>. <source xml:lang="en">Archives of Public Health</source>, <volume>76</volume>(<issue>1</issue>), <fpage>28</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1186/s13690-018-0277-1</pub-id>
+<pub-id pub-id-type="pmid">30026945</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0026"><mixed-citation publication-type="book" id="mcn12920-cit-0027">
+<string-name>
+<surname>Phelan</surname>, <given-names>K. P. Q.</given-names>
+</string-name>, <string-name>
+<surname>Lanusse</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>van der Kam</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Delchevalerie</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Avril</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hanson</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>). In <person-group person-group-type="editor"><name name-style="western"><surname>Exchange</surname><given-names>E. F.</given-names></name></person-group> (Ed.), <source xml:lang="en">Simplifying the response to childhood malnutrition: MSF's experience with MUAC&#x02010;based (and oedema) programming</source> (Vol. <volume>50</volume>). <publisher-loc>London</publisher-loc>: <publisher-name>ENN</publisher-name>.</mixed-citation></ref><ref id="mcn12920-bib-0027"><mixed-citation publication-type="journal" id="mcn12920-cit-0028">
+<string-name>
+<surname>Roberfroid</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Huybregts</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lachat</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vrijens</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kolsteren</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Guesdon</surname>, <given-names>B.</given-names>
+</string-name> (<year>2015</year>). <article-title>Inconsistent diagnosis of acute malnutrition by weight&#x02010;for&#x02010;height and mid&#x02010;upper arm circumference: Contributors in 16 cross&#x02010;sectional surveys from South Sudan, the Philippines, Chad, and Bangladesh</article-title>. <source xml:lang="en">Nutrition Journal</source>, <volume>14</volume>(<issue>1</issue>), <fpage>86</fpage>
+<pub-id pub-id-type="doi">10.1186/s12937-015-0074-4</pub-id>
+<pub-id pub-id-type="pmid">26303859</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0028"><mixed-citation publication-type="journal" id="mcn12920-cit-0029">
+<string-name>
+<surname>Salama</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Assefa</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Talley</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Spiegel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>van der Veen</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gotway</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Malnutrition, measles, mortality, and the humanitarian response during a famine in Ethiopia</article-title>. <source xml:lang="en">JAMA</source>, <volume>286</volume>(<issue>5</issue>), <fpage>563</fpage>&#x02013;<lpage>571</lpage>. <pub-id pub-id-type="doi">10.1001/jama.286.5.563</pub-id>
+<pub-id pub-id-type="pmid">11476658</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0029"><mixed-citation publication-type="journal" id="mcn12920-cit-0030">
+<string-name>
+<surname>Schoonees</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lombard</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Musekiwa</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nel</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Volmink</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Ready&#x02010;to&#x02010;use therapeutic food (RUTF) for home&#x02010;based nutritional rehabilitation of severe acute malnutrition in children from six months to five years of age</article-title>. <source xml:lang="en">Cochrane Database of Systematic Reviews</source>, <volume>5</volume>
+<pub-id pub-id-type="doi">10.1002/14651858.CD009000.pub3</pub-id>
+</mixed-citation></ref><ref id="mcn12920-bib-0030"><mixed-citation publication-type="book" id="mcn12920-cit-0031">
+<collab collab-type="authors">UNICEF, WHO, &#x00026; World Bank Group</collab>
+(<year>2019</year>). <source xml:lang="en">Levels and trends in child malnutrition</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>WHO</publisher-name>.</mixed-citation></ref><ref id="mcn12920-bib-0031"><mixed-citation publication-type="journal" id="mcn12920-cit-0032">
+<string-name>
+<surname>Wells</surname>, <given-names>J. C. K.</given-names>
+</string-name>, <string-name>
+<surname>Briend</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boyd</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Berkely</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Isanaka</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dolan</surname>, <given-names>C.</given-names>
+</string-name> (<year>2019</year>). <article-title>Beyond wasted and stunted&#x02014;a major shift to fight child undernutrition</article-title>. <source xml:lang="en">The Lancet Child &#x00026; Adolescent Health.</source>, <volume>3</volume>, <fpage>831</fpage>&#x02013;<lpage>834</lpage>. <pub-id pub-id-type="doi">10.1016/s2352-4642(19)30244-5</pub-id>
+<pub-id pub-id-type="pmid">31521500</pub-id></mixed-citation></ref><ref id="mcn12920-bib-0032"><mixed-citation publication-type="book" id="mcn12920-cit-0033">
+<collab collab-type="authors">WHO</collab>
+(<year>2012</year>). <source xml:lang="en">Technical note: Supplementary foods for the management of moderate acute malnutrition in infants and children 6&#x02013;59 months of age</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>World Health Organization</publisher-name>.</mixed-citation></ref><ref id="mcn12920-bib-0033"><mixed-citation publication-type="miscellaneous" id="mcn12920-cit-0034">
+<collab collab-type="authors">WHO, UNHCR, UNICEF, &#x00026; WFP</collab>
+. (<year>2019</year>). <italic>Simplified approaches for the treatment of child wasting: An executive briefing from a technical consultation between the World Health Organization, the Office of the United Nations High Commissioner for Refugees, the United Nations Children</italic>'<italic>s Fund and the World Food Programme</italic>, Geneva.</mixed-citation></ref><ref id="mcn12920-bib-0034"><mixed-citation publication-type="journal" id="mcn12920-cit-0035">
+<string-name>
+<surname>Woodhead</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rio</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zagre</surname>, <given-names>N.</given-names>
+</string-name> (<year>2019</year>). <article-title>Regional perspectives on simplified approaches for the management of children with acute malnutrition: West and Central Africa</article-title>. <source xml:lang="en">Field Exchange</source>, <volume>60</volume>, <fpage>33</fpage>.</mixed-citation></ref><ref id="mcn12920-bib-0035"><mixed-citation publication-type="book" id="mcn12920-cit-0036">
+<string-name>
+<surname>Yin</surname>, <given-names>R.</given-names>
+</string-name> (<year>1994</year>). <source xml:lang="en">Case study research: Design and methods</source> (<edition>2nd ed.</edition>). <publisher-loc>Thousand Oaks, CA</publisher-loc>: <publisher-name>Sage</publisher-name>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,381 @@
+{
+  "id": [
+    "32390765"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32390765"
+  ],
+  "pmcid": [
+    "PMC7201942"
+  ],
+  "doi": [
+    "10.1186/s12935-020-01232-9"
+  ],
+  "title": [
+    "Arginine deprivation: a potential therapeutic for cancer cell metastasis? A review."
+  ],
+  "authorString": [
+    "Al-Koussa H, El Mais N, Maalouf H, Abi-Habib R, El-Sibai M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Al-Koussa H"
+          ],
+          "firstName": [
+            "Houssam"
+          ],
+          "lastName": [
+            "Al-Koussa"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Natural Sciences, School of Arts and Sciences, Lebanese American University, P.O. Box: 13-5053, Chouran, 1102 2801 Beirut, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "El Mais N"
+          ],
+          "firstName": [
+            "Nour"
+          ],
+          "lastName": [
+            "El Mais"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Natural Sciences, School of Arts and Sciences, Lebanese American University, P.O. Box: 13-5053, Chouran, 1102 2801 Beirut, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maalouf H"
+          ],
+          "firstName": [
+            "Hiba"
+          ],
+          "lastName": [
+            "Maalouf"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Natural Sciences, School of Arts and Sciences, Lebanese American University, P.O. Box: 13-5053, Chouran, 1102 2801 Beirut, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abi-Habib R"
+          ],
+          "firstName": [
+            "Ralph"
+          ],
+          "lastName": [
+            "Abi-Habib"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Natural Sciences, School of Arts and Sciences, Lebanese American University, P.O. Box: 13-5053, Chouran, 1102 2801 Beirut, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "El-Sibai M"
+          ],
+          "firstName": [
+            "Mirvat"
+          ],
+          "lastName": [
+            "El-Sibai"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4084-6759",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Natural Sciences, School of Arts and Sciences, Lebanese American University, P.O. Box: 13-5053, Chouran, 1102 2801 Beirut, Lebanon."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4084-6759",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2898933"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer Cell International"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Cell Int."
+          ],
+          "medlineAbbreviation": [
+            "Cancer Cell Int"
+          ],
+          "NLMid": [
+            "101139795"
+          ],
+          "ISSN": [
+            "1475-2867"
+          ],
+          "ESSN": [
+            "1475-2867"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "150"
+  ],
+  "abstractText": [
+    "Arginine is a semi essential amino acid that is used in protein biosynthesis. It can be obtained from daily food intake or synthesized in the body through the urea cycle using l-citrulline as a substrate. Arginine has a versatile role in the body because it helps in cell division, wound healing, ammonia disposal, immune system, and hormone biosynthesis. It is noteworthy that l-arginine is the precursor for the biosynthesis of nitric oxide (NO) and polyamines. In the case of cancer cells, arginine de novo synthesis is not enough to compensate for their high nutritional needs, forcing them to rely on extracellular supply of arginine. In this review, we will go through the importance of arginine deprivation as a novel targeting therapy by discussing the different arginine deprivation agents and their mechanism of action. We will also focus on the factors that affect cell migration and on the influence of arginine on metastases through polyamine and NO."
+  ],
+  "affiliation": [
+    "Department of Natural Sciences, School of Arts and Sciences, Lebanese American University, P.O. Box: 13-5053, Chouran, 1102 2801 Beirut, Lebanon."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Arginine",
+        "Arginase",
+        "cell migration",
+        "Rho-gtpases"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01232-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7201942"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7201942?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01232-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-12"
+  ],
+  "firstIndexDate": [
+    "2020-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-10"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-06"
+  ],
+  "firstPublicationDate": [
+    "2020-05-06"
+  ]
+}

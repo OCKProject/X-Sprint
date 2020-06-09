@@ -1,0 +1,440 @@
+{
+  "id": [
+    "32351986"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32351986"
+  ],
+  "pmcid": [
+    "PMC7174912"
+  ],
+  "doi": [
+    "10.1155/2020/2547902"
+  ],
+  "title": [
+    "miR-30a-5p Inhibits Proliferation and Migration of Lung Squamous Cell Carcinoma Cells by Targeting FOXD1."
+  ],
+  "authorString": [
+    "Chen C, Tang J, Xu S, Zhang W, Jiang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Chunhua"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6568-4111",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pulmonary and Critical Care Medicine, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang J"
+          ],
+          "firstName": [
+            "Junhua"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7219-927X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Respiratory Medicine, First People's Hospital of Fuyang, Hangzhou 311400, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu S"
+          ],
+          "firstName": [
+            "Shan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2586-6719",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pulmonary and Critical Care Medicine, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wenxia"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0952-5482",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pulmonary and Critical Care Medicine, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang H"
+          ],
+          "firstName": [
+            "Hanliang"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0902-882X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pulmonary and Critical Care Medicine, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6568-4111",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7219-927X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2586-6719",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0952-5482",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0902-882X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2925583"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6141"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2547902"
+  ],
+  "abstractText": [
+    "Objective:To investigate the mechanism of miR-30a-5p inhibiting proliferation and migration of lung squamous cell carcinoma (LSCC) cells by targeting FOXD1. Methods:Bioinformatics was used to analyze differentially expressed genes in the TCGA_LUSC database. qRT-PCR was used to detect the expression levels of miR-30a-5p and FOXD1 in human normal lung epithelial cell line and human LSCC cell lines. The protein expression of FOXD1 was detected by western blot. The cell viability and colony formation abilities were examined by CCK-8 and colony formation assays, respectively. Wound healing and Transwell assays were performed to examine the migration and invasion abilities of cells. The targeted binding sites of miR-30a-5p and FOXD1 were predicted by bioinformatics, and dual luciferase assay was used to verify the targeted binding relationship between miR-30a-5p and FOXD1. Result:miR-30a-5p was downregulated in LSCC tissues and cells, while FOXD1 was highly expressed. Overexpression of miR-30a-5p or silencing FOXD1 inhibited cell viability, colony formation ability, migration, and invasion of LSCC cells. miR-30a-5p inhibited the proliferation and migration of LSCC cells by downregulating the expression of FOXD1. Conclusion:miR-30a-5p can downregulate the expression of FOXD1 and inhibit the proliferation and migration of LSCC."
+  ],
+  "affiliation": [
+    "Department of Pulmonary and Critical Care Medicine, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou 310016, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/2547902"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7174912"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7174912?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/2547902"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-01"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-01"
+  ],
+  "dateOfRevision": [
+    "2020-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-13"
+  ],
+  "firstPublicationDate": [
+    "2020-04-13"
+  ]
+}

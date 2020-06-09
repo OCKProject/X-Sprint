@@ -1,0 +1,324 @@
+{
+  "id": [
+    "27069292"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27069292"
+  ],
+  "pmcid": [
+    "PMC4803816"
+  ],
+  "doi": [
+    "10.1007/s10680-015-9362-0"
+  ],
+  "title": [
+    "Decision-Making in Agent-Based Models of Migration: State of the Art and Challenges."
+  ],
+  "authorString": [
+    "Klabunde A, Willekens F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Klabunde A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Klabunde"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Max Planck Institute for Demographic Research, Konrad-Zuse-Str. 1, 18057 Rostock, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Willekens F"
+          ],
+          "firstName": [
+            "Frans"
+          ],
+          "lastName": [
+            "Willekens"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Max Planck Institute for Demographic Research, Konrad-Zuse-Str. 1, 18057 Rostock, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "32"
+      ],
+      "journalIssueId": [
+        "2397643"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of population = Revue europeenne de demographie"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Popul"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Popul"
+          ],
+          "NLMid": [
+            "8511777"
+          ],
+          "ISSN": [
+            "0168-6577"
+          ],
+          "ESSN": [
+            "1572-9885"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "73-97"
+  ],
+  "abstractText": [
+    "We review agent-based models (ABM) of human migration with respect to their decision-making rules. The most prominent behavioural theories used as decision rules are the random utility theory, as implemented in the discrete choice model, and the theory of planned behaviour. We identify the critical choices that must be made in developing an ABM, namely the modelling of decision processes and social networks. We also discuss two challenges that hamper the widespread use of ABM in the study of migration and, more broadly, demography and the social sciences: (a) the choice and the operationalisation of a behavioural theory (decision-making and social interaction) and (b) the selection of empirical evidence to validate the model. We offer advice on how these challenges might be overcome."
+  ],
+  "affiliation": [
+    "Max Planck Institute for Demographic Research, Konrad-Zuse-Str. 1, 18057 Rostock, Germany."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Review",
+        "decision-making",
+        "Microsimulation",
+        "Agent-based Model",
+        "Abm",
+        "Choice Theory"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10680-015-9362-0"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10680-015-9362-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4803816"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4803816?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10680-015-9362-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-04-13"
+  ],
+  "firstIndexDate": [
+    "2016-04-13"
+  ],
+  "fullTextReceivedDate": [
+    "2016-04-11"
+  ],
+  "dateOfRevision": [
+    "2018-03-05"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-15"
+  ],
+  "firstPublicationDate": [
+    "2016-02-15"
+  ]
+}

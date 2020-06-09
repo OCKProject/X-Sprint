@@ -1,0 +1,882 @@
+{
+  "id": [
+    "29291545"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29291545"
+  ],
+  "pmcid": [
+    "PMC5752090"
+  ],
+  "doi": [
+    "10.1016/j.redox.2017.12.009"
+  ],
+  "title": [
+    "Impaired pentose phosphate pathway in the development of 3D MCF-7 cells mediated intracellular redox disturbance and multi-cellular resistance without drug induction."
+  ],
+  "authorString": [
+    "Wang W, Cai Q, Zhou F, Liu J, Jin X, Ni P, Lu M, Wang G, Zhang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Wenjie"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cai Q"
+          ],
+          "firstName": [
+            "Qingyun"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jiali"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin X"
+          ],
+          "firstName": [
+            "Xiaoliang"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ni P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu M"
+          ],
+          "firstName": [
+            "Meng"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nanjing Drum Tower Hospital, The Affiliated Hospital of Nanjing University Medical School, Nanjing, Jiangsu, China. Electronic address: ahwhlm@163.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Guangji"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China. Electronic address: guangjiwang@hotmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jingwei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China. Electronic address: zhangjw_cnnj@sina.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2632226"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Redox biology"
+          ],
+          "ISOAbbreviation": [
+            "Redox Biol"
+          ],
+          "medlineAbbreviation": [
+            "Redox Biol"
+          ],
+          "NLMid": [
+            "101605639"
+          ],
+          "ISSN": [
+            "2213-2317"
+          ],
+          "ESSN": [
+            "2213-2317"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "253-265"
+  ],
+  "abstractText": [
+    "Although metabolic reprogramming and redox imbalance are widely reported to be involved in chemo-resistance in cancer treatment, much more attention was paid to anti-cancer drug induced effect. Our previous studies showed that cancer cells can develop P-gp overexpression-mediated intrinsic drug resistance in the formation of 3D MCF-7 multi-cellular layers (MCLs) without any drug induction. However, whether metabolic reprogramming and redox imbalance functioned during this progress remained unrevealed. In our present study, LC-Q/TOF-MS and GC-MS were used in combination for analysing intracellular metabolites. The contribution of pentose phosphate pathway (PPP) and its related redox status were checked by chemical interfering and silencing/over-expression of glucose-6-phosphate dehydrogenase (G6PD). The downstream products of G6PD were assayed by quantitative real-time PCR, western blot and flow cytometry. Results showed that not only G6PD expression but also G6PD activity was significantly lowered along with 3D MCF-7 cells culture time. Impaired PPP disturbed redox-cycling, generated reactive oxygen species (ROS), which triggered cell cycle arrest and caused the switch to Chk2/p53/NF-κB pathway-mediated P-gp induction. Our results provided a new attempt to associate intrinsic small molecule metabolites (impaired PPP) communicating with cell signalling pathways through disturbed intracellular redox status to elucidate multi-cellular resistance (MCR) in 3D MCF-7 cells, which improved the understanding of the mechanisms of P-gp up-regulation in MCR with metabolomic and related redox status support."
+  ],
+  "affiliation": [
+    "Key Lab of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing, Jiangsu, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reactive Oxygen Species"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glucosephosphate Dehydrogenase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "NF-kappa B"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Neoplastic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxidation-Reduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Resistance, Neoplasm"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pentose Phosphate Pathway"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Small Molecule Libraries"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MCF-7 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ATP Binding Cassette Transporter, Sub-Family B"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pentose phosphate pathway",
+        "Cellular Metabolomics",
+        "3D Cell Culture",
+        "Dmso (Pubchem Cid: 679)",
+        "Menadione (Pubchem Cid: 4055)",
+        "Redox-status",
+        "N-acetylcysteine (Pubchem Cid: 12035)",
+        "Myristic-1,2-(13)c(2) Acid (Pubchem Cid: 16213483)",
+        "P-gp Regulation",
+        "Pft-α (Pubchem Cid:9929138)"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glucosephosphate Dehydrogenase"
+          ],
+          "registryNumber": [
+            "EC 1.1.1.49"
+          ]
+        },
+        {
+          "name": [
+            "Reactive Oxygen Species"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "NF-kappa B"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Small Molecule Libraries"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ATP Binding Cassette Transporter, Sub-Family B"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.redox.2017.12.009"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5752090"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5752090?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.redox.2017.12.009"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-11"
+  ],
+  "dateOfCreation": [
+    "2018-01-02"
+  ],
+  "firstIndexDate": [
+    "2018-01-02"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-12"
+  ],
+  "dateOfRevision": [
+    "2018-10-11"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-21"
+  ],
+  "firstPublicationDate": [
+    "2017-12-21"
+  ]
+}

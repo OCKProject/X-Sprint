@@ -1,0 +1,524 @@
+{
+  "id": [
+    "32414400"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32414400"
+  ],
+  "pmcid": [
+    "PMC7227051"
+  ],
+  "doi": [
+    "10.1186/s13075-020-02204-0"
+  ],
+  "title": [
+    "The effect of nicotinamide adenine dinucleotide phosphate oxidase 4 on migration and invasion of fibroblast-like synoviocytes in rheumatoid arthritis."
+  ],
+  "authorString": [
+    "Lee HR, Yoo SJ, Kim J, Yoo IS, Park CK, Kang SW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee HR"
+          ],
+          "firstName": [
+            "Ha-Reum"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9200-4372",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Institute for Medical Sciences, Chungnam National University School of Medicine, 266 Munhwaro, Daejeon, Republic of Korea.",
+                "Division of Rheumatology, Department of Internal Medicine, Chungnam National University Hospital, 282 Munhwaro, Daejeon, 35015, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo SJ"
+          ],
+          "firstName": [
+            "Su-Jin"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4620-8803",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Rheumatology, Department of Internal Medicine, Chungnam National University Hospital, 282 Munhwaro, Daejeon, 35015, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kim J"
+          ],
+          "firstName": [
+            "Jinhyun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5235-2612",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Rheumatology, Department of Internal Medicine, Chungnam National University Hospital, 282 Munhwaro, Daejeon, 35015, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo IS"
+          ],
+          "firstName": [
+            "In Seol"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "IS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Rheumatology, Department of Internal Medicine, Chungnam National University Hospital, 282 Munhwaro, Daejeon, 35015, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park CK"
+          ],
+          "firstName": [
+            "Chan Keol"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "CK"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Rheumatology, Department of Internal Medicine, Chungnam National University Hospital, 282 Munhwaro, Daejeon, 35015, Republic of Korea."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kang SW"
+          ],
+          "firstName": [
+            "Seong Wook"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0076-0822",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Institute for Medical Sciences, Chungnam National University School of Medicine, 266 Munhwaro, Daejeon, Republic of Korea. kangsw@cnuh.co.kr.",
+                "Division of Rheumatology, Department of Internal Medicine, Chungnam National University Hospital, 282 Munhwaro, Daejeon, 35015, Republic of Korea. kangsw@cnuh.co.kr."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9200-4372",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4620-8803",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5235-2612",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0076-0822",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2949239"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Arthritis Research & Therapy"
+          ],
+          "ISOAbbreviation": [
+            "Arthritis Res. Ther."
+          ],
+          "medlineAbbreviation": [
+            "Arthritis Res Ther"
+          ],
+          "NLMid": [
+            "101154438"
+          ],
+          "ISSN": [
+            "1478-6354"
+          ],
+          "ESSN": [
+            "1478-6362"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "116"
+  ],
+  "abstractText": [
+    "BACKGROUND:Reactive oxygen species (ROS) regulate the migration and invasion of fibroblast-like synoviocytes (FLS), which are key effector cells in rheumatoid arthritis (RA) pathogenesis. Nicotinamide adenine dinucleotide phosphate oxidase 4 (NOX4) induces ROS generation and, consequently, enhances cell migration. Despite the important interrelationship between RA, FLS, and ROS, the effect of NOX4 on RA pathogenesis remains unclear. METHODS:FLS isolated from RA (n = 5) and osteoarthritis (OA, n = 5) patients were stimulated with recombinant interleukin 17 (IL-17; 10 ng/ml) and tumor necrosis factor alpha (TNF-α; 10 ng/ml) for 1 h. Cell migration, invasion, adhesion molecule expression, vascular endothelial growth factor (VEGF) secretion, and ROS expression were examined. The mRNA and protein levels of NOX4 were analyzed by RT-qPCR and western blotting, respectively. The NOX4 inhibitor GLX351322 and NOX4 siRNA were used to inhibit NOX4 to probe the effect of NOX4 on these cellular processes. RESULTS:Migration of RA FLS was increased 2.48-fold after stimulation with IL-17 and TNF-α, while no difference was observed for OA FLS. ROS expression increased in parallel with invasiveness of FLS following cytokine stimulation. When the expression of NOX was examined, NOX4 was significantly increased by 9.73-fold in RA FLS compared to unstimulated FLS. Following NOX4 inhibition, cytokine-induced vascular cell adhesion molecule 1 (VCAM1), VEGF, and migration and invasion capacity of RA FLS were markedly decreased to unstimulated levels. CONCLUSION:NOX4 is a key contributor to cytokine-enhanced migration and invasion via modulation of ROS, VCAM1, and VEGF in RA FLS."
+  ],
+  "affiliation": [
+    "Research Institute for Medical Sciences, Chungnam National University School of Medicine, 266 Munhwaro, Daejeon, Republic of Korea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NRF-2016R1D1A1B03931637"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NRF-2019R1I1A1A01046493"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rheumatoid arthritis",
+        "Reactive oxygen species",
+        "VEGF",
+        "NADPH",
+        "Osteoarthritis",
+        "fibroblast-like synoviocytes",
+        "Nox4",
+        "Vcam1"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13075-020-02204-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7227051"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7227051?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13075-020-02204-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR156664"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-17"
+  ],
+  "firstIndexDate": [
+    "2020-05-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-29"
+  ],
+  "dateOfRevision": [
+    "2020-05-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-15"
+  ],
+  "firstPublicationDate": [
+    "2020-05-15"
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": [
+    "PMC7249963"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7249963"
+  ],
+  "doi": [
+    "10.3389/fcell.2020.00278"
+  ],
+  "title": [
+    "Circular RNA hsa_circ_0000848 Promotes Trophoblast Cell Migration and Invasion and Inhibits Cell Apoptosis by Sponging hsa-miR-6768-5p."
+  ],
+  "authorString": [
+    "Wang H, Zhang J, Xu Z, Yang J, Xu Y, Liu Y, Li B, Xie J, Li J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shenzhen Maternity and Child Healthcare Hospital, Southern Medical University, ShenzhenChina"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jianming"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zhiyong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jingxin"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Bohong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Xie J"
+          ],
+          "firstName": [
+            "Jiansheng"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2911890"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in cell and developmental biology"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Dev Biol"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Dev Biol"
+          ],
+          "NLMid": [
+            "101630250"
+          ],
+          "ISSN": [
+            "2296-634X"
+          ],
+          "ESSN": [
+            "2296-634X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "BackgroundFetal growth restriction (FGR) is a worldwide problem, and a major cause of perinatal morbidity. The precise molecular mechanisms involved in placental development and function during FGR remain poorly understood. Circular RNAs (circRNAs) are important biological molecules associated with disease pathogenesis. However, the role of circRNAs in FGR has not been well studied.MethodscircRNA expression profiles in placental tissues with and without FGR were identified by circRNA microarray. circRNA expression was verified by quantitative reverse-transcription PCR (RT-qPCR) assay. The effect of hsa_circ_0000848 and hsa-miR-6768-5p on HTR-8 cell apoptosis, migration, and invasion was evaluated. The association between hsa_circ_0000848 and hsa-miR-6768-5p was confirmed by dual luciferase activity and anti-AGO2 RNA immunoprecipitation (RIP) assays. Protein levels were examined via western blotting.ResultsRT-qPCR results showed that hsa_circ_0000848 expression was significantly down-regulated in FGR placenta. Hsa_circ_0000848 overexpression and hsa-miR-6768-5p inhibitor suppressed apoptosis, and promoted cell migration and invasion. In addition, hsa_circ_0000848 overexpression and hsa-miR-6768-5p inhibitor increased the protein abundance of BCL2, MMP2 and MMP9, and decreased the protein abundance of cleaved caspase-3, cleaved caspase-9, and BAX, whereas hsa_circ_0000848 knockdown caused the opposite effect. Moreover, a significant increase in hsa-miR-6768-5p expression and a negative correlation between hsa_circ_0000848 and hsa-miR-6768-5p were identified in the FGR tissues. Luciferase reporter and RIP assay results revealed binding of hsa-miR-6768-5p to hsa_circ_0000848. Furthermore, hsa-miR-6768-5p overexpression eliminated the effect of hsa_circ_0000848 overexpression in HTR-8 cells.Conclusionshsa_circ_0000848 expression is significantly down-regulated in the FGR placenta. hsa_circ_0000848 promotes trophoblast cell migration and invasion, and inhibits cell apoptosis via the sponging of hsa-miR-6768-5p. Our study provided a novel insight into mechanisms underlying the pathogenesis of FGR, as well as into new strategies for the treatment of FGR."
+  ],
+  "affiliation": [
+    "Department of Obstetrics and Gynecology, Shenzhen Maternity and Child Healthcare Hospital, Southern Medical University, ShenzhenChina"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fetal growth restriction",
+        "Cerna",
+        "Circ_0000848",
+        "Hsa-mir-6768-5p",
+        "Human Extravillous Trophoblast Cell Line"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7249963/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7249963"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fcell.2020.00278"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-06-07"
+  ],
+  "firstIndexDate": [
+    "2020-06-07"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-07"
+  ],
+  "dateOfRevision": [
+    "2020-06-07"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-19"
+  ],
+  "firstPublicationDate": [
+    "2020-05-19"
+  ]
+}

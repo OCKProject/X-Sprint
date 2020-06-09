@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="mig01/PMC7242435/results/search/migration/results.xml">
+  <result pre="site or to a vacant lattice site with sufficiently low" exact="migration" post="barrier energy. Factors such as the crystal structure, size"/>
+  <result pre="automatic workflow for NEB calculation; however, the endpoints of the" exact="migration" post="path for each structure must still be defined manually."/>
+  <result pre="areas of the passageways). The ion-transport network (also represents ion" exact="migration" post="paths) can then be constructed by comparing the radii"/>
+  <result pre="seconds, we want to further characterize the network with the" exact="migration" post="energy barrier, which is calculated using the bond valence"/>
+  <result pre="using the bond valence site energy method. Fig. 3 Three-dimensional" exact="migration" post="paths of NaZr2P3O12 constructed using (a) CAVD and (b)"/>
+  <result pre="NaZr2P3O12 constructed using (a) CAVD and (b) BVSE calculations with" exact="migration" post="energy barrier Ea of 1.055 eV. (c) Comparison of migration"/>
+  <result pre="with migration energy barrier Ea of 1.055 eV. (c) Comparison of" exact="migration" post="paths of NaZr2P3O12 constructed using BVSE and CAVD calculations."/>
+  <result pre="materials23. Currently, the BV method is used to predict ion" exact="migration" post="paths and energy barriers42–44. Based on the BV method,"/>
+  <result pre="the BVSE model, which can be used to conduct the" exact="migration" post="pathway and barriers calculations for mobile ions including Li+,"/>
+  <result pre="relaxations in the static BVSE modelling tends to overestimate the" exact="migration" post="barriers. The Coulomb repulsions between two different cations (or"/>
+  <result pre="references therein) the chosen approach yields a semiquantitative agreement of" exact="migration" post="barriers with the available DFT or experimental information. Using"/>
+  <result pre="of softBV51. Adams developed the softBV49,51 software to calculate ion" exact="migration" post="energy and profiles based on this BVSE approach, but"/>
+  <result pre="screening application a fast and robust approximate estimate of the" exact="migration" post="barriers is aimed for and the precise barriers will"/>
+  <result pre="to be more robust. Another difference is that softBV analyses" exact="migration" post="barriers between local minima of the energy landscape irrespective"/>
+  <result pre="grid volumetric data (GRD) file52 for visualization of the ion" exact="migration" post="paths. An example of the three-dimensional migration paths visualization"/>
+  <result pre="of the ion migration paths. An example of the three-dimensional" exact="migration" post="paths visualization is presented in Fig. 3b for NaZr2P3O12."/>
+  <result pre="MEPs of ion migration, avoiding unphysical paths. A more accurate" exact="migration" post="energy barrier can be further obtained by fine-tuning the"/>
+  <result pre="of the hierarchical algorithm is that the calculation of the" exact="migration" post="path is performed using the simplified string method59, which"/>
+  <result pre="The use of CAVD + BVSE to find the endpoints of ion" exact="migration" post="paths To enable automatic calculations, we use CAVD + BVSE to"/>
+  <result pre="we use CAVD + BVSE to find the endpoints of the ion" exact="migration" post="path in an ordered structure. The ion-transport network calculated"/>
+  <result pre="Thus, we choose adjacent lattice sites as endpoints of the" exact="migration" post="path and use S to denote a set of"/>
+  <result pre="non-equivalent path segments are then used to locate endpoints of" exact="migration" post="paths: \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek}"/>
+  <result pre="candidates remained after the preliminary screening for Ea ≤ 1.2 eV in one-dimensional" exact="migration" post="paths (see Supplementary Information S1). These 5,192 compounds include"/>
+  <result pre="of the hierarchical calculations. Step 2. Finding endpoints of ion" exact="migration" post="paths The consistency of the CAVD and BVSE calculation"/>
+  <result pre="for the hierarchical calculations and is verified by visualizing the" exact="migration" post="paths of NaZr2P3O12 and tetragonal LLZO (Figs. 3 and"/>
+  <result pre="minimum and maximum energy sites of BVSE, respectively; the three-dimensional" exact="migration" post="paths calculated using CAVD are in excellent agreement with"/>
+  <result pre="BVSE results (Figs. 3c and 6b). Fig. 6 (a) Three-dimensional" exact="migration" post="paths of tetragonal LLZO generated using CAVD are shown"/>
+  <result pre="related to the Li+ radius is 0.563 Å. (b) Comparison of" exact="migration" post="paths of tetragonal LLZO calculated using CAVD and BVSE."/>
+  <result pre="of tetragonal LLZO calculated using CAVD and BVSE. The 3D" exact="migration" post="paths of BVSE are shown in yellow isosurfaces with"/>
+  <result pre="migration paths of BVSE are shown in yellow isosurfaces with" exact="migration" post="energy barrier Ea of 0.576 eV. NaZr2P3O12 consists of a"/>
+  <result pre="(Li2) sites, and the 32 g (Li3) sites62,63. Six types of" exact="migration" post="paths may be considered between lattices sites: Li1–Li1, Li1–Li2,"/>
+  <result pre="details are provided in Supplementary Information S2). Fig. 7 Ion" exact="migration" post="paths of NaZr2P3O12 calculated using (a) CAVD and (b)"/>
+  <result pre="Na1–Na1. The dotted circles indicate the endpoints. Fig. 8 Ion" exact="migration" post="paths of tetragonal LLZO calculated using (a) CAVD and"/>
+  <result pre="Step 3. MEP calculation BVSE is used to calculate the" exact="migration" post="paths of NaZr2P3O12 (Fig. 7b) and tetragonal LLZO (Fig."/>
+  <result pre="9). The results of Fig. 10 indicate that these two" exact="migration" post="paths pass through two bottlenecks and one interstice and"/>
+  <result pre="near the bottlenecks are lower. For example, we tested one" exact="migration" post="path of β-Li3PS464, where the Coulomb repulsion between mobile"/>
+  <result pre="empirical methods can effectively identify the robust path of ion" exact="migration" post="for further ab initio calculations. Step 4. NEB calculation"/>
+  <result pre="page. (d) Structure details page: structure visualization of NaZr2P3O12 and" exact="migration" post="energy profile of Na ion in NaZr2P3O12. Second, the"/>
+  <result pre="the BVSE data file can be downloaded for visualizing the" exact="migration" post="paths in VESTA52, and the NEB calculation package can"/>
+  <result pre="BVSE Approximate energy thresholds along the one-dimensional, two-dimensional, and three-dimensional" exact="migration" post="paths. The Ea values calculated by BVSE can be"/>
+  <result pre="steps replace the linear interpolation method to provide more reliable" exact="migration" post="paths for NEB calculation, avoiding unphysical paths and complicated"/>
+  <result pre="screening value of BVSE is set between 0–1.2 eV in one-dimensional" exact="migration" post="paths. The number of 1.2 is a suitable threshold"/>
+  <result pre="efficient algorithm for finding the minimum energy path for cation" exact="migration" post="in ionic materialsJ. Chem. Phys.201614507411227544092 58.SheppardDTerrellRHenkelmanGOptimization methods for finding"/>
+ </snippets>
+</snippetsTree>

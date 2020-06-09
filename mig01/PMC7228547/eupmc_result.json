@@ -1,0 +1,318 @@
+{
+  "id": [
+    "32401928"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32401928"
+  ],
+  "pmcid": [
+    "PMC7228547"
+  ],
+  "doi": [
+    "10.1590/1414-431x20208694"
+  ],
+  "title": [
+    "Effect of ethanol extracts of Antrodia cinnamomea on head and neck squamous cell carcinoma cell line."
+  ],
+  "authorString": [
+    "Liu L, Wang C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Medical College, Hefei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Fuyang Vocational Technical College, Fuyang, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "53"
+      ],
+      "journalIssueId": [
+        "2955316"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas"
+          ],
+          "ISOAbbreviation": [
+            "Braz. J. Med. Biol. Res."
+          ],
+          "medlineAbbreviation": [
+            "Braz J Med Biol Res"
+          ],
+          "NLMid": [
+            "8112917"
+          ],
+          "ISSN": [
+            "0100-879X"
+          ],
+          "ESSN": [
+            "1414-431X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e8694"
+  ],
+  "abstractText": [
+    "Head and neck squamous cell carcinoma (HNSCC) is one of the most common malignant tumors. Ethanol extract of Antrodia cinnamomea (EEA) has been widely studied for its health benefits including anticancer effects. The purpose of this study was to assess the effects of EEA on HNSCC. Cell proliferation, transwell, and wound healing assays were performed. The impact of EEA on tumor growth was investigated using a xenograft model. Expressions of migration-related proteins (MMP-2, MMP-9, TIMP-1, and TIMP-2) and apoptosis-related proteins (cleaved caspase-9 and cleaved PARP) were determined using western blot analysis. The results indicated that EEA significantly inhibited the capacities of proliferation, invasion, and migration of HNSCC cells in a dose-dependent manner. Cleaved caspase-9 and cleaved PARP expressions were increased in cells treated with an increasing concentration of EEA, which suggested that EEA induced apoptosis of HNSCC. MMP-2 and MMP-9 were downregulated when cells were administered EEA, while TIMP-1 and TIMP-2 were not affected, which uncovered the mechanisms mediating the EEA-induced inhibition on cell invasion and migration. The animal experiment also suggested that EEA inhibited tumor growth. Our study confirmed the inhibitive effects of EEA on cell proliferation, invasion, and migration of HNSCC in vitro and in vivo, providing the basis for further study of the application of EEA as an effective candidate for cancer treatment."
+  ],
+  "affiliation": [
+    "Anhui Medical College, Hefei, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/1414-431x20208694"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7228547"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7228547?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/1414-431x20208694"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-14"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-22"
+  ],
+  "dateOfRevision": [
+    "2020-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-08"
+  ],
+  "firstPublicationDate": [
+    "2020-05-08"
+  ]
+}

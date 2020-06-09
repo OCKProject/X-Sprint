@@ -1,0 +1,511 @@
+{
+  "id": [
+    "29069803"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29069803"
+  ],
+  "pmcid": [
+    "PMC5641146"
+  ],
+  "doi": [
+    "10.18632/oncotarget.19801"
+  ],
+  "title": [
+    "The significance of ENAH in carcinogenesis and prognosis in gastric cancer."
+  ],
+  "authorString": [
+    "Wang DD, Jin Q, Wang LL, Han SF, Chen YB, Sun GD, Sun SF, Sun SW, Wang T, Liu FJ, Wang P, Shi B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang DD"
+          ],
+          "firstName": [
+            "Dan-Dan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "DD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shandong Medicinal Biotechnology Centre, Key Laboratory for Rare & Uncommon Diseases of Shandong Province, Back and Neck Pain Hospital of Shandong Academy of Medical Sciences, Jinan 250062, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin Q"
+          ],
+          "firstName": [
+            "Qun"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The General Hospital of Jinan Military Command, Jinan 250012, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang LL"
+          ],
+          "firstName": [
+            "Lei-Lei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Laboratory for Applied Microbiology of Shandong Province, Ecology Institute of Shandong Academy of Sciences, Jinan 250014, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han SF"
+          ],
+          "firstName": [
+            "Shu-Fang"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The General Hospital of Jinan Military Command, Jinan 250012, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen YB"
+          ],
+          "firstName": [
+            "Yi-Bing"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "YB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center of Genetic & Prenatal Diagnosis, First Affiliated Hospital, Zhengzhou University, Zhengzhou 450052, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun GD"
+          ],
+          "firstName": [
+            "Guo-Dong"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Affiliated Hospital of Shandong Academy of Medical Sciences, Shandong Academy of Medical Sciences, Jinan 250031, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun SF"
+          ],
+          "firstName": [
+            "Shi-Fei"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shandong Medicinal Biotechnology Centre, Key Laboratory for Rare & Uncommon Diseases of Shandong Province, Back and Neck Pain Hospital of Shandong Academy of Medical Sciences, Jinan 250062, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun SW"
+          ],
+          "firstName": [
+            "Shu-Wang"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shandong Medicinal Biotechnology Centre, Key Laboratory for Rare & Uncommon Diseases of Shandong Province, Back and Neck Pain Hospital of Shandong Academy of Medical Sciences, Jinan 250062, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shandong Medicinal Biotechnology Centre, Key Laboratory for Rare & Uncommon Diseases of Shandong Province, Back and Neck Pain Hospital of Shandong Academy of Medical Sciences, Jinan 250062, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu FJ"
+          ],
+          "firstName": [
+            "Fan-Jie"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "FJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shandong Medicinal Biotechnology Centre, Key Laboratory for Rare & Uncommon Diseases of Shandong Province, Back and Neck Pain Hospital of Shandong Academy of Medical Sciences, Jinan 250062, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shandong Academy of Chinese Medicine, Jinan 250014, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shandong Medicinal Biotechnology Centre, Key Laboratory for Rare & Uncommon Diseases of Shandong Province, Back and Neck Pain Hospital of Shandong Academy of Medical Sciences, Jinan 250062, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "42"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2611361"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncotarget"
+          ],
+          "ISOAbbreviation": [
+            "Oncotarget"
+          ],
+          "medlineAbbreviation": [
+            "Oncotarget"
+          ],
+          "NLMid": [
+            "101532965"
+          ],
+          "ISSN": [
+            "1949-2553"
+          ],
+          "ESSN": [
+            "1949-2553"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "72466-72479"
+  ],
+  "abstractText": [
+    "The ENAH gene, which encodes a member of the enabled/vasodilator-stimulated phosphoprotein (Ena/VASP) family of proteins, is involved in the assembly of actin filaments required for cell adhesion and motility. Recent studies show overexpressed ENAH in several cancer types, and ENAH correlates with tumor invasiveness. This study aimed to investigate the expression and function of ENAH in primary gastric adenocarcinoma, and its prognostic significance. We found significantly increased mRNA (P = 0.0283) and protein (P = 0.0301) expression of ENAH in gastric cancer tissues. ENAH expression markedly associated with tumor size (P < 0.001), T stage (P < 0.001), N stage (P = 0.001), TNM stage (P < 0.001) and prognosis (P < 0.001). Cox regression analyses revealed ENAH expression as an independent predictor of overall survival (P = 0.019). We also analyzed data of 155 gastric cancer cases from The Cancer Genome Atlas (TCGA) and found that ENAH expression significantly correlated with age (P = 0.003), T stage (P = 0.023) and prognosis (P = 0.05). Furthermore, the function of ENAH in cell proliferation, colony formation, cell migration and invasion of gastric cancer cells was analyzed in vitro. Knockdown of ENAH expression suppressed cell proliferation, colony formation, cell migration and invasion in MKN45 cells. Conversely, overexpression of ENAH promoted cell proliferation, cell migration and invasion in MGC803 cells. Our research suggests that ENAH might play promoting functions in carcinogenesis and progression of gastric cancer, and may serve as a valuable prognostic marker for primary gastric adenocarcinoma patients."
+  ],
+  "affiliation": [
+    "Shandong Medicinal Biotechnology Centre, Key Laboratory for Rare & Uncommon Diseases of Shandong Province, Back and Neck Pain Hospital of Shandong Academy of Medical Sciences, Jinan 250062, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Function",
+        "Expression",
+        "Prognosis",
+        "Gastric adenocarcinoma",
+        "Enah"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.18632/oncotarget.19801"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5641146"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5641146?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.18632/oncotarget.19801"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-27"
+  ],
+  "firstIndexDate": [
+    "2017-10-27"
+  ],
+  "fullTextReceivedDate": [
+    "2017-11-01"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-02"
+  ],
+  "firstPublicationDate": [
+    "2017-08-02"
+  ]
+}

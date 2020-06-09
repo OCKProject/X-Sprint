@@ -1,0 +1,906 @@
+{
+  "id": [
+    "30429850"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30429850"
+  ],
+  "pmcid": [
+    "PMC6220650"
+  ],
+  "doi": [
+    "10.3389/fimmu.2018.02477"
+  ],
+  "title": [
+    "Rainbow Trout Erythrocytes ex vivo Transfection With a DNA Vaccine Encoding VHSV Glycoprotein G Induces an Antiviral Immune Response."
+  ],
+  "authorString": [
+    "Puente-Marin S, Nombela I, Chico V, Ciordia S, Mena MC, Coll J, Mercado L, Ortega-Villaizan MDM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Puente-Marin S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Puente-Marin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Biología Molecular y Celular, Universidad Miguel Hernández, Elche, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nombela I"
+          ],
+          "firstName": [
+            "Ivan"
+          ],
+          "lastName": [
+            "Nombela"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8436-2081",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Biología Molecular y Celular, Universidad Miguel Hernández, Elche, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chico V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Chico"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Biología Molecular y Celular, Universidad Miguel Hernández, Elche, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ciordia S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Ciordia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5726-853X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unidad de Proteómica, Centro Nacional de Biotecnología (CNB-CSIC), Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena MC"
+          ],
+          "firstName": [
+            "Maria Carmen"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unidad de Proteómica, Centro Nacional de Biotecnología (CNB-CSIC), Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Coll J"
+          ],
+          "firstName": [
+            "Julio"
+          ],
+          "lastName": [
+            "Coll"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto Nacional de Investigaciones Agrarias, Biotecnología, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mercado L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Mercado"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Biología, Pontificia Universidad Católica de Valparaíso Valparaíso, Chile."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ortega-Villaizan MDM"
+          ],
+          "firstName": [
+            "Maria Del Mar"
+          ],
+          "lastName": [
+            "Ortega-Villaizan"
+          ],
+          "initials": [
+            "MDM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Biología Molecular y Celular, Universidad Miguel Hernández, Elche, Spain."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8436-2081",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5726-853X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2647771"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in immunology"
+          ],
+          "ISOAbbreviation": [
+            "Front Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Front Immunol"
+          ],
+          "NLMid": [
+            "101560960"
+          ],
+          "ISSN": [
+            "1664-3224"
+          ],
+          "ESSN": [
+            "1664-3224"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2477"
+  ],
+  "abstractText": [
+    "Fish red blood cells (RBCs), are integral in several biologic processes relevant to immunity, such as pathogen recognition, pathogen binding and clearance, and production of effector molecules and cytokines. So far, one of the best strategies to control and prevent viral diseases in aquaculture is DNA immunization. DNA vaccines (based on the rhabdoviral glycoprotein G [gpG] gene) have been shown to be effective against fish rhabdoviruses. However, more knowledge about the immune response triggered by DNA immunization is necessary to develop novel and more effective strategies. In this study, we investigated the role of fish RBCs in immune responses induced by DNA vaccines. We show for the first time that rainbow trout RBCs express gpG of viral hemorrhagic septicaemia virus (VHSV) (GVHSV) when transfected with the DNA vaccine ex vivo and modulate the expression of immune genes and proteins. Functional network analysis of transcriptome profiling of RBCs expressing GVHSV revealed changes in gene expression related to G-protein coupled receptor (GPCR)-downstream signaling, complement activation, and RAR related orphan receptor α (RORA). Proteomic profile functional network analysis of GVHSV-transfected RBCs revealed proteins involved in the detoxification of reactive oxygen species, interferon-stimulated gene 15 (ISG15) antiviral mechanisms, antigen presentation of exogenous peptides, and the proteasome. Conditioned medium of GVHSV-transfected RBCs conferred antiviral protection and induced ifn1 and mx gene expression in RTG-2 cells infected with VHSV. In summary, rainbow trout nucleated RBCs could be actively participating in the regulation of the fish immune response to GVHSV DNA vaccine, and thus may represent a possible carrier cells for the development of new vaccine approaches."
+  ],
+  "affiliation": [
+    "Instituto de Biología Molecular y Celular, Universidad Miguel Hernández, Elche, Spain."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Erythrocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oncorhynchus mykiss"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Novirhabdovirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemorrhagic Septicemia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fish Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glycoproteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fish Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interferon Type I"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vaccines, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Vaccines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transfection"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Erythrocytes",
+        "Rainbow trout",
+        "Red blood cells",
+        "DNA vaccine",
+        "Proteome",
+        "Immune response",
+        "Transcriptome",
+        "Vhsv Glycoprotein G"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Vaccines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glycoproteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antibodies, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Viral Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fish Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Interferon Type I"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vaccines, DNA"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fimmu.2018.02477"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6220650"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6220650?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fimmu.2018.02477"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-09-30"
+  ],
+  "dateOfCreation": [
+    "2018-11-16"
+  ],
+  "firstIndexDate": [
+    "2018-11-16"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-18"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-29"
+  ],
+  "firstPublicationDate": [
+    "2018-10-29"
+  ]
+}

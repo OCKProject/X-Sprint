@@ -1,0 +1,462 @@
+{
+  "id": [
+    "32331211"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32331211"
+  ],
+  "pmcid": [
+    "PMC7216260"
+  ],
+  "doi": [
+    "10.3390/ijms21082919"
+  ],
+  "title": [
+    "Praeruptorin B Mitigates the Metastatic Ability of Human Renal Carcinoma Cells through Targeting CTSC and CTSV Expression."
+  ],
+  "authorString": [
+    "Lin CL, Hung TW, Ying TH, Lin CJ, Hsieh YH, Chen CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lin CL"
+          ],
+          "firstName": [
+            "Chia-Liang"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Biochemistry, Microbiology and Immunology, Chung Shan Medical University, Taichung 40201, Taiwan.",
+                "Department of Medicine, Mackay Medical College, New Taipei City 252, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hung TW"
+          ],
+          "firstName": [
+            "Tung-Wei"
+          ],
+          "lastName": [
+            "Hung"
+          ],
+          "initials": [
+            "TW"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Nephrology, Department of Medicine, Chung Shan Medical University Hospital, Taichung 40201, Taiwan.",
+                "School of Medicine, Chung Shan Medical University, Taichung 40201, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ying TH"
+          ],
+          "firstName": [
+            "Tsung-Ho"
+          ],
+          "lastName": [
+            "Ying"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8244-7524",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Chung Shan Medical University Hospital, Taichung 40201, Taiwan.",
+                "Department of Obstetrics and Gynecology, School of Medicine, College of Medicine, Chung Shan Medical University, Taichung 40201, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin CJ"
+          ],
+          "firstName": [
+            "Chi-Jui"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Biochemistry, Microbiology and Immunology, Chung Shan Medical University, Taichung 40201, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hsieh YH"
+          ],
+          "firstName": [
+            "Yi-Hsien"
+          ],
+          "lastName": [
+            "Hsieh"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4942-1888",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Biochemistry, Microbiology and Immunology, Chung Shan Medical University, Taichung 40201, Taiwan.",
+                "Institute of Medicine, Chung Shan Medical University, Taichung 40201, Taiwan.",
+                "Clinical Laboratory, Chung Shan Medical University Hospital, Taichung 40201, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen CM"
+          ],
+          "firstName": [
+            "Chien-Min"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Neurosurgery, Department of Surgery, Changhua Christian Hospital, Changhua 50006, Taiwan.",
+                "School of Medicine, Kaohsiung Medical University, Kaohsiung 80708, Taiwan.",
+                "College of Nursing and Health Sciences, Dayeh University, Changhua 51591, Taiwan."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8244-7524",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4942-1888",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2942496"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Renal cell carcinoma (RCC) is the most common adult kidney cancer, and accounts for 85% of all cases of kidney cancers worldwide. Praeruptorin B (Pra-B) is a bioactive constituent of Peucedanum praeruptorum Dunn and exhibits several pharmacological activities, including potent antitumor effects. However, the anti-RCC effects of Pra-B and their underlying mechanisms are unclear; therefore, we explored the effects of Pra-B on RCC cells in this study. We found that Pra-B nonsignificantly influenced the cell viability of human RCC cell lines 786-O and ACHN at a dose of less than 30 μM for 24 h treatment. Further study revealed that Pra-B potently inhibited the migration and invasion of 786-O and ACHN cells, as well as downregulated the mRNA and protein expression of cathepsin C (CTSC) and cathepsin V (CTSV) of 786-O and ACHN cells. Mechanistically, Pra-B also reduced the protein levels of phospho (p)-epidermal growth factor receptor (EGFR), p-mitogen-activated protein kinase kinase (MEK), and p-extracellular signal-regulated kinases (ERK) in RCC cells. In addition, Pra-B treatment inhibited the effect of EGF on the upregulation of EGFR-MEK-ERK, CTSC and CTSV expression, cellular migration, and invasion of 786-O cells. Our findings are the first to demonstrate that Pra-B can reduce the migration and invasion ability of human RCC cells through suppressing the EGFR-MEK-ERK signaling pathway and subsequently downregulating CTSC and CTSV. This evidence suggests that Pra-B can be developed as an effective antimetastatic agent for the treatment of RCC."
+  ],
+  "affiliation": [
+    "Institute of Biochemistry, Microbiology and Immunology, Chung Shan Medical University, Taichung 40201, Taiwan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "108-CCH-IRP-013"
+          ],
+          "agency": [
+            "Changhua Christian Hospital"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Invasion",
+        "Renal cell carcinoma",
+        "Ctsc",
+        "Ctsv",
+        "Praeruptorin-b"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms21082919"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7216260"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7216260?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms21082919"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-26"
+  ],
+  "firstIndexDate": [
+    "2020-04-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-24"
+  ],
+  "dateOfRevision": [
+    "2020-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-22"
+  ],
+  "firstPublicationDate": [
+    "2020-04-22"
+  ]
+}

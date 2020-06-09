@@ -1,0 +1,391 @@
+{
+  "id": [
+    "32477006"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32477006"
+  ],
+  "pmcid": [
+    "PMC7236532"
+  ],
+  "doi": [
+    "10.1186/s12935-020-01240-9"
+  ],
+  "title": [
+    "PTBP3 promotes migration of non-small cell lung cancer through regulating E-cadherin in EMT signaling pathway."
+  ],
+  "authorString": [
+    "Wu Q, Zhang B, Li B, Cao X, Chen X, Xue Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1Department of Cardiothoracic Surgery, Affiliated Hospital of Nantong University, Nantong, China.",
+                "2Medical School of Nantong University, Nantong, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2Medical School of Nantong University, Nantong, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1Department of Cardiothoracic Surgery, Affiliated Hospital of Nantong University, Nantong, China.",
+                "2Medical School of Nantong University, Nantong, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cao X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1Department of Cardiothoracic Surgery, Affiliated Hospital of Nantong University, Nantong, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xinming"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1Department of Cardiothoracic Surgery, Affiliated Hospital of Nantong University, Nantong, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xue Q"
+          ],
+          "firstName": [
+            "Qun"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1Department of Cardiothoracic Surgery, Affiliated Hospital of Nantong University, Nantong, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2898933"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer cell international"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Cell Int."
+          ],
+          "medlineAbbreviation": [
+            "Cancer Cell Int"
+          ],
+          "NLMid": [
+            "101139795"
+          ],
+          "ISSN": [
+            "1475-2867"
+          ],
+          "ESSN": [
+            "1475-2867"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "172"
+  ],
+  "abstractText": [
+    "Background:Human polypyrimidine tract binding protein 3 (PTBP3), which belongs to the PTB family, demonstrate a significant tumorigenic capability in a variety of malignancies. However, the correlation between PTBP3 expression and pathogenesis of non-small cell lung cancer (NSCLC) remains little known. The design of the study attempts to examine the role of PTBP3 in the pathogenesis and prognosis of NSCLC. Methods:Our study conducted an investigation on the PTBP3 expression in human NSCLC tissues and a comprehensive analysis of the associations between three factors, involving the PTBP3 expression, clinicopathological features, and patient's survival. Additionally, we also explored the role of PTBP3 expression in the proliferation and invasion of cancer cells. Results:The mining of The Cancer Genome Atlas (TCGA) database, western blotting and immunohistochemistry analyses showed significantly up-regulation of PTBP3 in NSCLC tissues than in normal tissues. Although overexpress or knockdown PTBP3 expression had no significant effect on proliferation of selected cell line, it could promotes migration of NSCLC cells via regulating E-cadherin in epithelial-mesenchymal transition (EMT) signaling pathway. Moreover, in the univariate analysis, the PTBP3-high is markedly related to poor overall survival results where hazard ratio (HR): 1.55; 95% confidence interval (95% CI): 1.87-2.01; p = 0.0001. Also, according to the multivariate analysis, an independent prognostic factor among NSCLC patients is the PTBP3 with an HR of 1.42 (CI: 1.09-1.9; p = 0.011). To explore potential signaling pathways, we used the TCGA dataset and performed Gene Set Enrichment Analysis (GSEA). Moreover, its expression in NSCLC was related to Tumor differentiation, lymph node metastasis, distant metastasis status and poor prognosis. Beside, by changing the expression of PTBP3 in selected cell lines, we found that overexpress or knockdown PTBP3 expression had no significant effect on proliferation, however it regulated migration possibly by EMT signaling. Conclusions:Collectively, our findings suggested that PTBP3 contributed to the progression of NSCLC and might serve as a potential target for anti-cancer therapy."
+  ],
+  "affiliation": [
+    "1Department of Cardiothoracic Surgery, Affiliated Hospital of Nantong University, Nantong, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Proliferation",
+        "NSCLC",
+        "Emt",
+        "Ptbp3"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01240-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7236532"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7236532?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01240-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-02"
+  ],
+  "firstIndexDate": [
+    "2020-06-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-31"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-18"
+  ],
+  "firstPublicationDate": [
+    "2020-05-18"
+  ]
+}

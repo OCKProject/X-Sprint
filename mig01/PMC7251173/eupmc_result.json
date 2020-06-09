@@ -1,0 +1,285 @@
+{
+  "id": [
+    "PMC7251173"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7251173"
+  ],
+  "doi": [
+    "10.3389/fonc.2020.00787"
+  ],
+  "title": [
+    "Biomechanical Contributions to Macrophage Activation in the Tumor Microenvironment."
+  ],
+  "authorString": [
+    "Hoffmann EJ, Ponik SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hoffmann EJ"
+          ],
+          "firstName": [
+            "Erica J."
+          ],
+          "lastName": [
+            "Hoffmann"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell and Regenerative Biology, Wisconsin Institutes for Medical Research, University of Wisconsin-Madison, Madison, WIUnited States"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ponik SM"
+          ],
+          "firstName": [
+            "Suzanne M."
+          ],
+          "lastName": [
+            "Ponik"
+          ],
+          "initials": [
+            "SM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2911881"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Alterations in extracellular matrix composition and organization are known to promote tumor growth and metastatic progression in breast cancer through interactions with tumor cells as well as stromal cell populations. Macrophages display a spectrum of behaviors from tumor-suppressive to tumor-promoting, and their function is spatially and temporally dependent upon integrated signals from the tumor microenvironment including, but not limited to, cytokines, metabolites, and hypoxia. Through years of investigation, the specific biochemical cues that recruit and activate tumor-promoting macrophage functions within the tumor microenvironment are becoming clear. In contrast, the impact of biomechanical stimuli on macrophage activation has been largely underappreciated, however there is a growing body of evidence that physical cues from the extracellular matrix can influence macrophage migration and behavior. While the complex, heterogeneous nature of the extracellular matrix and the transient nature of macrophage activation make studying macrophages in their native tumor microenvironment challenging, this review highlights the importance of investigating how the extracellular matrix directly and indirectly impacts tumor-associated macrophage activation. Additionally, recent advances in investigating macrophages in the tumor microenvironment and future directions regarding mechano-immunomodulation in cancer will also be discussed."
+  ],
+  "affiliation": [
+    "Department of Cell and Regenerative Biology, Wisconsin Institutes for Medical Research, University of Wisconsin-Madison, Madison, WIUnited States"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01CA216248"
+          ],
+          "agency": [
+            "National Institutes of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Collagen",
+        "Extracellular matrix",
+        "Macrophage activation",
+        "Breast cancer",
+        "Integrins",
+        "Tumor Microenvironment",
+        "Mechanosensing"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251173/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7251173"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00787"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-07"
+  ],
+  "firstIndexDate": [
+    "2020-06-07"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-07"
+  ],
+  "dateOfRevision": [
+    "2020-06-07"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-20"
+  ],
+  "firstPublicationDate": [
+    "2020-05-20"
+  ]
+}

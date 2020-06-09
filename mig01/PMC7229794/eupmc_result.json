@@ -1,0 +1,339 @@
+{
+  "id": [
+    "32494200"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32494200"
+  ],
+  "pmcid": [
+    "PMC7229794"
+  ],
+  "doi": [
+    "10.2147/cmar.s251029"
+  ],
+  "title": [
+    "Long Noncoding RNA LINC00173 Contributes to the Growth, Invasiveness and Chemo-Resistance of Colorectal Cancer Through Regulating miR-765/PLP2 Axis."
+  ],
+  "authorString": [
+    "Yu Y, Lu X, Yang C, Yin F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yu Y"
+          ],
+          "firstName": [
+            "Yanhui"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Physical Examination Center, The 2nd Affiliated Hospital of Harbin Medical University, Harbin 150081, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu X"
+          ],
+          "firstName": [
+            "Xiuyun"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Traditional Chinese Medicine, The 2nd Affiliated Hospital of Harbin Medical University, Harbin 150081, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Chuandong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Orthopedics, The 4th Affiliated Hospital of Harbin Medical University, Harbin 150001, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin F"
+          ],
+          "firstName": [
+            "Fengxiang"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Integrated Traditional Chinese Medicine and Western Medicine, Harbin Chest Hospital, Harbin 150056, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2911712"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer management and research"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Manag Res"
+          ],
+          "medlineAbbreviation": [
+            "Cancer Manag Res"
+          ],
+          "NLMid": [
+            "101512700"
+          ],
+          "ISSN": [
+            "1179-1322"
+          ],
+          "ESSN": [
+            "1179-1322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3363-3369"
+  ],
+  "abstractText": [
+    "Background:Long noncoding RNA has been involved in tumorigenesis of colorectal cancer (CRC). This study aimed to illustrate the functions and mechanisms of LINC00173 in CRC progression. Methods:The expression of LINC00173 in CRC tissues and cell lines were analyzed via qRT-PCR. Kaplan-Meier curve was used to determine survival rate. Luciferase reporter assay was conducted to evaluate the interactions among LINC00173, miR-765 and PLP2 (proteolipid protein 2). CCK8 assay, EdU assay, transwell assay and xenograft assay were performed to examine the effect of LINC00173/miR-765/PLP2 axis on proliferation, migration and invasion. The Ki67 expression level in tumors tissues was detected through immunofluorescence assay. Results:LINC00173 expression was markedly upregulated in CRC tissues and cells. High expression level of LINC00173 in CRC patients was correlated with poor prognosis. LINC00173 knockdown inhibited proliferation, migration, invasion and chemo-resistance of CRC cells in vitro. LINC00173 downregulation delayed CRC growth in vivo. LINC00173 interacted with miR-765 to promote PLP2 expression. Conclusion:Our results demonstrated that LINC00173 plays an important oncogenic role in CRC via modulating miR-765/PLP2 axis. And LINC00173 may be a potential prognostic biomarker and therapeutic target for CRC."
+  ],
+  "affiliation": [
+    "Physical Examination Center, The 2nd Affiliated Hospital of Harbin Medical University, Harbin 150081, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Colorectal Cancer",
+        "Plp2",
+        "Mir-765",
+        "Linc00173"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CMAR.S251029"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7229794"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7229794?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/cmar.s251029"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-05"
+  ],
+  "firstIndexDate": [
+    "2020-06-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-05"
+  ],
+  "dateOfRevision": [
+    "2020-06-06"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-12"
+  ],
+  "firstPublicationDate": [
+    "2020-05-12"
+  ]
+}

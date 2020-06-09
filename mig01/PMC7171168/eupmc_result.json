@@ -1,0 +1,547 @@
+{
+  "id": [
+    "32312959"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32312959"
+  ],
+  "pmcid": [
+    "PMC7171168"
+  ],
+  "doi": [
+    "10.1038/s41419-020-2438-8"
+  ],
+  "title": [
+    "Tumor-associated macrophages promote ovarian cancer cell migration by secreting transforming growth factor beta induced (TGFBI) and tenascin C."
+  ],
+  "authorString": [
+    "Steitz AM, Steffes A, Finkernagel F, Unger A, Sommerfeld L, Jansen JM, Wagner U, Graumann J, Müller R, Reinartz S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Steitz AM"
+          ],
+          "firstName": [
+            "Anna Mary"
+          ],
+          "lastName": [
+            "Steitz"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Molecular Biology and Tumor Research (IMT), Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Steffes A"
+          ],
+          "firstName": [
+            "Alina"
+          ],
+          "lastName": [
+            "Steffes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinic for Gynecology, Gynecologic Oncology and Endocrinology, Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Finkernagel F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Finkernagel"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Molecular Biology and Tumor Research (IMT), Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Unger A"
+          ],
+          "firstName": [
+            "Annika"
+          ],
+          "lastName": [
+            "Unger"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Molecular Biology and Tumor Research (IMT), Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sommerfeld L"
+          ],
+          "firstName": [
+            "Leah"
+          ],
+          "lastName": [
+            "Sommerfeld"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Molecular Biology and Tumor Research (IMT), Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jansen JM"
+          ],
+          "firstName": [
+            "Julia M"
+          ],
+          "lastName": [
+            "Jansen"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinic for Gynecology, Gynecological Oncology and Gynecological Endocrinology, University Hospital Giessen and Marburg (UKGM), Marburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wagner U"
+          ],
+          "firstName": [
+            "Uwe"
+          ],
+          "lastName": [
+            "Wagner"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinic for Gynecology, Gynecological Oncology and Gynecological Endocrinology, University Hospital Giessen and Marburg (UKGM), Marburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Graumann J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Graumann"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3015-5850",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomolecular Mass Spectrometry, Max-Planck-Institute for Heart and Lung Research, Bad Nauheim, Germany.",
+                "The German Centre for Cardiovascular Research (DZHK), Partner Site Rhine-Main, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Müller R"
+          ],
+          "firstName": [
+            "Rolf"
+          ],
+          "lastName": [
+            "Müller"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3339-4248",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Molecular Biology and Tumor Research (IMT), Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany. rolf.mueller@uni-marburg.de."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reinartz S"
+          ],
+          "firstName": [
+            "Silke"
+          ],
+          "lastName": [
+            "Reinartz"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinic for Gynecology, Gynecologic Oncology and Endocrinology, Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3015-5850",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3339-4248",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2931275"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell death & disease"
+          ],
+          "ISOAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "medlineAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "NLMid": [
+            "101524092"
+          ],
+          "ISSN": [
+            "2041-4889"
+          ],
+          "ESSN": [
+            "2041-4889"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "249"
+  ],
+  "abstractText": [
+    "A central and unique aspect of high-grade serous ovarian carcinoma (HGSC) is the extensive transcoelomic spreading of tumor cell via the peritoneal fluid or malignant ascites. We and others identified tumor-associated macrophages (TAM) in the ascites as promoters of metastasis-associated processes like extracellular matrix (ECM) remodeling, tumor cell migration, adhesion, and invasion. The precise mechanisms and mediators involved in these functions of TAM are, however, largely unknown. We observed that HGSC migration is promoted by soluble mediators from ascites-derived TAM, which can be emulated by conditioned medium from monocyte-derived macrophages (MDM) differentiated in ascites to TAM-like asc-MDM. A similar effect was observed with IL-10-induced alternatively activated m2c-MDM but not with LPS/IFNγ-induced inflammatory m1-MDM. These observations provided the basis for deconvolution of the complex TAM secretome by performing comparative secretome analysis of matched triplets of different MDM phenotypes with different pro-migratory properties (asc-MDM, m2c-MDM, m1-MDM). Mass spectrometric analysis identified an overlapping set of nine proteins secreted by both asc-MDM and m2c-MDM, but not by m1-MDM. Of these, three proteins, i.e., transforming growth factor beta-induced (TGFBI) protein, tenascin C (TNC), and fibronectin (FN1), have been associated with migration-related functions. Intriguingly, increased ascites concentrations of TGFBI, TNC, and fibronectin were associated with short progression-free survival. Furthermore, transcriptome and secretome analyses point to TAM as major producers of these proteins, further supporting an essential role for TAM in promoting HGSC progression. Consistent with this hypothesis, we were able to demonstrate that the migration-inducing potential of asc-MDM and m2c-MDM secretomes is inhibited, at least partially, by neutralizing antibodies against TGFBI and TNC or siRNA-mediated silencing of TGFBI expression. In conclusion, the present study provides the first experimental evidence that TAM-derived TGFBI and TNC in ascites promote HGSC progression."
+  ],
+  "affiliation": [
+    "Institute of Molecular Biology and Tumor Research (IMT), Center for Tumor Biology and Immunology, Philipps University, Marburg, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "70113255"
+          ],
+          "agency": [
+            "Deutsche Krebshilfe (German Cancer Aid)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2438-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7171168"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7171168?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2438-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PRIDE"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-22"
+  ],
+  "firstIndexDate": [
+    "2020-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-29"
+  ],
+  "dateOfRevision": [
+    "2020-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-20"
+  ],
+  "firstPublicationDate": [
+    "2020-04-20"
+  ]
+}

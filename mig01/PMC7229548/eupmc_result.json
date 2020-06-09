@@ -1,0 +1,482 @@
+{
+  "id": [
+    "32454851"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32454851"
+  ],
+  "pmcid": [
+    "PMC7229548"
+  ],
+  "doi": [
+    "10.1155/2020/2824984"
+  ],
+  "title": [
+    "Tenacissoside H Induces Apoptosis and Inhibits Migration of Colon Cancer Cells by Downregulating Expression of GOLPH3 Gene."
+  ],
+  "authorString": [
+    "Hong ZS, Zhuang HB, Qiu CZ, Shi ZS, Wang CX, Chen ZC, Pan JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hong ZS"
+          ],
+          "firstName": [
+            "Zhong-Shi"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "ZS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1190-6839",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhuang HB"
+          ],
+          "firstName": [
+            "Hai-Bin"
+          ],
+          "lastName": [
+            "Zhuang"
+          ],
+          "initials": [
+            "HB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1500-6881",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu CZ"
+          ],
+          "firstName": [
+            "Cheng-Zhi"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "CZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5228-9104",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi ZS"
+          ],
+          "firstName": [
+            "Ze-Sheng"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "ZS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6725-7017",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang CX"
+          ],
+          "firstName": [
+            "Chun-Xiao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "CX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5914-1447",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen ZC"
+          ],
+          "firstName": [
+            "Zhi-Chuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "ZC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3424-4009",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan JP"
+          ],
+          "firstName": [
+            "Jian-Peng"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1190-6839",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1500-6881",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5228-9104",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6725-7017",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5914-1447",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3424-4009",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2904600"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2824984"
+  ],
+  "abstractText": [
+    "Objective:Tenacissoside H (TDH) is a Chinese medicine monomer extracted from Marsdenia tenacissima extract (MTE), which has been confirmed to have antitumor effects, but its mechanism is still unclear. The aim of this study was to investigate the effect and mechanism of TDH on human colon cancer LoVo cell proliferation and migration and explore the correlation of TDH treatment with the expression of GOLPH3 and cell signaling pathways in LoVo cells. Methods:LoVo cells were treated with TDH at 0.1, 1, 10, and 100 μg/mL for 24, 48, and 72 h. The proliferation rate of LoVo cells was evaluated by MTT assay. Recombinant plasmid p-CMV-2-GOLPH3 was constructed, and p-CMV-2-GOLPH3 and p-CMV-2 empty plasmids were transfected into LoVo cells by lipofection. Western blotting was used to detect the transfection efficiency and the expression of p-p70S6K, p70S6K, β-catenin, and GOLPH3. The apoptosis rate was analyzed with Annexin V-FITC/PI double-staining method, and cell migration assessed by transwell assay. Results:TDH inhibited the proliferation of LoVo cells in a concentration-dependent manner. The IC50 of TDH treatment in LoVo cells at 24, 48, and 72 h was 40.24, 13.00, and 5.73 μg/mL, respectively. TDH treatment significantly induced apoptosis and suppressed the viability and migration of human colon cancer LoVo cells. The effect of TDH on induction of apoptosis and inhibition of migration in LoVo cells decreased significantly after activating the PI3K/AKT/mTOR and Wnt/β-catenin signaling pathways with agonists. Additionally, the expression of GOLPH3 protein downregulated significantly in LoVo cells under TDH treatment. Overexpression of the GOLPH3 gene increased the expression of key proteins in PI3K/AKT/mTOR and Wnt/β-catenin signaling pathways and blocked the antitumor activity of TDH. Conclusion:Collectively, the present results indicated that TDH can inhibit the proliferation vitality of colon cancer LoVo cells through downregulating GOLPH3 expression and activity of PI3K/AKT/mTOR and Wnt/β-catenin signaling pathways."
+  ],
+  "affiliation": [
+    "Department of General Surgery, The Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, Fujian Province, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/2824984"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7229548"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7229548?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/2824984"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-27"
+  ],
+  "firstIndexDate": [
+    "2020-05-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-25"
+  ],
+  "dateOfRevision": [
+    "2020-05-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-07"
+  ],
+  "firstPublicationDate": [
+    "2020-05-07"
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "id": [
+    "32431548"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32431548"
+  ],
+  "pmcid": [
+    "PMC7200253"
+  ],
+  "doi": [
+    "10.2147/cmar.s222878"
+  ],
+  "title": [
+    "HAND2-AS1 Inhibits Gastric Adenocarcinoma Cells Proliferation and Aerobic Glycolysis via miRNAs Sponge."
+  ],
+  "authorString": [
+    "Xu Z, Lv H, Wang Y, Hu C, Chen S, Du Y, Shi C, Cheng X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zhiyuan"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastric Surgery, Institute of Cancer and Basic Medicine, Cancer Hospital of the University of Chinese Academy of Sciences, Zhejiang Cancer Hospital, Hangzhou, Zhejiang 310022, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lv H"
+          ],
+          "firstName": [
+            "Hang"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Laboratory of Integrated Traditional Chinese and Western Medicine for Diagnosis and Treatment of Digestive System Tumor, Hangzhou 300020, Zhejiang, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yiping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Key Laboratory of Integrated Traditional Chinese and Western Medicine for Diagnosis and Treatment of Digestive System Tumor, Hangzhou 300020, Zhejiang, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu C"
+          ],
+          "firstName": [
+            "Can"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou 310006, Zhejiang, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Shangqi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou 310006, Zhejiang, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Du Y"
+          ],
+          "firstName": [
+            "Yian"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastric Surgery, Institute of Cancer and Basic Medicine, Cancer Hospital of the University of Chinese Academy of Sciences, Zhejiang Cancer Hospital, Hangzhou, Zhejiang 310022, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi C"
+          ],
+          "firstName": [
+            "Chengwei"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou 310006, Zhejiang, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng X"
+          ],
+          "firstName": [
+            "Xiangdong"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1575-9063",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastric Surgery, Institute of Cancer and Basic Medicine, Cancer Hospital of the University of Chinese Academy of Sciences, Zhejiang Cancer Hospital, Hangzhou, Zhejiang 310022, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1575-9063",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2911712"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer management and research"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Manag Res"
+          ],
+          "medlineAbbreviation": [
+            "Cancer Manag Res"
+          ],
+          "NLMid": [
+            "101512700"
+          ],
+          "ISSN": [
+            "1179-1322"
+          ],
+          "ESSN": [
+            "1179-1322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3053-3068"
+  ],
+  "abstractText": [
+    "Objective:To study the effect of lncRNA HAND2-AS1 on gastric adenocarcinoma (GA) cell property and explore its specific mechanism. Methods:Data on stomach adenocarcinoma (STAD) were analyzed to screen differentially expressed lncRNA HAND2-AS1. RNA22-HAS database and dual luciferase reporter assay were applied to confirm the target relationship between HAND2-AS1/HIF3A and miR-184. The HAND2-AS1 and miR-184 expressions in tissue or cells were determined by qRT-PCR and Western blot. Besides, after GA cells (AGS) cultured in normoxic and hypoxic condition, phosphoenolpyruvate (PEP) and lactic acid were quantified by Phosphoenolpyruvate Fluorometric Assay Kit and Lactic Acid Detection kit, respectively. Additionally, colony formation assay, transwell invasion and migration assays were used to evaluate the abilities of cell invasion, migration, and proliferation in distinct conditions. Results:The HAND2-AS1 and HIF3A expressions were down-regulated and miR-184 expression was up-regulated in GA tissues and cells. Dual luciferase reporter assay confirmed HAND2-AS1 and HIF3A were targeted by miR-184. AGS cell proliferation abilities were restrained by HAND2-AS1 and HIF3A overexpression and enhanced by miR-184, as well as migration and invasion abilities. In addition, HAND2-AS1 rescued enhanced AGS cell proliferation, cell migration, cell invasion abilities and glycolytic process caused by hypoxia via miR-184/HIF3A. Conclusion:LncRNA HAND2-AS1 could inhibit GA cell proliferation, migration and invasion abilities and glycolytic process induced by hypoxia through miR-184/HIF3A signaling."
+  ],
+  "affiliation": [
+    "Department of Gastric Surgery, Institute of Cancer and Basic Medicine, Cancer Hospital of the University of Chinese Academy of Sciences, Zhejiang Cancer Hospital, Hangzhou, Zhejiang 310022, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cell proliferation",
+        "Lactic acid",
+        "Hypoxia",
+        "Gastric adenocarcinoma",
+        "Lncrna"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CMAR.S222878"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200253"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200253?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/cmar.s222878"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-21"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-01"
+  ],
+  "firstPublicationDate": [
+    "2020-05-01"
+  ]
+}

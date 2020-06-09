@@ -1,0 +1,376 @@
+{
+  "id": [
+    "32341653"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32341653"
+  ],
+  "pmcid": [
+    "PMC7166057"
+  ],
+  "doi": [
+    "10.2147/ott.s247731"
+  ],
+  "title": [
+    "Rap2c as a Novel Biomarker for Predicting Poor Prognosis in Glioma."
+  ],
+  "authorString": [
+    "Wang X, Wang C, Xi L, Yu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiucun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215006, People's Republic of China.",
+                "Department of Neurosurgery, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221002, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Cheng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221002, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xi L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Xi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0353-1697",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, Jiangsu 221002, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Z"
+          ],
+          "firstName": [
+            "Zhengquan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5673-2097",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215006, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0353-1697",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5673-2097",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2917113"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "OncoTargets and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "medlineAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "NLMid": [
+            "101514322"
+          ],
+          "ISSN": [
+            "1178-6930"
+          ],
+          "ESSN": [
+            "1178-6930"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3073-3083"
+  ],
+  "abstractText": [
+    "Objective:Rap2c is a member of the Ras superfamily that has been implicated in various types of cancers. However, its role in glioma remains elusive. This study aimed to elucidate the role of Rap2c in glioma and its specific molecular mechanism. Methods:We determined the expression of Rap2c in glioma tissues by Western blotting and immunohistochemistry (IHC) assays. The proliferation and apoptosis of cells were explored using CCK-8 and flow cytometry assay, whereas the migration and invasion of glioma cells were determined using transwell assay. The potential mechanism of Rap2c in the migration of glioma cell lines was investigated through Western blotting analysis and transwell assay. BALB/c nude mice were used to establish tumor models to test the effect of Rap2c on cancer metastasis in vivo. Results:Our data showed that the protein expression of Rap2c was significantly up-regulated in glioma tissues compared with normal brain tissues, and Rap2c overexpression negatively correlated with 5-year overall survival rate. However, there was no correlation between Rap2c expression and clinicopathological parameters of glioma patients. Overexpression of Rap2c promoted the migration and invasion abilities of glioma cells but had no significant effect on the proliferation of glioma cells. Western blotting analysis revealed that Rap2c overexpression increased the phosphorylation level of extracellular signal-related kinase1/2 (ERK1/2), and this effect was abolished with U0126, a selective MEK inhibitor. Furthermore, overexpression of Rap2c induced lung metastasis of glioma cells in xenograft models. Conclusion:These findings indicate that high Rap2c expression predicts poor prognosis in glioma. Rap2c-mediated ERK1/2 phosphorylation initiates EMT cascade and promotes migration and invasion of glioma cells. Thus, targeting Rap2c and ERK signaling pathway could be a novel treatment modality for glioma."
+  ],
+  "affiliation": [
+    "Department of Neurosurgery, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu 215006, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Invasion",
+        "MAPK",
+        "Glioma",
+        "ERK",
+        "Rap2c"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/OTT.S247731"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7166057"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7166057?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/ott.s247731"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-29"
+  ],
+  "firstIndexDate": [
+    "2020-04-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-29"
+  ],
+  "dateOfRevision": [
+    "2020-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-14"
+  ],
+  "firstPublicationDate": [
+    "2020-04-14"
+  ]
+}

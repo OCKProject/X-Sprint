@@ -1,0 +1,4251 @@
+{
+  "id": [
+    "30915040"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30915040"
+  ],
+  "pmcid": [
+    "PMC6421502"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.00370"
+  ],
+  "title": [
+    "Spatiotemporal Characteristics of the Largest HIV-1 CRF02_AG Outbreak in Spain: Evidence for Onward Transmissions."
+  ],
+  "authorString": [
+    "Kostaki EG, Flampouris A, Karamitros T, Chueca N, Alvarez M, Casas P, Alejos B, Hatzakis A, Garcia F, Paraskevis D, CoRIS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kostaki EG"
+          ],
+          "firstName": [
+            "Evangelia-Georgia"
+          ],
+          "lastName": [
+            "Kostaki"
+          ],
+          "initials": [
+            "EG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3346-0930",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hygiene, Epidemiology and Medical Statistics, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Flampouris A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Flampouris"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hygiene, Epidemiology and Medical Statistics, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karamitros T"
+          ],
+          "firstName": [
+            "Timokratis"
+          ],
+          "lastName": [
+            "Karamitros"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Zoology, University of Oxford, Oxford, United Kingdom.",
+                "Public Health Laboratories, Department of Microbiology, Hellenic Pasteur Institute, Athens, Greece."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chueca N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Chueca"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Clinical Microbiology, Hospital Universitario San Cecilio, Instituto de Investigación Ibs, Granada, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alvarez M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Alvarez"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Clinical Microbiology, Hospital Universitario San Cecilio, Instituto de Investigación Ibs, Granada, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Casas P"
+          ],
+          "firstName": [
+            "Paz"
+          ],
+          "lastName": [
+            "Casas"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Clinical Microbiology, Hospital Universitario San Cecilio, Instituto de Investigación Ibs, Granada, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alejos B"
+          ],
+          "firstName": [
+            "Belen"
+          ],
+          "lastName": [
+            "Alejos"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro Nacional de Epidemiología, Universidad de Alcalá de Henares, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hatzakis A"
+          ],
+          "firstName": [
+            "Angelos"
+          ],
+          "lastName": [
+            "Hatzakis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hygiene, Epidemiology and Medical Statistics, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Garcia"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Clinical Microbiology, Hospital Universitario San Cecilio, Instituto de Investigación Ibs, Granada, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Paraskevis D"
+          ],
+          "firstName": [
+            "Dimitrios"
+          ],
+          "lastName": [
+            "Paraskevis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hygiene, Epidemiology and Medical Statistics, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+              ]
+            }
+          ]
+        },
+        {
+          "collectiveName": [
+            "CoRIS"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Moreno S"
+          ],
+          "firstName": [
+            "Santiago"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Jarrín I"
+          ],
+          "firstName": [
+            "Inma"
+          ],
+          "lastName": [
+            "Jarrín"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Dalmau D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Dalmau"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Luisa Navarro M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Luisa Navarro"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Isabel González M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Isabel González"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Luis Blanco J"
+          ],
+          "firstName": [
+            "Jose"
+          ],
+          "lastName": [
+            "Luis Blanco"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Garcia"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Rubio R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Rubio"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Antonio Iribarren J"
+          ],
+          "firstName": [
+            "Jose"
+          ],
+          "lastName": [
+            "Antonio Iribarren"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Gutiérrez F"
+          ],
+          "firstName": [
+            "Félix"
+          ],
+          "lastName": [
+            "Gutiérrez"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Vidal F"
+          ],
+          "firstName": [
+            "Francesc"
+          ],
+          "lastName": [
+            "Vidal"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Berenguer J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Berenguer"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "González J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "González"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Alejos B"
+          ],
+          "firstName": [
+            "Belén"
+          ],
+          "lastName": [
+            "Alejos"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Hernando V"
+          ],
+          "firstName": [
+            "Victoria"
+          ],
+          "lastName": [
+            "Hernando"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Iniesta C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Iniesta"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0928-2679",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miguel Garcia Sousa L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Miguel Garcia Sousa"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanz Perez N"
+          ],
+          "firstName": [
+            "Nieves"
+          ],
+          "lastName": [
+            "Sanz Perez"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Ángeles Muñoz-Fernández M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Ángeles Muñoz-Fernández"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "María García-Merino I"
+          ],
+          "firstName": [
+            "Isabel"
+          ],
+          "lastName": [
+            "María García-Merino"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Consuegra Fernández I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Consuegra Fernández"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Gómez Rico C"
+          ],
+          "firstName": [
+            "Coral"
+          ],
+          "lastName": [
+            "Gómez Rico"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Gallego de la Fuente J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Gallego de la Fuente"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Palau Concejo P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Palau Concejo"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Portilla J"
+          ],
+          "firstName": [
+            "Joaquín"
+          ],
+          "lastName": [
+            "Portilla"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Merino E"
+          ],
+          "firstName": [
+            "Esperanza"
+          ],
+          "lastName": [
+            "Merino"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Reus S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Reus"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Boix V"
+          ],
+          "firstName": [
+            "Vicente"
+          ],
+          "lastName": [
+            "Boix"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7015-3948",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Giner L"
+          ],
+          "firstName": [
+            "Livia"
+          ],
+          "lastName": [
+            "Giner"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Gadea C"
+          ],
+          "firstName": [
+            "Carmen"
+          ],
+          "lastName": [
+            "Gadea"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Portilla I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Portilla"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Pampliega M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Pampliega"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Díez M"
+          ],
+          "firstName": [
+            "Marcos"
+          ],
+          "lastName": [
+            "Díez"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Carlos Rodríguez J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Carlos Rodríguez"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Sánchez-Payá J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Sánchez-Payá"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Luis Gómez J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Luis Gómez"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Hernández J"
+          ],
+          "firstName": [
+            "Jehovana"
+          ],
+          "lastName": [
+            "Hernández"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Remedios Alemán M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Remedios Alemán"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Del Mar Alonso M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Del Mar Alonso"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Inmaculada Hernández M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Inmaculada Hernández"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Díaz-Flores F"
+          ],
+          "firstName": [
+            "Felicitas"
+          ],
+          "lastName": [
+            "Díaz-Flores"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "García D"
+          ],
+          "firstName": [
+            "Dácil"
+          ],
+          "lastName": [
+            "García"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Pelazas R"
+          ],
+          "firstName": [
+            "Ricardo"
+          ],
+          "lastName": [
+            "Pelazas"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "López Lirola A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "López Lirola"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanz Moreno J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Sanz Moreno"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Arranz Caso A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "Arranz Caso"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Hernández Gutiérrez C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Hernández Gutiérrez"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Novella Mena M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Novella Mena"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Rubio R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Rubio"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Pulido F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "Pulido"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Bisbal O"
+          ],
+          "firstName": [
+            "Otilia"
+          ],
+          "lastName": [
+            "Bisbal"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Hernando A"
+          ],
+          "firstName": [
+            "Asunción"
+          ],
+          "lastName": [
+            "Hernando"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Domínguez L"
+          ],
+          "firstName": [
+            "Lourdes"
+          ],
+          "lastName": [
+            "Domínguez"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Rial Crestelo D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Rial Crestelo"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Bermejo L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Bermejo"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Santacreu M"
+          ],
+          "firstName": [
+            "Mireia"
+          ],
+          "lastName": [
+            "Santacreu"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Antonio Iribarren J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Antonio Iribarren"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Arrizabalaga J"
+          ],
+          "firstName": [
+            "Julio"
+          ],
+          "lastName": [
+            "Arrizabalaga"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "José Aramburu M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "José Aramburu"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Camino X"
+          ],
+          "firstName": [
+            "Xabier"
+          ],
+          "lastName": [
+            "Camino"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez-Arrondo F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Rodríguez-Arrondo"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Ángel von Wichmann M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Ángel von Wichmann"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Pascual Tomé L"
+          ],
+          "firstName": [
+            "Lidia"
+          ],
+          "lastName": [
+            "Pascual Tomé"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Ángel Goenaga M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Ángel Goenaga"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Jesús Bustinduy M"
+          ],
+          "firstName": [
+            "Ma"
+          ],
+          "lastName": [
+            "Jesús Bustinduy"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Azkune H"
+          ],
+          "firstName": [
+            "Harkaitz"
+          ],
+          "lastName": [
+            "Azkune"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Ibarguren M"
+          ],
+          "firstName": [
+            "Maialen"
+          ],
+          "lastName": [
+            "Ibarguren"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Lizardi A"
+          ],
+          "firstName": [
+            "Aitziber"
+          ],
+          "lastName": [
+            "Lizardi"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Kortajarena X"
+          ],
+          "firstName": [
+            "Xabier"
+          ],
+          "lastName": [
+            "Kortajarena"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Gutiérrez F"
+          ],
+          "firstName": [
+            "Félix"
+          ],
+          "lastName": [
+            "Gutiérrez"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Masiá M"
+          ],
+          "firstName": [
+            "Mar"
+          ],
+          "lastName": [
+            "Masiá"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Padilla S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Padilla"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Navarro A"
+          ],
+          "firstName": [
+            "Andrés"
+          ],
+          "lastName": [
+            "Navarro"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Montolio F"
+          ],
+          "firstName": [
+            "Fernando"
+          ],
+          "lastName": [
+            "Montolio"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Robledano C"
+          ],
+          "firstName": [
+            "Catalina"
+          ],
+          "lastName": [
+            "Robledano"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Gregori Colomé J"
+          ],
+          "firstName": [
+            "Joan"
+          ],
+          "lastName": [
+            "Gregori Colomé"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Adsuar A"
+          ],
+          "firstName": [
+            "Araceli"
+          ],
+          "lastName": [
+            "Adsuar"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Pascual R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Pascual"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Fernández M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Fernández"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "García E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "García"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Alberto García J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Alberto García"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Barber X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Barber"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Berenguer J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Berenguer"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Carlos López Bernaldo de Quirós J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Carlos López Bernaldo de Quirós"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Gutiérrez I"
+          ],
+          "firstName": [
+            "Isabel"
+          ],
+          "lastName": [
+            "Gutiérrez"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Ramírez M"
+          ],
+          "firstName": [
+            "Margarita"
+          ],
+          "lastName": [
+            "Ramírez"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Padilla B"
+          ],
+          "firstName": [
+            "Belén"
+          ],
+          "lastName": [
+            "Padilla"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Gijón P"
+          ],
+          "firstName": [
+            "Paloma"
+          ],
+          "lastName": [
+            "Gijón"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Aldamiz-Echevarría T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Aldamiz-Echevarría"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Tejerina F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Tejerina"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "José Parras F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "José Parras"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Balsalobre P"
+          ],
+          "firstName": [
+            "Pascual"
+          ],
+          "lastName": [
+            "Balsalobre"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Diez C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Diez"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez Latorre L"
+          ],
+          "firstName": [
+            "Leire"
+          ],
+          "lastName": [
+            "Pérez Latorre"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Vidal F"
+          ],
+          "firstName": [
+            "Francesc"
+          ],
+          "lastName": [
+            "Vidal"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Peraire J"
+          ],
+          "firstName": [
+            "Joaquín"
+          ],
+          "lastName": [
+            "Peraire"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Viladés C"
+          ],
+          "firstName": [
+            "Consuelo"
+          ],
+          "lastName": [
+            "Viladés"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Veloso S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Veloso"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Vargas M"
+          ],
+          "firstName": [
+            "Montserrat"
+          ],
+          "lastName": [
+            "Vargas"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "López-Dupla M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "López-Dupla"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Olona M"
+          ],
+          "firstName": [
+            "Montserrat"
+          ],
+          "lastName": [
+            "Olona"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Rull A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Rull"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8907-7754",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez-Gallego E"
+          ],
+          "firstName": [
+            "Esther"
+          ],
+          "lastName": [
+            "Rodríguez-Gallego"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Alba V"
+          ],
+          "firstName": [
+            "Verónica"
+          ],
+          "lastName": [
+            "Alba"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Montero Alonso M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Montero Alonso"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "López Aldeguer J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "López Aldeguer"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Blanes Juliá M"
+          ],
+          "firstName": [
+            "Marino"
+          ],
+          "lastName": [
+            "Blanes Juliá"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Tasias Pitarch M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Tasias Pitarch"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Castro Hernández I"
+          ],
+          "firstName": [
+            "Iván"
+          ],
+          "lastName": [
+            "Castro Hernández"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Calabuig Muñoz E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Calabuig Muñoz"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Cuéllar Tovar S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Cuéllar Tovar"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Salavert Lletí M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Salavert Lletí"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Fernández Navarro J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Fernández Navarro"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Miguel Molina J"
+          ],
+          "firstName": [
+            "Jose"
+          ],
+          "lastName": [
+            "Miguel Molina"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "González-Garcia J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "González-Garcia"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Arnalich F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Arnalich"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Ramón Arribas J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Ramón Arribas"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ignacio Bernardino de la Serna J"
+          ],
+          "firstName": [
+            "Jose"
+          ],
+          "lastName": [
+            "Ignacio Bernardino de la Serna"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Miguel Castro J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Miguel Castro"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Escosa L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Escosa"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Herranz P"
+          ],
+          "firstName": [
+            "Pedro"
+          ],
+          "lastName": [
+            "Herranz"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Hontañón V"
+          ],
+          "firstName": [
+            "Victor"
+          ],
+          "lastName": [
+            "Hontañón"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "García-Bujalance S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "García-Bujalance"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "García López-Hortelano M"
+          ],
+          "firstName": [
+            "Milagros"
+          ],
+          "lastName": [
+            "García López-Hortelano"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "González-Baeza A"
+          ],
+          "firstName": [
+            "Alicia"
+          ],
+          "lastName": [
+            "González-Baeza"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Luz Martín-Carbonero M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Luz Martín-Carbonero"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Mayoral M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Mayoral"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Jose Mellado M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Jose Mellado"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Esteban Micán R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Esteban Micán"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Montejano R"
+          ],
+          "firstName": [
+            "Rocio"
+          ],
+          "lastName": [
+            "Montejano"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Luisa Montes M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Luisa Montes"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno V"
+          ],
+          "firstName": [
+            "Victoria"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez-Valero I"
+          ],
+          "firstName": [
+            "Ignacio"
+          ],
+          "lastName": [
+            "Pérez-Valero"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3488-7135",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rodés B"
+          ],
+          "firstName": [
+            "Berta"
+          ],
+          "lastName": [
+            "Rodés"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Sainz T"
+          ],
+          "firstName": [
+            "Talia"
+          ],
+          "lastName": [
+            "Sainz"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Sendagorta E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Sendagorta"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Stella Alcáriz N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Stella Alcáriz"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Valencia E"
+          ],
+          "firstName": [
+            "Eulalia"
+          ],
+          "lastName": [
+            "Valencia"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Ramón Blanco J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Ramón Blanco"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Antonio Oteo J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Antonio Oteo"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ibarra V"
+          ],
+          "firstName": [
+            "Valvanera"
+          ],
+          "lastName": [
+            "Ibarra"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Metola L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Metola"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanz M"
+          ],
+          "firstName": [
+            "Mercedes"
+          ],
+          "lastName": [
+            "Sanz"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez-Martínez L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Pérez-Martínez"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Dalmau D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Dalmau"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Jaén A"
+          ],
+          "firstName": [
+            "Angels"
+          ],
+          "lastName": [
+            "Jaén"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanmartí M"
+          ],
+          "firstName": [
+            "Montse"
+          ],
+          "lastName": [
+            "Sanmartí"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Cairó M"
+          ],
+          "firstName": [
+            "Mireia"
+          ],
+          "lastName": [
+            "Cairó"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Martinez-Lacasa J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "Martinez-Lacasa"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Velli P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Velli"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Font R"
+          ],
+          "firstName": [
+            "Roser"
+          ],
+          "lastName": [
+            "Font"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Xercavins M"
+          ],
+          "firstName": [
+            "Mariona"
+          ],
+          "lastName": [
+            "Xercavins"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1463-6344",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alonso N"
+          ],
+          "firstName": [
+            "Noemí"
+          ],
+          "lastName": [
+            "Alonso"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Repáraz J"
+          ],
+          "firstName": [
+            "Jesús"
+          ],
+          "lastName": [
+            "Repáraz"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Gracia Ruiz de Alda M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Gracia Ruiz de Alda"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Teresa de León Cano M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Teresa de León Cano"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Pierola Ruiz de Galarreta B"
+          ],
+          "firstName": [
+            "Beatriz"
+          ],
+          "lastName": [
+            "Pierola Ruiz de Galarreta"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "de Los Santos I"
+          ],
+          "firstName": [
+            "Ignacio"
+          ],
+          "lastName": [
+            "de Los Santos"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanz Sanz J"
+          ],
+          "firstName": [
+            "Jesús"
+          ],
+          "lastName": [
+            "Sanz Sanz"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Salas Aparicio A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Salas Aparicio"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Sarriá Cepeda C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Sarriá Cepeda"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia-Fraile Fraile L"
+          ],
+          "firstName": [
+            "Lucio"
+          ],
+          "lastName": [
+            "Garcia-Fraile Fraile"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Martín Gayo E"
+          ],
+          "firstName": [
+            "Enrique"
+          ],
+          "lastName": [
+            "Martín Gayo"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno S"
+          ],
+          "firstName": [
+            "Santiago"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Luis Casado J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Luis Casado"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Dronda F"
+          ],
+          "firstName": [
+            "Fernando"
+          ],
+          "lastName": [
+            "Dronda"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Jesús Pérez Elías M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Jesús Pérez Elías"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Gómez Ayerbe C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Gómez Ayerbe"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Gutiérrez C"
+          ],
+          "firstName": [
+            "Carolina"
+          ],
+          "lastName": [
+            "Gutiérrez"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Madrid N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Madrid"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Del Campo Terrón S"
+          ],
+          "firstName": [
+            "Santos"
+          ],
+          "lastName": [
+            "Del Campo Terrón"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Martí P"
+          ],
+          "firstName": [
+            "Paloma"
+          ],
+          "lastName": [
+            "Martí"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Ansa U"
+          ],
+          "firstName": [
+            "Uxua"
+          ],
+          "lastName": [
+            "Ansa"
+          ],
+          "initials": [
+            "U"
+          ]
+        },
+        {
+          "fullName": [
+            "Serrano S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Serrano"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Jesús Vivancos M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Jesús Vivancos"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Bernal E"
+          ],
+          "firstName": [
+            "Enrique"
+          ],
+          "lastName": [
+            "Bernal"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Cano A"
+          ],
+          "firstName": [
+            "Alfredo"
+          ],
+          "lastName": [
+            "Cano"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Alcaraz García A"
+          ],
+          "firstName": [
+            "Antonia"
+          ],
+          "lastName": [
+            "Alcaraz García"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Bravo Urbieta J"
+          ],
+          "firstName": [
+            "Joaquín"
+          ],
+          "lastName": [
+            "Bravo Urbieta"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Muñoz Á"
+          ],
+          "firstName": [
+            "Ángeles"
+          ],
+          "lastName": [
+            "Muñoz"
+          ],
+          "initials": [
+            "Á"
+          ]
+        },
+        {
+          "fullName": [
+            "Jose Alcaraz M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Jose Alcaraz"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Del Carmen Villalba M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Del Carmen Villalba"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "García F"
+          ],
+          "firstName": [
+            "Federico"
+          ],
+          "lastName": [
+            "García"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Hernández J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Hernández"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Peña A"
+          ],
+          "firstName": [
+            "Alejandro"
+          ],
+          "lastName": [
+            "Peña"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Muñoz L"
+          ],
+          "firstName": [
+            "Leopoldo"
+          ],
+          "lastName": [
+            "Muñoz"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Casas P"
+          ],
+          "firstName": [
+            "Paz"
+          ],
+          "lastName": [
+            "Casas"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Alvarez M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Alvarez"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Chueca N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Chueca"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Vinuesa D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Vinuesa"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Martinez-Montes C"
+          ],
+          "firstName": [
+            "Clara"
+          ],
+          "lastName": [
+            "Martinez-Montes"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "García F"
+          ],
+          "firstName": [
+            "Fernando"
+          ],
+          "lastName": [
+            "García"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Guerrero-Beltran C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Guerrero-Beltran"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Del Romero J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Del Romero"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez C"
+          ],
+          "firstName": [
+            "Carmen"
+          ],
+          "lastName": [
+            "Rodríguez"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Puerta T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Puerta"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Carlos Carrió J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Carlos Carrió"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Vera M"
+          ],
+          "firstName": [
+            "Mar"
+          ],
+          "lastName": [
+            "Vera"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Ballesteros J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Ballesteros"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ayerdi O"
+          ],
+          "firstName": [
+            "Oskar"
+          ],
+          "lastName": [
+            "Ayerdi"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Antela A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Antela"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Losada E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Losada"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Aguilera A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Aguilera"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Riera M"
+          ],
+          "firstName": [
+            "Melchor"
+          ],
+          "lastName": [
+            "Riera"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Peñaranda M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Peñaranda"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Leyes M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Leyes"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Angels Ribas M"
+          ],
+          "firstName": [
+            "Ma"
+          ],
+          "lastName": [
+            "Angels Ribas"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "A Campins A"
+          ],
+          "firstName": [
+            "Antoni"
+          ],
+          "lastName": [
+            "A Campins"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Vidal C"
+          ],
+          "firstName": [
+            "Carmen"
+          ],
+          "lastName": [
+            "Vidal"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Fanjul F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Fanjul"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Murillas J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "Murillas"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Homar F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Homar"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Santos J"
+          ],
+          "firstName": [
+            "Jesús"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Gómez Ayerbe C"
+          ],
+          "firstName": [
+            "Crisitina"
+          ],
+          "lastName": [
+            "Gómez Ayerbe"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Viciana I"
+          ],
+          "firstName": [
+            "Isabel"
+          ],
+          "lastName": [
+            "Viciana"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Palacios R"
+          ],
+          "firstName": [
+            "Rosario"
+          ],
+          "lastName": [
+            "Palacios"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "María González C"
+          ],
+          "firstName": [
+            "Carmen"
+          ],
+          "lastName": [
+            "María González"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Viciana P"
+          ],
+          "firstName": [
+            "Pompeyo"
+          ],
+          "lastName": [
+            "Viciana"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Espinosa N"
+          ],
+          "firstName": [
+            "Nuria"
+          ],
+          "lastName": [
+            "Espinosa"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Fernando López-Cortés L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Fernando López-Cortés"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Podzamczer D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Podzamczer"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Ferrer E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Ferrer"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Imaz A"
+          ],
+          "firstName": [
+            "Arkaitz"
+          ],
+          "lastName": [
+            "Imaz"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Tiraboschi J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Tiraboschi"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Silva A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Saumoy M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Saumoy"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Olalla J"
+          ],
+          "firstName": [
+            "Julián"
+          ],
+          "lastName": [
+            "Olalla"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Del Arco A"
+          ],
+          "firstName": [
+            "Alfonso"
+          ],
+          "lastName": [
+            "Del Arco"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "de la Torre J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "de la Torre"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Luis Prada J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Luis Prada"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "María García de Lomas Guerrero J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "María García de Lomas Guerrero"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez Stachowski J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "Pérez Stachowski"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Amador C"
+          ],
+          "firstName": [
+            "Concepción"
+          ],
+          "lastName": [
+            "Amador"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Juan Martínez O"
+          ],
+          "firstName": [
+            "Onofre"
+          ],
+          "lastName": [
+            "Juan Martínez"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Jesús Vera F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Jesús Vera"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Martínez L"
+          ],
+          "firstName": [
+            "Lorena"
+          ],
+          "lastName": [
+            "Martínez"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "García J"
+          ],
+          "firstName": [
+            "Josefina"
+          ],
+          "lastName": [
+            "García"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Alcaraz B"
+          ],
+          "firstName": [
+            "Begoña"
+          ],
+          "lastName": [
+            "Alcaraz"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Jimeno A"
+          ],
+          "firstName": [
+            "Amaya"
+          ],
+          "lastName": [
+            "Jimeno"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Castro Iglesias A"
+          ],
+          "firstName": [
+            "Angeles"
+          ],
+          "lastName": [
+            "Castro Iglesias"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Pernas Souto B"
+          ],
+          "firstName": [
+            "Berta"
+          ],
+          "lastName": [
+            "Pernas Souto"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Mena de Cea A"
+          ],
+          "firstName": [
+            "Alvaro"
+          ],
+          "lastName": [
+            "Mena de Cea"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Galera C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Galera"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Albendin H"
+          ],
+          "firstName": [
+            "Helena"
+          ],
+          "lastName": [
+            "Albendin"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez A"
+          ],
+          "firstName": [
+            "Aurora"
+          ],
+          "lastName": [
+            "Pérez"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Iborra A"
+          ],
+          "firstName": [
+            "Asunción"
+          ],
+          "lastName": [
+            "Iborra"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Angustias Merlos M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Angustias Merlos"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Vidal A"
+          ],
+          "firstName": [
+            "Asunción"
+          ],
+          "lastName": [
+            "Vidal"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Suárez-García I"
+          ],
+          "firstName": [
+            "Inés"
+          ],
+          "lastName": [
+            "Suárez-García"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Malmierca E"
+          ],
+          "firstName": [
+            "Eduardo"
+          ],
+          "lastName": [
+            "Malmierca"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "González-Ruano P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "González-Ruano"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Martín Rodrigo D"
+          ],
+          "firstName": [
+            "Dolores"
+          ],
+          "lastName": [
+            "Martín Rodrigo"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Omar Mohamed-Balghata M"
+          ],
+          "firstName": [
+            "Mohamed"
+          ],
+          "lastName": [
+            "Omar Mohamed-Balghata"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "A Pineda J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "A Pineda"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Macías J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Macías"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Thomson M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Thomson"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Delgado E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Delgado"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Benito S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Benito"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Montero V"
+          ],
+          "firstName": [
+            "Vanessa"
+          ],
+          "lastName": [
+            "Montero"
+          ],
+          "initials": [
+            "V"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3346-0930",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0928-2679",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7015-3948",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8907-7754",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3488-7135",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1463-6344",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "370"
+  ],
+  "abstractText": [
+    "Background and Aim: The circulating recombinant form 02_AG (CRF02_AG) is the predominant clade among the human immunodeficiency virus type-1 (HIV-1) non-Bs with a prevalence of 5.97% (95% Confidence Interval-CI: 5.41-6.57%) across Spain. Our aim was to estimate the levels of regional clustering for CRF02_AG and the spatiotemporal characteristics of the largest CRF02_AG subepidemic in Spain. Methods: We studied 396 CRF02_AG sequences obtained from HIV-1 diagnosed patients during 2000-2014 from 10 autonomous communities of Spain. Phylogenetic analysis was performed on the 391 CRF02_AG sequences along with all globally sampled CRF02_AG sequences (N = 3,302) as references. Phylodynamic and phylogeographic analysis was performed to the largest CRF02_AG monophyletic cluster by a Bayesian method in BEAST v1.8.0 and by reconstructing ancestral states using the criterion of parsimony in Mesquite v3.4, respectively. Results: The HIV-1 CRF02_AG prevalence differed across Spanish autonomous communities we sampled from (p < 0.001). Phylogenetic analysis revealed that 52.7% of the CRF02_AG sequences formed 56 monophyletic clusters, with a range of 2-79 sequences. The CRF02_AG regional dispersal differed across Spain (p = 0.003), as suggested by monophyletic clustering. For the largest monophyletic cluster (subepidemic) (N = 79), 49.4% of the clustered sequences originated from Madrid, while most sequences (51.9%) had been obtained from men having sex with men (MSM). Molecular clock analysis suggested that the origin (tMRCA) of the CRF02_AG subepidemic was in 2002 (median estimate; 95% Highest Posterior Density-HPD interval: 1999-2004). Additionally, we found significant clustering within the CRF02_AG subepidemic according to the ethnic origin. Conclusion: CRF02_AG has been introduced as a result of multiple introductions in Spain, following regional dispersal in several cases. We showed that CRF02_AG transmissions were mostly due to regional dispersal in Spain. The hot-spot for the largest CRF02_AG regional subepidemic in Spain was in Madrid associated with MSM transmission risk group. The existence of subepidemics suggest that several spillovers occurred from Madrid to other areas. CRF02_AG sequences from Hispanics were clustered in a separate subclade suggesting no linkage between the local and Hispanic subepidemics."
+  ],
+  "affiliation": [
+    "Department of Hygiene, Epidemiology and Medical Statistics, Medical School, National and Kapodistrian University of Athens, Athens, Greece."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV-1",
+        "Spain",
+        "Crf02_ag",
+        "Spatiotemporal Characteristics",
+        "Regional Dispersal"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.00370"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6421502"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6421502?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.00370"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-28"
+  ],
+  "firstIndexDate": [
+    "2019-03-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-28"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-11"
+  ],
+  "firstPublicationDate": [
+    "2019-03-11"
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "id": [
+    "32369438"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32369438"
+  ],
+  "pmcid": [
+    "PMC7200163"
+  ],
+  "doi": [
+    "10.7554/elife.52979"
+  ],
+  "title": [
+    "Protein phosphatase 1 activity controls a balance between collective and single cell modes of migration."
+  ],
+  "authorString": [
+    "Chen Y, Kotian N, Aranjuez G, Chen L, Messer CL, Burtscher A, Sawant K, Ramel D, Wang X, McDonald JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yujun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3190-6713",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Biology, Kansas State University, Manhattan, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kotian N"
+          ],
+          "firstName": [
+            "Nirupama"
+          ],
+          "lastName": [
+            "Kotian"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Biology, Kansas State University, Manhattan, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Aranjuez G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Aranjuez"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Lerner Research Institute, Cleveland Clinic, Cleveland, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "LBCMCP, Centre de Biologie Intégrative (CBI), Université de Toulouse, CNRS, UPS, Toulouse, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Messer CL"
+          ],
+          "firstName": [
+            "C Luke"
+          ],
+          "lastName": [
+            "Messer"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Biology, Kansas State University, Manhattan, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Burtscher A"
+          ],
+          "firstName": [
+            "Ashley"
+          ],
+          "lastName": [
+            "Burtscher"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Lerner Research Institute, Cleveland Clinic, Cleveland, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sawant K"
+          ],
+          "firstName": [
+            "Ketki"
+          ],
+          "lastName": [
+            "Sawant"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Biology, Kansas State University, Manhattan, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ramel D"
+          ],
+          "firstName": [
+            "Damien"
+          ],
+          "lastName": [
+            "Ramel"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9089-1497",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "LBCMCP, Centre de Biologie Intégrative (CBI), Université de Toulouse, CNRS, UPS, Toulouse, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaobo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "LBCMCP, Centre de Biologie Intégrative (CBI), Université de Toulouse, CNRS, UPS, Toulouse, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "McDonald JA"
+          ],
+          "firstName": [
+            "Jocelyn A"
+          ],
+          "lastName": [
+            "McDonald"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7494-1466",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Biology, Kansas State University, Manhattan, United States."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3190-6713",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9089-1497",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7494-1466",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2948877"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Collective cell migration is central to many developmental and pathological processes. However, the mechanisms that keep cell collectives together and coordinate movement of multiple cells are poorly understood. Using the Drosophila border cell migration model, we find that Protein phosphatase 1 (Pp1) activity controls collective cell cohesion and migration. Inhibition of Pp1 causes border cells to round up, dissociate, and move as single cells with altered motility. We present evidence that Pp1 promotes proper levels of cadherin-catenin complex proteins at cell-cell junctions within the cluster to keep border cells together. Pp1 further restricts actomyosin contractility to the cluster periphery rather than at individual internal border cell contacts. We show that the myosin phosphatase Pp1 complex, which inhibits non-muscle myosin-II (Myo-II) activity, coordinates border cell shape and cluster cohesion. Given the high conservation of Pp1 complexes, this study identifies Pp1 as a major regulator of collective versus single cell migration."
+  ],
+  "affiliation": [
+    "Division of Biology, Kansas State University, Manhattan, United States."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P20 GM103418"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PJA20191209714"
+          ],
+          "agency": [
+            "ARC Foundation for Cancer Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "1456053"
+          ],
+          "agency": [
+            "National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "1738757"
+          ],
+          "agency": [
+            "National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Myosin",
+        "Cell biology",
+        "Cell adhesion",
+        "Protein phosphatases",
+        "developmental biology",
+        "cell migration",
+        "D. Melanogaster",
+        "Cell Collective"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.52979"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200163"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200163?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/elife.52979"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR99132"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "hpa"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-06"
+  ],
+  "firstIndexDate": [
+    "2020-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-09"
+  ],
+  "dateOfRevision": [
+    "2020-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-05"
+  ],
+  "firstPublicationDate": [
+    "2020-05-05"
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "id": [
+    "32327627"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32327627"
+  ],
+  "pmcid": [
+    "PMC7181758"
+  ],
+  "doi": [
+    "10.1038/s41419-020-2434-z"
+  ],
+  "title": [
+    "Reprogramming of lipid metabolism in cancer-associated fibroblasts potentiates migration of colorectal cancer cells."
+  ],
+  "authorString": [
+    "Gong J, Lin Y, Zhang H, Liu C, Cheng Z, Yang X, Zhang J, Xiao Y, Sang N, Qian X, Wang L, Cen X, Du X, Zhao Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gong J"
+          ],
+          "firstName": [
+            "Jin"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin Y"
+          ],
+          "firstName": [
+            "Yiyun"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9277-3048",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Huaqin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chunqi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng Z"
+          ],
+          "firstName": [
+            "Zhong"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, West China Hospital, Sichuan University, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "Xiaowei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiamei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Chengdu Center for Safety Evaluation of Drugs, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Chengdu Center for Safety Evaluation of Drugs, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sang N"
+          ],
+          "firstName": [
+            "Na"
+          ],
+          "lastName": [
+            "Sang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qian X"
+          ],
+          "firstName": [
+            "Xinying"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4988-2190",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Chengdu Center for Safety Evaluation of Drugs, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cen X"
+          ],
+          "firstName": [
+            "Xiaobo"
+          ],
+          "lastName": [
+            "Cen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9760-5238",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Chengdu Center for Safety Evaluation of Drugs, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Du X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, West China Hospital, Sichuan University, Chengdu, 610041, China. Duxiao_home@163.com.",
+                "Department of General Surgery, Ya an People's Hospital, Yaan, 625000, China. Duxiao_home@163.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yinglan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China. zhaoyinglan@scu.edu.cn."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9277-3048",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4988-2190",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9760-5238",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2931275"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell death & disease"
+          ],
+          "ISOAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "medlineAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "NLMid": [
+            "101524092"
+          ],
+          "ISSN": [
+            "2041-4889"
+          ],
+          "ESSN": [
+            "2041-4889"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "267"
+  ],
+  "abstractText": [
+    "Metabolic interaction between cancer-associated fibroblasts (CAFs) and colorectal cancer (CRC) cells plays a major role in CRC progression. However, little is known about lipid alternations in CAFs and how these metabolic reprogramming affect CRC cells metastasis. Here, we uncover CAFs conditioned medium (CM) promote the migration of CRC cells compared with normal fibroblasts CM. CAFs undergo a lipidomic reprogramming, and accumulate more fatty acids and phospholipids. CAFs CM after protein deprivation still increase the CRC cells migration, which suggests small molecular metabolites in CAFs CM are responsible for CRC cells migration. Then, we confirm that CRC cells take up the lipids metabolites that are secreted from CAFs. Fatty acids synthase (FASN), a crucial enzyme in fatty acids synthesis, is significantly increased in CAFs. CAF-induced CRC cell migration is abolished by knockdown of FASN by siRNA or reducing the uptake of fatty acids by CRC cells by sulfo-N-succinimidyloleate sodium in vitro and CD36 monoclonal antibody in vivo. To conclude, our results provide a new insight into the mechanism of CRC metastasis and suggest FASN of CAFs or CD36 of CRC cells may be potential targets for anti-metastasis treatment in the future."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 610041, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2434-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7181758"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7181758?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2434-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-25"
+  ],
+  "firstIndexDate": [
+    "2020-04-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-01"
+  ],
+  "dateOfRevision": [
+    "2020-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-23"
+  ],
+  "firstPublicationDate": [
+    "2020-04-23"
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "id": [
+    "32380883"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32380883"
+  ],
+  "pmcid": [
+    "PMC7250189"
+  ],
+  "doi": [
+    "10.1080/19336918.2020.1766308"
+  ],
+  "title": [
+    "FGFR1 regulates proliferation and metastasis by targeting CCND1 in FGFR1 amplified lung cancer."
+  ],
+  "authorString": [
+    "Yang Y, Lu T, Li Z, Lu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong University, Shanghai, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu T"
+          ],
+          "firstName": [
+            "Tingting"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong University, Shanghai, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Ziming"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong University, Shanghai, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu S"
+          ],
+          "firstName": [
+            "Shun"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong University, Shanghai, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2899063"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell adhesion & migration"
+          ],
+          "ISOAbbreviation": [
+            "Cell Adh Migr"
+          ],
+          "medlineAbbreviation": [
+            "Cell Adh Migr"
+          ],
+          "NLMid": [
+            "101469464"
+          ],
+          "ISSN": [
+            "1933-6918"
+          ],
+          "ESSN": [
+            "1933-6926"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "82-95"
+  ],
+  "abstractText": [
+    "Aims: The analysis of the online databases revealed that CCND1 expression is correlated with poor prognosis in LSCC. We aimed to explore the function of CCND1 in tumor progression in LSCC.Main methods: The expression of mRNA was measured using qRT-PCR. Protein expression was assessed by Western blot. Cell migration and invasion were assessed by transwell assay.Key findings: CCND1 was co-overexpressed with FGFR1 in lung cancer patients. Overexpression of CCND1 promoted LSCC cell proliferation and metastasis. FGFR1 promoted the processes of EMT through AKT/MAPK signaling by targeting CCND1 in FGFR1-amplification cell lines.Significance: IIn conclusion, our study demonstrated the regulatory mechanism between CCND1 and FGFR1 in FGFR1 amplified LSCC. Co-targeting CCND1 and FGFR1 could provide greater clinical benefits."
+  ],
+  "affiliation": [
+    "Shanghai Lung Cancer Center, Shanghai Chest Hospital, Shanghai Jiao Tong University, Shanghai, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lung cancer",
+        "CO-IP",
+        "Epithelial-mesenchymal Transition",
+        "Ccnd1",
+        "Fgfr1"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336918.2020.1766308"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7250189"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7250189?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336918.2020.1766308"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-09"
+  ],
+  "firstIndexDate": [
+    "2020-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-05"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

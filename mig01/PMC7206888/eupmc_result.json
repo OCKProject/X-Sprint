@@ -1,0 +1,398 @@
+{
+  "id": [
+    "32411221"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32411221"
+  ],
+  "pmcid": [
+    "PMC7206888"
+  ],
+  "doi": [
+    "10.1155/2020/3260728"
+  ],
+  "title": [
+    "BKCa Mediates Dysfunction in High Glucose Induced Mesangial Cell Injury via TGF-β1/Smad2/3 Signaling Pathways."
+  ],
+  "authorString": [
+    "Wu Z, Yin W, Sun M, Si Y, Wu X, Chen M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Z"
+          ],
+          "firstName": [
+            "Zhigui"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, Affiliated Hospital of Southwest Medical University, Luzhou 646000, Sichuan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin W"
+          ],
+          "firstName": [
+            "Wenxian"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, Affiliated Hospital of Traditional Chinese Medicine Southwest Medical University, Luzhou 646000, Sichuan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun M"
+          ],
+          "firstName": [
+            "Mengqi"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, Affiliated Hospital of Southwest Medical University, Luzhou 646000, Sichuan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Si Y"
+          ],
+          "firstName": [
+            "Yuankai"
+          ],
+          "lastName": [
+            "Si"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, Affiliated Hospital of Southwest Medical University, Luzhou 646000, Sichuan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xiaoxiao"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, Affiliated Hospital of Southwest Medical University, Luzhou 646000, Sichuan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen M"
+          ],
+          "firstName": [
+            "Meijuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1293-1238",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, Southwest Medical University, Luzhou 646000, Sichuan, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1293-1238",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2915561"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of endocrinology"
+          ],
+          "ISOAbbreviation": [
+            "Int J Endocrinol"
+          ],
+          "medlineAbbreviation": [
+            "Int J Endocrinol"
+          ],
+          "NLMid": [
+            "101516376"
+          ],
+          "ISSN": [
+            "1687-8337"
+          ],
+          "ESSN": [
+            "1687-8345"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3260728"
+  ],
+  "abstractText": [
+    "Objective:To explore the role and mechanism of BKCa in diabetic kidney disease. Methods:Rat mesangial cells (MCs) HBZY-1 were cultured with high glucose to simulate the high-glucose environment of diabetic kidney disease in vivo. The effects of large conductance calcium-activated potassium channel (BKCa) on proliferation, migration, and apoptosis of HBZY-1 cells were observed. The contents of transforming growth factor beta 1 (TGF-β1), Smad2/3, collagen IV (Col IV), and fibronectin (FN) in the extracellular matrix were also observed. Results:High glucose significantly damaged HBZY-1 cells, which enhanced the ability of cell proliferation, migration, and apoptosis, and increased the secretion of Col IV and FN. Inhibition of BKCa and TGF-β1/Smad2/3 signaling pathways can inhibit the proliferation, migration, and apoptosis of HBZY-1 cells and suppress the secretion of Col IV and FN. The effect of excitation is the opposite. Conclusions:BKCa regulates mesangial cell proliferation, migration, apoptosis, and secretion of Col IV and FN and is associated with TGF-β1/Smad2/3 signaling pathway."
+  ],
+  "affiliation": [
+    "Department of Pharmacy, Affiliated Hospital of Southwest Medical University, Luzhou 646000, Sichuan, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/3260728"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7206888"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7206888?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/3260728"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-16"
+  ],
+  "firstIndexDate": [
+    "2020-05-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-16"
+  ],
+  "dateOfRevision": [
+    "2020-05-18"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-29"
+  ],
+  "firstPublicationDate": [
+    "2020-04-29"
+  ]
+}

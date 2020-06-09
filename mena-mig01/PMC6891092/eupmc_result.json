@@ -1,0 +1,933 @@
+{
+  "id": [
+    "31594807"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31594807"
+  ],
+  "pmcid": [
+    "PMC6891092"
+  ],
+  "doi": [
+    "10.1083/jcb.201902101"
+  ],
+  "title": [
+    "Mechanosensing during directed cell migration requires dynamic actin polymerization at focal adhesions."
+  ],
+  "authorString": [
+    "Puleo JI, Parker SS, Roman MR, Watson AW, Eliato KR, Peng L, Saboda K, Roe DJ, Ros R, Gertler FB, Mouneimne G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Puleo JI"
+          ],
+          "firstName": [
+            "Julieann I"
+          ],
+          "lastName": [
+            "Puleo"
+          ],
+          "initials": [
+            "JI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4515-4252",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular and Molecular Medicine, University of Arizona Cancer Center, University of Arizona, Tucson, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Parker SS"
+          ],
+          "firstName": [
+            "Sara S"
+          ],
+          "lastName": [
+            "Parker"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3670-6147",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular and Molecular Medicine, University of Arizona Cancer Center, University of Arizona, Tucson, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roman MR"
+          ],
+          "firstName": [
+            "Mackenzie R"
+          ],
+          "lastName": [
+            "Roman"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular and Molecular Medicine, University of Arizona Cancer Center, University of Arizona, Tucson, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Watson AW"
+          ],
+          "firstName": [
+            "Adam W"
+          ],
+          "lastName": [
+            "Watson"
+          ],
+          "initials": [
+            "AW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8871-9479",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular and Molecular Medicine, University of Arizona Cancer Center, University of Arizona, Tucson, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Eliato KR"
+          ],
+          "firstName": [
+            "Kiarash Rahmani"
+          ],
+          "lastName": [
+            "Eliato"
+          ],
+          "initials": [
+            "KR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physics, Center for Biological Physics, and Biodesign Institute, Arizona State University, Tempe, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peng L"
+          ],
+          "firstName": [
+            "Leilei"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Optical Sciences, University of Arizona, Tucson, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saboda K"
+          ],
+          "firstName": [
+            "Kathylynn"
+          ],
+          "lastName": [
+            "Saboda"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2784-1670",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Arizona Cancer Center and Mel and Enid Zuckerman College of Public Health, University of Arizona, Tucson, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roe DJ"
+          ],
+          "firstName": [
+            "Denise J"
+          ],
+          "lastName": [
+            "Roe"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Arizona Cancer Center and Mel and Enid Zuckerman College of Public Health, University of Arizona, Tucson, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ros R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Ros"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9271-4091",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physics, Center for Biological Physics, and Biodesign Institute, Arizona State University, Tempe, AZ."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gertler FB"
+          ],
+          "firstName": [
+            "Frank B"
+          ],
+          "lastName": [
+            "Gertler"
+          ],
+          "initials": [
+            "FB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA.",
+                "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mouneimne G"
+          ],
+          "firstName": [
+            "Ghassan"
+          ],
+          "lastName": [
+            "Mouneimne"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8103-4701",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular and Molecular Medicine, University of Arizona Cancer Center, University of Arizona, Tucson, AZ gmouneimne@email.arizona.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4515-4252",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3670-6147",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8871-9479",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2784-1670",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9271-4091",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8103-4701",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "recommended_reviews",
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "218"
+      ],
+      "journalIssueId": [
+        "2887250"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of cell biology"
+          ],
+          "ISOAbbreviation": [
+            "J. Cell Biol."
+          ],
+          "medlineAbbreviation": [
+            "J Cell Biol"
+          ],
+          "NLMid": [
+            "0375356"
+          ],
+          "ISSN": [
+            "0021-9525"
+          ],
+          "ESSN": [
+            "1540-8140"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4215-4235"
+  ],
+  "abstractText": [
+    "The mechanical properties of a cell's microenvironment influence many aspects of cellular behavior, including cell migration. Durotaxis, the migration toward increasing matrix stiffness, has been implicated in processes ranging from development to cancer. During durotaxis, mechanical stimulation by matrix rigidity leads to directed migration. Studies suggest that cells sense mechanical stimuli, or mechanosense, through the acto-myosin cytoskeleton at focal adhesions (FAs); however, FA actin cytoskeletal remodeling and its role in mechanosensing are not fully understood. Here, we show that the Ena/VASP family member, Ena/VASP-like (EVL), polymerizes actin at FAs, which promotes cell-matrix adhesion and mechanosensing. Importantly, we show that EVL regulates mechanically directed motility, and that suppression of EVL expression impedes 3D durotactic invasion. We propose a model in which EVL-mediated actin polymerization at FAs promotes mechanosensing and durotaxis by maturing, and thus reinforcing, FAs. These findings establish dynamic FA actin polymerization as a central aspect of mechanosensing and identify EVL as a crucial regulator of this process."
+  ],
+  "affiliation": [
+    "Department of Cellular and Molecular Medicine, University of Arizona Cancer Center, University of Arizona, Tucson, AZ."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 CA023074"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA196885"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "NIH 3T3 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Focal Adhesions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microtubules"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microfilament Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myosins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actomyosin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Adhesion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mechanotransduction, Cellular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HEK293 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actin Cytoskeleton"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MCF-7 Cells"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Actins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Actomyosin"
+          ],
+          "registryNumber": [
+            "9013-26-7"
+          ]
+        },
+        {
+          "name": [
+            "Microfilament Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Myosins"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1083/jcb.201902101"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6891092"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6891092?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1083/jcb.201902101"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "hpa"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-06-01"
+  ],
+  "dateOfCreation": [
+    "2019-10-10"
+  ],
+  "firstIndexDate": [
+    "2019-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-03"
+  ],
+  "dateOfRevision": [
+    "2020-06-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-08"
+  ],
+  "firstPublicationDate": [
+    "2019-10-08"
+  ],
+  "embargoDate": [
+    "2020-06-02"
+  ]
+}

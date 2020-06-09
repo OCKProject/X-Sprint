@@ -1,0 +1,466 @@
+{
+  "id": [
+    "32139394"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32139394"
+  ],
+  "pmcid": [
+    "PMC7104863"
+  ],
+  "doi": [
+    "10.1242/bio.048173"
+  ],
+  "title": [
+    "MACF1 promotes preosteoblast migration by mediating focal adhesion turnover through EB1."
+  ],
+  "authorString": [
+    "Su P, Yin C, Li D, Yang C, Wang X, Pei J, Tian Y, Qian A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Su P"
+          ],
+          "firstName": [
+            "Peihong"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin C"
+          ],
+          "firstName": [
+            "Chong"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li D"
+          ],
+          "firstName": [
+            "Dijie"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Chaofei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xue"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pei J"
+          ],
+          "firstName": [
+            "Jiawei"
+          ],
+          "lastName": [
+            "Pei"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tian Y"
+          ],
+          "firstName": [
+            "Ye"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China qianair@nwpu.edu.cn tianye@nwpu.edu.cn.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qian A"
+          ],
+          "firstName": [
+            "Airong"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0740-9218",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China qianair@nwpu.edu.cn tianye@nwpu.edu.cn.",
+                "Research Center for Special Medicine and Health Systems Engineering, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China.",
+                "NPU-UAB Joint Laboratory for Bone Metabolism, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0740-9218",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2921127"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biology open"
+          ],
+          "ISOAbbreviation": [
+            "Biol Open"
+          ],
+          "medlineAbbreviation": [
+            "Biol Open"
+          ],
+          "NLMid": [
+            "101578018"
+          ],
+          "ISSN": [
+            "2046-6390"
+          ],
+          "ESSN": [
+            "2046-6390"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Microtubule actin crosslinking factor 1 (MACF1) is a widely expressed cytoskeletal linker and plays an essential role in various cells' functions by mediating cytoskeleton organization and dynamics. However, the role of MACF1 on preosteoblast migration is not clear. Here, by using MACF1 knockdown and overexpressed MC3T3-E1 cells, we found MACF1 positively regulated preosteoblast migration induced by cell polarization. Furthermore, immunofluorescent staining showed that MACF1 increased end-binding protein (EB1) distribution on microtubule (MT), and decreased EB1 distribution on focal adhesion (FA) complex. Moreover, upregulation of MACF1 activated Src level and enhanced the colocalization of EB1 with activated Src. In addition, MACF1 diminished colocalization of EB1 with adenomatous polyposis coli (APC), which induced EB1 release from FA and promoted FA turnover. These results indicated an important role and mechanism of MACF1 in regulating preosteoblast migration through promoting FA turnover by mediating EB1 colocalization with Src and APC, which inferred that MACF1 might be a potential target for preventing and treating bone disorders."
+  ],
+  "affiliation": [
+    "Laboratory for Bone Metabolism, Key Laboratory for Space Biosciences and Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi'an 710072, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bone",
+        "cell migration",
+        "Preosteoblast",
+        "Fa Turnover"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1242/bio.048173"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7104863"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7104863?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1242/bio.048173"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-07"
+  ],
+  "firstIndexDate": [
+    "2020-03-07"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-02"
+  ],
+  "dateOfRevision": [
+    "2020-04-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-24"
+  ],
+  "firstPublicationDate": [
+    "2020-03-24"
+  ]
+}

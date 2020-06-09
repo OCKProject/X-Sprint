@@ -1,0 +1,356 @@
+{
+  "id": [
+    "32431516"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32431516"
+  ],
+  "pmcid": [
+    "PMC7200234"
+  ],
+  "doi": [
+    "10.2147/ott.s242300"
+  ],
+  "title": [
+    "Long Noncoding RNA MALAT1 Promotes the Development of Colon Cancer by Regulating miR-101-3p/STC1 Axis."
+  ],
+  "authorString": [
+    "Luan C, Li Y, Liu Z, Zhao C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Luan C"
+          ],
+          "firstName": [
+            "Chunyan"
+          ],
+          "lastName": [
+            "Luan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastroenterology, Yidu Central Hospital of Weifang, Weifang, Shandong 262500, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yongzhu"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastroenterology, Yidu Central Hospital of Weifang, Weifang, Shandong 262500, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhigang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiology, Yidu Central Hospital of Weifang, Weifang, Shandong 262500, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao C"
+          ],
+          "firstName": [
+            "Cunxin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastroenterology, Yidu Central Hospital of Weifang, Weifang, Shandong 262500, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2917113"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "OncoTargets and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "medlineAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "NLMid": [
+            "101514322"
+          ],
+          "ISSN": [
+            "1178-6930"
+          ],
+          "ESSN": [
+            "1178-6930"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3653-3665"
+  ],
+  "abstractText": [
+    "Purpose:Colon cancer (CC) is a leading cause of cancer-related deaths worldwide. This study aimed to clarify the effect of long noncoding RNA (lncRNA) metastasis-associated lung adenocarcinoma transcript 1 (MALAT1) on CC progression and the potential mechanism. Methods:CC cell lines HCT116 and HT29 were selected for functional analysis. The expression of MALAT1, microRNA (miR)-101-3p, and stanniocalcin 1 (STC1) in CC tissues and cells were measured by quantitative reverse transcription PCR (qRT-PCR). Cell proliferation, apoptosis, migration and invasion were measured by Cell Counting Kit-8 (CCK-8), ﻿flow cytometry, wound scratch and ﻿transwell assay, respectively. The target relationships (MALAT1 and miR-101-3p, miR-101-3p and STC1) were validated by dual-luciferase reporter and RNA pull-down assay. Results:The expression of MALAT1 was elevated in CC tissues compared with adjacent normal tissues and was associated with lymph node metastasis, depth of invasion and tumor-node-metastasis (TNM) stage. Up-regulation of MALAT1 promoted the proliferation, migration, and invasion and inhibited the apoptosis of CC cells; while MALAT1 knockdown exhibited opposite results. MiR-101-3p was a target of MALAT1, which was negatively regulated by MALAT1. Silencing of miR-101-3p reverses the anti-tumor effect of MALAT1 knockdown on CC cells. STC1 was a target of miR-101-3p, which was negatively regulated by miR-101-3p. Silencing of STC1 reverses the tumor promoting effects of MALAT1 up-regulation and miR-101-3p down-regulation on CC cells. Conclusion:MALAT1 may function as an oncogene in CC progression by affecting the miR-101-3p/STC1 axis, providing a hopeful therapeutic option for CC."
+  ],
+  "affiliation": [
+    "Department of Gastroenterology, Yidu Central Hospital of Weifang, Weifang, Shandong 262500, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apoptosis",
+        "Migration",
+        "Proliferation",
+        "Invasion",
+        "Colon cancer",
+        "Malat1",
+        "Mir-101-3p"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/OTT.S242300"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200234"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200234?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/ott.s242300"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-21"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-30"
+  ],
+  "firstPublicationDate": [
+    "2020-04-30"
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "id": [
+    "31230594"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31230594"
+  ],
+  "pmcid": [
+    "PMC6589882"
+  ],
+  "doi": [
+    "10.1186/s12916-019-1349-y"
+  ],
+  "title": [
+    "HIV epidemiology among female sex workers and their clients in the Middle East and North Africa: systematic review, meta-analyses, and meta-regressions."
+  ],
+  "authorString": [
+    "Chemaitelly H, Weiss HA, Calvert C, Harfouche M, Abu-Raddad LJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chemaitelly H"
+          ],
+          "firstName": [
+            "Hiam"
+          ],
+          "lastName": [
+            "Chemaitelly"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8756-6968",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation-Education City, P.O. Box 24144, Doha, Qatar. hsc2001@qatar-med.cornell.edu.",
+                "Department of Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, UK. hsc2001@qatar-med.cornell.edu."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Weiss HA"
+          ],
+          "firstName": [
+            "Helen A"
+          ],
+          "lastName": [
+            "Weiss"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MRC Tropical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.",
+                "Department of Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Calvert C"
+          ],
+          "firstName": [
+            "Clara"
+          ],
+          "lastName": [
+            "Calvert"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Harfouche M"
+          ],
+          "firstName": [
+            "Manale"
+          ],
+          "lastName": [
+            "Harfouche"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation-Education City, P.O. Box 24144, Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abu-Raddad LJ"
+          ],
+          "firstName": [
+            "Laith J"
+          ],
+          "lastName": [
+            "Abu-Raddad"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0790-0506",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation-Education City, P.O. Box 24144, Doha, Qatar. lja2002@qatar-med.cornell.edu.",
+                "Department of Healthcare Policy & Research, Weill Cornell Medicine, Cornell University, New York, NY, USA. lja2002@qatar-med.cornell.edu.",
+                "College of Health and Life Sciences, Hamad bin Khalifa University, Doha, Qatar. lja2002@qatar-med.cornell.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8756-6968",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0790-0506",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2822441"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med"
+          ],
+          "NLMid": [
+            "101190723"
+          ],
+          "ISSN": [
+            "1741-7015"
+          ],
+          "ESSN": [
+            "1741-7015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "119"
+  ],
+  "abstractText": [
+    "BACKGROUND:HIV epidemiology among female sex workers (FSWs) and their clients in the Middle East and North Africa (MENA) region is poorly understood. We addressed this gap through a comprehensive epidemiological assessment. METHODS:A systematic review of population size estimation and HIV prevalence studies was conducted and reported following PRISMA guidelines. Risk of bias (ROB) assessments were conducted for all included studies using various quality domains, as informed by Cochrane Collaboration guidelines. The pooled mean HIV prevalence was estimated using random-effects meta-analyses. Sources of heterogeneity and temporal trends were identified through meta-regressions. RESULTS:We identified 270 size estimation studies in FSWs and 42 in clients, and 485 HIV prevalence studies in 287,719 FSWs and 69 in 29,531 clients/proxy populations. Most studies had low ROB in multiple quality domains. The median proportion of reproductive-age women reporting current/recent sex work was 0.6% (range = 0.2-2.4%) and of men reporting currently/recently buying sex was 5.7% (range = 0.3-13.8%). HIV prevalence ranged from 0 to 70% in FSWs (median = 0.1%) and 0-34.6% in clients (median = 0.4%). The regional pooled mean HIV prevalence was 1.4% (95% CI = 1.1-1.8%) in FSWs and 0.4% (95% CI = 0.1-0.7%) in clients. Country-specific pooled prevalence was < 1% in most countries, 1-5% in North Africa and Somalia, 17.3% in South Sudan, and 17.9% in Djibouti. Meta-regressions identified strong subregional variations in prevalence. Compared to Eastern MENA, the adjusted odds ratios (AORs) ranged from 0.2 (95% CI = 0.1-0.4) in the Fertile Crescent to 45.4 (95% CI = 24.7-83.7) in the Horn of Africa. There was strong evidence for increasing prevalence post-2003; the odds increased by 15% per year (AOR = 1.15, 95% CI = 1.09-1.21). There was also a large variability in sexual and injecting risk behaviors among FSWs within and across countries. Levels of HIV testing among FSWs were generally low. The median fraction of FSWs that tested for HIV in the past 12 months was 12.1% (range = 0.9-38.0%). CONCLUSIONS:HIV epidemics among FSWs are emerging in MENA, and some have reached stable endemic levels, although still some countries have limited epidemic dynamics. The epidemic has been growing for over a decade, with strong regionalization and heterogeneity. HIV testing levels were far below the service coverage target of \"UNAIDS 2016-2021 Strategy.\""
+  ],
+  "affiliation": [
+    "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation-Education City, P.O. Box 24144, Doha, Qatar. hsc2001@qatar-med.cornell.edu."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Systematic Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K012126/1"
+          ],
+          "agency": [
+            "UK Medical Research Council (MRC) and the UK Department for International Development (DFID) under the MRC/DFID Concordat agreement"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk-Taking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sexual Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa, Northern"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle East"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epidemics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Workers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Population size",
+        "HIV",
+        "Prevalence",
+        "incidence",
+        "Sexually Transmitted Infections",
+        "Sex Work",
+        "Sex Workers",
+        "Middle East And North Africa",
+        "Risk Group Size"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12916-019-1349-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6589882"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6589882?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12916-019-1349-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-22"
+  ],
+  "dateOfCreation": [
+    "2019-06-25"
+  ],
+  "firstIndexDate": [
+    "2019-06-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-29"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-24"
+  ],
+  "firstPublicationDate": [
+    "2019-06-24"
+  ]
+}

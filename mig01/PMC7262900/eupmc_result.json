@@ -1,0 +1,426 @@
+{
+  "id": [
+    "32220063"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32220063"
+  ],
+  "pmcid": [
+    "PMC7262900"
+  ],
+  "doi": [
+    "10.1111/1759-7714.13382"
+  ],
+  "title": [
+    "miR-15b enhances the proliferation and migration of lung adenocarcinoma by targeting BCL2."
+  ],
+  "authorString": [
+    "Wang J, Yao S, Diao Y, Geng Y, Bi Y, Liu G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Thoracic Surgery, Yantai Affiliated Hospital of Binzhou Medical University, Yantai, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao S"
+          ],
+          "firstName": [
+            "Shupeng"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Respiratory Medicine, Liaocheng Dongchangfu People's Hospital, Liaocheng, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Diao Y"
+          ],
+          "firstName": [
+            "Yanping"
+          ],
+          "lastName": [
+            "Diao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, the People's Hospital of Zhangqiu Area, Jinan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Geng Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Geng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Surgery, the People's Hospital of Zhangqiu Area, Jinan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bi Y"
+          ],
+          "firstName": [
+            "Yanling"
+          ],
+          "lastName": [
+            "Bi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Operation Room, The People's Hospital of Zhangqiu Area, Jinan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu G"
+          ],
+          "firstName": [
+            "Guangyue"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1515-7302",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Outpatient, Weifang People's Hospital, Weifang, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1515-7302",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2960477"
+      ],
+      "dateOfPublication": [
+        "2020 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Thoracic cancer"
+          ],
+          "ISOAbbreviation": [
+            "Thorac Cancer"
+          ],
+          "medlineAbbreviation": [
+            "Thorac Cancer"
+          ],
+          "NLMid": [
+            "101531441"
+          ],
+          "ISSN": [
+            "1759-7706"
+          ],
+          "ESSN": [
+            "1759-7714"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1396-1405"
+  ],
+  "abstractText": [
+    "BACKGROUND:Lung adenocarcinoma (LUAD) is a subtype of lung cancer (LC), which is the most common tumor worldwide. Accumulating evidence has elucidated an important role of microRNAs (miRNAs) in mediating the development and progression of several tumors. The purpose of this study was to explore the role and underlying mechanism of miR-15b in LUAD. METHODS:CCK-8 and Transwell assays were conducted to measure the capacities of cell viability and migration in SPC-A1 cells. Luciferase assay was utilized to verifymiR-15b direct binding to BCL2 mRNA 3'-UTR. RESULTS:We determined that miR-15b was overexpressed in LUAD and miR-15b overexpression predicted a significantly worse outcome in patients with LUAD. miR-15b improved LUAD growth in vitro and vivo. miR-15b enhanced cell migration and epithelial-mesenchymal transition (EMT) in LUAD. miR-15b promoted cell viability, migration and EMT through inhibiting BCL2 expression by targeting to its mRNA 3'-UTR. BCL2 reversed functions of miR-15b on promoting cell proliferation, migration and EMT in SPC-A1 cells. CONCLUSIONS:miR-15b promoted cell viability, migration and EMT by targeting BCL2 in LUAD. The newly identified miR-15b/BCL2 axis provides a novel insight into the pathogenesis of LUAD."
+  ],
+  "affiliation": [
+    "Department of Thoracic Surgery, Yantai Affiliated Hospital of Binzhou Medical University, Yantai, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Proliferation",
+        "Bcl2",
+        "Emt",
+        "Mir-15b",
+        "Lung Adenocarcinoma (Luad)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1759-7714.13382"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7262900"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7262900?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1759-7714.13382"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-29"
+  ],
+  "firstIndexDate": [
+    "2020-03-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-05"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-27"
+  ],
+  "firstPublicationDate": [
+    "2020-03-27"
+  ]
+}

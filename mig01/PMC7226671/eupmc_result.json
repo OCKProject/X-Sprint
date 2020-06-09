@@ -1,0 +1,653 @@
+{
+  "id": [
+    "32426535"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32426535"
+  ],
+  "pmcid": [
+    "PMC7226671"
+  ],
+  "doi": [
+    "10.1016/j.heliyon.2020.e03882"
+  ],
+  "title": [
+    "Inhibitory effect of red LED irradiation on fibroblasts and co-culture of adipose-derived mesenchymal stem cells."
+  ],
+  "authorString": [
+    "Theodoro V, de Oliveira Fujii L, Lucke LD, Bortolazzo FO, Silva DFD, Carneiro GD, do Amaral MEC, de Oliveira CA, de Andrade TAM, Bombeiro AL, Vicente CP, do Bomfim FRC, de Oliveira ALR, Bagnato VS, Esquisatto MAM, Mendonça FAS, Dos Santos GMT, de Aro AA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Theodoro V"
+          ],
+          "firstName": [
+            "Viviane"
+          ],
+          "lastName": [
+            "Theodoro"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira Fujii L"
+          ],
+          "firstName": [
+            "Lucas"
+          ],
+          "lastName": [
+            "de Oliveira Fujii"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lucke LD"
+          ],
+          "firstName": [
+            "Leticia Dudri"
+          ],
+          "lastName": [
+            "Lucke"
+          ],
+          "initials": [
+            "LD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Structural and Functional Biology, Institute of Biology, State University of Campinas - UNICAMP, Campinas, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bortolazzo FO"
+          ],
+          "firstName": [
+            "Fernanda Oriani"
+          ],
+          "lastName": [
+            "Bortolazzo"
+          ],
+          "initials": [
+            "FO"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Structural and Functional Biology, Institute of Biology, State University of Campinas - UNICAMP, Campinas, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Silva DFD"
+          ],
+          "firstName": [
+            "Daniela Fernanda Dezotti"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "DFD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carneiro GD"
+          ],
+          "firstName": [
+            "Giane Daniela"
+          ],
+          "lastName": [
+            "Carneiro"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Structural and Functional Biology, Institute of Biology, State University of Campinas - UNICAMP, Campinas, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "do Amaral MEC"
+          ],
+          "firstName": [
+            "Maria Esméria Corezola"
+          ],
+          "lastName": [
+            "do Amaral"
+          ],
+          "initials": [
+            "MEC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira CA"
+          ],
+          "firstName": [
+            "Camila Andréa"
+          ],
+          "lastName": [
+            "de Oliveira"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Andrade TAM"
+          ],
+          "firstName": [
+            "Thiago Antonio Moretti"
+          ],
+          "lastName": [
+            "de Andrade"
+          ],
+          "initials": [
+            "TAM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bombeiro AL"
+          ],
+          "firstName": [
+            "André Luis"
+          ],
+          "lastName": [
+            "Bombeiro"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Structural and Functional Biology, Institute of Biology, State University of Campinas - UNICAMP, Campinas, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vicente CP"
+          ],
+          "firstName": [
+            "Cristina Pontes"
+          ],
+          "lastName": [
+            "Vicente"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Structural and Functional Biology, Institute of Biology, State University of Campinas - UNICAMP, Campinas, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "do Bomfim FRC"
+          ],
+          "firstName": [
+            "Fernando Russo Costa"
+          ],
+          "lastName": [
+            "do Bomfim"
+          ],
+          "initials": [
+            "FRC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Oliveira ALR"
+          ],
+          "firstName": [
+            "Alexandre Leite Rodrigues"
+          ],
+          "lastName": [
+            "de Oliveira"
+          ],
+          "initials": [
+            "ALR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Structural and Functional Biology, Institute of Biology, State University of Campinas - UNICAMP, Campinas, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bagnato VS"
+          ],
+          "firstName": [
+            "Vanderlei Salvador"
+          ],
+          "lastName": [
+            "Bagnato"
+          ],
+          "initials": [
+            "VS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Physics of São Carlos, University of São Paulo - USP, São Carlos, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Esquisatto MAM"
+          ],
+          "firstName": [
+            "Marcelo Augusto Marretto"
+          ],
+          "lastName": [
+            "Esquisatto"
+          ],
+          "initials": [
+            "MAM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mendonça FAS"
+          ],
+          "firstName": [
+            "Fernanda Aparecida Sampaio"
+          ],
+          "lastName": [
+            "Mendonça"
+          ],
+          "initials": [
+            "FAS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dos Santos GMT"
+          ],
+          "firstName": [
+            "Gláucia Maria Tech"
+          ],
+          "lastName": [
+            "Dos Santos"
+          ],
+          "initials": [
+            "GMT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de Aro AA"
+          ],
+          "firstName": [
+            "Andrea Aparecida"
+          ],
+          "lastName": [
+            "de Aro"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil.",
+                "Department of Structural and Functional Biology, Institute of Biology, State University of Campinas - UNICAMP, Campinas, São Paulo, Brazil."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2953237"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Heliyon"
+          ],
+          "ISOAbbreviation": [
+            "Heliyon"
+          ],
+          "medlineAbbreviation": [
+            "Heliyon"
+          ],
+          "NLMid": [
+            "101672560"
+          ],
+          "ISSN": [
+            "2405-8440"
+          ],
+          "ESSN": [
+            "2405-8440"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e03882"
+  ],
+  "abstractText": [
+    "The objective of this study was to evaluate the effects of red Light Emiting Diode (red LED) irradiation on fibroblasts in adipose-derived mesenchymal stem cells (ASC) co-culture on the scratch assay. We hypothesized that red LED irradiation could stimulate paracrine secretion of ASC, contributing to the activation of genes and molecules involved in cell migration and tissue repair. ASC were co-cultured with NIH/3T3 fibroblasts through direct contact and subjected to red LED irradiation (1.45 J/cm2/5min6s) after the scratch assay, during 4 days. Four groups were established: fibroblasts (F), fibroblasts + LED (FL), fibroblasts + ASC (FC) and fibroblasts + LED + ASC (FLC). The analyzes were based on Ctgf and Reck expression, quantification of collagen types I and III, tenomodulin, VEGF, TGF-β1, MMP-2 and MMP-9, as well as viability analysis and cell migration. Higher Ctgf expression was observed in FC compared to F. Group FC presented higher amount of tenomodulin and VEGF in relation to the other groups. In the cell migration analysis, a higher number of cells was observed in the scratched area of the FC group on the 4th day. There were no differences between groups considering cell viability, Reck expression, amount of collagen types I and III, MMP-2 and TGF-β1, whereas TGF-β1 was not detected in the FC group and the MMP-9 in none of the groups. Our hypothesis was not supported by the results because the red LED irradiation decreased the healing response of ASC. An inhibitory effect of the LED irradiation associated with ASC co-culture was observed with reduction of the amount of TGF-β1, VEGF and tenomodulin, possibly involved in the reduced cell migration. In turn, the ASC alone seem to have modulated fibroblast behavior by increasing Ctgf, VEGF and tenomodulin, leading to greater cell migration. In conclusion, red LED and ASC therapy can have independent effects on fibroblast wound healing, but the combination of both does not have a synergistic effect. Therefore, future studies with other parameters of red LED associated with ASC should be tested aiming clinical application for tissue repair."
+  ],
+  "affiliation": [
+    "Biomedical Sciences Graduate Program, University Center of Herminio Ometto Foundation / FHO, Araras, São Paulo, Brazil."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Molecular biology",
+        "Proteins",
+        "Cell biology",
+        "CTGF",
+        "Biomedical engineering",
+        "repair",
+        "TGF-β1",
+        "Biological sciences",
+        "cell migration",
+        "Regenerative Medicine",
+        "Tenomodulin",
+        "Scratch Assay"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.heliyon.2020.e03882"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7226671"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7226671?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.heliyon.2020.e03882"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-20"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-12"
+  ],
+  "firstPublicationDate": [
+    "2020-05-12"
+  ]
+}

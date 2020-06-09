@@ -1,0 +1,1306 @@
+{
+  "id": [
+    "26337385"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26337385"
+  ],
+  "pmcid": [
+    "PMC4626070"
+  ],
+  "doi": [
+    "10.1091/mbc.e15-06-0442"
+  ],
+  "title": [
+    "PTP1B-dependent regulation of receptor tyrosine kinase signaling by the actin-binding protein Mena."
+  ],
+  "authorString": [
+    "Hughes SK, Oudin MJ, Tadros J, Neil J, Del Rosario A, Joughin BA, Ritsma L, Wyckoff J, Vasile E, Eddy R, Philippar U, Lussiez A, Condeelis JS, van Rheenen J, White F, Lauffenburger DA, Gertler FB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hughes SK"
+          ],
+          "firstName": [
+            "Shannon K"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9778-140X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Oudin MJ"
+          ],
+          "firstName": [
+            "Madeleine J"
+          ],
+          "lastName": [
+            "Oudin"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6988-4260",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tadros J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Tadros"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Neil J"
+          ],
+          "firstName": [
+            "Jason"
+          ],
+          "lastName": [
+            "Neil"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Del Rosario A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Del Rosario"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Joughin BA"
+          ],
+          "firstName": [
+            "Brian A"
+          ],
+          "lastName": [
+            "Joughin"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1022-9450",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ritsma L"
+          ],
+          "firstName": [
+            "Laila"
+          ],
+          "lastName": [
+            "Ritsma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0214-2008",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Genomics Netherlands-Hubrecht Institute-KNAW and University Medical Centre Utrecht, 3584 CX Utrecht, Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wyckoff J"
+          ],
+          "firstName": [
+            "Jeff"
+          ],
+          "lastName": [
+            "Wyckoff"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, New York, NY 10461."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vasile E"
+          ],
+          "firstName": [
+            "Eliza"
+          ],
+          "lastName": [
+            "Vasile"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Eddy R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Eddy"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, New York, NY 10461."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Philippar U"
+          ],
+          "firstName": [
+            "Ulrike"
+          ],
+          "lastName": [
+            "Philippar"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lussiez A"
+          ],
+          "firstName": [
+            "Alisha"
+          ],
+          "lastName": [
+            "Lussiez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Condeelis JS"
+          ],
+          "firstName": [
+            "John S"
+          ],
+          "lastName": [
+            "Condeelis"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, New York, NY 10461."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Rheenen J"
+          ],
+          "firstName": [
+            "Jacco"
+          ],
+          "lastName": [
+            "van Rheenen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Genomics Netherlands-Hubrecht Institute-KNAW and University Medical Centre Utrecht, 3584 CX Utrecht, Netherlands."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "White F"
+          ],
+          "firstName": [
+            "Forest"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1545-1651",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lauffenburger DA"
+          ],
+          "firstName": [
+            "Douglas A"
+          ],
+          "lastName": [
+            "Lauffenburger"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 lauffen@mit.edu fgertler@mit.edu."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gertler FB"
+          ],
+          "firstName": [
+            "Frank B"
+          ],
+          "lastName": [
+            "Gertler"
+          ],
+          "initials": [
+            "FB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139 Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139 lauffen@mit.edu fgertler@mit.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9778-140X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6988-4260",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1022-9450",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0214-2008",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1545-1651",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "21"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "2337612"
+      ],
+      "dateOfPublication": [
+        "2015 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular biology of the cell"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Biol. Cell"
+          ],
+          "medlineAbbreviation": [
+            "Mol Biol Cell"
+          ],
+          "NLMid": [
+            "9201390"
+          ],
+          "ISSN": [
+            "1059-1524"
+          ],
+          "ESSN": [
+            "1939-4586"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "3867-3878"
+  ],
+  "abstractText": [
+    "During breast cancer progression, alternative mRNA splicing produces functionally distinct isoforms of Mena, an actin regulator with roles in cell migration and metastasis. Aggressive tumor cell subpopulations express Mena(INV), which promotes tumor cell invasion by potentiating EGF responses. However, the mechanism by which this occurs is unknown. Here we report that Mena associates constitutively with the tyrosine phosphatase PTP1B and mediates a novel negative feedback mechanism that attenuates receptor tyrosine kinase signaling. On EGF stimulation, complexes containing Mena and PTP1B are recruited to the EGFR, causing receptor dephosphorylation and leading to decreased motility responses. Mena also interacts with the 5' inositol phosphatase SHIP2, which is important for the recruitment of the Mena-PTP1B complex to the EGFR. When Mena(INV) is expressed, PTP1B recruitment to the EGFR is impaired, providing a mechanism for growth factor sensitization to EGF, as well as HGF and IGF, and increased resistance to EGFR and Met inhibitors in signaling and motility assays. In sum, we demonstrate that Mena plays an important role in regulating growth factor-induced signaling. Disruption of this attenuation by Mena(INV) sensitizes tumor cells to low-growth factor concentrations, thereby increasing the migration and invasion responses that contribute to aggressive, malignant cell phenotypes."
+  ],
+  "affiliation": [
+    "Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02139 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 CA096504"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30-CA14051"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CA100324"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 CA100324"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA112967"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54-CA112967"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "GM58801"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 CA013330"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM058801"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CA150344"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA150344"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 CA014051"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Metastasis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microfilament Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epidermal Growth Factor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptor Protein-Tyrosine Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptor, Epidermal Growth Factor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytoskeletal Proteins"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Isoforms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Adhesion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphorylation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Tyrosine Phosphatase, Non-Receptor Type 1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Actins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Epidermal Growth Factor"
+          ],
+          "registryNumber": [
+            "62229-50-9"
+          ]
+        },
+        {
+          "name": [
+            "Protein Isoforms"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cytoskeletal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Microfilament Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Enah protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "protein tyrosine phosphatase, non-receptor type 1"
+          ],
+          "registryNumber": [
+            "EC 3.1.3.48"
+          ]
+        },
+        {
+          "name": [
+            "PTPN1 protein, human"
+          ],
+          "registryNumber": [
+            "EC 3.1.3.48"
+          ]
+        },
+        {
+          "name": [
+            "EGFR protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        },
+        {
+          "name": [
+            "Receptor Protein-Tyrosine Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        },
+        {
+          "name": [
+            "Receptor, Epidermal Growth Factor"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.E15-06-0442"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4626070"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4626070?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.e15-06-0442"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "15"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-09-15"
+  ],
+  "dateOfCreation": [
+    "2015-10-30"
+  ],
+  "firstIndexDate": [
+    "2015-09-05"
+  ],
+  "fullTextReceivedDate": [
+    "2016-01-17"
+  ],
+  "dateOfRevision": [
+    "2017-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-02"
+  ],
+  "firstPublicationDate": [
+    "2015-09-02"
+  ]
+}

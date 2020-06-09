@@ -1,0 +1,376 @@
+{
+  "id": [
+    "32144532"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32144532"
+  ],
+  "pmcid": [
+    "PMC7245592"
+  ],
+  "doi": [
+    "10.1007/s00384-020-03530-0"
+  ],
+  "title": [
+    "Patterns of tined lead migration in sacral nerve modulation."
+  ],
+  "authorString": [
+    "Ezra E, Siilin AMH, Gulobovic M, Graf JWR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ezra E"
+          ],
+          "firstName": [
+            "Emmanuel"
+          ],
+          "lastName": [
+            "Ezra"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9352-0093",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Surgical Sciences, Uppsala University, Akademiska Sjukhuset, 75 185, Uppsala, Sweden. Emmanuel.Ezra@surgsci.uu.se."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Siilin AMH"
+          ],
+          "firstName": [
+            "A M Helene"
+          ],
+          "lastName": [
+            "Siilin"
+          ],
+          "initials": [
+            "AMH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Surgical Sciences, Uppsala University, Akademiska Sjukhuset, 75 185, Uppsala, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gulobovic M"
+          ],
+          "firstName": [
+            "Milan"
+          ],
+          "lastName": [
+            "Gulobovic"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department Section of Radiology, Uppsala University, Akademiska Sjukhuset, 75 185, Uppsala, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Graf JWR"
+          ],
+          "firstName": [
+            "J Wilhelm R"
+          ],
+          "lastName": [
+            "Graf"
+          ],
+          "initials": [
+            "JWR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Surgical Sciences, Uppsala University, Akademiska Sjukhuset, 75 185, Uppsala, Sweden."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9352-0093",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2958699"
+      ],
+      "dateOfPublication": [
+        "2020 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of colorectal disease"
+          ],
+          "ISOAbbreviation": [
+            "Int J Colorectal Dis"
+          ],
+          "medlineAbbreviation": [
+            "Int J Colorectal Dis"
+          ],
+          "NLMid": [
+            "8607899"
+          ],
+          "ISSN": [
+            "0179-1958"
+          ],
+          "ESSN": [
+            "1432-1262"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1163-1166"
+  ],
+  "abstractText": [
+    "AIM:Lead migration is a common cause of loss of efficacy in sacral nerve modulation. Our aim was to systematically study the migration pattern of tined leads in sacral nerve modulation. Our hypothesis was that tined leads may promote forward migration because of their configuration. METHOD:Consecutive patients treated with sacral nerve modulation with a tined lead electrode, who had experienced loss of efficacy and had radiographs both at baseline and after loss of efficacy between 2005 and 2016 were eligible for inclusion. RESULTS:Twenty-five patients out of 70 with loss of efficacy were studied. Lead migration was measured as percent electrode movement in relation to sacral cortex at lateral projection. All had some degree of lead migration, ranging from 35% backward to 74% forward migration. Sixteen (64%) had forward migration while nine (36%) had backward migration. In seven patients (28%), loss of efficacy was associated with an episode of perceived mechanical strain on the electrode. Fifty percent (4/8) who associated their loss of efficacy with an adverse event had forward migration of the electrode. CONCLUSIONS:Forward lead migration with concomitant loss of efficacy seems to be a common event in patients with tined leads, hence supporting our hypothesis. The retrospective design and that some of the patients with loss of efficacy could not be included because of incomplete data, which is a limitation to the study. Further studies are needed to confirm to what extent the direction and magnitude of the migration relate to loss of efficacy. TRIAL REGISTRATION:"
+  ],
+  "affiliation": [
+    "Department of Surgical Sciences, Uppsala University, Akademiska Sjukhuset, 75 185, Uppsala, Sweden. Emmanuel.Ezra@surgsci.uu.se."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Fecal Incontinence",
+        "Sacral Nerve Modulation",
+        "Tined Lead"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00384-020-03530-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7245592"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7245592?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00384-020-03530-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-08"
+  ],
+  "firstIndexDate": [
+    "2020-03-08"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-05"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-06"
+  ],
+  "firstPublicationDate": [
+    "2020-03-06"
+  ]
+}

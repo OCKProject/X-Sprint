@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="mig01/PMC7142146/results/search/migration/results.xml">
+  <result pre="view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. Abstract Cell" exact="migration" post="involves dynamic changes in cell shape. Intricate patterns of"/>
+  <result pre="whether additional information from dynamic SPHARM improves classification of cell" exact="migration" post="patterns. We combine the static and dynamic SPHARM approach"/>
+  <result pre="accuracies. We demonstrate that the dynamic SPHARM analysis classifies cell" exact="migration" post="patterns more accurately than the static one for both"/>
+  <result pre="biology and bioinformatics Computational biophysics Signal processing Time series Cell" exact="migration" post="Introduction A cell’s migration behavior depends on the state"/>
+  <result pre="biophysics Signal processing Time series Cell migration Introduction A cell’s" exact="migration" post="behavior depends on the state of the cell, extracellular"/>
+  <result pre="from other cells1. We can study the mechanisms of cell" exact="migration" post="by, e.g., knocking out a certain gene or altering"/>
+  <result pre="extracellular matrix (ECM) and testing whether these changes affect cell" exact="migration" post="patterns, such as cell trajectory, shape, or shape dynamics"/>
+  <result pre="cell trajectory, shape, or shape dynamics (Fig. 1). To compare" exact="migration" post="patterns in an objective and statistically sound way, they"/>
+  <result pre="received considerably less attention. Figure 1 Analysis and quantification of" exact="migration" post="patterns can help to study cell migration mechanisms. First,"/>
+  <result pre="and quantification of migration patterns can help to study cell" exact="migration" post="mechanisms. First, a migration experiment is performed, which involves"/>
+  <result pre="patterns can help to study cell migration mechanisms. First, a" exact="migration" post="experiment is performed, which involves altering the migrating cells"/>
+  <result pre="or adding chemical signal to the extracellular environment. Next, cell" exact="migration" post="patterns are analyzed and quantified. Finally, one or more"/>
+  <result pre="fashion, we look at just one snapshot of the cell’s" exact="migration" post="history. Depending on how we choose this snapshot, we"/>
+  <result pre="– e.g., if cells transiently appear similar but have different" exact="migration" post="patterns – or detect spurious differences – e.g., if"/>
+  <result pre="e.g., if cells occur in different phases of the same" exact="migration" post="pattern. Even averaging cell shape descriptors over time7 may"/>
+  <result pre="over time7 may not always be sufficient to distinguish some" exact="migration" post="patterns, for example when all cells evolve through similar"/>
+  <result pre="with different frequencies (Fig. S1)8. To distinguish such details of" exact="migration" post="behavior we need dynamic shape analysis that takes into"/>
+  <result pre="not been applied to characterize and compare the full dynamic" exact="migration" post="patterns of cells. The ultimate goal, however, is to"/>
+  <result pre="as well as migrating cells7,26–28. In the contexts of cell" exact="migration" post="analysis, SPHARM have been applied to identify phases of"/>
+  <result pre="the use of dynamic shape descriptors can improve classification between" exact="migration" post="patterns of cells. We extend the SPHARM analysis by"/>
+  <result pre="a support-vector-machine classifier, and compare their ability to distinguish between" exact="migration" post="patterns of cells in synthetic and experimental data. Materials"/>
+  <result pre="input data: synthetic cells generated with an in-house developed cell" exact="migration" post="simulator (CMS), and T cells visualized with intravital microscopy."/>
+  <result pre="the computed feature vectors to classify cells according to their" exact="migration" post="behavior. Cell migration simulator To generate synthetic migrating cells,"/>
+  <result pre="vectors to classify cells according to their migration behavior. Cell" exact="migration" post="simulator To generate synthetic migrating cells, we used our"/>
+  <result pre="generate synthetic migrating cells, we used our previously developed cell" exact="migration" post="simulator (CMS)29. In CMS, each cell consists of a"/>
+  <result pre="a set of grid-based spatial units (SU), and the cell" exact="migration" post="in 3D is simulated by iteratively moving SU from"/>
+  <result pre="(a) Schematic overview of a 2D version of the cell" exact="migration" post="simulator; the simulation starts with a spherical cell consisting"/>
+  <result pre="center of mass of the cell; we randomly choose the" exact="migration" post="direction \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek}"/>
+  <result pre="a cell generated with the 3D version of the cell" exact="migration" post="simulator; gray shades designate the cell positions at previous"/>
+  <result pre="\begin{document}$${p}_{init}$$\end{document} p i n i t and a randomly chosen" exact="migration" post="direction \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek}"/>
+  <result pre="probability of being selected that are closer to the cell’s" exact="migration" post="axis (large P). Additionally, those SU are more likely"/>
+  <result pre="(Fig. 2b, Supplement Video S1). This means that our cell" exact="migration" post="simulator allows us to study the changes in cell"/>
+  <result pre="values. Results We used the described cross-validation scheme to classify" exact="migration" post="patterns in both synthetic cells and T cells. We"/>
+  <result pre="experimental conditions and model parameters that significantly change the cell" exact="migration" post="patterns. Dynamic SPHARM-based classification of synthetic cells By detecting"/>
+  <result pre="SPHARM-based classification of synthetic cells By detecting significant differences in" exact="migration" post="patterns, our approach can be used to study how"/>
+  <result pre="be used to study how various parameters of the cell" exact="migration" post="simulator (CMS) affect the shape of generated cells. To"/>
+  <result pre="examined whether our approach can also be used to classify" exact="migration" post="patterns in experimental data. We analyzed the three groups"/>
+  <result pre="play an essential role in defining unique modes of cell" exact="migration" post="in different environments. Comparison of SPHARM-based classification to 2D"/>
+  <result pre="adding dynamics to shape analysis can improve the classification of" exact="migration" post="patterns of cells. We illustrated this improvement by combining"/>
+  <result pre="methods like ours can be used to study how cell" exact="migration" post="patterns change under various experimental conditions. Here we showed"/>
+  <result pre="Dynamic SPHARM analysis can also be applied to study cell" exact="migration" post="in silico. Classifying between cells generated with different parameters"/>
+  <result pre="in silico. Classifying between cells generated with different parameters of" exact="migration" post="models will help to better understand the meaning of"/>
+  <result pre="use of the image-based systems biology approach39,40 to create cell" exact="migration" post="models that are realistic and data-driven. With these models,"/>
+  <result pre="dynamic SPHARM-based classification can contribute to our understanding of cell" exact="migration" post="in two ways. On the one hand, it can"/>
+  <result pre="to investigate various experimental settings and their effect on cell" exact="migration" post="patterns. On the other hand, it should enable identifying"/>
+  <result pre="the other hand, it should enable identifying parameters of realistic" exact="migration" post="models that produce specific experimentally observed cell shapes. Both"/>
+  <result pre="and M.T.F. conceived and designed the study. M.B. developed the" exact="migration" post="model and generated synthetic cells. N.R. and J.S. performed"/>
+  <result pre="is available at https://github.com/applied-systems-biology/Dynamic_SPHARM. The source code for the cell" exact="migration" post="simulator is available at https://github.com/applied-systems-biology/cell-migration-simulator. Competing interests The authors"/>
+  <result pre="on Local Migration BehaviorPLoS ONE20138e8080810.1371/journal.pone.008080824324630 4.SvenssonC-MMedyukhinaABelyaevIAl‐ZabenNFiggeMTUntangling cell tracks: Quantifying cell" exact="migration" post="by time lapse image data analysisCytometry A20189335737010.1002/cyto.a.2324928976646 5.PincusZTheriotJAComparison of"/>
+  <result pre="Soc. Annu. Conf.2011201166196622 29.Blickensdorf, M. Agent based modeling of cell" exact="migration" post="and shape analysis. (Friedrich Schiller University Jena, 2015). 30.WaltSvanderet"/>
+ </snippets>
+</snippetsTree>

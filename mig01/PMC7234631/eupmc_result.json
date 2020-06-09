@@ -1,0 +1,262 @@
+{
+  "id": [
+    "PMC7234631"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7234631"
+  ],
+  "doi": [
+    "10.1093/schbul/sbaa029.683"
+  ],
+  "title": [
+    "T123. RISK FACTORS FOR PSYCHOTIC DISORDERS WITHIN MIGRANT GROUPS IN CANADA."
+  ],
+  "authorString": [
+    "Anderson K, Edwards J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Anderson K"
+          ],
+          "firstName": [
+            "Kelly"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Western University"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Edwards J"
+          ],
+          "firstName": [
+            "Jordan"
+          ],
+          "lastName": [
+            "Edwards"
+          ],
+          "initials": [
+            "J"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "46"
+      ],
+      "journalIssueId": [
+        "2958596"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Schizophrenia bulletin"
+          ],
+          "ISOAbbreviation": [
+            "Schizophr Bull"
+          ],
+          "medlineAbbreviation": [
+            "Schizophr Bull"
+          ],
+          "NLMid": [
+            "0236760"
+          ],
+          "ISSN": [
+            "1787-9965"
+          ],
+          "ESSN": [
+            "1745-1701"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "S277-S277"
+  ],
+  "abstractText": [
+    "AbstractBackgroundAlthough there is a large evidence base suggesting elevated rates of psychotic disorder for some migrant groups, relative to the non-migrant host population, less is known about factors that modify the risk of psychosis within migrant groups. Our objective was to assess whether pre-migration, migration-related, and post-migration factors were associated with an elevated risk of psychotic disorder among first-generation migrants in Ontario, Canada.MethodsUsing linked population-based health administrative data, we constructed a retrospective cohort of first-generation migrants to Ontario over a 20-year period between 1992 and 2012. We identified first onset non-affective psychotic disorders using a validated algorithm. Pre-migration factors included sex, country of origin, education, occupation, marital status, and language. Migration-related factors included age at migration, year of migration, duration of residence, and migrant class. Post-migration factors included rural place of residence and neighbourhood-level indicators of marginalization. We used Poisson regression models to compute incidence rate ratios for each pre-migration, migration-related, and post-migration factor to assess its magnitude of effect on the risk of developing psychosis, relative to migrants who did not develop psychotic disorder.ResultsOur cohort included over two million first-generation migrants over the 20-year period. Preliminary findings suggest that males, refugees, and people who set up residence in urban centres have higher rates of psychotic disorder, and people who are older at the time of migration and those who set up residence in high-income areas have lower rates of psychotic disorder. Full results for pre-migration, migration-related, and post-migration risk factors will be presented.DiscussionMigrant status is one of few well-established risk factors for psychotic disorder, yet we have limited understanding of the underlying etiology. The findings from this study help to identify high-risk groups to target for intervention. Improving our understanding of key risk factors for psychotic disorders within migrant groups is crucial for informing prevention and early intervention efforts."
+  ],
+  "affiliation": [
+    "Western University"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7234631/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7234631"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/schbul/sbaa029.683"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-25"
+  ],
+  "firstIndexDate": [
+    "2020-05-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-25"
+  ],
+  "dateOfRevision": [
+    "2020-05-25"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-18"
+  ],
+  "firstPublicationDate": [
+    "2020-05-18"
+  ],
+  "embargoDate": [
+    "2021-05-01"
+  ]
+}

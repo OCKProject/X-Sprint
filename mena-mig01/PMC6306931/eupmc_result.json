@@ -1,0 +1,731 @@
+{
+  "id": [
+    "30513772"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30513772"
+  ],
+  "pmcid": [
+    "PMC6306931"
+  ],
+  "doi": [
+    "10.3390/jcm7120501"
+  ],
+  "title": [
+    "Distinctive Expression and Amplification of Genes at 11q13 in Relation to HPV Status with Impact on Survival in Head and Neck Cancer Patients."
+  ],
+  "authorString": [
+    "Hermida-Prado F, Menéndez ST, Albornoz-Afanasiev P, Granda-Diaz R, Álvarez-Teijeiro S, Villaronga MÁ, Allonca E, Alonso-Durán L, León X, Alemany L, Mena M, Del-Rio-Ibisate N, Astudillo A, Rodríguez R, Rodrigo JP, García-Pedrero JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hermida-Prado F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Hermida-Prado"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. franjhermida@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. franjhermida@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Menéndez ST"
+          ],
+          "firstName": [
+            "Sofía T"
+          ],
+          "lastName": [
+            "Menéndez"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. sofiatirados@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. sofiatirados@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Albornoz-Afanasiev P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Albornoz-Afanasiev"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. pavlikh@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Granda-Diaz R"
+          ],
+          "firstName": [
+            "Rocío"
+          ],
+          "lastName": [
+            "Granda-Diaz"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. rocigd281@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. rocigd281@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Álvarez-Teijeiro S"
+          ],
+          "firstName": [
+            "Saúl"
+          ],
+          "lastName": [
+            "Álvarez-Teijeiro"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6845-2789",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. saul.teijeiro@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. saul.teijeiro@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Villaronga MÁ"
+          ],
+          "firstName": [
+            "M Ángeles"
+          ],
+          "lastName": [
+            "Villaronga"
+          ],
+          "initials": [
+            "MÁ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. angelesvillaronga@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. angelesvillaronga@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Allonca E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Allonca"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2532-5421",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. ynkc1@hotmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. ynkc1@hotmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alonso-Durán L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Alonso-Durán"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. laurita_alonso86@hotmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "León X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "León"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6286-630X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Otorhinolaryngology Department, Hospital de la Santa Creu i Sant Pau, Universitat Autònoma de Barcelona, 08041 Barcelona, Spain. XLeon@santpau.cat.",
+                "Centro de Investigación Biomédica en Red de Bioingeniería, Biomateriales y Nanomedicina, CIBER-BBN, 28029 Madrid, Spain. XLeon@santpau.cat."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alemany L"
+          ],
+          "firstName": [
+            "Laia"
+          ],
+          "lastName": [
+            "Alemany"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Epidemiology Research Program, Catalan Institute of Oncology (ICO), IDIBELL. L'Hospitalet de Llobregat, 08908 Barcelona, Spain. alemanyvilchesico@gmail.com.",
+                "Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública, CIBERESP, Barcelona, Spain. alemanyvilchesico@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena M"
+          ],
+          "firstName": [
+            "Marisa"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. mmena.iconcologia@gmail.com.",
+                "Cancer Epidemiology Research Program, Catalan Institute of Oncology (ICO), IDIBELL. L'Hospitalet de Llobregat, 08908 Barcelona, Spain. mmena.iconcologia@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Del-Rio-Ibisate N"
+          ],
+          "firstName": [
+            "Nagore"
+          ],
+          "lastName": [
+            "Del-Rio-Ibisate"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. nagoredelrio@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. nagoredelrio@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Astudillo A"
+          ],
+          "firstName": [
+            "Aurora"
+          ],
+          "lastName": [
+            "Astudillo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Hospital Universitario Central de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. astudillo@hca.es."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez R"
+          ],
+          "firstName": [
+            "René"
+          ],
+          "lastName": [
+            "Rodríguez"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0768-7306",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. renerg.finba@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. renerg.finba@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rodrigo JP"
+          ],
+          "firstName": [
+            "Juan P"
+          ],
+          "lastName": [
+            "Rodrigo"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3063-0890",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. jprodrigo@uniovi.es.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. jprodrigo@uniovi.es."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "García-Pedrero JM"
+          ],
+          "firstName": [
+            "Juana M"
+          ],
+          "lastName": [
+            "García-Pedrero"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5891-9488",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. juanagp.finba@gmail.com.",
+                "Centro de Investigación Biomédica en Red Cáncer, CIBERONC, 28029 Madrid, Spain. juanagp.finba@gmail.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6845-2789",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2532-5421",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6286-630X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0768-7306",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3063-0890",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5891-9488",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2756860"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med"
+          ],
+          "NLMid": [
+            "101606588"
+          ],
+          "ISSN": [
+            "2077-0383"
+          ],
+          "ESSN": [
+            "2077-0383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Clear differences have been established between head and neck squamous cell carcinomas (HNSCC) depending on human papillomavirus (HPV) infection status. This study specifically investigated the status of the CTTN, CCND1 and ANO1 genes mapping at the 11q13 amplicon in relation to the HPV status in HNSCC patients. CTTN, CCND1 and ANO1 protein expression and gene amplification were respectively analyzed by immunohistochemistry and real-time PCR in a homogeneous cohort of 392 surgically treated HNSCC patients. The results were further confirmed using an independent cohort of 279 HNSCC patients from The Cancer Genome Atlas (TCGA). The impact on patient survival was also evaluated. CTTN, CCND1 and ANO1 gene amplification and protein expression were frequent in HPV-negative tumors, while absent or rare in HPV-positive tumors. Using an independent validation cohort of 279 HNSCC patients, we consistently found that these three genes were frequently co-amplified (28%) and overexpressed (39⁻46%) in HPV-negative tumors, whereas almost absent in HPV-positive tumors. Remarkably, these alterations (in particular CTTN and ANO1 overexpression) were associated with poor prognosis. Taken together, the distinctive expression and amplification of these genes could cooperatively contribute to the differences in prognosis and clinical outcome between HPV-positive and HPV-negative tumors. These findings could serve as the basis to design more personalized therapeutic strategies for HNSCC patients."
+  ],
+  "affiliation": [
+    "Department of Otolaryngology, Hospital Universitario Central de Asturias and Instituto de Investigación Sanitaria del Principado de Asturias, Instituto Universitario de Oncología del Principado de Asturias, University of Oviedo, 33011 Oviedo, Spain. franjhermida@gmail.com."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CB16/12/00390, CB16/12/00401 and CB06/01/1031"
+          ],
+          "agency": [
+            "Instituto de Salud Carlos III"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PI13/00259 and PI16/00280"
+          ],
+          "agency": [
+            "Instituto de Salud Carlos III"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene amplification",
+        "Immunohistochemistry",
+        "HPV",
+        "Head And Neck Squamous Cell Carcinoma",
+        "11Q13"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm7120501"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6306931"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6306931?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm7120501"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-06"
+  ],
+  "firstIndexDate": [
+    "2018-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-07"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-01"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

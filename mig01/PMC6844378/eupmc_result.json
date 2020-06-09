@@ -1,0 +1,1006 @@
+{
+  "id": [
+    "31690133"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31690133"
+  ],
+  "pmcid": [
+    "PMC6844378"
+  ],
+  "doi": [
+    "10.1080/14756366.2019.1684911"
+  ],
+  "title": [
+    "Structure activity relationship studies on Amb639752: toward the identification of a common pharmacophoric structure for DGKα inhibitors."
+  ],
+  "authorString": [
+    "Velnati S, Massarotti A, Antona A, Talmon M, Fresu LG, Galetto AS, Capello D, Bertoni A, Mercalli V, Graziani A, Tron GC, Baldanzi G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Velnati S"
+          ],
+          "firstName": [
+            "Suresh"
+          ],
+          "lastName": [
+            "Velnati"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6756-9854",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy.",
+                "Institute for Research and Cure of Autoimmune Diseases, CAAD, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Massarotti A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "Massarotti"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Sciences, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Antona A"
+          ],
+          "firstName": [
+            "Annamaria"
+          ],
+          "lastName": [
+            "Antona"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Talmon M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Talmon"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3914-5034",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Health Sciences, School of Medicine, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fresu LG"
+          ],
+          "firstName": [
+            "Luigia Grazia"
+          ],
+          "lastName": [
+            "Fresu"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Health Sciences, School of Medicine, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Galetto AS"
+          ],
+          "firstName": [
+            "Alessandra Silvia"
+          ],
+          "lastName": [
+            "Galetto"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy.",
+                "Palliative Care Division, A.S.L., Vercelli, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Capello D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Capello"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bertoni A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Bertoni"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mercalli V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Mercalli"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Sciences, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Graziani A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Graziani"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Università Vita-Salute San Raffaele, Milan, Italy.",
+                "Department of Molecular Biotechnology and Health Sciences, Molecular Biotechnology Center, University of Torino, Turin, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tron GC"
+          ],
+          "firstName": [
+            "Gian Cesare"
+          ],
+          "lastName": [
+            "Tron"
+          ],
+          "initials": [
+            "GC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Sciences, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Baldanzi G"
+          ],
+          "firstName": [
+            "Gianluca"
+          ],
+          "lastName": [
+            "Baldanzi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy.",
+                "Institute for Research and Cure of Autoimmune Diseases, CAAD, University of Piemonte Orientale, Novara, Italy."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6756-9854",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3914-5034",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2871926"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of enzyme inhibition and medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "NLMid": [
+            "101150203"
+          ],
+          "ISSN": [
+            "1475-6366"
+          ],
+          "ESSN": [
+            "1475-6374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "96-108"
+  ],
+  "abstractText": [
+    "A series of analogues of Amb639752, a novel diacylglycerol kinase (DGK) inhibitor recently discovered by us via virtual screening, have been tested. The compounds were evaluated as DGK inhibitors on α, θ, and ζ isoforms, and as antagonists on serotonin receptors. From these assays emerged two novel compounds, namely 11 and 20, which with an IC50 respectively of 1.6 and 1.8 µM are the most potent inhibitors of DGKα discovered to date. Both compounds demonstrated the ability to restore apoptosis in a cellular model of X-linked lymphoproliferative disease as well as the capacity to reduce the migration of cancer cells, suggesting their potential utility in preventing metastasis. Finally, relying on experimental biological data, molecular modelling studies allow us to set a three-point pharmacophore model for DGK inhibitors."
+  ],
+  "affiliation": [
+    "Department of Translational Medicine, University of Piemonte Orientale, Novara, Italy."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GGP16252"
+          ],
+          "agency": [
+            "Telethon"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lymphocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "T-Lymphocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Monocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Piperazines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Indoles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lipoprotein Lipase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Kinase Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Survival"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Structure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Structure-Activity Relationship"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dose-Response Relationship, Drug"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HEK293 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MCF-7 Cells"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Molecular modelling",
+        "Kinase Inhibitors",
+        "Diacylglycerol Kinase",
+        "Enzyme Assays",
+        "Structure–activity Relationship"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "diacylglycerol lipase alpha, human"
+          ],
+          "registryNumber": [
+            "EC 3.1.1.34"
+          ]
+        },
+        {
+          "name": [
+            "Piperazines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Indoles"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Lipoprotein Lipase"
+          ],
+          "registryNumber": [
+            "EC 3.1.1.34"
+          ]
+        },
+        {
+          "name": [
+            "Protein Kinase Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "AMB639752"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2019.1684911"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6844378"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6844378?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2019.1684911"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-01-13"
+  ],
+  "dateOfCreation": [
+    "2019-11-07"
+  ],
+  "firstIndexDate": [
+    "2019-11-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2020-02-10"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "id": [
+    "32431513"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32431513"
+  ],
+  "pmcid": [
+    "PMC7197943"
+  ],
+  "doi": [
+    "10.2147/ott.s243914"
+  ],
+  "title": [
+    "Low-Dose Radiation Promotes Invasion and Migration of A549 Cells by Activating the CXCL1/NF-κB Signaling Pathway."
+  ],
+  "authorString": [
+    "Li J, Wu DM, Han R, Yu Y, Deng SH, Liu T, Zhang T, Xu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu DM"
+          ],
+          "firstName": [
+            "Dong-Ming"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han R"
+          ],
+          "firstName": [
+            "Rong"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Y"
+          ],
+          "firstName": [
+            "Ye"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deng SH"
+          ],
+          "firstName": [
+            "Shi-Hua"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu T"
+          ],
+          "firstName": [
+            "Teng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8300-8654",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang T"
+          ],
+          "firstName": [
+            "Ting"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9570-8666",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8300-8654",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9570-8666",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2917113"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "OncoTargets and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "medlineAbbreviation": [
+            "Onco Targets Ther"
+          ],
+          "NLMid": [
+            "101514322"
+          ],
+          "ISSN": [
+            "1178-6930"
+          ],
+          "ESSN": [
+            "1178-6930"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3619-3629"
+  ],
+  "abstractText": [
+    "Purpose:Radiation has well-known and well-characterized direct toxic effects on cells and tissues. However, low-dose ionizing irradiation (LDIR) can also enhance the invasion and migration of tumor cells, and the mechanisms underlying these effects remain unclear. The present study aimed to investigate changes induced in the migration and invasion of A549 cells after LDIR and to explore the potential molecular mechanism. Materials and Methods:A549 cells were irradiated with X-rays at different doses (0, 2, 4, and 6 Gy) and cultured for 24 or 48 h. Apoptosis and proliferation were evaluated by lactate dehydrogenase release, CCK8, colony formation, and flow cytometry assays. Wound-healing and transwell assays were performed to detect migration and invasion ability. CXCL1 or p65 were knocked down using lentivirus-mediated siRNA in A549 cell lines. Knockdown efficiency of CXCL1 and p65 was assessed by RT-qPCR. Western blotting and immunofluorescence were used to determine the changes in protein levels. Results:In cells irradiated with a dose of 6 Gy, after 48 h, apoptosis was clearly induced while proliferation was inhibited. Irradiation with 4 Gy resulted in the upregulation of CXCL1 expression and activation of the NF-κB signaling pathway. Moreover, upon 4 Gy irradiation, migration, invasion, and epithelial-mesenchymal transition (EMT) were significantly enhanced in A549 cells. Importantly, CXCL1 or p65 knockdown inhibited radiation-induced migration, invasion, and EMT. Conclusion:Low-dose radiation upregulates CXCL1 expression and activates the NF-κB signaling to regulate EMT in A549 cells, thereby promoting invasion and migration. These results provide new insights into the prevention of tumor invasion and metastasis induced by radiotherapy."
+  ],
+  "affiliation": [
+    "Clinical Laboratory, The First Affiliated Hospital, Collaborative Innovation Center of Sichuan for Elderly Care and Health of Chengdu Medical College, Chengdu, Sichuan 610041, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Non-small cell lung cancer",
+        "Ionizing Radiation",
+        "Emt",
+        "Cxcl1"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/OTT.S243914"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7197943"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7197943?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/ott.s243914"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-21"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-29"
+  ],
+  "firstPublicationDate": [
+    "2020-04-29"
+  ]
+}

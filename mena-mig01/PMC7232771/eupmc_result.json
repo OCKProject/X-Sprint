@@ -1,0 +1,514 @@
+{
+  "id": [
+    "32431747"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32431747"
+  ],
+  "pmcid": [
+    "PMC7232771"
+  ],
+  "doi": [
+    "10.1111/eva.12914"
+  ],
+  "title": [
+    "Spatial genetic structure in a crustacean herbivore highlights the need for local considerations in Baltic Sea biodiversity management."
+  ],
+  "authorString": [
+    "De Wit P, Jonsson PR, Pereyra RT, Panova M, André C, Johannesson K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "De Wit P"
+          ],
+          "firstName": [
+            "Pierre"
+          ],
+          "lastName": [
+            "De Wit"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4709-3438",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Marine Sciences University of Gothenburg Tjärnö Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jonsson PR"
+          ],
+          "firstName": [
+            "Per R"
+          ],
+          "lastName": [
+            "Jonsson"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1793-5473",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Marine Sciences University of Gothenburg Tjärnö Sweden.",
+                "Environmental and Marine Biology Åbo Akademi University Turku Finland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pereyra RT"
+          ],
+          "firstName": [
+            "Ricardo T"
+          ],
+          "lastName": [
+            "Pereyra"
+          ],
+          "initials": [
+            "RT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9635-5433",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Marine Sciences University of Gothenburg Tjärnö Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Panova M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Panova"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4147-6473",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Marine Sciences University of Gothenburg Tjärnö Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "André C"
+          ],
+          "firstName": [
+            "Carl"
+          ],
+          "lastName": [
+            "André"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4404-7292",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Marine Sciences University of Gothenburg Tjärnö Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Johannesson K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Johannesson"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0176-7986",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Marine Sciences University of Gothenburg Tjärnö Sweden."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4709-3438",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1793-5473",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9635-5433",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4147-6473",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4404-7292",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0176-7986",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2957489"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evolutionary applications"
+          ],
+          "ISOAbbreviation": [
+            "Evol Appl"
+          ],
+          "medlineAbbreviation": [
+            "Evol Appl"
+          ],
+          "NLMid": [
+            "101461828"
+          ],
+          "ISSN": [
+            "1752-4571"
+          ],
+          "ESSN": [
+            "1752-4571"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "974-990"
+  ],
+  "abstractText": [
+    "Incorporating species' eco-evolutionary responses to human-caused disturbances remains a challenge in marine management efforts. A prerequisite is knowledge of geographic structure and scale of genetic diversity and connectivity-the so-called seascape genetic patterns. The Baltic Sea is an excellent model system for studies linking seascape genetics with effects of anthropogenic stress. However, seascape genetic patterns in this area are only described for a few species and are completely unknown for invertebrate herbivores, which constitute a critical part of the ecosystem. This information is crucial for sustainable management, particularly under future scenarios of rapid environmental change. Here, we investigate the population genetic structure among 31 locations throughout the Baltic Sea, of which 45% were located in marine protected areas, in one of the most important herbivores of this region, the isopod crustacean Idotea balthica, using an array of 33,774 genome-wide SNP markers derived from 2b-RAD sequencing. In addition, we generate a biophysical connectivity matrix for I. balthica from a combination of oceanographic current models and estimated life history traits. We find population structure on scales of hundreds of kilometers across the Baltic Sea, where genomic patterns in most cases closely match biophysical connectivity, indicating passive transport with oceanographic currents as an important mean of dispersal in this species. We also find a reduced genetic diversity in terms of heterozygosity along the main salinity gradient of the Baltic Sea, suggesting periods of low population size. Our results provide crucial information for the management of a key ecosystem species under expected changes in temperature and salinity following global climate change in a marine coastal area."
+  ],
+  "affiliation": [
+    "Department of Marine Sciences University of Gothenburg Tjärnö Sweden."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Connectivity",
+        "Marine Protected Areas",
+        "Baltic Sea",
+        "Seascape Genetics",
+        "Idotea Balthica"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/eva.12914"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7232771"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7232771?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/eva.12914"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR74778"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-21"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-05"
+  ],
+  "firstPublicationDate": [
+    "2020-02-05"
+  ]
+}

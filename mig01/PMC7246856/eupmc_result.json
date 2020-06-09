@@ -1,0 +1,402 @@
+{
+  "id": [
+    "32365980"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32365980"
+  ],
+  "pmcid": [
+    "PMC7246856"
+  ],
+  "doi": [
+    "10.3390/ijerph17093147"
+  ],
+  "title": [
+    "Environmental Impact of High Concentration Nitrate Migration in Soil System Using HYDRUS Simulation."
+  ],
+  "authorString": [
+    "Zhang Y, Lee D, Ding J, Lu J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Material Science and Engineering/School of Intelligent Systems Engineering, Sun Yat-Sen University, Guangzhou 510006, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee D"
+          ],
+          "firstName": [
+            "Duujong"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemical Engineering, National Taiwan University, Taipei 10617, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ding J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Material Science and Engineering/School of Intelligent Systems Engineering, Sun Yat-Sen University, Guangzhou 510006, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lu J"
+          ],
+          "firstName": [
+            "Jianfeng"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6839-0442",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Material Science and Engineering/School of Intelligent Systems Engineering, Sun Yat-Sen University, Guangzhou 510006, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6839-0442",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2947781"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Nitrate is a promising heat transfer fluid in solar thermal power and nuclear power systems, but its leakage can cause serious environmental problems. The present paper investigates the deep and prolonged migration of high concentrations of nitrate into the soil system, and the associated diffusion range is studied to estimate and reduce the environmental pollution caused by nitrate leaks. The vertical nitrate contaminated range is mainly impacted by annual precipitation, soil properties and groundwater depth, while the horizontal contaminated range is mainly affected by the initial leakage area. During the process, the vertical contaminated range first continuously enlarges, and then decreases after a long time. The nitrate contaminant can exist and affect the environment for as long as 115-625 years, and the nitrate contamination time can be even longer in dry regions. Since nitrate diffuses more quickly in unsaturated regions rather than in saturated regions, the migration region and contaminated range both decrease as the groundwater depth is increased."
+  ],
+  "affiliation": [
+    "School of Material Science and Engineering/School of Intelligent Systems Engineering, Sun Yat-Sen University, Guangzhou 510006, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "51961165101"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U1601215"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Numerical model",
+        "Environmental impact",
+        "Soil And Groundwater",
+        "Nitrate Migration",
+        "Nitrate Contamination Time"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph17093147"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7246856"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7246856?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph17093147"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-06"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-05"
+  ],
+  "dateOfRevision": [
+    "2020-06-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-30"
+  ],
+  "firstPublicationDate": [
+    "2020-04-30"
+  ]
+}

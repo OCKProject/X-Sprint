@@ -1,0 +1,566 @@
+{
+  "id": [
+    "31996781"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31996781"
+  ],
+  "pmcid": [
+    "PMC6989667"
+  ],
+  "doi": [
+    "10.1038/s41598-020-58402-y"
+  ],
+  "title": [
+    "Wheat dwarfing influences selection of the rhizosphere microbiome."
+  ],
+  "authorString": [
+    "Kavamura VN, Robinson RJ, Hughes D, Clark I, Rossmann M, Melo IS, Hirsch PR, Mendes R, Mauchline TH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kavamura VN"
+          ],
+          "firstName": [
+            "Vanessa N"
+          ],
+          "lastName": [
+            "Kavamura"
+          ],
+          "initials": [
+            "VN"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Sustainable Agriculture Sciences, Rothamsted Research, Harpenden, Hertfordshire, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Robinson RJ"
+          ],
+          "firstName": [
+            "Rebekah J"
+          ],
+          "lastName": [
+            "Robinson"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Plant Pathology Laboratory, Royal Horticultural Society, RHS Garden Wisley, Woking, Surrey, GU23 6QB, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Computational and Analytical Sciences, Rothamsted Research, Harpenden, Hertfordshire, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Clark I"
+          ],
+          "firstName": [
+            "Ian"
+          ],
+          "lastName": [
+            "Clark"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1589-5420",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Sustainable Agriculture Sciences, Rothamsted Research, Harpenden, Hertfordshire, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rossmann M"
+          ],
+          "firstName": [
+            "Maike"
+          ],
+          "lastName": [
+            "Rossmann"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Environmental Microbiology, Embrapa Environment, Jaguariúna-SP, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Melo IS"
+          ],
+          "firstName": [
+            "Itamar Soares de"
+          ],
+          "lastName": [
+            "Melo"
+          ],
+          "initials": [
+            "IS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2785-6725",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Environmental Microbiology, Embrapa Environment, Jaguariúna-SP, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hirsch PR"
+          ],
+          "firstName": [
+            "Penny R"
+          ],
+          "lastName": [
+            "Hirsch"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5909-1934",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Sustainable Agriculture Sciences, Rothamsted Research, Harpenden, Hertfordshire, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mendes R"
+          ],
+          "firstName": [
+            "Rodrigo"
+          ],
+          "lastName": [
+            "Mendes"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Environmental Microbiology, Embrapa Environment, Jaguariúna-SP, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mauchline TH"
+          ],
+          "firstName": [
+            "Tim H"
+          ],
+          "lastName": [
+            "Mauchline"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Sustainable Agriculture Sciences, Rothamsted Research, Harpenden, Hertfordshire, United Kingdom. tim.mauchline@rothamsted.ac.uk."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1589-5420",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2785-6725",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5909-1934",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2899419"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1452"
+  ],
+  "abstractText": [
+    "The development of dwarf wheat cultivars combined with high levels of agrochemical inputs during the green revolution resulted in high yielding cropping systems. However, changes in wheat cultivars were made without considering impacts on plant and soil microbe interactions. We studied the effect of these changes on root traits and on the assembly of rhizosphere bacterial communities by comparing eight wheat cultivars ranging from tall to semi-dwarf plants grown under field conditions. Wheat breeding influenced root diameter and specific root length (SRL). Rhizosphere bacterial communities from tall cultivars were distinct from those associated with semi-dwarf cultivars, with higher differential abundance of Actinobacteria, Bacteroidetes and Proteobacteria in tall cultivars, compared with a higher differential abundance of Verrucomicrobia, Planctomycetes and Acidobacteria in semi-dwarf cultivars. Predicted microbial functions were also impacted and network analysis revealed a greater level of connectedness between microbial communities in the tall cultivars relative to semi-dwarf cultivars. Taken together, results suggest that the development of semi-dwarf plants might have affected the ability of plants to recruit and sustain a complex bacterial community network in the rhizosphere."
+  ],
+  "affiliation": [
+    "Sustainable Agriculture Sciences, Rothamsted Research, Harpenden, Hertfordshire, United Kingdom."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/N004418/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/N016246/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BBS/E/C/000I0310"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/L027836/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-58402-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6989667"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6989667?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-58402-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-31"
+  ],
+  "firstIndexDate": [
+    "2020-01-31"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-09"
+  ],
+  "dateOfRevision": [
+    "2020-02-06"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-29"
+  ],
+  "firstPublicationDate": [
+    "2020-01-29"
+  ]
+}

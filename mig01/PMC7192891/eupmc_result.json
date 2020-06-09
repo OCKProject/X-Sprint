@@ -1,0 +1,407 @@
+{
+  "id": [
+    "32355314"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32355314"
+  ],
+  "pmcid": [
+    "PMC7192891"
+  ],
+  "doi": [
+    "10.1038/s41598-020-64363-z"
+  ],
+  "title": [
+    "Neurons promote encephalitogenic CD4+ lymphocyte infiltration in experimental autoimmune encephalomyelitis."
+  ],
+  "authorString": [
+    "Nakazato Y, Fujita Y, Nakazato M, Yamashita T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nakazato Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Nakazato"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Neuroscience, Graduate School of Medicine, Osaka University, Osaka, Japan.",
+                "Department of Internal Medicine, Division of Neurology, Respirology, Endocrinology, and Metabolism, Department of Internal Medicine, Faculty of Medicine, University of Miyazaki, Miyazaki, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fujita Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Fujita"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Neuroscience, Graduate School of Medicine, Osaka University, Osaka, Japan.",
+                "WPI Immunology Frontier Research Center, Osaka University, Osaka, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nakazato M"
+          ],
+          "firstName": [
+            "Masamitsu"
+          ],
+          "lastName": [
+            "Nakazato"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine, Division of Neurology, Respirology, Endocrinology, and Metabolism, Department of Internal Medicine, Faculty of Medicine, University of Miyazaki, Miyazaki, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yamashita T"
+          ],
+          "firstName": [
+            "Toshihide"
+          ],
+          "lastName": [
+            "Yamashita"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4559-7018",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Neuroscience, Graduate School of Medicine, Osaka University, Osaka, Japan. yamashita@molneu.med.osaka-u.ac.jp.",
+                "WPI Immunology Frontier Research Center, Osaka University, Osaka, Japan. yamashita@molneu.med.osaka-u.ac.jp.",
+                "Graduate School of Frontier Bioscience, Osaka University, Osaka, Japan. yamashita@molneu.med.osaka-u.ac.jp.",
+                "Department of Neuro-Medical Science, Graduate School of Medicine, Osaka University, Osaka, Japan. yamashita@molneu.med.osaka-u.ac.jp."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4559-7018",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2931281"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "7354"
+  ],
+  "abstractText": [
+    "Multiple sclerosis (MS) is an autoimmune disease of the central nervous system characterized by neuroinflammation, leading to demyelination and axonal degeneration. Neuronal excitotoxity mediated by Ca2+/calmodulin-dependent protein kinase IIα (CaMKIIα) results in neuronal damage in experimental autoimmune encephalitis (EAE), an animal model of MS. Here, we define a critical role of excitatory neurons in the pathogenesis of CD4+ lymphocyte accumulation in EAE. We silenced the activity of excitatory neurons in a mouse model of targeted EAE using inhibitory designer receptors exclusively activated by designer drugs (DREADD) under a CaMKIIα promoter. Neuronal silencing mitigated clinical disease scores in EAE, reduced the expression of c-fos, Tnfα, Ccl2, and Ccr2 mRNAs in targeted EAE lesions, and prevented the migration of CD4+ lymphocytes towards neurons. Ccl2 shRNA treatment of targeted EAE suppressed the migration of CD4+ lymphocytes and alleviated the motor deficits of EAE. Our findings indicate that neuronal activation in EAE promotes the migration of CCR2+ CD4+ lymphocytes and that neuronal silencing with an inhibitory DREADD alleviates clinical and molecular markers of disease. Neuronal CCL2 is thought to be involved in promoting lymphocytes migration."
+  ],
+  "affiliation": [
+    "Department of Molecular Neuroscience, Graduate School of Medicine, Osaka University, Osaka, Japan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JP17H06178"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "18gm1210005h0001"
+          ],
+          "agency": [
+            "Japan Agency for Medical Research and Development (AMED)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-64363-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7192891"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7192891?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-64363-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-02"
+  ],
+  "firstIndexDate": [
+    "2020-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-07"
+  ],
+  "dateOfRevision": [
+    "2020-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-30"
+  ],
+  "firstPublicationDate": [
+    "2020-04-30"
+  ]
+}

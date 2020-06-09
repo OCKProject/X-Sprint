@@ -1,0 +1,498 @@
+{
+  "id": [
+    "32405324"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32405324"
+  ],
+  "pmcid": [
+    "PMC7196999"
+  ],
+  "doi": [
+    "10.1155/2020/9783630"
+  ],
+  "title": [
+    "Therapeutic Anticoagulation with Argatroban and Heparins Reduces Granulocyte Migration: Possible Impact on ECLS-Therapy?"
+  ],
+  "authorString": [
+    "Bredthauer A, Kopfmueller M, Gruber M, Pfaehler SM, Lehle K, Petermichl W, Seyfried T, Bitzinger D, Redel A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bredthauer A"
+          ],
+          "firstName": [
+            "Andre"
+          ],
+          "lastName": [
+            "Bredthauer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5779-7714",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kopfmueller M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Kopfmueller"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany.",
+                "Department of Internal Medicine II, Goldbergklinik Kelheim, Kelheim, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gruber M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Gruber"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5509-9760",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pfaehler SM"
+          ],
+          "firstName": [
+            "Sophie-Marie"
+          ],
+          "lastName": [
+            "Pfaehler"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lehle K"
+          ],
+          "firstName": [
+            "Karla"
+          ],
+          "lastName": [
+            "Lehle"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiothoracic Surgery, University Medical Center Regensburg, Regensburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Petermichl W"
+          ],
+          "firstName": [
+            "Walter"
+          ],
+          "lastName": [
+            "Petermichl"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seyfried T"
+          ],
+          "firstName": [
+            "Timo"
+          ],
+          "lastName": [
+            "Seyfried"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bitzinger D"
+          ],
+          "firstName": [
+            "Diane"
+          ],
+          "lastName": [
+            "Bitzinger"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3080-9957",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Redel A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Redel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany.",
+                "Department of Anesthesiology, Klinikum St. Marien Amberg, Amberg, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5779-7714",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5509-9760",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3080-9957",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2904210"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cardiovascular Therapeutics"
+          ],
+          "ISOAbbreviation": [
+            "Cardiovasc Ther"
+          ],
+          "medlineAbbreviation": [
+            "Cardiovasc Ther"
+          ],
+          "NLMid": [
+            "101319630"
+          ],
+          "ISSN": [
+            "1755-5914"
+          ],
+          "ESSN": [
+            "1755-5922"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "9783630"
+  ],
+  "abstractText": [
+    "Introduction:Anticoagulants such as argatroban and heparins (low-molecular-weight and unfractionated) play an immense role in preventing thromboembolic complications in clinical practice. Nevertheless, they can also have a negative effect on the immune system. This study is aimed at investigating the influence of these substances on polymorphonuclear neutrophils (PMNs), whose nonspecific defense mechanisms can promote thrombogenesis. Methods:Blood samples from 30 healthy volunteers were investigated, whereby PMNs were isolated by density gradient centrifugation and incubated with 0.8 μg/mL of argatroban, 1.0 U/mL of low-molecular-weight heparin (LMWH), 1.0 U/mL of unfractionated heparin (UFH), or without drug (control). A collagen-cell mixture was prepared and filled into 3D μ-slide chemotaxis chambers (IBIDI® GmbH, Germany). Stimulation was initiated by using a chemokine gradient of n-formyl-methionine-leucyl-phenylalanine (fMLP), and microscopic observation was conducted for 4.5 hours. The cells' track length and track straightness, as well as the number of attracted granulocytes, level of ROS (reactive oxygen species) production, and NET (neutrophil extracellular traps) formation, were analyzed and categorized into migration distances and time periods. Results:All three anticoagulants led to significantly reduced PMN track lengths, with UFH having the biggest impact. The number of tracks observed in the UFH group were significantly reduced compared to the control group. Additionally, the UFH group demonstrated a significantly lower track straightness compared to the control. ROS production and NET formation were unaffected. Conclusion:Our data provide evidence that anticoagulants have an inhibitory effect on the extent of PMN migration and chemotactic migration efficiency, thus indicating their potential immune-modulatory and prothrombotic effects."
+  ],
+  "affiliation": [
+    "Department of Anesthesiology, University Medical Center Regensburg, Regensburg, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/9783630"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7196999"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7196999?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/9783630"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-15"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-15"
+  ],
+  "dateOfRevision": [
+    "2020-05-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-25"
+  ],
+  "firstPublicationDate": [
+    "2020-04-25"
+  ]
+}

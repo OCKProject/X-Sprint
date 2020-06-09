@@ -1,0 +1,498 @@
+{
+  "id": [
+    "31869346"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31869346"
+  ],
+  "pmcid": [
+    "PMC6927660"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0226224"
+  ],
+  "title": [
+    "A geographically weighted random forest approach for evaluate forest change drivers in the Northern Ecuadorian Amazon."
+  ],
+  "authorString": [
+    "Santos F, Graw V, Bonilla S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Santos F"
+          ],
+          "firstName": [
+            "Fabián"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8130-4377",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for the Territory and Sustainable Habitat, Universidad Tecnológica Indoamérica, Quito, Ecuador."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Graw V"
+          ],
+          "firstName": [
+            "Valerie"
+          ],
+          "lastName": [
+            "Graw"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5145-9223",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center of Remote Sensing of Land Surfaces (ZFL), University of Bonn, Bonn, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bonilla S"
+          ],
+          "firstName": [
+            "Santiago"
+          ],
+          "lastName": [
+            "Bonilla"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Research Center for the Territory and Sustainable Habitat, Universidad Tecnológica Indoamérica, Quito, Ecuador.",
+                "Departament of Forest Engineering. E.T.S.I.A.M., Campus de Excelencia Internacional Agroalimentario (ceiA3), Universidad de Córdoba, Córdoba, Spain."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8130-4377",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5145-9223",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2893730"
+      ],
+      "dateOfPublication": [
+        "2019"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0226224"
+  ],
+  "abstractText": [
+    "The Tropical Andes region includes biodiversity hotspots of high conservation priority whose management strategies depend on the analysis of forest dynamics drivers (FDDs). These depend on complex social and ecological interactions that manifest on different space-time scales and are commonly evaluated through regression analysis of multivariate datasets. However, processing such datasets is challenging, especially when time series are used and inconsistencies in data collection complicate their integration. Moreover, regression analysis in FDD characterization has been criticized for failing to capture spatial variability; therefore, alternatives such as geographically weighted regression (GWR) have been proposed, but their sensitivity to multicollinearity has not yet been solved. In this scenario, we present an innovative methodology that combines techniques to: 1) derive remote sensing time series products; 2) improve census processing with dasymetric mapping; 3) combine GWR and random forest (RF) to derive local variables importance; and 4) report results based in a clustering and hypothesis testing. We applied this methodology in the northwestern Ecuadorian Amazon, a highly heterogeneous region characterized by different active fronts of deforestation and reforestation, within the time period 2000-2010. Our objective was to identify linkages between these processes and validate the potential of the proposed methodology. Our findings indicate that land-use intensity proxies can be extracted from remote sensing time series, while intercensal analysis can be facilitated by calculating population density maps. Moreover, our implementation of GWR with RF achieved accurate predictions above the 74% using the out-of-bag samples, demonstrating that derived RF features can be used to construct hypothesis and discuss forest change drivers with more detailed information. In the other hand, our analysis revealed contrasting effects between deforestation and reforestation for variables related to suitability to agriculture and accessibility to its facilities, which is also reflected according patch size, land cover and population dynamics patterns. This approach demonstrates the benefits of integrating remote sensing-derived products and socioeconomic data to understand coupled socioecological systems more from a local than a global scale."
+  ],
+  "affiliation": [
+    "Research Center for the Territory and Sustainable Habitat, Universidad Tecnológica Indoamérica, Quito, Ecuador."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trees"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Regression Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Conservation of Natural Resources"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rivers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environmental Monitoring"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Density"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Dynamics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Agriculture"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ecuador"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Geographic Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Forests"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0226224"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6927660"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6927660?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0226224"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-04-15"
+  ],
+  "dateOfCreation": [
+    "2019-12-24"
+  ],
+  "firstIndexDate": [
+    "2019-12-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-09"
+  ],
+  "dateOfRevision": [
+    "2020-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-23"
+  ],
+  "firstPublicationDate": [
+    "2019-12-23"
+  ]
+}

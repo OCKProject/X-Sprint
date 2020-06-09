@@ -1,0 +1,621 @@
+{
+  "id": [
+    "28662055"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28662055"
+  ],
+  "pmcid": [
+    "PMC5491060"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0179897"
+  ],
+  "title": [
+    "Downregulation of adaptor protein MyD88 compromises the angiogenic potential of B16 murine melanoma."
+  ],
+  "authorString": [
+    "Trucco LD, Roselli E, Araya P, Nuñez NG, Mena HA, Bocco JL, Negrotto S, Maccioni M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Trucco LD"
+          ],
+          "firstName": [
+            "Lucas Daniel"
+          ],
+          "lastName": [
+            "Trucco"
+          ],
+          "initials": [
+            "LD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro de Investigaciones en Bioquímica Clínica e Inmunología (CIBICI), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Departamento de Bioquímica Clínica, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, Córdoba, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roselli E"
+          ],
+          "firstName": [
+            "Emiliano"
+          ],
+          "lastName": [
+            "Roselli"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6048-7170",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro de Investigaciones en Bioquímica Clínica e Inmunología (CIBICI), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Departamento de Bioquímica Clínica, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, Córdoba, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Araya P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Araya"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro de Investigaciones en Bioquímica Clínica e Inmunología (CIBICI), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Departamento de Bioquímica Clínica, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, Córdoba, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nuñez NG"
+          ],
+          "firstName": [
+            "Nicolás Gonzalo"
+          ],
+          "lastName": [
+            "Nuñez"
+          ],
+          "initials": [
+            "NG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratoire de Transfert, INSERM U932, Laboratoire d'Immunologie, Institute Curie, París, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena HA"
+          ],
+          "firstName": [
+            "Hebe Agustina"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio de Trombosis Experimental, Academia Nacional de Medicina, Buenos Aires, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bocco JL"
+          ],
+          "firstName": [
+            "José Luis"
+          ],
+          "lastName": [
+            "Bocco"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro de Investigaciones en Bioquímica Clínica e Inmunología (CIBICI), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Departamento de Bioquímica Clínica, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, Córdoba, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Negrotto S"
+          ],
+          "firstName": [
+            "Soledad"
+          ],
+          "lastName": [
+            "Negrotto"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio de Trombosis Experimental, Academia Nacional de Medicina, Buenos Aires, Argentina."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maccioni M"
+          ],
+          "firstName": [
+            "Mariana"
+          ],
+          "lastName": [
+            "Maccioni"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro de Investigaciones en Bioquímica Clínica e Inmunología (CIBICI), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Departamento de Bioquímica Clínica, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, Córdoba, Argentina."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6048-7170",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2562707"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0179897"
+  ],
+  "abstractText": [
+    "The mechanisms that link inflammatory responses to cancer development remain a subject of intense investigation, emphasizing the need to better understand the cellular and molecular pathways that create a tumor promoting microenvironment. The myeloid differentiation primary response protein MyD88 acts as a main adaptor molecule for the signaling cascades initiated from Toll-like receptors (TLRs) and the interleukin 1 receptor (IL-1R). MyD88 has been shown to contribute to tumorigenesis in many inflammation-associated cancer models. In this study, we sought to better define the role of MyD88 in neoplastic cells using a murine melanoma model. Herein, we have demonstrated that MyD88 expression is required to maintain the angiogenic switch that supports B16 melanoma growth. By knocking down MyD88 we reduced TLR-mediated NF-κB activation with no evident effects over cell proliferation and survival. In addition, MyD88 downregulation was associated with a decrease of HIF1α levels and its target gene VEGF, in correlation with an impaired capability to induce capillary sprouting and tube formation of endothelial cells. Melanomas developed from cells lacking MyD88 showed an enhanced secretion of chemoattractant ligands such as CCL2, CXCL10 and CXCL1 and have an improved infiltration of macrophages to the tumor site. Our results imply that cell-autonomous signaling through MyD88 is required to sustain tumor growth and underscore its function as an important positive modulator of tumor angiogenesis."
+  ],
+  "affiliation": [
+    "Centro de Investigaciones en Bioquímica Clínica e Inmunología (CIBICI), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Departamento de Bioquímica Clínica, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, Córdoba, Argentina."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Melanoma, Experimental"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BS"
+                  ],
+                  "qualifierName": [
+                    "blood supply"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Neovascularization, Pathologic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Down-Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Silencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myeloid Differentiation Factor 88"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Myeloid differentiation factor 88"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Myd88 protein, mouse"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0179897"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5491060"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5491060?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0179897"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-28"
+  ],
+  "dateOfCreation": [
+    "2017-06-29"
+  ],
+  "firstIndexDate": [
+    "2017-06-30"
+  ],
+  "fullTextReceivedDate": [
+    "2017-07-20"
+  ],
+  "dateOfRevision": [
+    "2017-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-29"
+  ],
+  "firstPublicationDate": [
+    "2017-06-29"
+  ]
+}

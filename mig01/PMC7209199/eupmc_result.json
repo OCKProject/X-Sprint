@@ -1,0 +1,256 @@
+{
+  "id": [
+    "PMC7209199"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7209199"
+  ],
+  "doi": [
+    "10.1210/jendso/bvaa046.260"
+  ],
+  "title": [
+    "SAT-739 Membrane Progesterone Receptors (mPRs/PAQRs) Promote Proliferation, Migration and Neurotrophin Expression in Schwann Cell-like Adipose Stem Cells, Potentially Improving Peripheral Nerve Regeneration."
+  ],
+  "authorString": [
+    "Castelnovo LF, Thomas P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Castelnovo LF"
+          ],
+          "firstName": [
+            "Luca F"
+          ],
+          "lastName": [
+            "Castelnovo"
+          ],
+          "initials": [
+            "LF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Texas at Austin, Port Aransas, TX, USA"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2955096"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Endocrine Society"
+          ],
+          "ISOAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "medlineAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "NLMid": [
+            "101697997"
+          ],
+          "ISSN": [
+            "2472-1972"
+          ],
+          "ESSN": [
+            "2472-1972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "AbstractPeripheral nerve injury is a problem affecting millions of people worldwide, causing significant disability and a reduction in the quality of life. The neurons of the peripheral nervous system are characterized by a significant regeneration capability. However, the functional recovery is unsatisfactory in most cases, making the identification of new strategies to improve the regenerative outcome a major medical need. Schwann cells (SCs), the main neuroglial cells of the peripheral nervous system, trans-differentiate after nerve injury towards a phenotype, known as the repair phenotype, that promotes nerve regeneration. Nonetheless, adult human SCs have poor expansion capability in vitro, undermining their potential clinical development. Several studies have shown that mesenchymal stem cells, especially when differentiated into a Schwann cell-like (SCL) phenotype, may represent an alternative to primary SCs, promoting pro-regenerative effects both in vitro and in vivo. Recently, membrane progesterone receptors (mPRs), members of the progestin and adipoQ receptor (PAQR) family, have been shown to be present and active in Schwann cells. Progesterone activates mPRs in SCs to promote cell migration and proliferation, change cell morphology, and modulate the expression of key SC differentiation factors. These findings suggest a possible role for mPRs in nerve repair. The goal of the present project is to study the role of mPRs in the promotion of pro-regenerative effects in mesenchymal adipose stem cells (ASC), both undifferentiated (uASC) and after differentiation toward the SCL phenotype (SCL-ASC). We first characterized uASC and SCL-ASC, confirming that the latter showed increased expression of SC markers like S100B, Sox10, GFAP, P0 and Krox20, alongside a more pronounced spindle-like shape leading to an increased aspect ratio. The differentiation protocol also increased mPR gene expression in SCL-ASC compared to uASC, especially mPRα (PAQR7) and mPRβ (PAQR8). Treatment with the specific mPR agonist Org OD 02-0 (02-0) caused cell elongation in SCL-ASC, mimicking what happens to SCs in vivo when they trans-differentiate towards the repair phenotype. 02-0 treatment also led to increased cell migration and cell proliferation in both uASC and SCL-ASC, consistent with a pro-regenerative role of mPRs. The effect was more rapid and evident in SCL-ASC. Lastly, we analyzed the effect of mPR activation on neutrophin production and release in uASC and SCL-ASC. A significant increase was observed in the expression and release of the brain derived neurotrophic factor (BDNF), whose role in promoting neurogenesis is well established. Our results support the hypothesis that mPRs have an important role in the modulation of uASC and SCL-ASC physiology and their activation may promote nerve regeneration."
+  ],
+  "affiliation": [
+    "University of Texas at Austin, Port Aransas, TX, USA"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7209199/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7209199"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1210/jendso/bvaa046.260"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-15"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-15"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-08"
+  ],
+  "firstPublicationDate": [
+    "2020-05-08"
+  ]
+}

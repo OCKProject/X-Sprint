@@ -1,0 +1,470 @@
+{
+  "id": [
+    "32404156"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32404156"
+  ],
+  "pmcid": [
+    "PMC7222325"
+  ],
+  "doi": [
+    "10.1186/s13075-020-02207-x"
+  ],
+  "title": [
+    "Proteoglycan-4 regulates fibroblast to myofibroblast transition and expression of fibrotic genes in the synovium."
+  ],
+  "authorString": [
+    "Qadri M, Jay GD, Zhang LX, Richendrfer H, Schmidt TA, Elsaid KA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qadri M"
+          ],
+          "firstName": [
+            "Marwa"
+          ],
+          "lastName": [
+            "Qadri"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biomedical and Pharmaceutical Sciences, Chapman University School of Pharmacy, Rinker Health Sciences Campus, 9401 Jeronimo Road, Irvine, CA, 92618, USA.",
+                "Department of Pharmacology, College of Pharmacy, Jazan University, Jazan, 82826, Saudi Arabia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jay GD"
+          ],
+          "firstName": [
+            "Gregory D"
+          ],
+          "lastName": [
+            "Jay"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Emergency Medicine, Rhode Island Hospital, Providence, RI, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang LX"
+          ],
+          "firstName": [
+            "Ling X"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "LX"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Emergency Medicine, Rhode Island Hospital, Providence, RI, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Richendrfer H"
+          ],
+          "firstName": [
+            "Holly"
+          ],
+          "lastName": [
+            "Richendrfer"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Emergency Medicine, Rhode Island Hospital, Providence, RI, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schmidt TA"
+          ],
+          "firstName": [
+            "Tannin A"
+          ],
+          "lastName": [
+            "Schmidt"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biomedical Engineering Department, School of Dental Medicine, University of Connecticut, Farmington, CT, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elsaid KA"
+          ],
+          "firstName": [
+            "Khaled A"
+          ],
+          "lastName": [
+            "Elsaid"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8925-4255",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biomedical and Pharmaceutical Sciences, Chapman University School of Pharmacy, Rinker Health Sciences Campus, 9401 Jeronimo Road, Irvine, CA, 92618, USA. elsaid@chapman.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8925-4255",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2949239"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Arthritis Research & Therapy"
+          ],
+          "ISOAbbreviation": [
+            "Arthritis Res. Ther."
+          ],
+          "medlineAbbreviation": [
+            "Arthritis Res Ther"
+          ],
+          "NLMid": [
+            "101154438"
+          ],
+          "ISSN": [
+            "1478-6354"
+          ],
+          "ESSN": [
+            "1478-6362"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "113"
+  ],
+  "abstractText": [
+    "BACKGROUND:Synovial tissue fibrosis is common in advanced OA with features including the presence of stress fiber-positive myofibroblasts and deposition of cross-linked collagen type-I. Proteoglycan-4 (PRG4) is a mucinous glycoprotein secreted by synovial fibroblasts and is a major component of synovial fluid. PRG4 is a ligand of the CD44 receptor. Our objective was to examine the role of PRG4-CD44 interaction in regulating synovial tissue fibrosis in vitro and in vivo. METHODS:OA synoviocytes were treated with TGF-β ± PRG4 for 24 h and α-SMA content was determined using immunofluorescence. Rhodamine-labeled rhPRG4 was incubated with OA synoviocytes ± anti-CD44 or isotype control antibodies and cellular uptake of rhPRG4 was determined following a 30-min incubation and α-SMA expression following a 24-h incubation. HEK-TGF-β cells were treated with TGF-β ± rhPRG4 and Smad3 phosphorylation was determined using immunofluorescence and TGF-β/Smad pathway activation was determined colorimetrically. We probed for stress fibers and focal adhesions (FAs) in TGF-β-treated murine fibroblasts and fibroblast migration was quantified ± rhPRG4. Synovial expression of fibrotic markers: α-SMA, collagen type-I, and PLOD2 in Prg4 gene-trap (Prg4GT) and recombined Prg4GTR animals were studied at 2 and 9 months of age. Synovial expression of α-SMA and PLOD2 was determined in 2-month-old Prg4GT/GT&Cd44-/- and Prg4GTR/GTR&Cd44-/- animals. RESULTS:PRG4 reduced α-SMA content in OA synoviocytes (p < 0.001). rhPRG4 was internalized by OA synoviocytes via CD44 and CD44 neutralization attenuated rhPRG4's antifibrotic effect (p < 0.05). rhPRG4 reduced pSmad3 signal in HEK-TGF-β cells (p < 0.001) and TGF-β/Smad pathway activation (p < 0.001). rhPRG4 reduced the number of stress fiber-positive myofibroblasts, FAs mean size, and cell migration in TGF-β-treated NIH3T3 fibroblasts (p < 0.05). rhPRG4 inhibited fibroblast migration in a macrophage and fibroblast co-culture model without altering active or total TGF-β levels. Synovial tissues of 9-month-old Prg4GT/GT animals had higher α-SMA, collagen type-I, and PLOD2 (p < 0.001) content and Prg4 re-expression reduced these markers (p < 0.01). Prg4 re-expression also reduced α-SMA and PLOD2 staining in CD44-deficient mice. CONCLUSION:PRG4 is an endogenous antifibrotic modulator in the joint and its effect on myofibroblast formation is partially mediated by CD44, but CD44 is not required to demonstrate an antifibrotic effect in vivo."
+  ],
+  "affiliation": [
+    "Department of Biomedical and Pharmaceutical Sciences, Chapman University School of Pharmacy, Rinker Health Sciences Campus, 9401 Jeronimo Road, Irvine, CA, 92618, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01AR067748"
+          ],
+          "agency": [
+            "NIAMS NIH HHS"
+          ],
+          "acronym": [
+            "AR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "SMA",
+        "myofibroblast",
+        "CD44",
+        "Proteoglycan-4",
+        "Synovial Fibrosis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13075-020-02207-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7222325"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7222325?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13075-020-02207-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR152953"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-15"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-22"
+  ],
+  "dateOfRevision": [
+    "2020-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-13"
+  ],
+  "firstPublicationDate": [
+    "2020-05-13"
+  ]
+}

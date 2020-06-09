@@ -1,0 +1,407 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Venom Anim Toxins Incl Trop Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Venom Anim Toxins Incl Trop Dis</journal-id><journal-id journal-id-type="publisher-id">jvatitd</journal-id><journal-title-group><journal-title>The Journal of Venomous Animals and Toxins Including Tropical Diseases</journal-title></journal-title-group><issn pub-type="epub">1678-9199</issn><publisher><publisher-name>Centro de Estudos de Venenos e Animais Pe&#x000e7;onhentos</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7216824</article-id><article-id pub-id-type="doi">10.1590/1678-9199-JVATITD-2019-0073</article-id><article-id pub-id-type="other">00501</article-id><article-categories><subj-group subj-group-type="heading"><subject>Short Communication</subject></subj-group></article-categories><title-group><article-title>Neutrophils activated by BJcuL, a C-type lectin isolated from
+<italic>Bothrops jararacussu</italic> venom, decrease the invasion potential
+of neuroblastoma SK-N-SH cells <italic>in vitro</italic>
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Carneiro-Goetten</surname><given-names>Jessica Ohana Lemes</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Rodrigues</surname><given-names>Bruna Santos</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Nogoceke</surname><given-names>Rodrigo Amauri</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>do Nascimento</surname><given-names>Thatyanne Gradowski</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Moreno-Amaral</surname><given-names>Andrea Novais</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Stuelp-Campelo</surname><given-names>Patricia Maria</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-8676-134X</contrib-id><name><surname>Elifio-Esposito</surname><given-names>Selene</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="c1">*</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>Programa de P&#x000f3;s-gradua&#x000e7;&#x000e3;o em Ci&#x000ea;ncias da Sa&#x000fa;de, Pontif&#x000ed;cia
+Universidade Cat&#x000f3;lica do Paran&#x000e1; (PUCPR), Curitiba, PR, Brazil. </aff><aff id="aff2">
+<label>2</label>Escola de Ci&#x000ea;ncias da Vida, Pontif&#x000ed;cia Universidade Cat&#x000f3;lica do
+Paran&#x000e1; (PUCPR), Curitiba, PR, Brazil. </aff><author-notes><corresp id="c1"><label>*</label>Correspondence to: <email>seleneesposito@gmail.com</email></corresp><fn fn-type="COI-statement" id="fn3"><p><bold>Competing interests:</bold> The authors declare that they have no competing interests.</p></fn><fn fn-type="con" id="fn4"><p><bold>Authors' contributions:</bold> JOLCG, BSR, and RAN performed experiments and analysis. TGN, ANMA, and PMSC
+participated in the design and interpretation of the data. SEE conceived
+this research, designed experiments and wrote the paper. All authors read
+and approved the final manuscript.</p></fn></author-notes><pub-date pub-type="epub"><day>11</day><month>5</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>26</volume><elocation-id>e20190073</elocation-id><history><date date-type="received"><day>18</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>01</day><month>4</month><year>2020</year></date></history><permissions><license license-type="open-access"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits
+unrestricted use, distribution, and reproduction in any medium, provided you
+give appropriate credit to the original author(s) and the source, provide a
+link to the Creative Commons license, and indicate if changes were made. The
+Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">
+http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to
+the data made available in this article, unless otherwise stated.
+</license-p></license></permissions><abstract><title>ABSTRACT</title><sec><title>Background:</title><p>Neuroblastoma is a pediatric tumor with a mortality rate of 40% in the most
+aggressive cases. Tumor microenvironment components as immune cells
+contribute to the tumor progression; thereby, the modulation of immune cells
+to a pro-inflammatory and antitumoral profile could potentialize the
+immunotherapy, a suggested approach for high-risk patients. Preview studies
+showed the antitumoral potential of BJcuL, a C- type lectin isolated from
+<italic>Bothrops jararacussu</italic> venom. It was able to induce
+immunomodulatory responses, promoting the rolling and adhesion of leukocytes
+and the activation of neutrophils.</p></sec><sec><title>Methods:</title><p>SK-N-SH cells were incubated with conditioned media (CM) obtained during the
+treatment of neutrophils with BJcuL and fMLP, a bacteria-derived peptide
+highly effective for activating neutrophil functions. Then we evaluated the
+effect of the same stimulation on the co-cultivation of neutrophils and
+SK-N-SH cells. Tumor cells were tested for viability, migration, and
+invasion potential.</p></sec><sec><title>Results:</title><p>In the viability assay, only neutrophils treated with BJcuL (24 h) and
+cultivated with SK-N-SH were cytotoxic. Migration of tumor cells decreased
+when incubated directly (p &#x0003c; 0.001) or indirectly (p &#x0003c; 0.005) with
+untreated neutrophils. When invasion potential was evaluated, neutrophils
+incubated with BJcuL reduced the total number of colonies of SK-N-SH cells
+following co-cultivation for 24 h (p &#x0003c; 0.005). Treatment with CM resulted
+in decreased anchorage-free survival following 24 h of treatment (p &#x0003c;
+0.001).</p></sec><sec><title>Conclusion:</title><p>Data demonstrated that SK-N-SH cells maintain their migratory potential in
+the face of neutrophil modulation by BJcuL, but their invasive capacity was
+significantly reduced.</p></sec></abstract><kwd-group><title>Keywords:</title><kwd>Snake venom</kwd><kwd>Neuroblastoma</kwd><kwd>SK-N-SH cells</kwd><kwd>C-type lectin</kwd><kwd>Polymorphonuclear leukocyte</kwd><kwd>Neoplasm invasion</kwd></kwd-group><counts><fig-count count="5"/><table-count count="0"/><equation-count count="0"/><ref-count count="49"/></counts></article-meta></front><body><sec><title>Background</title><p>BJcuL is a lectin isolated from <italic>Bothrops jararacussu</italic> snake venom. It
+is a typical representative of the C-type animal lectin superfamily, having the
+carbohydrate recognition domain (CRD), and exhibiting specificity for
+&#x003b2;-<sc>d</sc>-galactosides [<xref rid="B1" ref-type="bibr">1</xref>]. Previous
+studies have shown that BJcuL has immunomodulatory effects. It can increase the
+adhesion and rolling of leukocytes in the endothelium of pre-capillary vessels
+[<xref rid="B2" ref-type="bibr">2</xref>], cause edema and increased vascular
+permeability when injected into mouse hind paw [<xref rid="B3" ref-type="bibr">3</xref>]. We have shown that BJcuL modulates macrophage differentiation
+towards a Th1 profile <italic>in vitro,</italic> with induction of phagocytosis,
+production of ROS [<xref rid="B4" ref-type="bibr">4</xref>], and secretion of
+pro-inflammatory cytokines, including TNF-&#x003b1;, IL-6, IL-8, and GM-CSF [<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B5" ref-type="bibr">5</xref>].
+BJcuL is also capable of modulating neutrophils to a pro-inflammatory phenotype,
+inducing the production of anion superoxide and increased phagocytic function [<xref rid="B6" ref-type="bibr">6</xref>].</p><p>In the tumor microenvironment (TME) cancer cells interact with extracellular matrix
+(ECM) proteins and non-tumor cells like fibroblasts, mesenchymal cells, and mature
+immune cells [<xref rid="B7" ref-type="bibr">7</xref>-<xref rid="B9" ref-type="bibr">9</xref>] that establish the overall characteristics of the tumor [<xref rid="B10" ref-type="bibr">10</xref>]. For example, cross talk between tumor
+cells and neutrophils can be a determinant in tumor progression. The first direct
+evidence of the cytotoxic effects of neutrophils on tumor cells was reported in 1972
+[<xref rid="B11" ref-type="bibr">11</xref>], and since then many studies have
+contributed to this knowledge, as reviewed by Souto et al. [<xref rid="B12" ref-type="bibr">12</xref>]. Current data support a dual role for neutrophils in cancer
+biology, in which cytotoxic neutrophils, called N1, contribute to tumor rejection or
+increase immunological memory, thus combating tumor progression, and, on the other
+side of this spectrum, N2 neutrophils may enable tumor development, invasion, and
+metastasis [<xref rid="B13" ref-type="bibr">13</xref>]. </p><p>Neuroblastoma (NB) is an extracranial tumor that may present during fetal development
+or early after birth, derived from the neural crest neuroepithelial cells [<xref rid="B14" ref-type="bibr">14</xref>]. It is characterized by heterogeneity and a
+broad spectrum of clinical behaviors ranging from spontaneous regression without any
+medical intervention to treatment resistant tumors with metastatic spread and poor
+patient survival [<xref rid="B15" ref-type="bibr">15</xref>-<xref rid="B17" ref-type="bibr">17</xref>]. Although there have been advances in the study, diagnosis,
+and treatment of NB, most patients with advanced disease do not enter remission even
+after treatment with multimodal therapies [<xref rid="B18" ref-type="bibr">18</xref>], which may include immunotherapy in the post-consolidation phase [<xref rid="B19" ref-type="bibr">19</xref>-<xref rid="B22" ref-type="bibr">22</xref>].</p><p>In this study, we investigate the potential of BJcuL to induce an N1 or antitumoral
+phenotype in neutrophils by analyzing the migration and invasion capabilities of NB
+cells following treatment and, thus, highlight the potential of using animal toxins
+and neutrophil modulation and showcase their use as effective weapons against
+chemotherapy-resistant solid tumors.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Materials</title><p>RPMI 1640 medium, fetal bovine serum (FBS), penicillin/streptomycin and trypsin
+were purchased from GIBCO (USA). Histopaque<sup>&#x000ae;</sup> 1077 and 1119, fMLP
+(N-formyl-L-methionyl-L-leucyl-L-phenylalanine), DCFH-DA
+(2&#x02032;,7&#x02032;-Dichlorofluorescin diacetate) and methylene blue were all from
+Sigma-Aldrich (USA). </p></sec><sec><title>Cells</title><p>Human neuroblastoma cells SK-N-SH (ATCC<sup>&#x000ae;</sup> HTB-11&#x02122;) were cultured in
+RPMI 1640 medium supplemented with 100 IU/mL penicillin and 0.1 mg/mL
+streptomycin. Heat inactivated fetal bovine serum (FBS) was added to a final 10%
+concentration for culture expansion steps, or 2% for the scratch wound healing
+assay. The cultures were maintained in a humid incubator at 37&#x000b0;C, with 5%
+CO<sub>2</sub>.</p><p>Polymorphonuclear neutrophils (PMN) were isolated from peripheral blood of
+healthy adults aged 20-40 years using a Histopaque<sup>&#x000ae;</sup> density gradient
+as described by the manufacturer with minor modifications (<xref ref-type="fig" rid="f1">Figure 1A</xref>). Peripheral blood was centrifuged at 1000 x
+<italic>g</italic> for 20 min, and plasma was then centrifuged at 2000 x
+<italic>g</italic> for 10 min to remove platelets. Plasma was then returned
+to the collection tube and homogenized with the remaining blood cells.
+Platelet-poor blood (6 mL) was added to tubes containing Histopaque 1119 + 1077
+(6 mL), and centrifuged at 700 x <italic>g</italic> for 45 min. The PMN layer
+was collected and centrifuged at 700 x <italic>g</italic> for 5 min to allow for
+the removal of residual Histopaque<sup>&#x000ae;</sup>, and then mixed back into red
+blood cells (RBC) and plasma for a second round of centrifugation aiming to a
+better recovery of PMN without contamination with RBC or peripheral blood
+mononuclear cells (PBMC). </p><p>Aliquots of the PMN populations were analyzed on an Accuri<sup>TM</sup> C6
+cytometer (BD Biosciences) for size (FSC, forward scatter) and complexity (SSC,
+side scatter) characterization (<xref ref-type="fig" rid="f1">Figure 1B</xref>).
+A differential blood cell count (ABX MICROS 60 automatic counter) was performed
+before PMN isolation to verify that the cells were not pre-activated, based in
+the number of PMN cells in the complete blood count (CBC). Any alteration in
+percentage of PMN can indicate infection and thus a possible pre-activation of
+those cells. Therefore, only the blood which presented differential count with
+normal percentages of PMN was used.</p><p>
+<fig id="f1" orientation="portrait" position="float"><label>Figure 1.</label><caption><title>Isolation of neutrophils from human peripheral blood. Whole blood
+underwent a prior centrifugation step to isolate plasma and remove
+platelets. <bold>(A)</bold> Platelet-poor blood was used for the
+first fractionation step using Histopaque<sup>&#x000ae;</sup> 1077 and 1119,
+resulting in four distinct layers: plasma, peripheral blood
+mononuclear cells (PBMC), polymorphonuclear neutrophils (PMN), and
+red blood cells (RBC). Plasma, PMN and RBC were reunited for a
+second isolation to allow us to obtain a PMN-enriched fraction.
+<bold>(B)</bold> Flow cytometry analysis of various fractions.
+Dot plot showing the mixture of PMN, RBC and PBMC in layer 3, and
+the high concentration of PMN (layer 5).</title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190073-gf1"/></fig>
+</p></sec><sec><title>
+<bold><italic>Bothrops jararacussu</italic> lectin (BJcuL)</bold>
+</title><p>
+<italic>B. jararacussu</italic> venom was supplied by the Butantan Institute,
+S&#x000e3;o Paulo, Brazil. BJcuL was purified by affinity chromatography using an
+agarose-D-galactose column and characterized as previously described by
+Elifio-Esposito et al<italic>.</italic> [<xref rid="B2" ref-type="bibr">2</xref>].</p></sec><sec><title>Stimulation of SK-N-SH cells</title><p>SK-N-SK cells (1 x 10<sup>6</sup> cells/mL) were co-cultured with neutrophils
+(2.5 x 10<sup>5</sup> cells/mL) on a 24-well plate (300 &#x000b5;L/well), for 24 h in
+RPMI with or without BJcuL (2.5 &#x003bc;g/mL) or fMLP (10 &#x000b5;M).</p><p>To obtain the conditioned media (CM), neutrophils (2.5 x 10<sup>5</sup> cells/mL)
+cultured in a 6-well plate (1 mL/well) were incubated with BJcuL (2.5 &#x003bc;g/mL),
+fMLP (10 &#x000b5;g/mL), or 2% RPMI (untreated control) for 1 h or 24 h. The
+supernatants were collected, centrifuged (2000 x <italic>g</italic> for 5 min),
+filtered (0.22 &#x000b5;m), and kept frozen at -80&#x000b0;C until use. After the removal of the
+CM, neutrophils from each treatment were stained with a DCFH-DA probe, according
+to the manufacturer's instructions and analyzed using an Accuri flow cytometer
+(BD Biosciences), to estimate the intracellular hydrogen peroxide level. For
+treatment of NB cells, CM was diluted 1:2 (v/v) with RPMI (2% FBS) and added to
+wells containing the SK-N-SH tumor cells and incubated for 24 h.</p></sec><sec><title>Scratch Wound Healing (SWH)</title><p>
+<italic>In vitro</italic> cell migration was evaluated using the scratch wound
+healing (SWH) method, according to the previously described protocol [<xref rid="B23" ref-type="bibr">23</xref>], with the following modifications. NB
+cells (3.5 x10<sup>5</sup> cells) were transferred to a 24-well plate, and after
+24 h the cell monolayer was mechanically scratched. Detached cells were removed
+by washing with RPMI. Cells were then treated for 24 h, as described before.
+After treatment, cells were washed with RPMI and maintained in culture for
+another 24 h. Photomicrographs of the wounds were taken immediately after their
+formation (0 h) and at 48 h after (T48) using an EVOS<sup>&#x000ae;</sup> XL microscope.
+The wound width at T0 and T48 was measured using the ImageJ software plugin
+(NIH, USA), and the migration distance was determined as the difference in width
+between T0 and T48.</p></sec><sec><title>Cell viability assay</title><p> SK-N-SH cell viability was determined directly on the plate using the SWH test,
+following the protocol described previously [<xref rid="B24" ref-type="bibr">24</xref>], with some modifications. Briefly, after completion of the SWH
+assay, medium was removed, and 200 &#x000b5;L of methanol was added, and allowed to fix
+for 10 min. Cells were then stained with 300 &#x000b5;L of 0.05% methylene blue for 10
+min. Plates were washed by immersion and remained at room temperature for drying
+for 24 h. About 300 &#x000b5;L of 0.1 M HCl was added and plates were agitated for 10
+min. Following which 100 &#x000b5;L from each well was transferred to a 96-well plate
+for absorbance reading on a microplate reader (ThermoPlate, TP Reader), at a
+wavelength of 630 nm.</p></sec><sec><title>Soft agar anchorage-free survival test</title><p>The soft agar test was performed in 48-well plates as previously described [<xref rid="B25" ref-type="bibr">25</xref>]. The bottom layer was made up of 250 &#x000b5;L
+of 2X RPMI medium containing 20% of FBS and 250 &#x000b5;L of 1.2% agar in water. The
+upper layer consisted of 250 &#x000b5;L of 2X RPMI medium (20% FBS), 2 x 10<sup>3</sup>
+SK-N-SH cells, 125 &#x003bc;L of 1.2% agar and 125 &#x003bc;L of water. Every 72 h, 30 &#x000b5;L of 1X
+RPMI medium (10% FBS) was added to form the feeding layer. SK-N-SH cells were
+treated by the direct (BJcul or fMLP) or indirect method (CM) for 24 h prior to
+being added to the upper layer. Results were obtained by direct colony counting
+following 14 days of culture.</p></sec><sec><title>Statistical Analysis</title><p>The results for the quantitative tests are represented by the mean &#x000b1; standard
+deviation. Statistical analysis was performed by ANOVA, followed by multiple
+comparison testing using the Tukey's or Dunnett&#x02019;s test. Statistical significance
+was assigned for values where p &#x0003c; 0.05. Analyses were performed using
+GraphPad Prism Software, version 8.0 (La Jolla California, USA).</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>SK-N-SH cell migration is reduced in the presence of neutrophils and BJcuL
+reverses this effect</title><p>The effects of BJcuL on NB cell migration were assessed by SWH assays following
+two distinct stimulation procedures. In the indirect method, NB cells were
+incubated for 24 h with conditioned media (CM) generated by culturing
+neutrophils in RPMI medium containing BJcuL or fMLP for 1 h (NE1h-CM) or 24 h
+(NE24h-CM). In the direct method, NB cells were co-cultivated with neutrophils
+for 24 h, in the presence of BJcuL or fMLP. We also verified the direct effects
+of BJcuL or fMLP on tumor cells, in the absence of neutrophils. </p><p>For the indirect assay, media obtained from non-stimulated neutrophils reduced
+the migration rate of SK-N-SH cells when compared to RPMI control, although a
+significant difference was found only for the 1h group. Even so, for both 1 h or
+24 h conditions, CM from neutrophils treated with BJcuL and fMLP improved cell
+migration compared to CM-RPMI, restoring the migration capacity, closer to RPMI
+control (<xref ref-type="fig" rid="f2">Figure 2</xref> and <xref ref-type="supplementary-material" rid="suppl1">Additional file 1</xref>).
+Cell viability analysis was done to exclude the possibility that the behavior
+observed in the SWH assay was the result of cellular proliferation. The
+viability of the neuroblastoma cells was not affected in treatments with
+conditioned media. </p><p>
+<fig id="f2" orientation="portrait" position="float"><label>Figure 2.</label><caption><title>Analysis of migration and viability of SK-N-SH incubated with
+neutrophil conditioned media (CM). NB cells (1x10<sup>6</sup>
+cell/mL) were incubated for 24 h in a 24-well plate (300 &#x000b5;L/well)
+with 1:2 (v/v) neutrophil-conditioned media (CM). CMs were generated
+by culturing neutrophils in RPMI, 2.5 &#x000b5;g/mL BJcuL or 10 &#x000b5;M fMLP for
+1 h (NE1h-CM) or 24 h (NE24h-CM). Quantitative results are
+represented as means &#x000b1; standard deviation (SD) of the migration
+distance (&#x000b5;m), determined as the difference in wound width at T0 and
+T48 (T0-T48; n = 12). After the completion of the migration assay,
+the viability assay of the NB cells in each condition was
+established. Viability results are represented as mean &#x000b1; SD (n = 10)
+of viable cells normalized to the untreated control (RPMI). Data
+were obtained from at least three independent assays. Statistical
+analysis was performed by one-way ANOVA and Tukey's test with
+significance reported as *p &#x0003c; 0.05; **p &#x0003c; 0.005 and ***p &#x0003c;
+0.001. # indicates difference comparing with RPMI control.</title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190073-gf2"/></fig>
+</p><p>Following the same pattern, the direct incubation with neutrophils (NE-RPMI)
+reduced SK-N-SH migration, which was restored to RPMI control values when BJcuL
+or fMLP were added to the system (<xref ref-type="fig" rid="f3">Figure
+3</xref>). When BJcuL was used as a direct stimulant for 1 h (data not shown) or
+24 h, it did not change the migration rate of SK-N-SH cells, when compared with
+untreated cells (RPMI). NB cell viability was not affected by BJcuL alone, but
+when it was added to the neutrophil co-culture, we observed an almost 20%
+reduction in the number of viable cells (<xref ref-type="fig" rid="f3">Figure
+3</xref>).</p><p>
+<fig id="f3" orientation="portrait" position="float"><label>Figure 3.</label><caption><title>Analysis of migration and viability of SK-N-SH co-cultured with
+neutrophils. SK-N-SH cells (1 x 10<sup>6</sup> cells/mL) were
+incubated with RPMI, 2.5 &#x000b5;g/mL BJcuL or 10 &#x000b5;M fMLP alone or in
+co-culture with human neutrophils (NE; 2.5 x 10<sup>5</sup>
+cells/mL) for 24 h in a 24-well plate (300 &#x000b5;L/well). Results
+represent mean &#x000b1; SD of the migration distance, determined as T0-T48
+(n = 12). Viability results are represented as mean &#x000b1; SD (n = 10) of
+viable cells normalized to the untreated control (RPMI). Data were
+obtained from at least three independent assays. Statistical
+analysis was performed by one-way ANOVA and Tukey's test with
+significance shown as *p &#x0003c; 0.05 and ***p &#x0003c; 0.001. # indicates
+difference comparing with RPMI control.</title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190073-gf3"/></fig>
+</p></sec><sec><title>Neutrophils treated with BJcuL reduce the invasion of SK-N-SH cells</title><p>The invasion capacity of tumor cells <italic>in vitro</italic> was determined
+using the soft agar method. The principle of this method is that malignantly
+transformed cells lose their anchorage dependence and can grow and form colonies
+within a semi-solid agar matrix. All tested conditions, i.e., with direct or
+indirect stimulation of SK-N-SH cells, led to a decrease in the number of
+colonies when compared to the RPMI group. After 24 h of co-culture with
+neutrophils in RPMI alone (NE-RPMI) or in the presence of BJcuL or fMLP
+(NE-BJcuL; NE-fMLP), the invasion capacity of SK-N-SH was reduced by
+approximately 30%, when compared to the untreated control (RPMI). Incubation of
+tumor cells with the conditioned media (CM-RPMI) also reduced the number of
+colonies, which was more pronounced for the CM from neutrophils treated with
+BJcuL (CM-BJcuL) and fMLP (CM-fMLP), with a drop of 40% and 35% in the number of
+colonies, respectively, when compared with the RPMI control (<xref ref-type="fig" rid="f4">Figure 4</xref>). </p><p>
+<fig id="f4" orientation="portrait" position="float"><label>Figure 4.</label><caption><title>Anchorage-free survival assay of SK-N-SH cells after incubation
+with various stimuli. SK-N-SH cells (2 x 10<sup>3</sup> cells/well)
+were incubated for 24 h with RPMI, BJcuL (2.5 &#x003bc;g/mL) or fMLP (10
+&#x003bc;M), or conditioned neutrophil media (CM-RPMI, CM-BJcuL or CM-fMLP).
+SK-N-SH cells were also stimulated for 24 h with neutrophils in
+association with BJcuL, fMLP or 2% RPMI. After treatment SK-N-SH
+cells were dissociated, washed and plated on a mirror plate
+containing soft agar layers. Results are represented as mean &#x000b1; SD (n
+= 8) of the total number of colonies counted in each well. Data were
+collected from at least two independent assays. The statistical
+comparison among groups was performed by one-way ANOVA (p &#x0003c;
+0.05). Dunnetts's test was used to compare all treatments with the
+RPMI group. Significance is represented as *p &#x0003c; 0.05; **p &#x0003c;
+0.005 and ***p &#x0003c; 0.001. # represents the comparison of treatments
+with the respective control (CM-RPMI).</title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190073-gf4"/></fig>
+</p></sec><sec><title>BJcuL stimulates the production of hydrogen peroxide by neutrophils</title><p>Neutrophils employed for the production of the CMs had their pro-inflammatory
+activity assessed by monitoring ROS production after incubation with BJcuL and
+fMLP for 1h and 24 h. It was added a 12h-stimulation condition to uncover the
+profile of ROS production along time, even if no CM was generated for this time
+point. BJcuL and fMLP stimulated cells showed a higher level of intracellular
+hydrogen peroxide when compared to the untreated control (<xref ref-type="fig" rid="f5">Figure 5</xref>). For fMLP treated cells there was a significant
+increase after 1 h of stimulation, which gradually reduced to the 24 h time
+point. BJcuL produced the opposite profile, with low intracellular ROS content
+after 1 h of stimulation, and a statistically significant increase in ROS
+production after 12 h and 24 h.</p><p>
+<fig id="f5" orientation="portrait" position="float"><label>Figure 5.</label><caption><title>Determination of neutrophil intracellular hydrogen peroxide
+production. Neutrophils were treated with BJcuL (2.5 &#x000b5;g/mL) or fMLP
+(10 &#x000b5;M) for 1, 12, and 24 h and stained with DCFH-DA for flow
+cytometric analysis. Results are represented as mean &#x000b1; SD.
+Statistical analysis was done using ANOVA and Dunnett&#x02019;s test for
+comparison of treated groups with untreated control (RPMI).
+Statistical significance is represented as *p &#x0003c; 0.05, and ***p
+&#x0003c; 0.001.</title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190073-gf5"/></fig>
+</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>C-type lectins are among the main components exhibiting pro-inflammatory activity in
+viper snake venoms [<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B26" ref-type="bibr">26</xref>-<xref rid="B28" ref-type="bibr">28</xref>]. The
+pro-inflammatory potential of <italic>B. jararacussu</italic> venom lectin was
+reported previously [<xref rid="B2" ref-type="bibr">2</xref>-<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B29" ref-type="bibr">29</xref>], which includes
+the induction of neutrophil polarization [<xref rid="B6" ref-type="bibr">6</xref>].
+In this study, we demonstrated that the modulation of neutrophils by BJcuL reduced
+the viability and invasion capacity of human neuroblastoma cells <italic>in
+vitro</italic>. As neutrophil polarization is likely driven by TME [<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B31" ref-type="bibr">31</xref>],
+neutrophils were tested in the presence and absence of tumor cells.</p><p>Exogenous chemotaxins, as fMLP , attract neutrophils to inflammatory sites to
+recognize and kill pathogens through a combination of cytotoxic mechanisms [<xref rid="B32" ref-type="bibr">32</xref>, <xref rid="B33" ref-type="bibr">33</xref>].
+Emerging evidence supports that neutrophils may also be cytotoxic to tumor cells
+[<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B34" ref-type="bibr">34</xref>]. Our results show that a significant reduction in SK-N-SH cell
+viability occurs when they are cultivated directly with neutrophils for 24 h in the
+presence of BJcuL, but not fMLP (<xref ref-type="fig" rid="f2">Figures 2</xref> and
+<xref ref-type="fig" rid="f3">3</xref>), which is consistent with the increasing
+levels of intracellular hydrogen peroxide found by BJcuL-treated neutrophils within
+24 h (<xref ref-type="fig" rid="f5">Figure 5</xref>). ROS-mediated cell killing was
+shown to be dependent on tumor cell expression of TRPM2, an H2O2-dependent calcium
+channel, which upon activation results in a lethal influx of calcium ions into the
+cell [<xref rid="B35" ref-type="bibr">35</xref>, <xref rid="B36" ref-type="bibr">36</xref>]. The conditioned media generated by the cultivation of neutrophils
+did not affect NB cell viability, which may be due to the different in the
+concentration of the cytotoxic agents, as the CM was diluted for the incubation with
+NB cells.</p><p>As previously reported, BJcuL reduces the degree of late apoptosis in neutrophils,
+decreasing in 50% in the number of apoptotic cells after 24 h of incubation [<xref rid="B6" ref-type="bibr">6</xref>]. A recent study showed that mediators of
+delayed apoptotic cell death pathways of N1 cells can keep the system in the
+safe-guard immune N1 zone [<xref rid="B37" ref-type="bibr">37</xref>]. BJcuL could
+induce PMNs to exert a direct cytotoxic effect on tumor cells, and also favor the
+maintenance of an activated profile with effects on other aspects of tumor
+progression.</p><p>Metastasis remains the leading cause of death for patients with cancer [<xref rid="B38" ref-type="bibr">38</xref>]. It is a multistep process that involves
+the collective cell migration, which heavily relies on the cooperation of the
+cytoskeleton, the cellular surface adhesion proteins, and the extracellular matrix
+(ECM) components [<xref rid="B39" ref-type="bibr">39</xref>, <xref rid="B40" ref-type="bibr">40</xref>]. The secretion of cytokines by neutrophils, like components
+of the IL-6 family and IL-8, for example, as well as growth factors [<xref rid="B41" ref-type="bibr">41</xref>-<xref rid="B43" ref-type="bibr">43</xref>],
+can promote ECM remodeling in the TME [94]. Furthermore, mature neutrophils possess
+granules containing a reservoir of enzymes, including myeloperoxidase (MPO),
+neutrophil elastase (NE), and also metalloproteinases (MMPs), capable of remodeling
+the ECM by stabilizing integrins [<xref rid="B44" ref-type="bibr">44</xref>]. Cell
+adhesion mediated mainly through the interaction of integrin receptors with their
+ECM ligands is a requirement for many cell types to proliferate and survive [<xref rid="B45" ref-type="bibr">45</xref>].</p><p>In this study, we found by SWH assay, a significant reduction in tumor cell migration
+when SK-N-SH cells were incubated directly with untreated neutrophils. These results
+were unexpected considering that circulating "normal" PMNs are described not to
+affect the adhesion and migration of tumor cells [<xref rid="B46" ref-type="bibr">46</xref>]. Regardless, the addition of either BJcuL or fMLP, both described to
+increase the pro-inflammatory potential of neutrophil, increased the migration
+capacity of NB cells. Neutrophil-tumor cell interaction was not the determining
+factor in this case, as the direct and indirect stimulation resulted in the same
+way. Furthermore, anchorage-free survival assays showed that incubation with
+untreated or stimulated neutrophils reduced the invasive power of neuroblastoma
+cells, which is even greater in the presence of BJcuL or fMLP. </p><p>The recognition of specific glycans by lectins represents a key event in a variety of
+biological phenomena involving cell-cell and cell-ECM component interactions [<xref rid="B47" ref-type="bibr">47</xref>, <xref rid="B48" ref-type="bibr">48</xref>].
+BJcuL, as Galatrox, another C-type lectin derived from <italic>B. atrox</italic>
+snake venom, can interact with glycans on neutrophils and macrophages surfaces, as
+well as with ECM proteins. They have been described also as stimulants of the
+neutrophils release of pro-inflammatory mediators, others than ROS, such as IL-6,
+and TNF-&#x003b1; [<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B2" ref-type="bibr">2</xref>, <xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B49" ref-type="bibr">49</xref>]. These properties together could favor and stabilize
+cellular adhesion, facilitating migration but also reducing anchorage-free
+survival.</p><p>The complexity of the tumor microenvironment cannot be easily recapitulated
+<italic>in vitro</italic>. The master signals exchanged between various cell
+types within the tumor mass is critical, and evidence supports that cytokines
+control pro-tumor versus anti-tumor immune responses by polarizing neutrophil
+subpopulations to N1 or N2 phenotypes. However, even with the limitations, we
+reinforce in this study, that BJcuL affects the behavior of neutrophils <italic>in
+vitro</italic> and that such action can be a mechanism to be explored in order
+to better understand the processes involved in neutrophils anti-invasive action.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Our results showed that BJcuL-treated neutrophils could significantly affect the
+behavior of neuroblastoma cells <italic>in vitro</italic>. Viability was reduced
+when neutrophils were co-cultivated with the tumor cells, while the increment of
+cellular migration and the reduction of anchorage-free survival were also observed
+by the incubation of tumor cells with the neutrophil-conditioned media. Efforts must
+be made to identify the signaling molecules exposed on the cellular surface or
+secreted by neutrophils in order to explain the presented data.</p><sec><title>Abbreviations</title><p>CBC: complete blood count; CM: conditioned media; CRD: carbohydrate recognition
+domain; ECM: extracellular matrix; FBS: fetal bovine serum; FSC: forward
+scatter; MMPs: metalloproteinases; MPO: myeloperoxidase; NB: neuroblastoma; NE:
+neutrophil elastase; PBMC: peripheral blood mononuclear cells; PMN:
+polymorphonuclear neutrophils; RBC: red blood cells; SSC: side scatter; SWH:
+scratch wound healing; TME: tumor microenvironment.</p></sec></sec></body><back><ack><title>Acknowledgments</title><p>Authors would like to thank the Butantan Institute, S&#x000e3;o Paulo, Brazil for the supply
+of <italic>Bothrops jararacussu</italic> venom and Dr. Sandra M. W. Barreira,
+Federal University of Paran&#x000e1;, for her help in obtaining BJcuL.</p></ack><fn-group><fn fn-type="other" id="fn1"><p><bold>Availability of data and materials:</bold> The dataset generated during and/or analyzed during the current study are
+available from the corresponding author on reasonable request.</p></fn><fn fn-type="financial-disclosure" id="fn2"><p><bold>Funding:</bold> This work was funded by the Araucaria Foundation for the Support of Scientific
+and Technological Development in the State of Paran&#x000e1; (FA-PBA/PUCPR 09/2016),
+Brazil, and the Coordination for the Improvement of Higher Education Personnel
+(CAPES-COFECUB 16/2015 #880/2017, Finance Code 001).</p></fn><fn fn-type="other" id="fn5"><p><bold>Ethics approval:</bold> All the experimental procedures involving human participants were approved by
+the ethics committee of Pontifical Catholic University of Paran&#x000e1; (PUCPR) under
+the reference number 2.542.672.</p></fn><fn fn-type="other" id="fn6"><p><bold>Consent for publication:</bold> Not applicable.</p></fn></fn-group><ref-list><title>References</title><ref id="B1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sartim</surname><given-names>MA</given-names></name><name><surname>Sampaio</surname><given-names>SV</given-names></name></person-group><article-title>Snake venom galactoside-binding lectins: a structural and
+functional overview</article-title><source>J Venom Anim Toxins incl Trop Dis</source><year>2015</year><volume>21</volume><elocation-id>35</elocation-id><pub-id pub-id-type="pmid">26413085</pub-id></element-citation></ref><ref id="B2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elifio-Esposito</surname><given-names>SL</given-names></name><name><surname>Hess</surname><given-names>PL</given-names></name><name><surname>Moreno</surname><given-names>AN</given-names></name><name><surname>Lopes-Ferreira</surname><given-names>M</given-names></name><name><surname>Ricart</surname><given-names>CAO</given-names></name><name><surname>Souza</surname><given-names>MV</given-names></name><etal/></person-group><article-title>A C-type lectin from the venom of Bothrops jararacussu can adhere
+to extracellular matrix proteins and induce the rolling of
+leukocytes</article-title><source>J Venom Anim Toxins incl Trop Dis</source><year>2007</year><volume>13</volume><fpage>782</fpage><lpage>799</lpage></element-citation></ref><ref id="B3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Panunto</surname><given-names>PC</given-names></name><name><surname>da Silva</surname><given-names>MA</given-names></name><name><surname>Linardi</surname><given-names>A</given-names></name><name><surname>Buzin</surname><given-names>MP</given-names></name><name><surname>Melo</surname><given-names>SE</given-names></name><name><surname>Mello</surname><given-names>SM</given-names></name><etal/></person-group><article-title>Biological activities of a lectin from Bothrops jararacussu snake
+venom</article-title><source>Toxicon</source><year>2006</year><volume>47</volume><issue>1</issue><fpage>21</fpage><lpage>31</lpage><pub-id pub-id-type="pmid">16309723</pub-id></element-citation></ref><ref id="B4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dias-Netipanyj</surname><given-names>MF</given-names></name><name><surname>Boldrini-Leite</surname><given-names>LM</given-names></name><name><surname>Trindade</surname><given-names>ES</given-names></name><name><surname>Moreno-Amaral</surname><given-names>AN</given-names></name><name><surname>Elifio-Esposito</surname><given-names>S</given-names></name></person-group><article-title>Bjcul, a snake venom lectin, modulates monocyte-derived
+macrophages to a pro-inflammatory profile in vitro</article-title><source>Toxicol In Vitro</source><year>2016</year><volume>33</volume><fpage>118</fpage><lpage>124</lpage><pub-id pub-id-type="pmid">26944802</pub-id></element-citation></ref><ref id="B5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pires</surname><given-names>WL</given-names></name><name><surname>Kayano</surname><given-names>AM</given-names></name><name><surname>de Castro</surname><given-names>OB</given-names></name><name><surname>Paloschi</surname><given-names>MV</given-names></name><name><surname>Lopes</surname><given-names>JA</given-names></name><name><surname>Boeno</surname><given-names>CN</given-names></name><etal/></person-group><article-title>Lectin isolated from Bothrops jararacussu venom induces IL-10
+release by TCD4</article-title><source>J Leukoc Biol</source><year>2019</year><volume>106</volume><issue>3</issue><fpage>595</fpage><lpage>605</lpage><pub-id pub-id-type="pmid">31087703</pub-id></element-citation></ref><ref id="B6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elifio-Esposito</surname><given-names>S</given-names></name><name><surname>Tomazeli</surname><given-names>L</given-names></name><name><surname>Schwartz</surname><given-names>C</given-names></name><name><surname>Gimenez</surname><given-names>AP</given-names></name><name><surname>Fugii</surname><given-names>GM</given-names></name><name><surname>Fernandes</surname><given-names>LC</given-names></name><etal/></person-group><article-title>Human neutrophil migration and activation by BJcuL, a galactose
+binding lectin purified from Bothrops jararacussu venom</article-title><source>BMC Immunol</source><year>2011</year><volume>12</volume><elocation-id>10</elocation-id><pub-id pub-id-type="pmid">21266049</pub-id></element-citation></ref><ref id="B7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Borriello</surname><given-names>L</given-names></name><name><surname>Seeger</surname><given-names>RC</given-names></name><name><surname>Asgharzadeh</surname><given-names>S</given-names></name><name><surname>DeClerck</surname><given-names>YA</given-names></name></person-group><article-title>More than the genes, the tumor microenvironment in
+neuroblastoma</article-title><source>Cancer Lett</source><year>2016</year><volume>380</volume><issue>1</issue><fpage>304</fpage><lpage>314</lpage><pub-id pub-id-type="pmid">26597947</pub-id></element-citation></ref><ref id="B8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hui</surname><given-names>L</given-names></name><name><surname>Chen</surname><given-names>Y</given-names></name></person-group><article-title>Tumor microenvironment: Sanctuary of the devil</article-title><source>Cancer Lett</source><year>2015</year><volume>368</volume><issue>1</issue><fpage>7</fpage><lpage>13</lpage><pub-id pub-id-type="pmid">26276713</pub-id></element-citation></ref><ref id="B9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Komohara</surname><given-names>Y</given-names></name><name><surname>Takeya</surname><given-names>M</given-names></name></person-group><article-title>CAFs and TAMs: maestros of the tumour
+microenvironment</article-title><source>J Pathol</source><year>2017</year><volume>241</volume><issue>3</issue><fpage>313</fpage><lpage>315</lpage><pub-id pub-id-type="pmid">27753093</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hashimoto</surname><given-names>O</given-names></name><name><surname>Yoshida</surname><given-names>M</given-names></name><name><surname>Koma</surname><given-names>Y</given-names></name><name><surname>Yanai</surname><given-names>T</given-names></name><name><surname>Hasegawa</surname><given-names>D</given-names></name><name><surname>Kosaka</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Collaboration of cancer-associated fibroblasts and
+tumour-associated macrophages for neuroblastoma development</article-title><source>J Pathol</source><year>2016</year><volume>240</volume><issue>2</issue><fpage>211</fpage><lpage>223</lpage><pub-id pub-id-type="pmid">27425378</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pickaver</surname><given-names>AH</given-names></name><name><surname>Ratcliffe</surname><given-names>NA</given-names></name><name><surname>Williams</surname><given-names>AE</given-names></name><name><surname>Smith</surname><given-names>H</given-names></name></person-group><article-title>Cytotoxic effects of peritoneal neutrophils on a syngeneic rat
+tumour</article-title><source>Nat New Biol</source><year>1972</year><volume>235</volume><issue>58</issue><fpage>186</fpage><lpage>187</lpage><pub-id pub-id-type="pmid">4501204</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Souto</surname><given-names>JC</given-names></name><name><surname>Vila</surname><given-names>L</given-names></name><name><surname>Br&#x000fa;</surname><given-names>A</given-names></name></person-group><article-title>Polymorphonuclear neutrophils and cancer: intense and sustained
+neutrophilia as a treatment against solid tumors</article-title><source>Med Res Rev</source><year>2011</year><volume>31</volume><issue>3</issue><fpage>311</fpage><lpage>363</lpage><pub-id pub-id-type="pmid">19967776</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Piccard</surname><given-names>H</given-names></name><name><surname>Muschel</surname><given-names>RJ</given-names></name><name><surname>Opdenakker</surname><given-names>G</given-names></name></person-group><article-title>On the dual roles and polarized phenotypes of neutrophils in
+tumor development and progression</article-title><source>Crit Rev Oncol Hematol</source><year>2012</year><volume>82</volume><issue>3</issue><fpage>296</fpage><lpage>309</lpage><pub-id pub-id-type="pmid">21798756</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnsen</surname><given-names>JI</given-names></name><name><surname>Dyberg</surname><given-names>C</given-names></name><name><surname>Wickstrom</surname><given-names>M</given-names></name></person-group><article-title>Neuroblastoma - a neural crest derived embryonal
+malignancy</article-title><source>Front Mol Neurosci</source><year>2019</year><volume>12</volume><elocation-id>9</elocation-id><pub-id pub-id-type="pmid">30760980</pub-id></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Diede</surname><given-names>SJ</given-names></name></person-group><article-title>Spontaneous regression of metastatic cancer: learning from
+neuroblastoma</article-title><source>Nat Rev Cancer</source><year>2014</year><volume>14</volume><issue>2</issue><fpage>71</fpage><lpage>72</lpage><pub-id pub-id-type="pmid">24616911</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maris</surname><given-names>JM</given-names></name></person-group><article-title>Recent advances in neuroblastoma</article-title><source>N Engl J Med</source><year>2010</year><volume>362</volume><issue>23</issue><fpage>2202</fpage><lpage>2211</lpage><pub-id pub-id-type="pmid">20558371</pub-id></element-citation></ref><ref id="B17"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matthay</surname><given-names>KK</given-names></name><name><surname>Maris</surname><given-names>JM</given-names></name><name><surname>Schleiermacher</surname><given-names>G</given-names></name><name><surname>Nakagawara</surname><given-names>A</given-names></name><name><surname>Mackall</surname><given-names>CL</given-names></name><name><surname>Diller</surname><given-names>L</given-names></name><etal/></person-group><article-title>Neuroblastoma</article-title><source>Nat Rev Dis Primers</source><year>2016</year><volume>2</volume><elocation-id>16078</elocation-id><pub-id pub-id-type="pmid">27830764</pub-id></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lambert</surname><given-names>AW</given-names></name><name><surname>Pattabiraman</surname><given-names>DR</given-names></name><name><surname>Weinberg</surname><given-names>RA</given-names></name></person-group><article-title>Emerging biological principles of metastasis</article-title><source>Cell</source><year>2017</year><volume>168</volume><issue>4</issue><fpage>670</fpage><lpage>691</lpage><pub-id pub-id-type="pmid">28187288</pub-id></element-citation></ref><ref id="B19"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ahmed</surname><given-names>M</given-names></name><name><surname>Hu</surname><given-names>J</given-names></name><name><surname>Cheung</surname><given-names>NK</given-names></name></person-group><article-title>Structure based refinement of a humanized monoclonal antibody
+that targets tumor antigen disialoganglioside GD2</article-title><source>Front Immunol</source><year>2014</year><volume>5</volume><elocation-id>372</elocation-id><pub-id pub-id-type="pmid">25177320</pub-id></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Armideo</surname><given-names>E</given-names></name><name><surname>Callahan</surname><given-names>C</given-names></name><name><surname>Madonia</surname><given-names>L</given-names></name></person-group><article-title>Immunotherapy for highh-risk neuroblastoma: management of side
+effects and complications</article-title><source>J Adv Pract Oncol</source><year>2017</year><volume>8</volume><issue>1</issue><fpage>44</fpage><lpage>55</lpage><pub-id pub-id-type="pmid">29900016</pub-id></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheung</surname><given-names>NK</given-names></name><name><surname>Dyer</surname><given-names>MA</given-names></name></person-group><article-title>Neuroblastoma: developmental biology, cancer genomics and
+immunotherapy</article-title><source>Nat Rev Cancer</source><year>2013</year><volume>13</volume><issue>6</issue><fpage>397</fpage><lpage>411</lpage><pub-id pub-id-type="pmid">23702928</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seeger</surname><given-names>RC</given-names></name></person-group><article-title>Immunology and immunotherapy of neuroblastoma</article-title><source>Semin Cancer Biol</source><year>2011</year><volume>21</volume><issue>4</issue><fpage>229</fpage><lpage>237</lpage><pub-id pub-id-type="pmid">21971567</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lampugnani</surname><given-names>MG</given-names></name></person-group><article-title>Cell migration into a wounded area in vitro</article-title><source>Methods Mol Biol</source><year>1999</year><volume>96</volume><fpage>177</fpage><lpage>182</lpage><pub-id pub-id-type="pmid">10098136</pub-id></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliver</surname><given-names>MH</given-names></name><name><surname>Harrison</surname><given-names>NK</given-names></name><name><surname>Bishop</surname><given-names>JE</given-names></name><name><surname>Cole</surname><given-names>PJ</given-names></name><name><surname>Laurent</surname><given-names>GJ</given-names></name></person-group><article-title>A rapid and convenient assay for counting cells cultured in
+microwell plates: application for assessment of growth
+factors</article-title><source>J Cell Sci</source><year>1989</year><volume>92</volume><issue-part>3</issue-part><fpage>513</fpage><lpage>518</lpage><pub-id pub-id-type="pmid">2592453</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Borowicz</surname><given-names>S</given-names></name><name><surname>Van Scoyk</surname><given-names>M</given-names></name><name><surname>Avasarala</surname><given-names>S</given-names></name><name><surname>Karuppusamy Rathinam</surname><given-names>MK</given-names></name><name><surname>Tauler</surname><given-names>J</given-names></name><name><surname>Bikkavilli</surname><given-names>RK</given-names></name><etal/></person-group><article-title>The soft agar colony formation assay</article-title><source>J Vis Exp</source><year>2014</year><issue>92</issue><elocation-id>e51998</elocation-id><pub-id pub-id-type="pmid">25408172</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cezarette</surname><given-names>GN</given-names></name><name><surname>Sartim</surname><given-names>MA</given-names></name><name><surname>Sampaio</surname><given-names>SV</given-names></name></person-group><article-title>Inflammation and coagulation crosstalk induced by BJcuL, a
+galactose-binding lectin isolated from Bothrops jararacussu snake
+venom</article-title><source>Int J Biol Macromol</source><year>2019</year><volume>144</volume><fpage>296</fpage><lpage>304</lpage><pub-id pub-id-type="pmid">31812742</pub-id></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Teixeira</surname><given-names>C</given-names></name><name><surname>Fernandes</surname><given-names>CM</given-names></name><name><surname>Leiguez</surname><given-names>E</given-names></name><name><surname>Chudzinski-Tavassi</surname><given-names>AM</given-names></name></person-group><article-title>Inflammation induced by platelet-activation viperid snake venoms:
+perspectives on thromboinflammation</article-title><source>Front Immunol</source><year>2019</year><volume>10</volume><elocation-id>2082</elocation-id><pub-id pub-id-type="pmid">31572356</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Luna</surname><given-names>KPO</given-names></name><name><surname>da Silva</surname><given-names>MB</given-names></name><name><surname>Pereira</surname><given-names>VRA</given-names></name></person-group><article-title>Clinical and immunological aspects of envenomations by Bothrops
+snakes</article-title><source>J Venom Anim Toxins incl Trop Dis</source><year>2011</year><volume>17</volume><issue>2</issue><elocation-id>11</elocation-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pires</surname><given-names>WL</given-names></name><name><surname>de Castro</surname><given-names>OB</given-names></name><name><surname>Kayano</surname><given-names>AM</given-names></name><name><surname>da Silva Set&#x000fa;bal</surname><given-names>S</given-names></name><name><surname>Pontes</surname><given-names>AS</given-names></name><name><surname>Nery</surname><given-names>NM</given-names></name><etal/></person-group><article-title>Effect of BjcuL, a lectin isolated from Bothrops jararacussu, on
+human peripheral blood mononuclear cells</article-title><source>Toxicol In Vitro</source><year>2017</year><volume>41</volume><fpage>30</fpage><lpage>41</lpage><pub-id pub-id-type="pmid">28188836</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fridlender</surname><given-names>ZG</given-names></name><name><surname>Sun</surname><given-names>J</given-names></name><name><surname>Kim</surname><given-names>S</given-names></name><name><surname>Kapoor</surname><given-names>V</given-names></name><name><surname>Cheng</surname><given-names>G</given-names></name><name><surname>Ling</surname><given-names>L</given-names></name><etal/></person-group><article-title>Polarization of tumor-associated neutrophil phenotype by
+TGF-beta: "N1" versus "N2" TAN</article-title><source>Cancer Cell</source><year>2009</year><volume>16</volume><issue>3</issue><fpage>183</fpage><lpage>194</lpage><pub-id pub-id-type="pmid">19732719</pub-id></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>L</given-names></name><name><surname>Saxena</surname><given-names>S</given-names></name><name><surname>Awaji</surname><given-names>M</given-names></name><name><surname>Singh</surname><given-names>RK</given-names></name></person-group><article-title>Tumor-Associated Neutrophils in Cancer: Going Pro</article-title><source>Cancers (Basel)</source><year>2019</year><volume>11</volume><issue>4</issue><comment>pii</comment><elocation-id>E564</elocation-id><pub-id pub-id-type="pmid">31010242</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Selvatici</surname><given-names>R</given-names></name><name><surname>Falzarano</surname><given-names>S</given-names></name><name><surname>Mollica</surname><given-names>A</given-names></name><name><surname>Spisani</surname><given-names>S</given-names></name></person-group><article-title>Signal transduction pathways triggered by selective formylpeptide
+analogues in human neutrophils</article-title><source>Eur J Pharmacol</source><year>2006</year><volume>534</volume><issue>1-3</issue><fpage>1</fpage><lpage>11</lpage><pub-id pub-id-type="pmid">16516193</pub-id></element-citation></ref><ref id="B33"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Amulic</surname><given-names>B</given-names></name><name><surname>Cazalet</surname><given-names>C</given-names></name><name><surname>Hayes</surname><given-names>GL</given-names></name><name><surname>Metzler</surname><given-names>KD</given-names></name><name><surname>Zychlinsky</surname><given-names>A</given-names></name></person-group><article-title>Neutrophil function: from mechanisms to disease</article-title><source>Annu Rev Immunol</source><year>2012</year><volume>30</volume><fpage>459</fpage><lpage>489</lpage><pub-id pub-id-type="pmid">22224774</pub-id></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rao</surname><given-names>X</given-names></name><name><surname>Zhong</surname><given-names>J</given-names></name><name><surname>Sun</surname><given-names>Q</given-names></name></person-group><article-title>The heterogenic properties of monocytes/macrophages and
+neutrophils in inflammatory response in diabetes</article-title><source>Life Sci</source><year>2014</year><volume>116</volume><issue>2</issue><fpage>59</fpage><lpage>66</lpage><pub-id pub-id-type="pmid">25264371</pub-id></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yan</surname><given-names>J</given-names></name><name><surname>Kloecker</surname><given-names>G</given-names></name><name><surname>Fleming</surname><given-names>C</given-names></name><name><surname>Bousamra</surname><given-names>M</given-names></name><name><surname>Hansen</surname><given-names>R</given-names></name><name><surname>Hu</surname><given-names>X</given-names></name><etal/></person-group><article-title>Human polymorphonuclear neutrophils specifically recognize and
+kill cancerous cells</article-title><source>Oncoimmunology</source><year>2014</year><volume>3</volume><issue>7</issue><elocation-id>e950163</elocation-id><pub-id pub-id-type="pmid">25610737</pub-id></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Giese</surname><given-names>MA</given-names></name><name><surname>Hind</surname><given-names>LE</given-names></name><name><surname>Huttenlocher</surname><given-names>A</given-names></name></person-group><article-title>Neutrophil plasticity in the tumor
+microenvironment</article-title><source>Blood</source><year>2019</year><volume>133</volume><issue>20</issue><fpage>2159</fpage><lpage>2167</lpage><pub-id pub-id-type="pmid">30898857</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>Y</given-names></name><name><surname>Lee</surname><given-names>D</given-names></name><name><surname>Lee</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>S</given-names></name><name><surname>Lawler</surname><given-names>S</given-names></name></person-group><article-title>Role of tumor-associated neutrophils in regulation of tumor
+growth in lung cancer development: A mathematical model</article-title><source>PLoS One</source><year>2019</year><volume>14</volume><issue>1</issue><elocation-id>e0211041</elocation-id><pub-id pub-id-type="pmid">30689655</pub-id></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liang</surname><given-names>W</given-names></name><name><surname>Ferrara</surname><given-names>N</given-names></name></person-group><article-title>The Complex Role of Neutrophils in Tumor Angiogenesis and
+Metastasis</article-title><source>Cancer Immunol Res</source><year>2016</year><volume>4</volume><issue>2</issue><fpage>83</fpage><lpage>91</lpage><pub-id pub-id-type="pmid">26839309</pub-id></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Spatarelu</surname><given-names>CP</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Nguyen</surname><given-names>DT</given-names></name><name><surname>Han</surname><given-names>XY</given-names></name><name><surname>Liu</surname><given-names>RC</given-names></name><name><surname>Guo</surname><given-names>QH</given-names></name><etal/></person-group><article-title>Biomechanics of collective cell migration in cancer progression:
+experimental and computational methods</article-title><source>Acs Biomater Sci Eng</source><year>2019</year><volume>5</volume><issue>8</issue><fpage>3766</fpage><lpage>3787</lpage></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Pascalis</surname><given-names>C</given-names></name><name><surname>Perez-Gonzalez</surname><given-names>C</given-names></name><name><surname>Seetharaman</surname><given-names>S</given-names></name><name><surname>Boeda</surname><given-names>B</given-names></name><name><surname>Vianay</surname><given-names>B</given-names></name><name><surname>Burute</surname><given-names>M</given-names></name><etal/></person-group><article-title>Intermediate filaments control collective migration by
+restricting traction forces and sustaining cell-cell
+contacts</article-title><source>J Cell Biol</source><year>2018</year><volume>217</volume><issue>9</issue><fpage>3031</fpage><lpage>3044</lpage><pub-id pub-id-type="pmid">29980627</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kerfoot</surname><given-names>SM</given-names></name><name><surname>Raharjo</surname><given-names>E</given-names></name><name><surname>Ho</surname><given-names>M</given-names></name><name><surname>Kaur</surname><given-names>J</given-names></name><name><surname>Serirom</surname><given-names>S</given-names></name><name><surname>McCafferty</surname><given-names>DM</given-names></name><etal/></person-group><article-title>Exclusive neutrophil recruitment with oncostatin M in a human
+system</article-title><source>Am J Pathol</source><year>2001</year><volume>159</volume><issue>4</issue><fpage>1531</fpage><lpage>1539</lpage><pub-id pub-id-type="pmid">11583979</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>MB</given-names></name><name><surname>Hajal</surname><given-names>C</given-names></name><name><surname>Benjamin</surname><given-names>DC</given-names></name><name><surname>Yu</surname><given-names>C</given-names></name><name><surname>Azizgolshani</surname><given-names>H</given-names></name><name><surname>Hynes</surname><given-names>RO</given-names></name><etal/></person-group><article-title>Inflamed neutrophils sequestered at entrapped tumor cells via
+chemotactic confinement promote tumor cell extravasation</article-title><source>Proc Natl Acad Sci U S A</source><year>2018</year><volume>115</volume><issue>27</issue><fpage>7022</fpage><lpage>7027</lpage><pub-id pub-id-type="pmid">29915060</pub-id></element-citation></ref><ref id="B43"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huh</surname><given-names>SJ</given-names></name><name><surname>Liang</surname><given-names>S</given-names></name><name><surname>Sharma</surname><given-names>A</given-names></name><name><surname>Dong</surname><given-names>C</given-names></name><name><surname>Robertson</surname><given-names>GP</given-names></name></person-group><article-title>Transiently entrapped circulating tumor cells interact with
+neutrophils to facilitate lung metastasis development</article-title><source>Cancer Res</source><year>2010</year><volume>70</volume><issue>14</issue><fpage>6071</fpage><lpage>6082</lpage><pub-id pub-id-type="pmid">20610626</pub-id></element-citation></ref><ref id="B44"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Das</surname><given-names>A</given-names></name><name><surname>Monteiro</surname><given-names>M</given-names></name><name><surname>Barai</surname><given-names>A</given-names></name><name><surname>Kumar</surname><given-names>S</given-names></name><name><surname>Sen</surname><given-names>S</given-names></name></person-group><article-title>MMP proteolytic activity regulates cancer invasiveness by
+modulating integrins</article-title><source>Sci Rep</source><year>2017</year><volume>7</volume><issue>1</issue><elocation-id>14219</elocation-id><pub-id pub-id-type="pmid">29079818</pub-id></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fraley</surname><given-names>SI</given-names></name><name><surname>Feng</surname><given-names>Y</given-names></name><name><surname>Krishnamurthy</surname><given-names>R</given-names></name><name><surname>Kim</surname><given-names>DH</given-names></name><name><surname>Celedon</surname><given-names>A</given-names></name><name><surname>Longmore</surname><given-names>GD</given-names></name><etal/></person-group><article-title>A distinctive role for focal adhesion proteins in
+three-dimensional cell motility</article-title><source>Nat Cell Biol</source><year>2010</year><volume>12</volume><issue>6</issue><fpage>598</fpage><lpage>604</lpage><pub-id pub-id-type="pmid">20473295</pub-id></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Welch</surname><given-names>DR</given-names></name><name><surname>Schissel</surname><given-names>DJ</given-names></name><name><surname>Howrey</surname><given-names>RP</given-names></name><name><surname>Aeed</surname><given-names>PA</given-names></name></person-group><article-title>Tumor-elicited polymorphonuclear cells, in contrast to "normal"
+circulating polymorphonuclear cells, stimulate invasive and metastatic
+potentials of rat mammary adenocarcinoma cells</article-title><source>Proc Natl Acad Sci U S A</source><year>1989</year><volume>86</volume><issue>15</issue><fpage>5859</fpage><lpage>5863</lpage><pub-id pub-id-type="pmid">2762301</pub-id></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dan</surname><given-names>X</given-names></name><name><surname>Liu</surname><given-names>W</given-names></name><name><surname>Ng</surname><given-names>TB</given-names></name></person-group><article-title>Development and Applications of Lectins as Biological Tools in
+Biomedical Research</article-title><source>Med Res Rev</source><year>2016</year><volume>36</volume><issue>2</issue><fpage>221</fpage><lpage>247</lpage><pub-id pub-id-type="pmid">26290041</pub-id></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sharon</surname><given-names>N</given-names></name><name><surname>Lis</surname><given-names>H</given-names></name></person-group><article-title>History of lectins: from hemagglutinins to biological recognition
+molecules</article-title><source>Glycobiology</source><year>2004</year><volume>14</volume><issue>11</issue><fpage>53R</fpage><lpage>62R</lpage></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sartim</surname><given-names>MA</given-names></name><name><surname>Riul</surname><given-names>TB</given-names></name><name><surname>Del Cistia-Andrade</surname><given-names>C</given-names></name><name><surname>Stowell</surname><given-names>SR</given-names></name><name><surname>Arthur</surname><given-names>CM</given-names></name><name><surname>Sorgi</surname><given-names>CA</given-names></name><etal/></person-group><article-title>Galatrox is a C-type lectin in Bothrops atrox snake venom that
+selectively binds LacNAc-terminated glycans and can induce acute
+inflammation</article-title><source>Glycobiology</source><year>2014</year><volume>24</volume><issue>11</issue><fpage>1010</fpage><lpage>1021</lpage><pub-id pub-id-type="pmid">24973254</pub-id></element-citation></ref></ref-list><app-group><app id="app1"><title>Supplementary material</title><p>The following online material is available for this article:</p><p>
+<supplementary-material content-type="local-data" id="suppl1"><label>Additional file 1.</label><caption><title>Representative photomicrographs of the wounds to the SK-N-SH
+cells monolayer taken at T0 and T48.</title></caption><media xlink:href="1678-9199-jvatitd-26-e20190073-s1.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material>
+</p></app></app-group></back></article>

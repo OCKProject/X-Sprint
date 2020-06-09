@@ -1,0 +1,892 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> <head> <style type="text/css">
+      	     		 
+      	    a                          {background : #ffffff; }
+      	    article                    {border-style : dotted; border-width : 2px; }
+		 	
+		 	div                        {background : #ffffcc;}
+		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+		 	div.ack                    {border-style : solid ; border-color : red; margin : 2em; }
+		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.boxed-text             {margin : 5em; border-style : solid;}
+		 	div.contrib-group          {margin : 1em; }
+		 	div.fig                    {border-style : solid; border-width : 2px; margin : 2em; }
+		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+		 	div.given-names            {font-style : italic;}
+		 	div.intro                  {border-style : inset; margin : 5px;}
+		 	div.introduction           {border-style : inset; margin : 5px;}
+		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.journal-title-group    {background : #ffeeee;}
+		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+		 	div.kwd                    {font-style : italic}
+		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+		 	div.name                   {font-weight : bold;}
+		 	div.alt-title              {font-style : italic; font-size : 12px;}
+		 	
+		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+		 	div.title                  {font-family : courier; font-weight : bold;
+		 	                            font-size : 16pt; margin : 5px;}
+		 	
+		 	div.materials_methods      {border-style : double; margin : 5px; }
+		 	div.methods                {border-style : double; margin : 5px; }
+		 	
+		 	div.results                {border-style : solid; margin : 5px;}
+		 	div.background             {border-style : dotted; margin : 5px;}
+		 	
+		 	div.discussion             {border-style : groove; margin : 5px;}
+		 	div.conclusion             {border-style : ridge; margin : 5px;}
+		 	div.conclusions             {border-style : ridge; margin : 5px;}
+		 	div.supplementary-material {border-style : inset; margin : 5px;}
+		 	div.abbreviations          {border-style : double; border-color : red; margin : 5px;}
+		 	div.competinginterests     {border-style : double; border-color : blue; margin : 5px;}
+		 	div.acknowledgements       {border-style : double; border-color : green; margin : 5px;}
+		 	div.authors_contributions   {border-style : double; border-color : purple; margin : 5px;}
+		 	
+		 	div.publisher              {border-style : outset; margin : 5px;}
+		 	div.fn-type-conflict       {background : #f88; }
+		 	div.fn-type-con            {background : #ddf; }
+		 	div.fn-type-other          {background : #ddd; }
+		 	
+		 	div.unknown                {background : #ffd;
+									 	  border-style : solid;
+									 	  border-width : 1px;
+									 	  padding : 2 px;}
+		 	  
+      	    table                      {background : #ffffdd;}
+		 	tr                         {background : #ddddff; padding : 1px;}
+		 	
+		 	span                       {background : #ffcccc;}
+		 	
+		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+		 	span.collab                {background : #ddffff; }
+		 	span.comment               {font-family : courier; font-size : 6px; background : #ffaaff;}
+		 	span.contrib               {background : #ffffff;}
+		 	span.corresp               {background : #ddffdd; }
+		 	span.doi                   {background : #ffffff;}
+		 	span.email                 {font-family : courier; }
+		 	span.etal                  {font-style : italic;}
+		 	span.fpage                 {font-family : courier;}
+		 	span.given-names           {background : #ffffff;}
+		 	span.iso-abbrev            {background : #ffffff;}
+		 	span.issn-epub             {background : #ffffff;}
+		 	span.issn-ppub             {background : #ffffff;}
+		 	span.journal-title         {background : #ffffff;}
+		 	span.lpage                 {font-family : courier;}
+		 	span.mixed-article-title   {font-style : italic ;}
+		 	span.nlm-ta                {background : #ffffff;}
+		 	span.pmc                   {background : #ffffff;}
+		 	span.pmcid                 {background : #ffffff;}
+		 	span.pmid                  {background : #ffffff;}
+		 	span.publisher             {background : #ffffff;}
+		 	span.publisher-id          {background : #ffffff;}
+		 	span.publisher-name        {background : #ffffff;}
+		 	span.source                {background : #ffffff;}
+		 	span.subject               {background : #ffffff;}
+		 	span.surname               {background : #ffffff;}
+		 	span.volume                {font-family : courier; font-weight : bold;}
+		 	span.year                  {font-family : courier ; font-style : italic;}
+			</style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"><span class="nlm-ta" title="nlm-ta">Genome Biol Evol</span><span class="iso-abbrev" title="iso-abbrev">Genome Biol Evol</span><span class="publisher-id" title="publisher-id">gbe</span><div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"><span class="journal-title" tagx="journal-title" title="journal-title">Genome Biology and Evolution</span></div><span class="issn-epub" tagx="issn" title="issn-epub">1759-6653</span><div class="publisher" tagx="publisher" title="publisher"><span class="publisher-name" tagx="publisher-name" title="publisher-name">Oxford University Press</span></div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"><span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/7259675">7259675</a></span><span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.1093/gbe/evaa087">10.1093/gbe/evaa087</a></span><span class="publisher-id" title="publisher-id">evaa087</span><div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Letter</span></div> <div class="title-group"> <div class="article-title" title="article-title">
+mstree: A Multispecies Coalescent Approach for Estimating Ancestral Population Size and Divergence Time during Speciation with Gene Flow</div> </div> <div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="contrib-id" tagx="contrib-id" title="contrib-id">http://orcid.org/0000-0002-2651-4654</span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Liu</span><span class="given-names" tagx="given-names" title="given-names">Junfeng</span></span><a href="#evaa087-cor1" /><a href="#evaa087-aff1">e1</a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Liu</span><span class="given-names" tagx="given-names" title="given-names">Qiao</span></span><a href="#evaa087-aff2">e2</a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yang</span><span class="given-names" tagx="given-names" title="given-names">Qingzhu</span></span><a href="#evaa087-cor1" /><a href="#evaa087-aff1">e1</a><a href="#evaa087-aff2">e2</a></span></div><span class="citation_author_institution" id="evaa087-aff1">[e1], <span class="institution" title="institution">Beijing Institute of Genomics, Chinese Academy of Sciences</span></span><span class="citation_author_institution" id="evaa087-aff2">[e2], <span class="institution" title="institution">Department of Automation, Tsinghua University</span></span><div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bryant</span><span class="given-names" tagx="given-names" title="given-names">David T E</span></span><span class="role" tagx="role" title="role">Associate Editor</span></span></div> <div class="author-notes" title="author-notes"> <div class="corresp" title="corresp">
+Corresponding authors: E-mails: <span class="email" tagx="email" title="email">liujunfeng@big.ac.cn</span>; <span class="email" tagx="email" title="email">yangqz@mail.tsinghua.edu.cn</span>.</div> </div><span class="pub-date-collection" title="pub-date-collection">collection: <span>2020-5</span></span><span class="pub-date-epub" title="pub-date-epub">epub: <span>2020-5-5</span></span><span class="pub-date-pmc-release" title="pub-date-pmc-release">pmc-release: <span>2020-5-5</span></span><span class="volume" tagx="volume" title="volume">12</span><span class="issue" tagx="issue" title="issue">5</span><span class="fpage" tagx="fpage" title="fpage">715</span><span class="lpage" tagx="lpage" title="lpage">719</span><span class="history" title="history"><span class="accepted" title="accepted">accepted: 2020-4-27</span></span><div class="permissions"><span class="copyright" title="copyright">(C) , <span class="copyright-year" tagx="copyright-year" title="copyright-year">2020</span></span><span class="license" title="license"><span class="license-p" title="license-p">This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</span></span></div><a class="self-uri" href="evaa087.pdf" title="self-uri">evaa087.pdf</a><div class="abstract" title="abstract"> <div class="abstract-title" title="abstract-title">
+Abstract</div> <div class="title" tagx="title" title="title">
+Abstract</div> <p>Gene flow between species may cause variations in branch length and topology of gene tree, which are beyond the expected variations from ancestral processes. These additional variations make it difficult to estimate parameters during speciation with gene flow, as the pattern of these additional variations differs with the relationship between isolation and migration. As far as we know, most methods rely on the assumption about the relationship between isolation and migration by a given model, such as the isolation-with-migration model, when estimating parameters during speciation with gene flow. In this article, we develop a multispecies coalescent approach which does not rely on any assumption about the relationship between isolation and migration when estimating parameters and is called mstree. mstree is available at <a href="https://github.com/liujunfengtop/MStree/">https://github.com/liujunfengtop/MStree/</a> and uses some mathematical inequalities among several factors, which include the species divergence time, the ancestral population size, and the number of gene trees, to estimate parameters during speciation with gene flow. Using simulations, we show that the estimated values of ancestral population sizes and species divergence times are close to the true values when analyzing the simulation data sets, which are generated based on the isolation-with-initial-migration model, secondary contact model, and isolation-with-migration model. Therefore, our method is able to estimate ancestral population sizes and speciation times in the presence of different modes of gene flow and may be helpful to test different theories of speciation.</p> </div> <div class="kwd-group"> <div class="kwd" title="kwd">
+coalescent</div> <div class="kwd" title="kwd">
+gene tree</div> <div class="kwd" title="kwd">
+mathematical inequalities</div> </div> <div class="funding-group" title="funding-group"> <div class="funding" title="funding">
+Funding</div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution" title="institution">National Natural Science Foundation of China</span><span class="institution-id" title="institution-id">10.13039/501100001809</span></div> </div><span class="award-id" tagx="award-id" title="award-id">31501081</span></div> </div> <div class="counts" title="counts"><span class="page-count" title="page-count">page-count: </span></div> </div> </div> <div class="body" title="body"> <div class="intro" title="intro"> <div class="title" tagx="title" title="title">
+Introduction</div> <p>The role of gene flow in speciation is a fundamental issue in evolutionary biology. Allopatric speciation considers complete lack of gene flow as prerequisite to the formation of new species. However, parapatric and sympatric speciation allow gene flow during speciation. Although allopatric speciation has been historically taken as the paramount mode of speciation (<a href="#evaa087-B5">Futuyma and Mayer 1980</a>), theoretical modeling and empirical evidence increasingly support that speciation can occur with gene flow (<a href="#evaa087-B6">Gourbiere and Mallet 2010</a>; <a href="#evaa087-B11">Smadja and Butlin 2011</a>; <a href="#evaa087-B4">Feder et al. 2012</a>).</p> <p>There are usually two kinds of models to make inferences about gene flow during speciation. Some methods are based on an isolation-with-migration (IM) model (<a href="#evaa087-B13">Wang and Hey 2010</a>; <a href="#evaa087-B12">Tian and Kubatko 2016</a>; <a href="#evaa087-B3">Dalquen et al. 2017</a>) and others on an isolation-with-initial-migration (IIM) model (<a href="#evaa087-B9">Mailund et al. 2012</a>; <a href="#evaa087-B2">Costa and Wilkinson-Herbots 2017</a>). However, the above two models include an assumption about the relationship between isolation and migration. Here, we use the properties of coalescent-based model in gene tree data for estimating the important parameters such as ancestral population sizes and divergence times without any assumption of the relationship between isolation and migration. Furthermore, we conduct simulations to examine the accuracy of the estimates of parameters. The simulation results show that our method can accurately estimate the parameters. At last, we compared mstree with the program 3s (<a href="#evaa087-B3">Dalquen et al. 2017</a>) and IMa3 (<a href="#evaa087-B7">Hey et al. 2018</a>) with simulation data; the simulation results show that mstree is faster than 3s and IMa3.</p> </div> <div class="materialsandmethods" title="sec"> <div class="title" tagx="title" title="title">
+Materials and Methods</div> <div class="thetheoreticalmodel" title="sec"> <div class="title" tagx="title" title="title">
+The Theoretical Model</div> <p>Consider two closely related species (1 and 2) with an outgroup species 3. We assume that there is only gene flow between two closely related species (<a href="#evaa087-F1">fig. 1</a>). We use <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> to denote the two species divergence times, scaled by mutation rate. Let <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+4</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+μ</div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+4</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+μ</div></div></span> measure the two ancestral species population sizes. Here, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+μ</div></div></span> is the mutation rate per site and generation, and the <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> denote the effective population sizes. There are five possible gene trees for a locus with three sequences (<i>k</i>, <i>l</i>, and <i>m</i>), which are from species 1, species 2, and species 3, respectively (<a href="#evaa087-F2">fig. 2</a>). For any locus, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> is the coalescent time among three sequences and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is the coalescent time between two sequences. In the presence of gene flow between species 1 and species 2, the gene tree <i>G</i><sub>1</sub> may be possible at a locus. Otherwise, only gene trees <i>G</i><sub>2</sub>–<i>G</i><sub>5</sub> are possible. In this study, the term "loci" refers to independent or loosely linked short segments of the genome, and we assume that there is no recombination within a locus while different loci are free recombining. For tens of thousands of loci, there are some mathematical inequalities among the species divergence time, the ancestral species population size, and the number of gene trees, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is larger than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>. Based on the coalescent theory with no gene flow under given species, the probability of gene tree, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> belongs to <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div></div></span>, is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div></div></span>; and the probability of gene tree, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> belongs to <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is less than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>, is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+-</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> </div></div></span>. We use <i>g<sub>i</sub></i>([<i>a</i>, <i>b</i>],[<i>c</i>, <i>d</i>]) as the number of gene trees with category <i>G<sub>i</sub></i> (<a href="#evaa087-F2">fig. 2</a>) and with <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> is in [<i>a</i>, <i>b</i>] and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> in [<i>c</i>, <i>d</i>] for <i>i</i> = 1, 2, …, 5. Moreover, to simplify notation, let <i>g<sub>i</sub></i> denote the number of gene trees with category <i>G<sub>i</sub></i> (<a href="#evaa087-F2">fig. 2</a>) for <i>i</i> = 1, …, 5. Then, the formulas of cases A and C are as follows: </p> <p> </p><div class="disp-quote" title="disp-quote"> <p>Case A: If <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+≤</div> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>, then <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+4</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+5</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+∞</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+[</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+4</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+5</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div></div></span> for the category <i>G</i><sub>2</sub>–<i>G</i><sub>5</sub> (<a href="#evaa087-F2">fig. 2</a>). </p> <p>Case B: If <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+≤</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span>, then <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+∞</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+∞</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+[</div> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+∞</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+∞</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mo_UNKNOWN">
+[</div> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> </div></div></span> for the category <i>G</i><sub>1</sub>–<i>G</i><sub>2</sub> (<a href="#evaa087-F2">fig. 2</a>).</p> <p>Case C: <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+4</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+5</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+4</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+5</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div></div></span> for the category <i>G</i><sub>2</sub>–<i>G</i><sub>5</sub> (<a href="#evaa087-F2">fig. 2</a>).</p> </div> <p /> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label"> <div class="sc_UNKNOWN">
+Fig</div>. 1.</span></a></div>   <p>—Species tree ((1, 2), 3) for three species. The species divergence times are denoted as <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>. The ancestral species population sizes are denoted as <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label"> <div class="sc_UNKNOWN">
+Fig</div>. 2.</span></a></div>   <p>—For three species (1–3) with gene flow between species 1 and 2, there are five categories of gene trees for any locus with three sequences (<i>k</i>, <i>l</i>, and <i>m</i>), which are from species 1, species 2, and species 3, respectively.</p>   </div> <p>The above gene tree distributions allow us to compute the parameters <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>, and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>. The approach of estimating the parameters is called mstree and the strategies are as follows. First, we can estimate the value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> based on the fact that the shape of gene tree may be ((<i>k</i>, <i>l</i>),<i>m</i>), ((<i>k</i>, <i>m</i>),<i>l</i>) or ((<i>l</i>, <i>m</i>),<i>k</i>) with equal probability when <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is larger than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>. If there exists <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> that satisfies <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
+≈</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div></div></span>, where <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div></div></span> is the number of gene trees, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is larger than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> and the shape is ((<i>k</i>, <i>l</i>),<i>m</i>) (<a href="#evaa087-F2">fig. 2</a>: <i>G</i><sub>3</sub>); <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div></div></span> is the number of gene trees, of which the shape is ((<i>k</i>, <i>m</i>),<i>l</i>) (<a href="#evaa087-F2">fig. 2</a>: <i>G</i><sub>4</sub>); and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div></div></span> is the number of gene trees, of which the shape is ((<i>l</i>, <i>m</i>),<i>k</i>) (<a href="#evaa087-F2">fig. 2</a>: <i>G</i><sub>5</sub>), <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> can be considered as the estimated value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>. Second, we can estimate the value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> based on the estimated value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> by using the formula <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div></div></span> in case B. When we choose <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> that satisfy <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+≤</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span>, the estimated value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> approximates <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+log</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> </div> </div> </div></div></span>, where <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div></div></span> is the number of gene trees, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> is larger than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is less than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>; <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> is the number of gene trees, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> belong to <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is less than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>. Similarly, we can also estimate the value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> based on the estimated value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> by using the formula <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div></div></span> in case A. If we choose <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> that is less than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and assume that <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> is larger than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> when <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> is closed to <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>, the estimated value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> approximates <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+log</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> </div> </div> </div></div></span>, where <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div></div></span> is the number of gene trees, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is larger than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> is the number of gene trees, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> belongs to <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div></div></span>. Lastly, we estimate the value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> based on the values of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> by using the formula <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> </div> </div></div></span> in case C. If there exists <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> that is less than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span> and satisfies <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> </div> </div></div></span>, where <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div></div></span> is the number of gene trees, of which <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is larger than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> and the shape is ((<i>k</i>, <i>l</i>),<i>m</i>) (<a href="#evaa087-F2">fig. 2</a>: <i>G</i><sub>2</sub>–<i>G</i><sub>3</sub>); <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div></div></span> is the number of gene trees, of which the shape is ((<i>k</i>, <i>m</i>),<i>l</i>) (<a href="#evaa087-F2">fig. 2</a>: <i>G</i><sub>4</sub>); and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div></div></span> is the number of gene trees, of which the shape is ((<i>l</i>, <i>m</i>),<i>k</i>) (<a href="#evaa087-F2">fig. 2</a>: <i>G</i><sub>5</sub>), <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div></div></span> can be considered as the estimated value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>.</p> </div> <div class="thesimulation" title="sec"> <div class="title" tagx="title" title="title">
+The Simulation</div> <p>We simulated gene trees by using the program ms (<a href="#evaa087-B8">Hudson 2002</a>) and converted gene trees to sequence data under JC69 model by using seq-gen (<a href="#evaa087-B10">Rambaut and Grassly 1997</a>). The example of command is as follows:</p> <p> </p><div class="disp-quote" title="disp-quote"> <p>./ms id="465" 3 50000 -T -I 3 1 1 1 -m 1 2 0 -m 2 1 0 -em 0.667 1 2 4 -em 0.667 2 1 4 -em 1 1 2 0 -em 1 2 1 0 -ej 1 2 1 -ej 2 3 1 | tail -n + 4 | grep -v//&amp;gt; tree</p> <p>./seq-gen -m HKY -l 500 -s 0.01 -t 2.0 &amp;lt; tree &amp;gt; infile</p> </div> <p /> </div> <div class="comparedwithima3andanalyzedrealdata" title="sec"> <div class="title" tagx="title" title="title">
+Compared with IMa3 and Analyzed Real Data</div> <p>The model estimated by IMa3 is IM model, and we used a fixed true species topology for IMa3. The real data are the genomic sequences of the human (H), chimpanzee (C), and gorilla (G) from <a href="#evaa087-B1">Burgess and Yang (2008)</a>. The data set comprises 14,663 autosomal loci, and the mean locus length is 508 bp.</p> </div> </div> <div class="results" title="results"> <div class="title" tagx="title" title="title">
+Results</div> <div class="theaccuracyofmstree" title="sec"> <div class="title" tagx="title" title="title">
+The Accuracy of mstree</div> <p>We used the program ms (<a href="#evaa087-B8">Hudson 2002</a>) to simulate gene trees at multi loci under the IIM, secondary contact (SC), and IM model. For the IIM model, the gene flow stopped at <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> in the past; For the SC model, the time of SC began at <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> in the past. Two sets of parameter values were used, roughly based on estimates from the hominoids (<a href="#evaa087-B1">Burgess and Yang 2008</a>) and the mangroves (<a href="#evaa087-B14">Zhou et al. 2007</a>). They are as follows: <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.005</div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.006</div></div></span>, and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.004</div></div></span> (hominoids); <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.01</div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.02</div></div></span>, and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.01</div></div></span> (mangroves). For the three models, gene flow is symmetrical and the migration rate (the expected number of migrants per generation) is 1. The number of loci is 10,000 and the number of replicates is 1,000. Analyzing the simulation data by using mstree, the results show that the parameter estimates are very close to the true values and are not sensitive to the model’s assumption about the relationship between isolation and migration (<a href="#evaa087-T1">table 1</a>). <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+ε</div></div></span> in <a href="#evaa087-T1">table 1</a> is the threshold value in mstree and describes the degree of approximation between two sides of the formulas in cases A, B, and C. For example, in case A, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+ε</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.03</div></div></span> means the value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> </div> </div> </div></div></span> should be &amp;lt;0.03 when <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+-</div> <div class="mn_UNKNOWN">
+2</div> <div class="mfenced_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+-</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+a</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+b</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+'</div> </div> </div> </div> </div></div></span>. In mstree, the value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+ε</div></div></span> must be &amp;lt;0.05. The results in <a href="#evaa087-T1">table 1</a> show that the smaller <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+ε</div></div></span> increased the standard deviations of the parameter estimates and the estimate of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>. Therefore, we suggest that the value of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+ε</div></div></span> should be 0.03 when using mstree. Furthermore, we applied mstree to additional two parameter sets (<a href="#evaa087-B3">Dalquen et al. 2017</a>), which have larger parameter values and different values for two <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+s</div></div></span> (<a href="#evaa087-T2">table 2</a>). The results show that mstree still performs well. </p> <div class="table-wrap_UNKNOWN" id="evaa087-T1" orientation="portrait" position="float"><span class="label" tagx="label" title="label">Table 1</span> <p>The Estimated Species Divergence Time and Population Size with Different Threshold Value</p>  <table frame="hsides" rules="groups"> <div class="colgroup_UNKNOWN" span="1"> <div class="col_UNKNOWN" valign="top" align="left" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="left" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div>  <thead> <tr> <th rowspan="2" colspan="1" /> <th rowspan="2" colspan="1">Threshold</th> <th colspan="4" rowspan="1">Hominoid <hr /> </th> <th colspan="4" rowspan="1">Mangrove <hr /> </th> </tr> <tr> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> </tr> </thead> <tbody> <tr> <td rowspan="3" colspan="1">IIM model</td> <td rowspan="1" colspan="1"><i>ε</i> = 0.007</td> <td rowspan="1" colspan="1">0.50 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">0.49 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> <td rowspan="1" colspan="1">0.60 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.00</td> <td rowspan="1" colspan="1">0.42 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.06</td> <td rowspan="1" colspan="1">0.97 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.11</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">1.25 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.29</td> </tr> <tr> <td rowspan="1" colspan="1"><i>ε</i> = 0.01</td> <td rowspan="1" colspan="1">0.50 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">0.49 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.03</td> <td rowspan="1" colspan="1">0.60 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.00</td> <td rowspan="1" colspan="1">0.41 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.03</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.05</td> <td rowspan="1" colspan="1">0.98 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.07</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">1.14 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.22</td> </tr> <tr> <td rowspan="1" colspan="1"><i>ε</i> = 0.03</td> <td rowspan="1" colspan="1"><b>0.50</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.02</b></td> <td rowspan="1" colspan="1"><b>0.50</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>0.60</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.00</b></td> <td rowspan="1" colspan="1"><b>0.39</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>1.00</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.02</b></td> <td rowspan="1" colspan="1"><b>0.99</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.02</b></td> <td rowspan="1" colspan="1"><b>2.00</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>0.99</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.05</b></td> </tr> <tr> <td rowspan="3" colspan="1">SC model</td> <td rowspan="1" colspan="1"><i>ε</i> = 0.007</td> <td rowspan="1" colspan="1">0.50 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">0.48 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.05</td> <td rowspan="1" colspan="1">0.60 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.00</td> <td rowspan="1" colspan="1">0.43 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.05</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.06</td> <td rowspan="1" colspan="1">0.95 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.14</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">1.31 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.33</td> </tr> <tr> <td rowspan="1" colspan="1"><i>ε</i> = 0.01</td> <td rowspan="1" colspan="1">0.50 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">0.49 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> <td rowspan="1" colspan="1">0.60 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.00</td> <td rowspan="1" colspan="1">0.42 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.03</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> <td rowspan="1" colspan="1">0.97 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.09</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">1.21 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.27</td> </tr> <tr> <td rowspan="1" colspan="1"><i>ε</i> = 0.03</td> <td rowspan="1" colspan="1"><b>0.50</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>0.50</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.02</b></td> <td rowspan="1" colspan="1"><b>0.60</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.00</b></td> <td rowspan="1" colspan="1"><b>0.39</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>1.00</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.02</b></td> <td rowspan="1" colspan="1"><b>0.99</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.03</b></td> <td rowspan="1" colspan="1"><b>2.00</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>1.01</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.07</b></td> </tr> <tr> <td rowspan="3" colspan="1">IM model</td> <td rowspan="1" colspan="1"><i>ε</i> = 0.007</td> <td rowspan="1" colspan="1">0.50 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">0.48 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.06</td> <td rowspan="1" colspan="1">0.60 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.00</td> <td rowspan="1" colspan="1">0.43 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.05</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.06</td> <td rowspan="1" colspan="1">0.95 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.15</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">1.34 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.34</td> </tr> <tr> <td rowspan="1" colspan="1"><i>ε</i> = 0.01</td> <td rowspan="1" colspan="1">0.50 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">0.49 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> <td rowspan="1" colspan="1">0.60 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.00</td> <td rowspan="1" colspan="1">0.41 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> <td rowspan="1" colspan="1">0.96 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.11</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">1.22 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.28</td> </tr> <tr> <td rowspan="1" colspan="1"><i>ε</i> = 0.03</td> <td rowspan="1" colspan="1"><b>0.50</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>0.50</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.02</b></td> <td rowspan="1" colspan="1"><b>0.60</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.00</b></td> <td rowspan="1" colspan="1"><b>0.39</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>1.00</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.02</b></td> <td rowspan="1" colspan="1"><b>0.99</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.03</b></td> <td rowspan="1" colspan="1"><b>2.00</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.01</b></td> <td rowspan="1" colspan="1"><b>1.00</b><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span><b>0.07</b></td> </tr> </tbody> </table> <div class="table-wrap-foot_UNKNOWN"> <div class="fn-type-" title=""> <p> <div class="sc_UNKNOWN">
+Note</div>.—The hominoid set is <i>θ</i><sub>0</sub> = <i>θ</i><sub>1</sub> = 0.005, <i>τ</i><sub>0</sub> = 0.006, and <i>τ</i><sub>1</sub> = 0.004. The mangrove set is <i>θ</i><sub>0</sub> = <i>θ</i><sub>1</sub> = 0.01, <i>τ</i><sub>0</sub> = 0.02, and <i>τ</i><sub>1</sub> = 0.01. <i>θ</i> and <i>τ</i> estimates are scaled by 10<sup>2</sup>. Gene flow is symmetrical and the migration rate is 1. <i>ε</i> is the threshold value in mstree. The number of loci is 10,000. The number of replicates is 1,000. IIM, isolation-with-initial-migration; SC, secondary contact; IM, isolation-with-migration. The best estimates are marked in bold.</p> </div> </div> </div> <div class="table-wrap_UNKNOWN" id="evaa087-T2" orientation="portrait" position="float"><span class="label" tagx="label" title="label">Table 2</span> <p>The Estimated Species Divergence Time and Population Size with Larger and Different Parameter Values</p>  <table frame="hsides" rules="groups"> <div class="colgroup_UNKNOWN" span="1"> <div class="col_UNKNOWN" valign="top" align="left" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="char" char="." span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div> <div class="colgroup_UNKNOWN"><div class="col_UNKNOWN" valign="top" align="center" span="1" /></div>  <thead> <tr> <th rowspan="2" colspan="1" /> <th rowspan="2" colspan="1">Threshold</th> <th colspan="4" rowspan="1"><i>θ</i><sub>0</sub> = 0.02, <i>θ</i><sub>1</sub> = 0.03, <i>τ</i><sub>0</sub> = 0.06, <i>τ</i><sub>1</sub> = 0.04 <hr /> </th> <th colspan="4" rowspan="1"><i>θ</i><sub>0</sub> = 0.02, <i>θ</i><sub>1</sub> = 0.01, <i>τ</i><sub>0</sub> = 0.02, <i>τ</i><sub>1</sub> = 0.01 <hr /> </th> </tr> <tr> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span></th> <th rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span></th> </tr> </thead> <tbody> <tr> <td rowspan="1" colspan="1">IIM model</td> <td rowspan="1" colspan="1"><i>ε</i> = 0.03</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.08</td> <td rowspan="1" colspan="1">2.97 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.10</td> <td rowspan="1" colspan="1">5.99 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.03</td> <td rowspan="1" colspan="1">3.90 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.17</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.06</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.01</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.03</td> </tr> <tr> <td rowspan="1" colspan="1">SC model</td> <td rowspan="1" colspan="1"><i>ε</i> = 0.03</td> <td rowspan="1" colspan="1">2.01 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.06</td> <td rowspan="1" colspan="1">2.95 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.17</td> <td rowspan="1" colspan="1">5.99 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.03</td> <td rowspan="1" colspan="1">4.03 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.19</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.06</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> </tr> <tr> <td rowspan="1" colspan="1">IM model</td> <td rowspan="1" colspan="1"><i>ε</i> = 0.03</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.05</td> <td rowspan="1" colspan="1">2.94 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.29</td> <td rowspan="1" colspan="1">5.98 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.05</td> <td rowspan="1" colspan="1">3.89 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.46</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.05</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">2.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.02</td> <td rowspan="1" colspan="1">1.00 <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+±</div></div></span> 0.04</td> </tr> </tbody> </table> <div class="table-wrap-foot_UNKNOWN"> <div class="fn-type-" title=""> <p> <div class="sc_UNKNOWN">
+Note</div>.—<i>θ</i> and <i>τ</i> estimates are scaled by 10<sup>2</sup>. Gene flow is symmetrical and the migration rate is 1. <i>ε</i> is the threshold value in mstree. The number of loci is 10,000. The number of replicates is 1,000. IIM, isolation-with-initial-migration; SC, secondary contact; IM, isolation-with-migration.</p> </div> </div> </div> </div> <div class="thefactorsthatinfluenceparameterestimates" title="sec"> <div class="title" tagx="title" title="title">
+The Factors That Influence Parameter Estimates</div> <p>In addition, we performed more simulations to test how different factors influence parameter estimates, such as the number of loci, migration rate, and the direction of migration. The numbers of loci are 5,000, 10,000, and 50,000; the migration rates are 0.1, 1, and 10; and the directions of migration are symmetrical and asymmetrical. The results are shown in <a href="#sup1">supplementary tables S1–S6</a>, <a href="#sup1">Supplementary Material</a> online. For the parameters <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+θ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>, and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div></span>, the results show that larger number of loci makes the estimates more accurate and the estimates are not sensitive to the model’s assumption, migration rate, and the direction of migration. For the parameter <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span>, we have the same conclusion except for the case that migration rate is 10. When migration rate is 10, asymmetrical gene flow decreases the accuracy of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> estimate. This indicates that the estimate of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> is sensitive to the direction of migration with large migration rate (<a href="#sup1">supplementary fig. S1</a>, <a href="#sup1">Supplementary Material</a> online). The examples of above simulation commands are in the <a href="#sup1">supplementary file S2</a>, <a href="#sup1">Supplementary Material</a> online.</p> </div> <div class="comparedwith3sandima3" title="sec"> <div class="title" tagx="title" title="title">
+Compared with 3s and IMa3</div> <p>The input file of mstree is gene tree, which is in Newick format, and the gene tree can be estimated from the observed sequence alignments where there must be three sequences, with one sequence from each species, at each locus. Therefore, we need a program, such as PHYLIP, to infer gene trees when applying mstree to experimental data. Because inference of gene trees is associated with error and uncertainty, we did some simulations to investigate the effect of the gene tree uncertainty (<a href="#sup1">supplementary table S7</a>, <a href="#sup1">Supplementary Material</a> online). We used program ms and seq-gen (<a href="#evaa087-B10">Rambaut and Grassly 1997</a>) to generate sequence data under JC69 model and used program dnamlk in PHYLIP package to infer gene trees. Although there has been some decline in the accuracy of parameter estimates because of the inferred error of gene trees, the estimates of mstree are still near to the true values and not sensitive to the model’s assumption. Comparing mstree with the program 3s (<a href="#evaa087-B3">Dalquen et al. 2017</a>) and IMa3 (<a href="#evaa087-B7">Hey et al. 2018</a>), mstree is faster than 3s and IMa3 (<a href="#sup1">supplementary table S7</a>, <a href="#sup1">Supplementary Material</a> online). Although 3s and IMa3 performed very well on some parameter estimates, the <i>τ</i><sub>1</sub> estimates of 3s and <i>τ</i><sub>0</sub> estimates of IMa3 were very poor.</p> </div> <div class="robustnessofmstreeandanalyzingrealdata" title="sec"> <div class="title" tagx="title" title="title">
+Robustness of mstree and Analyzing Real Data</div> <p>Though our method is not affected by gene flow between the sister species, our method assumes that there is no gene flow between the ingroup and the outgroup. Therefore, we examined the robustness of our method in the presence of gene flow between the ingroup and the outgroup. The results are shown in <a href="#sup1">supplementary table S8</a>, <a href="#sup1">Supplementary Material</a> online. Our method is robust to the simulations based on IIM model between the ingroup and the outgroup. For the simulations based on SC and IM model between the ingroup and the outgroup, the accuracy of parameter estimates is on the decline. At last, we apply mstree to the genomic sequences of the human (H), chimpanzee (C), and gorilla (G) (<a href="#evaa087-B1">Burgess and Yang 2008</a>). The estimates of parameters are similar to those of <a href="#evaa087-B1">Burgess and Yang (2008)</a>, but the estimate of <i>τ</i><sub>HC</sub> is slightly higher (<a href="#sup1">supplementary table S9</a>, <a href="#sup1">Supplementary Material</a> online). In order to quantify uncertainty in the estimates obtained, we resort to bootstrapping with 100 replicates. The averages and the standard errors of estimates are as follows: <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> </div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+HCG</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.0032</div> <div class="mo_UNKNOWN"> </div> <div class="mo_UNKNOWN">
+±</div> <div class="mo_UNKNOWN"> </div> <div class="mn_UNKNOWN">
+0.0000</div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> </div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+HC</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.0068</div> <div class="mo_UNKNOWN"> </div> <div class="mo_UNKNOWN">
+±</div> <div class="mo_UNKNOWN"> </div> <div class="mn_UNKNOWN">
+0.0005</div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+HCG</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.0059</div> <div class="mo_UNKNOWN"> </div> <div class="mo_UNKNOWN">
+±</div> <div class="mo_UNKNOWN"> </div> <div class="mn_UNKNOWN">
+0.0000</div></div></span>, and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+HC</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.0038</div> <div class="mo_UNKNOWN"> </div> <div class="mo_UNKNOWN">
+±</div> <div class="mo_UNKNOWN"> </div> <div class="mn_UNKNOWN">
+0.0005</div></div></span>.</p> </div> </div> <div class="discussion" title="discussion"> <div class="title" tagx="title" title="title">
+Discussion</div> <p><a href="#sup1">Supplementary table S8</a>, <a href="#sup1">Supplementary Material</a> online, shows the performance of mstree in the presence of gene flow with species 3. Under the influence of gene flow between the ingroup and the outgroup, <i>τ</i><sub>0</sub> was underestimated and was closed to the time that gene flow stopped except for IIM model. When <i>τ</i><sub>0</sub> was underestimated, the estimates of other parameters were far away from the true value. <a href="#evaa087-B1">Burgess and Yang (2008)</a> estimated divergence times under the assumption of no gene flow. However, <a href="#evaa087-B26599282">Zhu and Yang (2012</a>) applied the test based on SIM3s model to a human–chimpanzee–gorilla genomic data and the test results suggested gene flow around the time of speciation of human and chimpanzee. Compared with the estimated divergence times from <a href="#evaa087-B1">Burgess and Yang (2008)</a>, the analysis from mstree suggested migrations between sister species. In addition, there are two significant differences between mstree and COALGF (<a href="#evaa087-B12">Tian and Kubatko 2016</a>), which describes the distribution of coalescent histories under the coalescent model with gene flow: 1) mstree uses the coalescent history distribution under coalescent model without gene flow to infer model parameters based on summary statistics; however, COALGF computes probabilities of gene tree histories given species trees under the coalescent process with gene flow and the results obtained from COALGF may be used to infer model parameters based on a maximum likelihood framework. 2) mstree does not make any assumption about the mode of gene flow between sister taxa; however, COALGF assumes that the mode of gene flow between sister taxa is IM.</p> <p>To summarize, we propose a multispecies coalescent approach, mstree, for estimating the parameters during speciation with gene flow. Theoretically, our method does not rely on any assumption about the relationship between isolation and migration. Furthermore, the simulation results demonstrate that mstree can accurately estimate species divergence time and ancestral population size regardless of IIM model, SC model, or IM model.</p> </div> <div class="supplementary-material" title="supplementary-material"> <div class="title" tagx="title" title="title">
+Supplementary Material</div> <div class="local-data" title="local-data"><span class="label" tagx="label" title="label">evaa087_Supplementary_Data</span><div class="media" title="media"><a href="evaa087_supplementary_data.zip">LINK</a> <p>Click here for additional data file.</p>  </div> </div> </div> </div> <div class="back" title="back"> <div class="ack" title="ack"> <div class="title" tagx="title" title="title">
+Acknowledgments</div> <p>We thank David Bryant and three anonymous reviewers for many critical and constructive comments, which have led to improvement of our article. This work was supported by the National Natural Science Foundation of China (No. 31501081 to Q.Y.).</p> </div> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+Literature Cited</div> <li tag="ref"><a name="evaa087-B1" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Burgess</span><span class="given-names" tagx="given-names" title="given-names">R</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yang</span><span class="given-names" tagx="given-names" title="given-names">Z.</span></span></span><span class="year" tagx="year" title="year">2008</span><span class="mixed-article-title" title="mixed-article-title">Estimation of hominoid ancestral population sizes under Bayesian coalescent models incorporating mutation rate variation and sequencing errors</span>. <span class="source" tagx="source" title="source">Mol Biol Evol</span>. <span class="volume" tagx="volume" title="volume">25</span>(<span class="issue" tagx="issue" title="issue">9</span>):<span class="fpage" tagx="fpage" title="fpage">1979</span>–<span class="lpage" tagx="lpage" title="lpage">1994</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/18603620">18603620</a></span></span></li> <li tag="ref"><a name="evaa087-B2" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Costa</span><span class="given-names" tagx="given-names" title="given-names">RJ</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wilkinson-Herbots</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span></span><span class="year" tagx="year" title="year">2017</span><span class="mixed-article-title" title="mixed-article-title">Inference of gene flow in the process of speciation: an efficient maximum-likelihood method for the isolation-with-initial-migration model</span>. <span class="source" tagx="source" title="source">Genetics</span><span class="volume" tagx="volume" title="volume">205</span>(<span class="issue" tagx="issue" title="issue">4</span>):<span class="fpage" tagx="fpage" title="fpage">1597</span>–<span class="lpage" tagx="lpage" title="lpage">1618</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/28193727">28193727</a></span></span></li> <li tag="ref"><a name="evaa087-B3" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Dalquen</span><span class="given-names" tagx="given-names" title="given-names">DA</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhu</span><span class="given-names" tagx="given-names" title="given-names">TQ</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yang</span><span class="given-names" tagx="given-names" title="given-names">ZH.</span></span></span><span class="year" tagx="year" title="year">2017</span><span class="mixed-article-title" title="mixed-article-title">Maximum likelihood implementation of an isolation-with-migration model for three species</span>. <span class="source" tagx="source" title="source">Syst Biol</span>. <span class="volume" tagx="volume" title="volume">66</span>(<span class="issue" tagx="issue" title="issue">3</span>):<span class="fpage" tagx="fpage" title="fpage">379</span>–<span class="lpage" tagx="lpage" title="lpage">398</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27486180">27486180</a></span></span></li> <li tag="ref"><a name="evaa087-B4" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Feder</span><span class="given-names" tagx="given-names" title="given-names">JL</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Egan</span><span class="given-names" tagx="given-names" title="given-names">SP</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nosil</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span></span><span class="year" tagx="year" title="year">2012</span><span class="mixed-article-title" title="mixed-article-title">The genomics of speciation-with-gene-flow</span>. <span class="source" tagx="source" title="source">Trends Genet</span>. <span class="volume" tagx="volume" title="volume">28</span>(<span class="issue" tagx="issue" title="issue">7</span>):<span class="fpage" tagx="fpage" title="fpage">342</span>–<span class="lpage" tagx="lpage" title="lpage">350</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22520730">22520730</a></span></span></li> <li tag="ref"><a name="evaa087-B5" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Futuyma</span><span class="given-names" tagx="given-names" title="given-names">DJ</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mayer</span><span class="given-names" tagx="given-names" title="given-names">GC.</span></span></span><span class="year" tagx="year" title="year">1980</span><span class="mixed-article-title" title="mixed-article-title">Non-allopatric speciation in animals</span>. <span class="source" tagx="source" title="source">Syst Zool</span>. <span class="volume" tagx="volume" title="volume">29</span>(<span class="issue" tagx="issue" title="issue">3</span>):<span class="fpage" tagx="fpage" title="fpage">254</span>–<span class="lpage" tagx="lpage" title="lpage">271</span>.</span></li> <li tag="ref"><a name="evaa087-B6" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gourbiere</span><span class="given-names" tagx="given-names" title="given-names">S</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mallet</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span><span class="year" tagx="year" title="year">2010</span><span class="mixed-article-title" title="mixed-article-title">Are species real? The shape of the species boundary with exponential failure, reinforcement, and the "missing snowball"</span>. <span class="source" tagx="source" title="source">Evolution</span><span class="volume" tagx="volume" title="volume">64</span>(<span class="issue" tagx="issue" title="issue">1</span>):<span class="fpage" tagx="fpage" title="fpage">1</span>–<span class="lpage" tagx="lpage" title="lpage">24</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19780810">19780810</a></span></span></li> <li tag="ref"><a name="evaa087-B7" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hey</span><span class="given-names" tagx="given-names" title="given-names">J</span></span></span>, <span class="etal" title="etal"><i>et al.</i></span><span class="year" tagx="year" title="year">2018</span><span class="mixed-article-title" title="mixed-article-title">Phylogeny estimation by integration over isolation with migration models</span>. <span class="source" tagx="source" title="source">Mol Biol Evol</span>. <span class="volume" tagx="volume" title="volume">35</span>(<span class="issue" tagx="issue" title="issue">11</span>):<span class="fpage" tagx="fpage" title="fpage">2805</span>–<span class="lpage" tagx="lpage" title="lpage">2818</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/30137463">30137463</a></span></span></li> <li tag="ref"><a name="evaa087-B8" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hudson</span><span class="given-names" tagx="given-names" title="given-names">RR.</span></span></span><span class="year" tagx="year" title="year">2002</span><span class="mixed-article-title" title="mixed-article-title">Generating samples under a Wright–Fisher neutral model of genetic variation</span>. <span class="source" tagx="source" title="source">Bioinformatics</span><span class="volume" tagx="volume" title="volume">18</span>(<span class="issue" tagx="issue" title="issue">2</span>):<span class="fpage" tagx="fpage" title="fpage">337</span>–<span class="lpage" tagx="lpage" title="lpage">338</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/11847089">11847089</a></span></span></li> <li tag="ref"><a name="evaa087-B9" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mailund</span><span class="given-names" tagx="given-names" title="given-names">T</span></span></span>, <span class="etal" title="etal"><i>et al.</i></span><span class="year" tagx="year" title="year">2012</span><span class="mixed-article-title" title="mixed-article-title">A new isolation with migration model along complete genomes infers very different divergence processes among closely related great ape species</span>. <span class="source" tagx="source" title="source">PLoS Genet</span>. <span class="volume" tagx="volume" title="volume">8</span>(<span class="issue" tagx="issue" title="issue">12</span>):<span class="fpage" tagx="fpage" title="fpage">e1003125</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23284294">23284294</a></span></span></li> <li tag="ref"><a name="evaa087-B10" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rambaut</span><span class="given-names" tagx="given-names" title="given-names">A</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Grassly</span><span class="given-names" tagx="given-names" title="given-names">NC.</span></span></span><span class="year" tagx="year" title="year">1997</span><span class="mixed-article-title" title="mixed-article-title">Seq-Gen: an application for the Monte Carlo simulation of DNA sequence evolution along phylogenetic frees</span>. <span class="source" tagx="source" title="source">Comput Appl Biosci</span>. <span class="volume" tagx="volume" title="volume">13</span>(<span class="issue" tagx="issue" title="issue">3</span>):<span class="fpage" tagx="fpage" title="fpage">235</span>–<span class="lpage" tagx="lpage" title="lpage">238</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/9183526">9183526</a></span></span></li> <li tag="ref"><a name="evaa087-B11" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Smadja</span><span class="given-names" tagx="given-names" title="given-names">CM</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Butlin</span><span class="given-names" tagx="given-names" title="given-names">RK.</span></span></span><span class="year" tagx="year" title="year">2011</span><span class="mixed-article-title" title="mixed-article-title">A framework for comparing processes of speciation in the presence of gene flow</span>. <span class="source" tagx="source" title="source">Mol Ecol</span>. <span class="volume" tagx="volume" title="volume">20</span>(<span class="issue" tagx="issue" title="issue">24</span>):<span class="fpage" tagx="fpage" title="fpage">5123</span>–<span class="lpage" tagx="lpage" title="lpage">5140</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22066935">22066935</a></span></span></li> <li tag="ref"><a name="evaa087-B12" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tian</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kubatko</span><span class="given-names" tagx="given-names" title="given-names">LS.</span></span></span><span class="year" tagx="year" title="year">2016</span><span class="mixed-article-title" title="mixed-article-title">Distribution of coalescent histories under the coalescent model with gene flow</span>. <span class="source" tagx="source" title="source">Mol Phylogenet Evol</span>. <span class="volume" tagx="volume" title="volume">105</span>:<span class="fpage" tagx="fpage" title="fpage">177</span>–<span class="lpage" tagx="lpage" title="lpage">192</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27614251">27614251</a></span></span></li> <li tag="ref"><a name="evaa087-B13" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hey</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span><span class="year" tagx="year" title="year">2010</span><span class="mixed-article-title" title="mixed-article-title">Estimating divergence parameters with small samples from a large number of loci</span>. <span class="source" tagx="source" title="source">Genetics</span><span class="volume" tagx="volume" title="volume">184</span>(<span class="issue" tagx="issue" title="issue">2</span>):<span class="fpage" tagx="fpage" title="fpage">363</span>–<span class="lpage" tagx="lpage" title="lpage">379</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19917765">19917765</a></span></span></li> <li tag="ref"><a name="evaa087-B14" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhou</span><span class="given-names" tagx="given-names" title="given-names">R</span></span></span>, <span class="etal" title="etal"><i>et al.</i></span><span class="year" tagx="year" title="year">2007</span><span class="mixed-article-title" title="mixed-article-title">Population genetics of speciation in nonmodel organisms: I. Ancestral polymorphism in mangroves</span>. <span class="source" tagx="source" title="source">Mol Biol Evol</span>. <span class="volume" tagx="volume" title="volume">24</span>(<span class="issue" tagx="issue" title="issue">12</span>):<span class="fpage" tagx="fpage" title="fpage">2746</span>–<span class="lpage" tagx="lpage" title="lpage">2754</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/17906000">17906000</a></span></span></li> <li tag="ref"><a name="evaa087-B26599282" /><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhu</span><span class="given-names" tagx="given-names" title="given-names">T</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yang</span><span class="given-names" tagx="given-names" title="given-names">Z.</span></span></span><span class="year" tagx="year" title="year">2012</span><span class="mixed-article-title" title="mixed-article-title">Maximum Likelihood Implementation of an Isolation-with-Migration Model with Three Species for Testing Speciation with Gene Flow</span>. <span class="source" tagx="source" title="source">Mol Biol Evol. </span><span class="volume" tagx="volume" title="volume">29</span>(<span class="issue" tagx="issue" title="issue">10</span>):<span class="fpage" tagx="fpage" title="fpage">3131</span>–<span class="lpage" tagx="lpage" title="lpage">3142</span>.<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22504520">22504520</a></span></span></li> </ul> </div> </div>  </body></html>

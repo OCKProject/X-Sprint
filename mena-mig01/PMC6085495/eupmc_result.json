@@ -1,0 +1,452 @@
+{
+  "id": [
+    "29929887"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29929887"
+  ],
+  "pmcid": [
+    "PMC6085495"
+  ],
+  "doi": [
+    "10.1016/j.ebiom.2018.06.007"
+  ],
+  "title": [
+    "Gene Expression Signatures Predicting Survival and Chemotherapy Benefit in Patients with Resected Non-small-Cell Lung Cancer."
+  ],
+  "authorString": [
+    "Rosell R, Karachaliou N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rosell R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Rosell"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Biology and Precision Medicine Program, Catalan Institute of Oncology, Germans Trias i Pujol Health Sciences Institute and Hospital, Badalona, Barcelona, Spain. Electronic address: rrosell@iconcologia.net."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karachaliou N"
+          ],
+          "firstName": [
+            "Niki"
+          ],
+          "lastName": [
+            "Karachaliou"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Medical Oncology Department, University Hospital Sagrat Cor, QuironSalud Group, Institute of Oncology Rosell, Barcelona, Spain."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "33"
+      ],
+      "journalIssueId": [
+        "2709982"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EBioMedicine"
+          ],
+          "ISOAbbreviation": [
+            "EBioMedicine"
+          ],
+          "medlineAbbreviation": [
+            "EBioMedicine"
+          ],
+          "NLMid": [
+            "101647039"
+          ],
+          "ISSN": [
+            "2352-3964"
+          ],
+          "ESSN": [
+            "2352-3964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "16-17"
+  ],
+  "affiliation": [
+    "Cancer Biology and Precision Medicine Program, Catalan Institute of Oncology, Germans Trias i Pujol Health Sciences Institute and Hospital, Badalona, Barcelona, Spain. Electronic address: rrosell@iconcologia.net."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "discussion",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Carcinoma, Non-Small-Cell Lung"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lung Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Chemotherapy, Adjuvant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Survival Rate"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Neoplastic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Adenocarcinoma",
+        "Metastasis",
+        "CD27",
+        "Cd47",
+        "Cd73",
+        "Gene Signatures",
+        "Mena",
+        "Nsclc, Adjuvant Chemotherapy"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ebiom.2018.06.007"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6085495"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6085495?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ebiom.2018.06.007"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-04"
+  ],
+  "dateOfCreation": [
+    "2018-06-23"
+  ],
+  "firstIndexDate": [
+    "2018-06-23"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-15"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "firstPublicationDate": [
+    "2018-07-01"
+  ]
+}

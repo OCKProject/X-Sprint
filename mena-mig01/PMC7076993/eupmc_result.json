@@ -1,0 +1,582 @@
+{
+  "id": [
+    "32183907"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32183907"
+  ],
+  "pmcid": [
+    "PMC7076993"
+  ],
+  "doi": [
+    "10.1186/s13064-020-00141-x"
+  ],
+  "title": [
+    "Drosophila enabled promotes synapse morphogenesis and regulates active zone form and function."
+  ],
+  "authorString": [
+    "McNeill EM, Thompson C, Berke B, Chou VT, Rusch J, Duckworth A, DeProto J, Taylor A, Gates J, Gertler F, Keshishian H, Van Vactor D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McNeill EM"
+          ],
+          "firstName": [
+            "Elizabeth M"
+          ],
+          "lastName": [
+            "McNeill"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Food Science and Human Nutrition, Iowa State University, Ames, IA, USA. emcneill@iastate.edu."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson C"
+          ],
+          "firstName": [
+            "Cheryl"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Program in Neuroscience, Blavatnik Institute, Harvard Medical School, Boston, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Berke B"
+          ],
+          "firstName": [
+            "Brett"
+          ],
+          "lastName": [
+            "Berke"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, Yale University, New Haven, CT, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chou VT"
+          ],
+          "firstName": [
+            "Vivian T"
+          ],
+          "lastName": [
+            "Chou"
+          ],
+          "initials": [
+            "VT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Program in Neuroscience, Blavatnik Institute, Harvard Medical School, Boston, MA, USA. vtchou@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rusch J"
+          ],
+          "firstName": [
+            "Jannette"
+          ],
+          "lastName": [
+            "Rusch"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Program in Neuroscience, Blavatnik Institute, Harvard Medical School, Boston, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Duckworth A"
+          ],
+          "firstName": [
+            "April"
+          ],
+          "lastName": [
+            "Duckworth"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Program in Neuroscience, Blavatnik Institute, Harvard Medical School, Boston, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "DeProto J"
+          ],
+          "firstName": [
+            "Jamin"
+          ],
+          "lastName": [
+            "DeProto"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Program in Neuroscience, Blavatnik Institute, Harvard Medical School, Boston, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor A"
+          ],
+          "firstName": [
+            "Alicia"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Food Science and Human Nutrition, Iowa State University, Ames, IA, USA.",
+                "Department of Cell Biology and Program in Neuroscience, Blavatnik Institute, Harvard Medical School, Boston, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gates J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Gates"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, Bucknell University, Lewisburg, PA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gertler F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Gertler"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, England."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Keshishian H"
+          ],
+          "firstName": [
+            "Haig"
+          ],
+          "lastName": [
+            "Keshishian"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, Yale University, New Haven, CT, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Van Vactor D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Van Vactor"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Program in Neuroscience, Blavatnik Institute, Harvard Medical School, Boston, MA, USA. davie_vanvactor@hms.harvard.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2925176"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural development"
+          ],
+          "ISOAbbreviation": [
+            "Neural Dev"
+          ],
+          "medlineAbbreviation": [
+            "Neural Dev"
+          ],
+          "NLMid": [
+            "101286574"
+          ],
+          "ISSN": [
+            "1749-8104"
+          ],
+          "ESSN": [
+            "1749-8104"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "4"
+  ],
+  "abstractText": [
+    "BACKGROUND:Recent studies of synapse form and function highlight the importance of the actin cytoskeleton in regulating multiple aspects of morphogenesis, neurotransmission, and neural plasticity. The conserved actin-associated protein Enabled (Ena) is known to regulate development of the Drosophila larval neuromuscular junction through a postsynaptic mechanism. However, the functions and regulation of Ena within the presynaptic terminal has not been determined. METHODS:Here, we use a conditional genetic approach to address a presynaptic role for Ena on presynaptic morphology and ultrastructure, and also examine the pathway in which Ena functions through epistasis experiments. RESULTS:We find that Ena is required to promote the morphogenesis of presynaptic boutons and branches, in contrast to its inhibitory role in muscle. Moreover, while postsynaptic Ena is regulated by microRNA-mediated mechanisms, presynaptic Ena relays the output of the highly conserved receptor protein tyrosine phosphatase Dlar and associated proteins including the heparan sulfate proteoglycan Syndecan, and the non-receptor Abelson tyrosine kinase to regulate addition of presynaptic varicosities. Interestingly, Ena also influences active zones, where it restricts active zone size, regulates the recruitment of synaptic vesicles, and controls the amplitude and frequency of spontaneous glutamate release. CONCLUSION:We thus show that Ena, under control of the Dlar pathway, is required for presynaptic terminal morphogenesis and bouton addition and that Ena has active zone and neurotransmission phenotypes. Notably, in contrast to Dlar, Ena appears to integrate multiple pathways that regulate synapse form and function."
+  ],
+  "affiliation": [
+    "Department of Food Science and Human Nutrition, Iowa State University, Ames, IA, USA. emcneill@iastate.edu."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2R01NS031651"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS069695"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS069695"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drosophila",
+        "Actin",
+        "Synapse",
+        "Receptor Protein Tyrosine Phosphatase",
+        "Ena/vasp, Dlar"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13064-020-00141-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7076993"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7076993?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13064-020-00141-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-19"
+  ],
+  "firstIndexDate": [
+    "2020-03-19"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-05-14"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-17"
+  ],
+  "firstPublicationDate": [
+    "2020-03-17"
+  ]
+}

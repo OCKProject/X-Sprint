@@ -1,0 +1,506 @@
+{
+  "id": [
+    "32245166"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32245166"
+  ],
+  "pmcid": [
+    "PMC7140032"
+  ],
+  "doi": [
+    "10.3390/cancers12030743"
+  ],
+  "title": [
+    "Gauging the Impact of Cancer Treatment Modalities on Circulating Tumor Cells (CTCs)."
+  ],
+  "authorString": [
+    "Mathias TJ, Chang KT, Martin SS, Vitolo MI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mathias TJ"
+          ],
+          "firstName": [
+            "Trevor J"
+          ],
+          "lastName": [
+            "Mathias"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2830-8475",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Program in Molecular Medicine, University of Maryland Graduate Program in Life Sciences, Baltimore, MD 21201, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chang KT"
+          ],
+          "firstName": [
+            "Katarina T"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "KT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Program in Molecular Medicine, University of Maryland Graduate Program in Life Sciences, Baltimore, MD 21201, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martin SS"
+          ],
+          "firstName": [
+            "Stuart S"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD 21201, USA.",
+                "Stewart Greenebaum NCI Comprehensive Cancer Center, University of Maryland School of Medicine, Baltimore, MD 21201, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vitolo MI"
+          ],
+          "firstName": [
+            "Michele I"
+          ],
+          "lastName": [
+            "Vitolo"
+          ],
+          "initials": [
+            "MI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8055-9645",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physiology, University of Maryland School of Medicine, Baltimore, MD 21201, USA.",
+                "Stewart Greenebaum NCI Comprehensive Cancer Center, University of Maryland School of Medicine, Baltimore, MD 21201, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2830-8475",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8055-9645",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2918762"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The metastatic cascade consists of multiple complex steps, but the belief that it is a linear process is diminishing. In order to metastasize, cells must enter the blood vessels or body cavities (depending on the cancer type) via active or passive mechanisms. Once in the bloodstream and/or lymphatics, these cancer cells are now termed circulating tumor cells (CTCs). CTC numbers as well as CTC clusters have been used as a prognostic marker with higher numbers of CTCs and/or CTC clusters correlating with an unfavorable prognosis. However, we have very limited knowledge about CTC biology, including which of these cells are ultimately responsible for overt metastatic growth, but due to the fact that higher numbers of CTCs correlate with a worse prognosis; it would seem appropriate to either limit CTCs and/or their dissemination. Here, we will discuss the different cancer treatments which may inadvertently promote the mobilization of CTCs and potential CTC therapies to decrease metastasis."
+  ],
+  "affiliation": [
+    "Program in Molecular Medicine, University of Maryland Graduate Program in Life Sciences, Baltimore, MD 21201, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BX002746"
+          ],
+          "agency": [
+            "Veterans Administration"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01-CA154624"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01-CA-124704"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 CA134274"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA154624"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RSG-18-028-01-CSM"
+          ],
+          "agency": [
+            "American Cancer Society"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "I01 BX002746"
+          ],
+          "agency": [
+            "BLRD VA"
+          ],
+          "acronym": [
+            "BX"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA124704"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Dissemination",
+        "Chemotherapy",
+        "Metastasis",
+        "Radiotherapy",
+        "Circulating Tumor Cells",
+        "Ctcs",
+        "Surgery Resection"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers12030743"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7140032"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7140032?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers12030743"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-05"
+  ],
+  "firstIndexDate": [
+    "2020-04-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-15"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-21"
+  ],
+  "firstPublicationDate": [
+    "2020-03-21"
+  ]
+}

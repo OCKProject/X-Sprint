@@ -1,0 +1,507 @@
+{
+  "id": [
+    "32440219"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32440219"
+  ],
+  "pmcid": [
+    "PMC7217310"
+  ],
+  "doi": [
+    "10.2147/cmar.s237582"
+  ],
+  "title": [
+    "WD Repeat Domain 5 Promotes Invasion, Metastasis and Tumor Growth in Glioma Through Up-Regulated Zinc Finger E-Box Binding Homeobox 1 Expression."
+  ],
+  "authorString": [
+    "Dai B, Xiao Z, Zhu G, Mao B, Huang H, Guan F, Lin Z, Peng W, Liang X, Zhang B, Hu Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dai B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao Z"
+          ],
+          "firstName": [
+            "Zhiyong"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu G"
+          ],
+          "firstName": [
+            "Guangtong"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mao B"
+          ],
+          "firstName": [
+            "Beibei"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guan F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin Z"
+          ],
+          "firstName": [
+            "Zhenyang"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peng W"
+          ],
+          "firstName": [
+            "Weicheng"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5712-5926",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liang X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang B"
+          ],
+          "firstName": [
+            "Bolun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Z"
+          ],
+          "firstName": [
+            "Zhiqiang"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5712-5926",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2911712"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer management and research"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Manag Res"
+          ],
+          "medlineAbbreviation": [
+            "Cancer Manag Res"
+          ],
+          "NLMid": [
+            "101512700"
+          ],
+          "ISSN": [
+            "1179-1322"
+          ],
+          "ESSN": [
+            "1179-1322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3223-3235"
+  ],
+  "abstractText": [
+    "Background:Glioma is one of the important diseases that threaten human survival in today's society. WD repeat domain 5 (WDR5) belongs to the components of the lysine methyltransferase complex. WDR5 is involved in gene transcription regulation, cell senescence, cancer and other biological events through methylation modification. However, its expression and function in glioma are still unclear. Materials and Methods:The expression of WDR5 was observed in glioma cells, and then a glioma cell line SW1783 knocked down WDR5 was established. The effects of the decrease of WDR5 expression on proliferation, migration, invasion and EMT of glioma cells were detected, respectively. The downstream regulators of WDR5 were identified by gene expression profiling technology, and the possible molecular mechanisms were identified. Results:In this study, we found that WDR5 could promote glioma cell's proliferation, migration, invasion and tumor metastasis. In glioma, especially in metastatic glioma tissues, WDR5 levels were significantly increased, the higher expression level could also cause a significant reduction in overall survival of glioma patients. Second, the ability of cells' proliferation, migration, invasion and tumor metastasis was significantly reduced in WDR5 knockdown cell lines. We also found a significant change in the expression level of epithelial and mesenchymal markers in WDR5 knockdown cell lines. Furthermore, we found that knockdown of WDR5 could inhibit the expression of zinc finger E-box binding homeobox 1 (ZEB1), and knockdown of ZEB1 could inhibit invasion, migration and epithelial-mesenchymal transformation (EMT) in WDR5 over-expression cell line. We also found that WDR5 may regulate ZEB1's expression through H3K4me3. Conclusion:In summary, in this study, we have studied the relationship between WDR5 and glioma, and found that WDR5's expression is positively correlated with the proliferation, migration, and invasion of glioma cells, which will help find the potential therapeutic target for glioma patients."
+  ],
+  "affiliation": [
+    "Department of Neurosurgery, Beijing Shijitan Hospital, Capital Medical University, Peking University Ninth School of Clinical Medicine, Beijing, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Glioma",
+        "Metastasis",
+        "Wdr5",
+        "Zeb1"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CMAR.S237582"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7217310"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7217310?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/cmar.s237582"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-23"
+  ],
+  "firstIndexDate": [
+    "2020-05-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-23"
+  ],
+  "dateOfRevision": [
+    "2020-05-25"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-08"
+  ],
+  "firstPublicationDate": [
+    "2020-05-08"
+  ]
+}

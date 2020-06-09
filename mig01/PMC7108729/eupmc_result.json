@@ -1,0 +1,351 @@
+{
+  "id": [
+    "32231357"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32231357"
+  ],
+  "pmcid": [
+    "PMC7108729"
+  ],
+  "doi": [
+    "10.1371/journal.pmed.1003105"
+  ],
+  "title": [
+    "Migrant and refugee health: Complex health associations among diverse contexts call for tailored and rights-based solutions."
+  ],
+  "authorString": [
+    "Spiegel P, Wickramage K, McGovern T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Spiegel P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Spiegel"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6158-6661",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of International Health and Center for Humanitarian Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wickramage K"
+          ],
+          "firstName": [
+            "Kolitha"
+          ],
+          "lastName": [
+            "Wickramage"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Migration Health Division, The UN Migration Agency, Manila, Philippines."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "McGovern T"
+          ],
+          "firstName": [
+            "Terry"
+          ],
+          "lastName": [
+            "McGovern"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Global Health Justice and Governance, Columbia University Mailman School of Public Health, New York City, New York, United States of America."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6158-6661",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2918448"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS medicine"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Med."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Med"
+          ],
+          "NLMid": [
+            "101231360"
+          ],
+          "ISSN": [
+            "1549-1277"
+          ],
+          "ESSN": [
+            "1549-1676"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e1003105"
+  ],
+  "abstractText": [
+    "In an Editorial, Guest Editors Paul Spiegel, Terry McGovern and Kol Wickramage discuss the Special Issue on Refugee and Migrant Health."
+  ],
+  "affiliation": [
+    "Department of International Health and Center for Humanitarian Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pmed.1003105"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7108729"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7108729?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pmed.1003105"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-02"
+  ],
+  "firstIndexDate": [
+    "2020-04-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-06"
+  ],
+  "dateOfRevision": [
+    "2020-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-31"
+  ],
+  "firstPublicationDate": [
+    "2020-03-31"
+  ]
+}

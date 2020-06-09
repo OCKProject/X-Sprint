@@ -1,0 +1,430 @@
+{
+  "id": [
+    "32379787"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32379787"
+  ],
+  "pmcid": [
+    "PMC7205305"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0232702"
+  ],
+  "title": [
+    "Modeling human migration across spatial scales in Colombia."
+  ],
+  "authorString": [
+    "Siraj AS, Sorichetta A, España G, Tatem AJ, Perkins TA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Siraj AS"
+          ],
+          "firstName": [
+            "Amir S"
+          ],
+          "lastName": [
+            "Siraj"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9275-0380",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biological Sciences, Eck Institute for Global Health, University of Notre Dame, Notre Dame, Indiana, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sorichetta A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Sorichetta"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Geography and Environmental Science, WorldPop, University of Southampton, Southampton, England, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "España G"
+          ],
+          "firstName": [
+            "Guido"
+          ],
+          "lastName": [
+            "España"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biological Sciences, Eck Institute for Global Health, University of Notre Dame, Notre Dame, Indiana, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tatem AJ"
+          ],
+          "firstName": [
+            "Andrew J"
+          ],
+          "lastName": [
+            "Tatem"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Geography and Environmental Science, WorldPop, University of Southampton, Southampton, England, United Kingdom.",
+                "Flowminder Foundation, Stockholm, Sweden."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perkins TA"
+          ],
+          "firstName": [
+            "T Alex"
+          ],
+          "lastName": [
+            "Perkins"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biological Sciences, Eck Institute for Global Health, University of Notre Dame, Notre Dame, Indiana, United States of America."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9275-0380",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2949021"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0232702"
+  ],
+  "abstractText": [
+    "Human mobility, both short and long term, are important considerations in the study of numerous systems. Economic and technological advances have led to a more interconnected global community, further increasing the need for considerations of human mobility. While data on human mobility are better recorded in many developed countries, availability of such data remains limited in many low- and middle-income countries around the world, particularly at the fine temporal and spatial scales required by many applications. In this study, we used 5-year census-based internal migration microdata for 32 departments in Colombia (i.e., Admin-1 level) to develop a novel spatial interaction modeling approach for estimating migration, at a finer spatial scale, among the 1,122 municipalities in the country (i.e., Admin-2 level). Our modeling approach addresses a significant lack of migration data at administrative unit levels finer than those at which migration data are typically recorded. Due to the widespread availability of census-based migration microdata at the Admin-1 level, our modeling approach opens up for the possibilities of modeling migration patterns at Admin-2 and Admin-3 levels across many other countries where such data are currently lacking."
+  ],
+  "affiliation": [
+    "Department of Biological Sciences, Eck Institute for Global Health, University of Notre Dame, Notre Dame, Indiana, United States of America."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "106866/Z/15/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "204613/Z/16/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0232702"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7205305"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7205305?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0232702"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-08"
+  ],
+  "firstIndexDate": [
+    "2020-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-14"
+  ],
+  "dateOfRevision": [
+    "2020-05-14"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-07"
+  ],
+  "firstPublicationDate": [
+    "2020-05-07"
+  ]
+}

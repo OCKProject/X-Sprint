@@ -1,0 +1,462 @@
+{
+  "id": [
+    "32368295"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32368295"
+  ],
+  "pmcid": [
+    "PMC7196256"
+  ],
+  "doi": [
+    "10.7150/jca.44576"
+  ],
+  "title": [
+    "Ligand-independent EphB1 signaling mediates TGF-β-activated CDH2 and promotes lung cancer cell invasion and migration."
+  ],
+  "authorString": [
+    "Wang L, Peng Q, Sai B, Zheng L, Xu J, Yin N, Feng X, Xiang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lujuan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China.",
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "NHC Key Laboratory of Carcinogenesis and the Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+                "Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Changsha, Hunan, 410013, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Peng Q"
+          ],
+          "firstName": [
+            "Qiu"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China.",
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "NHC Key Laboratory of Carcinogenesis and the Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+                "Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Changsha, Hunan, 410013, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sai B"
+          ],
+          "firstName": [
+            "Buqing"
+          ],
+          "lastName": [
+            "Sai"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China.",
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "NHC Key Laboratory of Carcinogenesis and the Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+                "Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Changsha, Hunan, 410013, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng L"
+          ],
+          "firstName": [
+            "Leliang"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China.",
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "NHC Key Laboratory of Carcinogenesis and the Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+                "Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Changsha, Hunan, 410013, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Jiaqi"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China.",
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "NHC Key Laboratory of Carcinogenesis and the Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+                "Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Changsha, Hunan, 410013, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yin N"
+          ],
+          "firstName": [
+            "Na"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China.",
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "NHC Key Laboratory of Carcinogenesis and the Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+                "Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Changsha, Hunan, 410013, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "Department of Oncology, The Second Xiangya Hospital, Central South University, Changsha, Hunan 410011, P.R. China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang J"
+          ],
+          "firstName": [
+            "Juanjuan"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China.",
+                "Cancer Research Institute, School of Basic Medical Science, Central South University, Changsha, Hunan, China.",
+                "NHC Key Laboratory of Carcinogenesis and the Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of Education, Xiangya Hospital, Central South University, Changsha, Hunan, China.",
+                "Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Changsha, Hunan, 410013, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "14"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2951198"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of Cancer"
+          ],
+          "ISOAbbreviation": [
+            "J Cancer"
+          ],
+          "medlineAbbreviation": [
+            "J Cancer"
+          ],
+          "NLMid": [
+            "101535920"
+          ],
+          "ISSN": [
+            "1837-9664"
+          ],
+          "ESSN": [
+            "1837-9664"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "4123-4131"
+  ],
+  "abstractText": [
+    "Purpose: The initial step of cancer metastasis is that cancer cells acquire the capability to migrate and invade. Eph receptors comprise the largest family of receptor tyrosine and display dual role in tumor progression due to unique ephrin cis- or trans- signaling. The roles of EphB1 and its phosphorylation signaling in lung cancer remain to be elucidated. Patients and Methods: We analyzed the expression of EphB1 in both publicly available database and 60 cases of NSCLC patients with or without metastasis. The migration and invasion of lung cancer cells were assessed by a transwell assay. The activation of EphB1 signaling was assessed by western blot and real-time PCR. The EphB1 mutant was used to evaluate the effect of phosphorylation of EphB1. Results: Here, we showed that increased expression of EphB1 was detected in Non-Small-Cell Lung Cancer (NSCLC) biopies compared to non-cancer controls. Significant higher expression of EphB1 in lung biopsies were found in patients with metastasis compared to non-metastatic NSCLC patients. Higher EphB1 expression was correlated with poor patient survival in lung cancer. Overexpression of EphB1 promoted the migration and invasion of lung cancer cells. On the contrast, Ephrin-B2, a transmembrane ligand for EphB1 forward signaling, inhibited migration and invasion of lung cancer cells. TGF-β-activated Smad2 transcriptionally upregulated the endogenous expression of EphB1. Ligand-independent EphB1 promoted Epithelial-mesenchymal transition (EMT) through upregulating CDH2. Conclusion: Our results showed that the effect of EphB1 on the migration and invasion was context-specific and was dependent on EphB1 phosphorylation."
+  ],
+  "affiliation": [
+    "Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, Hunan, PR China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lung cancer",
+        "Metastasis",
+        "TGF-β",
+        "Ephb1"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/jca.44576"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7196256"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7196256?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/jca.44576"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-06"
+  ],
+  "firstIndexDate": [
+    "2020-05-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-06"
+  ],
+  "dateOfRevision": [
+    "2020-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-07"
+  ],
+  "firstPublicationDate": [
+    "2020-04-07"
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "id": [
+    "32392256"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32392256"
+  ],
+  "pmcid": [
+    "PMC7213727"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0232483"
+  ],
+  "title": [
+    "The adipokine vaspin is associated with decreased coronary in-stent restenosis in vivo and inhibits migration of human coronary smooth muscle cells in vitro."
+  ],
+  "authorString": [
+    "Kastl SP, Katsaros KM, Krychtiuk KA, Jägersberger G, Kaun C, Huber K, Wojta J, Speidl WS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kastl SP"
+          ],
+          "firstName": [
+            "Stefan P"
+          ],
+          "lastName": [
+            "Kastl"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9682-0200",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria.",
+                "The Ludwig Boltzmann Cluster for Cardiovascular Research, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Katsaros KM"
+          ],
+          "firstName": [
+            "Katharina M"
+          ],
+          "lastName": [
+            "Katsaros"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria.",
+                "The Ludwig Boltzmann Cluster for Cardiovascular Research, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krychtiuk KA"
+          ],
+          "firstName": [
+            "Konstantin A"
+          ],
+          "lastName": [
+            "Krychtiuk"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria.",
+                "The Ludwig Boltzmann Cluster for Cardiovascular Research, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jägersberger G"
+          ],
+          "firstName": [
+            "Gerlinde"
+          ],
+          "lastName": [
+            "Jägersberger"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaun C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Kaun"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huber K"
+          ],
+          "firstName": [
+            "Kurt"
+          ],
+          "lastName": [
+            "Huber"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine (Cardiology and Emergency Medicine), Wilhelminenhospital, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wojta J"
+          ],
+          "firstName": [
+            "Johann"
+          ],
+          "lastName": [
+            "Wojta"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1282-9276",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria.",
+                "The Ludwig Boltzmann Cluster for Cardiovascular Research, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Speidl WS"
+          ],
+          "firstName": [
+            "Walter S"
+          ],
+          "lastName": [
+            "Speidl"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9682-0200",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1282-9276",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2949021"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0232483"
+  ],
+  "abstractText": [
+    "BACKGROUND:Percutaneous coronary intervention represents the most important treatment modality of coronary artery stenosis. In-stent restenosis (ISR) is still a limitation for the long-term outcome despite the introduction of drug eluting stents. It has been shown that adipokines directly influence vessel wall homeostasis by influencing the function of endothelial cells and arterial smooth muscle cells. Visceral adipose tissue-derived serpin vaspin was recently identified as a member of serine protease inhibitor family and serveral studies could demonstrate a relation to metabolic diseases. The aim of this study was to investigate a role of vaspin in the development of in-stent restenosis in vivo and on migration of smooth muscle cells and endothelial cells in vitro. METHODS:We studied 85 patients with stable coronary artery disease who underwent elective and successful PCI with implatation of drug eluting stents. Blood samples were taken directly before PCI. Vaspin plasma levels were measured by specific ELISA. ISR was evaluated eight months later by coronary angiography. Human coronary artery smooth muscle cells (HCASMC) and human umbilical vein endothelial cells (HUVEC) migration was analyzed by an in-vitro migration assay with different concentrations (0.004ng/mL up to 40ng/mL) of vaspin as well as by an scratch assay. For proliferation an impedance measurement with specialiced E-Plates was performed. RESULTS:During the follow up period, 14 patients developed ISR. Patients with ISR had significantly lower vaspin plasma levels compared to patients without ISR (0.213 ng/ml vs 0.382 ng/ml; p = 0.001). In patients with plasma vaspin levels above 1.35 ng/ml we could not observe any restenosis. There was also a significant correlation of plasma vaspin levels and late lumen loss in the stented coronary segments. Further we could demonstrate that vaspin nearly abolishes serum induced migration of HCASMC (100% vs. 9%; p<0.001) in a biphasic manner but not migration of HUVEC. Proliferation of HCASMC and HUVEC was not modulated by vaspin treatment. CONCLUSION:We were able to show that the adipokine vaspin selectively inhibits human coronary SMC migration in vitro and has no effect on HUVEC migration. Vaspin had no effect on proliferation of HUVEC which is an important process of the healing of the stented vessel. In addition, the occurrence of ISR after PCI with implantation of drug eluting stents was significantly associated with low vaspin plasma levels before intervention. Determination of vaspin plasma levels before PCI might be helpful in the identification of patients with high risk for development of ISR after stent implantation. In addition, the selective effects of vaspin on smooth muscle cell migration could potentially be used to reduce ISR without inhibition of re-endothelialization of the stented segment."
+  ],
+  "affiliation": [
+    "Department of Internal Medicine II, Medical University of Vienna, Vienna, Austria."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0232483"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7213727"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7213727?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0232483"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-12"
+  ],
+  "firstIndexDate": [
+    "2020-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-28"
+  ],
+  "dateOfRevision": [
+    "2020-05-27"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-11"
+  ],
+  "firstPublicationDate": [
+    "2020-05-11"
+  ]
+}

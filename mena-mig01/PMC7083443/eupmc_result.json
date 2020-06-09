@@ -1,0 +1,501 @@
+{
+  "id": [
+    "31773867"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31773867"
+  ],
+  "pmcid": [
+    "PMC7083443"
+  ],
+  "doi": [
+    "10.1111/mcn.12920"
+  ],
+  "title": [
+    "Combined protocol for severe and moderate acute malnutrition in emergencies: Stakeholders perspectives in four countries."
+  ],
+  "authorString": [
+    "Dalglish SL, Seni Badou M, Sirat A, Abdullahi O, Adalbert MFE, Biotteau M, Goldsmith A, Kozuki N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dalglish SL"
+          ],
+          "firstName": [
+            "Sarah L"
+          ],
+          "lastName": [
+            "Dalglish"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7218-5193",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seni Badou M"
+          ],
+          "firstName": [
+            "Mamoudou"
+          ],
+          "lastName": [
+            "Seni Badou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nutrition Department, International Rescue Committee, Niamey, Niger."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sirat A"
+          ],
+          "firstName": [
+            "Amin"
+          ],
+          "lastName": [
+            "Sirat"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nutrition Department, International Rescue Committee, Maiduguri, Nigeria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abdullahi O"
+          ],
+          "firstName": [
+            "Omar"
+          ],
+          "lastName": [
+            "Abdullahi"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nutrition Department, International Rescue Committee, Mogadishu, Somalia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Adalbert MFE"
+          ],
+          "firstName": [
+            "Mena Fundi Eso"
+          ],
+          "lastName": [
+            "Adalbert"
+          ],
+          "initials": [
+            "MFE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nutrition Department, International Rescue Committee, Juba, South Sudan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Biotteau M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Biotteau"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nutrition Department, International Rescue Committee, Bamako, Mali."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Goldsmith A"
+          ],
+          "firstName": [
+            "Amelia"
+          ],
+          "lastName": [
+            "Goldsmith"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kozuki N"
+          ],
+          "firstName": [
+            "Naoko"
+          ],
+          "lastName": [
+            "Kozuki"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2850-3956",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nutrition Department, International Rescue Committee, Washington, DC, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7218-5193",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2850-3956",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2926045"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Maternal & child nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Matern Child Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Matern Child Nutr"
+          ],
+          "NLMid": [
+            "101201025"
+          ],
+          "ISSN": [
+            "1740-8695"
+          ],
+          "ESSN": [
+            "1740-8709"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e12920"
+  ],
+  "abstractText": [
+    "Each year, acute malnutrition affects an estimated 52 million children under 5 years of age. Current global treatment protocols divide treatment of severe acute malnutrition (SAM) and moderate acute malnutrition (MAM) despite malnutrition being a spectrum disease. A proposed Combined Protocol provides for (a) treatment of MAM and SAM at the same location; (b) diagnosis using middle-upper-arm circumference (MUAC) and oedema only; (c) treatment using a single product, ready-to-use-therapeutic food (RUTF), and (d) a simplified dosage schedule for RUTF. This study examines stakeholders' knowledge of and opinions on the Combined Protocol in Niger, Nigeria, Somalia, and South Sudan. Data collection included a document review followed by in-depth interviews with 50 respondents from government, implementing partners, and multilateral agencies, plus 11 global and regional stakeholders. Data were analysed iteratively using thematic content analysis. We find that acute malnutrition protocols in these countries have not been substantially modified to include components of the Combined Protocol, although aspects were accepted for use in emergencies. Respondents generally agreed that MAM and SAM treatment should be provided in the same location, however they said MUAC and oedema-only diagnosis, although more field-ready than other diagnostic measures, did not necessarily catch all malnourished children and may not be appropriate for \"tall and slim\" morphologies. Similarly, using only RUTF presented inherent logistical advantages, but respondents worried about pipeline issues. Respondents did not express strong opinions about simplified dosage schedules. Stakeholders interviewed indicated more evidence is needed on the operational implications and effectiveness of the Combined Protocol in different contexts."
+  ],
+  "affiliation": [
+    "Johns Hopkins Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Malnutrition",
+        "Child Nutrition",
+        "Policy Making",
+        "Health Policy",
+        "International Child Health Nutrition",
+        "Assessment Of Nutritional Status"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/mcn.12920"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7083443"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7083443?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/mcn.12920"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-28"
+  ],
+  "firstIndexDate": [
+    "2019-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-23"
+  ],
+  "dateOfRevision": [
+    "2020-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-26"
+  ],
+  "firstPublicationDate": [
+    "2019-11-26"
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "id": [
+    "32321320"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32321320"
+  ],
+  "pmcid": [
+    "PMC7191905"
+  ],
+  "doi": [
+    "10.1080/14756366.2020.1755670"
+  ],
+  "title": [
+    "Synthesis and biological evaluation of new 3(2H)-pyridazinone derivatives as non-toxic anti-proliferative compounds against human colon carcinoma HCT116 cells."
+  ],
+  "authorString": [
+    "Özdemir Z, Utku S, Mathew B, Carradori S, Orlando G, Di Simone S, Alagöz MA, Özçelik AB, Uysal M, Ferrante C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Özdemir Z"
+          ],
+          "firstName": [
+            "Zeynep"
+          ],
+          "lastName": [
+            "Özdemir"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Chemistry, İnönü University, Malatya, Turkey."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Utku S"
+          ],
+          "firstName": [
+            "Semra"
+          ],
+          "lastName": [
+            "Utku"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Chemistry, Mersin University, Mersin, Turkey."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mathew B"
+          ],
+          "firstName": [
+            "Bijo"
+          ],
+          "lastName": [
+            "Mathew"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Chemistry, Division of Drug Design and Medicinal Chemistry Research Lab, Ahalia School of Pharmacy, Palakkad, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carradori S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Carradori"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8698-9440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, \"G. d'Annunzio\" University of Chieti-Pescara, Chieti, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Orlando G"
+          ],
+          "firstName": [
+            "Giustino"
+          ],
+          "lastName": [
+            "Orlando"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, \"G. d'Annunzio\" University of Chieti-Pescara, Chieti, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Di Simone S"
+          ],
+          "firstName": [
+            "Simonetta"
+          ],
+          "lastName": [
+            "Di Simone"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, \"G. d'Annunzio\" University of Chieti-Pescara, Chieti, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alagöz MA"
+          ],
+          "firstName": [
+            "Mehmet Abdullah"
+          ],
+          "lastName": [
+            "Alagöz"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Chemistry, İnönü University, Malatya, Turkey."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Özçelik AB"
+          ],
+          "firstName": [
+            "Azime Berna"
+          ],
+          "lastName": [
+            "Özçelik"
+          ],
+          "initials": [
+            "AB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Chemistry, Gazi University, Ankara, Turkey."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Uysal M"
+          ],
+          "firstName": [
+            "Mehtap"
+          ],
+          "lastName": [
+            "Uysal"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmaceutical Chemistry, Gazi University, Ankara, Turkey.",
+                "Department of Pharmaceutical Chemistry, Erzincan Binali Yıldırım University, Erzincan, Turkey."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ferrante C"
+          ],
+          "firstName": [
+            "Claudio"
+          ],
+          "lastName": [
+            "Ferrante"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacy, \"G. d'Annunzio\" University of Chieti-Pescara, Chieti, Italy."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8698-9440",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2871926"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of enzyme inhibition and medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "NLMid": [
+            "101150203"
+          ],
+          "ISSN": [
+            "1475-6366"
+          ],
+          "ESSN": [
+            "1475-6374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1100-1109"
+  ],
+  "abstractText": [
+    "Novel 3(2H)-pyridazinone derivatives were designed, synthesised in satisfactory yields and evaluated in different experimental assays to assess their preliminary toxicity in vivo and anti-proliferative effects against HCT116 cell lines in vitro. Artemia salina lethality test provided LC50 values >100 µg/mL for all compounds. Successive assays revealed that some compounds were endowed with a promising anti-proliferative effect against HCT116 cells, alone or stimulated by serotonin as a pro-inflammatory factor in order to mimick an inflamed model in vivo of cancer cell microenvironment. Moreover, the kinurenic acid level after treatment with these newly synthesised compounds was monitored as a marker of anti-proliferation in colon carcinoma models. The IC50 values obtained for the best-in-class compounds were comparable to that of daunorubicin as a reference drug. Conversely, these compounds were not able to counteract the spontaneous migration of human cancer HCT116 cell line in the wound healing paradigm."
+  ],
+  "affiliation": [
+    "Department of Pharmaceutical Chemistry, İnönü University, Malatya, Turkey."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Serotonin",
+        "Wound healing",
+        "Kynurenic acid",
+        "HCT116",
+        "Pyridazinone",
+        "Anti-proliferative Agents",
+        "Artemia Salina Lethality Test"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2020.1755670"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7191905"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7191905?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2020.1755670"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-24"
+  ],
+  "firstIndexDate": [
+    "2020-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-07"
+  ],
+  "dateOfRevision": [
+    "2020-05-06"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

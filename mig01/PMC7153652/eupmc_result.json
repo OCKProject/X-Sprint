@@ -1,0 +1,383 @@
+{
+  "id": [
+    "32090682"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32090682"
+  ],
+  "pmcid": [
+    "PMC7153652"
+  ],
+  "doi": [
+    "10.1080/19336918.2020.1733892"
+  ],
+  "title": [
+    "Inhibition of DDR1 reduces invasive features of human A375 melanoma, HT29 colon carcinoma and SK-HEP hepatoma cells."
+  ],
+  "authorString": [
+    "Romayor I, Badiola I, Olaso E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Romayor I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Romayor"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Histology, School of Medicine and Dentistry, University of the Basque Country, Leioa, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Badiola I"
+          ],
+          "firstName": [
+            "Iker"
+          ],
+          "lastName": [
+            "Badiola"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2392-2537",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Histology, School of Medicine and Dentistry, University of the Basque Country, Leioa, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Olaso E"
+          ],
+          "firstName": [
+            "Elvira"
+          ],
+          "lastName": [
+            "Olaso"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Histology, School of Medicine and Dentistry, University of the Basque Country, Leioa, Spain."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2392-2537",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2899063"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell adhesion & migration"
+          ],
+          "ISOAbbreviation": [
+            "Cell Adh Migr"
+          ],
+          "medlineAbbreviation": [
+            "Cell Adh Migr"
+          ],
+          "NLMid": [
+            "101469464"
+          ],
+          "ISSN": [
+            "1933-6918"
+          ],
+          "ESSN": [
+            "1933-6926"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "69-81"
+  ],
+  "abstractText": [
+    "DDR1 is a receptor tyrosine kinases for collagen and an adverse prognostic factor in primary and metastatic tumors.Despite this, DDR1 signaling and its functional consequences in tumor development remain unclear. RT-PCR and Western blot show that A375, colon carcinoma HT29 and liver carcinoma SK-HEP human cell lines express functional DDR1 that phosphorylates in response to collagen type I. Chemical inhibition of DDR1 phosphorylation or DDR1 mRNA silencing reduced AKT and ERK phosphorylation, expression of ICAM1 and VCAM1, Ki67 and secretion of MMP9. DDR1 silenced cells showed reduced adhesion to collagen type I, MMP-dependent invasion, and chemotactic and proliferative responses to collagen type I. Our work indicates an essential role for DDR1 signaling in key prometastatic features of collagen type I in human carcinoma cells."
+  ],
+  "affiliation": [
+    "Department of Cell Biology and Histology, School of Medicine and Dentistry, University of the Basque Country, Leioa, Spain."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "04-274"
+          ],
+          "agency": [
+            "Worldwide Cancer Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Melanoma",
+        "Migration",
+        "Proliferation",
+        "Invasion",
+        "Hepatocarcinoma",
+        "Colon carcinoma",
+        "Silencing",
+        "adhesion",
+        "matrix metalloproteinases",
+        "Discoidin Domain Receptor 1",
+        "Collagen Receptor"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336918.2020.1733892"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7153652"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7153652?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336918.2020.1733892"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-25"
+  ],
+  "firstIndexDate": [
+    "2020-02-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-18"
+  ],
+  "dateOfRevision": [
+    "2020-04-17"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

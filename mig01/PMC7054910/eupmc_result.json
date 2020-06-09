@@ -1,0 +1,437 @@
+{
+  "id": [
+    "32091275"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32091275"
+  ],
+  "pmcid": [
+    "PMC7054910"
+  ],
+  "doi": [
+    "10.1080/10717544.2020.1730522"
+  ],
+  "title": [
+    "Effectively suppressed angiogenesis-mediated retinoblastoma growth using celastrol nanomicelles."
+  ],
+  "authorString": [
+    "Li Z, Guo Z, Chu D, Feng H, Zhang J, Zhu L, Li J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhanrong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo Z"
+          ],
+          "firstName": [
+            "Zhihua"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chu D"
+          ],
+          "firstName": [
+            "Dandan"
+          ],
+          "lastName": [
+            "Chu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng H"
+          ],
+          "firstName": [
+            "Huayang"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Junjie"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jingguo"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0471-4540",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0471-4540",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "27"
+      ],
+      "journalIssueId": [
+        "2891005"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Drug delivery"
+          ],
+          "ISOAbbreviation": [
+            "Drug Deliv"
+          ],
+          "medlineAbbreviation": [
+            "Drug Deliv"
+          ],
+          "NLMid": [
+            "9417471"
+          ],
+          "ISSN": [
+            "1071-7544"
+          ],
+          "ESSN": [
+            "1521-0464"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "358-366"
+  ],
+  "abstractText": [
+    "Celastrol, a Chinese herbal medicine, has already shown an inhibition effect on retinoblastoma growth activity in our previous research, but its mechanism is not well understood. Angiogenesis is a main driving force in many tumors. Here, we studied whether celastrol could inhibit angiogenesis-mediated retinoblastoma growth, if so, through what mechanism. In this work, we developed celastrol-loaded polymeric nanomicelles to improve the poor water solubility of celastrol. When given an intraperitoneal injection to mice bearing human retinoblastoma xenografts, celastrol nanomicelles (CNMs, 27.2 mg/kg/2 days) significantly reduced the weight and the volume of tumors and decreased tumor angiogenesis. We found that CNMs suppressed hypoxia-induced proliferation, migration, and invasion by human umbilical vascular endothelial cells (EA.hy 926) in a dose-dependent manner. Furthermore, CNMs inhibited SO-Rb 50 cells-induced sprouting of the vessels and vascular formation in chick embryo chorioallantoic membrane assay in vitro. To understand the molecular mechanism of these activities, we assessed the signaling pathways in CoCl2 treated EA.hy 926. CNMs inhibited the hypoxia-induced HIF-1α and VEGF. In conclusion, our results reveal that CNMs target the HIF-1α/VEGF pathway, which may be an important reason for the suppression of retinoblastoma growth and angiogenesis."
+  ],
+  "affiliation": [
+    "Henan Eye Hospital, Henan Provincial People's Hospital, Zhengzhou University People's Hospital, Zhengzhou, P. R. China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Angiogenesis",
+        "Retinoblastoma",
+        "Nanomicelles",
+        "So-rb 50 Cells",
+        "Celastrol"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/10717544.2020.1730522"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7054910"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7054910?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/10717544.2020.1730522"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-25"
+  ],
+  "firstIndexDate": [
+    "2020-02-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-21"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

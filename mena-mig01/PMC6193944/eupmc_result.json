@@ -1,0 +1,1088 @@
+{
+  "id": [
+    "29907768"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29907768"
+  ],
+  "pmcid": [
+    "PMC6193944"
+  ],
+  "doi": [
+    "10.1038/s41388-018-0364-3"
+  ],
+  "title": [
+    "hMENA isoforms impact NSCLC patient outcome through fibronectin/β1 integrin axis."
+  ],
+  "authorString": [
+    "Di Modugno F, Spada S, Palermo B, Visca P, Iapicca P, Di Carlo A, Antoniani B, Sperduti I, Di Benedetto A, Terrenato I, Mottolese M, Gandolfi F, Facciolo F, Chen EI, Schwartz MA, Santoni A, Bissell MJ, Nisticò P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Di Modugno F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Di Modugno"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tumor Immunology and Immunotherapy Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Spada S"
+          ],
+          "firstName": [
+            "Sheila"
+          ],
+          "lastName": [
+            "Spada"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tumor Immunology and Immunotherapy Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy.",
+                "Department of Molecular Medicine, University Sapienza, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Palermo B"
+          ],
+          "firstName": [
+            "Belinda"
+          ],
+          "lastName": [
+            "Palermo"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tumor Immunology and Immunotherapy Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Visca P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Visca"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Pathology, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Iapicca P"
+          ],
+          "firstName": [
+            "Pierluigi"
+          ],
+          "lastName": [
+            "Iapicca"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tumor Immunology and Immunotherapy Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Di Carlo A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Di Carlo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tumor Immunology and Immunotherapy Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Antoniani B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Antoniani"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Pathology, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sperduti I"
+          ],
+          "firstName": [
+            "Isabella"
+          ],
+          "lastName": [
+            "Sperduti"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5115-3099",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biostatistics-Scientific Direction, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Di Benedetto A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Di Benedetto"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Pathology, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Terrenato I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Terrenato"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biostatistics-Scientific Direction, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mottolese M"
+          ],
+          "firstName": [
+            "Marcella"
+          ],
+          "lastName": [
+            "Mottolese"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Pathology, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gandolfi F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Gandolfi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physics, University Sapienza, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Facciolo F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Facciolo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Thoracic Surgery Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen EI"
+          ],
+          "firstName": [
+            "Emily I"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "EI"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pharmacology, Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schwartz MA"
+          ],
+          "firstName": [
+            "Martin A"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2071-1243",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Yale Cardiovascular Research Center, Departments of Internal Medicine, Cell Biology and Biomedical Engineering, Yale School of Medicine, New Haven, CT, 06511, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Santoni A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Santoni"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Medicine, University Sapienza, Rome, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bissell MJ"
+          ],
+          "firstName": [
+            "Mina J"
+          ],
+          "lastName": [
+            "Bissell"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5841-4423",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Life Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California, 94720, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nisticò P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Nisticò"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4409-2261",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tumor Immunology and Immunotherapy Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy. paola.nistico@ifo.gov.it."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5115-3099",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2071-1243",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5841-4423",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4409-2261",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "42"
+      ],
+      "volume": [
+        "37"
+      ],
+      "journalIssueId": [
+        "2740300"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncogene"
+          ],
+          "ISOAbbreviation": [
+            "Oncogene"
+          ],
+          "medlineAbbreviation": [
+            "Oncogene"
+          ],
+          "NLMid": [
+            "8711562"
+          ],
+          "ISSN": [
+            "0950-9232"
+          ],
+          "ESSN": [
+            "1476-5594"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5605-5617"
+  ],
+  "abstractText": [
+    "We demonstrated previously that the splicing of the actin regulator, hMENA, generates two alternatively expressed isoforms, hMENA11a and hMENAΔv6, which have opposite functions in cell invasiveness. Their mechanisms of action have remained unclear. Here we report two major findings: (i) hMENA regulates β1 integrin expression. This was shown by depleting total hMENA, which led to loss of nuclear expression of serum response factor (SRF)-coactivator myocardin-related transcription factor 1 (MRTF-A), leading to an increase in the G-actin/F-actin ratio crucial for MRTF-A localization. This in turn inhibited SRF activity and the expression of its target gene β1 integrin. (ii) hMENA11a reduces and hMENAΔv6 increases β1 integrin activation and signaling. Moreover, exogenous expression of hMENA11a in hMENAΔv6-positive cancer cells dramatically reduces secretion of extracellular matrix (ECM) components, including β1 integrin ligands and metalloproteinases. On the other hand, overexpression of the pro-invasive hMENAΔv6 increases fibronectin production. In primary tumors high hMENA11a correlates with low stromal fibronectin and a favorable clinical outcome of early node-negative non-small-cell lung cancer patients. These data provide new insights into the roles of hMENA11a and hMENAΔv6 in the druggable β1 integrin-ECM signaling axis and allow stratification of patient risk, guiding their clinical management."
+  ],
+  "affiliation": [
+    "Tumor Immunology and Immunotherapy Unit, IRCCS-Regina Elena National Cancer Institute, Rome, Italy."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R37 CA064786"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA064786"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM047214"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA143836"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Extracellular Matrix"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carcinoma, Non-Small-Cell Lung"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microfilament Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibronectins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Isoforms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Neoplastic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tumor Microenvironment"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Integrin beta1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Protein Isoforms"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Microfilament Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fibronectins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Enah protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Integrin beta1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41388-018-0364-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6193944"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6193944?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41388-018-0364-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-28"
+  ],
+  "dateOfCreation": [
+    "2018-06-17"
+  ],
+  "firstIndexDate": [
+    "2018-06-17"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-24"
+  ],
+  "dateOfRevision": [
+    "2019-06-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-15"
+  ],
+  "firstPublicationDate": [
+    "2018-06-15"
+  ]
+}

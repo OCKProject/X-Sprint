@@ -1,0 +1,562 @@
+{
+  "id": [
+    "31512486"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31512486"
+  ],
+  "pmcid": [
+    "PMC6829969"
+  ],
+  "doi": [
+    "10.1177/1076029619875520"
+  ],
+  "title": [
+    "The Effect of CYP2C19 and Nongenetic Factors on Clopidogrel Responsiveness in the MENA Region: A Systematic Review."
+  ],
+  "authorString": [
+    "Ali Z, Elewa H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ali Z"
+          ],
+          "firstName": [
+            "Zainab"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7667-2546",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Pharmacy, Qatar University, Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elewa H"
+          ],
+          "firstName": [
+            "Hazem"
+          ],
+          "lastName": [
+            "Elewa"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Pharmacy, Qatar University, Doha, Qatar."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7667-2546",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2781301"
+      ],
+      "dateOfPublication": [
+        "2019 Jan-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical and applied thrombosis/hemostasis : official journal of the International Academy of Clinical and Applied Thrombosis/Hemostasis"
+          ],
+          "ISOAbbreviation": [
+            "Clin. Appl. Thromb. Hemost."
+          ],
+          "medlineAbbreviation": [
+            "Clin Appl Thromb Hemost"
+          ],
+          "NLMid": [
+            "9508125"
+          ],
+          "ISSN": [
+            "1076-0296"
+          ],
+          "ESSN": [
+            "1938-2723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1076029619875520"
+  ],
+  "abstractText": [
+    "Clopidogrel is the cornerstone antiplatelet used in the treatment and prevention of thrombotic events. Some studies examined the effect of CYP2C19 polymorphism and nongenetic factors on clopidogrel response in the Middle East and North Africa (MENA) region. However, the consistency among these studies is yet unknown. This study aims to estimate the prevalence of CYP2C19 genetic variants in MENA region and to evaluate the effect of these variants as well as the nongenetic factors on clopidogrel responsiveness. A systematic literature search was performed to identify relevant articles. Only observational studies were included. A total of 20 studies in 8 different populations were included. The CYP2C19*2 variant is the most prevalent loss-of-function (LOF) allele in the MENA region (1.7%-35%). The frequency of CYP2C19*17 ranged from 5.3% to 26.9%. Of the 9 studies, 6 found an association between carriers of at least 1 LOF allele and clopidogrel resistance. Older age, high body mass index, females, and the use of calcium channel blockers were associated with clopidogrel resistance as well. Association between the CYP2C19*2 allele and clopidogrel resistance is common among MENA populations. Future studies should focus on having larger sample sizes to detect other minor variant alleles and their effect on bleeding and cardiovascular outcomes."
+  ],
+  "affiliation": [
+    "College of Pharmacy, Qatar University, Doha, Qatar."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Systematic Review",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Platelet Aggregation Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Resistance"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alleles"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa, Northern"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle East"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytochrome P-450 CYP2C19"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Observational Studies as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Loss of Function Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clopidogrel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetic",
+        "Clopidogrel Resistance",
+        "Loss-of-function Allele",
+        "Gain-of-function Allele"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Platelet Aggregation Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "CYP2C19 protein, human"
+          ],
+          "registryNumber": [
+            "EC 1.14.14.1"
+          ]
+        },
+        {
+          "name": [
+            "clopidogrel"
+          ],
+          "registryNumber": [
+            "A74586SNO7"
+          ]
+        },
+        {
+          "name": [
+            "Cytochrome P-450 CYP2C19"
+          ],
+          "registryNumber": [
+            "EC 1.14.14.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1076029619875520"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6829969"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6829969?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1076029619875520"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp",
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-03-10"
+  ],
+  "dateOfCreation": [
+    "2019-09-13"
+  ],
+  "firstIndexDate": [
+    "2019-09-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-15"
+  ],
+  "dateOfRevision": [
+    "2020-03-10"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

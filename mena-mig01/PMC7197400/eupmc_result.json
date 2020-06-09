@@ -1,0 +1,314 @@
+{
+  "id": [
+    "32391212"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32391212"
+  ],
+  "pmcid": [
+    "PMC7197400"
+  ],
+  "doi": [
+    "10.7717/peerj.9098"
+  ],
+  "title": [
+    "Time matters: genetic composition and evaluation of effective population size in temperate coastal fish species."
+  ],
+  "authorString": [
+    "Francisco SM, Robalo JI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Francisco SM"
+          ],
+          "firstName": [
+            "Sara M"
+          ],
+          "lastName": [
+            "Francisco"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MARE-Marine and Environmental Sciences Centre, ISPA-Instituto Universitário, Lisbon, Portugal."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Robalo JI"
+          ],
+          "firstName": [
+            "Joana I"
+          ],
+          "lastName": [
+            "Robalo"
+          ],
+          "initials": [
+            "JI"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MARE-Marine and Environmental Sciences Centre, ISPA-Instituto Universitário, Lisbon, Portugal."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2899974"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e9098"
+  ],
+  "abstractText": [
+    "Background:Extensive knowledge on the genetic characterization of marine organisms has been assembled, mainly concerning the spatial distribution and structuring of populations. Temporal monitoring assesses not only the stability in genetic composition but also its trajectory over time, providing critical information for the accurate forecast of changes in genetic diversity of marine populations, particularly important for both fisheries and endangered species management. We assessed fluctuations in genetic composition among different sampling periods in the western Portuguese shore in three fish species. Methods:White seabream Diplodus sargus, sand smelt Atherina presbyter and shanny Lipophrys pholis were chosen, because of their genetic patterns in distinct ecological environments, insight into historical and contemporary factors influencing population effective size (N e ), and degree of commercial exploitation. Samples were obtained near Lisbon between 2003 and 2014 and screened for genetic variation with mitochondrial and nuclear markers. Analyses included genealogies, genetic diversities, temporal structures and contemporary N e . Results:For mtDNA no temporal structure was detected, while for nDNA significant differences were recorded between some sampling periods for the shanny and the sand smelt. Haplotype networks revealed deep genealogies, with various levels of diversification. The shanny revealed a smaller N e /generation when compared to the other species, which, in turn, revealed no evidence of genetic drift for most study periods. These results highlight the fact that temporal variations in genetic pool composition should be considered when evaluating the population structure of fish species with long distance dispersal, which are more vulnerable to recruitment fluctuations."
+  ],
+  "affiliation": [
+    "MARE-Marine and Environmental Sciences Centre, ISPA-Instituto Universitário, Lisbon, Portugal."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "mtDNA",
+        "Effective population size",
+        "Temporal structure",
+        "Temporal Stability",
+        "Temporal Method",
+        "Ndna"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.9098"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7197400"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7197400?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.9098"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-12"
+  ],
+  "firstIndexDate": [
+    "2020-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-11"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-01"
+  ],
+  "firstPublicationDate": [
+    "2020-05-01"
+  ]
+}

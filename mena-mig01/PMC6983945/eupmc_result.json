@@ -1,0 +1,572 @@
+{
+  "id": [
+    "31928973"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31928973"
+  ],
+  "pmcid": [
+    "PMC6983945"
+  ],
+  "doi": [
+    "10.1016/j.devcel.2019.12.011"
+  ],
+  "title": [
+    "F-Actin Interactome Reveals Vimentin as a Key Regulator of Actin Organization and Cell Mechanics in Mitosis."
+  ],
+  "authorString": [
+    "Serres MP, Samwer M, Truong Quang BA, Lavoie G, Perera U, Görlich D, Charras G, Petronczki M, Roux PP, Paluch EK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Serres MP"
+          ],
+          "firstName": [
+            "Murielle P"
+          ],
+          "lastName": [
+            "Serres"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MRC Laboratory for Molecular Cell Biology, University College London, London WC1E 6BT, UK; Cancer Research UK London Research Institute, Clare Hall Laboratories, South Mimms, Hertfordshire, EN6 3LD, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Samwer M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Samwer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4495-8619",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Logistics, Max Planck Institute for Biophysical Chemistry, Göttingen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Truong Quang BA"
+          ],
+          "firstName": [
+            "Binh An"
+          ],
+          "lastName": [
+            "Truong Quang"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MRC Laboratory for Molecular Cell Biology, University College London, London WC1E 6BT, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lavoie G"
+          ],
+          "firstName": [
+            "Geneviève"
+          ],
+          "lastName": [
+            "Lavoie"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Research in Immunology and Cancer, Université de Montréal, Montreal QC, H3T 1J4, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perera U"
+          ],
+          "firstName": [
+            "Upamali"
+          ],
+          "lastName": [
+            "Perera"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MRC Laboratory for Molecular Cell Biology, University College London, London WC1E 6BT, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Görlich D"
+          ],
+          "firstName": [
+            "Dirk"
+          ],
+          "lastName": [
+            "Görlich"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Logistics, Max Planck Institute for Biophysical Chemistry, Göttingen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Charras G"
+          ],
+          "firstName": [
+            "Guillaume"
+          ],
+          "lastName": [
+            "Charras"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "London Centre for Nanotechnology, University College London, London WC1H 0AH, UK; Department of Cell and Developmental Biology, University College London, London WC1E 6BT, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Petronczki M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Petronczki"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cancer Research UK London Research Institute, Clare Hall Laboratories, South Mimms, Hertfordshire, EN6 3LD, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roux PP"
+          ],
+          "firstName": [
+            "Philippe P"
+          ],
+          "lastName": [
+            "Roux"
+          ],
+          "initials": [
+            "PP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5962-0250",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Research in Immunology and Cancer, Université de Montréal, Montreal QC, H3T 1J4, Canada; Department of Pathology and Cell Biology, Faculty of Medicine, Université de Montréal, Montreal, QC, H3T 1J4, Canada. Electronic address: philippe.roux@umontreal.ca."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Paluch EK"
+          ],
+          "firstName": [
+            "Ewa K"
+          ],
+          "lastName": [
+            "Paluch"
+          ],
+          "initials": [
+            "EK"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "MRC Laboratory for Molecular Cell Biology, University College London, London WC1E 6BT, UK. Electronic address: ekp25@cam.ac.uk."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4495-8619",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5962-0250",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "52"
+      ],
+      "journalIssueId": [
+        "2905707"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Developmental cell"
+          ],
+          "ISOAbbreviation": [
+            "Dev. Cell"
+          ],
+          "medlineAbbreviation": [
+            "Dev Cell"
+          ],
+          "NLMid": [
+            "101120028"
+          ],
+          "ISSN": [
+            "1878-1551"
+          ],
+          "ESSN": [
+            "1878-1551"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "210-222.e7"
+  ],
+  "abstractText": [
+    "Most metazoan cells entering mitosis undergo characteristic rounding, which is important for accurate spindle positioning and chromosome separation. Rounding is driven by contractile tension generated by myosin motors in the sub-membranous actin cortex. Recent studies highlight that alongside myosin activity, cortical actin organization is a key regulator of cortex tension. Yet, how mitotic actin organization is controlled remains poorly understood. To address this, we characterized the F-actin interactome in spread interphase and round mitotic cells. Using super-resolution microscopy, we then screened for regulators of cortex architecture and identified the intermediate filament vimentin and the actin-vimentin linker plectin as unexpected candidates. We found that vimentin is recruited to the mitotic cortex in a plectin-dependent manner. We then showed that cortical vimentin controls actin network organization and mechanics in mitosis and is required for successful cell division in confinement. Together, our study highlights crucial interactions between cytoskeletal networks during cell division."
+  ],
+  "affiliation": [
+    "MRC Laboratory for Molecular Cell Biology, University College London, London WC1E 6BT, UK; Cancer Research UK London Research Institute, Clare Hall Laboratories, South Mimms, Hertfordshire, EN6 3LD, UK."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "311637"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/R000042/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12018/5"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_00012/5"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cortex",
+        "Phosphorylation",
+        "Mitosis",
+        "Vimentin",
+        "Proteomics",
+        "Cell Shape",
+        "Cdk1",
+        "Plectin",
+        "Actin Organization",
+        "Mitotic Rounding"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.devcel.2019.12.011"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6983945"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.devcel.2019.12.011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-14"
+  ],
+  "firstIndexDate": [
+    "2020-01-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-05"
+  ],
+  "dateOfRevision": [
+    "2020-03-18"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-09"
+  ],
+  "firstPublicationDate": [
+    "2020-01-09"
+  ]
+}

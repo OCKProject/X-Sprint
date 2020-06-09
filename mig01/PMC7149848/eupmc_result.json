@@ -1,0 +1,676 @@
+{
+  "id": [
+    "32276636"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32276636"
+  ],
+  "pmcid": [
+    "PMC7149848"
+  ],
+  "doi": [
+    "10.1186/s12942-020-00207-3"
+  ],
+  "title": [
+    "Detecting geospatial patterns of Plasmodium falciparum parasite migration in Cambodia using optimized estimated effective migration surfaces."
+  ],
+  "authorString": [
+    "Li Y, Shetty AC, Lon C, Spring M, Saunders DL, Fukuda MM, Hien TT, Pukrittayakamee S, Fairhurst RM, Dondorp AM, Plowe CV, O'Connor TD, Takala-Harrison S, Stewart K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center for Geospatial Information Science, Department of Geographical Sciences, University of Maryland, College Park, 20742, MD, USA. liyao@umd.edu."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shetty AC"
+          ],
+          "firstName": [
+            "Amol C"
+          ],
+          "lastName": [
+            "Shetty"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8790-7649",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, 21201, MD, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lon C"
+          ],
+          "firstName": [
+            "Chanthap"
+          ],
+          "lastName": [
+            "Lon"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Spring M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Spring"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saunders DL"
+          ],
+          "firstName": [
+            "David L"
+          ],
+          "lastName": [
+            "Saunders"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fukuda MM"
+          ],
+          "firstName": [
+            "Mark M"
+          ],
+          "lastName": [
+            "Fukuda"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hien TT"
+          ],
+          "firstName": [
+            "Tran Tinh"
+          ],
+          "lastName": [
+            "Hien"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Oxford University Clinical Research Unit, Ho Chi Minh City, Vietnam."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pukrittayakamee S"
+          ],
+          "firstName": [
+            "Sasithon"
+          ],
+          "lastName": [
+            "Pukrittayakamee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Clinical Tropical Medicine, Mahidol University, Bangkok, Thailand."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fairhurst RM"
+          ],
+          "firstName": [
+            "Rick M"
+          ],
+          "lastName": [
+            "Fairhurst"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Institutes of Health, Bethesda, MD, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dondorp AM"
+          ],
+          "firstName": [
+            "Arjen M"
+          ],
+          "lastName": [
+            "Dondorp"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Mahidol-Oxford Tropical Medicine Research Unit, Bangkok, Thailand."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Plowe CV"
+          ],
+          "firstName": [
+            "Christopher V"
+          ],
+          "lastName": [
+            "Plowe"
+          ],
+          "initials": [
+            "CV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Duke Global Health Institute, Duke University, Durham, 27710, NC, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "O'Connor TD"
+          ],
+          "firstName": [
+            "Timothy D"
+          ],
+          "lastName": [
+            "O'Connor"
+          ],
+          "initials": [
+            "TD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, 21201, MD, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Takala-Harrison S"
+          ],
+          "firstName": [
+            "Shannon"
+          ],
+          "lastName": [
+            "Takala-Harrison"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center for Vaccine Development and Global Health, University of Maryland School of Medicine, Baltimore, 21201, MD, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stewart K"
+          ],
+          "firstName": [
+            "Kathleen"
+          ],
+          "lastName": [
+            "Stewart"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center for Geospatial Information Science, Department of Geographical Sciences, University of Maryland, College Park, 20742, MD, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8790-7649",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2933953"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of health geographics"
+          ],
+          "ISOAbbreviation": [
+            "Int J Health Geogr"
+          ],
+          "medlineAbbreviation": [
+            "Int J Health Geogr"
+          ],
+          "NLMid": [
+            "101152198"
+          ],
+          "ISSN": [
+            "1476-072X"
+          ],
+          "ESSN": [
+            "1476-072X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "13"
+  ],
+  "abstractText": [
+    "BACKGROUND:Understanding the genetic structure of natural populations provides insight into the demographic and adaptive processes that have affected those populations. Such information, particularly when integrated with geospatial data, can have translational applications for a variety of fields, including public health. Estimated effective migration surfaces (EEMS) is an approach that allows visualization of the spatial patterns in genomic data to understand population structure and migration. In this study, we developed a workflow to optimize the resolution of spatial grids used to generate EEMS migration maps and applied this optimized workflow to estimate migration of Plasmodium falciparum in Cambodia and bordering regions of Thailand and Vietnam. METHODS:The optimal density of EEMS grids was determined based on a new workflow created using density clustering to define genomic clusters and the spatial distance between genomic clusters. Topological skeletons were used to capture the spatial distribution for each genomic cluster and to determine the EEMS grid density; i.e., both genomic and spatial clustering were used to guide the optimization of EEMS grids. Model accuracy for migration estimates using the optimized workflow was tested and compared to grid resolutions selected without the optimized workflow. As a test case, the optimized workflow was applied to genomic data generated from P. falciparum sampled in Cambodia and bordering regions, and migration maps were compared to estimates of malaria endemicity, as well as geographic properties of the study area, as a means of validating observed migration patterns. RESULTS:Optimized grids displayed both high model accuracy and reduced computing time compared to grid densities selected in an unguided manner. In addition, EEMS migration maps generated for P. falciparum using the optimized grid corresponded to estimates of malaria endemicity and geographic properties of the study region that might be expected to impact malaria parasite migration, supporting the validity of the observed migration patterns. CONCLUSIONS:Optimized grids reduce spatial uncertainty in the EEMS contours that can result from user-defined parameters, such as the resolution of the spatial grid used in the model. This workflow will be useful to a broad range of EEMS users as it can be applied to analyses involving other organisms of interest and geographic areas."
+  ],
+  "affiliation": [
+    "Center for Geospatial Information Science, Department of Geographical Sciences, University of Maryland, College Park, 20742, MD, USA. liyao@umd.edu."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 AI125579"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AI101713"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01-AI125579"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U19AI129386"
+          ],
+          "agency": [
+            "National Institute of Allergy and Infectious Diseases of the National Institutes of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AI145852"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plasmodium falciparum",
+        "Parasite Migration",
+        "Malaria Elimination",
+        "Estimated Effective Migration Surfaces"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12942-020-00207-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7149848"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7149848?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12942-020-00207-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-12"
+  ],
+  "firstIndexDate": [
+    "2020-04-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-10"
+  ],
+  "firstPublicationDate": [
+    "2020-04-10"
+  ]
+}

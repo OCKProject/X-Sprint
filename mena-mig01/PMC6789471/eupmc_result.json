@@ -1,0 +1,495 @@
+{
+  "id": [
+    "31277329"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31277329"
+  ],
+  "pmcid": [
+    "PMC6789471"
+  ],
+  "doi": [
+    "10.3390/vaccines7030060"
+  ],
+  "title": [
+    "Potential Role of Rainbow Trout Erythrocytes as Mediators in the Immune Response Induced by a DNA Vaccine in Fish."
+  ],
+  "authorString": [
+    "Puente-Marin S, Nombela I, Chico V, Ciordia S, Mena MC, Perez LG, Coll J, Ortega-Villaizan MDM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Puente-Marin S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Puente-Marin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Departamento de Bioquímica y Biología Molecular, Instituto de Investigación, Desarrollo e Innovación en Biotecnología Sanitaria de Elche (IDiBE) and Instituto de Biología Molecular y Celular (IBMC), Universidad Miguel Hernández (UMH), 03202 Elche, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nombela I"
+          ],
+          "firstName": [
+            "Ivan"
+          ],
+          "lastName": [
+            "Nombela"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8436-2081",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Departamento de Bioquímica y Biología Molecular, Instituto de Investigación, Desarrollo e Innovación en Biotecnología Sanitaria de Elche (IDiBE) and Instituto de Biología Molecular y Celular (IBMC), Universidad Miguel Hernández (UMH), 03202 Elche, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chico V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Chico"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Departamento de Bioquímica y Biología Molecular, Instituto de Investigación, Desarrollo e Innovación en Biotecnología Sanitaria de Elche (IDiBE) and Instituto de Biología Molecular y Celular (IBMC), Universidad Miguel Hernández (UMH), 03202 Elche, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ciordia S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Ciordia"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5726-853X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unidad de Proteómica, Centro Nacional de Biotecnología (CNB-CSIC), 28049 Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena MC"
+          ],
+          "firstName": [
+            "Maria Carmen"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unidad de Proteómica, Centro Nacional de Biotecnología (CNB-CSIC), 28049 Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perez LG"
+          ],
+          "firstName": [
+            "Luis Garcia"
+          ],
+          "lastName": [
+            "Perez"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Departamento de Bioquímica y Biología Molecular, Instituto de Investigación, Desarrollo e Innovación en Biotecnología Sanitaria de Elche (IDiBE) and Instituto de Biología Molecular y Celular (IBMC), Universidad Miguel Hernández (UMH), 03202 Elche, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Coll J"
+          ],
+          "firstName": [
+            "Julio"
+          ],
+          "lastName": [
+            "Coll"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Departamento de Biotecnología, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Biotecnología, 28040 Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ortega-Villaizan MDM"
+          ],
+          "firstName": [
+            "Maria Del Mar"
+          ],
+          "lastName": [
+            "Ortega-Villaizan"
+          ],
+          "initials": [
+            "MDM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Departamento de Bioquímica y Biología Molecular, Instituto de Investigación, Desarrollo e Innovación en Biotecnología Sanitaria de Elche (IDiBE) and Instituto de Biología Molecular y Celular (IBMC), Universidad Miguel Hernández (UMH), 03202 Elche, Spain. mortega-villaizan@umh.es."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8436-2081",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5726-853X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2834209"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Vaccines"
+          ],
+          "ISOAbbreviation": [
+            "Vaccines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Vaccines (Basel)"
+          ],
+          "NLMid": [
+            "101629355"
+          ],
+          "ISSN": [
+            "2076-393X"
+          ],
+          "ESSN": [
+            "2076-393X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "In recent years, fish nucleated red blood cells (RBCs) have been implicated in the response against viral infections. We have demonstrated that rainbow trout RBCs can express the antigen encoded by a DNA vaccine against viral hemorrhagic septicemia virus (VHSV) and mount an immune response to the antigen in vitro. In this manuscript, we show, for the first time, the role of RBCs in the immune response triggered by DNA immunization of rainbow trout with glycoprotein G of VHSV (GVHSV). Transcriptomic and proteomic profiles of RBCs revealed genes and proteins involved in antigen processing and presentation of exogenous peptide antigen via MHC class I, the Fc receptor signaling pathway, the autophagy pathway, and the activation of the innate immune response, among others. On the other hand, GVHSV-transfected RBCs induce specific antibodies against VHSV in the serum of rainbow trout which shows that RBCs expressing a DNA vaccine are able to elicit a humoral response. These results open a new direction in the research of vaccination strategies for fish since rainbow trout RBCs actively participate in the innate and adaptive immune response in DNA vaccination. Based on our findings, we suggest the use of RBCs as target cells or carriers for the future design of novel vaccine strategies."
+  ],
+  "affiliation": [
+    "Departamento de Bioquímica y Biología Molecular, Instituto de Investigación, Desarrollo e Innovación en Biotecnología Sanitaria de Elche (IDiBE) and Instituto de Biología Molecular y Celular (IBMC), Universidad Miguel Hernández (UMH), 03202 Elche, Spain."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GA639249"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Erythrocytes",
+        "Rainbow trout",
+        "Red blood cells",
+        "Proteome",
+        "Antigen presentation",
+        "Transcriptome",
+        "Gvhsv"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/vaccines7030060"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6789471"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6789471?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/vaccines7030060"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "go",
+        "refseq",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-07"
+  ],
+  "firstIndexDate": [
+    "2019-07-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-03"
+  ],
+  "firstPublicationDate": [
+    "2019-07-03"
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "id": [
+    "32231998"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32231998"
+  ],
+  "pmcid": [
+    "PMC7082744"
+  ],
+  "doi": [
+    "10.3389/fonc.2020.00292"
+  ],
+  "title": [
+    "Transcriptomic and Functional Screens Reveal MicroRNAs That Modulate Prostate Cancer Metastasis."
+  ],
+  "authorString": [
+    "Rao SR, Howarth A, Kratschmer P, Snaith AE, Yapp C, Ebner D, Hamdy FC, Edwards CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rao SR"
+          ],
+          "firstName": [
+            "Srinivasa R"
+          ],
+          "lastName": [
+            "Rao"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Howarth A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Howarth"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Medicine, Target Discovery Institute, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kratschmer P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Kratschmer"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Snaith AE"
+          ],
+          "firstName": [
+            "Ann E"
+          ],
+          "lastName": [
+            "Snaith"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yapp C"
+          ],
+          "firstName": [
+            "Clarence"
+          ],
+          "lastName": [
+            "Yapp"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, Botnar Research Centre, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ebner D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Ebner"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6495-7026",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Medicine, Target Discovery Institute, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hamdy FC"
+          ],
+          "firstName": [
+            "Freddie C"
+          ],
+          "lastName": [
+            "Hamdy"
+          ],
+          "initials": [
+            "FC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Edwards CM"
+          ],
+          "firstName": [
+            "Claire M"
+          ],
+          "lastName": [
+            "Edwards"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom.",
+                "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, Botnar Research Centre, University of Oxford, Oxford, United Kingdom."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6495-7026",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2911881"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "292"
+  ],
+  "abstractText": [
+    "Identifying new mechanisms that underlie the complex process of metastasis is vital to combat this fatal step in prostate cancer (PCa) progression. Small non-coding RNAs are emerging as important regulators of tumor cell biology. Here we take an integrative approach to elucidate the contribution of microRNAs to metastatic progression, combining transcriptomic analysis with functional screens for migration and morphology. We developed high-content microscopy, high-throughput functional screens for migration and morphology in PCa cells using a microRNA library. RNA-Seq analysis of paired epithelial and mesenchymal PCa cells identified differential expression of 200 microRNAs. Data integration identified two microRNAs that inhibited migration, induced an epithelial-like morphology and were increased in epithelial PCa cells. An overrepresentation of the AAGUGC seed sequence was detected in all three datasets. Analysis of published datasets of patients with PCa identified microRNAs of clinical relevance. The integration of high-throughput functional and expression analyses identifies microRNAs with clinical significance that modulate metastatic behavior in PCa."
+  ],
+  "affiliation": [
+    "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, United Kingdom."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Screening",
+        "MicroRNA",
+        "prostate cancer",
+        "Morphological Analysis",
+        "Emt - Epithelial To Mesenchymal Transition",
+        "Migration Screening"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00292"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7082744"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7082744?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00292"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-04-02"
+  ],
+  "firstIndexDate": [
+    "2020-04-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-01"
+  ],
+  "dateOfRevision": [
+    "2020-04-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-13"
+  ],
+  "firstPublicationDate": [
+    "2020-03-13"
+  ]
+}

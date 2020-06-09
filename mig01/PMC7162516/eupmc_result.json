@@ -1,0 +1,396 @@
+{
+  "id": [
+    "32298282"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32298282"
+  ],
+  "pmcid": [
+    "PMC7162516"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0230265"
+  ],
+  "title": [
+    "Impact of growth factor content on proliferation of mesenchymal stromal cells derived from adipose tissue."
+  ],
+  "authorString": [
+    "Franz KC, Suschek CV, Grotheer V, Akbas M, Pallua N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Franz KC"
+          ],
+          "firstName": [
+            "Katrin C"
+          ],
+          "lastName": [
+            "Franz"
+          ],
+          "initials": [
+            "KC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Plastic and Reconstructive Surgery, Hand Surgery and Burn Centre, Medical Faculty, Pauwelsstrasse, Aachen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suschek CV"
+          ],
+          "firstName": [
+            "Christoph V"
+          ],
+          "lastName": [
+            "Suschek"
+          ],
+          "initials": [
+            "CV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1181-4427",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Plastic and Reconstructive Surgery, Hand Surgery and Burn Centre, Medical Faculty, Pauwelsstrasse, Aachen, Germany.",
+                "Department for Orthopaedics and Trauma Surgery, Medical Faculty, Heinrich-Heine-University Düsseldorf, Moorenstrasse, Düsseldorf, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grotheer V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Grotheer"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department for Orthopaedics and Trauma Surgery, Medical Faculty, Heinrich-Heine-University Düsseldorf, Moorenstrasse, Düsseldorf, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Akbas M"
+          ],
+          "firstName": [
+            "Mehmet"
+          ],
+          "lastName": [
+            "Akbas"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Arteo Clinic for Plastic and Aesthetic Surgery, Johannstrasse, Düsseldorf, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pallua N"
+          ],
+          "firstName": [
+            "Norbert"
+          ],
+          "lastName": [
+            "Pallua"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Plastic and Reconstructive Surgery, Hand Surgery and Burn Centre, Medical Faculty, Pauwelsstrasse, Aachen, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1181-4427",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2930551"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0230265"
+  ],
+  "abstractText": [
+    "Autologous adipose tissue (AT) transfer has gained widespread acceptance and is used for a broad variety of regenerative clinical indications. It is assumed that the successful outcome of AT transfer essentially depends on the amount of autocrine-generated growth factors (GF). It is supposed that several GF enhance and improve the anatomic and functional integration of the transplanted AT grafts at the site of implantation. In the present study we have investigated for the first time the correlation between the concentration of GF of freshly isolated AT and the proliferation and migration capacity of mesenchymal stroma cells (MSCs) derived from the respective AT sample. We here show that the proliferation and migration capacity of MSCs strongly depends on the GF content of the AT the cells were isolated from but in an inversely proportional manner. The lower the GF content of an AT sample was, the higher was the proliferation and migration capacity of the respective MSC population contained in the AT and vice versa. Furthermore, we found that supplementation with recombinant GFs only in the case of AT samples with low but not with higher growth factor contents led to a significant enhancement of proliferation and migration of the AT-resident MSCs. As we further show, this inefficiency of GFs to enhance MSC proliferation and migration in AT samples with high GF contents indicates a GF-mediated negative feedback mechanism leading to an impaired GF signaling in MSC obtained from those AT samples. Our results might explain why the successful use of AT grafting is frequently limited by low and unpredictable survival rates, and we suggest to use the knowledge of GF content of harvested AT as a predictive clinical parameter for risk assessment of the therapeutic outcome of autologous AT transfer."
+  ],
+  "affiliation": [
+    "Department of Plastic and Reconstructive Surgery, Hand Surgery and Burn Centre, Medical Faculty, Pauwelsstrasse, Aachen, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230265"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7162516"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7162516?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230265"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-17"
+  ],
+  "firstIndexDate": [
+    "2020-04-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-23"
+  ],
+  "dateOfRevision": [
+    "2020-04-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-16"
+  ],
+  "firstPublicationDate": [
+    "2020-04-16"
+  ]
+}

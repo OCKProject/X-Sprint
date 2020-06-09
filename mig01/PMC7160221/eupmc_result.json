@@ -1,0 +1,362 @@
+{
+  "id": [
+    "32318624"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32318624"
+  ],
+  "pmcid": [
+    "PMC7160221"
+  ],
+  "doi": [
+    "10.1515/med-2020-0040"
+  ],
+  "title": [
+    "miR-92 Regulates the Proliferation, Migration, Invasion and Apoptosis of Glioma Cells by Targeting Neogenin."
+  ],
+  "authorString": [
+    "Wang Y, Tian Y, Li Z, Zheng Z, Zhu L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Department of Neurosurgery, the Cangzhou Central Hospital, No. 16 Xinhua West Road, Cangzhou 060000, Hebei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tian Y"
+          ],
+          "firstName": [
+            "Yaohui"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Department of Neurosurgery, the Cangzhou Central Hospital, No. 16 Xinhua West Road, Cangzhou 060000, Hebei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zonghao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Department of Neurosurgery, the Cangzhou Central Hospital, No. 16 Xinhua West Road, Cangzhou 060000, Hebei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Z"
+          ],
+          "firstName": [
+            "Zhaoke"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Department of Neurosurgery, the Cangzhou Central Hospital, No. 16 Xinhua West Road, Cangzhou 060000, Hebei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu L"
+          ],
+          "firstName": [
+            "Liangliang"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Department of Neurosurgery, the Cangzhou Central Hospital, No. 16 Xinhua West Road, Cangzhou 060000, Hebei, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2914121"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Open medicine (Warsaw, Poland)"
+          ],
+          "ISOAbbreviation": [
+            "Open Med (Wars)"
+          ],
+          "medlineAbbreviation": [
+            "Open Med (Wars)"
+          ],
+          "NLMid": [
+            "101672167"
+          ],
+          "ISSN": [
+            "2391-5463"
+          ],
+          "ESSN": [
+            "2391-5463"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "283-291"
+  ],
+  "abstractText": [
+    "This study aimed to explore the pathological mechanism in regulating glioma progression. The expression of miR-92 and neogenin was evaluated by qRT-PCR and western blot. Cell viability and apoptosis were measured by MTT and flow cytometry assays, respectively. The migration and invasion abilities were examined by transwell assays. The interaction between miR-92 and neogenin was conducted by dual-luciferase reporter system. As a result, we found that the expression of miR-92 was up-regulated in glioma tissues and cell lines. Down-regulation of miR-92 inhibited glioma cell proliferation, migration, invasion and promoted cell apoptosis rate of U251 and U87 cells. Notably, miR-92 was identified to directly target to 3'-UTR of neogenin. Furthermore, neogenin was down-regulated in glioma tissues and cells in a miR-92-correlated manner. Overexpression of neigenin could cause similar results to miR-92 knockdown in U251 and U87 cells. However, the silencing of neogenin partially reversed the effects of miR-92 knockdown on cell proliferation, migration, invasion and apoptosis of glioma cells in vitro. In conclusion, we clarified that miR-92 knockdown could suppress the malignant progression of glioma cells in vitro by targeting neogenin. Therefore, miR-92 could serve as a potential diagnostic and prognostic marker in glioma patients."
+  ],
+  "affiliation": [
+    "The Second Department of Neurosurgery, the Cangzhou Central Hospital, No. 16 Xinhua West Road, Cangzhou 060000, Hebei, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Apoptosis",
+        "Migration",
+        "Proliferation",
+        "Glioma",
+        "Mir-92",
+        "Neogenin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1515/med-2020-0040"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7160221"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7160221?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1515/med-2020-0040"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-23"
+  ],
+  "firstIndexDate": [
+    "2020-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-23"
+  ],
+  "dateOfRevision": [
+    "2020-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-08"
+  ],
+  "firstPublicationDate": [
+    "2020-04-08"
+  ]
+}

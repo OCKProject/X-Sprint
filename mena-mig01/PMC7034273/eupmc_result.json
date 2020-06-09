@@ -1,0 +1,575 @@
+{
+  "id": [
+    "31823868"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31823868"
+  ],
+  "pmcid": [
+    "PMC7034273"
+  ],
+  "doi": [
+    "10.4103/1673-5374.270299"
+  ],
+  "title": [
+    "Type XIX collagen: a promising biomarker from the basement membranes."
+  ],
+  "authorString": [
+    "Calvo AC, Moreno L, Moreno L, Toivonen JM, Manzano R, Molina N, de la Torre M, López T, Miana-Mena FJ, Muñoz MJ, Zaragoza P, Larrodé P, García-Redondo A, Osta R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Calvo AC"
+          ],
+          "firstName": [
+            "Ana C"
+          ],
+          "lastName": [
+            "Calvo"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno L"
+          ],
+          "firstName": [
+            "Leticia"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Toivonen JM"
+          ],
+          "firstName": [
+            "Janne M"
+          ],
+          "lastName": [
+            "Toivonen"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7243-1737",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Manzano R"
+          ],
+          "firstName": [
+            "Raquel"
+          ],
+          "lastName": [
+            "Manzano"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Molina N"
+          ],
+          "firstName": [
+            "Nora"
+          ],
+          "lastName": [
+            "Molina"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "de la Torre M"
+          ],
+          "firstName": [
+            "Miriam"
+          ],
+          "lastName": [
+            "de la Torre"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "López T"
+          ],
+          "firstName": [
+            "Tresa"
+          ],
+          "lastName": [
+            "López"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miana-Mena FJ"
+          ],
+          "firstName": [
+            "Francisco J"
+          ],
+          "lastName": [
+            "Miana-Mena"
+          ],
+          "initials": [
+            "FJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Muñoz MJ"
+          ],
+          "firstName": [
+            "María J"
+          ],
+          "lastName": [
+            "Muñoz"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zaragoza P"
+          ],
+          "firstName": [
+            "Pilar"
+          ],
+          "lastName": [
+            "Zaragoza"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Larrodé P"
+          ],
+          "firstName": [
+            "Pilar"
+          ],
+          "lastName": [
+            "Larrodé"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Hospital Clínico Universitario Lozano Blesa, Zaragoza, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "García-Redondo A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "García-Redondo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Neurology Department, ALS Unit, CIBERER U-723, Health Research Institute, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Osta R"
+          ],
+          "firstName": [
+            "Rosario"
+          ],
+          "lastName": [
+            "Osta"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7243-1737",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2891529"
+      ],
+      "dateOfPublication": [
+        "2020 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural regeneration research"
+          ],
+          "ISOAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "medlineAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "NLMid": [
+            "101316351"
+          ],
+          "ISSN": [
+            "1673-5374"
+          ],
+          "ESSN": [
+            "1876-7958"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "988-995"
+  ],
+  "abstractText": [
+    "Among collagen members in the collagen superfamily, type XIX collagen has raised increasing interest in relation to its structural and biological roles. Type XIX collagen is a Fibril-Associated Collagen with Interrupted Triple helices member, one main subclass of collagens in this superfamily. This collagen contains a triple helix composed of three polypeptide segments aligned in parallel and it is associated with the basement membrane zone in different tissues. The molecular structure of type XIX collagen consists of five collagenous domains, COL1 to COL5, interrupted by six non-collagenous domains, NC1 to NC6. The most relevant domain by which this collagen exerts its biological roles is NC1 domain that can be cleavage enzymatically to release matricryptins, exerting anti-tumor and anti-angiogenic effect in murine and human models of cancer. Under physiological conditions, type XIX collagen expression decreases after birth in different tissues although it is necessary to keep its basal levels, mainly in skeletal muscle and hippocampal and telencephalic interneurons in brain. Notwithstanding, in amyotrophic lateral sclerosis, altered transcript expression levels show a novel biological effect of this collagen beyond its structural role in basement membranes and its anti-tumor and anti-angiogenic properties. Type XIX collagen can exert a compensatory effect to ameliorate the disease progression under neurodegenerative conditions specific to amyotrophic lateral sclerosis in transgenic SOD1G93A mice and amyotrophic lateral sclerosis patients. This novel biological role highlights its nature as prognostic biomarker of disease progression in and as promising therapeutic target, paving the way to a more precise prognosis of amyotrophic lateral sclerosis."
+  ],
+  "affiliation": [
+    "Laboratory of Genetics and Biochemistry (LAGENBIO), University of Zaragoza, Faculty of Veterinary Sciences, Instituto de Investigación Sanitaria de Aragón (IIS), IA2, CIBERNED, Zaragoza, Spain."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Skeletal muscle",
+        "Compensatory effect",
+        "Hippocampal Interneurons",
+        "Facit Collagens",
+        "C1 Domain",
+        "Matricryptins",
+        "Nc1 Domain",
+        "Regenerative Response",
+        "Col19a1 Gene And Protein Levels",
+        "Anti-tumor And Anti-angiogenic Properties",
+        "Multiplexins",
+        "Type Xix Collagen"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1673-5374.270299"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7034273"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1673-5374.270299"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "hgnc"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-12-12"
+  ],
+  "firstIndexDate": [
+    "2019-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-19"
+  ],
+  "dateOfRevision": [
+    "2020-03-11"
+  ],
+  "firstPublicationDate": [
+    "2020-06-01"
+  ]
+}

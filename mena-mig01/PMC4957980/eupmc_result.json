@@ -1,0 +1,906 @@
+{
+  "id": [
+    "27350259"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27350259"
+  ],
+  "pmcid": [
+    "PMC4957980"
+  ],
+  "doi": [
+    "10.7554/elife.16777"
+  ],
+  "title": [
+    "Origins of the 2009 H1N1 influenza pandemic in swine in Mexico."
+  ],
+  "authorString": [
+    "Mena I, Nelson MI, Quezada-Monroy F, Dutta J, Cortes-Fernández R, Lara-Puente JH, Castro-Peralta F, Cunha LF, Trovão NS, Lozano-Dubernard B, Rambaut A, van Bakel H, García-Sastre A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mena I"
+          ],
+          "firstName": [
+            "Ignacio"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5464-7086",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, United States.",
+                "Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nelson MI"
+          ],
+          "firstName": [
+            "Martha I"
+          ],
+          "lastName": [
+            "Nelson"
+          ],
+          "initials": [
+            "MI"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health, Bethesda, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Quezada-Monroy F"
+          ],
+          "firstName": [
+            "Francisco"
+          ],
+          "lastName": [
+            "Quezada-Monroy"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio Avi-Mex, Mexico City, Mexico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dutta J"
+          ],
+          "firstName": [
+            "Jayeeta"
+          ],
+          "lastName": [
+            "Dutta"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cortes-Fernández R"
+          ],
+          "firstName": [
+            "Refugio"
+          ],
+          "lastName": [
+            "Cortes-Fernández"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio Avi-Mex, Mexico City, Mexico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lara-Puente JH"
+          ],
+          "firstName": [
+            "J Horacio"
+          ],
+          "lastName": [
+            "Lara-Puente"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio Avi-Mex, Mexico City, Mexico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Castro-Peralta F"
+          ],
+          "firstName": [
+            "Felipa"
+          ],
+          "lastName": [
+            "Castro-Peralta"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio Avi-Mex, Mexico City, Mexico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cunha LF"
+          ],
+          "firstName": [
+            "Luis F"
+          ],
+          "lastName": [
+            "Cunha"
+          ],
+          "initials": [
+            "LF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Trovão NS"
+          ],
+          "firstName": [
+            "Nídia S"
+          ],
+          "lastName": [
+            "Trovão"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2106-1166",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, United States.",
+                "Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, United States.",
+                "Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health, Bethesda, United States.",
+                "Department of Microbiology and Immunology, Rega Institute, University of Leuven, Leuven, Belgium."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lozano-Dubernard B"
+          ],
+          "firstName": [
+            "Bernardo"
+          ],
+          "lastName": [
+            "Lozano-Dubernard"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratorio Avi-Mex, Mexico City, Mexico."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rambaut A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Rambaut"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health, Bethesda, United States.",
+                "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, United Kingdom.",
+                "Centre for Immunology, Infection and Evolution, University of Edinburgh, Edinburgh, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Bakel H"
+          ],
+          "firstName": [
+            "Harm"
+          ],
+          "lastName": [
+            "van Bakel"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1376-6916",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, United States."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "García-Sastre A"
+          ],
+          "firstName": [
+            "Adolfo"
+          ],
+          "lastName": [
+            "García-Sastre"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6551-1827",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, United States.",
+                "Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, United States.",
+                "Department of Medicine, Division of Infectious Diseases, Icahn School of Medicine at Mount Sinai, New York, United States."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5464-7086",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2106-1166",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1376-6916",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6551-1827",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2413965"
+      ],
+      "dateOfPublication": [
+        "2016 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Asia is considered an important source of influenza A virus (IAV) pandemics, owing to large, diverse viral reservoirs in poultry and swine. However, the zoonotic origins of the 2009 A/H1N1 influenza pandemic virus (pdmH1N1) remain unclear, due to conflicting evidence from swine and humans. There is strong evidence that the first human outbreak of pdmH1N1 occurred in Mexico in early 2009. However, no related swine viruses have been detected in Mexico or any part of the Americas, and to date the most closely related ancestor viruses were identified in Asian swine. Here, we use 58 new whole-genome sequences from IAVs collected in Mexican swine to establish that the swine virus responsible for the 2009 pandemic evolved in central Mexico. This finding highlights how the 2009 pandemic arose from a region not considered a pandemic risk, owing to an expansion of IAV diversity in swine resulting from long-distance live swine trade."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, United States."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HHSN272201400008C"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Swine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zoonoses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Orthomyxoviridae Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VE"
+                  ],
+                  "qualifierName": [
+                    "veterinary"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Swine Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mexico"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Influenza, Human"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Influenza A Virus, H1N1 Subtype"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Virus",
+        "Microbiology",
+        "Swine",
+        "Infectious disease",
+        "Phylogeography",
+        "Zoonosis",
+        "epidemiology",
+        "Influenza A Virus",
+        "Global Health",
+        "2009 Pandemic"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.16777"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4957980"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4957980?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/elife.16777"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "33"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-11-16"
+  ],
+  "dateOfCreation": [
+    "2016-06-29"
+  ],
+  "firstIndexDate": [
+    "2016-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2016-07-30"
+  ],
+  "dateOfRevision": [
+    "2020-03-06"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-28"
+  ],
+  "firstPublicationDate": [
+    "2016-06-28"
+  ]
+}

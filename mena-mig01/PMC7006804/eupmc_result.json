@@ -1,0 +1,448 @@
+{
+  "id": [
+    "32082510"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32082510"
+  ],
+  "pmcid": [
+    "PMC7006804"
+  ],
+  "doi": [
+    "10.1080/20008198.2019.1706297"
+  ],
+  "title": [
+    "Should I stay or must I go? Predictors of dropout in an internet-based psychotherapy programme for posttraumatic stress disorder in Arabic."
+  ],
+  "authorString": [
+    "Vöhringer M, Knaevelsrud C, Wagner B, Slotta M, Schmidt A, Stammel N, Böttche M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vöhringer M"
+          ],
+          "firstName": [
+            "Max"
+          ],
+          "lastName": [
+            "Vöhringer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center Überleben gGmbH, Berlin, Germany.",
+                "Department for Clinical-Psychological Intervention, Freie Universität Berlin, Berlin, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Knaevelsrud C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Knaevelsrud"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1342-7006",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department for Clinical-Psychological Intervention, Freie Universität Berlin, Berlin, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wagner B"
+          ],
+          "firstName": [
+            "Birgit"
+          ],
+          "lastName": [
+            "Wagner"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Medical School Berlin, Berlin, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Slotta M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Slotta"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department for Clinical-Psychological Intervention, Freie Universität Berlin, Berlin, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schmidt A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Schmidt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center Überleben gGmbH, Berlin, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stammel N"
+          ],
+          "firstName": [
+            "Nadine"
+          ],
+          "lastName": [
+            "Stammel"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center Überleben gGmbH, Berlin, Germany.",
+                "Department for Clinical-Psychological Intervention, Freie Universität Berlin, Berlin, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Böttche M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Böttche"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Center Überleben gGmbH, Berlin, Germany.",
+                "Department for Clinical-Psychological Intervention, Freie Universität Berlin, Berlin, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1342-7006",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2906348"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of psychotraumatology"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "NLMid": [
+            "101559025"
+          ],
+          "ISSN": [
+            "2000-8066"
+          ],
+          "ESSN": [
+            "2000-8066"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1706297"
+  ],
+  "abstractText": [
+    "Background: Dropout from psychotherapy has negative impacts on clients, therapists, and health-care agencies. Research has identified a variety of variables as predictors of dropout, which can be grouped in three domains: socio-demographic, psychological, and treatment-related variables. Objective: In order to further clarify the question of predictors of dropout, an exploratory research design was applied to a large sample, testing 25 different variables from the three domains as possible predictors. Method: The sample included 386 adults who started an internet-based cognitive-behavioural treatment approach for posttraumatic stress disorder (PTSD) in Arabic. As the participants had different countries of origin and of current residence, multilevel analyses were performed. For the selection of predictor variables, the Least Absolute Shrinkage and Selection Operator was used. Results: Dropout rates did not vary significantly between participants from different countries of origin or from different countries of residence. Likewise, dropout did not vary significantly between clusters of individuals with the same country of origin and the same country of residence, i.e. the same migration path. Three of the 25 variables were identified as significant predictors for dropout: marital status (divorced participants' probability to drop out was higher compared to non-divorced, i.e. single, married, or widowed, clients), treatment credibility scores (higher dropout probability of participants with lower treatment credibility), and the participants' year of registration for the treatment (earlier years of registration predicted lower dropout probability). The overall ability of the three-factor-model to discriminate between dropout and completion was poor (AUC = 0.652, with low sensitivity and acceptable specificity). Conclusions: The predictors belong to the treatment-related domain (credibility, year of registration) or are specific to the target group (marital status). However, the results show that predicting treatment dropout continues to be a very challenging endeavour and indicate that it is important to look at each intervention individually."
+  ],
+  "affiliation": [
+    "Center Überleben gGmbH, Berlin, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Trauma",
+        "Attrition",
+        "Dropout",
+        "Cbt",
+        "Predictors",
+        "Ptsd",
+        "psychotherapy",
+        "Arabic",
+        "Internet-based Intervention"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/20008198.2019.1706297"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7006804"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7006804?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/20008198.2019.1706297"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-02-22"
+  ],
+  "firstIndexDate": [
+    "2020-02-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-23"
+  ],
+  "dateOfRevision": [
+    "2020-02-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-23"
+  ],
+  "firstPublicationDate": [
+    "2020-01-23"
+  ]
+}

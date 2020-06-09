@@ -1,0 +1,427 @@
+{
+  "id": [
+    "31679109"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31679109"
+  ],
+  "pmcid": [
+    "PMC7128003"
+  ],
+  "doi": [
+    "10.1007/s13280-019-01272-0"
+  ],
+  "title": [
+    "Refugees, water balance, and water stress: Lessons learned from Lebanon."
+  ],
+  "authorString": [
+    "Jaafar H, Ahmad F, Holtmeier L, King-Okumu C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jaafar H"
+          ],
+          "firstName": [
+            "Hadi"
+          ],
+          "lastName": [
+            "Jaafar"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2612-3191",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Agriculture, American University of Beirut, Beirut, Lebanon. hj01@aub.edu.lb."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmad F"
+          ],
+          "firstName": [
+            "Farah"
+          ],
+          "lastName": [
+            "Ahmad"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Agriculture, American University of Beirut, Beirut, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Holtmeier L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Holtmeier"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Bush School of Government & Public Service, Texas A&M University, College Station, TX, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "King-Okumu C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "King-Okumu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "University of Southampton, UK, University Road, Southampton, SO17 1BJ, UK."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2612-3191",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "2933586"
+      ],
+      "dateOfPublication": [
+        "2020 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Ambio"
+          ],
+          "ISOAbbreviation": [
+            "Ambio"
+          ],
+          "medlineAbbreviation": [
+            "Ambio"
+          ],
+          "NLMid": [
+            "0364220"
+          ],
+          "ISSN": [
+            "0044-7447"
+          ],
+          "ESSN": [
+            "1654-7209"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1179-1193"
+  ],
+  "abstractText": [
+    "The Syrian crisis caused a massive influx of displaced people into neighboring countries, with Lebanon hosting the highest per capita number of refugees (3:10). Water remains the most critical natural resource that influences the resilience of host and refugee communities. We provide a new GIS-based updated water balance and water scarcity analysis at the national and the watershed level in Lebanon by comparing current conditions to no-refugee levels. Results show a small (6%) increase in water stress in an average water year at the national level that masks hot spots of water scarcity at the local geography. While domestic water use increased by 20%, we find that refugees' water use is only 10% of agricultural water use in summer. We also show that interventions to rehabilitate the water networks can reduce water stress to better than pre-conflict levels (3% less stress)."
+  ],
+  "affiliation": [
+    "Department of Agriculture, American University of Beirut, Beirut, Lebanon. hj01@aub.edu.lb."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dehydration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Refugees"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lebanon"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Conflicts",
+        "Lebanon",
+        "Middle East",
+        "Water Security",
+        "Gis Analysis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13280-019-01272-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7128003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7128003?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13280-019-01272-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-04-07"
+  ],
+  "dateOfCreation": [
+    "2019-11-04"
+  ],
+  "firstIndexDate": [
+    "2019-11-04"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-12"
+  ],
+  "dateOfRevision": [
+    "2020-04-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-02"
+  ],
+  "firstPublicationDate": [
+    "2019-11-02"
+  ]
+}

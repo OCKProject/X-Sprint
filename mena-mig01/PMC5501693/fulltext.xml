@@ -1,0 +1,913 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d3 20150301//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS Negl Trop Dis</journal-id><journal-id journal-id-type="iso-abbrev">PLoS Negl Trop Dis</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosntds</journal-id><journal-title-group><journal-title>PLoS Neglected Tropical Diseases</journal-title></journal-title-group><issn pub-type="ppub">1935-2727</issn><issn pub-type="epub">1935-2735</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5501693</article-id><article-id pub-id-type="pmid">28651007</article-id><article-id pub-id-type="doi">10.1371/journal.pntd.0005707</article-id><article-id pub-id-type="publisher-id">PNTD-D-17-00109</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Tropical Diseases</subject><subj-group><subject>Neglected Tropical Diseases</subject><subj-group><subject>Chikungunya Infection</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Viral Diseases</subject><subj-group><subject>Chikungunya Infection</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>RNA viruses</subject><subj-group><subject>Togaviruses</subject><subj-group><subject>Alphaviruses</subject><subj-group><subject>Chikungunya Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Togaviruses</subject><subj-group><subject>Alphaviruses</subject><subj-group><subject>Chikungunya Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Pathogens</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Togaviruses</subject><subj-group><subject>Alphaviruses</subject><subj-group><subject>Chikungunya Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Togaviruses</subject><subj-group><subject>Alphaviruses</subject><subj-group><subject>Chikungunya Virus</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Insect Vectors</subject><subj-group><subject>Mosquitoes</subject><subj-group><subject>Aedes Aegypti</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Species Interactions</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Insect Vectors</subject><subj-group><subject>Mosquitoes</subject><subj-group><subject>Aedes Aegypti</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Animals</subject><subj-group><subject>Invertebrates</subject><subj-group><subject>Arthropoda</subject><subj-group><subject>Insects</subject><subj-group><subject>Mosquitoes</subject><subj-group><subject>Aedes Aegypti</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Immunologic Techniques</subject><subj-group><subject>Immunoassays</subject><subj-group><subject>Enzyme-Linked Immunoassays</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Geographical Locations</subject><subj-group><subject>Asia</subject><subj-group><subject>Yemen</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Insect Vectors</subject><subj-group><subject>Mosquitoes</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Species Interactions</subject><subj-group><subject>Disease Vectors</subject><subj-group><subject>Insect Vectors</subject><subj-group><subject>Mosquitoes</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Animals</subject><subj-group><subject>Invertebrates</subject><subj-group><subject>Arthropoda</subject><subj-group><subject>Insects</subject><subj-group><subject>Mosquitoes</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Geographical Locations</subject><subj-group><subject>Africa</subject><subj-group><subject>Sudan</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Geographical Locations</subject><subj-group><subject>Africa</subject><subj-group><subject>Djibouti</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Urban Chikungunya in the Middle East and North Africa: A systematic
+review</article-title><alt-title alt-title-type="running-head">Chikungunya in the MENA</alt-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0003-3156-1065</contrib-id><name><surname>Humphrey</surname><given-names>John M.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Formal analysis</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; original draft</role><role content-type="http://credit.casrai.org/">Writing &#x02013; review &#x00026;
+editing</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref><xref ref-type="corresp" rid="cor001">*</xref></contrib><contrib contrib-type="author"><name><surname>Cleton</surname><given-names>Natalie B.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Investigation</role><xref ref-type="aff" rid="aff002"><sup>2</sup></xref><xref ref-type="aff" rid="aff003"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Reusken</surname><given-names>Chantal B. E. M.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Supervision</role><xref ref-type="aff" rid="aff002"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Glesby</surname><given-names>Marshall J.</given-names></name><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Supervision</role><xref ref-type="aff" rid="aff001"><sup>1</sup></xref><xref ref-type="aff" rid="aff004"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Koopmans</surname><given-names>Marion P. G.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Supervision</role><xref ref-type="aff" rid="aff002"><sup>2</sup></xref><xref ref-type="aff" rid="aff003"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>Abu-Raddad</surname><given-names>Laith J.</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Formal analysis</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Software</role><role content-type="http://credit.casrai.org/">Supervision</role><xref ref-type="aff" rid="aff004"><sup>4</sup></xref><xref ref-type="aff" rid="aff005"><sup>5</sup></xref><xref ref-type="aff" rid="aff006"><sup>6</sup></xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Division of Infectious Diseases, Department of Medicine, Weill Cornell
+Medicine, New York, New York, United States of America</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Viroscience department, Erasmus University Medical Centre, Rotterdam, The
+Netherlands</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>National Institute for Public Health and the Environment (RIVM),
+Bilthoven, The Netherlands</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>Department of Healthcare Policy and Research, Weill Cornell Medicine,
+Cornell University, New York, New York, United States of
+America</addr-line></aff><aff id="aff005"><label>5</label>
+<addr-line>Infectious Disease Epidemiology Group, Weill Cornell Medicine in Qatar,
+Cornell University, Qatar Foundation, Education City, Doha,
+Qatar</addr-line></aff><aff id="aff006"><label>6</label>
+<addr-line>College of Public Health, Hamad bin Khalifa University, Qatar Foundation,
+Education City, Doha, Qatar</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Powers</surname><given-names>Ann M.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1"><addr-line>Centers for Disease Control and Prevention, UNITED
+STATES</addr-line></aff><author-notes><fn fn-type="COI-statement" id="coi001"><p>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>john.m.humphrey@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>6</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2017</year></pub-date><volume>11</volume><issue>6</issue><elocation-id>e0005707</elocation-id><history><date date-type="received"><day>21</day><month>1</month><year>2017</year></date><date date-type="accepted"><day>12</day><month>6</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 Humphrey et al</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>Humphrey et al</copyright-holder><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>,
+which permits unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pntd.0005707.pdf"/><abstract><sec id="sec001"><title>Background</title><p>The epidemiology of <italic>Chikungunya virus</italic> (CHIKV) in the Middle
+East and North Africa (MENA) is not well characterized despite increasing
+recognition of its expanding infection and disease burden in recent
+years.</p></sec><sec id="sec002"><title>Methodology / Principal findings</title><p>Following Cochrane Collaboration guidelines and reporting our findings
+following PRISMA guidelines, we systematically reviewed records describing
+the human prevalence and incidence, CHIKV prevalence/infection rates in
+vectors, outbreaks, and reported cases for CHIKV across the MENA region. We
+identified 29 human seroprevalence measures, one human incidence study, one
+study reporting CHIKV infection rates in <italic>Aedes</italic>, and nine
+outbreaks and case reports/series reported in the MENA from 1970&#x02013;2015.
+Overall, anti-CHIKV antibody or reports of autochthonous transmission were
+identified from 10 of 23 countries in the MENA region (Djibouti, Egypt,
+Iraq, Iran, Kuwait, Pakistan, Saudi Arabia, Somalia, Sudan, and Yemen), with
+seroprevalence measures among general populations (median 1.0%, range 0&#x02013;43%)
+and acute febrile illness populations (median 9.8%, range 0&#x02013;30%). Sudan
+reported the highest number of studies (n = 11) and the highest
+seroprevalence among general populations (median 12%, range 0&#x02013;43%) and
+undifferentiated acute febrile illness populations (median 18%, range
+10&#x02013;23%). CHIKV outbreaks were reported from Djibouti, Pakistan, Sudan, and
+Yemen.</p></sec><sec id="sec003"><title>Conclusions / Significance</title><p>Seroprevalence studies and outbreak reports suggest endemic transmission of
+urban cycle CHIKV in at least the Red Sea region and Pakistan. However,
+indications of seroprevalence despite a low quantity of CHIKV epidemiologic
+research from the region suggests that CHIKV transmission is currently
+underrecognized.</p></sec></abstract><abstract abstract-type="summary"><title>Author summary</title><p><italic>Chikungunya virus</italic> (CHIKV) is an alphavirus whose principal
+vectors are the <italic>Aedes aegypti</italic> and <italic>Aedes
+albopictus</italic> mosquitoes. Though long endemic to Asia and Africa,
+detection of CHIKV has recently been reported throughout the Western Hemisphere,
+including much of South America and the Caribbean. In the Middle East and North
+Africa (MENA), the epidemiology of CHIKV remains poorly characterized despite
+recent reports of outbreaks and novel transmission in the Arabian Peninsula. To
+better understand existing data describing the epidemiology of urban CHIKV in
+the MENA region, we conducted a systematic review of human prevalence studies
+and incidence studies; CHIKV detections, prevalence, and infection rates in
+<italic>Aedes</italic>; and reported CHIKV outbreaks, case series, and case
+reports from the region. A total of 29 seroprevalence studies were identified
+through our search, with anti-CHIKV antibodies and/or outbreaks detected in
+Djibouti, Egypt, Iraq, Iran, Kuwait, Pakistan, Saudi Arabia, Somalia, Sudan, and
+Yemen. Sudan reported the highest number of studies (n = 11) and the highest
+seroprevalence among all studies. The epidemiology of urban CHIKV in other MENA
+countries is less well characterized, suggesting underascertainment of cases and
+the need for further research.</p></abstract><funding-group><funding-statement>This publication was made possible by support provided by the
+Biomedical Research Program and the Biostatistics, Epidemiology, and
+Biomathematics Research Core at the Weill Cornell Medical College in Qatar. JMH
+received support from NIH Research Training Grant T32 AI007613. The statements
+made herein are solely the responsibility of the authors. The funders had no
+role in study design, data collection and analysis, decision to publish, or
+preparation of the manuscript.</funding-statement></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="19"/></counts><custom-meta-group><custom-meta><meta-name>PLOS Publication Stage</meta-name><meta-value>vor-update-to-uncorrected-proof</meta-value></custom-meta><custom-meta><meta-name>Publication Update</meta-name><meta-value>2017-07-07</meta-value></custom-meta><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the paper and its Supporting
+Information files.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the paper and its Supporting
+Information files.</p></notes></front><body><sec sec-type="intro" id="sec004"><title>Introduction</title><p><italic>Chikungunya virus</italic> (CHIKV) is an alphavirus whose recognized global
+distribution increasingly overlaps that of dengue and the distribution of their
+shared mosquito vectors, <italic>Aedes aegypti</italic> and <italic>Aedes
+albopictus</italic> [<xref rid="pntd.0005707.ref001" ref-type="bibr">1</xref>].
+Clinical reports suggest that CHIKV may have been broadly distributed by the 1800s,
+though its similar clinical presentation to <italic>Dengue virus</italic> (DENV)
+makes its historic epidemiology uncertain [<xref rid="pntd.0005707.ref002" ref-type="bibr">2</xref>]. Since the first isolation of CHIKV in
+Tanzania in 1952&#x02013;53 [<xref rid="pntd.0005707.ref003" ref-type="bibr">3</xref>],
+large urban outbreaks have been detected in the Indian Ocean region and Latin
+America, yielding millions of suspected infections and the novel discovery of
+autochthonous CHIKV transmission in Mediterranean Europe in 2007 [<xref rid="pntd.0005707.ref004" ref-type="bibr">4</xref>&#x02013;<xref rid="pntd.0005707.ref009" ref-type="bibr">9</xref>]. The past decade has witnessed novel reports
+of CHIKV outbreaks in the Middle East and North Africa (MENA) as well. However, the
+present and historic epidemiology of CHIKV in this region remains poorly
+characterized.</p><p>Over the years, limited surveillance and diagnostic capacity have likely hindered the
+recognition of CHIKV in the MENA region. Although the earliest possible clinical
+description of CHIKV infection known to exist was first recorded in Cairo, Egypt in
+1658 [<xref rid="pntd.0005707.ref002" ref-type="bibr">2</xref>], it was not until
+2011 that the presence of CHIKV was first confirmed (i.e. by viral culture or
+molecular detection) in the MENA during an outbreak in Yemen with over 15,000
+suspected cases [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>]. The
+CHIKV lineage responsible for this epidemic was related to the enzoonotic
+East-Central-South African (ECSA) Indian Ocean Lineage and was isolated from
+<italic>A</italic>. <italic>aegypti</italic>, a finding that suggested urban
+cycle transmission [<xref rid="pntd.0005707.ref011" ref-type="bibr">11</xref>, <xref rid="pntd.0005707.ref012" ref-type="bibr">12</xref>]. To date, the existence of
+a sylvatic transmission cycle has not been reported in the MENA region. Although
+debilitating and prolonged polyarthralgias can be a recognizable hallmark of CHIKV
+infection [<xref rid="pntd.0005707.ref001" ref-type="bibr">1</xref>], the clinical
+syndrome can be difficult to distinguish from other mosquito-transmitted febrile
+illnesses including dengue fever [<xref rid="pntd.0005707.ref002" ref-type="bibr">2</xref>, <xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>, <xref rid="pntd.0005707.ref013" ref-type="bibr">13</xref>], o&#x02019;nyong&#x02019;nyong fever [<xref rid="pntd.0005707.ref002" ref-type="bibr">2</xref>], yellow fever [<xref rid="pntd.0005707.ref014" ref-type="bibr">14</xref>], and malaria [<xref rid="pntd.0005707.ref014" ref-type="bibr">14</xref>]. Given the increasing
+global impact of <italic>Aedes</italic>-transmitted arboviruses and the limited
+knowledge of urban CHIKV in the MENA region, we performed a systematic review of the
+literature to describe the published evidence pertaining to the epidemiology of
+CHIKV in the MENA region.</p><sec id="sec005"><title>Objectives</title><p>The objective of this study was to characterize the epidemiology of urban CHIKV
+in the MENA region through a systematic review of published human prevalence and
+incidence studies, human outbreaks and reported cases, and studies reporting
+CHIKV detections and prevalence/infection rates in <italic>Aedes</italic>
+mosquitoes. The original literature search was conducted in December 2015 and
+updated in May 2017.</p></sec></sec><sec sec-type="materials|methods" id="sec006"><title>Materials and methods</title><p>The materials and methods used for this review are similar to those of a systematic
+review of DENV in the MENA region that we conducted in parallel to the current study
+[<xref rid="pntd.0005707.ref015" ref-type="bibr">15</xref>].</p><sec id="sec007"><title>Eligibility criteria</title><p>The eligibility criteria for this study follows similar criteria that was used
+for a review of DENV in the MENA region (<xref rid="pntd.0005707.t001" ref-type="table">Table 1</xref>) [<xref rid="pntd.0005707.ref015" ref-type="bibr">15</xref>]. In brief, reports containing primary
+human seroprevalence or incidence, outbreaks and reported cases, and CHIKV
+detections from <italic>Aedes</italic> mosquitoes in the MENA region published
+in any year were considered eligible for the systematic review. For incidence
+studies, those that reported the number of acute infections or seroconversions
+over any time interval, or overall attack rate if assessed during an outbreak,
+were eligible. Human CHIKV outbreaks, case series, and case reports in natives
+and returned travelers from the MENA region were also sought from the articles
+retrieved through the search databases using the original search criteria.
+Outbreak reports were included if at least some of the reported cases were
+laboratory-supported CHIKV infection; cases series and case reports were only
+included if they were laboratory-supported. We considered any report of CHIKV
+cases to constitute an outbreak if the author of the report qualified it as
+such. As with DENV, there is currently no consensus on how to define CHIKV
+outbreaks, so determining whether any number of cases represents a significant
+deviation from baseline transmission is often unclear [<xref rid="pntd.0005707.ref015" ref-type="bibr">15</xref>].</p><table-wrap id="pntd.0005707.t001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pntd.0005707.t001</object-id><label>Table 1</label><caption><title>Criteria for study inclusion or exclusion.</title></caption><alternatives><graphic id="pntd.0005707.t001g" xlink:href="pntd.0005707.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Study type</th><th align="left" rowspan="1" colspan="1">Inclusion Criteria</th><th align="left" rowspan="1" colspan="1">Exclusion Criteria</th></tr></thead><tbody><tr><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Human
+prevalence and incidence</td><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">publication characteristics</td><td align="left" rowspan="1" colspan="1">Full article or abstract published in any year,
+language, setting, or human population in the MENA region;
+any seroconversion interval for incidence studies or
+population-based attack rate</td><td align="left" rowspan="1" colspan="1">editorials, letters to editors, reviews,
+commentaries, qualitative studies, basic science research
+studies, studies conducted in countries outside the MENA
+region, studies conducted in animals</td></tr><tr><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">study
+design</td><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Any randomized
+or non-randomized design</td><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Non-empirical
+research/modelled data</td></tr><tr><td align="left" rowspan="1" colspan="1">outcomes</td><td align="left" rowspan="1" colspan="1">CHIKV seroprevalence or prevalence of
+laboratory-confirmed infection; CHIKV incidence (by any
+laboratory method)</td><td align="left" rowspan="1" colspan="1">No human prevalence or incidence measure
+reported</td></tr><tr><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Human
+outbreaks</td><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Any outbreak
+defined as such in the report; reports may include
+laboratory-confirmed and suspected cases</td><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">No
+laboratory-supported information that CHIKV was the
+pathogen</td></tr><tr><td align="left" rowspan="1" colspan="1">Human case reports and case series</td><td align="left" rowspan="1" colspan="1">Any cases reported in MENA natives or in
+returned travelers from a MENA country, confirmed by any
+laboratory method</td><td align="left" rowspan="1" colspan="1">No laboratory method reported</td></tr><tr><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Virus
+prevalence in vectors</td><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Reported CHIKV
+prevalence in <italic>Ae</italic>. <italic>aegypti</italic>
+or <italic>Ae</italic>. <italic>albopictus</italic> pools
+(i.e. absolute number of positive pools); estimated
+infection rates (minimum/maximum) by any laboratory
+method</td><td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Basic science
+research studies, virus prevalence or CHIKV detections in
+other mosquito species or in non-MENA country</td></tr><tr><td align="left" rowspan="1" colspan="1">Single virus isolations in vectors</td><td align="left" rowspan="1" colspan="1">Any reports of single CHIKV isolates or vRNA
+detections from <italic>Ae</italic>.
+<italic>aegypti</italic> or <italic>Ae</italic>.
+<italic>albopictus</italic> obtained by any laboratory
+method</td><td align="left" rowspan="1" colspan="1">Mosquito captured in non-MENA country</td></tr></tbody></table></alternatives></table-wrap><p>Finally, studies containing CHIKV prevalence in <italic>Aedes</italic> pools and
+single CHIKV isolates or vRNA detections from <italic>Aedes</italic> were
+included if they contained a measure of the estimated proportion of
+CHIKV-infected <italic>Ae</italic>. <italic>aegypti</italic> or
+<italic>Ae</italic>. <italic>albopictus</italic> at a given time and setting
+in the MENA region. Prevalence studies in animals were noted but excluded from
+the systematic review, as our study focused on urban cycle CHIKV mediated by
+human-mosquito transmission. Our review covered the 23 countries included in the
+MENA definitions of the WHO/EMRO, World Bank, and the Joint United Nations
+Programme on HIV/AIDS (UNAIDS) for consistency with our systematic review of
+DENV in the MENA region as well as our earlier regional analyses of various
+infectious diseases such as HIV and other sexually transmitted infections and
+<italic>Hepatitis C virus</italic> [<xref rid="pntd.0005707.ref016" ref-type="bibr">16</xref>&#x02013;<xref rid="pntd.0005707.ref019" ref-type="bibr">19</xref>].</p></sec><sec id="sec008"><title>Outcomes</title><p>For the systematic review, the primary outcomes were CHIKV human seroprevalence,
+human CHIKV incidence, human case reports/case series of CHIKV infection in MENA
+natives and returned travelers from the MENA region, CHIKV prevalence in
+<italic>Aedes</italic>, and single virus isolates of CHIKV in
+<italic>Aedes</italic> in the MENA region.</p></sec><sec id="sec009"><title>Data sources and search strategy</title><p>We conducted a systematic search for CHIKV in the MENA informed by the Cochrane
+Collaboration guidelines [<xref rid="pntd.0005707.ref020" ref-type="bibr">20</xref>] and reported our findings using the Preferred Reporting Items
+for Systematic Reviews and Meta-analyses (PRISMA) guidelines [<xref rid="pntd.0005707.ref021" ref-type="bibr">21</xref>]. The PRISMA checklist
+is found in <xref ref-type="supplementary-material" rid="pntd.0005707.s002">S1
+Table</xref> and our search criteria in <xref ref-type="supplementary-material" rid="pntd.0005707.s001">S1 Fig</xref>. We
+searched PubMed (indexed since 1966 and selectively since 1865) and Embase
+(indexed since 1988) using text and MeSH/Emtree terms exploded to include all
+subheadings, as well as the World Health Organization (WHO) Index Medicus for
+the Eastern Mediterranean Region, WHO African Index Medicus (both indexed since
+1984), and ProMED-MENA (indexed since 1994) using only the search term
+&#x0201c;chikungunya&#x0201d;.</p></sec><sec id="sec010"><title>Study selection</title><p>The methodology for this section also follows our previous review of DENV [<xref rid="pntd.0005707.ref015" ref-type="bibr">15</xref>]. Titles and abstracts
+were imported into Endnote (Thompson Reuters, Philadelphia, PA, USA) and were
+screened by one author (JH) with potential eligibility determined by consensus
+with a second author (NC) when eligibility was unclear. Full texts of
+potentially relevant records were retrieved and assessed for eligibility,
+contacting the author of the report as necessary. Reference lists of all
+potentially eligible articles and reviews were also searched. For this study,
+&#x02018;report&#x02019; refers to the document (paper, abstract, or public health record)
+containing an outcome measure of interest, while &#x02018;study&#x02019; refers to the outcome
+measure(s) within that report. Hence, reports could contribute more than one
+study, though multiple reports of the same study were counted only once.</p></sec><sec id="sec011"><title>Data extraction and synthesis</title><p>Data were extracted by one of the authors (JH). Data from reports in English were
+extracted from the full texts, while reports in French (n = 1) and German (n =
+1) were extracted from the English abstract and with the help of online language
+software and French and German language speakers [<xref rid="pntd.0005707.ref022" ref-type="bibr">22</xref>]. There were no records in other
+languages. Studies were compiled by country and organized by year. Prevalence
+studies were stratified as follows: 1) <italic>general prevalence
+studies</italic> assessing anti-CHIKV IgG prevalence (e.g. CHIKV exposure)
+among individuals not suspected to have acute CHIKV infection, including
+community members, blood donors, military, students, and hospitalized patients
+and outpatients receiving care for non-febrile illnesses, and 2) <italic>acute
+febrile illness studies</italic> assessing the prevalence of
+laboratory-supported CHIKV infection (i.e. any positive laboratory test
+suggesting CHIKV infection) in those with undifferentiated acute febrile illness
+(AFI) or suspected arbovirus infection (IgG prevalence measures obtained during
+the acute phase of illness in these studies are presumed to reflect an earlier
+infection). These stratifications were made because of the different study aims
+and pretest probabilities of having laboratory evidence of CHIKV infection in
+these populations. Reports were summarized by country and year, along with the
+sampling method, assay type/make, sample size, and any data pertaining to
+alphavirus cross-reactions that was available.</p><p>For CHIKV outbreaks, we recorded the year, location, suspected or confirmed
+vector, and number of cases as provided in each report. We recorded similar
+information for case reports/series and cases in returned travelelers as
+available. Finally, reports containing CHIKV prevalence, infection rates, and
+single virus isolations in <italic>Ae</italic>. <italic>aegypti</italic> and
+<italic>Ae</italic>. <italic>albopictus</italic>, both recognized urban
+cycle CHIKV vectors, were also sought using the original search criteria. We
+recorded the year, location, and methods of collection and laboratory methods,
+as well as additional bioecological aspects of the vectors as available. The
+geographic distribution of all included human prevalence studies, outbreak
+reports, and case reports/series were mapped according to the first-level
+administrative division (e.g. state, province) in which each event was recorded
+(Tableau Software, Seattle, WA, USA).</p></sec><sec id="sec012"><title>Risk of bias assessment</title><p>The risk of bias (ROB) was assessed for each seroprevalence study based on the
+Cochrane approach [<xref rid="pntd.0005707.ref020" ref-type="bibr">20</xref>]
+and by evaluating the precision of the reported measures according to previously
+developed methodology [<xref rid="pntd.0005707.ref023" ref-type="bibr">23</xref>, <xref rid="pntd.0005707.ref024" ref-type="bibr">24</xref>]. Each
+CHIKV seroprevalence measure was considered to have a low, high, or unclear ROB
+in two domains: sampling methodology and response rate. The latter was defined
+as the number of tested individuals divided by the number of persons invited to
+participate in the study [<xref rid="pntd.0005707.ref025" ref-type="bibr">25</xref>]. ROB was considered low if (1) sampling was probability-based
+(using some form of random selection), and (2) response rate was &#x02265;80%. Studies
+with missing information for either of the domains were classified as having
+unclear ROB for that specific domain. We did not assess the ROB for the sampling
+methodology of populations with acute febrile illness, as these are defined
+populations presenting to a health facility with acute infection and no
+population-based sampling is needed to capture these populations. We also did
+not include the laboratory assay characteristics in our risk of bias assessment
+given that the epidemiology of antigenically similar alphaviruses (e.g.
+<italic>O&#x02019;nyong-nyong virus</italic> [ONNV], <italic>Sindbis virus</italic>
+[SINV], and <italic>Semliki Forest virus</italic> [SFV]) in the MENA was also
+unclear, and nearly all identified studies utilized in-house assays. Studies
+were considered to have high precision if the number of individuals tested was &#x02265;
+100. We considered this to be a reasonably sensitive cutoff for precision given
+the heterogeneous epidemiology of CHIKV across the region (e.g. a prevalence of
+1% has a 95% CI of 0&#x02013;3%).</p></sec></sec><sec sec-type="results" id="sec013"><title>Results</title><sec id="sec014"><title>Search results</title><p>The selection process based on PRISMA guidelines is illustrated in <xref ref-type="fig" rid="pntd.0005707.g001">Fig 1</xref> [<xref rid="pntd.0005707.ref021" ref-type="bibr">21</xref>]. Briefly, the search yielded 262
+reports, 35 of which were eligible for inclusion in the study following
+screening process and after the addition of 8 reports identified from reference
+lists and reviews. One animal seroprevalence study was excluded, in which
+anti-CHIKV antibody prevalence of 2.5% was reported in a sample of 157 rodents
+captured in Pakistan. In this study, all antibodies were cross-reactive with
+SINV [<xref rid="pntd.0005707.ref026" ref-type="bibr">26</xref>].</p><fig id="pntd.0005707.g001" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pntd.0005707.g001</object-id><label>Fig 1</label><caption><title>PRISMA flow diagram of report selection in the systematic
+search.</title></caption><graphic xlink:href="pntd.0005707.g001"/></fig></sec><sec id="sec015"><title>Characteristics of included studies</title><p>A total of 29 human seroprevalence studies for CHIKV were identified from
+eligible reports, 62% of which were conducted prior to 1990 (<xref rid="pntd.0005707.t002" ref-type="table">Table 2</xref>). <xref ref-type="fig" rid="pntd.0005707.g002">Fig 2</xref> illustrates the
+geographic distribution of all published CHIKV prevalence studies, outbreaks,
+and reported cases in the MENA region. Overall, anti-CHIKV antibodies were
+reported from 10 of 23 countries in the MENA: Djibouti, Egypt, Iran, Iraq,
+Kuwait, Pakistan, Saudi Arabia, Somalia, Sudan, and Yemen. The median
+seroprevalence measures among general populations was 1.0% (range 0&#x02013;43%), and
+9.8% (range 0&#x02013;30%) among populations with acute febrile illness. Sudan reported
+both the highest number of studies (n = 11) and the highest seroprevalence
+measures overall (median 12.9%, range 0&#x02013;43%). Ninety-three percent of all
+studies utilized in-house assays; 82% of all studies that were conducted after
+1990 (n = 11) utilized ELISA and/or RT-PCR (or RT-qPCR); 56% (10/18) of studies
+prior to 1990 utilized hemagglutinin inhibition (HI) assays. Serologic
+cross-reactions with related alphaviruses (e.g. ONNV, SINV, and SFV) or
+travel-acquired infections were observed or could not be excluded in some
+studies from Djibouti [<xref rid="pntd.0005707.ref027" ref-type="bibr">27</xref>], Iran [<xref rid="pntd.0005707.ref028" ref-type="bibr">28</xref>],
+Kuwait [<xref rid="pntd.0005707.ref029" ref-type="bibr">29</xref>, <xref rid="pntd.0005707.ref030" ref-type="bibr">30</xref>], and Pakistan [<xref rid="pntd.0005707.ref026" ref-type="bibr">26</xref>]. Viral neutralization
+testing was performed in a total of five studies from Djibouti [<xref rid="pntd.0005707.ref031" ref-type="bibr">31</xref>], Iraq [<xref rid="pntd.0005707.ref032" ref-type="bibr">32</xref>, <xref rid="pntd.0005707.ref033" ref-type="bibr">33</xref>], and Sudan [<xref rid="pntd.0005707.ref032" ref-type="bibr">32</xref>&#x02013;<xref rid="pntd.0005707.ref034" ref-type="bibr">34</xref>]. Among acute febrile illness studies,
+the prevalence of laboratory-supported CHIKV infection was also highest in
+Sudan, with anti-CHIKV antibody prevalence by HI or ELISA ranging from 1.8% to
+30%. In Yemen, 0% of 222 cases of undifferentiated AFI were positive for CHIKV
+in the eastern coastal city of Al-Mukalla in June 2010 [<xref rid="pntd.0005707.ref035" ref-type="bibr">35</xref>]. Four months later, however, an
+outbreak of CHIKV was detected in the western coastal governorate of
+Al-Hudaydah, Yemen, and two studies demonstrated 9.8% and 28% ELISA IgM
+seroprevalence among subjects with undifferentiated AFI [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>, <xref rid="pntd.0005707.ref036" ref-type="bibr">36</xref>].</p><fig id="pntd.0005707.g002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pntd.0005707.g002</object-id><label>Fig 2</label><caption><title>Geographic distribution of human prevalence studies and reported
+outbreaks and cases for <italic>Chikungunya virus</italic> in the Middle
+East and North Africa.</title></caption><graphic xlink:href="pntd.0005707.g002"/></fig><table-wrap id="pntd.0005707.t002" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pntd.0005707.t002</object-id><label>Table 2</label><caption><title>Human prevalence studies for <italic>Chikungunya virus</italic> in
+the Middle East and North Africa (n = 29).</title></caption><alternatives><graphic id="pntd.0005707.t002g" xlink:href="pntd.0005707.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">Country, Ref.</th><th align="center" rowspan="1" colspan="1">Year(s)<break/>of study<xref ref-type="table-fn" rid="t002fn001">*</xref></th><th align="center" rowspan="1" colspan="1">City or Governorate</th><th align="center" rowspan="1" colspan="1">Setting; population (age range, years)</th><th align="center" rowspan="1" colspan="1">Sampling</th><th align="center" rowspan="1" colspan="1">Assay type<xref ref-type="table-fn" rid="t002fn002"><sup>&#x02020;</sup></xref></th><th align="center" rowspan="1" colspan="1">Assay make</th><th align="center" rowspan="1" colspan="1">Sample size</th><th align="center" rowspan="1" colspan="1">Prevalence</th><th align="center" colspan="2" rowspan="1">Additional testing &#x00026;
+Comments</th></tr></thead><tbody><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Djibouti</bold> (n = 4)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Salah [<xref rid="pntd.0005707.ref027" ref-type="bibr">27</xref>]</td><td align="center" rowspan="1" colspan="1">1987</td><td align="center" rowspan="1" colspan="1">Djibouti City</td><td align="center" rowspan="1" colspan="1">Military; healthy soldiers</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">IIFT</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">50</td><td align="center" rowspan="1" colspan="1"><bold>0%</bold></td><td align="center" colspan="2" rowspan="1">no additional testing
+performed</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Randa</td><td align="center" rowspan="1" colspan="1">Rural community; general pop.</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">IIFT</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">69</td><td align="center" rowspan="1" colspan="1"><bold>0%</bold></td><td align="center" colspan="2" rowspan="1">no additional testing
+performed</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Djibouti City</td><td align="center" rowspan="1" colspan="1">Hospital; AFI patients</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">IIFT</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">41</td><td align="center" rowspan="1" colspan="1"><bold>2.4%</bold></td><td align="center" colspan="2" rowspan="1">The single IIFT+ subject was a
+native of Ethiopia and was cross-reactive with SINV</td></tr><tr><td align="left" rowspan="1" colspan="1">Andayi [<xref rid="pntd.0005707.ref031" ref-type="bibr">31</xref>]</td><td align="center" rowspan="1" colspan="1">2010&#x02013;11</td><td align="center" rowspan="1" colspan="1">Djibouti City</td><td align="center" rowspan="1" colspan="1">Household survey; general
+pop.(&#x0003c;1&#x02013;100)</td><td align="center" rowspan="1" colspan="1">SRS</td><td align="center" rowspan="1" colspan="1">ELISA</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">914</td><td align="center" rowspan="1" colspan="1"><bold>2.6%</bold></td><td align="center" colspan="2" rowspan="1">95.9% (23/24) ELISA+ were
+VNT+</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Egypt</bold> (n = 2)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Darwish [<xref rid="pntd.0005707.ref041" ref-type="bibr">41</xref>]</td><td align="center" rowspan="1" colspan="1">1974<xref ref-type="table-fn" rid="t002fn001">*</xref></td><td align="center" rowspan="1" colspan="1">Multiple</td><td align="center" rowspan="1" colspan="1">n/s; general pop. (&#x0003c;1&#x02013;70)</td><td align="center" rowspan="1" colspan="1">n/s</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">231</td><td align="center" rowspan="1" colspan="1"><bold>0%</bold></td><td align="center" colspan="2" rowspan="1">0% were SFV+; 16.8% were
+SINV+</td></tr><tr><td align="left" rowspan="1" colspan="1">Darwish [<xref rid="pntd.0005707.ref037" ref-type="bibr">37</xref>]</td><td align="center" rowspan="1" colspan="1">1985</td><td align="center" rowspan="1" colspan="1">Cairo</td><td align="center" rowspan="1" colspan="1">Hospital; AFI patients (&#x0003e;10)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">55</td><td align="center" rowspan="1" colspan="1"><bold>5.5%</bold></td><td align="center" colspan="2" rowspan="1">0% (0/55) were convalescent +; 0%
+were SINV+</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Iran</bold> (n = 2)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Saidi [<xref rid="pntd.0005707.ref028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">1970</td><td align="center" rowspan="1" colspan="1">Multiple</td><td align="center" rowspan="1" colspan="1">n/s</td><td align="center" rowspan="1" colspan="1">n/s</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">394</td><td align="center" rowspan="1" colspan="1"><bold>22.1%</bold></td><td align="center" colspan="2" rowspan="1">no additional testing
+performed</td></tr><tr><td align="left" rowspan="1" colspan="1">Saidi [<xref rid="pntd.0005707.ref042" ref-type="bibr">42</xref>]</td><td align="center" rowspan="1" colspan="1">1970&#x02013;71</td><td align="center" rowspan="1" colspan="1">Caspian region</td><td align="center" rowspan="1" colspan="1">Community; children (1&#x02013;6)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1"><bold>0%</bold></td><td align="center" colspan="2" rowspan="1">0% were SINV+</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Iraq</bold> (n = 1)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Barakat [<xref rid="pntd.0005707.ref043" ref-type="bibr">43</xref>]</td><td align="center" rowspan="1" colspan="1">2012&#x02013;13</td><td align="center" rowspan="1" colspan="1">Nasiriyah</td><td align="center" rowspan="1" colspan="1">Community; healthy medical staff, blood
+donors, students, non-AFI patients (10&#x02013;82)</td><td align="center" rowspan="1" colspan="1">n/s</td><td align="center" rowspan="1" colspan="1">IIFT</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">399</td><td align="center" rowspan="1" colspan="1"><bold>0.5%</bold></td><td align="center" rowspan="1" colspan="1">2 of 4 ambiguous CHIKV+ samples were VNT+; 2%
+(8/399) of CHIKV+ were SINV+; 6/8 SINV+ were VNT+; all SINV+
+and CHIKV+ samples were negative for SFV by VNT</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Kuwait</bold> (n = 2)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Ibrahim [<xref rid="pntd.0005707.ref029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">1966&#x02013;68</td><td align="center" rowspan="1" colspan="1">Multiple</td><td align="center" rowspan="1" colspan="1">Multiple; blood donors,<break/>non-AFI
+patients, children (1&#x02013;60)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">627</td><td align="center" rowspan="1" colspan="1"><bold>1.4%</bold></td><td align="center" colspan="2" rowspan="1">78% (7/9) CHIKV+ samples were
+cross-reactive to SINV and SFV; 4.5% (28/627) were SINV+;
+2.6% (16/627) were SFV+</td></tr><tr><td align="left" rowspan="1" colspan="1">Al-Nakib [<xref rid="pntd.0005707.ref030" ref-type="bibr">30</xref>]</td><td align="center" rowspan="1" colspan="1">1979&#x02013;82</td><td align="center" rowspan="1" colspan="1">Jabriya</td><td align="center" rowspan="1" colspan="1">Hospital; non-AFI patients (0&#x02013;60+)</td><td align="center" rowspan="1" colspan="1">SRS</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">502</td><td align="center" rowspan="1" colspan="1"><bold>0.4%</bold></td><td align="center" colspan="2" rowspan="1">100% (2/2) CHIKV+ samples were
+cross-reactive with SINV</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Pakistan</bold> (n = 2)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Darwish [<xref rid="pntd.0005707.ref026" ref-type="bibr">26</xref>]</td><td align="center" rowspan="1" colspan="1">1983<xref ref-type="table-fn" rid="t002fn001">*</xref></td><td align="center" rowspan="1" colspan="1">Karachi</td><td align="center" rowspan="1" colspan="1">Hospital; patients</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">CF</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">43</td><td align="center" rowspan="1" colspan="1"><bold>2.3%</bold></td><td align="center" colspan="2" rowspan="1">2.3% were SINV+; possible CHIKV
+cross-reaction with SINV</td></tr><tr><td align="left" rowspan="1" colspan="1">Afzal [<xref rid="pntd.0005707.ref044" ref-type="bibr">44</xref>]</td><td align="center" rowspan="1" colspan="1">2011</td><td align="center" rowspan="1" colspan="1">Lahore</td><td align="center" rowspan="1" colspan="1">Hospital; AFI patients (&#x0003c;12)</td><td align="center" rowspan="1" colspan="1">Conv</td><td align="center" rowspan="1" colspan="1">ELISA</td><td align="center" rowspan="1" colspan="1">n/s</td><td align="center" rowspan="1" colspan="1">75</td><td align="center" rowspan="1" colspan="1"><bold>4%</bold></td><td align="center" rowspan="1" colspan="1">no additional testing performed</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Somalia</bold> (n = 1)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" style="background-color:#FFFFFF" rowspan="1" colspan="1">Botros [<xref rid="pntd.0005707.ref038" ref-type="bibr">38</xref>]</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1">1987</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1">Hargeysa</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1">Refugee
+camp; AFI patients</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1">Conv.</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1">HI</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1">In-house</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1">28</td><td align="center" style="background-color:#FFFFFF" rowspan="1" colspan="1"><bold>0.0%</bold></td><td align="center" colspan="2" style="background-color:#FFFFFF" rowspan="1">0% (0/10) convalescent samples tested were HI+; 0% (0/28)
+were HI+ for SINV</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Sudan</bold> (n = 11)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Salim [<xref rid="pntd.0005707.ref032" ref-type="bibr">32</xref>]<break/></td><td align="center" rowspan="1" colspan="1">1973<xref ref-type="table-fn" rid="t002fn001">*</xref></td><td align="center" rowspan="1" colspan="1">Sennar</td><td align="center" rowspan="1" colspan="1">Community and clinical setting; general pop.
+and non-AFI patients (&#x0003c;1&#x02013;40+)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">VNT</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">62</td><td align="center" rowspan="1" colspan="1"><bold>12.9%</bold></td><td align="center" colspan="2" rowspan="1">23% (11/48) were also VNT+ for
+ONNV</td></tr><tr><td align="left" rowspan="1" colspan="1">Omer [<xref rid="pntd.0005707.ref033" ref-type="bibr">33</xref>]</td><td align="center" rowspan="1" colspan="1">1976</td><td align="center" rowspan="1" colspan="1">Gezira State</td><td align="center" rowspan="1" colspan="1">Rural community; general pop. (5&#x02013;40+)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">109</td><td align="center" rowspan="1" colspan="1"><bold>24.8%</bold></td><td align="center" colspan="2" rowspan="1">0.9% (1/109) were also HI+ to
+SINV; 8.2% (9/109) were VNT+ for CHIKV</td></tr><tr><td align="left" rowspan="1" colspan="1">Woodruff [<xref rid="pntd.0005707.ref045" ref-type="bibr">45</xref>]</td><td align="center" rowspan="1" colspan="1">1986</td><td align="center" rowspan="1" colspan="1">Juba</td><td align="center" rowspan="1" colspan="1">Hospital; patients with history of fever
+within past 6 months and AFI patients (1&#x02013;85)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">130</td><td align="center" rowspan="1" colspan="1"><bold>23.1%</bold></td><td align="center" colspan="2" rowspan="1">3.1% (4/130) were HI+ for SINV;
+2.3% (3/130) were HI+ for SFV; no observed cross-reaction
+between CHIKV and SINV or SFV; 1 observed cross-reaction
+between SINV and SFV</td></tr><tr><td align="left" rowspan="1" colspan="1">McCarthy [<xref rid="pntd.0005707.ref046" ref-type="bibr">46</xref>]</td><td align="center" rowspan="1" colspan="1">1988</td><td align="center" rowspan="1" colspan="1">Khartoum</td><td align="center" rowspan="1" colspan="1">Clinical setting; non-AFI patients</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">ELISA</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1"><bold>11%</bold></td><td align="center" colspan="2" rowspan="1">1/100 (1%) were IgM+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Khartoum</td><td align="center" rowspan="1" colspan="1">Clinical setting; AFI patients (1&#x02013;89)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">ELISA</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">196</td><td align="center" rowspan="1" colspan="1"><bold>10%</bold></td><td align="center" colspan="2" rowspan="1">1/200 (0.5%) were IgM+</td></tr><tr><td align="left" rowspan="1" colspan="1">Watts [<xref rid="pntd.0005707.ref047" ref-type="bibr">47</xref>]</td><td align="center" rowspan="1" colspan="1">1989</td><td align="center" rowspan="1" colspan="1">Northern state</td><td align="center" rowspan="1" colspan="1">Clinical setting; AFI patients (11&#x02013;70)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">ELISA</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">185</td><td align="center" rowspan="1" colspan="1"><bold>12.0%</bold></td><td align="center" colspan="2" rowspan="1">no additional testing
+performed</td></tr><tr><td align="left" rowspan="1" colspan="1">Farnon [<xref rid="pntd.0005707.ref014" ref-type="bibr">14</xref>]</td><td align="center" rowspan="1" colspan="1">2005</td><td align="center" rowspan="1" colspan="1">Kortalla</td><td align="center" rowspan="1" colspan="1">Community; general pop. (0&#x02013;44+)</td><td align="center" rowspan="1" colspan="1">SSCS</td><td align="center" rowspan="1" colspan="1">ELISA</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">87</td><td align="center" rowspan="1" colspan="1"><bold>43%</bold></td><td align="center" colspan="2" rowspan="1">1% (1/87) was CHIKV IgM+; 7.9%
+(3/38) CHIKV+ samples were SINV+</td></tr><tr><td align="left" rowspan="1" colspan="1">Gould [<xref rid="pntd.0005707.ref048" ref-type="bibr">48</xref>]</td><td align="center" rowspan="1" colspan="1">2005</td><td align="center" rowspan="1" colspan="1">South Kordofan</td><td align="center" rowspan="1" colspan="1">Clinical setting; suspected YF patients (n =
+3), severe illness (n = 8), AFI patients (n = 7), healthy (n
+= 16)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">ELISA IgM</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1"><bold>23.5%</bold></td><td align="center" colspan="2" rowspan="1">no additional testing
+performed</td></tr><tr><td align="left" rowspan="1" colspan="1">Adam [<xref rid="pntd.0005707.ref034" ref-type="bibr">34</xref>]</td><td align="center" rowspan="1" colspan="1">2012&#x02013;13</td><td align="center" rowspan="1" colspan="1">Eastern and Central Sudan</td><td align="center" rowspan="1" colspan="1">Clinical setting; AFI patients
+(&#x0003c;15&#x02013;45+))</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">ELISA</td><td align="center" rowspan="1" colspan="1">Euroimmun</td><td align="center" rowspan="1" colspan="1">379</td><td align="center" rowspan="1" colspan="1"><bold>1.8%</bold></td><td align="center" rowspan="1" colspan="1">All ELISA+ were also IFA+ and VNT+</td></tr><tr><td align="left" rowspan="1" colspan="1">Baudin [<xref rid="pntd.0005707.ref049" ref-type="bibr">49</xref>]</td><td align="center" rowspan="1" colspan="1">2011&#x02013;12</td><td align="center" rowspan="1" colspan="1">Port Sudan</td><td align="center" rowspan="1" colspan="1">Hospital; pregnant women with fever</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">qRT-PCR</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">130</td><td align="center" rowspan="1" colspan="1"><bold>30%</bold></td><td align="center" rowspan="1" colspan="1">8 of 39 CHIKV+ patients were also positive
+for <italic>Rfit Valley Fever virus</italic> by PCR or IgM
+ELISA</td></tr><tr><td align="left" rowspan="1" colspan="1">Enkhtsetseg [<xref rid="pntd.0005707.ref050" ref-type="bibr">50</xref>]</td><td align="center" rowspan="1" colspan="1">2012&#x02013;13</td><td align="center" rowspan="1" colspan="1">South Sudan</td><td align="center" rowspan="1" colspan="1">Military; military seroconversion study over
+~6 month period</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">632</td><td align="center" rowspan="1" colspan="1"><bold>0%</bold></td><td align="center" rowspan="1" colspan="1">no additional testing was performed</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Tunisia</bold> (n = 1)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Nabli [<xref rid="pntd.0005707.ref051" ref-type="bibr">51</xref>]</td><td align="center" rowspan="1" colspan="1">1970<xref ref-type="table-fn" rid="t002fn001">*</xref></td><td align="center" rowspan="1" colspan="1">Multiple</td><td align="center" rowspan="1" colspan="1">n/s; children</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">HI</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1"><bold>0%</bold></td><td align="center" colspan="2" rowspan="1">0.2% (3/1406) were HI+ for
+SINV</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Yemen</bold> (n = 3)</td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" colspan="2" style="background-color:#D9D9D9" rowspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Madani [<xref rid="pntd.0005707.ref035" ref-type="bibr">35</xref>]</td><td align="center" rowspan="1" colspan="1">2010</td><td align="center" rowspan="1" colspan="1">Hadramout</td><td align="center" rowspan="1" colspan="1">Clinical settings; suspected viral
+hemorrhagic fever (3&#x02013;75)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">RT-PCR</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">222</td><td align="center" rowspan="1" colspan="1"><bold>0%</bold></td><td align="center" colspan="2" rowspan="1">no additional testing
+performed</td></tr><tr><td align="left" rowspan="1" colspan="1">Malik [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>]</td><td align="center" rowspan="1" colspan="1">2010&#x02013;11</td><td align="center" rowspan="1" colspan="1">Al-Hudaydah</td><td align="center" rowspan="1" colspan="1">Clinical setting; AFI patients (0&#x02013;45+)</td><td align="center" rowspan="1" colspan="1">Conv.</td><td align="center" rowspan="1" colspan="1">ELISA IgM</td><td align="center" rowspan="1" colspan="1">In-house</td><td align="center" rowspan="1" colspan="1">136</td><td align="center" rowspan="1" colspan="1"><bold>28%</bold></td><td align="center" colspan="2" rowspan="1">40% (54/136) were RT-qPCR+; 22%
+(30/136) were cell culture +</td></tr><tr><td align="left" rowspan="1" colspan="1">Rezza [<xref rid="pntd.0005707.ref036" ref-type="bibr">36</xref>]</td><td align="center" rowspan="1" colspan="1">2012</td><td align="center" rowspan="1" colspan="1">Al Hudaydah</td><td align="center" rowspan="1" colspan="1">Hospitals; AFI patients with &#x02018;dengue-like&#x02019;
+illness (1&#x02013;60)</td><td align="center" rowspan="1" colspan="1">Conv</td><td align="center" rowspan="1" colspan="1">ELISA IgM</td><td align="center" rowspan="1" colspan="1">NovaLisa</td><td align="center" rowspan="1" colspan="1">400</td><td align="center" rowspan="1" colspan="1"><bold>9.8%</bold></td><td align="center" colspan="2" rowspan="1">2.8% (11/400) were RT-qPCR+; 9.4%
+(33/351 negative IgM/PCR) were IgG+</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="t002fn001"><p>* Indicates year of publication when year(s) of data collection not
+available in report.</p></fn><fn id="t002fn002"><p><sup><bold>&#x02020;</bold></sup> All serologic assays were IgG unless
+otherwise stated.</p></fn><fn id="t002fn003"><p>Abbreviations: AFI, acute febrile illness patients; CF, complement
+fixation; Conv, convenience; ELISA, enzyme-linked immunosorbent
+assay; HI, hemagglutinin inhibition; IFA, indirect fluorescent
+antibody, IIFT, indirect immunofluorescence test; n/s, not
+specified; ONNV, <italic>O&#x02019;nyong-nyong virus</italic>; pop.,
+population; PCR, polymerase chain reaction; RT-qPCR, quantitative
+reverse transcription PCR; SFV, <italic>Semliki Forest
+virus</italic>; SINV, <italic>Sindbis virus</italic>; SRS,
+simple random sampling; SSCS, single stage cluster sampling; VNT,
+viral neutralization test</p></fn><fn id="t002fn004"><p>Assay Abbreviation: <italic>NovaLisa</italic> (Dietzenbach,
+Germany)</p></fn></table-wrap-foot></table-wrap><p>Convalescent sera results were reported in two AFI studies, neither of which was
+positive as indicated by a four-fold rise in antibody titers [<xref rid="pntd.0005707.ref037" ref-type="bibr">37</xref>, <xref rid="pntd.0005707.ref038" ref-type="bibr">38</xref>]. One study reporting detection of CHIKV
+in mosquito pools was identified in our search, in which CHIKV was detected by
+RT-qPCR in 26.6% of 11 pools of 30 <italic>Ae</italic>. <italic>aegypti</italic>
+mosquitoes that were collected at an Eritrean refugee camp in Al Hudaydah, Yemen
+during the aforementioned CHIKV outbreak [<xref rid="pntd.0005707.ref039" ref-type="bibr">39</xref>]. In this study, mosquitoes were
+collected by BG-sentinel<sup>TM</sup> traps, Knock-down pyrethroid spray, and
+indoor aspirations from houses of recently reported cases, and larvae were
+inspected in all possible containers per house or inhabited premises. The total
+container index of the sampled sites was 53.8, Breteau index was 100, and house
+index was 57. <italic>Ae</italic>. <italic>aegypti</italic> adult female minimum
+and maximum infection rates were 20% and 72%, respectively. There were no
+published reports of single CHIKV isolations from mosquitoes or population-based
+human incidence identified in our search. However, during the 2012 CHIKV
+outbreak in southern Yemen, one study reported an overall CHIKV attack rate of
+7.5 per 1,000 people, ranging from 5.3 among children 0&#x02013;4 years of age to 12.2
+among adults &#x02265; 45 years [<xref rid="pntd.0005707.ref040" ref-type="bibr">40</xref>].</p></sec><sec id="sec016"><title>Precision and risk of bias assessment results</title><p>The quality assessment for each prevalence study is found in <xref rid="pntd.0005707.t003" ref-type="table">Table 3</xref>. Overall, 66%
+(19/29) of studies contained high precision as defined by a sample size of &#x02265;100
+subjects. For the risk of bias assessment, response rates were &#x02265;80% in 14%
+(4/29) of studies, &#x0003c;80% in 3% (1/29) of studies, and not reported in 83%
+(24/29) of studies. Among general seroprevalence studies, some form of
+probability sampling (i.e. low ROB) was reported in 31% (5/16) of studies,
+non-probability sampling (e.g. high ROB) in 31% (5/16) of studies, and unclear
+sampling methods in 38% (6/16) of studies.</p><table-wrap id="pntd.0005707.t003" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pntd.0005707.t003</object-id><label>Table 3</label><caption><title>Precision and risk of bias assessment for <italic>Chikungunya
+virus</italic> prevalence measures in the Middle East and North
+Africa.</title></caption><alternatives><graphic id="pntd.0005707.t003g" xlink:href="pntd.0005707.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Country, Ref.</th><th align="center" rowspan="1" colspan="1">Year(s) of study</th><th align="center" rowspan="1" colspan="1">Population</th><th align="center" colspan="2" rowspan="1">Risk of Bias Assessment</th><th align="center" rowspan="1" colspan="1">Precision</th></tr><tr><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Sampling<xref ref-type="table-fn" rid="t003fn001">*</xref></th><th align="center" rowspan="1" colspan="1">Response rate</th><th align="center" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Djibouti</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Salah [<xref rid="pntd.0005707.ref027" ref-type="bibr">27</xref>]</td><td align="center" rowspan="1" colspan="1">1987</td><td align="center" rowspan="1" colspan="1">Healthy soldiers</td><td align="center" rowspan="1" colspan="1">High ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">General population</td><td align="center" rowspan="1" colspan="1">High ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1987</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" rowspan="1" colspan="1">Andayi [<xref rid="pntd.0005707.ref031" ref-type="bibr">31</xref>]</td><td align="center" rowspan="1" colspan="1">2010&#x02013;11</td><td align="center" rowspan="1" colspan="1">General population</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">High ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Egypt</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Darwish [<xref rid="pntd.0005707.ref041" ref-type="bibr">41</xref>]</td><td align="center" rowspan="1" colspan="1">1974</td><td align="center" rowspan="1" colspan="1">General population</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Darwish [<xref rid="pntd.0005707.ref037" ref-type="bibr">37</xref>]</td><td align="center" rowspan="1" colspan="1">1985</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Iran</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Saidi [<xref rid="pntd.0005707.ref028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">1970</td><td align="center" rowspan="1" colspan="1">n/s</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Saidi [<xref rid="pntd.0005707.ref042" ref-type="bibr">42</xref>]</td><td align="center" rowspan="1" colspan="1">1970&#x02013;71</td><td align="center" rowspan="1" colspan="1">Children</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Iraq</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Barakat [<xref rid="pntd.0005707.ref043" ref-type="bibr">43</xref>]</td><td align="center" rowspan="1" colspan="1">2012&#x02013;13</td><td align="center" rowspan="1" colspan="1">General population, blood donors, non-AFI
+patients</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Kuwait</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Ibrahim [<xref rid="pntd.0005707.ref029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">1966&#x02013;68</td><td align="center" rowspan="1" colspan="1">Blood donors, non-AFI patients, children</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Al-Nakib [<xref rid="pntd.0005707.ref030" ref-type="bibr">30</xref>]</td><td align="center" rowspan="1" colspan="1">1979&#x02013;82</td><td align="center" rowspan="1" colspan="1">non-AFI patients</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Pakistan</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Darwish [<xref rid="pntd.0005707.ref026" ref-type="bibr">26</xref>]</td><td align="center" rowspan="1" colspan="1">1983</td><td align="center" rowspan="1" colspan="1">Hospital patients</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" rowspan="1" colspan="1">Afzal [<xref rid="pntd.0005707.ref044" ref-type="bibr">44</xref>]</td><td align="center" rowspan="1" colspan="1">2011</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Somalia</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Botros [<xref rid="pntd.0005707.ref038" ref-type="bibr">38</xref>]</td><td align="center" rowspan="1" colspan="1">1987</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Sudan</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Salim [<xref rid="pntd.0005707.ref032" ref-type="bibr">32</xref>]</td><td align="center" rowspan="1" colspan="1">1973<xref ref-type="table-fn" rid="t003fn001">*</xref></td><td align="center" rowspan="1" colspan="1">General population and non-AFI patients</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" rowspan="1" colspan="1">Omer [<xref rid="pntd.0005707.ref033" ref-type="bibr">33</xref>]</td><td align="center" rowspan="1" colspan="1">1976</td><td align="center" rowspan="1" colspan="1">General population</td><td align="center" rowspan="1" colspan="1">High ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Woodruff [<xref rid="pntd.0005707.ref045" ref-type="bibr">45</xref>]</td><td align="center" rowspan="1" colspan="1">1986</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">McCarthy [<xref rid="pntd.0005707.ref046" ref-type="bibr">46</xref>]</td><td align="center" rowspan="1" colspan="1">1988</td><td align="center" rowspan="1" colspan="1">Non-AFI patients</td><td align="center" rowspan="1" colspan="1">High ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Watts [<xref rid="pntd.0005707.ref047" ref-type="bibr">47</xref>]</td><td align="center" rowspan="1" colspan="1">1989</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Farnon [<xref rid="pntd.0005707.ref014" ref-type="bibr">14</xref>]</td><td align="center" rowspan="1" colspan="1">2005</td><td align="center" rowspan="1" colspan="1">General population</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" rowspan="1" colspan="1">Gould [<xref rid="pntd.0005707.ref048" ref-type="bibr">48</xref>]</td><td align="center" rowspan="1" colspan="1">2005</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" rowspan="1" colspan="1">Adam [<xref rid="pntd.0005707.ref034" ref-type="bibr">34</xref>]</td><td align="center" rowspan="1" colspan="1">2013&#x02013;13</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Baudin [<xref rid="pntd.0005707.ref049" ref-type="bibr">49</xref>]</td><td align="center" rowspan="1" colspan="1">2011&#x02013;12</td><td align="center" rowspan="1" colspan="1">Pregnant women with AFI</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Enkhtsetseg [<xref rid="pntd.0005707.ref050" ref-type="bibr">50</xref>]</td><td align="center" rowspan="1" colspan="1">2012&#x02013;13</td><td align="center" rowspan="1" colspan="1">Military</td><td align="center" rowspan="1" colspan="1">High ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Tunisia</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Nabil [<xref rid="pntd.0005707.ref051" ref-type="bibr">51</xref>]</td><td align="center" rowspan="1" colspan="1">1970</td><td align="center" rowspan="1" colspan="1">Children</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Yemen</bold></td><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="center" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Madani [<xref rid="pntd.0005707.ref035" ref-type="bibr">35</xref>]</td><td align="center" rowspan="1" colspan="1">2010</td><td align="center" rowspan="1" colspan="1">Suspected viral hemorrhagic fever</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Malik [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>]</td><td align="center" rowspan="1" colspan="1">2010&#x02013;11</td><td align="center" rowspan="1" colspan="1">AFI patients</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Low ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr><tr><td align="left" rowspan="1" colspan="1">Rezza [<xref rid="pntd.0005707.ref036" ref-type="bibr">36</xref>]</td><td align="center" rowspan="1" colspan="1">2012</td><td align="center" rowspan="1" colspan="1">Patients with dengue-like illness</td><td align="center" rowspan="1" colspan="1">n/a</td><td align="center" rowspan="1" colspan="1">Unclear ROB</td><td align="center" rowspan="1" colspan="1">High</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="t003fn001"><p>* Since the populations of acute febrile illness or suspected
+arbovirus infection are defined as populations presenting to a
+health facility with acute infection, no population-based sampling
+is needed to capture these populations and they are denoted &#x02018;n/a&#x02019; in
+the sampling column.</p></fn><fn id="t003fn002"><p>Abbreviation: AFI, acute febrile illness</p></fn></table-wrap-foot></table-wrap><p>A total of four CHIKV outbreaks, three case reports/series, and one report of
+CHIKV in returned travelers, were identified through the search databases (<xref rid="pntd.0005707.t004" ref-type="table">Table 4</xref>) and were mapped
+along with the geographic distribution of prevalence studies (<xref ref-type="fig" rid="pntd.0005707.g002">Fig 2</xref>). Outbreaks were
+reported from Djibouti, Sudan, Pakistan, and Yemen. In most cases, the vector
+was suspected to be <italic>Ae</italic>. <italic>aegypti</italic> given its
+known occurrence in the affected countries, but was only confirmed as such in
+the 2011&#x02013;2012 outbreak in Yemen [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>].</p><table-wrap id="pntd.0005707.t004" orientation="portrait" position="float"><object-id pub-id-type="doi">10.1371/journal.pntd.0005707.t004</object-id><label>Table 4</label><caption><title>Summary of reported outbreaks, case series, case reports, and cases
+in travelers for <italic>Chikungunya virus</italic> in the Middle East
+and North Africa.</title></caption><alternatives><graphic id="pntd.0005707.t004g" xlink:href="pntd.0005707.t004"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/><col align="left" valign="middle" span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">Country, Year</th><th align="center" rowspan="1" colspan="1">City or Governorate</th><th align="center" rowspan="1" colspan="1">Description</th><th align="center" rowspan="1" colspan="1">Ref.</th></tr></thead><tbody><tr><td align="left" colspan="4" style="background-color:#D9D9D9" rowspan="1"><bold>Djibouti</bold></td></tr><tr><td align="left" rowspan="1" colspan="1">2011</td><td align="left" rowspan="1" colspan="1">Djibouti City</td><td align="left" rowspan="1" colspan="1">Chikungunya outbreak reported was concurrent
+with 2011 outbreak in Yemen; <italic>Aedes aegypti</italic>
+was the suspected vector.</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref031" ref-type="bibr">31</xref>]</td></tr><tr><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"><bold>Pakistan</bold></td><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"/><td align="left" style="background-color:#D9D9D9" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">2016&#x02013;17</td><td align="left" rowspan="1" colspan="1">Karachi</td><td align="left" rowspan="1" colspan="1">A total of 2,267 reported cases during an
+outbreak from December 2016 to May 2017. <italic>Aedes
+aegypti</italic> was the suspected vector.</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref052" ref-type="bibr">52</xref>]</td></tr><tr><td align="left" colspan="4" style="background-color:#D9D9D9" rowspan="1"><bold>Saudi Arabia</bold></td></tr><tr><td align="left" rowspan="1" colspan="1">2011</td><td align="left" rowspan="1" colspan="1">Jeddah</td><td align="left" rowspan="1" colspan="1">First autochthonous case of chikungunya
+detected by qRT-PCR in Saudi Arabia; unconfirmed
+vector.</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref053" ref-type="bibr">53</xref>]</td></tr><tr><td align="left" colspan="4" style="background-color:#D9D9D9" rowspan="1"><bold>Somalia</bold></td></tr><tr><td align="left" rowspan="1" colspan="1">2016</td><td align="left" rowspan="1" colspan="1">Mogadishu</td><td align="left" rowspan="1" colspan="1">Two travelers returning to Italy from
+Mogadishu, Somalia. For both patients, testing was positive
+by CHIKV IFA IgG and IgM (Euroimmun), Anti-CHIKV IgM ELISA
+(Euroimmun), and PRNT.</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref054" ref-type="bibr">54</xref>]</td></tr><tr><td align="left" rowspan="1" colspan="1">2016</td><td align="left" rowspan="1" colspan="1">Mogadishu</td><td align="left" rowspan="1" colspan="1">11 cases were confirmed by RT-PCR, representing
+the first reports of human CHIKV infection by Somalia;
+unconfirmed vector.</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref055" ref-type="bibr">55</xref>]</td></tr><tr><td align="left" colspan="4" style="background-color:#D9D9D9" rowspan="1"><bold>Sudan</bold></td></tr><tr><td align="left" rowspan="1" colspan="1">2005</td><td align="left" rowspan="1" colspan="1">South Kordofan</td><td align="left" rowspan="1" colspan="1">Concurrent chikungunya transmission detected
+during yellow fever outbreak; <italic>Aedes aegypti</italic>
+was the suspected vector.</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref048" ref-type="bibr">48</xref>]</td></tr><tr><td align="left" rowspan="1" colspan="1">2014</td><td align="left" rowspan="1" colspan="1">Not specified</td><td align="left" rowspan="1" colspan="1">16 cases were reportd from Sudan in 2014;
+unconfirmed vector</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref055" ref-type="bibr">55</xref>]</td></tr><tr><td align="left" rowspan="1" colspan="1">2015</td><td align="left" rowspan="1" colspan="1">Darfur</td><td align="left" rowspan="1" colspan="1">4 laboratory-confirmed cases were reported from
+Sudan in 2015; unconfirmed vector</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref056" ref-type="bibr">56</xref>]</td></tr><tr><td align="left" colspan="4" style="background-color:#D9D9D9" rowspan="1"><bold>Yemen</bold></td></tr><tr><td align="left" rowspan="1" colspan="1">2011&#x02013;12</td><td align="left" rowspan="1" colspan="1">Al Hudaydah, Lahj</td><td align="left" rowspan="1" colspan="1">Over 15,000 suspected cases during an outbreak;
+<italic>Aedes aegypti</italic> was the proven
+vector.</td><td align="left" rowspan="1" colspan="1">[<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>]</td></tr></tbody></table></alternatives></table-wrap></sec></sec><sec sec-type="conclusions" id="sec017"><title>Discussion</title><p>Our review examines the epidemiology of urban CHIKV in the MENA region by summarizing
+published human prevalence and incidence studies, outbreaks, reported cases, and
+reports of CHIKV detected in <italic>Aedes</italic> mosquitoes. Serologic and
+outbreak evidence of CHIKV transmission has been identified in the countries
+surrounding the Red Sea (Djibouti, Egypt, Saudi Arabia, Somalia, Sudan, and Yemen)
+and Pakistan. This distribution overlaps the known distribution of DENV in the MENA
+region [<xref rid="pntd.0005707.ref015" ref-type="bibr">15</xref>]. No outbreaks,
+cases of autochthonous transmission, or human seroprevalence studies were reported
+from 13 of 23 countries in the MENA region, while a single seroprevalence studies in
+Tunisia [<xref rid="pntd.0005707.ref051" ref-type="bibr">51</xref>] did not identify
+anti-CHIKV antibodies in the populations tested. Given increasing reports of
+<italic>Ae</italic>. <italic>aegypti</italic> and <italic>Ae</italic>.
+<italic>albopictus</italic> occurrence and DENV transmission in the MENA over
+recent years, the possibility of unrecognized CHIKV transmission or cross-border
+spread of CHIKV to these countries merits consideration.</p><p>As the bulk of epidemiologic evidence for CHIKV is serologic, the genetic diversity
+of CHIKV circulating in the MENA is largely unknown. To date, the only published
+CHIKV strain from the MENA comes from the 2011 Yemen outbreak [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>]. This virus was found to be similar to the
+East-Central-South African (ECSA) Indian Ocean Lineage that was responsible for the
+2004&#x02013;2006 Indian Ocean epidemic [<xref rid="pntd.0005707.ref011" ref-type="bibr">11</xref>, <xref rid="pntd.0005707.ref012" ref-type="bibr">12</xref>] and
+subsequent urban outbreaks in Southeast Asia, Italy, and France [<xref rid="pntd.0005707.ref057" ref-type="bibr">57</xref>]. Still, CHIKV lineages may
+be diverse within North Africa and distinct from other regions in Africa. Distinct
+enzootic / epidemic ECSA lineages may be circulating in Sudan, for example, given
+the repeated detection of anti-CHIKV antibodies in Sudanese populations since the
+1970s [<xref rid="pntd.0005707.ref032" ref-type="bibr">32</xref>, <xref rid="pntd.0005707.ref033" ref-type="bibr">33</xref>], Sudan&#x02019;s proximity to East
+Africa (where CHIKV has long been endemic), and the sylvatic habitats in Sudan&#x02019;s
+Nuba Mountain region where several yellow fever outbreaks may have emerged from in
+the past [<xref rid="pntd.0005707.ref014" ref-type="bibr">14</xref>, <xref rid="pntd.0005707.ref032" ref-type="bibr">32</xref>, <xref rid="pntd.0005707.ref058" ref-type="bibr">58</xref>&#x02013;<xref rid="pntd.0005707.ref060" ref-type="bibr">60</xref>]. Contiguous spread of CHIKV from India to
+Pakistan is similarly plausible, as is import-related outbreaks from more remote
+regions, such as from South Asia to the Arabian Peninsula or from Mediterranean
+Europe to North Africa.</p><p>A variety of ecologic and social risk factors may be driving the spread of
+<italic>Aedes</italic> in the MENA, which we describe in detail in our recent
+publication on DENV in the MENA [<xref rid="pntd.0005707.ref015" ref-type="bibr">15</xref>]. These factors include increasing urbanization [<xref rid="pntd.0005707.ref061" ref-type="bibr">61</xref>], use of open water storage
+that encourages <italic>Ae</italic>. <italic>aegypti</italic> breeding [<xref rid="pntd.0005707.ref039" ref-type="bibr">39</xref>, <xref rid="pntd.0005707.ref062" ref-type="bibr">62</xref>], armed conflict and poverty [<xref rid="pntd.0005707.ref063" ref-type="bibr">63</xref>, <xref rid="pntd.0005707.ref064" ref-type="bibr">64</xref>], and extensive inter- and intra-regional
+trade and migration [<xref rid="pntd.0005707.ref012" ref-type="bibr">12</xref>,
+<xref rid="pntd.0005707.ref065" ref-type="bibr">65</xref>]. The 2011 CHIKV
+outbreak in Yemen illustrates several vulnerabilities to
+<italic>Aedes</italic>-borne arboviruses potentially faced by the MENA [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>]. Heavy travel and commerce
+through the port city of Al Hudaydah was thought to have led to CHIKV introduction,
+possibly from North African port cities along the Red Sea coast. A CHIKV outbreak
+was reported in Djibouti City [<xref rid="pntd.0005707.ref031" ref-type="bibr">31</xref>] the same year of the Yemen outbreak, and the following year,
+autochthonous transmission of CHIKV was noted in Saudi Arabia [<xref rid="pntd.0005707.ref053" ref-type="bibr">53</xref>]. Similar transmission patterns have been
+cited as risk for DENV infection spread in the Red Sea sub-region [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>, <xref rid="pntd.0005707.ref012" ref-type="bibr">12</xref>, <xref rid="pntd.0005707.ref027" ref-type="bibr">27</xref>, <xref rid="pntd.0005707.ref066" ref-type="bibr">66</xref>, <xref rid="pntd.0005707.ref067" ref-type="bibr">67</xref>]. High rainfall in Al Hudaydah months prior
+to the outbreak may have also amplified the <italic>Aedes</italic> population to a
+level capable of sustaining an outbreak. The outbreak was not detected until nearly
+16 weeks after its suspected onset, in part attributable to a lack of surveillance
+and case detection, and initial misrecognition of the disease as DENV in a known
+dengue-endemic area [<xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>].
+Prompter initiation of vector control measures may have forestalled the
+amplification of the outbreak over the following months.</p><p>Serologic cross-reactions for alphaviruses like CHIKV are well documented and
+represent an important limitation of epidemiologic studies which rely on serology in
+the absence of confirmatory neutralization tests. Serologic evidence of CHIKV in the
+absence of neutralization tests must be interpreted with caution, as such results
+may represent cross-reactions between CHIKV and another alphavirus (e.g. SINV, ONNV,
+or SFV), co-cicrulation of both viruses, cross neutralization between both viriuses,
+or the presence of another antigenically-related virus that induces
+cross-neutralizing antibodies to both alphaviruses [<xref rid="pntd.0005707.ref068" ref-type="bibr">68</xref>]. These alphaviruses may have similar
+clinical presentations and geographic distributions in the MENA region, while the
+increase in international travel, intensification of trade, and the spread of
+potential vectors as a result of climate change may further drive overlapping
+endemicity [<xref rid="pntd.0005707.ref069" ref-type="bibr">69</xref>]. In our
+review, serologic cross-reactions were reported in 9 of 14 seroprevalence studies,
+most commonly due to SINV, another Old World alphavirus identified in the MENA whose
+epidemiologic impact is also poorly understood [<xref rid="pntd.0005707.ref070" ref-type="bibr">70</xref>]. Like <italic>West Nile Virus</italic>,
+SINV may be broadly distributed in the MENA given its enzoonotic transmission cycle
+involving migratory avian hosts and ubiquitous <italic>Culex</italic> mosquitoes
+[<xref rid="pntd.0005707.ref071" ref-type="bibr">71</xref>&#x02013;<xref rid="pntd.0005707.ref073" ref-type="bibr">73</xref>]. In a study by Ibrahim et al. in Kuwait,
+78% (7/9) CHIKV positive samples were cross-reactive to SINV and SFV by HI testing,
+while cross-reactivity between SINV and SFV occurred in an additional 9 of 21
+SINV-reactive sera [<xref rid="pntd.0005707.ref039" ref-type="bibr">39</xref>]. In a
+second study from Kuwait, all CHIKV positive samples were cross-reactive to SINV
+[<xref rid="pntd.0005707.ref030" ref-type="bibr">30</xref>]. This evidence does
+not confirm CHIKV circulation in Kuwait. Antibodies against ONNV, another Old World
+alphavirus whose distribution is likely underreported, were only sought (and
+confirmed by VNT) in one study from Sudan conducted in 1973 [<xref rid="pntd.0005707.ref032" ref-type="bibr">32</xref>]. Yet although the distribution of ONNV in
+the MENA region requires further research, it is unlikely that the serologic studies
+reporting CHIKV are primarily detecting ONNV. A one-way antigenic cross-reactivity
+has been described between CHIKV and ONNV, in which antibodies against CHIKV
+neutralize ONNV but anti-ONNV antibodies do not recognize CHIKV [<xref rid="pntd.0005707.ref074" ref-type="bibr">74</xref>, <xref rid="pntd.0005707.ref075" ref-type="bibr">75</xref>]. Further assurance of the detection of
+CHIKV antibodies is found in the study by Andayi et al. in Djibouti, in which a
+non-inactivated viral antigen was utilized for ELISA testing (allowing for selection
+of more specific anti-CHIKV antibodies) and results were confirmed by
+seroneutralization [<xref rid="pntd.0005707.ref031" ref-type="bibr">31</xref>].</p><p>CHIKV may continue to spread in the MENA region as it has in other regions.
+Surveillance programs and clinicians should maintain alertness for CHIKV,
+particularly in dengue-endemic areas, given the overlapping clinical presentation
+and geographic distribution of both pathogens. Addressing this challenge will
+require multiplexed serologic and molecular diagnostics able to simultaneously
+detect and discriminate between CHIKV and other pathogens with overlapping clinical
+manifestations, such as DENV, malaria, ONNV, <italic>Yellow fever virus</italic>,
+and <italic>Zika virus</italic> [<xref rid="pntd.0005707.ref002" ref-type="bibr">2</xref>, <xref rid="pntd.0005707.ref010" ref-type="bibr">10</xref>, <xref rid="pntd.0005707.ref013" ref-type="bibr">13</xref>, <xref rid="pntd.0005707.ref014" ref-type="bibr">14</xref>, <xref rid="pntd.0005707.ref048" ref-type="bibr">48</xref>, <xref rid="pntd.0005707.ref076" ref-type="bibr">76</xref>&#x02013;<xref rid="pntd.0005707.ref080" ref-type="bibr">80</xref>]. Such diagnostics could also circumvent the
+issue of cross-reactivity and the frequent unavailability of convalescent serology.
+However, molecular diagnostics are limited by the presence of viral RNA or antigen
+for a limited duration during acute infection. Studies to understand the
+distribution of <italic>Aedes</italic> and infection rates in <italic>Aedes</italic>
+in the MENA are also important, as they can inform our understanding of transmission
+dynamics which is useful for vector control strategies and predicting future
+transmission risk [<xref rid="pntd.0005707.ref071" ref-type="bibr">71</xref>&#x02013;<xref rid="pntd.0005707.ref073" ref-type="bibr">73</xref>]. Our review identified only
+one published study of CHIKV isolated from <italic>Aedes</italic> in the region
+[<xref rid="pntd.0005707.ref039" ref-type="bibr">39</xref>], depite the
+published occurrence of <italic>Ae</italic>. <italic>aegypti</italic> and
+<italic>Ae</italic>. <italic>albopictus</italic> in 11 and 7 MENA countries,
+respectively [<xref rid="pntd.0005707.ref015" ref-type="bibr">15</xref>].</p><p>Our study was limited by its use of select databases of peer-reviewed literature with
+the possible exclusion of some grey literature which may have provided additional
+data (the African Index Medicus and Index Medicus for the Eastern Mediterranean
+Region databases do index grey literature). Reports from public health laboratories
+in each country may also have provided additional data, though we chose to focus our
+review on published literature that would be available to the broader academic
+community in the region. In addition, although we did not impose any publication
+year restrictions in our search, Embase and the regional databases began indexing
+articles after 1980, so earlier publications may have been overlooked during our
+search. PubMed began indexing articles prior to the discovery of CHIKV in 1952&#x02013;53,
+however. The urban cycle focus of CHIKV epidemiology must also be underscored in our
+manuscript, as we did not include seroprevalence studies in animals (i.e. sylvatic
+cycle) in our review criteria. Still, only one seroprevalence study in animals was
+identified in our search. It is likely that our study generally reflects the
+available seroprevalence literature concerning CHIKV in the MENA, as we identified
+no mention of sylvatic cycle CHIKV in the MENA over the course of our review. CHIKV
+may primarily exist in a human-peridomestic mosquito cycle in the MENA, as it
+existis in Asia [<xref rid="pntd.0005707.ref006" ref-type="bibr">6</xref>], though
+sylvatic cycle CHIKV is known to exist elsewhere in Africa [<xref rid="pntd.0005707.ref081" ref-type="bibr">81</xref>]. Non-publication of studies with small or
+zero effect size may also have biased the distribution of studies identified in our
+review. The absence of confirmatory neutralization tests in many studies is an
+additional limitation, along with the lack of convalescent serum tests to
+demonstrate antibody titer kinetics in acute infections, both of which would reduce
+the likelihood of cross-reaction. Indeed, serologic cross-reactions may have
+overestimated CHIKV seroprevalence in multiple studies. Finally, given the small
+number of studies and sparse distribution and content of available studies, we did
+not perform a meta-analysis or explore bias in overall outcome measures through a
+funnel plot or Egger test nor did we exclude studies based on the risk of bias
+assessment. This resulted in the inclusion of studies of varying methodological
+rigor and scientific quality.</p><sec id="sec018"><title>Conclusions</title><p>In the MENA region, published reports suggest endemic circulation of CHIKV in the
+Red Sea Region and Pakistan, similar to the known geographic distribution of
+DENV. Published epidemiologic studies are lacking in many sub-regions, including
+some <italic>Aedes</italic> and DENV endemic areas, further suggesting
+underrecognition of CHIKV in the MENA. These findings articulate the need for
+further research to understand the epidemiology of CHIKV in the MENA.</p></sec></sec><sec sec-type="supplementary-material" id="sec019"><title>Supporting information</title><supplementary-material content-type="local-data" id="pntd.0005707.s001"><label>S1 Fig</label><caption><title>Data sources and search criteria used for the systematic review of
+<italic>Chikungunya virus</italic> in the Middle East and North
+Africa.</title><p>(PDF)</p></caption><media xlink:href="pntd.0005707.s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pntd.0005707.s002"><label>S1 Table</label><caption><title>Preferred Reporting Items for systematic reviews and meta-analyses
+(PRISMA) checklist.</title><p>(PDF)</p></caption><media xlink:href="pntd.0005707.s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We would like to thank Mary Charlson and Carol Mancuso (Weill Cornell Graduate School
+of Medical Sciences, New York, USA) for their contributions to the study planning
+and organization, and Ghina Mumtaz, Karima Chaabna, and Sarwat Mahmud (Weill Cornell
+Medical College in Qatar) for their assistance with the study methodology.</p></ack><ref-list><title>References</title><ref id="pntd.0005707.ref001"><label>1</label><mixed-citation publication-type="journal"><name><surname>Weaver</surname><given-names>SC</given-names></name>, <name><surname>Lecuit</surname><given-names>M</given-names></name>. <article-title>Chikungunya virus and the global spread of a
+mosquito-borne disease</article-title>. <source>N Engl J Med</source>.
+<year>2015</year>;<volume>372</volume>(<issue>13</issue>):<fpage>1231</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMra1406035</pub-id>
+.<?supplied-pmid 25806915?><pub-id pub-id-type="pmid">25806915</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref002"><label>2</label><mixed-citation publication-type="journal"><name><surname>Kuno</surname><given-names>G</given-names></name>. <article-title>A Re-Examination of the History of Etiologic Confusion
+between Dengue and Chikungunya</article-title>. <source>PLoS Negl Trop
+Dis</source>.
+<year>2015</year>;<volume>9</volume>(<issue>11</issue>):<fpage>e0004101</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0004101</pub-id>
+.<?supplied-pmid 26562299?><pub-id pub-id-type="pmid">26562299</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref003"><label>3</label><mixed-citation publication-type="journal"><name><surname>Robinson</surname><given-names>MC</given-names></name>. <article-title>An epidemic of virus disease in Southern Province,
+Tanganyika Territory, in 1952&#x02013;53. I. Clinical features</article-title>.
+<source>Trans R Soc Trop Med Hyg</source>.
+<year>1955</year>;<volume>49</volume>(<issue>1</issue>):<fpage>28</fpage>&#x02013;<lpage>32</lpage>.
+.<?supplied-pmid 14373834?><pub-id pub-id-type="pmid">14373834</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref004"><label>4</label><mixed-citation publication-type="other">World Health
+Organization. Chikungunya Fact Sheet. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.who.int/mediacentre/factsheets/fs327/en/">http://www.who.int/mediacentre/factsheets/fs327/en/</ext-link>. Accessed 29
+Jan 2016.</mixed-citation></ref><ref id="pntd.0005707.ref005"><label>5</label><mixed-citation publication-type="journal"><name><surname>Powers</surname><given-names>AM</given-names></name>, <name><surname>Brault</surname><given-names>AC</given-names></name>, <name><surname>Tesh</surname><given-names>RB</given-names></name>, <name><surname>Weaver</surname><given-names>SC</given-names></name>. <article-title>Re-emergence of Chikungunya and O'nyong-nyong viruses:
+evidence for distinct geographical lineages and distant evolutionary
+relationships</article-title>. <source>J Gen Virol</source>.
+<year>2000</year>;<volume>81</volume>(<issue>Pt
+2</issue>):<fpage>471</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1099/0022-1317-81-2-471</pub-id>
+.<?supplied-pmid 10644846?><pub-id pub-id-type="pmid">10644846</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref006"><label>6</label><mixed-citation publication-type="journal"><name><surname>Weaver</surname><given-names>SC</given-names></name>, <name><surname>Reisen</surname><given-names>WK</given-names></name>. <article-title>Present and future arboviral threats</article-title>.
+<source>Antiviral Res</source>.
+<year>2010</year>;<volume>85</volume>(<issue>2</issue>):<fpage>328</fpage>&#x02013;<lpage>45</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.antiviral.2009.10.008</pub-id>
+.<?supplied-pmid 19857523?><pub-id pub-id-type="pmid">19857523</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref007"><label>7</label><mixed-citation publication-type="journal"><name><surname>Simmons</surname><given-names>CP</given-names></name>, <name><surname>Farrar</surname><given-names>JJ</given-names></name>, <name><surname>Nguyen</surname><given-names>v V</given-names></name>, <name><surname>Wills</surname><given-names>B</given-names></name>. <article-title>Dengue</article-title>. <source>N Engl J Med</source>.
+<year>2012</year>;<volume>366</volume>(<issue>15</issue>):<fpage>1423</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMra1110265</pub-id>
+.<?supplied-pmid 22494122?><pub-id pub-id-type="pmid">22494122</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref008"><label>8</label><mixed-citation publication-type="journal"><name><surname>Lambrechts</surname><given-names>L</given-names></name>, <name><surname>Scott</surname><given-names>TW</given-names></name>, <name><surname>Gubler</surname><given-names>DJ</given-names></name>. <article-title>Consequences of the expanding global distribution of
+Aedes albopictus for dengue virus transmission</article-title>. <source>PLoS
+Negl Trop Dis</source>.
+<year>2010</year>;<volume>4</volume>(<issue>5</issue>):<fpage>e646</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0000646</pub-id>
+.<?supplied-pmid 20520794?><pub-id pub-id-type="pmid">20520794</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref009"><label>9</label><mixed-citation publication-type="journal"><name><surname>Staples</surname><given-names>JE</given-names></name>, <name><surname>Breiman</surname><given-names>RF</given-names></name>, <name><surname>Powers</surname><given-names>AM</given-names></name>. <article-title>Chikungunya fever: an epidemiological review of a
+re-emerging infectious disease</article-title>. <source>Clin Infect
+Dis</source>.
+<year>2009</year>;<volume>49</volume>(<issue>6</issue>):<fpage>942</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1086/605496</pub-id>
+.<?supplied-pmid 19663604?><pub-id pub-id-type="pmid">19663604</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref010"><label>10</label><mixed-citation publication-type="journal"><name><surname>Malik</surname><given-names>MR</given-names></name>, <name><surname>Mnzava</surname><given-names>A</given-names></name>, <name><surname>Mohareb</surname><given-names>E</given-names></name>, <name><surname>Zayed</surname><given-names>A</given-names></name>, <name><surname>Al Kohlani</surname><given-names>A</given-names></name>, <name><surname>Thabet</surname><given-names>AA</given-names></name>, <etal>et al</etal>
+<article-title>Chikungunya outbreak in Al-Hudaydah,
+Yemen, 2011: epidemiological characterization and key lessons learned for
+early detection and control</article-title>. <source>J Epidemiol Glob
+Health</source>.
+<year>2014</year>;<volume>4</volume>(<issue>3</issue>):<fpage>203</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jegh.2014.01.004</pub-id>
+.<?supplied-pmid 25107656?><pub-id pub-id-type="pmid">25107656</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref011"><label>11</label><mixed-citation publication-type="journal"><name><surname>Fahmy</surname><given-names>NT</given-names></name>, <name><surname>Klena</surname><given-names>JD</given-names></name>, <name><surname>Mohamed</surname><given-names>AS</given-names></name>, <name><surname>Zayed</surname><given-names>A</given-names></name>, <name><surname>Villinski</surname><given-names>JT</given-names></name>. <article-title>Complete Genome Sequence of Chikungunya Virus Isolated
+from an Aedes aegypti Mosquito during an Outbreak in Yemen,
+2011</article-title>. <source>Genome announcements</source>.
+<year>2015</year>;<volume>3</volume>(<issue>4</issue>). <pub-id pub-id-type="doi">10.1128/genomeA.00789-15</pub-id>
+.<?supplied-pmid 26184944?><pub-id pub-id-type="pmid">26184944</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref012"><label>12</label><mixed-citation publication-type="journal"><name><surname>Ciccozzi</surname><given-names>M</given-names></name>, <name><surname>Lo Presti</surname><given-names>A</given-names></name>, <name><surname>Cella</surname><given-names>E</given-names></name>, <name><surname>Giovanetti</surname><given-names>M</given-names></name>, <name><surname>Lai</surname><given-names>A</given-names></name>, <name><surname>El-Sawaf</surname><given-names>G</given-names></name>, <etal>et al</etal>
+<article-title>Phylogeny of Dengue and Chikungunya
+viruses in Al Hudayda governorate, Yemen</article-title>. <source>Infect
+Genet Evol</source>.
+<year>2014</year>;<volume>27C</volume>:<fpage>395</fpage>&#x02013;<lpage>401</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.meegid.2014.08.010</pub-id>
+.<?supplied-pmid 25183027?><pub-id pub-id-type="pmid">25183027</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref013"><label>13</label><mixed-citation publication-type="journal"><name><surname>Burt</surname><given-names>FJ</given-names></name>, <name><surname>Rolph</surname><given-names>MS</given-names></name>, <name><surname>Rulli</surname><given-names>NE</given-names></name>, <name><surname>Mahalingam</surname><given-names>S</given-names></name>, <name><surname>Heise</surname><given-names>MT</given-names></name>. <article-title>Chikungunya: a re-emerging virus</article-title>.
+<source>Lancet</source>.
+<year>2012</year>;<volume>379</volume>(<issue>9816</issue>):<fpage>662</fpage>&#x02013;<lpage>71</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(11)60281-X</pub-id>
+.<?supplied-pmid 22100854?><pub-id pub-id-type="pmid">22100854</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref014"><label>14</label><mixed-citation publication-type="journal"><name><surname>Farnon</surname><given-names>EC</given-names></name>, <name><surname>Gould</surname><given-names>LH</given-names></name>, <name><surname>Griffith</surname><given-names>KS</given-names></name>, <name><surname>Osman</surname><given-names>MS</given-names></name>, <name><surname>El Kholy</surname><given-names>A</given-names></name>, <name><surname>Brair</surname><given-names>ME</given-names></name>, <etal>et al</etal>
+<article-title>Household-Based Sero-Epidemiologic
+Survey after a Yellow Fever Epidemic, Sudan, 2005</article-title>.
+<source>American Journal of Tropical Medicine and Hygiene</source>.
+<year>2010</year>;<volume>82</volume>(<issue>6</issue>):<fpage>1146</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.4269/ajtmh.2010.09-0105</pub-id>
+.<?supplied-pmid 20519615?><pub-id pub-id-type="pmid">20519615</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref015"><label>15</label><mixed-citation publication-type="journal"><name><surname>Humphrey</surname><given-names>JM</given-names></name>, <name><surname>Cleton</surname><given-names>NB</given-names></name>, <name><surname>Reusken</surname><given-names>CB</given-names></name>, <name><surname>Glesby</surname><given-names>MJ</given-names></name>, <name><surname>Koopmans</surname><given-names>MP</given-names></name>, <name><surname>Abu-Raddad</surname><given-names>LJ</given-names></name>. <article-title>Dengue in the Middle East and North Africa: A Systematic
+Review</article-title>. <source>PLoS Negl Trop Dis</source>.
+<year>2016</year>;<volume>10</volume>(<issue>12</issue>):<fpage>e0005194</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0005194</pub-id>
+.<?supplied-pmid 27926925?><pub-id pub-id-type="pmid">27926925</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref016"><label>16</label><mixed-citation publication-type="journal"><name><surname>Abu-Raddad</surname><given-names>LJ</given-names></name>, <name><surname>Hilmi</surname><given-names>N</given-names></name>, <name><surname>Mumtaz</surname><given-names>G</given-names></name>, <name><surname>Benkirane</surname><given-names>M</given-names></name>, <name><surname>Akala</surname><given-names>FA</given-names></name>, <name><surname>Riedner</surname><given-names>G</given-names></name>, <etal>et al</etal>
+<article-title>Epidemiology of HIV infection in the
+Middle East and North Africa</article-title>. <source>AIDS</source>.
+<year>2010</year>;<volume>24</volume>
+<issue>Suppl 2</issue>:<fpage>S5</fpage>&#x02013;<lpage>23</lpage>. Epub 2010/07/17.
+<pub-id pub-id-type="doi">10.1097/01.aids.0000386729.56683.33</pub-id>
+.<?supplied-pmid 20610949?><pub-id pub-id-type="pmid">20610949</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref017"><label>17</label><mixed-citation publication-type="book"><name><surname>Abu-Raddad</surname><given-names>LJ</given-names></name>, <name><surname>Akala</surname><given-names>FA</given-names></name>, <name><surname>Semini</surname><given-names>I</given-names></name>, <name><surname>Riedner</surname><given-names>G</given-names></name>, <name><surname>Wilson</surname><given-names>D</given-names></name>, <name><surname>Tawil</surname><given-names>O</given-names></name>. <source>Characterizing the HIV/AIDS epidemic in the Middle East and
+North Africa: Time for Strategic Action. Middle East and North Africa
+HIV/AIDS Epidemiology Synthesis Project. World Bank/UNAIDS/WHO
+Publication</source>. <publisher-loc>Washington DC</publisher-loc>:
+<publisher-name>The World Bank Press</publisher-name>; <year>2010</year>
+Available from: <ext-link ext-link-type="uri" xlink:href="https://openknowledge.worldbank.org/bitstream/handle/10986/2457/548890PUB0EPI11C10Dislosed061312010.pdf?sequence=1&#x00026;isAllowed=y">https://openknowledge.worldbank.org/bitstream/handle/10986/2457/548890PUB0EPI11C10Dislosed061312010.pdf?sequence=1&#x00026;isAllowed=y</ext-link>.
+Accessed 9 Dec 2016.</mixed-citation></ref><ref id="pntd.0005707.ref018"><label>18</label><mixed-citation publication-type="journal"><name><surname>Mumtaz</surname><given-names>GR</given-names></name>, <name><surname>Weiss</surname><given-names>HA</given-names></name>, <name><surname>Thomas</surname><given-names>SL</given-names></name>, <name><surname>Riome</surname><given-names>S</given-names></name>, <name><surname>Setayesh</surname><given-names>H</given-names></name>, <name><surname>Riedner</surname><given-names>G</given-names></name>, <etal>et al</etal>
+<article-title>HIV among people who inject drugs in
+the Middle East and North Africa: Systematic review and data
+synthesis</article-title>. <source>PLoS medicine</source>.
+<year>2014</year>;<volume>11</volume>(<issue>6</issue>):<fpage>e1001663</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pmed.1001663</pub-id>
+.<?supplied-pmid 24937136?><pub-id pub-id-type="pmid">24937136</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref019"><label>19</label><mixed-citation publication-type="journal"><name><surname>Mumtaz</surname><given-names>G</given-names></name>, <name><surname>Hilmi</surname><given-names>N</given-names></name>, <name><surname>McFarland</surname><given-names>W</given-names></name>, <name><surname>Kaplan</surname><given-names>RL</given-names></name>, <name><surname>Akala</surname><given-names>FA</given-names></name>, <name><surname>Semini</surname><given-names>I</given-names></name>, <etal>et al</etal>
+<article-title>Are HIV epidemics among men who have
+sex with men emerging in the Middle East and North Africa?: a systematic
+review and data synthesis</article-title>. <source>PLoS medicine</source>.
+<year>2011</year>;<volume>8</volume>(<issue>8</issue>):<fpage>e1000444</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pmed.1000444</pub-id>
+.<?supplied-pmid 21829329?><pub-id pub-id-type="pmid">21829329</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref020"><label>20</label><mixed-citation publication-type="book"><name><surname>Higgins</surname><given-names>JP</given-names></name>, <name><surname>Green</surname><given-names>S</given-names></name>. <source>Cochrane handbook for systematic reviews of
+interventions</source>: <publisher-name>Wiley Online
+Library</publisher-name>; <year>2008</year>.</mixed-citation></ref><ref id="pntd.0005707.ref021"><label>21</label><mixed-citation publication-type="journal"><name><surname>Moher</surname><given-names>D</given-names></name>, <name><surname>Liberati</surname><given-names>A</given-names></name>, <name><surname>Tetzlaff</surname><given-names>J</given-names></name>, <name><surname>Altman</surname><given-names>DG</given-names></name>, <name><surname>Group</surname><given-names>P</given-names></name>. <article-title>Preferred reporting items for systematic reviews and
+meta-analyses: the PRISMA statement</article-title>. <source>PLoS
+medicine</source>.
+<year>2009</year>;<volume>6</volume>(<issue>7</issue>):<fpage>e1000097</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pmed.1000097</pub-id>
+.<?supplied-pmid 19621072?><pub-id pub-id-type="pmid">19621072</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref022"><label>22</label><mixed-citation publication-type="other">Google Translate
+Mountain View, California, USA. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.translate.google.com/">http://www.translate.google.com/</ext-link>. Accessed 30 Sept
+2015.</mixed-citation></ref><ref id="pntd.0005707.ref023"><label>23</label><mixed-citation publication-type="journal"><name><surname>Chemaitelly</surname><given-names>H</given-names></name>, <name><surname>Chaabna</surname><given-names>K</given-names></name>, <name><surname>Abu-Raddad</surname><given-names>LJ</given-names></name>. <article-title>The Epidemiology of Hepatitis C Virus in the Fertile
+Crescent: Systematic Review and Meta-Analysis</article-title>. <source>PloS
+one</source>.
+<year>2015</year>;<volume>10</volume>(<issue>8</issue>):<fpage>e0135281</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0135281</pub-id>
+.<?supplied-pmid 26296200?><pub-id pub-id-type="pmid">26296200</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref024"><label>24</label><mixed-citation publication-type="journal"><name><surname>Chaabna</surname><given-names>K</given-names></name>, <name><surname>Mohamoud</surname><given-names>YA</given-names></name>, <name><surname>Chemaitelly</surname><given-names>H</given-names></name>, <name><surname>Mumtaz</surname><given-names>GR</given-names></name>, <name><surname>Abu-Raddad</surname><given-names>LJ</given-names></name>. <article-title>Protocol for a systematic review and meta-analysis of
+hepatitis C virus (HCV) prevalence and incidence in the Horn of Africa
+sub-region of the Middle East and North Africa</article-title>. <source>Syst
+Rev</source>. <year>2014</year>;<volume>3</volume>:<fpage>146</fpage>
+<pub-id pub-id-type="doi">10.1186/2046-4053-3-146</pub-id>
+.<?supplied-pmid 25516265?><pub-id pub-id-type="pmid">25516265</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref025"><label>25</label><mixed-citation publication-type="journal"><name><surname>Galea</surname><given-names>S</given-names></name>, <name><surname>Tracy</surname><given-names>M</given-names></name>. <article-title>Participation rates in epidemiologic
+studies</article-title>. <source>Ann Epidemiol</source>.
+<year>2007</year>;<volume>17</volume>(<issue>9</issue>):<fpage>643</fpage>&#x02013;<lpage>53</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.annepidem.2007.03.013</pub-id>
+.<?supplied-pmid 17553702?><pub-id pub-id-type="pmid">17553702</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref026"><label>26</label><mixed-citation publication-type="journal"><name><surname>Darwish</surname><given-names>MA</given-names></name>, <name><surname>Hoogstraal</surname><given-names>H</given-names></name>, <name><surname>Roberts</surname><given-names>TJ</given-names></name>, <name><surname>Ahmed</surname><given-names>IP</given-names></name>, <name><surname>Omar</surname><given-names>F</given-names></name>. <article-title>A sero-epidemiological survey for certain arboviruses
+(Togaviridae) in Pakistan</article-title>. <source>Trans R Soc Trop Med
+Hyg</source>.
+<year>1983</year>;<volume>77</volume>(<issue>4</issue>):<fpage>442</fpage>&#x02013;<lpage>5</lpage>.
+.<?supplied-pmid 6314612?><pub-id pub-id-type="pmid">6314612</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref027"><label>27</label><mixed-citation publication-type="journal"><name><surname>Salah</surname><given-names>S</given-names></name>, <name><surname>Fox</surname><given-names>E</given-names></name>, <name><surname>Abbatte</surname><given-names>EA</given-names></name>, <name><surname>Constantine</surname><given-names>NT</given-names></name>, <name><surname>Asselin</surname><given-names>P</given-names></name>, <name><surname>Soliman</surname><given-names>AK</given-names></name>. <article-title>A negative human serosurvey of haemorrhagic fever
+viruses in Djibouti</article-title>. <source>Annales de l'Institut Pasteur
+Virology</source>.
+<year>1988</year>;<volume>139</volume>(<issue>4</issue>):<fpage>439</fpage>&#x02013;<lpage>42</lpage>.
+.<?supplied-pmid 2905609?><pub-id pub-id-type="pmid">2905609</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref028"><label>28</label><mixed-citation publication-type="journal"><name><surname>Saidi</surname><given-names>S</given-names></name>. <article-title>Survey of antibodies to arboviruses in human population
+of Iran</article-title>. <source>Pahlavi Medical Journal</source>.
+<year>1971</year>;<volume>2</volume>(<issue>3</issue>):<fpage>485</fpage>&#x02013;<lpage>90</lpage>.
+</mixed-citation></ref><ref id="pntd.0005707.ref029"><label>29</label><mixed-citation publication-type="journal"><name><surname>Ibrahim</surname><given-names>SH</given-names></name>, <name><surname>Darwish</surname><given-names>MA</given-names></name>, <name><surname>Wahdan</surname><given-names>MH</given-names></name>, <name><surname>el-Ghoroury</surname><given-names>AA</given-names></name>. <article-title>Serologic survey of Kuwait population for evidence of
+group A arbovirus infection</article-title>. <source>J Egypt Public Health
+Assoc</source>.
+<year>1973</year>;<volume>48</volume>(<issue>5</issue>):<fpage>308</fpage>&#x02013;<lpage>24</lpage>.
+.<?supplied-pmid 4789151?><pub-id pub-id-type="pmid">4789151</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref030"><label>30</label><mixed-citation publication-type="journal"><name><surname>Al-Nakib</surname><given-names>W</given-names></name>, <name><surname>Lloyd</surname><given-names>G</given-names></name>, <name><surname>El-Mekki</surname><given-names>A</given-names></name>, <name><surname>Platt</surname><given-names>G</given-names></name>, <name><surname>Beeson</surname><given-names>A</given-names></name>, <name><surname>Southee</surname><given-names>T</given-names></name>. <article-title>Preliminary report on arbovirus-antibody prevalence
+among patients in Kuwait: evidence of Congo/Crimean virus
+infection</article-title>. <source>Trans R Soc Trop Med Hyg</source>.
+<year>1984</year>;<volume>78</volume>(<issue>4</issue>):<fpage>474</fpage>&#x02013;<lpage>6</lpage>.
+.<?supplied-pmid 6435292?><pub-id pub-id-type="pmid">6435292</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref031"><label>31</label><mixed-citation publication-type="journal"><name><surname>Andayi</surname><given-names>F</given-names></name>, <name><surname>Charrel</surname><given-names>RN</given-names></name>, <name><surname>Kieffer</surname><given-names>A</given-names></name>, <name><surname>Richet</surname><given-names>H</given-names></name>, <name><surname>Pastorino</surname><given-names>B</given-names></name>, <name><surname>Leparc-Goffart</surname><given-names>I</given-names></name>, <etal>et al</etal>
+<article-title>A sero-epidemiological study of
+arboviral fevers in Djibouti, horn of Africa</article-title>. <source>PLoS
+Negl Trop Dis</source>.
+<year>2014</year>;<volume>8</volume>(<issue>12</issue>):<fpage>e3299</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0003299</pub-id>
+.<?supplied-pmid 25502692?><pub-id pub-id-type="pmid">25502692</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref032"><label>32</label><mixed-citation publication-type="journal"><name><surname>Salim</surname><given-names>AR</given-names></name>, <name><surname>Porterfield</surname><given-names>JS</given-names></name>. <article-title>A serological survey on arbovirus antibodies in the
+Sudan</article-title>. <source>Trans R Soc Trop Med Hyg</source>.
+<year>1973</year>;<volume>67</volume>(<issue>2</issue>):<fpage>206</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="doi">10.1016/0035-9203(73)90145-4</pub-id>. .<?supplied-pmid 4784057?><pub-id pub-id-type="pmid">4784057</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref033"><label>33</label><mixed-citation publication-type="journal"><name><surname>Omer</surname><given-names>AHS</given-names></name>, <name><surname>McLaren</surname><given-names>ML</given-names></name>, <name><surname>Johnson</surname><given-names>BK</given-names></name>. <article-title>A seroepidemiological survey in the Gezira, Sudan, with
+special reference to arboviruses</article-title>. <source>J Trop Med
+Hyg</source>.
+<year>1981</year>;<volume>84</volume>(<issue>2</issue>):<fpage>63</fpage>&#x02013;<lpage>6</lpage>.
+.<?supplied-pmid 7218404?><pub-id pub-id-type="pmid">7218404</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref034"><label>34</label><mixed-citation publication-type="journal"><name><surname>Adam</surname><given-names>A</given-names></name>, <name><surname>Seidahmed</surname><given-names>OM</given-names></name>, <name><surname>Weber</surname><given-names>C</given-names></name>, <name><surname>Schnierle</surname><given-names>B</given-names></name>, <name><surname>Schmidt-Chanasit</surname><given-names>J</given-names></name>, <name><surname>Reiche</surname><given-names>S</given-names></name>, <etal>et al</etal>
+<article-title>Low Seroprevalence Indicates
+Vulnerability of Eastern and Central Sudan to Infection with Chikungunya
+Virus</article-title>. <source>Vector Borne Zoonotic Dis</source>.
+<year>2016</year>;<volume>16</volume>(<issue>4</issue>):<fpage>290</fpage>&#x02013;<lpage>1</lpage>.
+<pub-id pub-id-type="doi">10.1089/vbz.2015.1897</pub-id>
+.<?supplied-pmid 26974266?><pub-id pub-id-type="pmid">26974266</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref035"><label>35</label><mixed-citation publication-type="journal"><name><surname>Madani</surname><given-names>TA</given-names></name>, <name><surname>Abuelzein</surname><given-names>ETME</given-names></name>, <name><surname>Al-Bar</surname><given-names>HMS</given-names></name>, <name><surname>Azhar</surname><given-names>EI</given-names></name>, <name><surname>Kao</surname><given-names>M</given-names></name>, <name><surname>Alshoeb</surname><given-names>HO</given-names></name>, <etal>et al</etal>
+<article-title>Outbreak of viral hemorrhagic fever
+caused by dengue virus type 3 in Al-Mukalla, Yemen</article-title>.
+<source>BMC Infect Dis</source>.
+<year>2013</year>;<volume>13</volume>(<issue>1</issue>). <pub-id pub-id-type="doi">10.1186/1471-2334-13-136</pub-id>.
+.<?supplied-pmid 2013189579?></mixed-citation></ref><ref id="pntd.0005707.ref036"><label>36</label><mixed-citation publication-type="journal"><name><surname>Rezza</surname><given-names>G</given-names></name>, <name><surname>El-Sawaf</surname><given-names>G</given-names></name>, <name><surname>Faggioni</surname><given-names>G</given-names></name>, <name><surname>Vescio</surname><given-names>F</given-names></name>, <name><surname>Al Ameri</surname><given-names>R</given-names></name>, <name><surname>De Santis</surname><given-names>R</given-names></name>, <etal>et al</etal>
+<article-title>Co-circulation of Dengue and
+Chikungunya Viruses, Al Hudaydah, Yemen, 2012</article-title>. <source>Emerg
+Infect Dis</source>.
+<year>2014</year>;<volume>20</volume>(<issue>8</issue>):<fpage>1351</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.3201/eid2008.131615</pub-id>
+<?supplied-pmid 25061762?><pub-id pub-id-type="pmid">25061762</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref037"><label>37</label><mixed-citation publication-type="journal"><name><surname>Darwish</surname><given-names>MA</given-names></name>, <name><surname>Feinsod</surname><given-names>FM</given-names></name>, <name><surname>Scott Mc</surname><given-names>NR</given-names></name>, <name><surname>Ksiazek</surname><given-names>TG</given-names></name>, <name><surname>Botros</surname><given-names>BAM</given-names></name>, <name><surname>Farrag</surname><given-names>IH</given-names></name>, <etal>et al</etal>
+<article-title>Arboviral causes of non-specific
+fever and myalgia in a fever hospital patient population in Cairo,
+Egypt</article-title>. <source>Trans R Soc Trop Med Hyg</source>.
+<year>1987</year>;<volume>81</volume>(<issue>6</issue>):<fpage>1001</fpage>&#x02013;<lpage>3</lpage>.
+<pub-id pub-id-type="doi">10.1016/0035-9203(87)90378-6</pub-id>. .<?supplied-pmid 3332500?><pub-id pub-id-type="pmid">3332500</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref038"><label>38</label><mixed-citation publication-type="journal"><name><surname>Botros</surname><given-names>BAM</given-names></name>, <name><surname>Watts</surname><given-names>DM</given-names></name>, <name><surname>Soliman</surname><given-names>AK</given-names></name>, <name><surname>Salib</surname><given-names>AW</given-names></name>, <name><surname>Moussa</surname><given-names>MI</given-names></name>, <name><surname>Mursal</surname><given-names>H</given-names></name>, <etal>et al</etal>
+<article-title>Serological evidence of dengue fever
+among refugees, Hargeysa, Somalia</article-title>. <source>Journal of
+Medical Virology</source>.
+<year>1989</year>;<volume>29</volume>(<issue>2</issue>):<fpage>79</fpage>&#x02013;<lpage>81</lpage>.
+.<?supplied-pmid 2600591?><pub-id pub-id-type="pmid">2600591</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref039"><label>39</label><mixed-citation publication-type="journal"><name><surname>Zayed</surname><given-names>A</given-names></name>, <name><surname>Awash</surname><given-names>AA</given-names></name>, <name><surname>Esmail</surname><given-names>MA</given-names></name>, <name><surname>Al-Mohamadi</surname><given-names>HA</given-names></name>, <name><surname>Al-Salwai</surname><given-names>M</given-names></name>, <name><surname>Al-Jasari</surname><given-names>A</given-names></name>, <etal>et al</etal>
+<article-title>Detection of Chikungunya virus in
+Aedes aegypti during 2011 outbreak in Al Hodayda</article-title>,
+<source>Yemen. Acta Tropica</source>.
+<year>2012</year>;<volume>123</volume>(<issue>1</issue>):<fpage>62</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.actatropica.2012.03.004</pub-id>.
+<pub-id pub-id-type="doi">10.1016/j.actatropica.2012.03.004</pub-id>
+.<?supplied-pmid 22469818?><pub-id pub-id-type="pmid">22469818</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref040"><label>40</label><mixed-citation publication-type="journal"><name><surname>Thabet</surname><given-names>A A-ES</given-names></name>, <name><surname>Najib</surname><given-names>A</given-names></name>, <name><surname>Obadi</surname><given-names>M</given-names></name>, <name><surname>Saleh</surname><given-names>M</given-names></name>, <name><surname>Al-Kohlani</surname><given-names>A</given-names></name>, <name><surname>Al-Samei</surname><given-names>A</given-names></name>. <article-title>Epidemiologic Characterization of Chikungunya Outbreak
+in Lahj Governorate, Southern Yemen</article-title>. <source>J Commun Med
+Health Educ</source>.
+<year>2013</year>;<volume>3</volume>(<issue>7</issue>).</mixed-citation></ref><ref id="pntd.0005707.ref041"><label>41</label><mixed-citation publication-type="journal"><name><surname>Darwish</surname><given-names>MA</given-names></name>, <name><surname>Imam</surname><given-names>IZ</given-names></name>, <name><surname>Omar</surname><given-names>FM</given-names></name>. <article-title>A serological study on certain Arbovirus antibodies in
+Egypt</article-title>. <source>J Egypt Public Health Assoc</source>.
+<year>1974</year>;<volume>49</volume>(<issue>4&#x02013;5</issue>):<fpage>295</fpage>&#x02013;<lpage>301</lpage>.
+.<?supplied-pmid 4470123?><pub-id pub-id-type="pmid">4470123</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref042"><label>42</label><mixed-citation publication-type="journal"><name><surname>Saidi</surname><given-names>S</given-names></name>. <article-title>Viral antibodies in preschool children from the Caspian
+area, Iran</article-title>. <source>Iran J Public Health</source>.
+<year>1974</year>;<volume>3</volume>(<issue>2</issue>):<fpage>83</fpage>&#x02013;<lpage>91</lpage>.
+.<?supplied-pmid 0975149818?></mixed-citation></ref><ref id="pntd.0005707.ref043"><label>43</label><mixed-citation publication-type="journal"><name><surname>Barakat</surname><given-names>AM</given-names></name>, <name><surname>Smura</surname><given-names>T</given-names></name>, <name><surname>Kuivanen</surname><given-names>S</given-names></name>, <name><surname>Huhtamo</surname><given-names>E</given-names></name>, <name><surname>Kurkela</surname><given-names>S</given-names></name>, <name><surname>Putkuri</surname><given-names>N</given-names></name>, <etal>et al</etal>
+<article-title>The Presence and Seroprevalence of
+Arthropod-Borne Viruses in Nasiriyah Governorate, Southern Iraq: A
+Cross-Sectional Study</article-title>. <source>Am J Trop Med Hyg</source>.
+<year>2016</year>;<volume>94</volume>(<issue>4</issue>):<fpage>794</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.4269/ajtmh.15-0622</pub-id>
+.<?supplied-pmid 26880770?><pub-id pub-id-type="pmid">26880770</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref044"><label>44</label><mixed-citation publication-type="journal"><name><surname>Afzal</surname><given-names>M NS</given-names></name>, <name><surname>Sultan</surname><given-names>M</given-names></name>, <name><surname>Hanif</surname><given-names>A</given-names></name>. <article-title>Chikungunya fever among children presenting with
+nonspecific febrile illness during an epidemic of dengue fever in lahore,
+Pakistan</article-title>. <source>Merit Res J Med Med Sci</source>.
+<year>2015</year>;<volume>3</volume>(<issue>3</issue>):<fpage>69</fpage>&#x02013;<lpage>73</lpage>.</mixed-citation></ref><ref id="pntd.0005707.ref045"><label>45</label><mixed-citation publication-type="journal"><name><surname>Woodruff</surname><given-names>PWR</given-names></name>, <name><surname>Morrill</surname><given-names>JC</given-names></name>, <name><surname>Burans</surname><given-names>JP</given-names></name>, <name><surname>Hyams</surname><given-names>KC</given-names></name>, <name><surname>Woody</surname><given-names>JN</given-names></name>. <article-title>A study of viral and rickettsial exposure and causes of
+fever in Juba, southern Sudan</article-title>. <source>Trans R Soc Trop Med
+Hyg</source>.
+<year>1988</year>;<volume>82</volume>(<issue>5</issue>):<fpage>761</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1016/0035-9203(88)90229-5</pub-id>. .<?supplied-pmid 2855284?><pub-id pub-id-type="pmid">2855284</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref046"><label>46</label><mixed-citation publication-type="journal"><name><surname>McCarthy</surname><given-names>MC</given-names></name>, <name><surname>Haberberger</surname><given-names>RL</given-names></name>, <name><surname>Salib</surname><given-names>AW</given-names></name>, <name><surname>Soliman</surname><given-names>BA</given-names></name>, <name><surname>El-Tigani</surname><given-names>A</given-names></name>, <name><surname>Khalid</surname><given-names>IO</given-names></name>, <etal>et al</etal>
+<article-title>Evaluation of arthropod-borne
+viruses and other infectious disease pathogens as the causes of febrile
+illnesses in the Khartoum province of Sudan</article-title>. <source>J Med
+Virol</source>.
+<year>1996</year>;<volume>48</volume>(<issue>2</issue>):<fpage>141</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1002/(SICI)1096-9071(199602)48:2&#x0003c;141::AID-JMV4&#x0003e;3.0.CO;2-9</pub-id>
+.<?supplied-pmid 8835346?><pub-id pub-id-type="pmid">8835346</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref047"><label>47</label><mixed-citation publication-type="journal"><name><surname>Watts</surname><given-names>DM</given-names></name>, <name><surname>El-Tigani</surname><given-names>A</given-names></name>, <name><surname>Botros</surname><given-names>BAM</given-names></name>, <name><surname>Salib</surname><given-names>AW</given-names></name>, <name><surname>Olson</surname><given-names>JG</given-names></name>, <name><surname>McCarthy</surname><given-names>M</given-names></name>, <etal>et al</etal>
+<article-title>Arthropod-borne viral infections
+associated with a fever outbreak in the Northern Province of
+Sudan</article-title>. <source>J Trop Med Hyg</source>.
+<year>1994</year>;<volume>97</volume>(<issue>4</issue>):<fpage>228</fpage>&#x02013;<lpage>30</lpage>.
+.<?supplied-pmid 8064945?><pub-id pub-id-type="pmid">8064945</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref048"><label>48</label><mixed-citation publication-type="journal"><name><surname>Gould</surname><given-names>LH</given-names></name>, <name><surname>Osman</surname><given-names>MS</given-names></name>, <name><surname>Farnon</surname><given-names>EC</given-names></name>, <name><surname>Griffith</surname><given-names>KS</given-names></name>, <name><surname>Godsey</surname><given-names>MS</given-names></name>, <name><surname>Karch</surname><given-names>S</given-names></name>, <etal>et al</etal>
+<article-title>An outbreak of yellow fever with
+concurrent chikungunya virus transmission in South Kordofan, Sudan,
+2005</article-title>. <source>Trans R Soc Trop med Hyg</source>.
+<year>2008</year>;<volume>102</volume>(<issue>12</issue>):<fpage>1247</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.trstmh.2008.04.014</pub-id>
+.<?supplied-pmid 18502458?><pub-id pub-id-type="pmid">18502458</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref049"><label>49</label><mixed-citation publication-type="journal"><name><surname>Baudin</surname><given-names>M</given-names></name>, <name><surname>Jumaa</surname><given-names>AM</given-names></name>, <name><surname>Jomma</surname><given-names>HJ</given-names></name>, <name><surname>Karsany</surname><given-names>MS</given-names></name>, <name><surname>Bucht</surname><given-names>G</given-names></name>, <name><surname>Naslund</surname><given-names>J</given-names></name>, <etal>et al</etal>
+<article-title>Association of Rift Valley fever
+virus infection with miscarriage in Sudanese women: a cross-sectional
+study</article-title>. <source>Lancet Glob Health</source>.
+<year>2016</year>;<volume>4</volume>(<issue>11</issue>):<fpage>e864</fpage>&#x02013;<lpage>e71</lpage>.
+<pub-id pub-id-type="doi">10.1016/S2214-109X(16)30176-0</pub-id>
+.<?supplied-pmid 27692776?><pub-id pub-id-type="pmid">27692776</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref050"><label>50</label><mixed-citation publication-type="journal"><name><surname>Enkhtsetseg</surname><given-names>A</given-names></name>, <name><surname>Davadoorj</surname><given-names>R</given-names></name>, <name><surname>Fernandez</surname><given-names>S</given-names></name>, <name><surname>Mongkolsirichaikul</surname><given-names>D</given-names></name>, <name><surname>Altantuul</surname><given-names>D</given-names></name>, <name><surname>Elbegdorj</surname><given-names>E</given-names></name>, <etal>et al</etal>
+<article-title>Seroconversion to Causes of Febrile
+Illness in Mongolian Peacekeepers Deployed to South Sudan</article-title>.
+<source>Am J Trop Med Hyg</source>.
+<year>2016</year>;<volume>95</volume>(<issue>6</issue>):<fpage>1469</fpage>&#x02013;<lpage>71</lpage>.
+<pub-id pub-id-type="doi">10.4269/ajtmh.16-0174</pub-id>
+.<?supplied-pmid 27928094?><pub-id pub-id-type="pmid">27928094</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref051"><label>51</label><mixed-citation publication-type="journal"><name><surname>Nabli</surname><given-names>B</given-names></name>, <name><surname>Chippaux-Hyppolite</surname><given-names>C</given-names></name>, <name><surname>Chippaux</surname><given-names>A</given-names></name>, <name><surname>Tamalet</surname><given-names>J</given-names></name>. <article-title>Serological study of arboviruses in
+Tunisia</article-title>. <source>Bull World Health Organ</source>.
+<year>1970</year>;<volume>42</volume>(<issue>2</issue>):<fpage>297</fpage>&#x02013;<lpage>303</lpage>.
+.<?supplied-pmid 5310141?><pub-id pub-id-type="pmid">5310141</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref052"><label>52</label><mixed-citation publication-type="journal"><collab>World Health
+Organization Regional Office for the Eastern Mediterranean</collab>.
+<article-title>Chikungunya Outbreak in Pakistan</article-title>.
+<source>Weekly Epidemiological Monitor</source>.
+<year>2017</year>;<volume>10</volume>(<issue>19</issue>). Available:
+<ext-link ext-link-type="uri" xlink:href="http://www.emro.who.int/surveillance-forecasting-response/weekly-epidemiological-monitor/">http://www.emro.who.int/surveillance-forecasting-response/weekly-epidemiological-monitor/</ext-link>.
+Accessed 13 May 2017.</mixed-citation></ref><ref id="pntd.0005707.ref053"><label>53</label><mixed-citation publication-type="journal"><name><surname>Hussain</surname><given-names>R</given-names></name>, <name><surname>Alomar</surname><given-names>I</given-names></name>, <name><surname>Memish</surname><given-names>ZA</given-names></name>. <article-title>Chikungunya virus: Emergence of an arthritic arbovirus
+in Jeddah, Saudi Arabia</article-title>. <source>East Mediterr Health
+J</source>.
+<year>2013</year>;<volume>19</volume>(<issue>5</issue>):<fpage>506</fpage>&#x02013;<lpage>8</lpage>.
+.<?supplied-pmid 24617133?><pub-id pub-id-type="pmid">24617133</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref054"><label>54</label><mixed-citation publication-type="journal"><name><surname>Zammarchi</surname><given-names>L</given-names></name>, <name><surname>Fortuna</surname><given-names>C</given-names></name>, <name><surname>Venturi</surname><given-names>G</given-names></name>, <name><surname>Rinaldi</surname><given-names>F</given-names></name>, <name><surname>Capobianco</surname><given-names>T</given-names></name>, <name><surname>Remoli</surname><given-names>ME</given-names></name>, <etal>et al</etal>
+<article-title>Recent Chikungunya Virus Infection
+in 2 Travelers Returning from Mogadishu, Somalia, to Italy,
+2016</article-title>. <source>Emerg Infect Dis</source>.
+<year>2016</year>;<volume>22</volume>(<issue>11</issue>):<fpage>2025</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.3201/eid2211.161225</pub-id>
+.<?supplied-pmid 27513985?><pub-id pub-id-type="pmid">27513985</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref055"><label>55</label><mixed-citation publication-type="journal"><collab>World Health
+Organization Regional Office for the Eastern Mediterranean</collab>.
+<article-title>Chikungunya in Somalia</article-title>. <source>Weekly
+Epidemiological Monitor</source>.
+<year>2017</year>;<volume>9</volume>(<issue>24</issue>). Available:
+<ext-link ext-link-type="uri" xlink:href="http://www.emro.who.int/surveillance-forecasting-response/weekly-epidemiological-monitor/">http://www.emro.who.int/surveillance-forecasting-response/weekly-epidemiological-monitor/</ext-link>.
+Accessed 13 May 2017.</mixed-citation></ref><ref id="pntd.0005707.ref056"><label>56</label><mixed-citation publication-type="other">ProMED-mail. Viral
+hemorrhagic fever: (Darfur) fatal, WHO, MOH. ProMED-mail. 2015. 25 Oct:
+20151102.3760616. &#x0003c;<ext-link ext-link-type="uri" xlink:href="http://www.promedmail.org">http://www.promedmail.org</ext-link>&#x0003e;. Accessed 13 May
+2017.</mixed-citation></ref><ref id="pntd.0005707.ref057"><label>57</label><mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>R</given-names></name>, <name><surname>Puri</surname><given-names>V</given-names></name>, <name><surname>Fedorova</surname><given-names>N</given-names></name>, <name><surname>Lin</surname><given-names>D</given-names></name>, <name><surname>Hari</surname><given-names>KL</given-names></name>, <name><surname>Jain</surname><given-names>R</given-names></name>, <etal>et al</etal>
+<article-title>Comprehensive Genome-Scale
+Phylogenetic Study Provides New Insights on the Global Expansion of
+Chikungunya Virus</article-title>. <source>J Virol</source>.
+<year>2016</year>
+<pub-id pub-id-type="doi">10.1128/JVI.01166-16</pub-id>
+.<?supplied-pmid 27654297?><pub-id pub-id-type="pmid">27654297</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref058"><label>58</label><mixed-citation publication-type="journal"><name><surname>Taylor</surname><given-names>RM</given-names></name>, <name><surname>Haseeb</surname><given-names>MA</given-names></name>, <name><surname>Work</surname><given-names>TH</given-names></name>. <article-title>A regional reconnaissance on yellow fever in the Sudan;
+with special reference to primate hosts</article-title>. <source>Bull World
+Health Organ</source>.
+<year>1955</year>;<volume>12</volume>(<issue>5</issue>):<fpage>711</fpage>&#x02013;<lpage>25</lpage>.
+.<?supplied-pmid 14379007?><pub-id pub-id-type="pmid">14379007</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref059"><label>59</label><mixed-citation publication-type="journal"><collab>World Health
+Organization Regional Office for the Eastern Mediterranean</collab>.
+<article-title>Acute haemorrhagic fever remained a public health threat in
+EMR</article-title>. <source>Weekly Epidemiological Monitor</source>.
+<year>2008</year>;<volume>1</volume>(<issue>49</issue>). Available:
+<ext-link ext-link-type="uri" xlink:href="http://www.emro.who.int/surveillance-forecasting-response/weekly-epidemiological-monitor/">http://www.emro.who.int/surveillance-forecasting-response/weekly-epidemiological-monitor/</ext-link>.
+Accessed 13 May 2017.</mixed-citation></ref><ref id="pntd.0005707.ref060"><label>60</label><mixed-citation publication-type="journal"><name><surname>Markoff</surname><given-names>L</given-names></name>. <article-title>Yellow fever outbreak in Sudan</article-title>.
+<source>N Engl J Med</source>.
+<year>2013</year>;<volume>368</volume>(<issue>8</issue>):<fpage>689</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMp1300772</pub-id>
+.<?supplied-pmid 23387798?><pub-id pub-id-type="pmid">23387798</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref061"><label>61</label><mixed-citation publication-type="other">The World Bank Group.
+The Middle East and North Africa: Urban Development 2015. Available from:
+<ext-link ext-link-type="uri" xlink:href="http://go.worldbank.org/Y88FI6V7R0">http://go.worldbank.org/Y88FI6V7R0</ext-link>. Accessed 8 Feb
+2016.</mixed-citation></ref><ref id="pntd.0005707.ref062"><label>62</label><mixed-citation publication-type="journal"><name><surname>Soghaier</surname><given-names>MA</given-names></name>, <name><surname>Mahmood</surname><given-names>SF</given-names></name>, <name><surname>Pasha</surname><given-names>O</given-names></name>, <name><surname>Azam</surname><given-names>SI</given-names></name>, <name><surname>Karsani</surname><given-names>MM</given-names></name>, <name><surname>Elmangory</surname><given-names>MM</given-names></name>, <etal>et al</etal>
+<article-title>Factors associated with dengue fever
+IgG sero-prevalence in South Kordofan State, Sudan, in 2012: Reporting
+prevalence ratios</article-title>. <source>J Infect Public Health</source>.
+<year>2014</year>;<volume>7</volume>(<issue>1</issue>):<fpage>54</fpage>&#x02013;<lpage>61</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jiph.2013.07.008</pub-id>
+.<?supplied-pmid 24210245?><pub-id pub-id-type="pmid">24210245</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref063"><label>63</label><mixed-citation publication-type="journal"><name><surname>Jaffer</surname><given-names>A</given-names></name>, <name><surname>Hotez</surname><given-names>PJ</given-names></name>. <article-title>Somalia: A Nation at the Crossroads of Extreme Poverty,
+Conflict, and Neglected Tropical Diseases</article-title>. <source>PLoS Negl
+Trop Dis</source>.
+<year>2016</year>;<volume>10</volume>(<issue>9</issue>):<fpage>e0004670</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0004670</pub-id>
+.<?supplied-pmid 27685261?><pub-id pub-id-type="pmid">27685261</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref064"><label>64</label><mixed-citation publication-type="journal"><name><surname>Hotez</surname><given-names>PJ</given-names></name>. <article-title>Combating the next lethal epidemic</article-title>.
+<source>Science</source>.
+<year>2015</year>;<volume>348</volume>(<issue>6232</issue>):<fpage>296</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.348.6232.296-b</pub-id>
+.<?supplied-pmid 25883348?><pub-id pub-id-type="pmid">25883348</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref065"><label>65</label><mixed-citation publication-type="other">World Health
+Organization. Dengue: Guidelines for Diagnosis, Treatement, Prevention and
+Control. Geneva, Switzerland. 2009. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.who.int/tdr/publications/documents/dengue-diagnosis.pdf">http://www.who.int/tdr/publications/documents/dengue-diagnosis.pdf</ext-link>
+Accessed 1 September 2016.</mixed-citation></ref><ref id="pntd.0005707.ref066"><label>66</label><mixed-citation publication-type="journal"><name><surname>Rodier</surname><given-names>GR</given-names></name>, <name><surname>Gubler</surname><given-names>DJ</given-names></name>, <name><surname>Cope</surname><given-names>SE</given-names></name>, <name><surname>Cropp</surname><given-names>CB</given-names></name>, <name><surname>Soliman</surname><given-names>AK</given-names></name>, <name><surname>Polycarpe</surname><given-names>D</given-names></name>, <etal>et al</etal>
+<article-title>Epidemic dengue 2 in the city of
+Djibouti 1991&#x02013;1992</article-title>. <source>Trans R Soc Trop Med
+Hyg</source>.
+<year>1996</year>;<volume>90</volume>(<issue>3</issue>):<fpage>237</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0035-9203(96)90228-X</pub-id>. .<?supplied-pmid 8758061?><pub-id pub-id-type="pmid">8758061</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref067"><label>67</label><mixed-citation publication-type="journal"><name><surname>Seidahmed</surname><given-names>OME</given-names></name>, <name><surname>Hassan</surname><given-names>SA</given-names></name>, <name><surname>Soghaier</surname><given-names>MA</given-names></name>, <name><surname>Siam</surname><given-names>HAM</given-names></name>, <name><surname>Ahmed</surname><given-names>FTA</given-names></name>, <name><surname>Elkarsany</surname><given-names>MM</given-names></name>, <etal>et al</etal>
+<article-title>Spatial and Temporal Patterns of
+Dengue Transmission along a Red Sea Coastline: A Longitudinal Entomological
+and Serological Survey in Port Sudan City</article-title>. <source>PLoS Negl
+Trop Dis</source>. <year>2012</year>;<volume>6</volume>(<issue>9</issue>).
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0001821</pub-id>. .<?supplied-pmid 2012579248?></mixed-citation></ref><ref id="pntd.0005707.ref068"><label>68</label><mixed-citation publication-type="journal"><name><surname>LaBeaud</surname><given-names>AD</given-names></name>, <name><surname>Banda</surname><given-names>T</given-names></name>, <name><surname>Brichard</surname><given-names>J</given-names></name>, <name><surname>Muchiri</surname><given-names>EM</given-names></name>, <name><surname>Mungai</surname><given-names>PL</given-names></name>, <name><surname>Mutuku</surname><given-names>FM</given-names></name>, <etal>et al</etal>
+<article-title>High rates of o'nyong nyong and
+Chikungunya virus transmission in coastal Kenya</article-title>.
+<source>PLoS Negl Trop Dis</source>.
+<year>2015</year>;<volume>9</volume>(<issue>2</issue>):<fpage>e0003436</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0003436</pub-id>
+.<?supplied-pmid 25658762?><pub-id pub-id-type="pmid">25658762</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref069"><label>69</label><mixed-citation publication-type="journal"><name><surname>Hassing</surname><given-names>RJ</given-names></name>, <name><surname>Leparc-Goffart</surname><given-names>I</given-names></name>, <name><surname>Tolou</surname><given-names>H</given-names></name>, <name><surname>van Doornum</surname><given-names>G</given-names></name>, <name><surname>van Genderen</surname><given-names>PJ</given-names></name>. <article-title>Cross-reactivity of antibodies to viruses belonging to
+the Semliki forest serocomplex</article-title>. <source>Euro
+surveillance</source>.
+<year>2010</year>;<volume>15</volume>(<issue>23</issue>). .<?supplied-pmid 20546691?><pub-id pub-id-type="pmid">20546691</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref070"><label>70</label><mixed-citation publication-type="journal"><name><surname>Adouchief</surname><given-names>S</given-names></name>, <name><surname>Smura</surname><given-names>T</given-names></name>, <name><surname>Sane</surname><given-names>J</given-names></name>, <name><surname>Vapalahti</surname><given-names>O</given-names></name>, <name><surname>Kurkela</surname><given-names>S</given-names></name>. <article-title>Sindbis virus as a human pathogen-epidemiology, clinical
+picture and pathogenesis</article-title>. <source>Rev Med Virol</source>.
+<year>2016</year>;<volume>26</volume>(<issue>4</issue>):<fpage>221</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1002/rmv.1876</pub-id>
+.<?supplied-pmid 26990827?><pub-id pub-id-type="pmid">26990827</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref071"><label>71</label><mixed-citation publication-type="journal"><name><surname>Kraemer</surname><given-names>MU</given-names></name>, <name><surname>Sinka</surname><given-names>ME</given-names></name>, <name><surname>Duda</surname><given-names>KA</given-names></name>, <name><surname>Mylne</surname><given-names>AQ</given-names></name>, <name><surname>Shearer</surname><given-names>FM</given-names></name>, <name><surname>Barker</surname><given-names>CM</given-names></name>, <etal>et al</etal>
+<article-title>The global distribution of the
+arbovirus vectors Aedes aegypti and Ae. albopictus</article-title>.
+<source>Elife</source>.
+<year>2015</year>;<volume>4</volume>:<fpage>e08347</fpage>
+<pub-id pub-id-type="doi">10.7554/eLife.08347</pub-id>
+.<?supplied-pmid 26126267?><pub-id pub-id-type="pmid">26126267</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref072"><label>72</label><mixed-citation publication-type="journal"><name><surname>Nsoesie</surname><given-names>EO</given-names></name>, <name><surname>Kraemer</surname><given-names>MU</given-names></name>, <name><surname>Golding</surname><given-names>N</given-names></name>, <name><surname>Pigott</surname><given-names>DM</given-names></name>, <name><surname>Brady</surname><given-names>OJ</given-names></name>, <name><surname>Moyes</surname><given-names>CL</given-names></name>, <etal>et al</etal>
+<article-title>Global Distribution and
+Environmental Suitability for Chikungunya Virus, 1952&#x02013;2015</article-title>.
+<source>Euro Surveillance</source>.
+<year>2016</year>;<volume>21</volume>(<issue>20</issue>):pii = 30234.
+<pub-id pub-id-type="doi">10.2807/1560-7917</pub-id>.</mixed-citation></ref><ref id="pntd.0005707.ref073"><label>73</label><mixed-citation publication-type="book"><collab>European Centre
+for Disease Prevention and Control</collab>. <source>Guidelines for the
+surveillance of invasive mosquitoes in Europe</source>.
+<publisher-loc>Stockholm</publisher-loc>:
+<publisher-name>ECDC</publisher-name>; <year>2012</year> Available at:
+<ext-link ext-link-type="uri" xlink:href="http://ecdc.europa.eu/en/publications/publications/ter-mosquito-surveillance-guidelines.pdf">http://ecdc.europa.eu/en/publications/publications/ter-mosquito-surveillance-guidelines.pdf</ext-link>.
+Accessed 15 Jan 2016.</mixed-citation></ref><ref id="pntd.0005707.ref074"><label>74</label><mixed-citation publication-type="journal"><name><surname>Chanas</surname><given-names>AC</given-names></name>, <name><surname>Hubalek</surname><given-names>Z</given-names></name>, <name><surname>Johnson</surname><given-names>BK</given-names></name>, <name><surname>Simpson</surname><given-names>DI</given-names></name>. <article-title>A comparative study of O'nyong nyong virus with
+Chikungunya virus and plaque variants</article-title>. <source>Arch
+Virol</source>.
+<year>1979</year>;<volume>59</volume>(<issue>3</issue>):<fpage>231</fpage>&#x02013;<lpage>8</lpage>.
+.<?supplied-pmid 88212?><pub-id pub-id-type="pmid">88212</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref075"><label>75</label><mixed-citation publication-type="journal"><name><surname>Blackburn</surname><given-names>NK</given-names></name>, <name><surname>Besselaar</surname><given-names>TG</given-names></name>, <name><surname>Gibson</surname><given-names>G</given-names></name>. <article-title>Antigenic relationship between chikungunya virus strains
+and o'nyong nyong virus using monoclonal antibodies</article-title>.
+<source>Res Virol</source>.
+<year>1995</year>;<volume>146</volume>(<issue>1</issue>):<fpage>69</fpage>&#x02013;<lpage>73</lpage>.
+.<?supplied-pmid 7754238?><pub-id pub-id-type="pmid">7754238</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref076"><label>76</label><mixed-citation publication-type="journal"><name><surname>Chan</surname><given-names>EH</given-names></name>, <name><surname>Brewer</surname><given-names>TF</given-names></name>, <name><surname>Madoff</surname><given-names>LC</given-names></name>, <name><surname>Pollack</surname><given-names>MP</given-names></name>, <name><surname>Sonricker</surname><given-names>AL</given-names></name>, <name><surname>Keller</surname><given-names>M</given-names></name>, <etal>et al</etal>
+<article-title>Global capacity for emerging
+infectious disease detection</article-title>. <source>Proc Natl Acad Sci
+USA</source>.
+<year>2010</year>;<volume>107</volume>(<issue>50</issue>):<fpage>21701</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1006219107</pub-id>
+.<?supplied-pmid 21115835?><pub-id pub-id-type="pmid">21115835</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref077"><label>77</label><mixed-citation publication-type="journal"><name><surname>Aghaie</surname><given-names>A</given-names></name>, <name><surname>Aaskov</surname><given-names>J</given-names></name>, <name><surname>Chinikar</surname><given-names>S</given-names></name>, <name><surname>Niedrig</surname><given-names>M</given-names></name>, <name><surname>Banazadeh</surname><given-names>S</given-names></name>, <name><surname>Mohammadpour</surname><given-names>HK</given-names></name>. <article-title>Frequency of dengue virus infection in blood donors in
+Sistan and Baluchestan province in Iran</article-title>. <source>Transfus
+Apher Sci</source>.
+<year>2014</year>;<volume>50</volume>(<issue>1</issue>):<fpage>59</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.transci.2013.07.034</pub-id>
+.<?supplied-pmid 24332363?><pub-id pub-id-type="pmid">24332363</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref078"><label>78</label><mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>J</given-names></name>, <name><surname>Ochieng</surname><given-names>C</given-names></name>, <name><surname>Wiersma</surname><given-names>S</given-names></name>, <name><surname>Stroher</surname><given-names>U</given-names></name>, <name><surname>Towner</surname><given-names>JS</given-names></name>, <name><surname>Whitmer</surname><given-names>S</given-names></name>, <etal>et al</etal>
+<article-title>Development of a TaqMan Array Card
+for Acute-Febrile-Illness Outbreak Investigation and Surveillance of
+Emerging Pathogens, Including Ebola Virus</article-title>. <source>J Clin
+Microbiol</source>.
+<year>2016</year>;<volume>54</volume>(<issue>1</issue>):<fpage>49</fpage>&#x02013;<lpage>58</lpage>.
+<pub-id pub-id-type="doi">10.1128/JCM.02257-15</pub-id>
+.<?supplied-pmid 26491176?><pub-id pub-id-type="pmid">26491176</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref079"><label>79</label><mixed-citation publication-type="journal"><name><surname>Pabbaraju</surname><given-names>K</given-names></name>, <name><surname>Wong</surname><given-names>S</given-names></name>, <name><surname>Gill</surname><given-names>K</given-names></name>, <name><surname>Fonseca</surname><given-names>K</given-names></name>, <name><surname>Tipples</surname><given-names>GA</given-names></name>, <name><surname>Tellier</surname><given-names>R</given-names></name>. <article-title>Simultaneous detection of Zika, Chikungunya and Dengue
+viruses by a multiplex real-time RT-PCR assay</article-title>. <source>J
+Clin Virol</source>.
+<year>2016</year>;<volume>83</volume>:<fpage>66</fpage>&#x02013;<lpage>71</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jcv.2016.09.001</pub-id>
+.<?supplied-pmid 27614319?><pub-id pub-id-type="pmid">27614319</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref080"><label>80</label><mixed-citation publication-type="journal"><name><surname>Waggoner</surname><given-names>JJ</given-names></name>, <name><surname>Gresh</surname><given-names>L</given-names></name>, <name><surname>Mohamed-Hadley</surname><given-names>A</given-names></name>, <name><surname>Ballesteros</surname><given-names>G</given-names></name>, <name><surname>Davila</surname><given-names>MJ</given-names></name>, <name><surname>Tellez</surname><given-names>Y</given-names></name>, <etal>et al</etal>
+<article-title>Single-Reaction Multiplex Reverse
+Transcription PCR for Detection of Zika, Chikungunya, and Dengue
+Viruses</article-title>. <source>Emerg Infect Dis</source>.
+<year>2016</year>;<volume>22</volume>(<issue>7</issue>):<fpage>1295</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.3201/eid2207.160326</pub-id>
+.<?supplied-pmid 27184629?><pub-id pub-id-type="pmid">27184629</pub-id></mixed-citation></ref><ref id="pntd.0005707.ref081"><label>81</label><mixed-citation publication-type="journal"><name><surname>Thiboutot</surname><given-names>MM</given-names></name>, <name><surname>Kannan</surname><given-names>S</given-names></name>, <name><surname>Kawalekar</surname><given-names>OU</given-names></name>, <name><surname>Shedlock</surname><given-names>DJ</given-names></name>, <name><surname>Khan</surname><given-names>AS</given-names></name>, <name><surname>Sarangan</surname><given-names>G</given-names></name>, <etal>et al</etal>
+<article-title>Chikungunya: a potentially emerging
+epidemic?</article-title>
+<source>PLoS Negl Trop Dis</source>.
+<year>2010</year>;<volume>4</volume>(<issue>4</issue>):<fpage>e623</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0000623</pub-id>
+. <?supplied-pmid 20436958?><pub-id pub-id-type="pmid">20436958</pub-id></mixed-citation></ref></ref-list></back></article>

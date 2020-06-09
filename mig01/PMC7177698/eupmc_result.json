@@ -1,0 +1,391 @@
+{
+  "id": [
+    "32272744"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32272744"
+  ],
+  "pmcid": [
+    "PMC7177698"
+  ],
+  "doi": [
+    "10.3390/ijms21072565"
+  ],
+  "title": [
+    "A Relatively Small Gradient of Extracellular pH Directs Migration of MDA-MB-231 Cells In Vitro."
+  ],
+  "authorString": [
+    "Takahashi E, Yamaguchi D, Yamaoka Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Takahashi E"
+          ],
+          "firstName": [
+            "Eiji"
+          ],
+          "lastName": [
+            "Takahashi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2977-9735",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Graduate School of Advanced Health Sciences, Saga University, Honjyo Machi 1, Saga 840-8502, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yamaguchi D"
+          ],
+          "firstName": [
+            "Daisuke"
+          ],
+          "lastName": [
+            "Yamaguchi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Graduate School of Advanced Health Sciences, Saga University, Honjyo Machi 1, Saga 840-8502, Japan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yamaoka Y"
+          ],
+          "firstName": [
+            "Yoshihisa"
+          ],
+          "lastName": [
+            "Yamaoka"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6395-7721",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Graduate School of Advanced Health Sciences, Saga University, Honjyo Machi 1, Saga 840-8502, Japan."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2977-9735",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6395-7721",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2932518"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Hematogenous tumor metastasis begins with the invasion and spread of primary tumor cells in the local tissue leading to intravasation. We hypothesized that tumor cells might actively migrate toward intratumor vessels with the extracellular metabolic gradient acting as a guiding cue. Here, we determined in vitro whether the extracellular gradient of pH can act as a cue for directional migration in MDA-MB-231 cells. Cell migration was determined by the wound-healing assay under gradients of extracellular pH (~0.2 units/mm) and oxygen concentration (~6% O2/mm) that were produced by a microfluidic device, gap cover glass (GCG). Without GCG, the migration of cells was spatially homogeneous; the same number of cells migrated to the rectangular wound space from the left and right boundaries. In contrast, when GCG generated pH/O2 gradients across the wound space, the number of cells migrating to the wound space from the boundary with higher pH/O2 values was considerably decreased, indicating a preferential movement of cells toward the region of higher pH/O2 in the gradient. The addition of hepes in the extracellular medium abolished both the extracellular pH gradient and the directional cell migration under GCG. We conclude that relatively small gradients of pH in the extracellular medium compared to those found in Na+/H+ exchanger-driven cell migration were sufficient to guide MDA-MB-231 cells. The directional cell migration as guided by the metabolic gradient could effectively elevate the probability of intravasation and, ultimately, hematogenous metastasis."
+  ],
+  "affiliation": [
+    "Graduate School of Advanced Health Sciences, Saga University, Honjyo Machi 1, Saga 840-8502, Japan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "17K07173."
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "pH gradient",
+        "Metastasis",
+        "cell migration",
+        "Mda-mb-231 Cells",
+        "Oxygen Gradient"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms21072565"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7177698"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7177698?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms21072565"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-11"
+  ],
+  "firstIndexDate": [
+    "2020-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-30"
+  ],
+  "dateOfRevision": [
+    "2020-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-07"
+  ],
+  "firstPublicationDate": [
+    "2020-04-07"
+  ]
+}

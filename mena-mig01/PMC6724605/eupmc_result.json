@@ -1,0 +1,368 @@
+{
+  "id": [
+    "30893012"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30893012"
+  ],
+  "pmcid": [
+    "PMC6724605"
+  ],
+  "doi": [
+    "10.1091/mbc.e18-10-0629"
+  ],
+  "title": [
+    "Hic-5 regulates Src-induced invadopodia rosette formation and organization."
+  ],
+  "authorString": [
+    "Gulvady AC, Forsythe IJ, Turner CE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gulvady AC"
+          ],
+          "firstName": [
+            "Anushree C"
+          ],
+          "lastName": [
+            "Gulvady"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell and Developmental Biology, State University of New York Upstate Medical University, Syracuse, NY 13210."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Forsythe IJ"
+          ],
+          "firstName": [
+            "Ian J"
+          ],
+          "lastName": [
+            "Forsythe"
+          ],
+          "initials": [
+            "IJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell and Developmental Biology, State University of New York Upstate Medical University, Syracuse, NY 13210."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Turner CE"
+          ],
+          "firstName": [
+            "Christopher E"
+          ],
+          "lastName": [
+            "Turner"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell and Developmental Biology, State University of New York Upstate Medical University, Syracuse, NY 13210."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "30"
+      ],
+      "journalIssueId": [
+        "2816869"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular biology of the cell"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Biol. Cell"
+          ],
+          "medlineAbbreviation": [
+            "Mol Biol Cell"
+          ],
+          "NLMid": [
+            "9201390"
+          ],
+          "ISSN": [
+            "1059-1524"
+          ],
+          "ESSN": [
+            "1939-4586"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1298-1313"
+  ],
+  "abstractText": [
+    "Fibroblasts transformed by the proto-oncogene Src form individual invadopodia that can spontaneously self-organize into large matrix-degrading superstructures called rosettes. However, the mechanisms by which the invadopodia can spatiotemporally reorganize their architecture is not well understood. Here, we show that Hic-5, a close relative of the scaffold protein paxillin, is essential for the formation and organization of rosettes in active Src-transfected NIH3T3 fibroblasts and cancer-associated fibroblasts. Live cell imaging, combined with domain-mapping analysis of Hic-5, identified critical motifs as well as phosphorylation sites that are required for the formation and dynamics of rosettes. Using pharmacological inhibition and mutant expression, we show that FAK kinase activity, along with its proximity to and potential interaction with the LD2,3 motifs of Hic-5, is necessary for rosette formation. Invadopodia dynamics and their coalescence into rosettes were also dependent on Rac1, formin, and myosin II activity. Superresolution microscopy revealed the presence of formin FHOD1 and INF2-mediated unbranched radial F-actin fibers emanating from invadopodia and rosettes, which may facilitate rosette formation. Collectively, our data highlight a novel role for Hic-5 in orchestrating the organization of invadopodia into higher-order rosettes, which may promote the localized matrix degradation necessary for tumor cell invasion."
+  ],
+  "affiliation": [
+    "Department of Cell and Developmental Biology, State University of New York Upstate Medical University, Syracuse, NY 13210."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 CA163296"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM047607"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.E18-10-0629"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6724605"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6724605?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.e18-10-0629"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-21"
+  ],
+  "firstIndexDate": [
+    "2019-03-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-08"
+  ],
+  "dateOfRevision": [
+    "2019-09-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-20"
+  ],
+  "firstPublicationDate": [
+    "2019-03-20"
+  ]
+}

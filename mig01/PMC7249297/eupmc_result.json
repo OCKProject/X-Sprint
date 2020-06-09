@@ -1,0 +1,567 @@
+{
+  "id": [
+    "32450835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32450835"
+  ],
+  "pmcid": [
+    "PMC7249297"
+  ],
+  "doi": [
+    "10.1186/s12898-020-00299-2"
+  ],
+  "title": [
+    "Year-round spatiotemporal distribution pattern of a threatened sea duck species breeding on Kolguev Island, south-eastern Barents Sea."
+  ],
+  "authorString": [
+    "Karwinkel T, Pollet IL, Vardeh S, Kruckenberg H, Glazov P, Loshchagina J, Kondratyev A, Merkel B, Bellebaum J, Quillfeldt P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Karwinkel T"
+          ],
+          "firstName": [
+            "Thiemo"
+          ],
+          "lastName": [
+            "Karwinkel"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6433-3013",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Animal Ecology and Systematics, Justus Liebig University Giessen, Heinrich-Buff-Ring 26-32, 35392, Giessen, Germany. thiemo.karwinkel@uni-oldenburg.de.",
+                "Institute of Avian Research \"Vogelwarte Helgoland\", An der Vogelwarte 21, 26386, Wilhelmshaven, Germany. thiemo.karwinkel@uni-oldenburg.de.",
+                "Institute of Biology and Environmental Sciences, Carl von Ossietzky University Oldenburg, Carl-von-Ossietzky-Straße 9-11, 26129, Oldenburg, Germany. thiemo.karwinkel@uni-oldenburg.de."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pollet IL"
+          ],
+          "firstName": [
+            "Ingrid L"
+          ],
+          "lastName": [
+            "Pollet"
+          ],
+          "initials": [
+            "IL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Animal Ecology and Systematics, Justus Liebig University Giessen, Heinrich-Buff-Ring 26-32, 35392, Giessen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vardeh S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Vardeh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Animal Ecology and Systematics, Justus Liebig University Giessen, Heinrich-Buff-Ring 26-32, 35392, Giessen, Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kruckenberg H"
+          ],
+          "firstName": [
+            "Helmut"
+          ],
+          "lastName": [
+            "Kruckenberg"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Waterbird and Wetlands Research (IWWR) e.V. Germany, Am Steigbügel 3, 27283, Verden (Aller), Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Glazov P"
+          ],
+          "firstName": [
+            "Petr"
+          ],
+          "lastName": [
+            "Glazov"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Geography RAS, Staromonetniy per 29, 119017, Moscow, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Loshchagina J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Loshchagina"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8662-0723",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Geography RAS, Staromonetniy per 29, 119017, Moscow, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kondratyev A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Kondratyev"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Biological Problems of the North FEB RAS, Portovaya str. 18, 685000, Magadan, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Merkel B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Merkel"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Fram Centre, Norwegian Polar Institute, P.O. Box 6606, Langnes, 9296, Tromsø, Norway."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bellebaum J"
+          ],
+          "firstName": [
+            "Jochen"
+          ],
+          "lastName": [
+            "Bellebaum"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Waterbird and Wetlands Research (IWWR) e.V. Germany, Am Steigbügel 3, 27283, Verden (Aller), Germany."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Quillfeldt P"
+          ],
+          "firstName": [
+            "Petra"
+          ],
+          "lastName": [
+            "Quillfeldt"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Animal Ecology and Systematics, Justus Liebig University Giessen, Heinrich-Buff-Ring 26-32, 35392, Giessen, Germany."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6433-3013",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8662-0723",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2949973"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC ecology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Ecol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Ecol"
+          ],
+          "NLMid": [
+            "101088674"
+          ],
+          "ISSN": [
+            "1472-6785"
+          ],
+          "ESSN": [
+            "1472-6785"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "31"
+  ],
+  "abstractText": [
+    "BACKGROUND:The long-tailed duck (Clangula hyemalis) was categorized as ´Vulnerable` by the IUCN after a study revealed a rapid wintering population decline of 65% between 1992-1993 and 2007-2009 in the Baltic Sea. As knowledge about the European long-tailed duck's life cycle and movement ecology is limited, we investigate its year-round spatiotemporal distribution patterns. Specifically, we aimed to identify the wintering grounds, timing of migration and staging of this population via light-level geolocation. RESULTS:Of the 48 female long-tailed ducks tagged on Kolguev Island (western Russian Arctic), 19 were recaptured to obtain data. After breeding and moulting at freshwater lakes, ducks went out to sea around Kolguev Island and to marine waters ranging from the White Sea to Novaya Zemlya Archipelago for 33 ± 10 days. After a rapid autumn migration, 18 of 19 birds spent their winter in the Baltic Sea and one bird in the White Sea, where they stayed for 212 ± 3 days. There, they used areas known to host long-tailed ducks, but areas differed among individuals. After a rapid spring migration in mid-May, the birds spent 23 ± 3 days at sea in coastal areas between the White Sea and Kolguev Island, before returning to their freshwater breeding habitats in June. CONCLUSIONS:The Baltic Sea represents the most important wintering area for female long-tailed ducks from Kolguev Island. Important spring and autumn staging areas include the Barents Sea and the White Sea. Climate change will render these habitats more exposed to human impacts in the form of fisheries, marine traffic and oil exploitation in near future. Threats that now operate in the wintering areas may thus spread to the higher latitude staging areas and further increase the pressure on long-tailed ducks."
+  ],
+  "affiliation": [
+    "Department of Animal Ecology and Systematics, Justus Liebig University Giessen, Heinrich-Buff-Ring 26-32, 35392, Giessen, Germany. thiemo.karwinkel@uni-oldenburg.de."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "3516821500"
+          ],
+          "agency": [
+            "Bundesamt für Naturschutz"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "18-05-60057 Arctic"
+          ],
+          "agency": [
+            "Russian Foundation for Basic Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "0148-2019-0010"
+          ],
+          "agency": [
+            "Russian Ministry of Science and Higher Education"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Conservation",
+        "Russian Arctic",
+        "Baltic Sea",
+        "Geolocation",
+        "Sea Duck",
+        "Clangula Hyemalis",
+        "Long-tailed Duck"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12898-020-00299-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7249297"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7249297?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12898-020-00299-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-27"
+  ],
+  "firstIndexDate": [
+    "2020-05-27"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-07"
+  ],
+  "dateOfRevision": [
+    "2020-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-25"
+  ],
+  "firstPublicationDate": [
+    "2020-05-25"
+  ]
+}

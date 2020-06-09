@@ -1,0 +1,1419 @@
+{
+  "id": [
+    "29017499"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29017499"
+  ],
+  "pmcid": [
+    "PMC5635489"
+  ],
+  "doi": [
+    "10.1186/s12936-017-2057-8"
+  ],
+  "title": [
+    "Imported malaria in Spain (2009-2016): results from the +REDIVI Collaborative Network."
+  ],
+  "authorString": [
+    "Norman FF, López-Polín A, Salvador F, Treviño B, Calabuig E, Torrús D, Soriano-Arandes A, Ruíz-Giardín JM, Monge-Maillo B, Pérez-Molina JA, Perez-Ayala A, García M, Rodríguez A, Martínez-Serrano M, Zubero M, López-Vélez R, +REDIVI Study Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Norman FF"
+          ],
+          "firstName": [
+            "Francesca F"
+          ],
+          "lastName": [
+            "Norman"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Referral Unit for Tropical Diseases, Infectious Diseases Department, Ramón y Cajal University Hospital, IRYCIS, Ctra Colmenar, Km 9,100, 28034, Madrid, Spain. ffnorman@gmail.com."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "López-Polín A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "López-Polín"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Referral Unit for Tropical Diseases, Infectious Diseases Department, Ramón y Cajal University Hospital, IRYCIS, Ctra Colmenar, Km 9,100, 28034, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salvador F"
+          ],
+          "firstName": [
+            "Fernando"
+          ],
+          "lastName": [
+            "Salvador"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0546-1354",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Vall d'Hebron University Hospital, Universitat Autònoma de Barcelona, PROSICS Barcelona, Barcelona, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Treviño B"
+          ],
+          "firstName": [
+            "Begoña"
+          ],
+          "lastName": [
+            "Treviño"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unitat Medicina Tropical i Salut Internacional Vall d'Hebron-Drassanes, PROSICS Barcelona, Barcelona, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Calabuig E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Calabuig"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "La Fe de Valencia University Hospital, Valencia, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Torrús D"
+          ],
+          "firstName": [
+            "Diego"
+          ],
+          "lastName": [
+            "Torrús"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Alicante University Hospital, Alicante, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Soriano-Arandes A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Soriano-Arandes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9613-7228",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unitat Medicina Tropical i Salut Internacional Vall d'Hebron-Drassanes, PROSICS Barcelona, Barcelona, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruíz-Giardín JM"
+          ],
+          "firstName": [
+            "Jose-Manuel"
+          ],
+          "lastName": [
+            "Ruíz-Giardín"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9459-7386",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Fuenlabrada Hospital, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Monge-Maillo B"
+          ],
+          "firstName": [
+            "Begoña"
+          ],
+          "lastName": [
+            "Monge-Maillo"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Referral Unit for Tropical Diseases, Infectious Diseases Department, Ramón y Cajal University Hospital, IRYCIS, Ctra Colmenar, Km 9,100, 28034, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez-Molina JA"
+          ],
+          "firstName": [
+            "Jose-Antonio"
+          ],
+          "lastName": [
+            "Pérez-Molina"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8735-4124",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Referral Unit for Tropical Diseases, Infectious Diseases Department, Ramón y Cajal University Hospital, IRYCIS, Ctra Colmenar, Km 9,100, 28034, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perez-Ayala A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Perez-Ayala"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "12 de Octubre University Hospital, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "García M"
+          ],
+          "firstName": [
+            "Magdalena"
+          ],
+          "lastName": [
+            "García"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Valencia General University Hospital, Valencia, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez A"
+          ],
+          "firstName": [
+            "Azucena"
+          ],
+          "lastName": [
+            "Rodríguez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Asturias Central University Hospital, Oviedo, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martínez-Serrano M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Martínez-Serrano"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Albacete University Hospital, Albacete, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zubero M"
+          ],
+          "firstName": [
+            "Miren"
+          ],
+          "lastName": [
+            "Zubero"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Basurto University Hospital, Bilbao, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "López-Vélez R"
+          ],
+          "firstName": [
+            "Rogelio"
+          ],
+          "lastName": [
+            "López-Vélez"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Referral Unit for Tropical Diseases, Infectious Diseases Department, Ramón y Cajal University Hospital, IRYCIS, Ctra Colmenar, Km 9,100, 28034, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "collectiveName": [
+            "+REDIVI Study Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Aguilera P"
+          ],
+          "firstName": [
+            "Paloma"
+          ],
+          "lastName": [
+            "Aguilera"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Díaz Menendez M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Díaz Menendez"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Meije Y"
+          ],
+          "firstName": [
+            "Yolanda"
+          ],
+          "lastName": [
+            "Meije"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Martínez-Montauti J"
+          ],
+          "firstName": [
+            "Joaquim"
+          ],
+          "lastName": [
+            "Martínez-Montauti"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanz X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Sanz"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Pacehco Tenza I"
+          ],
+          "firstName": [
+            "Isabel"
+          ],
+          "lastName": [
+            "Pacehco Tenza"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Gonzalez Cuello I"
+          ],
+          "firstName": [
+            "Inmaculada"
+          ],
+          "lastName": [
+            "Gonzalez Cuello"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Martínez López B"
+          ],
+          "firstName": [
+            "Belén"
+          ],
+          "lastName": [
+            "Martínez López"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Masiá M"
+          ],
+          "firstName": [
+            "Mar"
+          ],
+          "lastName": [
+            "Masiá"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Padilla S"
+          ],
+          "firstName": [
+            "Sergio"
+          ],
+          "lastName": [
+            "Padilla"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Romero M"
+          ],
+          "firstName": [
+            "Mónica"
+          ],
+          "lastName": [
+            "Romero"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Ramos Rincón JM"
+          ],
+          "firstName": [
+            "José Manuel"
+          ],
+          "lastName": [
+            "Ramos Rincón"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6501-9867",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Malmierca E"
+          ],
+          "firstName": [
+            "Eduardo"
+          ],
+          "lastName": [
+            "Malmierca"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Suárez-García I"
+          ],
+          "firstName": [
+            "Inés"
+          ],
+          "lastName": [
+            "Suárez-García"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Herrero JM"
+          ],
+          "firstName": [
+            "Juan María"
+          ],
+          "lastName": [
+            "Herrero"
+          ],
+          "initials": [
+            "JM"
+          ]
+        },
+        {
+          "fullName": [
+            "Lizasoain M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Lizasoain"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Rojo P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Rojo"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Matarranz M"
+          ],
+          "firstName": [
+            "Mariano"
+          ],
+          "lastName": [
+            "Matarranz"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Zarco C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Zarco"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Fernández Suárez J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Fernández Suárez"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Boga Ribeiro JA"
+          ],
+          "firstName": [
+            "Jose Antonio"
+          ],
+          "lastName": [
+            "Boga Ribeiro"
+          ],
+          "initials": [
+            "JA"
+          ]
+        },
+        {
+          "fullName": [
+            "Goikoetxea Agirre J"
+          ],
+          "firstName": [
+            "Josune"
+          ],
+          "lastName": [
+            "Goikoetxea Agirre"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Sanmartín López JV"
+          ],
+          "firstName": [
+            "Juan Victor"
+          ],
+          "lastName": [
+            "Sanmartín López"
+          ],
+          "initials": [
+            "JV"
+          ]
+        },
+        {
+          "fullName": [
+            "Velasco Arribas M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Velasco Arribas"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6554-2095",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena Ribas A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Mena Ribas"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Peñaranda Vera M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Peñaranda Vera"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Molina I"
+          ],
+          "firstName": [
+            "Israel"
+          ],
+          "lastName": [
+            "Molina"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Sánchez Montalvá A"
+          ],
+          "firstName": [
+            "Adrián"
+          ],
+          "lastName": [
+            "Sánchez Montalvá"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Dominguez Á"
+          ],
+          "firstName": [
+            "Ángel"
+          ],
+          "lastName": [
+            "Dominguez"
+          ],
+          "initials": [
+            "Á"
+          ]
+        },
+        {
+          "fullName": [
+            "Serre Delcor N"
+          ],
+          "firstName": [
+            "Nuria"
+          ],
+          "lastName": [
+            "Serre Delcor"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Pou Ciruelo D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Pou Ciruelo"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Bocanegra C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Bocanegra"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0546-1354",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9613-7228",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9459-7386",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8735-4124",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6501-9867",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6554-2095",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2603001"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Malaria journal"
+          ],
+          "ISOAbbreviation": [
+            "Malar. J."
+          ],
+          "medlineAbbreviation": [
+            "Malar J"
+          ],
+          "NLMid": [
+            "101139802"
+          ],
+          "ISSN": [
+            "1475-2875"
+          ],
+          "ESSN": [
+            "1475-2875"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "407"
+  ],
+  "abstractText": [
+    "Imported malaria is a frequent diagnosis in travellers and migrants. The objective of this study was to describe the epidemiological and clinical characteristics of patients diagnosed with imported malaria within a Spanish collaborative network registering imported diseases (+REDIVI). In addition, the possible association between malaria and type of case, gender, age or area of exposure was explored.Cases of imported malaria were identified among all cases registered in the +REDIVI database during the period October 2009-October 2016. Demographic, epidemiological and clinical characteristics were analysed.In total, 11,816 cases of imported infectious diseases were registered in +REDIVI's database between October 2009 and October 2016. Immigrants seen for the first time after migration accounted for 60.2% of cases, 21.0% of patients were travellers, and 18.8% were travellers/immigrants visiting friends and relatives (VFRs). There were 850 cases of malaria (850/11,816, 7.2%). Malaria was significantly more frequent in men than in women (56.8% vs 43.2%) and in VFR-immigrants (52.6%) as compared to travellers (21.3%), immigrants (20.7%) and VFR-travellers (5.4%) (p < 0.001). Although this data was not available for most patients with malaria, only a minority (29/217, 13.4%) mentioned correct anti-malarial prophylaxis. Sub-Saharan Africa was found to be the most common region of acquisition of malaria. Most common reason for consultation after travel was a febrile syndrome although an important proportion of immigrants were asymptomatic and presented only for health screening (27.3%). Around 5% of travellers presented with severe malaria. The most prevalent species of Plasmodium diagnosed was Plasmodium falciparum (81.5%). Malaria due to Plasmodium ovale/Plasmodium vivax was frequent among travellers (17%) and nearly 5% of all malaria cases in immigrants were caused by Plasmodium malariae.Malaria was among the five most frequent diagnoses registered in +REDIVI's database. Some significant differences were found in the distribution of malaria according to gender, type of case, species. Among all malaria cases, the most frequent diagnosis was P. falciparum infection in VFR-immigrant men."
+  ],
+  "affiliation": [
+    "National Referral Unit for Tropical Diseases, Infectious Diseases Department, Ramón y Cajal University Hospital, IRYCIS, Ctra Colmenar, Km 9,100, 28034, Madrid, Spain. ffnorman@gmail.com."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Malaria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antimalarials"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Travel"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Emigrants and Immigrants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communicable Diseases, Imported"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antimalarials"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12936-017-2057-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5635489"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5635489?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12936-017-2057-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-05-14"
+  ],
+  "dateOfCreation": [
+    "2017-10-12"
+  ],
+  "firstIndexDate": [
+    "2017-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2017-10-24"
+  ],
+  "dateOfRevision": [
+    "2018-07-20"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-10"
+  ],
+  "firstPublicationDate": [
+    "2017-10-10"
+  ]
+}

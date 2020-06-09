@@ -1,0 +1,544 @@
+{
+  "id": [
+    "32457332"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32457332"
+  ],
+  "pmcid": [
+    "PMC7251091"
+  ],
+  "doi": [
+    "10.1038/s41419-020-2607-9"
+  ],
+  "title": [
+    "Circular RNA circNRIP1 promotes migration and invasion in cervical cancer by sponging miR-629-3p and regulating the PTP4A1/ERK1/2 pathway."
+  ],
+  "authorString": [
+    "Li X, Ma N, Zhang Y, Wei H, Zhang H, Pang X, Li X, Wu D, Wang D, Yang Z, Zhang S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xinhui"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma N"
+          ],
+          "firstName": [
+            "Ningye"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei H"
+          ],
+          "firstName": [
+            "Heng"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Huijie"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pang X"
+          ],
+          "firstName": [
+            "Xiaoao"
+          ],
+          "lastName": [
+            "Pang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dian"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Z"
+          ],
+          "firstName": [
+            "Zhuo"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang S"
+          ],
+          "firstName": [
+            "Shulan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3639-5211",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China. zsl0909@sina.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3639-5211",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2949308"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell death & disease"
+          ],
+          "ISOAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "medlineAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "NLMid": [
+            "101524092"
+          ],
+          "ISSN": [
+            "2041-4889"
+          ],
+          "ESSN": [
+            "2041-4889"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "399"
+  ],
+  "abstractText": [
+    "Emerging evidence indicates that circRNAs play essential roles in tumorigenesis and development. However, the role of circRNAs in cervical cancer (CC) remains unclear. CircRNA microarrays performed on the immortal cervical cell line H8 and the cervical cancer cell line SiHa were used to identify a circRNA, termed circNRIP1 (hsa_circ_0004771), which was upregulated in SiHa. QRT-PCR confirmed that circNRIP1 was upregulated in CC tissues, where its expression was correlated with lymphovascular space invasion. Besides, both in vitro and in vivo experiments demonstrated that circNRIP1 promotes cell proliferation, migration, and invasion. Additionally, we found that miR-629-3p induced tumor suppression by regulating PTP4A1 and the ERK1/2 pathway. Finally, we confirmed that circNRIP1 exerts its effect, at least partially, by sponging miR-629-3p and thereby regulating the PTP4A1/ERK1/2 pathway. Therefore, circNRIP1 may be useful as a potential prognostic biomarker and therapeutic target in CC patients."
+  ],
+  "affiliation": [
+    "Department of Obstetrics and Gynecology, Shengjing Hospital of China Medical University, No. 36, Sanhao Street, Shenyang, Liaoning Province, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "20170541003"
+          ],
+          "agency": [
+            "Natural Science Foundation of Liaoning Province (Liaoning Provincial Natural Science Foundation)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2607-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7251091"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7251091?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2607-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-28"
+  ],
+  "firstIndexDate": [
+    "2020-05-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-07"
+  ],
+  "dateOfRevision": [
+    "2020-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-26"
+  ],
+  "firstPublicationDate": [
+    "2020-05-26"
+  ]
+}

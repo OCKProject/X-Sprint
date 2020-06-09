@@ -1,0 +1,391 @@
+{
+  "id": [
+    "32477956"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32477956"
+  ],
+  "pmcid": [
+    "PMC7241280"
+  ],
+  "doi": [
+    "10.3389/fonc.2020.00758"
+  ],
+  "title": [
+    "Pharmacological STING Activation Is a Potential Alternative to Overcome Drug-Resistance in Melanoma."
+  ],
+  "authorString": [
+    "Chipurupalli S, Ganesan R, Dhanabal SP, Kumar MS, Robinson N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chipurupalli S"
+          ],
+          "firstName": [
+            "Sandhya"
+          ],
+          "lastName": [
+            "Chipurupalli"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cellular-Stress and Immune Response Laboratory, Center for Cancer Biology, University of South Australia, Adelaide, SA, Australia.",
+                "Department of Pharmacology, JSS College of Pharmacy, JSS Academy of Higher Education & Research, Ooty, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ganesan R"
+          ],
+          "firstName": [
+            "Raja"
+          ],
+          "lastName": [
+            "Ganesan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cellular-Stress and Immune Response Laboratory, Center for Cancer Biology, University of South Australia, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dhanabal SP"
+          ],
+          "firstName": [
+            "S P"
+          ],
+          "lastName": [
+            "Dhanabal"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "TIFAC CORE in Herbal Drugs, JSS College of Pharmacy, JSS Academy of Higher Education & Research, Ooty, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar MS"
+          ],
+          "firstName": [
+            "M Suresh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "TIFAC CORE in Herbal Drugs, JSS College of Pharmacy, JSS Academy of Higher Education & Research, Ooty, India."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Robinson N"
+          ],
+          "firstName": [
+            "Nirmal"
+          ],
+          "lastName": [
+            "Robinson"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7361-9491",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Cellular-Stress and Immune Response Laboratory, Center for Cancer Biology, University of South Australia, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7361-9491",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2911881"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "758"
+  ],
+  "abstractText": [
+    "Melanoma is the most aggressive type of skin cancer and resistance to the conventional chemotherapy is the major cause for its poor prognosis. Metabolic perturbations leading to increased production of reactive oxygen species activate NRF2-dependent anti-oxidative responses to survive oxidative stress. This protective function of NRF2 is the primary cause for therapy resistance in cancer as anti-cancer agents such as BRAF inhibitors also induce NRF2-dependent antioxidative response. We had reported that type I interferons produced upon activation of STING, abrogates NRF2 function. Therefore, we investigated if STING agonists such as the newly developed dimeric aminobenzimidazole (diABZI) could sensitize melanoma cells to the clinically used BRAF inhibitors. Our results reveal that pharmacological activation of STING by diABZI, down regulates NRF2-dependent anti-oxidative responses and potentiates cell-death in melanoma cells when used in combination with BRAF inhibitors."
+  ],
+  "affiliation": [
+    "Cellular-Stress and Immune Response Laboratory, Center for Cancer Biology, University of South Australia, Adelaide, SA, Australia."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Melanoma",
+        "NRF2",
+        "Braf",
+        "Vemurafenib",
+        "Dabrafenib",
+        "Sting",
+        "Diabzi"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00758"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7241280"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7241280?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00758"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-02"
+  ],
+  "firstIndexDate": [
+    "2020-06-02"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-31"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-14"
+  ],
+  "firstPublicationDate": [
+    "2020-05-14"
+  ]
+}

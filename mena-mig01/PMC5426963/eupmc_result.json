@@ -1,0 +1,867 @@
+{
+  "id": [
+    "27893712"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27893712"
+  ],
+  "pmcid": [
+    "PMC5426963"
+  ],
+  "doi": [
+    "10.1038/onc.2016.421"
+  ],
+  "title": [
+    "Blood vessel endothelium-directed tumor cell streaming in breast tumors requires the HGF/C-Met signaling pathway."
+  ],
+  "authorString": [
+    "Leung E, Xue A, Wang Y, Rougerie P, Sharma VP, Eddy R, Cox D, Condeelis J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Leung E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Leung"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xue A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Y"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+                "Integrated Imaging Program, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rougerie P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Rougerie"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma VP"
+          ],
+          "firstName": [
+            "V P"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "VP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+                "Gruss Lipper Biophotonics Center, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Eddy R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Eddy"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cox D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Cox"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0591-9767",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+                "Gruss Lipper Biophotonics Center, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Condeelis J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Condeelis"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA.",
+                "Integrated Imaging Program, Albert Einstein College of Medicine, Bronx, NY, USA.",
+                "Gruss Lipper Biophotonics Center, Albert Einstein College of Medicine, Bronx, NY, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0591-9767",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "36"
+      ],
+      "journalIssueId": [
+        "2556291"
+      ],
+      "dateOfPublication": [
+        "2017 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncogene"
+          ],
+          "ISOAbbreviation": [
+            "Oncogene"
+          ],
+          "medlineAbbreviation": [
+            "Oncogene"
+          ],
+          "NLMid": [
+            "8711562"
+          ],
+          "ISSN": [
+            "0950-9232"
+          ],
+          "ESSN": [
+            "1476-5594"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2680-2692"
+  ],
+  "abstractText": [
+    "During metastasis to distant sites, tumor cells migrate to blood vessels. In vivo, breast tumor cells utilize a specialized mode of migration known as streaming, where a linear assembly of tumor cells migrate directionally towards blood vessels on fibronectin-collagen I-containing extracellular matrix (ECM) fibers in response to chemotactic signals. We have successfully reconstructed tumor cell streaming in vitro by co-plating tumors cells, macrophages and endothelial cells on 2.5 μm thick ECM-coated micro-patterned substrates. We found that tumor cells and macrophages, when plated together on the micro-patterned substrates, do not demonstrate sustained directional migration in only one direction (sustained directionality) but show random bi-directional walking. Sustained directionality of tumor cells as seen in vivo was established in vitro when beads coated with human umbilical vein endothelial cells were placed at one end of the micro-patterned 'ECM fibers' within the assay. We demonstrated that these endothelial cells supply the hepatocyte growth factor (HGF) required for the chemotactic gradient responsible for sustained directionality. Using this in vitro reconstituted streaming system, we found that directional streaming is dependent on, and most effectively blocked, by inhibiting the HGF/C-Met signaling pathway between endothelial cells and tumor cells. Key observations made with the in vitro reconstituted system implicating C-Met signaling were confirmed in vivo in mammary tumors using the in vivo invasion assay and intravital multiphoton imaging of tumor cell streaming. These results establish HGF/C-Met as a central organizing signal in blood vessel-directed tumor cell migration in vivo and highlight a promising role for C-Met inhibitors in blocking tumor cell streaming and metastasis in vivo, and for use in human trials."
+  ],
+  "affiliation": [
+    "Department of Anatomy and Structural Biology, Albert Einstein College of Medicine, Bronx, NY, USA."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P01 CA100324"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA150344"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blood Vessels"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endothelium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Extracellular Matrix"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Macrophages"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endothelial Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hepatocyte Growth Factor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins c-met"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "HGF protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Hepatocyte Growth Factor"
+          ],
+          "registryNumber": [
+            "67256-21-7"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins c-met"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/onc.2016.421"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5426963"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5426963?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/onc.2016.421"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS820864"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-07"
+  ],
+  "dateOfCreation": [
+    "2016-11-29"
+  ],
+  "firstIndexDate": [
+    "2016-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2017-05-29"
+  ],
+  "dateOfRevision": [
+    "2020-04-03"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-28"
+  ],
+  "firstPublicationDate": [
+    "2016-11-28"
+  ]
+}

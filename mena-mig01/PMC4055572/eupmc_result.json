@@ -1,0 +1,644 @@
+{
+  "id": [
+    "24921250"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24921250"
+  ],
+  "pmcid": [
+    "PMC4055572"
+  ],
+  "doi": [
+    "10.1371/journal.pgen.1004393"
+  ],
+  "title": [
+    "Early back-to-Africa migration into the Horn of Africa."
+  ],
+  "authorString": [
+    "Hodgson JA, Mulligan CJ, Al-Meeri A, Raaum RL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hodgson JA"
+          ],
+          "firstName": [
+            "Jason A"
+          ],
+          "lastName": [
+            "Hodgson"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3849-2245",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Life Sciences, Silwood Park Campus, Imperial College London, Ascot, Berkshire, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mulligan CJ"
+          ],
+          "firstName": [
+            "Connie J"
+          ],
+          "lastName": [
+            "Mulligan"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anthropology and the Genetics Institute, University of Florida, Gainesville, Florida, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Meeri A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Al-Meeri"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biochemistry and Molecular Biology, Sana'a University, Sana'a, Yemen."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Raaum RL"
+          ],
+          "firstName": [
+            "Ryan L"
+          ],
+          "lastName": [
+            "Raaum"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4723-5475",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anthropology, Lehman College and The Graduate Center, The City University of New York, Bronx, New York, New York, United States of America; The New York Consortium in Evolutionary Primatology (NYCEP), New York, New York, United States of America."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3849-2245",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4723-5475",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "wikipedia",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2165560"
+      ],
+      "dateOfPublication": [
+        "2014 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS genetics"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Genet."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Genet"
+          ],
+          "NLMid": [
+            "101239074"
+          ],
+          "ISSN": [
+            "1553-7390"
+          ],
+          "ESSN": [
+            "1553-7404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e1004393"
+  ],
+  "abstractText": [
+    "Genetic studies have identified substantial non-African admixture in the Horn of Africa (HOA). In the most recent genomic studies, this non-African ancestry has been attributed to admixture with Middle Eastern populations during the last few thousand years. However, mitochondrial and Y chromosome data are suggestive of earlier episodes of admixture. To investigate this further, we generated new genome-wide SNP data for a Yemeni population sample and merged these new data with published genome-wide genetic data from the HOA and a broad selection of surrounding populations. We used multidimensional scaling and ADMIXTURE methods in an exploratory data analysis to develop hypotheses on admixture and population structure in HOA populations. These analyses suggested that there might be distinct, differentiated African and non-African ancestries in the HOA. After partitioning the SNP data into African and non-African origin chromosome segments, we found support for a distinct African (Ethiopic) ancestry and a distinct non-African (Ethio-Somali) ancestry in HOA populations. The African Ethiopic ancestry is tightly restricted to HOA populations and likely represents an autochthonous HOA population. The non-African ancestry in the HOA, which is primarily attributed to a novel Ethio-Somali inferred ancestry component, is significantly differentiated from all neighboring non-African ancestries in North Africa, the Levant, and Arabia. The Ethio-Somali ancestry is found in all admixed HOA ethnic groups, shows little inter-individual variance within these ethnic groups, is estimated to have diverged from all other non-African ancestries by at least 23 ka, and does not carry the unique Arabian lactase persistence allele that arose about 4 ka. Taking into account published mitochondrial, Y chromosome, paleoclimate, and archaeological data, we find that the time of the Ethio-Somali back-to-Africa migration is most likely pre-agricultural."
+  ],
+  "affiliation": [
+    "Department of Life Sciences, Silwood Park Campus, Imperial College London, Ascot, Berkshire, United Kingdom."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lactase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Mitochondrial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetics, Population"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Dynamics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alleles"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Archaeology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "African Continental Ancestry Group"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethnic Groups"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa, Eastern"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Yemen"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Evolution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Human Migration"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Mitochondrial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Lactase"
+          ],
+          "registryNumber": [
+            "EC 3.2.1.108"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24921250/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24921250/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1004393"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4055572"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4055572?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1004393"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "38"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-06-23"
+  ],
+  "dateOfCreation": [
+    "2014-06-13"
+  ],
+  "firstIndexDate": [
+    "2014-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2014-06-20"
+  ],
+  "dateOfRevision": [
+    "2019-02-02"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-12"
+  ],
+  "firstPublicationDate": [
+    "2014-06-12"
+  ]
+}

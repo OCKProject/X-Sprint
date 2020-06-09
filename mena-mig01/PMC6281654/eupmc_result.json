@@ -1,0 +1,562 @@
+{
+  "id": [
+    "30518753"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30518753"
+  ],
+  "pmcid": [
+    "PMC6281654"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07681-1"
+  ],
+  "title": [
+    "Wavepacket insights into the photoprotection mechanism of the UV filter methyl anthranilate."
+  ],
+  "authorString": [
+    "Rodrigues NDN, Cole-Filipiak NC, Blodgett KN, Abeysekera C, Zwier TS, Stavros VG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rodrigues NDN"
+          ],
+          "firstName": [
+            "Natércia D N"
+          ],
+          "lastName": [
+            "Rodrigues"
+          ],
+          "initials": [
+            "NDN"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, University of Warwick, Coventry, CV4 7AL, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cole-Filipiak NC"
+          ],
+          "firstName": [
+            "Neil C"
+          ],
+          "lastName": [
+            "Cole-Filipiak"
+          ],
+          "initials": [
+            "NC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3619-8915",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, University of Warwick, Coventry, CV4 7AL, UK. ncolefi@sandia.gov.",
+                "Combustion Research Facility, Sandia National Laboratories, Mail Stop 9055, Livermore, CA, 94551-0969, USA. ncolefi@sandia.gov."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blodgett KN"
+          ],
+          "firstName": [
+            "Karl N"
+          ],
+          "lastName": [
+            "Blodgett"
+          ],
+          "initials": [
+            "KN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6827-0328",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, Purdue University, West Lafayette, IN, 47907, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abeysekera C"
+          ],
+          "firstName": [
+            "Chamara"
+          ],
+          "lastName": [
+            "Abeysekera"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, Purdue University, West Lafayette, IN, 47907, USA.",
+                "Intel Corporation, Hillsboro, OR, 97124, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zwier TS"
+          ],
+          "firstName": [
+            "Timothy S"
+          ],
+          "lastName": [
+            "Zwier"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, Purdue University, West Lafayette, IN, 47907, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stavros VG"
+          ],
+          "firstName": [
+            "Vasilios G"
+          ],
+          "lastName": [
+            "Stavros"
+          ],
+          "initials": [
+            "VG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, University of Warwick, Coventry, CV4 7AL, UK. v.stavros@warwick.ac.uk."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3619-8915",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6827-0328",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2756345"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5188"
+  ],
+  "abstractText": [
+    "Meradimate is a broad-spectrum ultraviolet absorber used as a chemical filter in commercial sunscreens. Herein, we explore the ultrafast photodynamics occurring in methyl anthranilate (precursor to Meradimate) immediately after photoexcitation with ultraviolet radiation to understand the mechanisms underpinning Meradimate photoprotection. Using time-resolved photoelectron spectroscopy, signal from the first singlet excited state of methyl anthranilate shows an oscillatory behavior, i.e., quantum beats. Our studies reveal a dependence of the observed beating frequencies on photoexcitation wavelength and photoelectron kinetic energy, unveiling the different Franck-Condon overlaps between the vibrational levels of the ground electronic, first electronic excited, and ground cationic states of methyl anthranilate. By evaluating the behavior of these beats with increasing photon energy, we find evidence for intramolecular vibrational energy redistribution on the first electronic excited state. Such energy redistribution hinders efficient relaxation of the electronic excited state, making methyl anthranilate a poor choice for an efficient, efficacious sunscreen chemical filter."
+  ],
+  "affiliation": [
+    "Department of Chemistry, University of Warwick, Coventry, CV4 7AL, UK."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sunscreening Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ultraviolet Rays"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quantum Theory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluorescence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Thermodynamics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photoelectron Spectroscopy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ortho-Aminobenzoates"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Sunscreening Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ortho-Aminobenzoates"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "methyl anthranilate"
+          ],
+          "registryNumber": [
+            "981I0C1E5W"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07681-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6281654"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6281654?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07681-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-05"
+  ],
+  "dateOfCreation": [
+    "2018-12-07"
+  ],
+  "firstIndexDate": [
+    "2018-12-08"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-14"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-05"
+  ],
+  "firstPublicationDate": [
+    "2018-12-05"
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "id": [
+    "26676882"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26676882"
+  ],
+  "pmcid": [
+    "PMC4750781"
+  ],
+  "doi": [
+    "10.3892/or.2015.4486"
+  ],
+  "title": [
+    "Ocoxin® oral solution slows down tumor growth in an experimental model of colorectal cancer metastasis to the liver in Balb/c mice."
+  ],
+  "authorString": [
+    "Márquez J, Mena J, Hernandez-Unzueta I, Benedicto A, Sanz E, Arteta B, Olaso E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Márquez J"
+          ],
+          "firstName": [
+            "Joana"
+          ],
+          "lastName": [
+            "Márquez"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6429-615X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Biology and Histology, School of Medicine and Dentistry, Basque Country University, Leioa, Bizkaia E-48940, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Biology and Histology, School of Medicine and Dentistry, Basque Country University, Leioa, Bizkaia E-48940, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hernandez-Unzueta I"
+          ],
+          "firstName": [
+            "Iera"
+          ],
+          "lastName": [
+            "Hernandez-Unzueta"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Biology and Histology, School of Medicine and Dentistry, Basque Country University, Leioa, Bizkaia E-48940, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Benedicto A"
+          ],
+          "firstName": [
+            "Aitor"
+          ],
+          "lastName": [
+            "Benedicto"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Biology and Histology, School of Medicine and Dentistry, Basque Country University, Leioa, Bizkaia E-48940, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sanz E"
+          ],
+          "firstName": [
+            "Eduardo"
+          ],
+          "lastName": [
+            "Sanz"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Catalysis S.L., 28016 Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Arteta B"
+          ],
+          "firstName": [
+            "Beatriz"
+          ],
+          "lastName": [
+            "Arteta"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3253-3162",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Biology and Histology, School of Medicine and Dentistry, Basque Country University, Leioa, Bizkaia E-48940, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Olaso E"
+          ],
+          "firstName": [
+            "Elvira"
+          ],
+          "lastName": [
+            "Olaso"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular Biology and Histology, School of Medicine and Dentistry, Basque Country University, Leioa, Bizkaia E-48940, Spain."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6429-615X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3253-3162",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2373912"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncology reports"
+          ],
+          "ISOAbbreviation": [
+            "Oncol. Rep."
+          ],
+          "medlineAbbreviation": [
+            "Oncol Rep"
+          ],
+          "NLMid": [
+            "9422756"
+          ],
+          "ISSN": [
+            "1021-335X"
+          ],
+          "ESSN": [
+            "1791-2431"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1265-1272"
+  ],
+  "abstractText": [
+    "Liver metastatic disease is the main cause of death in colorectal cancer (CRC) patients. During metastatic spread of the disease an imbalance in the oxidative stress and inflammation plays a crucial role in tumor progression. In order to improve the efficacy of current therapies, new complementary therapeutic approaches are being analyzed including biologically active compounds with low side effects. The anti-inflammatory and anti-oxidant properties of Ocoxin® oral solution (OOS) prompt us to analyze its effect on the metastatic development of CRC to the liver. First, in vitro effect of OOS in tumor cell viability and migration was analyzed. Second, in vivo effect of different dosage patterns and concentrations in the development of hepatic metastasis was analyzed by intra-splenic inoculation of C26 colon carcinoma cells in Balb/c mice. Third, the expression of alpha smooth muscle actin, caspase-3 and Ki-67 expression was quantified by immunohistochemistry, then gene expression levels of inflammatory factors were measured by quantitative RT-PCR. According to our results, OOS reduced tumor cell viability and migration in vitro. Moreover, in vivo daily administration of OOS from the 7th day after tumor cell inoculation decreased the total area and size of metastatic foci in the liver. Furthermore, cell proliferation and fibroblast recruitment was decreased in tumor foci while a higher number of apoptotic cells were observed. Finally, RNA levels for the inflammatory mediators COX-2, IFNγ, IL1β, IL6 and TNFα were reduced in total liver. In conclusion, OOS reduced the metastatic development of colorectal cancer to the liver by increasing apoptosis, and decreasing tumor cell proliferation and fibroblast recruitment in the tumor foci, as well as the expression of inflammatory mediators in total liver. These results point out OOS as a potential supplement to be applied as complementary therapy for the treatment of liver metastasis from colorectal cancer."
+  ],
+  "affiliation": [
+    "Department of Cellular Biology and Histology, School of Medicine and Dentistry, Basque Country University, Leioa, Bizkaia E-48940, Spain."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred BALB C"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Colorectal Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Liver Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SC"
+                  ],
+                  "qualifierName": [
+                    "secondary"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zinc"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ascorbic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glycyrrhizic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamin B 12"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamin B 6"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ki-67 Antigen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Neoplastic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Caspase 3"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Neoplasm Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ki-67 Antigen"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vitamin B 6"
+          ],
+          "registryNumber": [
+            "8059-24-3"
+          ]
+        },
+        {
+          "name": [
+            "Caspase 3"
+          ],
+          "registryNumber": [
+            "EC 3.4.22.-"
+          ]
+        },
+        {
+          "name": [
+            "Viusid"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glycyrrhizic Acid"
+          ],
+          "registryNumber": [
+            "6FO62043WK"
+          ]
+        },
+        {
+          "name": [
+            "Ascorbic Acid"
+          ],
+          "registryNumber": [
+            "PQ6CK8PD0R"
+          ]
+        },
+        {
+          "name": [
+            "Zinc"
+          ],
+          "registryNumber": [
+            "J41CSQ7QDS"
+          ]
+        },
+        {
+          "name": [
+            "Vitamin B 12"
+          ],
+          "registryNumber": [
+            "P6YC3EG204"
+          ]
+        },
+        {
+          "name": [
+            "Ocoxin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3892/or.2015.4486"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4750781"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4750781?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3892/or.2015.4486"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-28"
+  ],
+  "dateOfCreation": [
+    "2016-02-10"
+  ],
+  "firstIndexDate": [
+    "2015-12-22"
+  ],
+  "fullTextReceivedDate": [
+    "2016-02-23"
+  ],
+  "dateOfRevision": [
+    "2016-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-16"
+  ],
+  "firstPublicationDate": [
+    "2015-12-16"
+  ]
+}

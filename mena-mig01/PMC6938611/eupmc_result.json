@@ -1,0 +1,760 @@
+{
+  "id": [
+    "31892307"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31892307"
+  ],
+  "pmcid": [
+    "PMC6938611"
+  ],
+  "doi": [
+    "10.1186/s12879-019-4735-3"
+  ],
+  "title": [
+    "An update on hepatitis C virus genotype distribution in Jordan: a 12-year retrospective study from a tertiary care teaching hospital in Amman."
+  ],
+  "authorString": [
+    "Sallam M, Batarseh R, Natsheh A, Abbadi J, Al-Fraihat E, Yaseen A, Kaddomi D, Khamees N, Mahafzah A, Şahin GÖ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sallam M"
+          ],
+          "firstName": [
+            "Malik"
+          ],
+          "lastName": [
+            "Sallam"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0165-9670",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Microbiology and Forensic Medicine, School of Medicine, the University of Jordan, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan. malik.sallam@ju.edu.jo.",
+                "Department of Clinical Laboratories and Forensic Medicine, Jordan University Hospital, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan. malik.sallam@ju.edu.jo.",
+                "Department of Translational Medicine, Faculty of Medicine, Lund University, 22100, Malmö, Sweden. malik.sallam@ju.edu.jo."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Batarseh R"
+          ],
+          "firstName": [
+            "Rawan"
+          ],
+          "lastName": [
+            "Batarseh"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Clinical Laboratories and Forensic Medicine, Jordan University Hospital, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Natsheh A"
+          ],
+          "firstName": [
+            "Anas"
+          ],
+          "lastName": [
+            "Natsheh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Microbiology and Forensic Medicine, School of Medicine, the University of Jordan, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan.",
+                "Department of Clinical Laboratories and Forensic Medicine, Jordan University Hospital, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abbadi J"
+          ],
+          "firstName": [
+            "Jumana"
+          ],
+          "lastName": [
+            "Abbadi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Microbiology and Forensic Medicine, School of Medicine, the University of Jordan, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan.",
+                "Department of Clinical Laboratories and Forensic Medicine, Jordan University Hospital, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Fraihat E"
+          ],
+          "firstName": [
+            "Esraa"
+          ],
+          "lastName": [
+            "Al-Fraihat"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Microbiology and Forensic Medicine, School of Medicine, the University of Jordan, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan.",
+                "Department of Clinical Laboratories and Forensic Medicine, Jordan University Hospital, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yaseen A"
+          ],
+          "firstName": [
+            "Alaa'"
+          ],
+          "lastName": [
+            "Yaseen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Microbiology and Forensic Medicine, School of Medicine, the University of Jordan, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kaddomi D"
+          ],
+          "firstName": [
+            "Doaa"
+          ],
+          "lastName": [
+            "Kaddomi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Gastroenterology and Liver Division, Department of Internal Medicine, Jordan University Hospital, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khamees N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Khamees"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Gastroenterology and Liver Division, Department of Internal Medicine, Jordan University Hospital, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mahafzah A"
+          ],
+          "firstName": [
+            "Azmi"
+          ],
+          "lastName": [
+            "Mahafzah"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Microbiology and Forensic Medicine, School of Medicine, the University of Jordan, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan.",
+                "Department of Clinical Laboratories and Forensic Medicine, Jordan University Hospital, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Şahin GÖ"
+          ],
+          "firstName": [
+            "Gülşen Özkaya"
+          ],
+          "lastName": [
+            "Şahin"
+          ],
+          "initials": [
+            "GÖ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Translational Medicine, Faculty of Medicine, Lund University, 22100, Malmö, Sweden.",
+                "Department of Clinical Microbiology, Laboratory Medicine, Skåne University Hospital, 22100, Lund, Sweden."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0165-9670",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2895820"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "BMC Infect. Dis."
+          ],
+          "medlineAbbreviation": [
+            "BMC Infect Dis"
+          ],
+          "NLMid": [
+            "100968551"
+          ],
+          "ISSN": [
+            "1471-2334"
+          ],
+          "ESSN": [
+            "1471-2334"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "BACKGROUND:Nucleic acid hybridization (NAH) of hepatitis C virus (HCV) is a practical and reliable tool for virus genotyping. Genotype assignment is an important factor in the prediction of treatment success in chronic hepatitis C patients. The aim of this study was to determine the genotype distribution among HCV clinical isolates in Jordan between 2007 and 2018. METHODS:Electronic and paper-based clinical data registry records from 2007 to 2018 at the Jordan University Hospital (JUH) were retrospectively examined for individuals with HCV genotype, HCV viral load, and alanine aminotransferase (ALT) testing results. Genotype determination was based on NAH technique using the HCV 5' untranslated region (5' UTR) with 386 requests available from 342 unique individuals. RESULTS:A total of 263 out of 342 unique individuals (76.9%) had genotyping results available for final analysis with 259 individuals each having a single genotyping result. The most common HCV genotypes in the study were: genotype 4 (n = 142, 54.0%), genotype 1 (n = 87, 33.1%), genotype 3 (n = 16, 6.1%), genotype 2 (n = 9, 3.4%), other undetermined genotypes (n = 5, 1.9%) and mixed infections (n = 4, 1.5%). Sub-genotyping results were available for 46 individuals as follows: sub-genotype 4c/d (n = 13, 28.3%), sub-genotype 1a (n = 11, 23.9%), sub-genotype 1b (n = 10, 21.7%), sub-genotype 4a (n = 8, 17.4%), sub-genotype 3a (n = 2, 4.3%), sub-genotypes 2a/c and 4 h (n = 1, 2.2% for both). Individuals infected with genotype 1 showed higher viral load when compared to those infected with genotype 4 (p = 0.048, t-test). Younger HCV-infected individuals (< 52 years) had higher ALT levels compared to older individuals (p = 0.036, t-test). Self-reported risk factors for HCV acquisition included: history of previous surgery, invasive dental procedures, and blood transfusion, delivery at home, circumcision at home and wet cupping therapy (hijama). CONCLUSIONS:High genetic diversity of HCV was found in Jordan, with genotypes 4 and 1 as the most prevalent genotypes co-circulating in the country. Potential impact of virus genotype on disease markers (viral load, ALT) was detected and needs further assessment. The study can be helpful to plan for future prevention and management of HCV infection in Jordan."
+  ],
+  "affiliation": [
+    "Department of Pathology, Microbiology and Forensic Medicine, School of Medicine, the University of Jordan, Queen Rania Al-Abdullah Street-Aljubeiha, /P.O. Box: 13046, Amman, 11942, Jordan. malik.sallam@ju.edu.jo."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hepacivirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hepatitis C, Chronic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alanine Transaminase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Load"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hospitals, Teaching"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Jordan"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tertiary Healthcare"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genotype",
+        "HCV",
+        "Trend",
+        "hepatitis C",
+        "epidemiology",
+        "Jordan"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Alanine Transaminase"
+          ],
+          "registryNumber": [
+            "EC 2.6.1.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12879-019-4735-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6938611"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6938611?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12879-019-4735-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-02-11"
+  ],
+  "dateOfCreation": [
+    "2020-01-02"
+  ],
+  "firstIndexDate": [
+    "2020-01-03"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-08"
+  ],
+  "dateOfRevision": [
+    "2020-02-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-31"
+  ],
+  "firstPublicationDate": [
+    "2019-12-31"
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "id": [
+    "32489325"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32489325"
+  ],
+  "pmcid": [
+    "PMC7247140"
+  ],
+  "doi": [
+    "10.1186/s12935-020-01277-w"
+  ],
+  "title": [
+    "lncRNA FOXD2-AS1 promotes hemangioma progression through the miR-324-3p/PDRG1 pathway."
+  ],
+  "authorString": [
+    "Zhao T, Zhang J, Ye C, Tian L, Li Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao T"
+          ],
+          "firstName": [
+            "Tiancheng"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Endoscopic Center, The Third Hospital of Jilin University, Changchun, 130000 Jilin China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiayu"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastrointestinal Colorectal and Anal Surgery, The Third Hospital of Jilin University, Changchun, 130000 Jilin China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ye C"
+          ],
+          "firstName": [
+            "Cong"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Obstetrics and Gynecology, The Third Hospital of Jilin University, Changchun, 130000 Jilin China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tian L"
+          ],
+          "firstName": [
+            "Leilei"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Operating Room, The Third Hospital of Jilin University, Changchun, 130000 Jilin China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yezhou"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4518-4985",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Vascular Surgery, The Third Hospital of Jilin University, Changchun, 130000 Jilin China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4518-4985",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2898933"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer Cell International"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Cell Int."
+          ],
+          "medlineAbbreviation": [
+            "Cancer Cell Int"
+          ],
+          "NLMid": [
+            "101139795"
+          ],
+          "ISSN": [
+            "1475-2867"
+          ],
+          "ESSN": [
+            "1475-2867"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "189"
+  ],
+  "abstractText": [
+    "Background:Long non-coding RNAs (lncRNAs) FOXD2 adjacent opposite strand RNA 1 (FOXD2-AS1) are reported could function as tumor promoter in several cancers. However, its role in hemangioma was not reported to yet. Methods:Expression level of FOXD2-AS1 in hemangioma tissues and cells was explored using quantitative reverse-time PCR. Cell counting kit-8 (CCK-8) assay, colony formation assay, wound-healing assay, and transwell invasion assay were conducted to measure the roles of FOXD2-AS1. In addition, the levels of markers for proliferation and Epithelial-Mesenchymal Transition were investigated. Connection of FOXD2-AS1 and mcroRNA-324-3p (miR-324-3p) or miR-324-3p and p53 and DNA damage regulated 1 (PDRG1) was analyzed with bioinformatic analysis method and dual-luciferase activity reporter assay. Results:Here, we found that FOXD2-AS1 was highly expressed in proliferating-phase hemangioma tissues compared with the involuting-phase hemangioma tissues. Functionally, FOXD2-AS1 knockdown suppressed cell proliferation, colony formation, migration, and invasion in vitro. Conversely, overexpression of FOXD2-AS1 promoted tumor growth in vitro. Mechanistically, FOXD2-AS1 inversely regulated miR-324-3p abundance in hemangioma cells. We also found FOXD2-AS1 acted as a competing endogenous RNA (ceRNA) by directly sponging miR-324-3p to regulate PDRG1 expression. In addition, the knockdown of PDRG1 reversed the stimulation effects of FOXD2-AS1 overexpression on HA cells. Conclusion:To conclude, our study sheds novel light on the biological roles of FOXD2-AS1 in hemangioma, which may help the development of targeted therapy method for cancer."
+  ],
+  "affiliation": [
+    "Department of Endoscopic Center, The Third Hospital of Jilin University, Changchun, 130000 Jilin China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hemangioma",
+        "Cerna",
+        "Pdrg1",
+        "Mir-324-3p",
+        "Foxd2-as1"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01277-w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7247140"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7247140?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12935-020-01277-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-06-04"
+  ],
+  "firstIndexDate": [
+    "2020-06-04"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-03"
+  ],
+  "dateOfRevision": [
+    "2020-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-24"
+  ],
+  "firstPublicationDate": [
+    "2020-05-24"
+  ]
+}

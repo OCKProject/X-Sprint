@@ -1,0 +1,755 @@
+{
+  "id": [
+    "31994958"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31994958"
+  ],
+  "pmcid": [
+    "PMC7034130"
+  ],
+  "doi": [
+    "10.1080/14756366.2020.1720013"
+  ],
+  "title": [
+    "Selective inhibitors for JNK signalling: a potential targeted therapy in cancer."
+  ],
+  "authorString": [
+    "Wu Q, Wu W, Jacevic V, Franca TCC, Wang X, Kuca K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Q"
+          ],
+          "firstName": [
+            "Qinghua"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Life Science, Yangtze University, Jingzhou, China.",
+                "College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China.",
+                "Department of Chemistry, Faculty of Science, University of Hradec Kralove, Hradec Kralove, Czech Republic."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu W"
+          ],
+          "firstName": [
+            "Wenda"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Veterinary Medicine, Nanjing Agricultural University, Nanjing, China.",
+                "Department of Chemistry, Faculty of Science, University of Hradec Kralove, Hradec Kralove, Czech Republic."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jacevic V"
+          ],
+          "firstName": [
+            "Vesna"
+          ],
+          "lastName": [
+            "Jacevic"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5137-2638",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, Faculty of Science, University of Hradec Kralove, Hradec Kralove, Czech Republic.",
+                "National Poison Control Centre, Military Medical Academy, Belgrade, Serbia.",
+                "Medical Faculty of the Military Medical Academy, University of Defence, Belgrade, Serbia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Franca TCC"
+          ],
+          "firstName": [
+            "Tanos C C"
+          ],
+          "lastName": [
+            "Franca"
+          ],
+          "initials": [
+            "TCC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, Faculty of Science, University of Hradec Kralove, Hradec Kralove, Czech Republic.",
+                "Laboratory of Molecular Modeling Applied to the Chemical and Biological Defense, Military Institute of Engineering, Rio de Janeiro, Brazil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "National Reference Laboratory of Veterinary Drug Residues (HZAU) and MAO Key Laboratory for Detection of Veterinary Drug Residues, Huazhong Agricultural University, Wuhan, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kuca K"
+          ],
+          "firstName": [
+            "Kamil"
+          ],
+          "lastName": [
+            "Kuca"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Chemistry, Faculty of Science, University of Hradec Kralove, Hradec Kralove, Czech Republic."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5137-2638",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2871926"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of enzyme inhibition and medicinal chemistry"
+          ],
+          "ISOAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "medlineAbbreviation": [
+            "J Enzyme Inhib Med Chem"
+          ],
+          "NLMid": [
+            "101150203"
+          ],
+          "ISSN": [
+            "1475-6366"
+          ],
+          "ESSN": [
+            "1475-6374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "574-583"
+  ],
+  "abstractText": [
+    "c-Jun N-terminal kinase (JNK) signalling regulates both cancer cell apoptosis and survival. Emerging evidence show that JNK promoted tumour progression is involved in various cancers, that include human pancreatic-, lung-, and breast cancer. The pro-survival JNK oncoprotein functions in a cell context- and cell type-specific manner to affect signal pathways that modulate tumour initiation, proliferation, and migration. JNK is therefore considered a potential oncogenic target for cancer therapy. Currently, designing effective and specific JNK inhibitors is an active area in the cancer treatment. Some ATP-competitive inhibitors of JNK, such as SP600125 and AS601245, are widely used in vitro; however, this type of inhibitor lacks specificity as they indiscriminately inhibit phosphorylation of all JNK substrates. Moreover, JNK has at least three isoforms with different functions in cancer development and identifying specific selective inhibitors is crucial for the development of targeted therapy in cancer. Some selective inhibitors of JNK are identified; however, their clinical studies in cancer are relatively less conducted. In this review, we first summarised the function of JNK signalling in cancer progression; there is a focus on the discussion of the novel selective JNK inhibitors as potential targeting therapy in cancer. Finally, we have offered a future perspective of the selective JNK inhibitors in the context of cancer therapies. We hope this review will help to further understand the role of JNK in cancer progression and provide insight into the design of novel selective JNK inhibitors in cancer treatment."
+  ],
+  "affiliation": [
+    "College of Life Science, Yangtze University, Jingzhou, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "JNK Mitogen-Activated Protein Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Kinase Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Survival"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Cancer therapy",
+        "tumour",
+        "JNK",
+        "Selective Inhibitors",
+        "Sp60012"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Protein Kinase Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "JNK Mitogen-Activated Protein Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.24"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2020.1720013"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7034130"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7034130?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/14756366.2020.1720013"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-02-05"
+  ],
+  "dateOfCreation": [
+    "2020-01-30"
+  ],
+  "firstIndexDate": [
+    "2020-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-05"
+  ],
+  "dateOfRevision": [
+    "2020-03-04"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

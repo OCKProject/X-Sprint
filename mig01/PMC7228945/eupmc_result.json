@@ -1,0 +1,427 @@
+{
+  "id": [
+    "32415173"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32415173"
+  ],
+  "pmcid": [
+    "PMC7228945"
+  ],
+  "doi": [
+    "10.1038/s41419-020-2587-9"
+  ],
+  "title": [
+    "ROR2 suppresses metastasis of prostate cancer via regulation of miR-199a-5p-PIAS3-AKT2 signaling axis."
+  ],
+  "authorString": [
+    "Tseng JC, Huang SH, Lin CY, Wang BJ, Huang SF, Shen YY, Chuu CP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tseng JC"
+          ],
+          "firstName": [
+            "Jen-Chih"
+          ],
+          "lastName": [
+            "Tseng"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, 35053, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang SH"
+          ],
+          "firstName": [
+            "Shih-Han"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, 35053, Taiwan.",
+                "Department of Life Sciences, National Central University, Taoyuan City, 32001, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin CY"
+          ],
+          "firstName": [
+            "Ching-Yu"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, 35053, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang BJ"
+          ],
+          "firstName": [
+            "Bi-Juan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, 35053, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang SF"
+          ],
+          "firstName": [
+            "Shiu-Feng"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Molecular and Genomic Medicine, National Health Research Institutes, Miaoli County, 35053, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shen YY"
+          ],
+          "firstName": [
+            "Ying-Ying"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "YY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Pathology Core Lab, National Health Research Institutes, Miaoli County, 35053, Taiwan."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chuu CP"
+          ],
+          "firstName": [
+            "Chih-Pin"
+          ],
+          "lastName": [
+            "Chuu"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, 35053, Taiwan. cpchuu@nhri.edu.tw.",
+                "PhD Program for Aging and Graduate Institute of Basic Medical Science, China Medical University, Taichung City, 40402, Taiwan. cpchuu@nhri.edu.tw.",
+                "Biotechnology Center, National Chung Hsing University, Taichung City, 40227, Taiwan. cpchuu@nhri.edu.tw."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2949308"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell death & disease"
+          ],
+          "ISOAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "medlineAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "NLMid": [
+            "101524092"
+          ],
+          "ISSN": [
+            "2041-4889"
+          ],
+          "ESSN": [
+            "2041-4889"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "376"
+  ],
+  "abstractText": [
+    "Bones are the most common metastatic sites for prostate cancer (PCa). Receptor tyrosine kinase-like orphan receptor 2 (ROR2), a noncanonical Wnt receptor, plays crucial roles in skeletal morphogenesis, osteoblast differentiation, and bone formation. The role of ROR2 in PCa metastasis is unclear. We analyzed online datasets from Oncomine as well as using IHC staining on tissue array to determine the relationship between ROR2 expression level and disease outcome of PCa. To investigate how ROR2 regulates migration and invasion of PCa cells, we performed transwell assay and orthotopic xenograft model in nude mice. We then applied the Micro-Western Array (MWA), a high-throughput western blotting platform to analyze the downstream signaling pathways being regulated by ROR2. Compared with nonmalignant PZ-HPV-7 and RWPE-1 cells, PCa cell lines express lower level of ROR2 protein. Constitutive expression of ROR2 in PC-3, DU-145, or C4-2B PCa cells significantly suppressed the cell migration, invasion, and epithelial-mesenchymal transition (EMT) proteins. MWA, western blotting, and microRNA analysis showed that elevation of ROR2 suppressed the expression of miR-199a-5p, which in turn increased the expression of PIAS3. The upregulation of PIAS3 then decreased AKT2 and the phosphorylation of AKT, resulting in the inhibition of migration and invasion of PCa cells both in vitro and in orthotopic xenograft mice model. IHC staining of tissue array and Oncomine datasets analysis indicated that the gene and protein level of ROR2 is much lower in metastatic prostate tumors as compared with primary tumors or adjacent normal prostate tissues. Low level of ROR2 correlated to poor survival and high recurrent frequency in PCa patients. In conclusion, we discovered that ROR2 suppresses PCa metastasis via regulation of PIAS3-PI3K-AKT2 signaling axis."
+  ],
+  "affiliation": [
+    "Institute of Cellular and System Medicine, National Health Research Institutes, Miaoli County, 35053, Taiwan."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2587-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7228945"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7228945?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-020-2587-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-17"
+  ],
+  "firstIndexDate": [
+    "2020-05-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-19"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-15"
+  ],
+  "firstPublicationDate": [
+    "2020-05-15"
+  ]
+}

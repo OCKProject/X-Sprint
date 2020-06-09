@@ -1,0 +1,559 @@
+{
+  "id": [
+    "27992547"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27992547"
+  ],
+  "pmcid": [
+    "PMC5167425"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0168732"
+  ],
+  "title": [
+    "The Impact of Genetic and Non-Genetic Factors on Warfarin Dose Prediction in MENA Region: A Systematic Review."
+  ],
+  "authorString": [
+    "Bader LA, Elewa H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bader LA"
+          ],
+          "firstName": [
+            "Loulia Akram"
+          ],
+          "lastName": [
+            "Bader"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Pharmacy, Qatar University, Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elewa H"
+          ],
+          "firstName": [
+            "Hazem"
+          ],
+          "lastName": [
+            "Elewa"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1594-1199",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Pharmacy, Qatar University, Doha, Qatar."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1594-1199",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2498409"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0168732"
+  ],
+  "abstractText": [
+    "Warfarin is the most commonly used oral anticoagulant for the treatment and prevention of thromboembolic disorders. Pharmacogenomics studies have shown that variants in CYP2C9 and VKORC1 genes are strongly and consistently associated with warfarin dose variability. Although different populations from the Middle East and North Africa (MENA) region may share the same ancestry, it is still unclear how they compare in the genetic and non-genetic factors affecting their warfarin dosing.To explore the prevalence of CYP2C9 and VKORC1 variants in MENA, and the effect of these variants along with other non-genetic factors in predicting warfarin dose.In this systematic review, we included observational cross sectional and cohort studies that enrolled patients on stable warfarin dose and had the genetics and non-genetics factors associated with mean warfarin dose as the primary outcome. We searched PubMed, Medline, Scopus, PharmGKB, PHGKB, Google scholar and reference lists of relevant reviews.We identified 17 studies in eight different populations: Iranian, Israeli, Egyptian, Lebanese, Omani, Kuwaiti, Sudanese and Turkish. Most common genetic variant in all populations was the VKORC1 (-1639G>A), with a minor allele frequency ranging from 30% in Egyptians and up to 52% and 56% in Lebanese and Iranian, respectively. Variants in the CYP2C9 were less common, with the highest MAF for CYP2C9*2 among Iranians (27%). Variants in the VKORC1 and CYP2C9 were the most significant predictors of warfarin dose in all populations. Along with other genetic and non-genetic factors, they explained up to 63% of the dose variability in Omani and Israeli patients.Variants of VKORC1 and CYP2C9 are the strongest predictors of warfarin dose variability among the different populations from MENA. Although many of those populations share the same ancestry and are similar in their warfarin dose predictors, a population specific dosing algorithm is needed for the prospective estimation of warfarin dose."
+  ],
+  "affiliation": [
+    "College of Pharmacy, Qatar University, Doha, Qatar."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Warfarin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PK"
+                  ],
+                  "qualifierName": [
+                    "pharmacokinetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa, Northern"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle East"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vitamin K Epoxide Reductases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytochrome P-450 CYP2C9"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pharmacogenomic Testing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Warfarin"
+          ],
+          "registryNumber": [
+            "5Q7ZVV76EI"
+          ]
+        },
+        {
+          "name": [
+            "CYP2C9 protein, human"
+          ],
+          "registryNumber": [
+            "EC 1.14.13.-"
+          ]
+        },
+        {
+          "name": [
+            "Cytochrome P-450 CYP2C9"
+          ],
+          "registryNumber": [
+            "EC 1.14.13.-"
+          ]
+        },
+        {
+          "name": [
+            "VKORC1 protein, human"
+          ],
+          "registryNumber": [
+            "EC 1.17.4.4"
+          ]
+        },
+        {
+          "name": [
+            "Vitamin K Epoxide Reductases"
+          ],
+          "registryNumber": [
+            "EC 1.17.4.4"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0168732"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5167425"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5167425?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0168732"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-06-30"
+  ],
+  "dateOfCreation": [
+    "2016-12-19"
+  ],
+  "firstIndexDate": [
+    "2016-12-21"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-12"
+  ],
+  "dateOfRevision": [
+    "2017-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-19"
+  ],
+  "firstPublicationDate": [
+    "2016-12-19"
+  ]
+}

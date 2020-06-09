@@ -1,0 +1,1127 @@
+{
+  "id": [
+    "29871889"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29871889"
+  ],
+  "pmcid": [
+    "PMC6028027"
+  ],
+  "doi": [
+    "10.15252/embj.201899016"
+  ],
+  "title": [
+    "miR-200/375 control epithelial plasticity-associated alternative splicing by repressing the RNA-binding protein Quaking."
+  ],
+  "authorString": [
+    "Pillman KA, Phillips CA, Roslan S, Toubia J, Dredge BK, Bert AG, Lumb R, Neumann DP, Li X, Conn SJ, Liu D, Bracken CP, Lawrence DM, Stylianou N, Schreiber AW, Tilley WD, Hollier BG, Khew-Goodall Y, Selth LA, Goodall GJ, Gregory PA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pillman KA"
+          ],
+          "firstName": [
+            "Katherine A"
+          ],
+          "lastName": [
+            "Pillman"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5869-889X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Phillips CA"
+          ],
+          "firstName": [
+            "Caroline A"
+          ],
+          "lastName": [
+            "Phillips"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4471-9768",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roslan S"
+          ],
+          "firstName": [
+            "Suraya"
+          ],
+          "lastName": [
+            "Roslan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Toubia J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Toubia"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dredge BK"
+          ],
+          "firstName": [
+            "B Kate"
+          ],
+          "lastName": [
+            "Dredge"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6103-5165",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bert AG"
+          ],
+          "firstName": [
+            "Andrew G"
+          ],
+          "lastName": [
+            "Bert"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lumb R"
+          ],
+          "firstName": [
+            "Rachael"
+          ],
+          "lastName": [
+            "Lumb"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Neumann DP"
+          ],
+          "firstName": [
+            "Daniel P"
+          ],
+          "lastName": [
+            "Neumann"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiaochun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Conn SJ"
+          ],
+          "firstName": [
+            "Simon J"
+          ],
+          "lastName": [
+            "Conn"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1376-4515",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia.",
+                "Flinders Centre for Innovation in Cancer, College of Medicine & Public Health, Flinders University, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu D"
+          ],
+          "firstName": [
+            "Dawei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bracken CP"
+          ],
+          "firstName": [
+            "Cameron P"
+          ],
+          "lastName": [
+            "Bracken"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia.",
+                "Discipline of Medicine, The University of Adelaide, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lawrence DM"
+          ],
+          "firstName": [
+            "David M"
+          ],
+          "lastName": [
+            "Lawrence"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stylianou N"
+          ],
+          "firstName": [
+            "Nataly"
+          ],
+          "lastName": [
+            "Stylianou"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Health and Biomedical Innovation, Australian Prostate Cancer Research Centre - Queensland, Princess Alexandra Hospital, Queensland University of Technology, Brisbane, Qld, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schreiber AW"
+          ],
+          "firstName": [
+            "Andreas W"
+          ],
+          "lastName": [
+            "Schreiber"
+          ],
+          "initials": [
+            "AW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9081-3405",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tilley WD"
+          ],
+          "firstName": [
+            "Wayne D"
+          ],
+          "lastName": [
+            "Tilley"
+          ],
+          "initials": [
+            "WD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1893-2626",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Dame Roma Mitchell Cancer Research Laboratories, Adelaide Medical School, University of Adelaide, Adelaide, SA, Australia.",
+                "Freemasons Foundation Centre for Men's Health, Adelaide Medical School, University of Adelaide, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hollier BG"
+          ],
+          "firstName": [
+            "Brett G"
+          ],
+          "lastName": [
+            "Hollier"
+          ],
+          "initials": [
+            "BG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute of Health and Biomedical Innovation, Australian Prostate Cancer Research Centre - Queensland, Princess Alexandra Hospital, Queensland University of Technology, Brisbane, Qld, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Khew-Goodall Y"
+          ],
+          "firstName": [
+            "Yeesim"
+          ],
+          "lastName": [
+            "Khew-Goodall"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0473-5392",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia.",
+                "Discipline of Medicine, The University of Adelaide, Adelaide, SA, Australia.",
+                "School of Molecular and Biomedical Science, The University of Adelaide, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Selth LA"
+          ],
+          "firstName": [
+            "Luke A"
+          ],
+          "lastName": [
+            "Selth"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4686-1418",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Dame Roma Mitchell Cancer Research Laboratories, Adelaide Medical School, University of Adelaide, Adelaide, SA, Australia.",
+                "Freemasons Foundation Centre for Men's Health, Adelaide Medical School, University of Adelaide, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Goodall GJ"
+          ],
+          "firstName": [
+            "Gregory J"
+          ],
+          "lastName": [
+            "Goodall"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1294-0692",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia greg.goodall@unisa.edu.au philip.gregory@unisa.edu.au.",
+                "Discipline of Medicine, The University of Adelaide, Adelaide, SA, Australia.",
+                "School of Molecular and Biomedical Science, The University of Adelaide, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gregory PA"
+          ],
+          "firstName": [
+            "Philip A"
+          ],
+          "lastName": [
+            "Gregory"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0999-0632",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia greg.goodall@unisa.edu.au philip.gregory@unisa.edu.au.",
+                "Discipline of Medicine, The University of Adelaide, Adelaide, SA, Australia."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5869-889X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4471-9768",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6103-5165",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1376-4515",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9081-3405",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1893-2626",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0473-5392",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4686-1418",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1294-0692",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0999-0632",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "37"
+      ],
+      "journalIssueId": [
+        "2701809"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The EMBO journal"
+          ],
+          "ISOAbbreviation": [
+            "EMBO J."
+          ],
+          "medlineAbbreviation": [
+            "EMBO J"
+          ],
+          "NLMid": [
+            "8208664"
+          ],
+          "ISSN": [
+            "0261-4189"
+          ],
+          "ESSN": [
+            "1460-2075"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Members of the miR-200 family are critical gatekeepers of the epithelial state, restraining expression of pro-mesenchymal genes that drive epithelial-mesenchymal transition (EMT) and contribute to metastatic cancer progression. Here, we show that miR-200c and another epithelial-enriched miRNA, miR-375, exert widespread control of alternative splicing in cancer cells by suppressing the RNA-binding protein Quaking (QKI). During EMT, QKI-5 directly binds to and regulates hundreds of alternative splicing targets and exerts pleiotropic effects, such as increasing cell migration and invasion and restraining tumour growth, without appreciably affecting mRNA levels. QKI-5 is both necessary and sufficient to direct EMT-associated alternative splicing changes, and this splicing signature is broadly conserved across many epithelial-derived cancer types. Importantly, several actin cytoskeleton-associated genes are directly targeted by both QKI and miR-200c, revealing coordinated control of alternative splicing and mRNA abundance during EMT These findings demonstrate the existence of a miR-200/miR-375/QKI axis that impacts cancer-associated epithelial cell plasticity through widespread control of alternative splicing."
+  ],
+  "affiliation": [
+    "Centre for Cancer Biology, University of South Australia and SA Pathology, Adelaide, SA, Australia."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dogs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, SCID"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alternative Splicing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epithelial-Mesenchymal Transition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Madin Darby Canine Kidney Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Plasticity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alternative splicing",
+        "Epithelial–mesenchymal Transition",
+        "Mir‐200",
+        "Quaking",
+        "Mir‐375"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "QKI protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA-Binding Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MIRN375 microRNA, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MIRN200 microRNA, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15252/embj.201899016"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6028027"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6028027?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15252/embj.201899016"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-03-05"
+  ],
+  "dateOfCreation": [
+    "2018-06-07"
+  ],
+  "firstIndexDate": [
+    "2018-06-07"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-11"
+  ],
+  "dateOfRevision": [
+    "2019-03-05"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-05"
+  ],
+  "firstPublicationDate": [
+    "2018-06-05"
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "id": [
+    "32274960"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32274960"
+  ],
+  "pmcid": [
+    "PMC7153790"
+  ],
+  "doi": [
+    "10.1080/19336950.2020.1747803"
+  ],
+  "title": [
+    "The role of TRPV1 channels in atherosclerosis."
+  ],
+  "authorString": [
+    "Zhang C, Ye L, Zhang Q, Wu F, Wang L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang C"
+          ],
+          "firstName": [
+            "Chenyang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8110-5047",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine, Qingdao University, Qingdao, China.",
+                "Zhejiang Provincial People's Hospital, Qingdao University, Hangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ye L"
+          ],
+          "firstName": [
+            "Lifang"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Zhejiang Provincial People's Hospital, Qingdao University, Hangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Q"
+          ],
+          "firstName": [
+            "Qinggang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Zhejiang Provincial People's Hospital, Qingdao University, Hangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Zhejiang Provincial People's Hospital, Qingdao University, Hangzhou, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lihong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Zhejiang Provincial People's Hospital, Qingdao University, Hangzhou, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8110-5047",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2893050"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Channels (Austin, Tex.)"
+          ],
+          "ISOAbbreviation": [
+            "Channels (Austin)"
+          ],
+          "medlineAbbreviation": [
+            "Channels (Austin)"
+          ],
+          "NLMid": [
+            "101321614"
+          ],
+          "ISSN": [
+            "1933-6950"
+          ],
+          "ESSN": [
+            "1933-6969"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "141-150"
+  ],
+  "abstractText": [
+    "Transient receptor potential vanilloid subfamily member 1 (TRPV1) is a nonselective cation channel, that is mainly distributed in sensory nerve endings and can release a variety of neurotransmitters after activation. Early studies showed that it mainly conducts pain sensation, but research has demonstrated that it also plays an important role in cardiovascular diseases. Notably, in atherosclerosis, the activation of TRPV1 can regulate lipid metabolism, reduce foam cell formation, protect endothelial cells, inhibit smooth muscle cell proliferation and inhibit inflammation and oxidation. In this review, the role of the TRPV1 channel in atherosclerosis was discussed to provide new ideas for the prevention and treatment of atherosclerotic diseases."
+  ],
+  "affiliation": [
+    "Department of Medicine, Qingdao University, Qingdao, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neuropeptides",
+        "Atherosclerosis",
+        "Cardiovascular diseases",
+        "Calcitonin Gene-related Peptide (Cgrp)",
+        "Transient Receptor Potential Vanilloid Subfamily Member 1 (Trpv1)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336950.2020.1747803"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7153790"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7153790?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19336950.2020.1747803"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-11"
+  ],
+  "firstIndexDate": [
+    "2020-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-22"
+  ],
+  "dateOfRevision": [
+    "2020-04-21"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": [
+    "31822478"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31822478"
+  ],
+  "pmcid": [
+    "PMC6955209"
+  ],
+  "doi": [
+    "10.1242/dev.168799"
+  ],
+  "title": [
+    "A biphasic role of non-canonical Wnt16 signaling during early anterior-posterior patterning and morphogenesis of the sea urchin embryo."
+  ],
+  "authorString": [
+    "Martínez-Bartolomé M, Range RC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martínez-Bartolomé M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Martínez-Bartolomé"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1140-943X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biological Sciences, Auburn University, Auburn, AL 36849, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Range RC"
+          ],
+          "firstName": [
+            "Ryan C"
+          ],
+          "lastName": [
+            "Range"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6619-3453",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biological Sciences, Auburn University, Auburn, AL 36849, USA range@auburn.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1140-943X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6619-3453",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "24"
+      ],
+      "volume": [
+        "146"
+      ],
+      "journalIssueId": [
+        "2892346"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Development (Cambridge, England)"
+          ],
+          "ISOAbbreviation": [
+            "Development"
+          ],
+          "medlineAbbreviation": [
+            "Development"
+          ],
+          "NLMid": [
+            "8701744"
+          ],
+          "ISSN": [
+            "0950-1991"
+          ],
+          "ESSN": [
+            "1477-9129"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "A Wnt signaling network governs early anterior-posterior (AP) specification and patterning of the deuterostome sea urchin embryo. We have previously shown that non-canonical Fzl1/2/7 signaling antagonizes the progressive posterior-to-anterior downregulation of the anterior neuroectoderm (ANE) gene regulatory network (GRN) by canonical Wnt/β-catenin and non-canonical Wnt1/Wnt8-Fzl5/8-JNK signaling. This study focuses on the non-canonical function of the Wnt16 ligand during early AP specification and patterning. Maternally supplied wnt16 is expressed ubiquitously during cleavage and zygotic wnt16 expression is concentrated in the endoderm/mesoderm beginning at mid-blastula stage. Wnt16 antagonizes the ANE restriction mechanism and this activity depends on a functional Fzl1/2/7 receptor. Our results also show that zygotic wnt16 expression depends on both Fzl5/8 and Wnt/β-catenin signaling. Furthermore, Wnt16 is necessary for the activation and/or maintenance of key regulatory endoderm/mesoderm genes and is essential for gastrulation. Together, our data show that Wnt16 has two functions during early AP specification and patterning: (1) an initial role activating the Fzl1/2/7 pathway that antagonizes the ANE restriction mechanism; and (2) a subsequent function in activating key endoderm GRN factors and the morphogenetic movements of gastrulation."
+  ],
+  "affiliation": [
+    "Department of Biological Sciences, Auburn University, Auburn, AL 36849, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Frizzled",
+        "Gene Regulatory Networks",
+        "Anterior-posterior",
+        "Wnt16",
+        "Wnt Signal Transduction",
+        "Deuterostome Evolution"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1242/dev.168799"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6955209"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1242/dev.168799"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-12"
+  ],
+  "firstIndexDate": [
+    "2019-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2020-01-16"
+  ],
+  "dateOfRevision": [
+    "2020-01-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-16"
+  ],
+  "firstPublicationDate": [
+    "2019-12-16"
+  ]
+}

@@ -1,0 +1,990 @@
+{
+  "id": [
+    "31356645"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31356645"
+  ],
+  "pmcid": [
+    "PMC6663006"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0219353"
+  ],
+  "title": [
+    "Circulating CASK is associated with recurrent focal segmental glomerulosclerosis after transplantation."
+  ],
+  "authorString": [
+    "Beaudreuil S, Zhang X, Herr F, Harper F, Candelier JJ, Fan Y, Yeter H, Dudreuilh C, Lecru L, Vazquez A, Charpentier B, Lorenzo HK, Durrbach A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Beaudreuil S"
+          ],
+          "firstName": [
+            "Severine"
+          ],
+          "lastName": [
+            "Beaudreuil"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "IFRNT, Department of Nephrology, Bicêtre Hospital, University of Paris-Sud, Le Kremlin-Bicêtre, France.",
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiaomeng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Herr F"
+          ],
+          "firstName": [
+            "Florence"
+          ],
+          "lastName": [
+            "Herr"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Harper F"
+          ],
+          "firstName": [
+            "Francis"
+          ],
+          "lastName": [
+            "Harper"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "CNRS, UMR 8122, Institut Gustave Roussy, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Candelier JJ"
+          ],
+          "firstName": [
+            "Jean Jacques"
+          ],
+          "lastName": [
+            "Candelier"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fan Y"
+          ],
+          "firstName": [
+            "Ye"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yeter H"
+          ],
+          "firstName": [
+            "Hilal"
+          ],
+          "lastName": [
+            "Yeter"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dudreuilh C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Dudreuilh"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4975-6872",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "IFRNT, Department of Nephrology, Bicêtre Hospital, University of Paris-Sud, Le Kremlin-Bicêtre, France.",
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lecru L"
+          ],
+          "firstName": [
+            "Lola"
+          ],
+          "lastName": [
+            "Lecru"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vazquez A"
+          ],
+          "firstName": [
+            "Aime"
+          ],
+          "lastName": [
+            "Vazquez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Charpentier B"
+          ],
+          "firstName": [
+            "Bernard"
+          ],
+          "lastName": [
+            "Charpentier"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "IFRNT, Department of Nephrology, Bicêtre Hospital, University of Paris-Sud, Le Kremlin-Bicêtre, France.",
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lorenzo HK"
+          ],
+          "firstName": [
+            "Hans K"
+          ],
+          "lastName": [
+            "Lorenzo"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7921-177X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "IFRNT, Department of Nephrology, Bicêtre Hospital, University of Paris-Sud, Le Kremlin-Bicêtre, France.",
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Durrbach A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "Durrbach"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0385-8726",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "IFRNT, Department of Nephrology, Bicêtre Hospital, University of Paris-Sud, Le Kremlin-Bicêtre, France.",
+                "INSERM U1197, Villejuif, France."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4975-6872",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7921-177X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0385-8726",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "full_text",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2839758"
+      ],
+      "dateOfPublication": [
+        "2019"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0219353"
+  ],
+  "abstractText": [
+    "INTRODUCTION:Focal and Segmental GlomeruloSclerosis (FSGS) can cause nephrotic syndrome with a risk of progression to end-stage renal disease. The idiopathic form has a high rate of recurrence after transplantation, suggesting the presence of a systemic circulating factor that causes glomerular permeability and can be removed by plasmapheresis or protein-A immunoadsorption. RESULTS:To identify this circulating factor, the eluate proteins bound on therapeutic immunoadsorption with protein-A columns were analyzed by comparative electrophoresis and mass spectrometry. A soluble form of calcium/calmodulin-dependent serine protein kinase (CASK) was identified. CASK was immunoprecipitated only in the sera of patients with recurrent FSGS after transplantation and not in control patients. Recombinant-CASK (rCASK) induced the reorganization of the actin cytoskeleton in immortalized podocytes, a redistribution of synaptopodin, ZO-1,vinculin and ENA. rCASK also induced alterations in the permeability of a monolayer of podocytes and increased the motility of pdodocytes in vitro. The extracellular domain of CD98, a transmembrane receptor expressed on renal epithelial cells, has been found to co-immunoprecipitated with rCASK. The invalidation of CD98 with siRNA avoided the structural changes of rCask treated cells suggesting its involvement in physiopathology of the disease. In mice, recombinant CASK induced proteinuria and foot process effacement in podocytes. CONCLUSION:Our results suggest that CASK can induce the recurrence of FSGS after renal transplantation."
+  ],
+  "affiliation": [
+    "IFRNT, Department of Nephrology, Bicêtre Hospital, University of Paris-Sud, Le Kremlin-Bicêtre, France."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kidney Glomerulus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Membranes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cells, Cultured"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytoskeleton"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteinuria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recurrence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Kidney Transplantation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Podocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "UL"
+                  ],
+                  "qualifierName": [
+                    "ultrastructure"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glomerulosclerosis, Focal Segmental"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Guanylate Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fusion Regulatory Protein-1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Guanylate Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.4.8"
+          ]
+        },
+        {
+          "name": [
+            "CASK kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.1"
+          ]
+        },
+        {
+          "name": [
+            "Fusion Regulatory Protein-1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0219353"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6663006"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6663006?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0219353"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-02-25"
+  ],
+  "dateOfCreation": [
+    "2019-07-30"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-09"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-29"
+  ],
+  "firstPublicationDate": [
+    "2019-07-29"
+  ]
+}

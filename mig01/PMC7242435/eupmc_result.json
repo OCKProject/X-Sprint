@@ -1,0 +1,642 @@
+{
+  "id": [
+    "32439922"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32439922"
+  ],
+  "pmcid": [
+    "PMC7242435"
+  ],
+  "doi": [
+    "10.1038/s41597-020-0474-y"
+  ],
+  "title": [
+    "High-throughput screening platform for solid electrolytes combining hierarchical ion-transport prediction algorithms."
+  ],
+  "authorString": [
+    "He B, Chi S, Ye A, Mi P, Zhang L, Pu B, Zou Z, Ran Y, Zhao Q, Wang D, Zhang W, Zhao J, Adams S, Avdeev M, Shi S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "He B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6796-941X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Computer Engineering and Science, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chi S"
+          ],
+          "firstName": [
+            "Shuting"
+          ],
+          "lastName": [
+            "Chi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Computer Engineering and Science, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ye A"
+          ],
+          "firstName": [
+            "Anjiang"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Computer Engineering and Science, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mi P"
+          ],
+          "firstName": [
+            "Penghui"
+          ],
+          "lastName": [
+            "Mi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Computer Engineering and Science, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liwen"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Advanced Special Steel, School of Materials Science and Engineering, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pu B"
+          ],
+          "firstName": [
+            "Bowei"
+          ],
+          "lastName": [
+            "Pu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Advanced Special Steel, School of Materials Science and Engineering, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zou Z"
+          ],
+          "firstName": [
+            "Zheyi"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Advanced Special Steel, School of Materials Science and Engineering, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ran Y"
+          ],
+          "firstName": [
+            "Yunbing"
+          ],
+          "lastName": [
+            "Ran"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Advanced Special Steel, School of Materials Science and Engineering, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Q"
+          ],
+          "firstName": [
+            "Qian"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Materials Genome Institute, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Da"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Advanced Special Steel, School of Materials Science and Engineering, Shanghai University, Shanghai, 200444, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wenqing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physics and Shenzhen Institute for Quantum Science and Technology, Southern University of Science and Technology, Shenzhen, Guangdong, 518055, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao J"
+          ],
+          "firstName": [
+            "Jingtai"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Materials Science and Engineering, Guilin University of Electronic Technology, Guilin, 541004, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Adams S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Adams"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0710-135X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Materials Science and Engineering, National University of Singapore, Singapore, 117579, Singapore."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Avdeev M"
+          ],
+          "firstName": [
+            "Maxim"
+          ],
+          "lastName": [
+            "Avdeev"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Australian Nuclear Science and Technology Organisation, Locked Bag 2001, Kirrawee DC, NSW, 2232, Australia.",
+                "School of Chemistry, The University of Sydney, Sydney, 2006, Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi S"
+          ],
+          "firstName": [
+            "Siqi"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8988-9763",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Advanced Special Steel, School of Materials Science and Engineering, Shanghai University, Shanghai, 200444, China. sqshi@shu.edu.cn.",
+                "Materials Genome Institute, Shanghai University, Shanghai, 200444, China. sqshi@shu.edu.cn."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6796-941X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0710-135X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8988-9763",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2949317"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific data"
+          ],
+          "ISOAbbreviation": [
+            "Sci Data"
+          ],
+          "medlineAbbreviation": [
+            "Sci Data"
+          ],
+          "NLMid": [
+            "101640192"
+          ],
+          "ISSN": [
+            "2052-4463"
+          ],
+          "ESSN": [
+            "2052-4463"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "151"
+  ],
+  "abstractText": [
+    "The combination of a materials database with high-throughput ion-transport calculations is an effective approach to screen for promising solid electrolytes. However, automating the complicated preprocessing involved in currently widely used ion-transport characterization algorithms, such as the first-principles nudged elastic band (FP-NEB) method, remains challenging. Here, we report on high-throughput screening platform for solid electrolytes (SPSE) that integrates a materials database with hierarchical ion-transport calculations realized by implementing empirical algorithms to assist in FP-NEB completing automatic calculation. We first preliminarily screen candidates and determine the approximate ion-transport paths using empirical both geometric analysis and the bond valence site energy method. A chain of images are then automatically generated along these paths for accurate FP-NEB calculation. In addition, an open web interface is actualized to enable access to the SPSE database, thereby facilitating machine learning. This interactive platform provides a workflow toward high-throughput screening for future discovery and design of promising solid electrolytes and the SPSE database is based on the FAIR principles for the benefit of the broad research community."
+  ],
+  "affiliation": [
+    "School of Computer Engineering and Science, Shanghai University, Shanghai, 200444, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41597-020-0474-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7242435"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7242435?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41597-020-0474-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-23"
+  ],
+  "firstIndexDate": [
+    "2020-05-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-07"
+  ],
+  "dateOfRevision": [
+    "2020-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-21"
+  ],
+  "firstPublicationDate": [
+    "2020-05-21"
+  ]
+}

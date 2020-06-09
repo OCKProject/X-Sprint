@@ -1,0 +1,1179 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5710388</article-id><article-id pub-id-type="doi">10.12688/f1000research.11900.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject><subj-group><subject>Cell Growth &#x00026; Division</subject></subj-group><subj-group><subject>Cell Signaling</subject></subj-group><subj-group><subject>Membranes &#x00026; Sorting</subject></subj-group></subj-group></article-categories><title-group><article-title>Golgi structure formation, function, and post-translational modifications in mammalian cells</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 5 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Shijiao</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Yanzhuang</given-names></name><role content-type="http://credit.casrai.org/">Conceptualization</role><role content-type="http://credit.casrai.org/">Data Curation</role><role content-type="http://credit.casrai.org/">Formal Analysis</role><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Investigation</role><role content-type="http://credit.casrai.org/">Methodology</role><role content-type="http://credit.casrai.org/">Project Administration</role><role content-type="http://credit.casrai.org/">Resources</role><role content-type="http://credit.casrai.org/">Supervision</role><role content-type="http://credit.casrai.org/">Validation</role><role content-type="http://credit.casrai.org/">Visualization</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1864-7094</contrib-id><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref></contrib><aff id="a1">
+<label>1</label>Department of Molecular, Cellular and Developmental Biology, University of Michigan, Ann Arbor, MI, USA</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:yzwang@umich.edu">yzwang@umich.edu</email></corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>27</day><month>11</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>6</volume><elocation-id>2050</elocation-id><history><date date-type="accepted"><day>20</day><month>11</month><year>2017</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2017 Huang S and Wang Y</copyright-statement><copyright-year>2017</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="f1000research-6-12861.pdf"/><abstract><p>The Golgi apparatus is a central membrane organelle for trafficking and post-translational modifications of proteins and lipids in cells. In mammalian cells, it is organized in the form of stacks of tightly aligned flattened cisternae, and dozens of stacks are often linked laterally into a ribbon-like structure located in the perinuclear region of the cell. Proper Golgi functionality requires an intact architecture, yet Golgi structure is dynamically regulated during the cell cycle and under disease conditions. In this review, we summarize our current understanding of the relationship between Golgi structure formation, function, and regulation, with focus on how post-translational modifications including phosphorylation and ubiquitination regulate Golgi structure and on how Golgi unstacking affects its functions, in particular, protein trafficking, glycosylation, and sorting in mammalian cells.</p></abstract><kwd-group kwd-group-type="author"><kwd>Golgi apparatus</kwd><kwd>structure</kwd><kwd>formation</kwd><kwd>cell cycle</kwd><kwd>Golgi membrane dynamics</kwd></kwd-group><funding-group><award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/100011232"><funding-source>MCubed, University of Michigan</funding-source></award-group><award-group id="fund-2" xlink:href="http://dx.doi.org/10.13039/100000002"><funding-source>National Institutes of Health</funding-source><award-id>GM112786</award-id></award-group><award-group id="fund-3" xlink:href="http://dx.doi.org/10.13039/100007270"><funding-source>The University of Michigan Protein Folding Diseases Initiative</funding-source></award-group><funding-statement>This work was supported in part by the National Institutes of Health (Grant GM112786), MCubed, and the Fast Forward Protein Folding Disease Initiative of the University of Michigan to Y. Wang. </funding-statement><funding-statement><italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic></funding-statement></funding-group></article-meta><notes><sec sec-type="editor-note"><title>Editorial Note on the Review Process</title><p>
+<ext-link ext-link-type="uri" xlink:href="http://f1000research.com/browse/f1000-faculty-reviews">F1000 Faculty Reviews</ext-link> are commissioned from members of the prestigious
+<ext-link ext-link-type="uri" xlink:href="http://f1000.com/prime/thefaculty">F1000 Faculty</ext-link> and are edited as a service to readers. In order to make these reviews as comprehensive and accessible as possible, the referees provide input before publication and only the final, revised version is published. The referees who approved the final version are listed with their names and affiliations but without their reports on earlier versions (any comments will already have been addressed in the published version).</p><p>The referees who approved this article are: </p><list list-type="simple" list-content="reviewer-list"><list-item><p>
+<named-content content-type="reviewer-name">Nobuhiro Nakamura</named-content>, Kyoto Sangyo University, Kyoto, Japan
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Antonino Colanzi</named-content>, Institute of Protein Biochemistry (CNR), Naples, Italy
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Ayano Satoh</named-content>, Okayama University, Okayama, Japan
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Brian Storrie</named-content>, University of Arkansas for Medical Sciences, Little Rock, AR, USA
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Benjamin Glick</named-content>, University of Chicago, Chicago, IL, USA
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item></list></sec></notes></front><body><sec><title>Overview of Golgi structure and dynamics during the cell cycle</title><p>The Golgi apparatus is a central membrane organelle that functions as the post-translational modification factory and trafficking hub for proteins and lipids in the cell. Newly synthesized proteins and membrane lipids enter the endoplasmic reticulum (ER) for proper folding and initial
+<italic>N</italic>- and
+<italic>O</italic>-glycosylation and are then transported to the Golgi for trafficking, glycan maturation, and sorting. Each Golgi stack is formed by five to eight tightly aligned flattened cisternae, which can be classified as three separate modules: the
+<italic>cis</italic>-Golgi network, which is close to the ER and receives the ER output, the stacked
+<italic>cis</italic>-,
+<italic>medial</italic>-, and
+<italic>trans</italic>-Golgi cisternae that contain glycosylation enzymes and process cargo proteins and lipids, and the
+<italic>trans</italic>-Golgi network (TGN) that is facing the plasma membrane and sorts cargo molecules for delivery to different destinations. In mammalian cells, multiple Golgi stacks are often laterally linked by tubular structures to form a Golgi ribbon.</p><p>The Golgi is highly dynamic during the cell cycle, with a unique process of disassembly in early mitosis and reassembly in late mitosis and early interphase
+<sup><xref rid="ref-1" ref-type="bibr">1</xref></sup>. At the onset of mitosis, the Golgi is sequentially disassembled by ribbon unlinking, cisternae unstacking, and vesiculation, producing vesicles and tubular structures that are dispersed in the cytoplasm
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. This is expected to facilitate equal partitioning of the Golgi membranes into the two daughter cells, where the Golgi fragments are reassembled into new cisternae, stacks, and ribbons in late mitosis
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. Many proteins, including mitotic kinases and phosphatases, vesicle budding and fusion machineries, Golgi matrix and stacking proteins, soluble
+<italic>N</italic>-ethylmaleimide-sensitive factor (NSF) activating protein receptors (SNAREs), and membrane fusion proteins, are involved in the Golgi disassembly and reassembly processes during the cell cycle
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>&#x02013;
+<xref rid="ref-11" ref-type="bibr">11</xref></sup>.</p><p>Our current understanding of the regulatory mechanisms of Golgi structure formation during the cell cycle has mostly benefited from an
+<italic>in vitro</italic> reconstitution assay, which replicates the Golgi disassembly and reassembly processes in the test tube
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>. By sequential treatment of Golgi membranes purified from rat liver with mitotic cytosol and interphase cytosol prepared from HeLa cells, the Golgi membranes can be disassembled to mitotic Golgi fragments (MGFs) and reassembled into intact Golgi stacks (
+<xref ref-type="fig" rid="f1">Figure 1A&#x02013;C</xref>)
+<sup><xref rid="ref-13" ref-type="bibr">13</xref>,
+<xref rid="ref-14" ref-type="bibr">14</xref></sup>. Subsequent substitution of cytosol with biochemically purified proteins allowed the identification of the minimal machineries and key components that control mitotic Golgi disassembly and post-mitotic Golgi reassembly
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>. Mitotic disassembly is mediated by cisternal unstacking and vesiculation. Mitotic kinases, including cyclin-dependent kinase 1 (Cdk1), polo-like kinase-1 (Plk1), and perhaps others, phosphorylate the Golgi stacking proteins, membrane tethers, and maybe other unidentified targets, leading to the Golgi reassembly stacking protein of 65 kDa (GRASP65) deoligomerization and Golgi unstacking
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-8" ref-type="bibr">8</xref>,
+<xref rid="ref-16" ref-type="bibr">16</xref>&#x02013;
+<xref rid="ref-19" ref-type="bibr">19</xref></sup>. ADP-ribosylation factor 1 (ARF1)-GTP and coatomer vesiculate the cisternae through coat protein I (COPI) vesicle budding
+<sup><xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-20" ref-type="bibr">20</xref></sup>. Treatment of Golgi membranes with a combination of kinases and coat proteins results in complete Golgi fragmentation (
+<xref ref-type="fig" rid="f1">Figure 1D and 1E</xref>)
+<sup><xref rid="ref-14" ref-type="bibr">14</xref>,
+<xref rid="ref-15" ref-type="bibr">15</xref></sup>. Post-mitotic Golgi reassembly involves membrane fusion to generate single cisternae, which subsequently form stacks. Fusion is mediated by two ATPases associated with diverse cellular activities (AAAs), NSF and p97 (valosin-containing protein [VCP]; Cdc48 in yeast), each with specific adaptor proteins (
+<xref ref-type="fig" rid="f1">Figure 1F and 1G</xref>)
+<sup><xref rid="ref-10" ref-type="bibr">10</xref>,
+<xref rid="ref-11" ref-type="bibr">11</xref>,
+<xref rid="ref-21" ref-type="bibr">21</xref>&#x02013;
+<xref rid="ref-27" ref-type="bibr">27</xref></sup>. Restacking occurs through GRASP65 dephosphorylation by the protein phosphatase PP2A
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>. This
+<italic>in vitro</italic> reconstitution assay revealed that reversible post-translational modifications, such as phosphorylation and ubiquitination, play essential roles in regulating Golgi membrane dynamics in the mammalian cell cycle
+<sup><xref rid="ref-25" ref-type="bibr">25</xref>,
+<xref rid="ref-26" ref-type="bibr">26</xref>,
+<xref rid="ref-28" ref-type="bibr">28</xref>&#x02013;
+<xref rid="ref-33" ref-type="bibr">33</xref></sup>, as discussed below.</p><fig fig-type="figure" id="f1" orientation="portrait" position="anchor"><label>Figure 1. </label><caption><title>
+<italic>In vitro</italic> reconstitution of the Golgi disassembly and reassembly processes during the cell cycle.</title><p>Shown are representative electron micrographs of Golgi membranes during the reactions.
+<bold>A</bold>&#x02013;
+<bold>C</bold>: standard Golgi disassembly and reassembly assay. Purified rat liver Golgi stacks (RLG,
+<bold>A</bold>) disassembled when treated with mitotic cytosol (MC,
+<bold>B</bold>) and reassembled when further treated with interphase cytosol (IC,
+<bold>C</bold>).
+<bold>D</bold>&#x02013;
+<bold>G</bold>: defined Golgi disassembly and reassembly assay. Purified Golgi stacks (
+<bold>D</bold>) were fragmented when incubated with cyclin-dependent kinase 1 (Cdk1) and polo-like kinase 1 (Plk1) kinases and ADP ribosylation factor (ARF)/coatomer (
+<bold>E</bold>). New Golgi stacks were reassembled from the fragments when further treated with purified proteins in either the
+<italic>N</italic>-ethylmaleimide-sensitive factor (NSF) (
+<bold>F</bold>) or valosin-containing protein (p97) pathway (
+<bold>G</bold>). Note that the ubiquitination system was not included in the reaction in (
+<bold>G</bold>) and so stacking appeared to be normal but membrane fusion was reduced. Adapted and modified from
+<xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-14" ref-type="bibr">14</xref>. PP2A, protein phosphatase 2A; SNAP, soluble
+<italic>N</italic>-ethylmaleimide-sensitive factor attachment protein.</p></caption><graphic xlink:href="f1000research-6-12861-g0000"/></fig></sec><sec><title>Regulation of Golgi membrane dynamics by phosphorylation during the cell cycle</title><p>Phosphorylation regulates Golgi stack formation through Golgi stacking proteins. Two peripheral membrane proteins, Golgi reassembly stacking protein of 55 kDa (GRASP55) and GRASP65, share similar domain structures and overlapping functions
+<sup><xref rid="ref-34" ref-type="bibr">34</xref>,
+<xref rid="ref-35" ref-type="bibr">35</xref></sup>. They form mitotically regulated
+<italic>trans</italic>-oligomers that act as an adhesive &#x0201c;glue&#x0201d; to stick adjacent Golgi cisternae into a stack (
+<xref ref-type="fig" rid="f2">Figure 2</xref>)
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-16" ref-type="bibr">16</xref></sup>. GRASP65 is predominantly concentrated in the
+<italic>cis</italic>-Golgi, while GRASP55 is localized in the
+<italic>medial-trans</italic>-cisternae
+<sup><xref rid="ref-35" ref-type="bibr">35</xref></sup>. Inhibition of GRASP65 or GRASP55 on MGFs by antibodies reduces post-mitotic stacking of newly formed cisternae in the
+<italic>in vitro</italic> Golgi reassembly assay
+<sup><xref rid="ref-34" ref-type="bibr">34</xref>,
+<xref rid="ref-35" ref-type="bibr">35</xref></sup>. Microinjection of antibodies against GRASP65 or GRASP55 into mitotic cells inhibits Golgi reassembly in newly divided daughter cells
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-36" ref-type="bibr">36</xref></sup>. Depletion of either GRASP65 or GRASP55 by RNA interference (RNAi) reduces the number of cisternae per stack, while simultaneous depletion of both GRASPs results in complete disassembly of the Golgi
+<sup><xref rid="ref-8" ref-type="bibr">8</xref>,
+<xref rid="ref-37" ref-type="bibr">37</xref></sup>. The role of GRASP55/GRASP65 in Golgi stacking has been confirmed in cells in which GRASP55 and/or GRASP65 are knocked out by the clustered regularly interspaced short palindromic repeats (CRISPR)/cas9 genome editing technique
+<sup><xref rid="ref-38" ref-type="bibr">38</xref></sup>. Double knockout of GRASP proteins disperses the Golgi stack into single cisternae and tubulovesicular structures
+<sup><xref rid="ref-38" ref-type="bibr">38</xref></sup>. In another report
+<sup><xref rid="ref-39" ref-type="bibr">39</xref></sup>, simultaneous depletion of both GRASPs and their interacting golgins, golgin-45 and GM130, is required for complete destruction of the Golgi stack, suggesting that other proteins, such as golgins, may also contribute to Golgi stack formation.</p><fig fig-type="figure" id="f2" orientation="portrait" position="anchor"><label>Figure 2. </label><caption><p>Golgi reassembly stacking protein of 65 kDa (GRASP65) domain structure (
+<bold>A</bold>), function, and regulation by phosphorylation (
+<bold>B</bold>).
+<bold>A</bold>: GRASP65 domain structure. Indicated are the myristic acid (myr) for membrane association, the GRASP domain, the two PDZ domains within it for dimerization and oligomerization, and the serine/proline rich (SPR) domain with phosphorylation sites (*). The GM130-binding site is indicated in blue.
+<bold>B</bold>: GRASP oligomerization and Golgi stack formation. During interphase, GRASP65 homodimers from two neighboring cisternae
+<italic>trans</italic>-oligomerize through the GRASP domain to &#x0201c;glue&#x0201d; the adjacent cisternae into Golgi stacks. Based on the structure reported by Feng
+<italic>et al</italic>.
+<sup><xref rid="ref-54" ref-type="bibr">54</xref></sup>, GRASP
+<italic>trans</italic>-oligomerization is mediated by PDZ2&#x02013;PDZ2 interactions, while PDZ1 may interact with the C-terminal unstructured region. In mitosis, GRASP65 is phosphorylated by cyclin-dependent kinase 1 (Cdk1) and polo-like kinase 1 (Plk1) on multiple phosphorylation sites in the SPR domain, which leads to the disassembly of GRASP65 oligomers to homodimers and subsequent Golgi stack disassembly. In late mitosis, GRASP65 is dephosphorylated by protein phosphatase PP2A, reforms oligomers, and restacks Golgi cisternae. Adapted and modified from
+<xref rid="ref-33" ref-type="bibr">33</xref>,
+<xref rid="ref-46" ref-type="bibr">46</xref>,
+<xref rid="ref-51" ref-type="bibr">51</xref>,
+<xref rid="ref-54" ref-type="bibr">54</xref>&#x0003e;.</p></caption><graphic xlink:href="f1000research-6-12861-g0001"/></fig><p>In addition to stacking, GRASP55 and GRASP65 have also been shown to link Golgi stacks into a ribbon
+<sup><xref rid="ref-38" ref-type="bibr">38</xref>,
+<xref rid="ref-40" ref-type="bibr">40</xref>&#x02013;
+<xref rid="ref-42" ref-type="bibr">42</xref></sup>. RNAi-mediated depletion of GRASP65 or GRASP55 also resulted in Golgi ribbon unlinking
+<sup><xref rid="ref-40" ref-type="bibr">40</xref>,
+<xref rid="ref-41" ref-type="bibr">41</xref>,
+<xref rid="ref-43" ref-type="bibr">43</xref></sup>, suggesting a possibility that GRASPs may function in both Golgi stacking and ribbon linking by forming
+<italic>trans</italic>-oligomers. Given that the gaps between Golgi stacks are much larger and more heterogeneous (tens to hundreds of nanometers) than the distance between cisternae within each stack
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>, it is possible that other bridging proteins may help GRASPs in ribbon linking. Indeed, a number of GRASP-interacting proteins have been recently identified and characterized; many of them are involved in Golgi structure formation. One example is the actin elongation factor Mena
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>. Mena interacts with GRASP65 and thus is recruited onto the Golgi membranes. Knockdown of Mena or disruption of actin polymerization leads to Golgi fragmentation. In cells, Mena and actin are required for Golgi ribbon formation after nocodazole washout;
+<italic>in vitro,</italic> Mena and microfilaments enhance GRASP65 oligomerization and Golgi membrane fusion. Therefore, Mena&#x02019;s interaction with GRASP65 promotes local actin polymerization, which in turn enables Golgi ribbon linking
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>. Taken together, these results demonstrate that GRASP proteins play important roles in Golgi structure formation.</p><p>Each GRASP protein comprises an N-terminal GRASP domain that forms dimers and oligomers and a C-terminal serine/proline-rich (SPR) domain that contains multiple phosphorylation sites (
+<xref ref-type="fig" rid="f2">Figure 2A</xref>)
+<sup><xref rid="ref-46" ref-type="bibr">46</xref></sup>. GRASP proteins form
+<italic>trans</italic>-oligomers through the GRASP domain, which is regulated by phosphorylation in the C-terminal SPR domain (
+<xref ref-type="fig" rid="f2">Figure 2B</xref>)
+<sup><xref rid="ref-16" ref-type="bibr">16</xref></sup>. In mitosis, GRASP65 is phosphorylated by mitotic kinases Cdk1 and Plk1 on multiple phosphorylation sites in the SPR domain, which leads to the disassembly of GRASP65 oligomers and subsequent disassembly of the Golgi stack
+<sup><xref rid="ref-29" ref-type="bibr">29</xref>,
+<xref rid="ref-47" ref-type="bibr">47</xref></sup>. In late mitosis, GRASP65 is dephosphorylated by PP2A, reforms oligomers, and restacks Golgi cisternae (
+<xref ref-type="fig" rid="f2">Figure 2</xref>)
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>. Similarly, GRASP55 oligomerization and function are also regulated by phosphorylation, as GRASP55 is phosphorylated by MEK1/ERK kinases during mitosis; however, the phosphatase that dephosphorylates GRASP55 in later mitosis is unknown
+<sup><xref rid="ref-8" ref-type="bibr">8</xref>,
+<xref rid="ref-48" ref-type="bibr">48</xref></sup>. Expression of non-phosphorylatable mutants of GRASP55/GRASP65 increases the number of cisternae per stack in interphase and inhibits Golgi disassembly in mitosis
+<sup><xref rid="ref-8" ref-type="bibr">8</xref>,
+<xref rid="ref-16" ref-type="bibr">16</xref>,
+<xref rid="ref-37" ref-type="bibr">37</xref></sup>. Golgi ribbon linking by GRASPs is also regulated by mitotic phosphorylation. It has been shown that phosphorylation of GRASP55 by ERK blocks Golgi ribbon linking
+<sup><xref rid="ref-41" ref-type="bibr">41</xref></sup>, while in another report GRASP65 phosphorylation by Plk1 on Ser189 is required for Golgi ribbon unlinking in mitosis
+<sup><xref rid="ref-49" ref-type="bibr">49</xref></sup>. In summary, the reversible phosphorylation of Golgi stacking proteins is a key regulatory mechanism of mitotic Golgi disassembly and post-mitotic Golgi reassembly.</p><p>The GRASP domain of GRASP55 and GRASP65 contains two PDZ domains, whose interactions enable the homo-dimerization and oligomerization of the GRASP proteins (
+<xref ref-type="fig" rid="f2">Figure 2</xref>)
+<sup><xref rid="ref-37" ref-type="bibr">37</xref>,
+<xref rid="ref-50" ref-type="bibr">50</xref>,
+<xref rid="ref-51" ref-type="bibr">51</xref></sup>. Details on the PDZ interactions as well as GRASP dimerization and oligomerization have been revealed by the crystal structures of GRASP55 and GRASP65; however, there are some discrepancies in the GRASP structures reported by three different research groups
+<sup><xref rid="ref-51" ref-type="bibr">51</xref></sup>. In the structure reported by Truschel
+<italic>et al</italic>.
+<sup><xref rid="ref-52" ref-type="bibr">52</xref>,
+<xref rid="ref-53" ref-type="bibr">53</xref></sup>, GRASPs form antiparallel
+<italic>trans</italic>-oligomers through PDZ1&#x02013;PDZ2 interactions. In the structure reported by Feng
+<italic>et al</italic>.
+<sup><xref rid="ref-54" ref-type="bibr">54</xref></sup>, GRASP
+<italic>trans</italic>-oligomerization is mediated by PDZ2&#x02013;PDZ2 interactions, while PDZ1 may interact with the C-terminal unstructured region of the molecule (
+<xref ref-type="fig" rid="f2">Figure 2</xref>). A third structure by Shi and coworkers revealed the interaction between GRASPs and their interacting golgins, e.g. GRASP55 with a Golgin-45 peptide
+<sup><xref rid="ref-55" ref-type="bibr">55</xref></sup> and GRASP65 with a GM130 peptide
+<sup><xref rid="ref-56" ref-type="bibr">56</xref></sup>, and the structure is largely consistent with the structure reported by Feng
+<italic>et al</italic>.
+<sup><xref rid="ref-54" ref-type="bibr">54</xref></sup>. The discrepancies in the reported structures of the GRASP proteins can be possibly explained by the fact that GRASPs are intrinsically disordered proteins, as revealed by bioinformatic and biophysical analysis of the GRASP55/GRASP65 homologue in
+<italic>Cryptococcus neoformans</italic> (CnGRASP)
+<sup><xref rid="ref-57" ref-type="bibr">57</xref></sup>. Perhaps such a property with variable conformations may allow GRASPs to perform a large array of functions by forming homodimers and oligomers and by interacting with multiple interacting partners. It is worth mentioning that oligomerization of GRASP65 is regulated by mitotic phosphorylation of the C-terminal SPR domain, while dimerization is not
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-16" ref-type="bibr">16</xref></sup>; however, none of the reported crystal structures contain the unstructured C-terminal half of the GRASP molecules, and thus the structural basis for phosphorylation-mediated regulation of GRASP oligomerization is currently unavailable.</p><p>Phosphorylation also regulates Golgi disassembly and reassembly through modulating membrane tethering and fusion. The Golgi is the trafficking center in the vesicular trafficking pathway. Vesicular transport includes three steps: vesicle budding from a donor membrane, vesicle transport and tethering, and vesicle fusion with the target membrane. In interphase, COPI vesicles bud from the Golgi membranes and fuse with the acceptor membranes for retrograde intra-Golgi and Golgi-to-ER trafficking
+<sup><xref rid="ref-58" ref-type="bibr">58</xref></sup>. COPI vesicle tethering on the targeting membranes is facilitated by the interaction between
+<italic>cis</italic>-Golgi matrix protein GM130 and the tethering factor p115, which facilitates vesicle fusion with the targeting membranes mediated by SNARE proteins
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. During mitosis, GM130 is phosphorylated by Cdk1, which prevents GM130&#x02013;p115 interaction and thus inhibits vesicle tethering and subsequent membrane fusion
+<sup><xref rid="ref-4" ref-type="bibr">4</xref>,
+<xref rid="ref-9" ref-type="bibr">9</xref>,
+<xref rid="ref-28" ref-type="bibr">28</xref></sup>. Consequently, the Golgi is fragmented in mitosis because of continuous budding of COPI vesicles while membrane fusion is inhibited. At the end of mitosis, GM130 is dephosphorylated by PP2A, which restores the GM130&#x02013;p115 interaction and membrane fusion
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>. Several other golgins, including golgin-67
+<sup><xref rid="ref-59" ref-type="bibr">59</xref></sup>, golgin-84
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup>, golgin-160
+<sup><xref rid="ref-61" ref-type="bibr">61</xref></sup>, and p115
+<sup><xref rid="ref-62" ref-type="bibr">62</xref></sup>, may also be regulated by phosphorylation in a similar manner as GM130
+<sup><xref rid="ref-63" ref-type="bibr">63</xref>,
+<xref rid="ref-64" ref-type="bibr">64</xref></sup>.</p><p>The exact role of mitotic Golgi disassembly is so far not fully understood. In addition to facilitating equal partitioning of Golgi membranes into the two daughter cells
+<sup><xref rid="ref-65" ref-type="bibr">65</xref></sup>, it may also function as a cell cycle checkpoint to allow mitotic progression
+<sup><xref rid="ref-36" ref-type="bibr">36</xref>,
+<xref rid="ref-66" ref-type="bibr">66</xref>&#x02013;
+<xref rid="ref-74" ref-type="bibr">74</xref></sup>. Mechanistically, Golgi disassembly is required for proper assembly of mitotic spindle
+<sup><xref rid="ref-73" ref-type="bibr">73</xref></sup>. Spindle assembly is regulated by the spindle assembly factor TPX2, which is normally sequestered by the interaction with importin &#x003b1;. At the onset of mitosis, GM130 binds and sequesters importin &#x003b1; to the Golgi membranes, releasing the activity of TPX2 for spindle assembly in the vicinity of Golgi membranes. GM130 then captures the nascent microtubules and thus couples the Golgi membranes to the forming spindle
+<sup><xref rid="ref-73" ref-type="bibr">73</xref></sup>. Emerging evidence shows that GM130 is also involved in autophagy. Under growth conditions, GM130 tethers GABARAP to the Golgi and inhibits autophagy. Upon amino acid starvation, another GM130-interacting protein, WAC, interacts with GM130 and suppresses the binding of GABARAP to GM130. This allows the relocalization of GABARAP to centrosomes, which facilitates autophagosome formation
+<sup><xref rid="ref-75" ref-type="bibr">75</xref></sup>. So far, it is not known whether phosphorylation regulates GM130 in mitotic spindle assembly and autophagy. In summary, phosphorylation regulates Golgi membrane dynamics during cell division: mitotic phosphorylation of GRASP proteins impairs GRASP oligomerization and causes Golgi ribbon unlinking and cisternal unstacking, while phosphorylation of membrane tethers results in vesiculation of Golgi membranes. Further studies will determine whether phosphorylation also regulates GRASP-interacting proteins.</p></sec><sec><title>Regulation of Golgi membrane dynamics by monoubiquitination during the cell cycle</title><p>In addition to phosphorylation, monoubiquitination also regulates Golgi membrane dynamics through modulating membrane fusion. Membrane fusion is a key factor that determines Golgi disassembly and reassembly during the cell cycle. All membrane fusion events in the intracellular trafficking pathways and biogenesis of membranous organelles in the endomembrane system are mediated by SNARE proteins
+<sup><xref rid="ref-76" ref-type="bibr">76</xref>&#x02013;
+<xref rid="ref-78" ref-type="bibr">78</xref></sup>. SNARE proteins are characterized by an evolutionarily conserved coiled-coil SNARE domain of about 60 to 70 amino acids. Most SNARE proteins are anchored on membranes by a C-terminal transmembrane domain
+<sup><xref rid="ref-76" ref-type="bibr">76</xref></sup>. To mediate membrane fusion, one v-SNARE from the vesicle membrane and three t-SNAREs from the target membrane bundle through the &#x003b1; helices of the SNARE domain and zipper up to form a
+<italic>trans</italic>-SNARE complex that pulls the opposing membranes to close proximity for fusion
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>. After membrane fusion, the
+<italic>trans</italic>-SNARE complex transits to
+<italic>cis</italic>-SNARE complex, which is subsequently disassembled by the AAA ATPase, NSF, powered by ATP hydrolysis. NSF and its cofactors, &#x003b1;/&#x003b3;-SNAPs (soluble NSF attachment proteins), are required for membrane fusion by mediating SNARE complex disassembly and SNARE protein dissociation to recycle SNARE proteins for the next round of membrane fusion
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>. Post-mitotic Golgi membrane fusion requires two AAA ATPases, NSF and p97, as described above. NSF-mediated post-mitotic Golgi membrane fusion requires the Golgi t-SNARE syntaxin 5 and its cognate v-SNARE GS28
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>. The other AAA ATPase, p97, and its adaptor protein, p47, promote post-mitotic Golgi membrane fusion independently and non-additively to NSF-mediated post-mitotic membrane fusion. The p97/p47 pathway does not require the tethering factor p115 or the v-SNARE GS28 but shares a common Golgi t-SNARE, syntaxin 5, with the NSF/SNAP pathway
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>.</p><p>A major difference between p97/p47- and NSF/SNAP-mediated post-mitotic membrane fusion is the involvement of ubiquitin in the p97/p47 pathway
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>. Initially, the lack of membrane fusion activity in the
+<italic>in vitro</italic> Golgi reassembly reaction with purified p97/p47 (
+<xref ref-type="fig" rid="f1">Figure 1G</xref>) prompted us to look into the involved proteins more carefully. The first hint that ubiquitin is involved in p97/p47-mediated fusion is that p47 contains a ubiquitin-associated (UBA) domain, which preferably binds to monoubiquitin over polyubiquitin
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>. Interruption of the interaction between p47 and ubiquitin inhibits p97/p47-mediated post-mitotic Golgi membrane fusion. Monoubiquitin binds the UBA domain of p47 and recruits the p97/p47 membrane fusion machinery to the MGFs
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>. Proteasome activity is not involved in either Golgi disassembly or reassembly
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. These results indicate that monoubiquitin is involved in p97/p47-mediated membrane fusion. The E3 ligase and the deubiquitinase involved in Golgi disassembly and reassembly were then identified. Ubiquitination is mediated by a Golgi-localized E3 ligase HACE1 (the HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1), which occurs during the Golgi disassembly process in mitosis but is required for the subsequent Golgi reassembly
+<sup><xref rid="ref-25" ref-type="bibr">25</xref></sup>. The p97/p47-binding protein VCIP135 (VCP [p97]/p47 complex-interacting protein, p135) functions as a deubiquitinating enzyme whose activity is required for post-mitotic Golgi reassembly
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. The deubiquitinase activity of VCIP135 is inactivated in metaphase by Cdk1-mediated phosphorylation on the S130 residue and reactivated in telophase upon dephosphorylation
+<sup><xref rid="ref-30" ref-type="bibr">30</xref>,
+<xref rid="ref-81" ref-type="bibr">81</xref>,
+<xref rid="ref-82" ref-type="bibr">82</xref></sup>.</p><p>Recently, the ubiquitination substrate on the Golgi membranes for HACE1 and VCIP135 has been identified as the Golgi t-SNARE syntaxin 5. Syntaxin 5 is monoubiquitinated in early mitosis by HACE1 on lysine 270 within the SNARE domain, which prevents the interaction between syntaxin 5 and Bet1 and blocks SNARE complex formation and membrane fusion, resulting in Golgi fragmentation in mitosis. On the other hand, ubiquitin on syntaxin 5 recruits the p97/p47 membrane fusion machinery to the mitotic Golgi membranes and facilitates post-mitotic Golgi membrane fusion
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. In late mitosis, VCIP135 deubiquitinase activity is reactivated, which removes the monoubiquitin on syntaxin 5 and promotes SNARE complex formation and post-mitotic Golgi membrane fusion
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. These results reveal that cycles of addition and removal of ubiquitin to and from substrates regulate Golgi membrane dynamics during cell division (
+<xref ref-type="fig" rid="f3">Figure 3</xref>). Together with reversible phosphorylation in mitosis, reversible monoubiquitination regulates Golgi disassembly and reassembly during the cell cycle by blocking membrane fusion in mitosis and facilitating membrane fusion at mitotic exit.</p><fig fig-type="figure" id="f3" orientation="portrait" position="anchor"><label>Figure 3. </label><caption><title>Monoubiquitination of syntaxin 5 regulates p97/p47-mediated post-mitotic Golgi membrane fusion during the cell cycle.</title><p>
+<bold>A</bold>: Interphase Golgi stacks are disassembled by cisternal unstacking and vesiculation. Mitotic kinases phosphorylate the stacking proteins, leading to Golgi reassembly stacking protein (GRASP) deoligomerization and Golgi unstacking. ADP-ribosylation factor 1 (ARF1)-GTP and coatomer vesiculate the cisternae through COPI vesicle budding. Post-mitotic Golgi reassembly involves membrane fusion to generate single cisternae that subsequently form stacks. Membrane fusion is mediated by two AAA ATPases,
+<italic>N</italic>-ethylmaleimide-sensitive factor (NSF) and valosin-containing protein (p97), with their adaptor proteins.
+<bold>B</bold>. Monoubiquitination of syntaxin 5 (Syn5) regulates p97-mediated post-mitotic Golgi membrane fusion. In early mitosis, Syn5 is monoubiquitinated by an E3 ligase, the HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1 (HACE1), on the Golgi membranes, while the deubiquitinase p97/p47 complex-interacting protein, p135 (VCIP135) is inactivated by mitotic phosphorylation (
+<bold>1</bold>). Ubiquitinated Syn5 recruits the p97/p47 complex through the ubiquitin-associated (UBA) domain of p47 to the Golgi membranes (
+<bold>2</bold>). In late mitosis, Syn5 is deubiquitinated by VCIP135 that is reactivated by dephosphorylation, which enables Syn5&#x02013;Bet1 soluble NSF activating protein receptor (SNARE) complex formation and thus membrane fusion by p97 at mitotic exit (
+<bold>3</bold>). Adapted and modified from
+<xref rid="ref-32" ref-type="bibr">32</xref>. PP2A, protein phosphatase 2A, Ub, ubiquitin.</p></caption><graphic xlink:href="f1000research-6-12861-g0002"/></fig></sec><sec><title>Golgi defects in diseases</title><p>Golgi structural defects have been observed in many diseases such as Smith-McCort dysplasia
+<sup><xref rid="ref-83" ref-type="bibr">83</xref></sup>, MACS (macrocephaly, alopecia, cutis laxa, and scoliosis) syndrome
+<sup><xref rid="ref-84" ref-type="bibr">84</xref>,
+<xref rid="ref-85" ref-type="bibr">85</xref></sup>, Alzheimer&#x02019;s disease (AD)
+<sup><xref rid="ref-86" ref-type="bibr">86</xref>&#x02013;
+<xref rid="ref-88" ref-type="bibr">88</xref></sup>, Parkinson&#x02019;s disease (PD)
+<sup><xref rid="ref-89" ref-type="bibr">89</xref></sup>, Huntington&#x02019;s disease (HD)
+<sup><xref rid="ref-90" ref-type="bibr">90</xref></sup>, and amyotrophic lateral sclerosis (ALS)
+<sup><xref rid="ref-91" ref-type="bibr">91</xref>&#x02013;
+<xref rid="ref-93" ref-type="bibr">93</xref></sup>. Golgi dysfunction and protein trafficking defects have been reported in Pelizaeus-Merzbacher disease
+<sup><xref rid="ref-94" ref-type="bibr">94</xref></sup>, proximal spinal muscular atrophy
+<sup><xref rid="ref-95" ref-type="bibr">95</xref></sup>, and dyschromatosis universalis hereditaria
+<sup><xref rid="ref-96" ref-type="bibr">96</xref></sup>. In addition, Golgi glycosylation defects have been linked to Angelman syndrome
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup> and cutis laxa type II and wrinkly skin syndrome
+<sup><xref rid="ref-98" ref-type="bibr">98</xref>,
+<xref rid="ref-99" ref-type="bibr">99</xref></sup>. Defects in the conserved oligomeric Golgi (COG) complex, a membrane tether involved in retrograde trafficking of Golgi glycosylation enzymes, have been reported to cause human Congenital Disorders of Glycosylation (CDG), which are rare genetic diseases with defective
+<italic>N</italic>-glycan and
+<italic>O</italic>-glycan biosynthesis
+<sup><xref rid="ref-100" ref-type="bibr">100</xref></sup>. Glycosylation defects have been linked to the pathogenesis of diabetes
+<sup><xref rid="ref-101" ref-type="bibr">101</xref></sup>, cancer
+<sup><xref rid="ref-102" ref-type="bibr">102</xref></sup>, and cystic fibrosis
+<sup><xref rid="ref-103" ref-type="bibr">103</xref>,
+<xref rid="ref-104" ref-type="bibr">104</xref></sup>.</p><p>Because of the broad functions that glycans and glycoproteins play, it is important that glycosylation is reliable and accurate. However, compared to that of protein and DNA, the synthesis of glycan polymers follows no template, and an estimated 700 proteins are required for producing the varied glycan structures with high fidelity, including glycosyltransferases (addition of sugars), glycosidases (removal of sugars), and nucleotide sugar transporters (supply of sugar substrates)
+<sup><xref rid="ref-105" ref-type="bibr">105</xref></sup>. Therefore, the process of protein glycosylation needs to be highly organized and sequential. As the main station of sugar chain maturation, the Golgi must use every element to safeguard this highly efficient enzymatic event, and, undoubtedly, Golgi defects may lead to diseases by affecting the accuracy of glycosylation. The exact mechanisms that cause Golgi defects and the contribution of Golgi defects to disease development are largely unexplored and may vary between diseases but have started to draw the attention of Golgi cell biologists.</p><p>One example of such a study is on Golgi defects in AD. Using mouse and cell models that express the human Swedish mutant of the amyloid precursor protein (APPswe, KM 593/594 NL) and the exon 9 deletion mutant of human presenilin-1 (PS1&#x00394;E9), Joshi
+<italic>et al</italic>.
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup> revealed that the accumulation of amyloid beta (A&#x003b2;) peptides leads to Golgi fragmentation. Mechanistically, A&#x003b2; accumulation triggers Cdk5 activation, which phosphorylates GRASP65 and causes Golgi fragmentation. Subsequently, Golgi fragmentation accelerates APP trafficking and increases A&#x003b2; production
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup>. Significantly, rescuing Golgi structure by suppressing Cdk5 activation and thus inhibiting GRASP65 phosphorylation, or by expressing nonphosphorylatable GRASP65 mutants, both reduce A&#x003b2; secretion by elevating &#x003b1;-cleavage of APP
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup>. Given the important roles of the Golgi in protein trafficking and processing, Golgi defects may perturb the proper trafficking and processing of many essential neuronal proteins, resulting in compromised neuronal function and neuronal death. Alternatively, GRASP65 may directly regulate APP trafficking and processing, as GRASP65 has been reported to directly control the trafficking of several transmembrane proteins including TGF-&#x003b1;, CD8-&#x003b1;, and p24 cargo receptor family proteins
+<sup><xref rid="ref-106" ref-type="bibr">106</xref>&#x02013;
+<xref rid="ref-108" ref-type="bibr">108</xref></sup>. A common feature of these proteins, as discussed below, is that they all contain a valine residue at the C-terminal cytoplasmic tail, which is critical for their interaction with GRASP proteins. However, APP does not contain a C-terminal valine, and so far no evidence has been provided to support a direct role for GRASP55/GRASP65 in APP trafficking. Overall, this study provides a molecular mechanism for Golgi fragmentation and its effects on APP trafficking and processing in AD, suggesting the Golgi as a potential drug target for AD treatment
+<sup><xref rid="ref-88" ref-type="bibr">88</xref>,
+<xref rid="ref-109" ref-type="bibr">109</xref>,
+<xref rid="ref-110" ref-type="bibr">110</xref></sup>. Similar mechanisms may apply to some other neurodegenerative diseases with Golgi defects.</p></sec><sec><title>Consequence of Golgi defects on trafficking, sorting, and glycosylation</title><p>Golgi cisternae do not usually form stacks in the budding yeast
+<italic>Saccharomyces cerevisiae</italic>, implying that stacking is not necessary for cell survival. However, Golgi stacking is a prominent feature in all metazoans and many unicellular eukaryotes, suggesting that it has important effects on Golgi function. It has been known for decades that the Golgi membranes form a stacked structure; however, it has been a mystery why Golgi structure formation is essential for its function in protein trafficking and processing. This was largely owing to the lack of molecular tools that can be used to modulate Golgi structure formation. The identification of the Golgi stacking proteins GRASP55 and GRASP65 allowed the manipulation of Golgi stack formation and thus the determination of the biological significance of Golgi structure formation. As expected, double knockdown or knockout of GRASP55 and GRASP65 leads to the disassembly of the Golgi stack but does not cause cell death; rather, it impairs Golgi functions in protein trafficking, sorting, and glycosylation
+<sup><xref rid="ref-38" ref-type="bibr">38</xref>,
+<xref rid="ref-111" ref-type="bibr">111</xref></sup>, as discussed below.</p><p>Destruction of the Golgi stacks by GRASP inhibition accelerates protein trafficking but causes protein missorting. The Golgi is the transit center for protein trafficking and sorting for delivery to different destinations, including incorporation into membrane organelles, secretion to extracellular space, or degradation in lysosomes. Hypothetically, the close spatial arrangement of cisternae in stacks minimizes the distance that molecules must travel. Local tethering proteins facilitate vesicle fusion with Golgi membranes
+<sup><xref rid="ref-112" ref-type="bibr">112</xref></sup>; therefore, stacking should enhance protein trafficking. However, experimentally, disruption of Golgi stack formation by inhibiting GRASP functions resulted in the opposite effects. Inhibition of Golgi stack formation by microinjection of GRASP65 antibodies accelerates CD8 trafficking
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-39" ref-type="bibr">39</xref></sup>. Depletion of both GRASPs leads to the destruction of the entire Golgi architecture and enhances trafficking of the cell adhesion protein integrin, the vesicular stomatitis virus G glycoprotein (VSVG), and the lysosomal enzyme cathepsin D
+<sup><xref rid="ref-38" ref-type="bibr">38</xref>,
+<xref rid="ref-111" ref-type="bibr">111</xref></sup>. Golgi destruction increases the rate and efficiency of COPI vesicle formation
+<italic>in vitro</italic>
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup> and membrane association of coat proteins in cells
+<sup><xref rid="ref-111" ref-type="bibr">111</xref></sup>. Golgi destruction also causes missorting of the cathepsin D precursor to the extracellular space
+<sup><xref rid="ref-111" ref-type="bibr">111</xref></sup>, suggesting that stacking may ensure that sorting occurs only when cargo molecules reach the TGN but not in earlier subcompartments of the Golgi.</p><p>It is worth mentioning that GRASPs have been implicated in the transport of specific cargo proteins, such as TGF&#x003b1;
+<sup><xref rid="ref-106" ref-type="bibr">106</xref></sup>, p24
+<sup><xref rid="ref-108" ref-type="bibr">108</xref></sup>, CD83
+<sup><xref rid="ref-113" ref-type="bibr">113</xref></sup>, CD8&#x003b1;, and Frizzled4
+<sup><xref rid="ref-107" ref-type="bibr">107</xref></sup>. These proteins contain a C-terminal hydrophobic cytoplasmic tail in which a critical valine residue interacts with the PDZ domain of the GRASP proteins. Here, GRASPs function as cargo receptors or chaperones for these transmembrane proteins. Therefore, depending on the type of cargo, GRASP depletion may have different effects. For the transmembrane proteins with a C-terminal valine, knockdown of GRASP proteins may slow down trafficking, whereas for other cargo proteins without such a signature, such as VSV-G, integrin, and cathepsin D, an opposite effect is expected
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-39" ref-type="bibr">39</xref>,
+<xref rid="ref-111" ref-type="bibr">111</xref></sup>. GRASPs are also involved in unconventional secretion, a pathway that bypasses the Golgi, as extensively discussed elsewhere
+<sup><xref rid="ref-114" ref-type="bibr">114</xref>&#x02013;
+<xref rid="ref-116" ref-type="bibr">116</xref></sup>.</p><p>Golgi destruction also impairs accurate protein glycosylation. Glycosylation in the Golgi lumen can be divided into two types:
+<italic>N</italic>-linked glycosylation, by which the oligosaccharides are linked to the amide nitrogen of asparagine, and
+<italic>O</italic>-linked glycosylation, by which the oligosaccharides are linked to the hydroxyl group of serine, threonine, hydroxylysine, or tyrosine. The Golgi is the main station for protein oligosaccharide processing and maturation, and it harbors various glycosyltransferases and glycosidases in different subcompartments; an ordered structure is likely required to carry out precise, sequential modifications as cargo proteins pass between cisternae
+<sup><xref rid="ref-117" ref-type="bibr">117</xref>&#x02013;
+<xref rid="ref-119" ref-type="bibr">119</xref></sup>. In budding yeast,
+<italic>N</italic>-glycosylation in the Golgi mainly involves the addition of mannoses
+<sup><xref rid="ref-120" ref-type="bibr">120</xref></sup>. In multicellular organisms,
+<italic>N</italic>-glycosylation of membrane and secretory proteins is more complex and critical. Accurate glycosylation is essential for their cellular functions, including cell adhesion and migration, cell&#x02013;cell communication, and immunity
+<sup><xref rid="ref-121" ref-type="bibr">121</xref></sup>. In polarized cells, for example neurons and epithelial cells,
+<italic>N</italic>- and
+<italic>O</italic>-linked glycans function as apical sorting signals
+<sup><xref rid="ref-122" ref-type="bibr">122</xref></sup>, which could be the reason why stacking is not necessary in yeast but is crucial for life in higher-order organisms.</p><p>In mammalian cells, Golgi destruction by GRASP depletion decreases glycoprotein glycosylation and glycan complexity without impacting the expression level and localization of Golgi enzymes. A reasonable explanation for the decrease in glycoprotein glycan complexity is that as cargo moves more rapidly through unstacked Golgi compartments induced by GRASP depletion, resident enzymes have less time to recognize and modify their substrates
+<sup><xref rid="ref-111" ref-type="bibr">111</xref>,
+<xref rid="ref-123" ref-type="bibr">123</xref></sup>. As a result, glycoproteins contain more trimmed high-mannose glycans and fewer complex glycan structures in the GRASP knockdown cells. This effect was not due to Golgi ribbon unlinking, as suggested by some other studies
+<sup><xref rid="ref-40" ref-type="bibr">40</xref></sup>, and was also proven by the fact that the induction of Golgi ribbon unlinking by the depletion of golgin-84
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup> and by nocodazole treatment
+<sup><xref rid="ref-124" ref-type="bibr">124</xref>,
+<xref rid="ref-125" ref-type="bibr">125</xref></sup> did not result in the same effect as GRASP depletion
+<sup><xref rid="ref-111" ref-type="bibr">111</xref></sup>. Double knockdown or knockout of GRASPs decreases
+<italic>N</italic>-linked oligosaccharides on the cell surface, with a reduction in both high-mannose and complex-type glycans
+<sup><xref rid="ref-38" ref-type="bibr">38</xref>,
+<xref rid="ref-111" ref-type="bibr">111</xref></sup>. These results demonstrate an intimate link between the structure and function of the Golgi
+<sup><xref rid="ref-46" ref-type="bibr">46</xref>,
+<xref rid="ref-123" ref-type="bibr">123</xref></sup>. Interestingly, GRASP depletion decreased not only
+<italic>N</italic>-linked glycan complexity but also global
+<italic>N</italic>-linked glycoprotein glycosylation
+<sup><xref rid="ref-111" ref-type="bibr">111</xref></sup>. It is not immediately obvious why the total
+<italic>N</italic>-linked glycan amount should be reduced in GRASP knockdown cells. Since
+<italic>N</italic>-linked glycoprotein glycosylation is initiated in the ER, we speculate a feedback pathway exists to monitor Golgi processing and adjust the flux of protein trafficking and processing through early secretory compartments such as the ER. In summary, the Golgi stack is an indispensable structure to ensure a proper flux for protein trafficking and accurate glycosylation.</p></sec><sec><title>Concluding remarks</title><p>Golgi is the central organelle for the glycosylation, trafficking, and sorting of secretory and membrane proteins and lipids. To perform these complex functions, the Golgi membranes need to form a unique stacked structure and, subsequently, a linked ribbon. This structure undergoes morphological changes under physiological conditions such as during cell cycle progression and under stress conditions such as in diseases. In the last decade or so, much progress has been made in understanding the mechanism of Golgi structure and function. First, the identification of GRASP
+<italic>trans</italic>-oligomers provides a plausible explanation of how Golgi membranes form stacks and ribbons. GRASPs are the major targets for phosphorylation regulation during the cell cycle and in AD. To better understand GRASP functions and regulation, it is necessary to identify and characterize GRASP-interacting proteins. Second, it is now better known that the Golgi disassembly and reassembly processes during cell division are regulated by reversible protein post-translational modifications, in particular, protein phosphorylation that regulates cisternal stacking through GRASPs and membrane tethering through golgins, and monoubiquitination of the Golgi t-SNARE syntaxin 5 that controls p97/p47-mediated membrane fusion. So far, the cognate SNAREs of syntaxin 5 in post-mitotic Golgi membrane fusion still need to be identified. More work is also needed to figure out whether p97/p47 mediates homotypic or heterotypic membrane fusion of MGFs. Third, we now have a better idea of why Golgi structure formation is required for its function. Golgi structure serves as a quality control mechanism to ensure accurate protein glycosylation and sorting by slowing down protein trafficking. It is generally believed that Golgi structure formation and its morphological changes are adjusted to best perform its functions. More work needs to be done to investigate how Golgi adapts its structure to best fulfill its function under different conditions and what roles GRASPs play in these responses. This is interesting, as it may help understand how Golgi defects contribute to the pathogenesis of diseases.</p></sec><sec><title>Abbreviations</title><p>AAA, ATPases associated with diverse cellular activities; A&#x003b2;, amyloid beta; AD, Alzheimer&#x02019;s disease; APP, amyloid precursor protein; Cdk1, cyclin-dependent kinase 1; ER, endoplasmic reticulum; GRASP55, Golgi reassembly stacking protein of 55 kDa; GRASP65, Golgi reassembly stacking protein of 65 kDa; HACE1, the HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1; MGF, mitotic Golgi fragment; NSF,
+<italic>N</italic>-ethylmaleimide-sensitive factor; p97/VCP, valosin-containing protein; Plk1, polo-like kinase 1; RNAi, RNA interference; SNAP, soluble
+<italic>N</italic>-ethylmaleimide-sensitive factor attachment protein; SNARE, soluble
+<italic>N</italic>-ethylmaleimide-sensitive factor activating protein receptor; SPR, serine/proline-rich; TGN,
+<italic>trans</italic>-Golgi network; UBA, ubiquitin-associated; VCIP135, valosin-containing protein (p97)/p47 complex-interacting protein, p135.</p></sec></body><back><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lucocq</surname><given-names>JM</given-names></name><name><surname>Berger</surname><given-names>EG</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>Mitotic Golgi fragments in HeLa cells and their role in the reassembly pathway.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>1989</year>;<volume>109</volume>(<issue>2</issue>):<fpage>463</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.109.2.463</pub-id>
+<!--<pub-id pub-id-type="pmcid">2115706</pub-id>-->
+<?supplied-pmid 2503521?><pub-id pub-id-type="pmid">2503521</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Seemann</surname><given-names>J</given-names></name></person-group>:
+<article-title>Golgi biogenesis.</article-title>
+<source><italic>Cold Spring Harb Perspect Biol.</italic></source>
+<year>2011</year>;<volume>3</volume>(<issue>10</issue>):<fpage>a005330</fpage>.
+<pub-id pub-id-type="doi">10.1101/cshperspect.a005330</pub-id>
+<!--<pub-id pub-id-type="pmcid">3179335</pub-id>-->
+<?supplied-pmid 21690214?><pub-id pub-id-type="pmid">21690214</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Jokitalo</surname><given-names>E</given-names></name></person-group>:
+<article-title>Golgi apparatus partitioning during cell division.</article-title>
+<source><italic>Mol Membr Biol.</italic></source>
+<year>2003</year>;<volume>20</volume>(<issue>2</issue>):<fpage>117</fpage>&#x02013;<lpage>27</lpage>.
+<pub-id pub-id-type="doi">10.1080/0968768031000084163</pub-id>
+<?supplied-pmid 12851069?><pub-id pub-id-type="pmid">12851069</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>N</given-names></name><name><surname>Lowe</surname><given-names>M</given-names></name><name><surname>Levine</surname><given-names>TP</given-names></name><etal/></person-group>:
+<article-title>The vesicle docking protein p115 binds GM130, a
+<italic>cis</italic>-Golgi matrix protein, in a mitotically regulated manner.</article-title>
+<source><italic>Cell.</italic></source>
+<year>1997</year>;<volume>89</volume>(<issue>3</issue>):<fpage>445</fpage>&#x02013;<lpage>55</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)80225-1</pub-id>
+<?supplied-pmid 9150144?><pub-id pub-id-type="pmid">9150144</pub-id></mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Wei</surname><given-names>JH</given-names></name><name><surname>Bisel</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Golgi cisternal unstacking stimulates COPI vesicle budding and protein transport.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2008</year>;<volume>3</volume>(<issue>2</issue>):<fpage>e1647</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0001647</pub-id>
+<!--<pub-id pub-id-type="pmcid">2249924</pub-id>-->
+<?supplied-pmid 18297130?><pub-id pub-id-type="pmid">18297130</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xiang</surname><given-names>Y</given-names></name><name><surname>Seemann</surname><given-names>J</given-names></name><name><surname>Bisel</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Active ADP-ribosylation factor-1 (ARF1) is required for mitotic Golgi fragmentation.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2007</year>;<volume>282</volume>(<issue>30</issue>):<fpage>21829</fpage>&#x02013;<lpage>37</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M611716200</pub-id>
+<!--<pub-id pub-id-type="pmcid">3278854</pub-id>-->
+<?supplied-pmid 17562717?><pub-id pub-id-type="pmid">17562717</pub-id></mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Seemann</surname><given-names>J</given-names></name><name><surname>Pypaert</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>A direct role for GRASP65 as a mitotically regulated Golgi stacking factor.</article-title>
+<source><italic>Embo J.</italic></source>
+<year>2003</year>;<volume>22</volume>(<issue>13</issue>):<fpage>3279</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.1093/emboj/cdg317</pub-id>
+<!--<pub-id pub-id-type="pmcid">165642</pub-id>-->
+<?supplied-pmid 12839990?><pub-id pub-id-type="pmid">12839990</pub-id></mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xiang</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>GRASP55 and GRASP65 play complementary and essential roles in Golgi cisternal stacking.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>2010</year>;<volume>188</volume>(<issue>2</issue>):<fpage>237</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.200907132</pub-id>
+<!--<pub-id pub-id-type="pmcid">2812519</pub-id>-->
+<?supplied-pmid 20083603?><pub-id pub-id-type="pmid">20083603</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowe</surname><given-names>M</given-names></name><name><surname>Gonatas</surname><given-names>NK</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>The mitotic phosphorylation cycle of the cis-Golgi matrix protein GM130.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>2000</year>;<volume>149</volume>(<issue>2</issue>):<fpage>341</fpage>&#x02013;<lpage>56</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.149.2.341</pub-id>
+<!--<pub-id pub-id-type="pmcid">2175168</pub-id>-->
+<?supplied-pmid 10769027?><pub-id pub-id-type="pmid">10769027</pub-id></mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Levine</surname><given-names>TP</given-names></name><name><surname>Peters</surname><given-names>JM</given-names></name><etal/></person-group>:
+<article-title>An NSF-like ATPase, p97, and NSF mediate cisternal regrowth from mitotic Golgi fragments.</article-title>
+<source><italic>Cell.</italic></source>
+<year>1995</year>;<volume>82</volume>(<issue>6</issue>):<fpage>905</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="doi">10.1016/0092-8674(95)90270-8</pub-id>
+<?supplied-pmid 7553851?><pub-id pub-id-type="pmid">7553851</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Kondo</surname><given-names>H</given-names></name><name><surname>Newman</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Syntaxin 5 is a common component of the NSF- and p97-mediated reassembly pathways of Golgi cisternae from mitotic Golgi fragments
+<italic>in vitro.</italic>
+</article-title>
+<source><italic>Cell.</italic></source>
+<year>1998</year>;<volume>92</volume>(<issue>5</issue>):<fpage>603</fpage>&#x02013;<lpage>10</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)81128-9</pub-id>
+<?supplied-pmid 9506515?><pub-id pub-id-type="pmid">9506515</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Misteli</surname><given-names>T</given-names></name><name><surname>Watson</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Reassembly of Golgi stacks from mitotic Golgi fragments in a cell-free system.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>1995</year>;<volume>129</volume>(<issue>3</issue>):<fpage>605</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.129.3.605</pub-id>
+<!--<pub-id pub-id-type="pmcid">2120448</pub-id>-->
+<?supplied-pmid 7730399?><pub-id pub-id-type="pmid">7730399</pub-id></mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Golgi: Methods for Preparation.</article-title>
+<source><italic>Encyclopedia of Life Sciences.</italic></source>
+<year>2008</year>
+<pub-id pub-id-type="doi">10.1002/9780470015902.a0002590.pub2</pub-id>
+</mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>D</given-names></name><name><surname>Xiang</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Reconstitution of the cell cycle-regulated Golgi disassembly and reassembly in a cell-free system.</article-title>
+<source><italic>Nat Protoc.</italic></source>
+<year>2010</year>;<volume>5</volume>(<issue>4</issue>):<fpage>758</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1038/nprot.2010.38</pub-id>
+<!--<pub-id pub-id-type="pmcid">3282113</pub-id>-->
+<?supplied-pmid 20360770?><pub-id pub-id-type="pmid">20360770</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>D</given-names></name><name><surname>Mar</surname><given-names>K</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Molecular mechanism of mitotic Golgi disassembly and reassembly revealed by a defined reconstitution assay.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2008</year>;<volume>283</volume>(<issue>10</issue>):<fpage>6085</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M707715200</pub-id>
+<!--<pub-id pub-id-type="pmcid">3291109</pub-id>-->
+<?supplied-pmid 18156178?><pub-id pub-id-type="pmid">18156178</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Satoh</surname><given-names>A</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>Mapping the functional domains of the Golgi stacking factor GRASP65.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2005</year>;<volume>280</volume>(<issue>6</issue>):<fpage>4921</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M412407200</pub-id>
+<!--<pub-id pub-id-type="pmcid">4443495</pub-id>-->
+<?supplied-pmid 15576368?><pub-id pub-id-type="pmid">15576368</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Preisinger</surname><given-names>C</given-names></name><name><surname>K&#x000f6;rner</surname><given-names>R</given-names></name><name><surname>Wind</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Plk1 docking to GRASP65 phosphorylated by Cdk1 suggests a mechanism for Golgi checkpoint signalling.</article-title>
+<source><italic>Embo J.</italic></source>
+<year>2005</year>;<volume>24</volume>(<issue>4</issue>):<fpage>753</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="doi">10.1038/sj.emboj.7600569</pub-id>
+<!--<pub-id pub-id-type="pmcid">549625</pub-id>-->
+<?supplied-pmid 15678101?><pub-id pub-id-type="pmid">15678101</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1024528">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kano</surname><given-names>F</given-names></name><name><surname>Takenaka</surname><given-names>K</given-names></name><name><surname>Yamamoto</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>MEK and Cdc2 kinase are sequentially required for Golgi disassembly in MDCK cells by the mitotic
+<italic>Xenopus</italic> extracts.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>2000</year>;<volume>149</volume>(<issue>2</issue>):<fpage>357</fpage>&#x02013;<lpage>68</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.149.2.357</pub-id>
+<!--<pub-id pub-id-type="pmcid">2175170</pub-id>-->
+<?supplied-pmid 10769028?><pub-id pub-id-type="pmid">10769028</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cervigni</surname><given-names>RI</given-names></name><name><surname>Bonavita</surname><given-names>R</given-names></name><name><surname>Barretta</surname><given-names>ML</given-names></name><etal/></person-group>:
+<article-title>JNK2 controls fragmentation of the Golgi complex and the G2/M transition through phosphorylation of GRASP65.</article-title>
+<source><italic>J Cell Sci.</italic></source>
+<year>2015</year>;<volume>128</volume>(<issue>12</issue>):<fpage>2249</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="doi">10.1242/jcs.164871</pub-id>
+<?supplied-pmid 25948586?><pub-id pub-id-type="pmid">25948586</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725478356">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Misteli</surname><given-names>T</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>COP-coated vesicles are involved in the mitotic fragmentation of Golgi stacks in a cell-free system.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>1994</year>;<volume>125</volume>(<issue>2</issue>):<fpage>269</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.125.2.269</pub-id>
+<!--<pub-id pub-id-type="pmcid">2120040</pub-id>-->
+<?supplied-pmid 8163545?><pub-id pub-id-type="pmid">8163545</pub-id></mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kondo</surname><given-names>H</given-names></name><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Newman</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>p47 is a cofactor for p97-mediated membrane fusion.</article-title>
+<source><italic>Nature.</italic></source>
+<year>1997</year>;<volume>388</volume>(<issue>6637</issue>):<fpage>75</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1038/40411</pub-id>
+<?supplied-pmid 9214505?><pub-id pub-id-type="pmid">9214505</pub-id></mixed-citation></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Acharya</surname><given-names>U</given-names></name><name><surname>Jacobs</surname><given-names>R</given-names></name><name><surname>Peters</surname><given-names>JM</given-names></name><etal/></person-group>:
+<article-title>The formation of Golgi stacks from vesiculated Golgi membranes requires two distinct fusion events.</article-title>
+<source><italic>Cell.</italic></source>
+<year>1995</year>;<volume>82</volume>(<issue>6</issue>):<fpage>895</fpage>&#x02013;<lpage>904</lpage>.
+<pub-id pub-id-type="doi">10.1016/0092-8674(95)90269-4</pub-id>
+<?supplied-pmid 7553850?><pub-id pub-id-type="pmid">7553850</pub-id></mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meyer</surname><given-names>HH</given-names></name><name><surname>Kondo</surname><given-names>H</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>The p47 co-factor regulates the ATPase activity of the membrane fusion protein, p97.</article-title>
+<source><italic>FEBS Lett.</italic></source>
+<year>1998</year>;<volume>437</volume>(<issue>3</issue>):<fpage>255</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0014-5793(98)01232-0</pub-id>
+<?supplied-pmid 9824302?><pub-id pub-id-type="pmid">9824302</pub-id></mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meyer</surname><given-names>HH</given-names></name><name><surname>Shorter</surname><given-names>JG</given-names></name><name><surname>Seemann</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>A complex of mammalian ufd1 and npl4 links the AAA-ATPase, p97, to ubiquitin and nuclear transport pathways.</article-title>
+<source><italic>Embo J.</italic></source>
+<year>2000</year>;<volume>19</volume>(<issue>10</issue>):<fpage>2181</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="doi">10.1093/emboj/19.10.2181</pub-id>
+<!--<pub-id pub-id-type="pmcid">384367</pub-id>-->
+<?supplied-pmid 10811609?><pub-id pub-id-type="pmid">10811609</pub-id></mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>D</given-names></name><name><surname>Xiang</surname><given-names>Y</given-names></name><name><surname>De Renzis</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>The ubiquitin ligase HACE1 regulates Golgi membrane dynamics during the cell cycle.</article-title>
+<source><italic>Nat Commun.</italic></source>
+<year>2011</year>;<volume>2</volume>:<fpage>501</fpage>.
+<pub-id pub-id-type="doi">10.1038/ncomms1509</pub-id>
+<!--<pub-id pub-id-type="pmcid">3282116</pub-id>-->
+<?supplied-pmid 21988917?><pub-id pub-id-type="pmid">21988917</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Satoh</surname><given-names>A</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>VCIP135 acts as a deubiquitinating enzyme during p97&#x02013;p47-mediated reassembly of mitotic Golgi fragments.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>2004</year>;<volume>164</volume>(<issue>7</issue>):<fpage>973</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.200401010</pub-id>
+<!--<pub-id pub-id-type="pmcid">2172062</pub-id>-->
+<?supplied-pmid 15037600?><pub-id pub-id-type="pmid">15037600</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1018388">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Gui</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>X</given-names></name><etal/></person-group>:
+<article-title>Altered cofactor regulation with disease-associated p97/VCP mutations.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2015</year>;<volume>112</volume>(<issue>14</issue>):<fpage>E1705</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1418820112</pub-id>
+<!--<pub-id pub-id-type="pmcid">4394316</pub-id>-->
+<?supplied-pmid 25775548?><pub-id pub-id-type="pmid">25775548</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowe</surname><given-names>M</given-names></name><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Nakamura</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Cdc2 kinase directly phosphorylates the
+<italic>cis</italic>-Golgi matrix protein GM130 and is required for Golgi fragmentation in mitosis.</article-title>
+<source><italic>Cell.</italic></source>
+<year>1998</year>;<volume>94</volume>(<issue>6</issue>):<fpage>783</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)81737-7</pub-id>
+<?supplied-pmid 9753325?><pub-id pub-id-type="pmid">9753325</pub-id></mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>D</given-names></name><name><surname>Yuan</surname><given-names>H</given-names></name><name><surname>Vielemeyer</surname><given-names>O</given-names></name><etal/></person-group>:
+<article-title>Sequential phosphorylation of GRASP65 during mitotic Golgi disassembly.</article-title>
+<source><italic>Biol Open.</italic></source>
+<year>2012</year>;<volume>1</volume>(<issue>12</issue>):<fpage>1204</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="doi">10.1242/bio.20122659</pub-id>
+<!--<pub-id pub-id-type="pmcid">3522882</pub-id>-->
+<?supplied-pmid 23259055?><pub-id pub-id-type="pmid">23259055</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Phosphorylation regulates VCIP135 function in Golgi membrane fusion during the cell cycle.</article-title>
+<source><italic>J Cell Sci.</italic></source>
+<year>2014</year>;<volume>127</volume>(<issue>Pt 1</issue>):<fpage>172</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1242/jcs.134668</pub-id>
+<!--<pub-id pub-id-type="pmcid">3874786</pub-id>-->
+<?supplied-pmid 24163436?><pub-id pub-id-type="pmid">24163436</pub-id></mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meyer</surname><given-names>HH</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>Direct binding of ubiquitin conjugates by the mammalian p97 adaptor complexes, p47 and Ufd1-Npl4.</article-title>
+<source><italic>Embo J.</italic></source>
+<year>2002</year>;<volume>21</volume>(<issue>21</issue>):<fpage>5645</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.1093/emboj/cdf579</pub-id>
+<!--<pub-id pub-id-type="pmcid">131076</pub-id>-->
+<?supplied-pmid 12411482?><pub-id pub-id-type="pmid">12411482</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1010952">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>S</given-names></name><name><surname>Tang</surname><given-names>D</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Monoubiquitination of syntaxin 5 regulates Golgi membrane dynamics during the cell cycle.</article-title>
+<source><italic>Dev Cell.</italic></source>
+<year>2016</year>;<volume>38</volume>(<issue>1</issue>):<fpage>73</fpage>&#x02013;<lpage>85</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.devcel.2016.06.001</pub-id>
+<!--<pub-id pub-id-type="pmcid">4942811</pub-id>-->
+<?supplied-pmid 27404360?><pub-id pub-id-type="pmid">27404360</pub-id></mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Golgi apparatus inheritance</article-title>. In
+<source><italic>The Golgi apparatus.</italic></source>State of the art 110 years after Camillo Golgi&#x02019;s discovery, A Mironov, M Pavelka, and A Luini, Editors. Springer: New York.<year>2008</year>;<fpage>580</fpage>&#x02013;<lpage>607</lpage>.
+<pub-id pub-id-type="doi">10.1007/978-3-211-76310-0_34</pub-id>
+</mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barr</surname><given-names>FA</given-names></name><name><surname>Puype</surname><given-names>M</given-names></name><name><surname>Vandekerckhove</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>GRASP65, a protein involved in the stacking of Golgi cisternae.</article-title>
+<source><italic>Cell.</italic></source>
+<year>1997</year>;<volume>91</volume>(<issue>2</issue>):<fpage>253</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)80407-9</pub-id>
+<?supplied-pmid 9346242?><pub-id pub-id-type="pmid">9346242</pub-id></mixed-citation></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shorter</surname><given-names>J</given-names></name><name><surname>Watson</surname><given-names>R</given-names></name><name><surname>Giannakou</surname><given-names>ME</given-names></name><etal/></person-group>:
+<article-title>GRASP55, a second mammalian GRASP protein involved in the stacking of Golgi cisternae in a cell-free system.</article-title>
+<source><italic>Embo J.</italic></source>
+<year>1999</year>;<volume>18</volume>(<issue>18</issue>):<fpage>4949</fpage>&#x02013;<lpage>4960</lpage>.
+<pub-id pub-id-type="doi">10.1093/emboj/18.18.4949</pub-id>
+<!--<pub-id pub-id-type="pmcid">1171566</pub-id>-->
+<?supplied-pmid 10487747?><pub-id pub-id-type="pmid">10487747</pub-id></mixed-citation></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duran</surname><given-names>JM</given-names></name><name><surname>Kinseth</surname><given-names>M</given-names></name><name><surname>Bossard</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>The Role of GRASP55 in Golgi Fragmentation and Entry of Cells into Mitosis.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2008</year>;<volume>19</volume>(<issue>6</issue>):<fpage>2579</fpage>&#x02013;<lpage>87</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.E07-10-0998</pub-id>
+<!--<pub-id pub-id-type="pmcid">2397314</pub-id>-->
+<?supplied-pmid 18385516?><pub-id pub-id-type="pmid">18385516</pub-id></mixed-citation></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>D</given-names></name><name><surname>Yuan</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>The Role of GRASP65 in Golgi Cisternal Stacking and Cell Cycle Progression.</article-title>
+<source><italic>Traffic.</italic></source>
+<year>2010</year>;<volume>11</volume>(<issue>6</issue>):<fpage>827</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1600-0854.2010.01055.x</pub-id>
+<!--<pub-id pub-id-type="pmcid">3278861</pub-id>-->
+<?supplied-pmid 20214750?><pub-id pub-id-type="pmid">20214750</pub-id></mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bekier</surname><given-names>ME</given-names><suffix>2nd</suffix></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Knockout of the Golgi stacking proteins GRASP55 and GRASP65 impairs Golgi structure and function.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2017</year>;<volume>28</volume>(<issue>21</issue>):<fpage>2833</fpage>&#x02013;<lpage>2842</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.E17-02-0112</pub-id>
+<!--<pub-id pub-id-type="pmcid">5638586</pub-id>-->
+<?supplied-pmid 28814501?><pub-id pub-id-type="pmid">28814501</pub-id></mixed-citation></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>I</given-names></name><name><surname>Tiwari</surname><given-names>N</given-names></name><name><surname>Dunlop</surname><given-names>MH</given-names></name><etal/></person-group>:
+<article-title>Membrane adhesion dictates Golgi stacking and cisternal morphology.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2014</year>;<volume>111</volume>(<issue>5</issue>):<fpage>1849</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1323895111</pub-id>
+<!--<pub-id pub-id-type="pmcid">3918774</pub-id>-->
+<?supplied-pmid 24449908?><pub-id pub-id-type="pmid">24449908</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718246727">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Puthenveedu</surname><given-names>MA</given-names></name><name><surname>Bachert</surname><given-names>C</given-names></name><name><surname>Puri</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>GM130 and GRASP65-dependent lateral cisternal fusion allows uniform Golgi-enzyme distribution.</article-title>
+<source><italic>Nat Cell Biol.</italic></source>
+<year>2006</year>;<volume>8</volume>(<issue>3</issue>):<fpage>238</fpage>&#x02013;<lpage>48</lpage>.
+<pub-id pub-id-type="doi">10.1038/ncb1366</pub-id>
+<?supplied-pmid 16489344?><pub-id pub-id-type="pmid">16489344</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1009292">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feinstein</surname><given-names>TN</given-names></name><name><surname>Linstedt</surname><given-names>AD</given-names></name></person-group>:
+<article-title>GRASP55 Regulates Golgi Ribbon Formation.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2008</year>;<volume>19</volume>(<issue>7</issue>):<fpage>2696</fpage>&#x02013;<lpage>707</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.E07-11-1200</pub-id>
+<!--<pub-id pub-id-type="pmcid">2441664</pub-id>-->
+<?supplied-pmid 18434598?><pub-id pub-id-type="pmid">18434598</pub-id></mixed-citation></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Veenendaal</surname><given-names>T</given-names></name><name><surname>Jarvela</surname><given-names>T</given-names></name><name><surname>Grieve</surname><given-names>AG</given-names></name><etal/></person-group>:
+<article-title>GRASP65 controls the cis Golgi integrity in vivo.</article-title>
+<source><italic>Biol Open.</italic></source>
+<year>2014</year>;<volume>3</volume>(<issue>6</issue>):<fpage>431</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1242/bio.20147757</pub-id>
+<!--<pub-id pub-id-type="pmcid">4058077</pub-id>-->
+<?supplied-pmid 24795147?><pub-id pub-id-type="pmid">24795147</pub-id></mixed-citation></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jarvela</surname><given-names>T</given-names></name><name><surname>Linstedt</surname><given-names>AD</given-names></name></person-group>:
+<article-title>Isoform-specific tethering links the Golgi ribbon to maintain compartmentalization.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2014</year>;<volume>25</volume>(<issue>1</issue>):<fpage>133</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.E13-07-0395</pub-id>
+<!--<pub-id pub-id-type="pmcid">3873884</pub-id>-->
+<?supplied-pmid 24227884?><pub-id pub-id-type="pmid">24227884</pub-id></mixed-citation></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cluett</surname><given-names>EB</given-names></name><name><surname>Brown</surname><given-names>WJ</given-names></name></person-group>:
+<article-title>Adhesion of Golgi cisternae by proteinaceous interactions: intercisternal bridges as putative adhesive structures.</article-title>
+<source><italic>J Cell Sci.</italic></source>
+<year>1992</year>;<volume>103</volume>:<fpage>773</fpage>&#x02013;<lpage>784</lpage>.
+<?supplied-pmid 1336017?><pub-id pub-id-type="pmid">1336017</pub-id></mixed-citation></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>D</given-names></name><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Huang</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Mena-GRASP65 interaction couples actin polymerization to Golgi ribbon linking.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2016</year>;<volume>27</volume>(<issue>1</issue>):<fpage>137</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.E15-09-0650</pub-id>
+<!--<pub-id pub-id-type="pmcid">4694753</pub-id>-->
+<?supplied-pmid 26538023?><pub-id pub-id-type="pmid">26538023</pub-id></mixed-citation></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>GRASPs in Golgi Structure and Function.</article-title>
+<source><italic>Front Cell Dev Biol.</italic></source>
+<year>2016</year>;<volume>3</volume>:<fpage>84</fpage>.
+<pub-id pub-id-type="doi">10.3389/fcell.2015.00084</pub-id>
+<!--<pub-id pub-id-type="pmcid">4701983</pub-id>-->
+<?supplied-pmid 26779480?><pub-id pub-id-type="pmid">26779480</pub-id></mixed-citation></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vielemeyer</surname><given-names>O</given-names></name><name><surname>Yuan</surname><given-names>H</given-names></name><name><surname>Moutel</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Direct Selection of Monoclonal Phosphospecific Antibodies without Prior Phosphoamino Acid Mapping.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2009</year>;<volume>284</volume>(<issue>31</issue>):<fpage>20791</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M109.008730</pub-id>
+<!--<pub-id pub-id-type="pmcid">2742843</pub-id>-->
+<?supplied-pmid 19473967?><pub-id pub-id-type="pmid">19473967</pub-id></mixed-citation></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jesch</surname><given-names>SA</given-names></name><name><surname>Lewis</surname><given-names>TS</given-names></name><name><surname>Ahn</surname><given-names>NG</given-names></name><etal/></person-group>:
+<article-title>Mitotic phosphorylation of Golgi reassembly stacking protein 55 by mitogen-activated protein kinase ERK2.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2001</year>;<volume>12</volume>(<issue>6</issue>):<fpage>1811</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.12.6.1811</pub-id>
+<!--<pub-id pub-id-type="pmcid">37343</pub-id>-->
+<?supplied-pmid 11408587?><pub-id pub-id-type="pmid">11408587</pub-id></mixed-citation></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sengupta</surname><given-names>D</given-names></name><name><surname>Linstedt</surname><given-names>AD</given-names></name></person-group>:
+<article-title>Mitotic inhibition of GRASP65 organelle tethering involves Polo-like kinase 1 (PLK1) phosphorylation proximate to an internal PDZ ligand.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2010</year>;<volume>285</volume>(<issue>51</issue>):<fpage>39994</fpage>&#x02013;<lpage>40003</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M110.189449</pub-id>
+<!--<pub-id pub-id-type="pmcid">3000981</pub-id>-->
+<?supplied-pmid 20937827?><pub-id pub-id-type="pmid">20937827</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barr</surname><given-names>FA</given-names></name><name><surname>Nakamura</surname><given-names>N</given-names></name><name><surname>Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>Mapping the interaction between GRASP65 and GM130, components of a protein complex involved in the stacking of Golgi cisternae.</article-title>
+<source><italic>Embo J.</italic></source>
+<year>1998</year>;<volume>17</volume>(<issue>12</issue>):<fpage>3258</fpage>&#x02013;<lpage>68</lpage>.
+<pub-id pub-id-type="doi">10.1093/emboj/17.12.3258</pub-id>
+<!--<pub-id pub-id-type="pmcid">1170664</pub-id>-->
+<?supplied-pmid 9628863?><pub-id pub-id-type="pmid">9628863</pub-id></mixed-citation></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Linstedt</surname><given-names>AD</given-names></name></person-group>:
+<article-title>GRASP: A Multitasking Tether.</article-title>
+<source><italic>Front Cell Dev Biol.</italic></source>
+<year>2016</year>;<volume>4</volume>:<fpage>1</fpage>.
+<pub-id pub-id-type="doi">10.3389/fcell.2016.00001</pub-id>
+<!--<pub-id pub-id-type="pmcid">4726779</pub-id>-->
+<?supplied-pmid 26858948?><pub-id pub-id-type="pmid">26858948</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726134525">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Truschel</surname><given-names>ST</given-names></name><name><surname>Sengupta</surname><given-names>D</given-names></name><name><surname>Foote</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Structure of the membrane-tethering GRASP domain reveals a unique PDZ ligand interaction that mediates Golgi biogenesis.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2011</year>;<volume>286</volume>(<issue>23</issue>):<fpage>20125</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.C111.245324</pub-id>
+<!--<pub-id pub-id-type="pmcid">3121478</pub-id>-->
+<?supplied-pmid 21515684?><pub-id pub-id-type="pmid">21515684</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/11429956">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Truschel</surname><given-names>ST</given-names></name><name><surname>Zhang</surname><given-names>M</given-names></name><name><surname>Bachert</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Allosteric regulation of GRASP protein-dependent Golgi membrane tethering by mitotic phosphorylation.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2012</year>;<volume>287</volume>(<issue>24</issue>):<fpage>19870</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M111.326256</pub-id>
+<!--<pub-id pub-id-type="pmcid">3370171</pub-id>-->
+<?supplied-pmid 22523075?><pub-id pub-id-type="pmid">22523075</pub-id></mixed-citation></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feng</surname><given-names>Y</given-names></name><name><surname>Yu</surname><given-names>W</given-names></name><name><surname>Li</surname><given-names>X</given-names></name><etal/></person-group>:
+<article-title>Structural insight into Golgi membrane stacking by GRASP65 and GRASP55 proteins.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2013</year>;<volume>288</volume>(<issue>39</issue>):<fpage>28418</fpage>&#x02013;<lpage>27</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M113.478024</pub-id>
+<!--<pub-id pub-id-type="pmcid">3784759</pub-id>-->
+<?supplied-pmid 23940043?><pub-id pub-id-type="pmid">23940043</pub-id></mixed-citation></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>J</given-names></name><name><surname>Li</surname><given-names>B</given-names></name><name><surname>Huang</surname><given-names>X</given-names></name><etal/></person-group>:
+<article-title>Structural Basis for the Interaction between Golgi Reassembly-stacking Protein GRASP55 and Golgin45.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2017</year>;<volume>292</volume>(<issue>7</issue>):<fpage>2956</fpage>&#x02013;<lpage>2965</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M116.765990</pub-id>
+<!--<pub-id pub-id-type="pmcid">5314190</pub-id>-->
+<?supplied-pmid 28049725?><pub-id pub-id-type="pmid">28049725</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727164350">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>F</given-names></name><name><surname>Shi</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Structural Basis for the Interaction between the Golgi Reassembly-Stacking Protein GRASP65 and the Golgi Matrix Protein GM130.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2015</year>;<volume>290</volume>(<issue>44</issue>):<fpage>26373</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M115.657940</pub-id>
+<!--<pub-id pub-id-type="pmcid">4646294</pub-id>-->
+<?supplied-pmid 26363069?><pub-id pub-id-type="pmid">26363069</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725782665">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mendes</surname><given-names>LF</given-names></name><name><surname>Garcia</surname><given-names>AF</given-names></name><name><surname>Kumagai</surname><given-names>PS</given-names></name><etal/></person-group>:
+<article-title>New structural insights into Golgi Reassembly and Stacking Protein (GRASP) in solution.</article-title>
+<source><italic>Sci Rep.</italic></source>
+<year>2016</year>;<volume>6</volume>:<fpage>29976</fpage>.
+<pub-id pub-id-type="doi">10.1038/srep29976</pub-id>
+<!--<pub-id pub-id-type="pmcid">4951691</pub-id>-->
+<?supplied-pmid 27436376?><pub-id pub-id-type="pmid">27436376</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726563226">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Popoff</surname><given-names>V</given-names></name><name><surname>Adolf</surname><given-names>F</given-names></name><name><surname>Br&#x000fc;gger</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>COPI budding within the Golgi stack.</article-title>
+<source><italic>Cold Spring Harb Perspect Biol.</italic></source>
+<year>2011</year>;<volume>3</volume>(<issue>11</issue>):<fpage>a005231</fpage>.
+<pub-id pub-id-type="doi">10.1101/cshperspect.a005231</pub-id>
+<!--<pub-id pub-id-type="pmcid">3220356</pub-id>-->
+<?supplied-pmid 21844168?><pub-id pub-id-type="pmid">21844168</pub-id></mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jakymiw</surname><given-names>A</given-names></name><name><surname>Raharjo</surname><given-names>E</given-names></name><name><surname>Rattner</surname><given-names>JB</given-names></name><etal/></person-group>:
+<article-title>Identification and characterization of a novel Golgi protein, golgin-67.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2000</year>;<volume>275</volume>(<issue>6</issue>):<fpage>4137</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.275.6.4137</pub-id>
+<?supplied-pmid 10660574?><pub-id pub-id-type="pmid">10660574</pub-id></mixed-citation></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diao</surname><given-names>A</given-names></name><name><surname>Rahman</surname><given-names>D</given-names></name><name><surname>Pappin</surname><given-names>DJ</given-names></name><etal/></person-group>:
+<article-title>The coiled-coil membrane protein golgin-84 is a novel rab effector required for Golgi ribbon formation.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>2003</year>;<volume>160</volume>(<issue>2</issue>):<fpage>201</fpage>&#x02013;<lpage>12</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.200207045</pub-id>
+<!--<pub-id pub-id-type="pmcid">2172652</pub-id>-->
+<?supplied-pmid 12538640?><pub-id pub-id-type="pmid">12538640</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1010110">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cha</surname><given-names>H</given-names></name><name><surname>Smith</surname><given-names>BL</given-names></name><name><surname>Gallo</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Phosphorylation of golgin-160 by mixed lineage kinase 3.</article-title>
+<source><italic>J Cell Sci.</italic></source>
+<year>2004</year>;<volume>117</volume>(<issue>Pt 5</issue>):<fpage>751</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="doi">10.1242/jcs.00897</pub-id>
+<?supplied-pmid 14734651?><pub-id pub-id-type="pmid">14734651</pub-id></mixed-citation></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dirac-Svejstrup</surname><given-names>AB</given-names></name><name><surname>Shorter</surname><given-names>J</given-names></name><name><surname>Waters</surname><given-names>MG</given-names></name><etal/></person-group>:
+<article-title>Phosphorylation of the vesicle-tethering protein p115 by a casein kinase II-like enzyme is required for Golgi reassembly from isolated mitotic fragments.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>2000</year>;<volume>150</volume>(<issue>3</issue>):<fpage>475</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.150.3.475</pub-id>
+<!--<pub-id pub-id-type="pmcid">2175190</pub-id>-->
+<?supplied-pmid 10931861?><pub-id pub-id-type="pmid">10931861</pub-id></mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Witkos</surname><given-names>TM</given-names></name><name><surname>Lowe</surname><given-names>M</given-names></name></person-group>:
+<article-title>The Golgin Family of Coiled-Coil Tethering Proteins.</article-title>
+<source><italic>Front Cell Dev Biol.</italic></source>
+<year>2016</year>;<volume>3</volume>:<fpage> 86</fpage>.
+<pub-id pub-id-type="doi">10.3389/fcell.2015.00086</pub-id>
+<!--<pub-id pub-id-type="pmcid">4707255</pub-id>-->
+<?supplied-pmid 26793708?><pub-id pub-id-type="pmid">26793708</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726092925">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xiang</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>New components of the Golgi matrix.</article-title>
+<source><italic>Cell Tissue Res.</italic></source>
+<year>2011</year>;<volume>344</volume>(<issue>3</issue>):<fpage>365</fpage>&#x02013;<lpage>79</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00441-011-1166-x</pub-id>
+<!--<pub-id pub-id-type="pmcid">3278855</pub-id>-->
+<?supplied-pmid 21494806?><pub-id pub-id-type="pmid">21494806</pub-id></mixed-citation></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shorter</surname><given-names>J</given-names></name><name><surname> Warren</surname><given-names>G</given-names></name></person-group>:
+<article-title>Golgi architecture and inheritance.</article-title>
+<source><italic>Annu Rev Cell Dev Biol.</italic></source>
+<year>2002</year>;<volume>18</volume>:<fpage>379</fpage>&#x02013;<lpage>420</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev.cellbio.18.030602.133733</pub-id>
+<?supplied-pmid 12142281?><pub-id pub-id-type="pmid">12142281</pub-id></mixed-citation></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colanzi</surname><given-names>A</given-names></name><name><surname>Corda</surname><given-names>D</given-names></name></person-group>:
+<article-title>Mitosis controls the Golgi and the Golgi controls mitosis.</article-title>
+<source><italic>Curr Opin Cell Biol.</italic></source>
+<year>2007</year>;<volume>19</volume>(<issue>4</issue>):<fpage>386</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ceb.2007.06.002</pub-id>
+<?supplied-pmid 17689238?><pub-id pub-id-type="pmid">17689238</pub-id></mixed-citation></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hidalgo Carcedo</surname><given-names>C</given-names></name><name><surname>Bonazzi</surname><given-names>M</given-names></name><name><surname>Span&#x000f2;</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Mitotic Golgi partitioning is driven by the membrane-fissioning protein CtBP3/BARS.</article-title>
+<source><italic>Science.</italic></source>
+<year>2004</year>;<volume>305</volume>(<issue>5680</issue>):<fpage>93</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1097775</pub-id>
+<?supplied-pmid 15232108?><pub-id pub-id-type="pmid">15232108</pub-id></mixed-citation></ref><ref id="ref-68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colanzi</surname><given-names>A</given-names></name><name><surname>Hidalgo Carcedo</surname><given-names>C</given-names></name><name><surname>Persico</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>The Golgi mitotic checkpoint is controlled by BARS-dependent fission of the Golgi ribbon into separate stacks in G2.</article-title>
+<source><italic>Embo J.</italic></source>
+<year>2007</year>;<volume>26</volume>(<issue>10</issue>):<fpage>2465</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.1038/sj.emboj.7601686</pub-id>
+<!--<pub-id pub-id-type="pmcid">1868899</pub-id>-->
+<?supplied-pmid 17431394?><pub-id pub-id-type="pmid">17431394</pub-id></mixed-citation></ref><ref id="ref-69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>S&#x000fc;tterlin</surname><given-names>C</given-names></name><name><surname>Hsu</surname><given-names>P</given-names></name><name><surname>Mallabiabarrena</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Fragmentation and dispersal of the pericentriolar Golgi complex is required for entry into mitosis in mammalian cells.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2002</year>;<volume>109</volume>(<issue>3</issue>):<fpage>359</fpage>&#x02013;<lpage>69</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(02)00720-1</pub-id>
+<?supplied-pmid 12015985?><pub-id pub-id-type="pmid">12015985</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1007155">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yoshimura</surname><given-names>S</given-names></name><name><surname>Yoshioka</surname><given-names>K</given-names></name><name><surname>Barr</surname><given-names>FA</given-names></name><etal/></person-group>:
+<article-title>Convergence of cell cycle regulation and growth factor signals on GRASP65.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2005</year>;<volume>280</volume>(<issue>24</issue>):<fpage>23048</fpage>&#x02013;<lpage>56</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M502442200</pub-id>
+<?supplied-pmid 15834132?><pub-id pub-id-type="pmid">15834132</pub-id></mixed-citation></ref><ref id="ref-71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feinstein</surname><given-names>TN</given-names></name><name><surname>Linstedt</surname><given-names>AD</given-names></name></person-group>:
+<article-title>Mitogen-activated protein kinase kinase 1-dependent Golgi unlinking occurs in G
+<sub>2</sub> phase and promotes the G
+<sub>2</sub>/M cell cycle transition.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2007</year>;<volume>18</volume>(<issue>2</issue>):<fpage>594</fpage>&#x02013;<lpage>604</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.E06-06-0530</pub-id>
+<!--<pub-id pub-id-type="pmcid">1783781</pub-id>-->
+<?supplied-pmid 17182854?><pub-id pub-id-type="pmid">17182854</pub-id></mixed-citation></ref><ref id="ref-72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guizzunti</surname><given-names>G</given-names></name><name><surname>Seemann</surname><given-names>J</given-names></name></person-group>:
+<article-title>Mitotic Golgi disassembly is required for bipolar spindle formation and mitotic progression.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2016</year>;<volume>113</volume>(<issue>43</issue>):<fpage>E6590</fpage>&#x02013;<lpage>E6599</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1610844113</pub-id>
+<!--<pub-id pub-id-type="pmcid">5087019</pub-id>-->
+<?supplied-pmid 27791030?><pub-id pub-id-type="pmid">27791030</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726851546">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wei</surname><given-names>JH</given-names></name><name><surname>Zhang</surname><given-names>ZC</given-names></name><name><surname>Wynn</surname><given-names>RM</given-names></name><etal/></person-group>:
+<article-title>GM130 Regulates Golgi-Derived Spindle Assembly by Activating TPX2 and Capturing Microtubules.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2015</year>;<volume>162</volume>(<issue>2</issue>):<fpage>287</fpage>&#x02013;<lpage>99</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2015.06.014</pub-id>
+<!--<pub-id pub-id-type="pmcid">4506739</pub-id>-->
+<?supplied-pmid 26165940?><pub-id pub-id-type="pmid">26165940</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725634012">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barretta</surname><given-names>ML</given-names></name><name><surname>Spano</surname><given-names>D</given-names></name><name><surname>D'Ambrosio</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Aurora-A recruitment and centrosomal maturation are regulated by a Golgi-activated pool of Src during G2.</article-title>
+<source><italic>Nat Commun.</italic></source>
+<year>2016</year>;<volume>7</volume>:<fpage>11727</fpage>.
+<pub-id pub-id-type="doi">10.1038/ncomms11727</pub-id>
+<!--<pub-id pub-id-type="pmcid">4895030</pub-id>-->
+<?supplied-pmid 27242098?><pub-id pub-id-type="pmid">27242098</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726389878">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Joachim</surname><given-names>J</given-names></name><name><surname>Jefferies</surname><given-names>HB</given-names></name><name><surname>Razi</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Activation of ULK Kinase and Autophagy by GABARAP Trafficking from the Centrosome Is Regulated by WAC and GM130.</article-title>
+<source><italic>Mol Cell.</italic></source>
+<year>2015</year>;<volume>60</volume>(<issue>6</issue>):<fpage>899</fpage>&#x02013;<lpage>913</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.molcel.2015.11.018</pub-id>
+<!--<pub-id pub-id-type="pmcid">4691241</pub-id>-->
+<?supplied-pmid 26687599?><pub-id pub-id-type="pmid">26687599</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726018759">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jahn</surname><given-names>R</given-names></name><name><surname>Scheller</surname><given-names>RH</given-names></name></person-group>:
+<article-title>SNAREs - engines for membrane fusion.</article-title>
+<source><italic>Nat Rev Mol Cell Biol.</italic></source>
+<year>2006</year>;<volume>7</volume>(<issue>9</issue>):<fpage>631</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrm2002</pub-id>
+<?supplied-pmid 16912714?><pub-id pub-id-type="pmid">16912714</pub-id></mixed-citation></ref><ref id="ref-77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hong</surname><given-names>W</given-names></name><name><surname>Lev</surname><given-names>S</given-names></name></person-group>:
+<article-title>Tethering the assembly of SNARE complexes.</article-title>
+<source><italic>Trends Cell Biol.</italic></source>
+<year>2014</year>;<volume>24</volume>(<issue>1</issue>):<fpage>35</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tcb.2013.09.006</pub-id>
+<?supplied-pmid 24119662?><pub-id pub-id-type="pmid">24119662</pub-id></mixed-citation></ref><ref id="ref-78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sudhof</surname><given-names>TC</given-names></name><name><surname>Rothman</surname><given-names>JE</given-names></name></person-group>:
+<article-title>Membrane fusion: grappling with SNARE and SM proteins.</article-title>
+<source><italic>Science.</italic></source>
+<year>2009</year>;<volume>323</volume>(<issue>5913</issue>):<fpage>474</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.1161748</pub-id>
+<!--<pub-id pub-id-type="pmcid">3736821</pub-id>-->
+<?supplied-pmid 19164740?><pub-id pub-id-type="pmid">19164740</pub-id></mixed-citation></ref><ref id="ref-79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weber</surname><given-names>T</given-names></name><name><surname>Zemelman</surname><given-names>BV</given-names></name><name><surname>McNew</surname><given-names>JA</given-names></name><etal/></person-group>:
+<article-title>SNAREpins: minimal machinery for membrane fusion.</article-title>
+<source><italic>Cell.</italic></source>
+<year>1998</year>;<volume>92</volume>(<issue>6</issue>):<fpage>759</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)81404-X</pub-id>
+<?supplied-pmid 9529252?><pub-id pub-id-type="pmid">9529252</pub-id></mixed-citation></ref><ref id="ref-80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>S&#x000f6;llner</surname><given-names>T</given-names></name><name><surname>Bennett</surname><given-names>MK</given-names></name><name><surname>Whiteheart</surname><given-names>SW</given-names></name><etal/></person-group>:
+<article-title>A protein assembly-disassembly pathway
+<italic>in vitro</italic> that may correspond to sequential steps of synaptic vesicle docking, activation, and fusion.</article-title>
+<source><italic>Cell.</italic></source>
+<year>1993</year>;<volume>75</volume>(<issue>3</issue>):<fpage>409</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="doi">10.1016/0092-8674(93)90376-2</pub-id>
+<?supplied-pmid 8221884?><pub-id pub-id-type="pmid">8221884</pub-id></mixed-citation></ref><ref id="ref-81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Cell cycle regulation of VCIP135 deubiquitinase activity and function in p97/p47-mediated Golgi reassembly.</article-title>
+<source><italic>Mol Biol Cell.</italic></source>
+<year>2015</year>;<volume>26</volume>(<issue>12</issue>):<fpage>2242</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.E15-01-0041</pub-id>
+<!--<pub-id pub-id-type="pmcid">4462942</pub-id>-->
+<?supplied-pmid 25904330?><pub-id pub-id-type="pmid">25904330</pub-id></mixed-citation></ref><ref id="ref-82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Totsukawa</surname><given-names>G</given-names></name><name><surname>Matsuo</surname><given-names>A</given-names></name><name><surname>Kubota</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Mitotic phosphorylation of VCIP135 blocks p97ATPase-mediated Golgi membrane fusion.</article-title>
+<source><italic>Biochem Biophys Res Commun.</italic></source>
+<year>2013</year>;<volume>433</volume>(<issue>2</issue>):<fpage>237</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.bbrc.2013.02.090</pub-id>
+<?supplied-pmid 23500464?><pub-id pub-id-type="pmid">23500464</pub-id></mixed-citation></ref><ref id="ref-83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dupuis</surname><given-names>N</given-names></name><name><surname>Lebon</surname><given-names>S</given-names></name><name><surname>Kumar</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>A novel
+<italic>RAB33B</italic> mutation in Smith-McCort dysplasia.</article-title>
+<source><italic>Hum Mutat.</italic></source>
+<year>2013</year>;<volume>34</volume>(<issue>2</issue>):<fpage>283</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1002/humu.22235</pub-id>
+<?supplied-pmid 23042644?><pub-id pub-id-type="pmid">23042644</pub-id></mixed-citation></ref><ref id="ref-84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basel-Vanagaite</surname><given-names>L</given-names></name><name><surname>Sarig</surname><given-names>O</given-names></name><name><surname>Hershkovitz</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>RIN2 deficiency results in macrocephaly, alopecia, cutis laxa, and scoliosis: MACS syndrome.</article-title>
+<source><italic>Am J Hum Genet.</italic></source>
+<year>2009</year>;<volume>85</volume>(<issue>2</issue>):<fpage>254</fpage>&#x02013;<lpage>63</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2009.07.001</pub-id>
+<!--<pub-id pub-id-type="pmcid">2725231</pub-id>-->
+<?supplied-pmid 19631308?><pub-id pub-id-type="pmid">19631308</pub-id></mixed-citation></ref><ref id="ref-85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Syx</surname><given-names>D</given-names></name><name><surname>Malfait</surname><given-names>F</given-names></name><name><surname>Van Laer</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>The RIN2 syndrome: a new autosomal recessive connective tissue disorder caused by deficiency of Ras and Rab interactor 2 (
+<italic>RIN2</italic>).</article-title>
+<source><italic>Hum Genet.</italic></source>
+<year>2010</year>;<volume>128</volume>(<issue>1</issue>):<fpage>79</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00439-010-0829-0</pub-id>
+<?supplied-pmid 20424861?><pub-id pub-id-type="pmid">20424861</pub-id></mixed-citation></ref><ref id="ref-86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stieber</surname><given-names>A</given-names></name><name><surname>Mourelatos</surname><given-names>Z</given-names></name><name><surname>Gonatas</surname><given-names>NK</given-names></name></person-group>:
+<article-title>In Alzheimer's disease the Golgi apparatus of a population of neurons without neurofibrillary tangles is fragmented and atrophic.</article-title>
+<source><italic>Am J Pathol.</italic></source>
+<year>1996</year>;<volume>148</volume>(<issue>2</issue>):<fpage>415</fpage>&#x02013;<lpage>26</lpage>.
+<!--<pub-id pub-id-type="pmcid">1861703</pub-id>-->
+<?supplied-pmid 8579105?><pub-id pub-id-type="pmid">8579105</pub-id></mixed-citation></ref><ref id="ref-87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huse</surname><given-names>JT</given-names></name><name><surname>Liu</surname><given-names>K</given-names></name><name><surname>Pijak</surname><given-names>DS</given-names></name><etal/></person-group>:
+<article-title>Beta-secretase processing in the trans-Golgi network preferentially generates truncated amyloid species that accumulate in Alzheimer's disease brain.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2002</year>;<volume>277</volume>(<issue>18</issue>):<fpage>16278</fpage>&#x02013;<lpage>84</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M111141200</pub-id>
+<?supplied-pmid 11847218?><pub-id pub-id-type="pmid">11847218</pub-id></mixed-citation></ref><ref id="ref-88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Joshi</surname><given-names>G</given-names></name><name><surname>Chi</surname><given-names>Y</given-names></name><name><surname>Huang</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>A&#x003b2;-induced Golgi fragmentation in Alzheimer's disease enhances A&#x003b2; production.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2014</year>;<volume>111</volume>(<issue>13</issue>):<fpage>E1230</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1320192111</pub-id>
+<!--<pub-id pub-id-type="pmcid">3977293</pub-id>-->
+<?supplied-pmid 24639524?><pub-id pub-id-type="pmid">24639524</pub-id></mixed-citation></ref><ref id="ref-89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mizuno</surname><given-names>Y</given-names></name><name><surname>Hattori</surname><given-names>N</given-names></name><name><surname>Kitada</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Familial Parkinson's disease. Alpha-synuclein and parkin.</article-title>
+<source><italic>Adv Neurol.</italic></source>
+<year>2001</year>;<volume>86</volume>:<fpage>13</fpage>&#x02013;<lpage>21</lpage>.
+<?supplied-pmid 11553970?><pub-id pub-id-type="pmid">11553970</pub-id></mixed-citation></ref><ref id="ref-90"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hilditch-Maguire</surname><given-names>P</given-names></name><name><surname>Trettel</surname><given-names>F</given-names></name><name><surname>Passani</surname><given-names>LA</given-names></name><etal/></person-group>:
+<article-title>Huntingtin: an iron-regulated protein essential for normal nuclear and perinuclear organelles.</article-title>
+<source><italic>Hum Mol Genet.</italic></source>
+<year>2000</year>;<volume>9</volume>(<issue>19</issue>):<fpage>2789</fpage>&#x02013;<lpage>97</lpage>.
+<pub-id pub-id-type="doi">10.1093/hmg/9.19.2789</pub-id>
+<?supplied-pmid 11092755?><pub-id pub-id-type="pmid">11092755</pub-id></mixed-citation></ref><ref id="ref-91"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fujita</surname><given-names>Y</given-names></name><name><surname>Okamoto</surname><given-names>K</given-names></name></person-group>:
+<article-title>Golgi apparatus of the motor neurons in patients with amyotrophic lateral sclerosis and in mice models of amyotrophic lateral sclerosis.</article-title>
+<source><italic>Neuropathology.</italic></source>
+<year>2005</year>;<volume>25</volume>(<issue>4</issue>):<fpage>388</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1440-1789.2005.00616.x</pub-id>
+<?supplied-pmid 16382790?><pub-id pub-id-type="pmid">16382790</pub-id></mixed-citation></ref><ref id="ref-92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gonatas</surname><given-names>NK</given-names></name><name><surname>Gonatas</surname><given-names>JO</given-names></name><name><surname>Stieber</surname><given-names>A</given-names></name></person-group>:
+<article-title>The involvement of the Golgi apparatus in the pathogenesis of amyotrophic lateral sclerosis, Alzheimer's disease, and ricin intoxication.</article-title>
+<source><italic>Histochem Cell Biol.</italic></source>
+<year>1998</year>;<volume>109</volume>(<issue>5&#x02013;6</issue>):<fpage>591</fpage>&#x02013;<lpage>600</lpage>.
+<pub-id pub-id-type="doi">10.1007/s004180050257</pub-id>
+<?supplied-pmid 9681637?><pub-id pub-id-type="pmid">9681637</pub-id></mixed-citation></ref><ref id="ref-93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mourelatos</surname><given-names>Z</given-names></name><name><surname>Gonatas</surname><given-names>NK</given-names></name><name><surname>Stieber</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>The Golgi apparatus of spinal cord motor neurons in transgenic mice expressing mutant Cu,Zn superoxide dismutase becomes fragmented in early, preclinical stages of the disease.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>1996</year>;<volume>93</volume>(<issue>11</issue>):<fpage>5472</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.93.11.5472</pub-id>
+<!--<pub-id pub-id-type="pmcid">39270</pub-id>-->
+<?supplied-pmid 8643599?><pub-id pub-id-type="pmid">8643599</pub-id></mixed-citation></ref><ref id="ref-94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Inoue</surname><given-names>K</given-names></name></person-group>:
+<article-title>
+<italic>PLP1</italic>-related inherited dysmyelinating disorders: Pelizaeus-Merzbacher disease and spastic paraplegia type 2.</article-title>
+<source><italic>Neurogenetics.</italic></source>
+<year>2005</year>;<volume>6</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>16</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10048-004-0207-y</pub-id>
+<?supplied-pmid 15627202?><pub-id pub-id-type="pmid">15627202</pub-id></mixed-citation></ref><ref id="ref-95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ting</surname><given-names>CH</given-names></name><name><surname>Wen</surname><given-names>HL</given-names></name><name><surname>Liu</surname><given-names>HC</given-names></name><etal/></person-group>:
+<article-title>The spinal muscular atrophy disease protein SMN is linked to the Golgi network.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2012</year>;<volume>7</volume>(<issue>12</issue>):<fpage>e51826</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0051826</pub-id>
+<!--<pub-id pub-id-type="pmcid">3524123</pub-id>-->
+<?supplied-pmid 23284781?><pub-id pub-id-type="pmid">23284781</pub-id></mixed-citation></ref><ref id="ref-96"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>C</given-names></name><name><surname>Li</surname><given-names>D</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Mutations in
+<italic>ABCB6</italic> cause dyschromatosis universalis hereditaria.</article-title>
+<source><italic>J Invest Dermatol.</italic></source>
+<year>2013</year>;<volume>133</volume>(<issue>9</issue>):<fpage>2221</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1038/jid.2013.145</pub-id>
+<?supplied-pmid 23519333?><pub-id pub-id-type="pmid">23519333</pub-id></mixed-citation></ref><ref id="ref-97"><label>97</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Condon</surname><given-names>KH</given-names></name><name><surname>Ho</surname><given-names>J</given-names></name><name><surname>Robinson</surname><given-names>CG</given-names></name><etal/></person-group>:
+<article-title>The Angelman syndrome protein Ube3a/E6AP is required for Golgi acidification and surface protein sialylation.</article-title>
+<source><italic>J Neurosci.</italic></source>
+<year>2013</year>;<volume>33</volume>(<issue>9</issue>):<fpage>3799</fpage>&#x02013;<lpage>814</lpage>.
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.1930-11.2013</pub-id>
+<!--<pub-id pub-id-type="pmcid">3783510</pub-id>-->
+<?supplied-pmid 23447592?><pub-id pub-id-type="pmid">23447592</pub-id></mixed-citation></ref><ref id="ref-98"><label>98</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kornak</surname><given-names>U</given-names></name><name><surname>Reynders</surname><given-names>E</given-names></name><name><surname>Dimopoulou</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Impaired glycosylation and cutis laxa caused by mutations in the vesicular H
+<sup>+</sup>-ATPase subunit ATP6V0A2.</article-title>
+<source><italic>Nat Genet.</italic></source>
+<year>2008</year>;<volume>40</volume>(<issue>1</issue>):<fpage>32</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1038/ng.2007.45</pub-id>
+<?supplied-pmid 18157129?><pub-id pub-id-type="pmid">18157129</pub-id></mixed-citation></ref><ref id="ref-99"><label>99</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fischer</surname><given-names>B</given-names></name><name><surname>Dimopoulou</surname><given-names>A</given-names></name><name><surname>Egerer</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Further characterization of
+<italic>ATP6V0A2</italic>-related autosomal recessive cutis laxa.</article-title>
+<source><italic>Hum Genet.</italic></source>
+<year>2012</year>;<volume>131</volume>(<issue>11</issue>):<fpage>1761</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00439-012-1197-8</pub-id>
+<?supplied-pmid 22773132?><pub-id pub-id-type="pmid">22773132</pub-id></mixed-citation></ref><ref id="ref-100"><label>100</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Climer</surname><given-names>LK</given-names></name><name><surname>Dobretsov</surname><given-names>M</given-names></name><name><surname>Lupashin</surname><given-names>V</given-names></name></person-group>:
+<article-title>Defects in the COG complex and COG-related trafficking regulators affect neuronal Golgi function.</article-title>
+<source><italic>Front Neurosci.</italic></source>
+<year>2015</year>;<volume>9</volume>:<fpage>405</fpage>.
+<pub-id pub-id-type="doi">10.3389/fnins.2015.00405</pub-id>
+<!--<pub-id pub-id-type="pmcid">4621299</pub-id>-->
+<?supplied-pmid 26578865?><pub-id pub-id-type="pmid">26578865</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725945346">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-101"><label>101</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ohtsubo</surname><given-names>K</given-names></name><name><surname>Takamatsu</surname><given-names>S</given-names></name><name><surname>Minowa</surname><given-names>MT</given-names></name><etal/></person-group>:
+<article-title>Dietary and genetic control of glucose transporter 2 glycosylation promotes insulin secretion in suppressing diabetes.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2005</year>;<volume>123</volume>(<issue>7</issue>):<fpage>1307</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2005.09.041</pub-id>
+<?supplied-pmid 16377570?><pub-id pub-id-type="pmid">16377570</pub-id></mixed-citation></ref><ref id="ref-102"><label>102</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Beek</surname><given-names>WP</given-names></name><name><surname>Smets</surname><given-names>LA</given-names></name><name><surname>Emmelot</surname><given-names>P</given-names></name></person-group>:
+<article-title>Changed surface glycoprotein as a marker of malignancy in human leukaemic cells.</article-title>
+<source><italic>Nature.</italic></source>
+<year>1975</year>;<volume>253</volume>(<issue>5491</issue>):<fpage>457</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="doi">10.1038/253457a0</pub-id>
+<?supplied-pmid 1053808?><pub-id pub-id-type="pmid">1053808</pub-id></mixed-citation></ref><ref id="ref-103"><label>103</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>E</given-names></name><name><surname>Houles</surname><given-names>C</given-names></name><name><surname>Sudakevitz</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Structural basis for oligosaccharide-mediated adhesion of
+<italic>Pseudomonas aeruginosa</italic> in the lungs of cystic fibrosis patients.</article-title>
+<source><italic>Nat Struct Biol.</italic></source>
+<year>2002</year>;<volume>9</volume>(<issue>12</issue>):<fpage>918</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1038/nsb865</pub-id>
+<?supplied-pmid 12415289?><pub-id pub-id-type="pmid">12415289</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1011417">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-104"><label>104</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schulz</surname><given-names>BL</given-names></name><name><surname>Sloane</surname><given-names>AJ</given-names></name><name><surname>Robinson</surname><given-names>LJ</given-names></name><etal/></person-group>:
+<article-title>Glycosylation of sputum mucins is altered in cystic fibrosis patients.</article-title>
+<source><italic>Glycobiology.</italic></source>
+<year>2007</year>;<volume>17</volume>(<issue>7</issue>):<fpage>698</fpage>&#x02013;<lpage>712</lpage>.
+<pub-id pub-id-type="doi">10.1093/glycob/cwm036</pub-id>
+<?supplied-pmid 17392389?><pub-id pub-id-type="pmid">17392389</pub-id></mixed-citation></ref><ref id="ref-105"><label>105</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moremen</surname><given-names>KW</given-names></name><name><surname>Tiemeyer</surname><given-names>M</given-names></name><name><surname>Nairn</surname><given-names>AV</given-names></name></person-group>:
+<article-title>Vertebrate protein glycosylation: diversity, synthesis and function.</article-title>
+<source><italic>Nat Rev Mol Cell Biol.</italic></source>
+<year>2012</year>;<volume>13</volume>(<issue>7</issue>):<fpage>448</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrm3383</pub-id>
+<!--<pub-id pub-id-type="pmcid">3934011</pub-id>-->
+<?supplied-pmid 22722607?><pub-id pub-id-type="pmid">22722607</pub-id></mixed-citation></ref><ref id="ref-106"><label>106</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuo</surname><given-names>A</given-names></name><name><surname>Zhong</surname><given-names>C</given-names></name><name><surname>Lane</surname><given-names>WS</given-names></name><etal/></person-group>:
+<article-title>Transmembrane transforming growth factor-alpha tethers to the PDZ domain-containing, Golgi membrane-associated protein p59/GRASP55.</article-title>
+<source><italic>EMBO J.</italic></source>
+<year>2000</year>;<volume>19</volume>(<issue>23</issue>):<fpage>6427</fpage>&#x02013;<lpage>6439</lpage>.
+<pub-id pub-id-type="doi">10.1093/emboj/19.23.6427</pub-id>
+<!--<pub-id pub-id-type="pmcid">305863</pub-id>-->
+<?supplied-pmid 11101516?><pub-id pub-id-type="pmid">11101516</pub-id></mixed-citation></ref><ref id="ref-107"><label>107</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>D'Angelo</surname><given-names>G</given-names></name><name><surname>Prencipe</surname><given-names>L</given-names></name><name><surname>Iodice</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>GRASP65 and GRASP55 sequentially promote the transport of C-terminal valine-bearing cargos to and through the golgi complex.</article-title>
+<source><italic>J Biol Chem.</italic></source>
+<year>2009</year>;<volume>284</volume>(<issue>50</issue>):<fpage>34849</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="doi">10.1074/jbc.M109.068403</pub-id>
+<!--<pub-id pub-id-type="pmcid">2787347</pub-id>-->
+<?supplied-pmid 19840934?><pub-id pub-id-type="pmid">19840934</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/2697957">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-108"><label>108</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barr</surname><given-names>FA</given-names></name><name><surname>Preisinger</surname><given-names>C</given-names></name><name><surname>Kopajtich</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Golgi matrix proteins interact with p24 cargo receptors and aid their efficient retention in the Golgi apparatus.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>2001</year>;<volume>155</volume>(<issue>6</issue>):<fpage>885</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.200108102</pub-id>
+<!--<pub-id pub-id-type="pmcid">2150891</pub-id>-->
+<?supplied-pmid 11739402?><pub-id pub-id-type="pmid">11739402</pub-id></mixed-citation></ref><ref id="ref-109"><label>109</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Joshi</surname><given-names>G</given-names></name><name><surname>Bekier</surname><given-names>ME</given-names><suffix>2nd</suffix></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Golgi fragmentation in Alzheimer&#x02019;s disease.</article-title>
+<source><italic>Front Neurosci.</italic></source>
+<year>2015</year>;<volume>9</volume>:<fpage>340</fpage>.
+<pub-id pub-id-type="doi">10.3389/fnins.2015.00340</pub-id>
+<!--<pub-id pub-id-type="pmcid">4585163</pub-id>-->
+<?supplied-pmid 26441511?><pub-id pub-id-type="pmid">26441511</pub-id></mixed-citation></ref><ref id="ref-110"><label>110</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Joshi</surname><given-names>G</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Golgi defects enhance APP amyloidogenic processing in Alzheimer's disease.</article-title>
+<source><italic>Bioessays.</italic></source>
+<year>2015</year>;<volume>37</volume>(<issue>3</issue>):<fpage>240</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1002/bies.201400116</pub-id>
+<!--<pub-id pub-id-type="pmcid">4407201</pub-id>-->
+<?supplied-pmid 25546412?><pub-id pub-id-type="pmid">25546412</pub-id></mixed-citation></ref><ref id="ref-111"><label>111</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xiang</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Nix</surname><given-names>DB</given-names></name><etal/></person-group>:
+<article-title>Regulation of protein glycosylation and sorting by the Golgi matrix proteins GRASP55/65.</article-title>
+<source><italic>Nat Commun.</italic></source>
+<year>2013</year>;<volume>4</volume>: 1659.
+<pub-id pub-id-type="doi">10.1038/ncomms2669</pub-id>
+<!--<pub-id pub-id-type="pmcid">3620728</pub-id>-->
+<?supplied-pmid 23552074?><pub-id pub-id-type="pmid">23552074</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/717997148">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-112"><label>112</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lupashin</surname><given-names>V</given-names></name><name><surname>Sztul</surname><given-names>E</given-names></name></person-group>:
+<article-title>Golgi tethering factors.</article-title>
+<source><italic>Biochim Biophys Acta.</italic></source>
+<year>2005</year>;<volume>1744</volume>(<issue>3</issue>):<fpage>325</fpage>&#x02013;<lpage>39</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.bbamcr.2005.03.013</pub-id>
+<?supplied-pmid 15979505?><pub-id pub-id-type="pmid">15979505</pub-id></mixed-citation></ref><ref id="ref-113"><label>113</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stein</surname><given-names>MF</given-names></name><name><surname>Blume</surname><given-names>K</given-names></name><name><surname>Heilingloh</surname><given-names>CS</given-names></name><etal/></person-group>:
+<article-title>CD83 and GRASP55 interact in human dendritic cells.</article-title>
+<source><italic>Biochem Biophys Res Commun.</italic></source>
+<year>2015</year>;<volume>459</volume>(<issue>1</issue>):<fpage>42</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.bbrc.2015.02.057</pub-id>
+<?supplied-pmid 25701785?><pub-id pub-id-type="pmid">25701785</pub-id></mixed-citation></ref><ref id="ref-114"><label>114</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabouille</surname><given-names>C</given-names></name></person-group>:
+<article-title>Pathways of Unconventional Protein Secretion.</article-title>
+<source><italic>Trends Cell Biol.</italic></source>
+<year>2017</year>;<volume>27</volume>(<issue>3</issue>):<fpage>230</fpage>&#x02013;<lpage>240</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tcb.2016.11.007</pub-id>
+<?supplied-pmid 27989656?><pub-id pub-id-type="pmid">27989656</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727123376">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-115"><label>115</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rabouille</surname><given-names>C</given-names></name><name><surname>Malhotra</surname><given-names>V</given-names></name><name><surname>Nickel</surname><given-names>W</given-names></name></person-group>:
+<article-title>Diversity in unconventional protein secretion.</article-title>
+<source><italic>J Cell Sci.</italic></source>
+<year>2012</year>;<volume>125</volume>(<issue>Pt 22</issue>):<fpage>5251</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1242/jcs.103630</pub-id>
+<?supplied-pmid 23377655?><pub-id pub-id-type="pmid">23377655</pub-id></mixed-citation></ref><ref id="ref-116"><label>116</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kinseth</surname><given-names>MA</given-names></name><name><surname>Anjard</surname><given-names>C</given-names></name><name><surname>Fuller</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>The Golgi-associated protein GRASP is required for unconventional protein secretion during development.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2007</year>;<volume>130</volume>(<issue>3</issue>):<fpage>524</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2007.06.029</pub-id>
+<?supplied-pmid 17655921?><pub-id pub-id-type="pmid">17655921</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1089974">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-117"><label>117</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kornfeld</surname><given-names>R</given-names></name><name><surname>Kornfeld</surname><given-names>S</given-names></name></person-group>:
+<article-title>Assembly of asparagine-linked oligosaccharides.</article-title>
+<source><italic>Ann Rev Biochem.</italic></source>
+<year>1985</year>;<volume>54</volume>:<fpage>631</fpage>&#x02013;<lpage>664</lpage>.
+<pub-id pub-id-type="doi">10.1146/annurev.bi.54.070185.003215</pub-id>
+<?supplied-pmid 3896128?><pub-id pub-id-type="pmid">3896128</pub-id></mixed-citation></ref><ref id="ref-118"><label>118</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roth</surname><given-names>J</given-names></name></person-group>:
+<article-title>Protein
+<italic>N</italic>-glycosylation along the secretory pathway: relationship to organelle topography and function, protein quality control, and cell interactions.</article-title>
+<source><italic>Chem Rev.</italic></source>
+<year>2002</year>;<volume>102</volume>(<issue>2</issue>):<fpage>285</fpage>&#x02013;<lpage>303</lpage>.
+<pub-id pub-id-type="doi">10.1021/cr000423j</pub-id>
+<?supplied-pmid 11841244?><pub-id pub-id-type="pmid">11841244</pub-id></mixed-citation></ref><ref id="ref-119"><label>119</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Varki</surname><given-names>A</given-names></name></person-group>:
+<article-title>Factors controlling the glycosylation potential of the Golgi apparatus.</article-title>
+<source><italic>Trends Cell Biol.</italic></source>
+<year>1998</year>;<volume>8</volume>(<issue>1</issue>):<fpage>34</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0962-8924(97)01198-7</pub-id>
+<?supplied-pmid 9695806?><pub-id pub-id-type="pmid">9695806</pub-id></mixed-citation></ref><ref id="ref-120"><label>120</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wildt</surname><given-names>S</given-names></name><name><surname>Gerngross</surname><given-names>TU</given-names></name></person-group>:
+<article-title>The humanization of N-glycosylation pathways in yeast.</article-title>
+<source><italic>Nat Rev Microbiol.</italic></source>
+<year>2005</year>;<volume>3</volume>(<issue>2</issue>):<fpage>119</fpage>&#x02013;<lpage>28</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrmicro1087</pub-id>
+<?supplied-pmid 15685223?><pub-id pub-id-type="pmid">15685223</pub-id></mixed-citation></ref><ref id="ref-121"><label>121</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ohtsubo</surname><given-names>K</given-names></name><name><surname>Marth</surname><given-names>JD</given-names></name></person-group>:
+<article-title>Glycosylation in cellular mechanisms of health and disease.</article-title>
+<source><italic>Cell.</italic></source>
+<year>2006</year>;<volume>126</volume>(<issue>5</issue>):<fpage>855</fpage>&#x02013;<lpage>67</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2006.08.019</pub-id>
+<?supplied-pmid 16959566?><pub-id pub-id-type="pmid">16959566</pub-id></mixed-citation></ref><ref id="ref-122"><label>122</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weisz</surname><given-names>OA</given-names></name><name><surname>Rodriguez-Boulan</surname><given-names>E</given-names></name></person-group>:
+<article-title>Apical trafficking in epithelial cells: signals, clusters and motors.</article-title>
+<source><italic>J Cell Sci.</italic></source>
+<year>2009</year>;<volume>122</volume>(<issue>Pt 23</issue>):<fpage>4253</fpage>&#x02013;<lpage>66</lpage>.
+<pub-id pub-id-type="doi">10.1242/jcs.032615</pub-id>
+<!--<pub-id pub-id-type="pmcid">2779128</pub-id>-->
+<?supplied-pmid 19923269?><pub-id pub-id-type="pmid">19923269</pub-id></mixed-citation></ref><ref id="ref-123"><label>123</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Glycosylation Quality Control by the Golgi Structure.</article-title>
+<source><italic>J Mol Biol.</italic></source>
+<year>2016</year>;<volume>428</volume>(<issue>16</issue>):<fpage>3183</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jmb.2016.02.030</pub-id>
+<!--<pub-id pub-id-type="pmcid">4983240</pub-id>-->
+<?supplied-pmid 26956395?><pub-id pub-id-type="pmid">26956395</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726205009">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-124"><label>124</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Storrie</surname><given-names>B</given-names></name><name><surname>White</surname><given-names>J</given-names></name><name><surname>R&#x000f6;ttger</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Recycling of golgi-resident glycosyltransferases through the ER reveals a novel pathway and provides an explanation for nocodazole-induced Golgi scattering.</article-title>
+<source><italic>J Cell Biol.</italic></source>
+<year>1998</year>;<volume>143</volume>(<issue>6</issue>):<fpage>1505</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1083/jcb.143.6.1505</pub-id>
+<!--<pub-id pub-id-type="pmcid">2132995</pub-id>-->
+<?supplied-pmid 9852147?><pub-id pub-id-type="pmid">9852147</pub-id></mixed-citation></ref><ref id="ref-125"><label>125</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Zeijl</surname><given-names>MJ</given-names></name><name><surname>Matlin</surname><given-names>KS</given-names></name></person-group>:
+<article-title>Microtubule perturbation inhibits intracellular transport of an apical membrane glycoprotein in a substrate-dependent manner in polarized Madin-Darby canine kidney epithelial cells.</article-title>
+<source><italic>Cell Regul.</italic></source>
+<year>1990</year>;<volume>1</volume>(<issue>12</issue>):<fpage>921</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="doi">10.1091/mbc.1.12.921</pub-id>
+<!--<pub-id pub-id-type="pmcid">362862</pub-id>-->
+<?supplied-pmid 1983109?><pub-id pub-id-type="pmid">1983109</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1610 @@
+{
+  "id": [
+    "31170158"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31170158"
+  ],
+  "pmcid": [
+    "PMC6553700"
+  ],
+  "doi": [
+    "10.1371/journal.pgen.1008180"
+  ],
+  "title": [
+    "Exome sequencing in multiple sclerosis families identifies 12 candidate genes and nominates biological pathways for the genesis of disease."
+  ],
+  "authorString": [
+    "Vilariño-Güell C, Zimprich A, Martinelli-Boneschi F, Herculano B, Wang Z, Matesanz F, Urcelay E, Vandenbroeck K, Leyva L, Gris D, Massaad C, Quandt JA, Traboulsee AL, Encarnacion M, Bernales CQ, Follett J, Yee IM, Criscuoli MG, Deutschländer A, Reinthaler EM, Zrzavy T, Mascia E, Zauli A, Esposito F, Alcina A, Izquierdo G, Espino-Paisán L, Mena J, Antigüedad A, Urbaneja-Romero P, Ortega-Pinazo J, Song W, Sadovnick AD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vilariño-Güell C"
+          ],
+          "firstName": [
+            "Carles"
+          ],
+          "lastName": [
+            "Vilariño-Güell"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5612-5940",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Genetics, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zimprich A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Zimprich"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurology, Medical University of Vienna, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martinelli-Boneschi F"
+          ],
+          "firstName": [
+            "Filippo"
+          ],
+          "lastName": [
+            "Martinelli-Boneschi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Human Genetics of Neurological Disorders, CNS Inflammatory Unit, Institute of Experimental Neurology, IRCCS San Raffaele Scientific Institute, Milan, Italy.",
+                "MS Unit and Department of Neurology, IRCCS Policlinico San Donato, Milan, Italy.",
+                "Department of Biomedical Sciences for Health, University of Milan, Milan, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Herculano B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Herculano"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0095-3381",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Townsend Family Laboratories, Department of Psychiatry, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhe"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Townsend Family Laboratories, Department of Psychiatry, University of British Columbia, Vancouver, Canada.",
+                "National Clinical Research Center for Geriatric Diseases, Xuanwu Hospital of the Capital Medical University, Beijing, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Matesanz F"
+          ],
+          "firstName": [
+            "Fuencisla"
+          ],
+          "lastName": [
+            "Matesanz"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9429-1819",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Immunology, Instituto de Parasitología y Biomedicina López Neyra (IPBLN), CSIC, Granada, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Urcelay E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Urcelay"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Immunology Dept, Hospital Clínico San Carlos, Instituto de Investigación Sanitaria del Hospital Clínico San Carlos (IdISSC), Madrid, Spain.",
+                "Red Española de Esclerosis Múltiple REEM, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vandenbroeck K"
+          ],
+          "firstName": [
+            "Koen"
+          ],
+          "lastName": [
+            "Vandenbroeck"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6967-6485",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Achucarro Basque Center for Neuroscience, Universidad del País Vasco (UPV/EHU), Leioa, Spain.",
+                "Ikerbasque, Basque Foundation for Science, Bilbao, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Leyva L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Leyva"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Red Española de Esclerosis Múltiple REEM, Madrid, Spain.",
+                "Instituto de Investigación Biomédica de Málaga-IBIMA, Unidad de Gestion Clínica de Neurociencias, Hospital Regional Universitario de Málaga, Málaga, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gris D"
+          ],
+          "firstName": [
+            "Denis"
+          ],
+          "lastName": [
+            "Gris"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1215-2434",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Immunology, Department of Pediatrics, CR-CHUS, Faculty of Medicine and Health Sciences, University of Sherbrooke, Sherbrooke, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Massaad C"
+          ],
+          "firstName": [
+            "Charbel"
+          ],
+          "lastName": [
+            "Massaad"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Toxicology, Pharmacology and Cell Signalisation-UMR-S 1124 Université Paris Descartes, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Quandt JA"
+          ],
+          "firstName": [
+            "Jacqueline A"
+          ],
+          "lastName": [
+            "Quandt"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Faculty of Medicine, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Traboulsee AL"
+          ],
+          "firstName": [
+            "Anthony L"
+          ],
+          "lastName": [
+            "Traboulsee"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Division of Neurology, Faculty of Medicine, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Encarnacion M"
+          ],
+          "firstName": [
+            "Mary"
+          ],
+          "lastName": [
+            "Encarnacion"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Genetics, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bernales CQ"
+          ],
+          "firstName": [
+            "Cecily Q"
+          ],
+          "lastName": [
+            "Bernales"
+          ],
+          "initials": [
+            "CQ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Genetics, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Follett J"
+          ],
+          "firstName": [
+            "Jordan"
+          ],
+          "lastName": [
+            "Follett"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Genetics, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yee IM"
+          ],
+          "firstName": [
+            "Irene M"
+          ],
+          "lastName": [
+            "Yee"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Genetics, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Criscuoli MG"
+          ],
+          "firstName": [
+            "Maria G"
+          ],
+          "lastName": [
+            "Criscuoli"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Genetics, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deutschländer A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Deutschländer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4071-9090",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurology, Mayo Clinic Florida, Jacksonville, FL, United States of America.",
+                "Department of Clinical Genomics, Mayo Clinic Florida, Jacksonville, FL, United States of America.",
+                "Department of Neuroscience, Mayo Clinic Florida, Jacksonville, FL, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reinthaler EM"
+          ],
+          "firstName": [
+            "Eva M"
+          ],
+          "lastName": [
+            "Reinthaler"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurology, Medical University of Vienna, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zrzavy T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Zrzavy"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8909-1591",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurology, Medical University of Vienna, Vienna, Austria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mascia E"
+          ],
+          "firstName": [
+            "Elisabetta"
+          ],
+          "lastName": [
+            "Mascia"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Human Genetics of Neurological Disorders, CNS Inflammatory Unit, Institute of Experimental Neurology, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zauli A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Zauli"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Human Genetics of Neurological Disorders, CNS Inflammatory Unit, Institute of Experimental Neurology, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Esposito F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Esposito"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Human Genetics of Neurological Disorders, CNS Inflammatory Unit, Institute of Experimental Neurology, IRCCS San Raffaele Scientific Institute, Milan, Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alcina A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Alcina"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Biology and Immunology, Instituto de Parasitología y Biomedicina López Neyra (IPBLN), CSIC, Granada, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Izquierdo G"
+          ],
+          "firstName": [
+            "Guillermo"
+          ],
+          "lastName": [
+            "Izquierdo"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6340-5609",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Unidad de Esclerosis Múltiple, Hospital Virgen Macarena, Sevilla, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Espino-Paisán L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Espino-Paisán"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9136-4106",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Immunology Dept, Hospital Clínico San Carlos, Instituto de Investigación Sanitaria del Hospital Clínico San Carlos (IdISSC), Madrid, Spain.",
+                "Red Española de Esclerosis Múltiple REEM, Madrid, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Achucarro Basque Center for Neuroscience, Universidad del País Vasco (UPV/EHU), Leioa, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Antigüedad A"
+          ],
+          "firstName": [
+            "Alfredo"
+          ],
+          "lastName": [
+            "Antigüedad"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Neurology Department, Hospital Universitario de Cruces, S/N, Baracaldo, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Urbaneja-Romero P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Urbaneja-Romero"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Red Española de Esclerosis Múltiple REEM, Madrid, Spain.",
+                "Instituto de Investigación Biomédica de Málaga-IBIMA, Unidad de Gestion Clínica de Neurociencias, Hospital Regional Universitario de Málaga, Málaga, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ortega-Pinazo J"
+          ],
+          "firstName": [
+            "Jesús"
+          ],
+          "lastName": [
+            "Ortega-Pinazo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Instituto de Investigación Biomédica de Málaga-IBIMA, Unidad de Gestion Clínica de Neurociencias, Hospital Regional Universitario de Málaga, Málaga, Spain."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song W"
+          ],
+          "firstName": [
+            "Weihong"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9928-889X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Townsend Family Laboratories, Department of Psychiatry, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sadovnick AD"
+          ],
+          "firstName": [
+            "A Dessa"
+          ],
+          "lastName": [
+            "Sadovnick"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medical Genetics, University of British Columbia, Vancouver, Canada.",
+                "Division of Neurology, Faculty of Medicine, University of British Columbia, Vancouver, Canada."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5612-5940",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0095-3381",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9429-1819",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6967-6485",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1215-2434",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4071-9090",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8909-1591",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6340-5609",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9136-4106",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9928-889X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2825066"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS genetics"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Genet."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Genet"
+          ],
+          "NLMid": [
+            "101239074"
+          ],
+          "ISSN": [
+            "1553-7390"
+          ],
+          "ESSN": [
+            "1553-7404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1008180"
+  ],
+  "abstractText": [
+    "Multiple sclerosis (MS) is an inflammatory disease of the central nervous system characterized by myelin loss and neuronal dysfunction. Although the majority of patients do not present familial aggregation, Mendelian forms have been described. We performed whole-exome sequencing analysis in 132 patients from 34 multi-incident families, which nominated likely pathogenic variants for MS in 12 genes of the innate immune system that regulate the transcription and activation of inflammatory mediators. Rare missense or nonsense variants were identified in genes of the fibrinolysis and complement pathways (PLAU, MASP1, C2), inflammasome assembly (NLRP12), Wnt signaling (UBR2, CTNNA3, NFATC2, RNF213), nuclear receptor complexes (NCOA3), and cation channels and exchangers (KCNG4, SLC24A6, SLC8B1). These genes suggest a disruption of interconnected immunological and pro-inflammatory pathways as the initial event in the pathophysiology of familial MS, and provide the molecular and biological rationale for the chronic inflammation, demyelination and neurodegeneration observed in MS patients."
+  ],
+  "affiliation": [
+    "Department of Medical Genetics, University of British Columbia, Vancouver, Canada."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MOP-137051"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myelin Sheath"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multiple Sclerosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Demyelinating Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Predisposition to Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inflammation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nerve Degeneration"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Codon, Nonsense"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pedigree"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Exome Sequencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Codon, Nonsense"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1008180"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6553700"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6553700?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1008180"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31190009"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nat Rev Neurol. 2019 Aug;15(8):436"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        },
+        {
+          "id": [
+            "31603891"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS Genet. 2019 Oct 11;15(10):e1008437"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "2"
+          ]
+        },
+        {
+          "id": [
+            "31603893"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS Genet. 2019 Oct 11;15(10):e1008436"
+          ],
+          "type": [
+            "Expression of concern in"
+          ],
+          "orderIn": [
+            "3"
+          ]
+        },
+        {
+          "id": [
+            "32271753"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS Genet. 2020 Apr 9;16(4):e1008737"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-11-06"
+  ],
+  "dateOfCreation": [
+    "2019-06-07"
+  ],
+  "firstIndexDate": [
+    "2019-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-06"
+  ],
+  "firstPublicationDate": [
+    "2019-06-06"
+  ]
+}

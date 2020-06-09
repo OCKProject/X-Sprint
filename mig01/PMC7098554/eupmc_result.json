@@ -1,0 +1,437 @@
+{
+  "id": [
+    "32214367"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32214367"
+  ],
+  "pmcid": [
+    "PMC7098554"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0230716"
+  ],
+  "title": [
+    "MLK3 is a newly identified microRNA-520b target that regulates liver cancer cell migration."
+  ],
+  "authorString": [
+    "Zhang F, Zhu Y, Wu S, Hou G, Wu N, Qian L, Yang D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Vocational College of Defense Technology, Lu'an, Anhui, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu S"
+          ],
+          "firstName": [
+            "Shuhua"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Provincial Children's Hospital, Hefei, Anhui, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hou G"
+          ],
+          "firstName": [
+            "Guodong"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Vocational College of Defense Technology, Lu'an, Anhui, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu N"
+          ],
+          "firstName": [
+            "Nianxiang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Vocational College of Defense Technology, Lu'an, Anhui, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qian L"
+          ],
+          "firstName": [
+            "Lirun"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Anhui Vocational College of Defense Technology, Lu'an, Anhui, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5482-6164",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hepatobiliary Surgery, Zhuji People's Hospital of Zhejiang Province, Zhuji, Zhejiang, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5482-6164",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2918449"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0230716"
+  ],
+  "abstractText": [
+    "The roles of microRNAs (miRNAs) in liver cancer have attracted much attention in recent years. In this study, we demonstrate that miR-520b is downregulated in MHCC-97H cells, a liver cancer cell line with high potential of metastasis, compared with MHCC-97L cells which has a low potential of metastasis. Furthermore, the enhanced expression of miR-520b could inhibit liver cancer cell migration, while silencing its expression resulted in increased migration. Mixed lineage kinase 3 (MLK3) was identified as a direct and functional new target of miR-520b. This regulation was also confirmed by luciferase reporter assays. In addition, our results showed that overexpression of the MLK3 expression partially reversed the effect of miR-520b on liver cancer cell migration, indicating that MLK3 contributes to the migration in liver cancer. The newly identified miR-520b/MLK3 axis partially elucidates the molecular mechanism of liver cancer cell migration and represents a new potential therapeutic target for liver cancer treatment."
+  ],
+  "affiliation": [
+    "Anhui Vocational College of Defense Technology, Lu'an, Anhui, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230716"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7098554"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7098554?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230716"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-28"
+  ],
+  "firstIndexDate": [
+    "2020-03-27"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-05"
+  ],
+  "dateOfRevision": [
+    "2020-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-26"
+  ],
+  "firstPublicationDate": [
+    "2020-03-26"
+  ]
+}

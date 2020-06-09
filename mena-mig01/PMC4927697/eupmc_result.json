@@ -1,0 +1,662 @@
+{
+  "id": [
+    "27408750"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27408750"
+  ],
+  "pmcid": [
+    "PMC4927697"
+  ],
+  "doi": [
+    "10.1038/hgv.2016.16"
+  ],
+  "title": [
+    "The Qatar genome: a population-specific tool for precision medicine in the Middle East."
+  ],
+  "authorString": [
+    "Fakhro KA, Staudt MR, Ramstetter MD, Robay A, Malek JA, Badii R, Al-Marri AA, Abi Khalil C, Al-Shakaki A, Chidiac O, Stadler D, Zirie M, Jayyousi A, Salit J, Mezey JG, Crystal RG, Rodriguez-Flores JL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fakhro KA"
+          ],
+          "firstName": [
+            "Khalid A"
+          ],
+          "lastName": [
+            "Fakhro"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Sidra Medical and Research Center, Doha, Qatar; Department of Genetic Medicine, Weill Cornell Medical College in Qatar, Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Staudt MR"
+          ],
+          "firstName": [
+            "Michelle R"
+          ],
+          "lastName": [
+            "Staudt"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3364-0894",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College , New York, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ramstetter MD"
+          ],
+          "firstName": [
+            "Monica Denise"
+          ],
+          "lastName": [
+            "Ramstetter"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College , New York, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Robay A"
+          ],
+          "firstName": [
+            "Amal"
+          ],
+          "lastName": [
+            "Robay"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College in Qatar , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Malek JA"
+          ],
+          "firstName": [
+            "Joel A"
+          ],
+          "lastName": [
+            "Malek"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College in Qatar , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Badii R"
+          ],
+          "firstName": [
+            "Ramin"
+          ],
+          "lastName": [
+            "Badii"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory Medicine and Pathology, Hamad Medical Corporation , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Marri AA"
+          ],
+          "firstName": [
+            "Ajayeb Al-Nabet"
+          ],
+          "lastName": [
+            "Al-Marri"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory Medicine and Pathology, Hamad Medical Corporation , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abi Khalil C"
+          ],
+          "firstName": [
+            "Charbel"
+          ],
+          "lastName": [
+            "Abi Khalil"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1428-6324",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College in Qatar , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Shakaki A"
+          ],
+          "firstName": [
+            "Alya"
+          ],
+          "lastName": [
+            "Al-Shakaki"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College in Qatar , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chidiac O"
+          ],
+          "firstName": [
+            "Omar"
+          ],
+          "lastName": [
+            "Chidiac"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College in Qatar , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stadler D"
+          ],
+          "firstName": [
+            "Dora"
+          ],
+          "lastName": [
+            "Stadler"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Weill Cornell Medical College in Qatar , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zirie M"
+          ],
+          "firstName": [
+            "Mahmoud"
+          ],
+          "lastName": [
+            "Zirie"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine, Hamad Medical Corporation , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jayyousi A"
+          ],
+          "firstName": [
+            "Amin"
+          ],
+          "lastName": [
+            "Jayyousi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Medicine, Hamad Medical Corporation , Doha, Qatar."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salit J"
+          ],
+          "firstName": [
+            "Jacqueline"
+          ],
+          "lastName": [
+            "Salit"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College , New York, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mezey JG"
+          ],
+          "firstName": [
+            "Jason G"
+          ],
+          "lastName": [
+            "Mezey"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College, New York, NY, USA; Department of Biological Statistics and Computational Biology, Cornell University, Ithaca, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Crystal RG"
+          ],
+          "firstName": [
+            "Ronald G"
+          ],
+          "lastName": [
+            "Crystal"
+          ],
+          "initials": [
+            "RG"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College , New York, NY, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rodriguez-Flores JL"
+          ],
+          "firstName": [
+            "Juan L"
+          ],
+          "lastName": [
+            "Rodriguez-Flores"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Genetic Medicine, Weill Cornell Medical College , New York, NY, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3364-0894",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1428-6324",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2398433"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Human genome variation"
+          ],
+          "ISOAbbreviation": [
+            "Hum Genome Var"
+          ],
+          "medlineAbbreviation": [
+            "Hum Genome Var"
+          ],
+          "NLMid": [
+            "101652445"
+          ],
+          "ISSN": [
+            "2054-345X"
+          ],
+          "ESSN": [
+            "2054-345X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "16016"
+  ],
+  "abstractText": [
+    "Reaching the full potential of precision medicine depends on the quality of personalized genome interpretation. In order to facilitate precision medicine in regions of the Middle East and North Africa (MENA), a population-specific genome for the indigenous Arab population of Qatar (QTRG) was constructed by incorporating allele frequency data from sequencing of 1,161 Qataris, representing 0.4% of the population. A total of 20.9 million single nucleotide polymorphisms (SNPs) and 3.1 million indels were observed in Qatar, including an average of 1.79% novel variants per individual genome. Replacement of the GRCh37 standard reference with QTRG in a best practices genome analysis workflow resulted in an average of 7* deeper coverage depth (an improvement of 23%) and 756,671 fewer variants on average, a reduction of 16% that is attributed to common Qatari alleles being present in QTRG. The benefit for using QTRG varies across ancestries, a factor that should be taken into consideration when selecting an appropriate reference for analysis."
+  ],
+  "affiliation": [
+    "Sidra Medical and Research Center, Doha, Qatar; Department of Genetic Medicine, Weill Cornell Medical College in Qatar, Doha, Qatar."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/hgv.2016.16"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4927697"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4927697?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/hgv.2016.16"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-07-13"
+  ],
+  "dateOfCreation": [
+    "2016-07-13"
+  ],
+  "firstIndexDate": [
+    "2016-07-14"
+  ],
+  "fullTextReceivedDate": [
+    "2016-07-14"
+  ],
+  "dateOfRevision": [
+    "2016-07-19"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-30"
+  ],
+  "firstPublicationDate": [
+    "2016-06-30"
+  ]
+}

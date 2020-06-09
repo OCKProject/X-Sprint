@@ -1,0 +1,1134 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//Springer-Verlag//DTD A++ V2.4//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName A++V2.4.dtd?><?SourceDTD.Version 2.4?><?ConverterInfo.XSLTName springer2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group UK</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7235313</article-id><article-id pub-id-type="publisher-id">63506</article-id><article-id pub-id-type="doi">10.1038/s41598-020-63506-6</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Multiscale modelling of motility wave propagation in cell migration</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Khataee</surname><given-names>Hamid</given-names></name><address><email>h.khataee@uq.edu.au</email></address><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Czirok</surname><given-names>Andras</given-names></name><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Neufeld</surname><given-names>Zoltan</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id><institution-id institution-id-type="GRID">grid.1003.2</institution-id><institution>School of Mathematics and Physics, </institution><institution>The University of Queensland, </institution></institution-wrap>St. Lucia, Brisbane QLD 4072 Australia </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2294 6276</institution-id><institution-id institution-id-type="GRID">grid.5591.8</institution-id><institution>Department of Biological Physics, </institution><institution>Eotvos University, </institution></institution-wrap>Budapest, 1053 Hungary </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2177 6375</institution-id><institution-id institution-id-type="GRID">grid.412016.0</institution-id><institution>Department of Anatomy and Cell Biology, </institution><institution>University of Kansas Medical Center, </institution></institution-wrap>Kansas City, KS 66160 USA </aff></contrib-group><pub-date pub-type="epub"><day>18</day><month>5</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>18</day><month>5</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>10</volume><elocation-id>8128</elocation-id><history><date date-type="received"><day>16</day><month>1</month><year>2020</year></date><date date-type="accepted"><day>26</day><month>3</month><year>2020</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2020</copyright-statement><license license-type="OpenAccess"><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x02019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">The collective motion of cell monolayers within a tissue is a fundamental biological process that occurs during tissue formation, wound healing, cancerous invasion, and viral infection. Experiments have shown that at the onset of migration, the motility is self-generated as a polarisation wave starting from the leading edge of the monolayer and progressively propagates into the bulk. However, it is unclear how the propagation of this motility wave is influenced by cellular properties. Here, we investigate this question&#x000a0;using a computational model based on the Potts model coupled to the dynamics of intracellular polarisation. The model captures the propagation of the polarisation wave and suggests that the cells cortex can regulate the migration modes: strongly contractile cells may depolarise the monolayer, whereas less contractile cells can form swirling movement. Cortical contractility is further found to limit the cells motility, which (i) decelerates the wave speed and the leading edge progression, and (ii) destabilises the leading edge. Together, our model describes how different mechanical properties of cells can contribute to the regulation of collective cell migration.</p></abstract><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>Applied mathematics</kwd><kwd>Computational science</kwd><kwd>Developmental biology</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; The Author(s) 2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1" sec-type="introduction"><title>Introduction</title><p id="Par2">Collective cell migration is a fundamental process both during embryonic development and pathophysiology such as wound healing or cancer metastasis<sup><xref ref-type="bibr" rid="CR1">1</xref>&#x02013;<xref ref-type="bibr" rid="CR3">3</xref></sup>. Conceptually, the dynamics of the migrating cells have been best understood in epithelial monolayers<sup><xref ref-type="bibr" rid="CR4">4</xref>,<xref ref-type="bibr" rid="CR5">5</xref></sup> which are the simplest tissues that line organs throughout the body<sup><xref ref-type="bibr" rid="CR6">6</xref></sup>. As cells cooperatively move together<sup><xref ref-type="bibr" rid="CR7">7</xref>,<xref ref-type="bibr" rid="CR8">8</xref></sup>, each cell needs to establish its own polarity: confining certain biochemical processes to the front of the cell while others to the rear<sup><xref ref-type="bibr" rid="CR9">9</xref>&#x02013;<xref ref-type="bibr" rid="CR11">11</xref></sup>. The most fundamental hallmark of cell polarisation manifests in cytoskeletal dynamics: polymerisation of F-actin at the leading edge, a process coordinated by a variety of intracellular signaling molecules<sup><xref ref-type="bibr" rid="CR10">10</xref></sup>. Actin polymerisation and the activity of myosin II molecular motors produce cytoskeletal flows which translate to cell motility<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR7">7</xref>,<xref ref-type="bibr" rid="CR12">12</xref>&#x02013;<xref ref-type="bibr" rid="CR16">16</xref></sup>.</p><p id="Par3">The synchronisation of cell polarity during collective migration as well as the guidance from mechanical environmental cues are poorly understood<sup><xref ref-type="bibr" rid="CR17">17</xref></sup>. The process likely involves cell-cell junctions mediated by adhesion proteins (e.g., transmembrane receptor E-cadherin) coupled to the contractile actomyosin cytoskeleton through cytoplasmic adaptor proteins (e.g., <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha $$\end{document}</tex-math><mml:math id="M2"><mml:mi>&#x003b1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq1.gif"/></alternatives></inline-formula>-catenin)<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. Actomyosin contractility at the cell cortex can modulate both adhesion strength<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>, and cell shape, both exerting an important influence on tissue remodelling<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR6">6</xref></sup>.</p><p id="Par4">A common experimental system to study collective cell migration <italic>in vitro</italic> is the wound closure assay, in which a barrier, the &#x0201c;wound&#x0201d;, divides a monolayer culture. After removal of the barrier, cells migrate into the empty region and eventually create or restore a continuous monolayer of cells. Live imaging of such assays<sup><xref ref-type="bibr" rid="CR19">19</xref>&#x02013;<xref ref-type="bibr" rid="CR21">21</xref></sup> indicated that the number of cells in the cell-free region increases, mainly due to active cell migration and not proliferation<sup><xref ref-type="bibr" rid="CR19">19</xref>&#x02013;<xref ref-type="bibr" rid="CR22">22</xref></sup>. Furthermore, the onset of migration is delayed for the cells deep in the bulk compared to those in the vicinity of the front boundary. In several cultures the onset of motility can be observed as a polarity wave propagating backward from the leading edge of epithelial monolayer<sup><xref ref-type="bibr" rid="CR19">19</xref>&#x02013;<xref ref-type="bibr" rid="CR21">21</xref></sup>.</p><p id="Par5">Several theoretical models have been proposed to explain the coordination between cells during collective migration<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR22">22</xref>&#x02013;<xref ref-type="bibr" rid="CR34">34</xref></sup>. However, it remains elusive how the intercellular and intracellular mechanobiology regulates the initiation and propagation of the polarisation wave through a monolayer of cells. Recently, we developed a one-dimensional model of this mechanism, which involved mechanical forces and biomechanical feedback between cells. The model predicted a traveling wave that transmits polarisation information and initiates motility in the bulk of the monolayer<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>.</p><p id="Par6">The one-dimensional model of the epithelial layer was based on a very simplified representation of the cell monolayer as a chain of active particles connected by elastic springs characterised by a single parameter. However, a realistic representation of the cell sheet should include a more detailed description of cellular mechanics, such as the contractility of the cell cortex, cell-cell adhesion, and cell-area extensibility.</p><p id="Par7">Here we extend our model for the expansion of an epithelial monolayer to two dimensions in order to incorporate the dynamics of cell shape as well as the polarity driven active cell motility. The new two-dimensional (2D) model is based on the theoretical and computational framework of the Cellular Potts Model (CPM). We demonstrate that this model can capture the propagation of the motility wave through the monolayer, and also allows us to analyse how the properties and patterns of cell motility are affected by different components of cellular mechanics.</p><p id="Par8">This paper is organised as follows. Section 2 presents the development of the model at intercellular and intracellular levels. At intercellular scale, the model represents the dynamics of cellular shapes and interactions between cells. At intracellular scale, the model describes how the self-generated cell forces are coupled to the cell polarisation. In the next section, results are presented and discussed. First, we characterise regions of the model parameters where the polarisation propagates through the monolayer sheet. This results in the characterisation of two behaviours (different than the sheet migration): swirling motion and transient migration. After establishing a phase diagram for the model parameters, we then focus on the parameter regime where the sheet migration occurs and analyse the propagation of the motility wave through the monolayer. Finally, a summary of the findings are presented and discussed with earlier observations and also future directions.</p></sec><sec id="Sec2"><title>The model</title><p id="Par9">A barrier-removal assay is often utilised to study collective motility of epithelial cells. Our model represents the migration of cells toward the cell-free region, after the barrier removal &#x02013; and focuses on the role of intercellular interactions and intracellular mechanics in the process. The cell-cell interactions are represented using the CPM<sup><xref ref-type="bibr" rid="CR23">23</xref>,<xref ref-type="bibr" rid="CR36">36</xref></sup>. The CPM is a lattice model which is computationally and conceptionally simpler than most off-lattice models (e.g., vertex model), while it provides a realistic description of cell shapes<sup><xref ref-type="bibr" rid="CR37">37</xref>,<xref ref-type="bibr" rid="CR38">38</xref></sup>. The intracellular polarity dynamics was formulated as a set of ODEs, coupled to each model cell of the CPM. This representation of cell motility is a generalisation of the model we used in the context of a simple one-dimensional chain of cells for the onset of collective cell movement<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. The model is implemented using the open-source software package CompuCell3D (CC3D)<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>.</p><sec id="Sec3"><title>Intercellular dynamics</title><p id="Par10">The CPM represents the cells on a two-dimensional lattice, where each cell covers a set of connected lattice sites or pixels; each pixel can only be occupied by one cell at a time. In this paper, the lattice is a rectangular surface (1500 and 320 pixels in the <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M4"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq2.gif"/></alternatives></inline-formula>- and <inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$y$$\end{document}</tex-math><mml:math id="M6"><mml:mi>y</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq3.gif"/></alternatives></inline-formula>-dimensions, respectively). The expansion and retraction of the cell boundaries is determined by minimising a phenomenological energy or goal-function <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E$$\end{document}</tex-math><mml:math id="M8"><mml:mi>E</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq4.gif"/></alternatives></inline-formula>, defined in terms of the area <inline-formula id="IEq5"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${A}_{\sigma }$$\end{document}</tex-math><mml:math id="M10"><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq5.gif"/></alternatives></inline-formula> and perimeter <inline-formula id="IEq6"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${L}_{\sigma }$$\end{document}</tex-math><mml:math id="M12"><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq6.gif"/></alternatives></inline-formula> of each cell <inline-formula id="IEq7"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma $$\end{document}</tex-math><mml:math id="M14"><mml:mi>&#x003c3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq7.gif"/></alternatives></inline-formula> of <inline-formula id="IEq8"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N$$\end{document}</tex-math><mml:math id="M16"><mml:mi>N</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq8.gif"/></alternatives></inline-formula> cells (indices <inline-formula id="IEq9"><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma =1,\ldots ,N$$\end{document}</tex-math><mml:math id="M18"><mml:mi>&#x003c3;</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>&#x02026;</mml:mi><mml:mo>,</mml:mo><mml:mi>N</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq9.gif"/></alternatives></inline-formula>)<sup><xref ref-type="bibr" rid="CR33">33</xref>,<xref ref-type="bibr" rid="CR40">40</xref>&#x02013;<xref ref-type="bibr" rid="CR43">43</xref></sup>, and the motile force <inline-formula id="IEq10"><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{F}}_{\sigma }$$\end{document}</tex-math><mml:math id="M20"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>F</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq10.gif"/></alternatives></inline-formula> modeled as:<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E={\lambda }_{{\rm{area}}}\,\mathop{\sum }\limits_{\sigma }^{N}\,{({A}_{\sigma }-{A}_{0})}^{2}+{\lambda }_{{\rm{cont}}}\,\mathop{\sum }\limits_{\sigma }^{N}\,{L}_{\sigma }^{2}+\sum _{\overrightarrow{i},\overrightarrow{j}}\,J({\sigma }_{\overrightarrow{i}},\,{\sigma }_{\overrightarrow{j}})(1-\delta ({\sigma }_{\overrightarrow{i}},{\sigma }_{\overrightarrow{j}}))+\mathop{\sum }\limits_{\sigma }^{N}\,{\overrightarrow{F}}_{\sigma }\cdot {\overrightarrow{r}}_{\sigma }$$\end{document}</tex-math><mml:math id="M22" display="block"><mml:mi>E</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub><mml:mspace width=".1em"/><mml:munderover><mml:mo>&#x02211;</mml:mo><mml:mi>&#x003c3;</mml:mi><mml:mi>N</mml:mi></mml:munderover><mml:mspace width=".1em"/><mml:msup><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mspace width=".1em"/><mml:munderover><mml:mo>&#x02211;</mml:mo><mml:mi>&#x003c3;</mml:mi><mml:mi>N</mml:mi></mml:munderover><mml:mspace width=".1em"/><mml:msubsup><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msubsup><mml:mo>+</mml:mo><mml:mrow><mml:munder><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover><mml:mo>,</mml:mo><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:munder></mml:mrow><mml:mspace width=".1em"/><mml:mi>J</mml:mi><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mspace width=".1em"/><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>&#x003b4;</mml:mi><mml:mo>(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:munderover><mml:mo>&#x02211;</mml:mo><mml:mi>&#x003c3;</mml:mi><mml:mi>N</mml:mi></mml:munderover><mml:mspace width=".1em"/><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>F</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub><mml:mo>&#x022c5;</mml:mo><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>r</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><graphic xlink:href="41598_2020_63506_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula></p><p id="Par11">The first term of Eq. (<xref rid="Equ1" ref-type="">1</xref>) models the compressibility of cells by penalising the deviation of cell areas from a preset value <inline-formula id="IEq11"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${A}_{0}$$\end{document}</tex-math><mml:math id="M24"><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq11.gif"/></alternatives></inline-formula>, 100 pixels (see Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>). The second term represents the contractility of the cell cortex as a spring with zero equilibrium length. The penalty parameter <inline-formula id="IEq12"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M26"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq12.gif"/></alternatives></inline-formula> represents cortical actomyosin contractility, around the lateral cell membrane<sup><xref ref-type="bibr" rid="CR44">44</xref></sup>. The third term describes the cell-cell adhesion mediated by adhesion molecules, such as E-cadherin. <inline-formula id="IEq13"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$J$$\end{document}</tex-math><mml:math id="M28"><mml:mi>J</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq13.gif"/></alternatives></inline-formula> is the boundary energy cost at neighbouring lattice sites <inline-formula id="IEq14"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overrightarrow{i}$$\end{document}</tex-math><mml:math id="M30"><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq14.gif"/></alternatives></inline-formula> and <inline-formula id="IEq15"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overrightarrow{j}$$\end{document}</tex-math><mml:math id="M32"><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq15.gif"/></alternatives></inline-formula>. The Kronecker <inline-formula id="IEq16"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta $$\end{document}</tex-math><mml:math id="M34"><mml:mi>&#x003b4;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq16.gif"/></alternatives></inline-formula> function prevents counting pixels that belong to the same cell. When both lattice sites <inline-formula id="IEq17"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overrightarrow{i}$$\end{document}</tex-math><mml:math id="M36"><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq17.gif"/></alternatives></inline-formula> and <inline-formula id="IEq18"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overrightarrow{j}$$\end{document}</tex-math><mml:math id="M38"><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq18.gif"/></alternatives></inline-formula> correspond to cells, <inline-formula id="IEq19"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$J({\sigma }_{\overrightarrow{i}},{\sigma }_{\overrightarrow{j}})={\lambda }_{{\rm{adh}}}$$\end{document}</tex-math><mml:math id="M40"><mml:mi>J</mml:mi><mml:mo>(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub><mml:mo>)</mml:mo><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq19.gif"/></alternatives></inline-formula>, otherwise when one or both lattice sites represent empty space or boundary wall the boundary energy cost <inline-formula id="IEq20"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$J$$\end{document}</tex-math><mml:math id="M42"><mml:mi>J</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq20.gif"/></alternatives></inline-formula> is set to zero. Note that <inline-formula id="IEq21"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}} &#x0003c; 0$$\end{document}</tex-math><mml:math id="M44"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub><mml:mo>&#x0003c;</mml:mo><mml:mn>0</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq21.gif"/></alternatives></inline-formula> to represent that cells preferentially expand their boundaries shared with neighbouring cells. This is however balanced by the contractile tension along the cell cortex. The last term represents a motile force driving cells into the direction of <inline-formula id="IEq22"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{F}}_{\sigma }$$\end{document}</tex-math><mml:math id="M46"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>F</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq22.gif"/></alternatives></inline-formula>, where <inline-formula id="IEq23"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{r}}_{\sigma }$$\end{document}</tex-math><mml:math id="M48"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>r</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq23.gif"/></alternatives></inline-formula> is the position vector of the cells center of mass. The prefactors <inline-formula id="IEq24"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{area}}}$$\end{document}</tex-math><mml:math id="M50"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq24.gif"/></alternatives></inline-formula>, <inline-formula id="IEq25"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M52"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq25.gif"/></alternatives></inline-formula>, <inline-formula id="IEq26"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}}$$\end{document}</tex-math><mml:math id="M54"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq26.gif"/></alternatives></inline-formula>, and <inline-formula id="IEq27"><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M56"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq27.gif"/></alternatives></inline-formula> reflect the relative importance of the corresponding cellular properties to set cellular morphology.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Model parameters.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Number of cells, <italic>N</italic></td><td>3000<sup>&#x02021;</sup></td></tr><tr><td>Cell size (pixel&#x02009;&#x000d7;&#x02009;pixel)</td><td>10&#x02009;&#x000d7;&#x02009;10</td></tr><tr><td>Initial cell area, <italic>A</italic><sub><italic>&#x003c3;</italic></sub> (pixel&#x02009;&#x000d7;&#x02009;pixel)</td><td>100</td></tr><tr><td>Preferred area, <italic>A</italic><sub>0</sub> (pixel&#x02009;&#x000d7;&#x02009;pixel)</td><td>100</td></tr><tr><td>Area strain, <italic>&#x003bb;</italic><sub>area</sub></td><td>70</td></tr><tr><td>Temperature, <italic>T</italic></td><td>50</td></tr><tr><td>Depolarisation rate, <italic>&#x003b2;</italic></td><td>0.1</td></tr><tr><td>Polarisation rate, <italic>&#x003b3;</italic></td><td>1</td></tr><tr><td>Half-saturation constant, <italic>&#x003b1;</italic></td><td>1</td></tr><tr><td>Hill coefficient, <italic>n</italic></td><td>10</td></tr><tr><td>Maximal motile force, <italic>F</italic><sub>max</sub></td><td>1000</td></tr><tr><td>Initial polarity magnitude of leading cells, <italic>p</italic><sub>0</sub></td><td>4</td></tr></tbody></table><table-wrap-foot><p><sup>&#x02021;</sup>100 and 30 cells in the <italic>x</italic>- and <italic>y</italic>-dimensions, respectively.</p></table-wrap-foot></table-wrap></p><p id="Par12">The dynamics of the CPM is defined by a stochastic series of elementary steps, where a cell expands or shrinks accommodated by a corresponding area change in the adjacent cell (or empty area)<sup><xref ref-type="bibr" rid="CR36">36</xref>,<xref ref-type="bibr" rid="CR39">39</xref></sup>. The algorithm randomly selects two adjacent lattice sites <inline-formula id="IEq28"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overrightarrow{i}$$\end{document}</tex-math><mml:math id="M58"><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq28.gif"/></alternatives></inline-formula> and <inline-formula id="IEq29"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overrightarrow{j}$$\end{document}</tex-math><mml:math id="M60"><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq29.gif"/></alternatives></inline-formula>, occupied by different cells <inline-formula id="IEq30"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{\overrightarrow{i}}\ne {\sigma }_{\overrightarrow{j}}$$\end{document}</tex-math><mml:math id="M62"><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub><mml:mo>&#x02260;</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq30.gif"/></alternatives></inline-formula>. The elementary step is an attempt to copy <inline-formula id="IEq31"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{\overrightarrow{i}}$$\end{document}</tex-math><mml:math id="M64"><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq31.gif"/></alternatives></inline-formula> into the adjacent lattice site <inline-formula id="IEq32"><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\overrightarrow{j}$$\end{document}</tex-math><mml:math id="M66"><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq32.gif"/></alternatives></inline-formula>, which takes place with probability<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P({\sigma }_{\overrightarrow{i}}\to {\sigma }_{\overrightarrow{j}})=\{\begin{array}{ll}1 &#x00026; {\rm{for}}\,\Delta E\le 0\\ {e}^{-\Delta E/T} &#x00026; {\rm{for}}\,\Delta E &#x0003e; 0\end{array}$$\end{document}</tex-math><mml:math id="M68" display="block"><mml:mi>P</mml:mi><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>i</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub><mml:mo>&#x02192;</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow><mml:mrow><mml:mover accent="true"><mml:mi>j</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo stretchy="true">{</mml:mo><mml:mrow><mml:mtable columnalign="left"><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mn>1</mml:mn></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mi mathvariant="normal">for</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>E</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr columnalign="left"><mml:mtd columnalign="left"><mml:mrow><mml:msup><mml:mrow><mml:mi>e</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>E</mml:mi><mml:mo>/</mml:mo><mml:mi>T</mml:mi></mml:mrow></mml:msup></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mi mathvariant="normal">for</mml:mi><mml:mspace width=".25em"/><mml:mi mathvariant="normal">&#x00394;</mml:mi><mml:mi>E</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mrow></mml:math><graphic xlink:href="41598_2020_63506_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula>where &#x00394;<italic>E</italic> is the change in functional (<xref rid="Equ1" ref-type="">1</xref>) due to the elementary step considered, and the temperature parameter <inline-formula id="IEq33"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$T$$\end{document}</tex-math><mml:math id="M70"><mml:mi>T</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq33.gif"/></alternatives></inline-formula> is an arbitrary scaling factor. A Monte Carlo step (MCS) of the simulation, the natural unit of time in the model, is set to <inline-formula id="IEq34"><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$L$$\end{document}</tex-math><mml:math id="M72"><mml:mi>L</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq34.gif"/></alternatives></inline-formula> elementary steps &#x02013; where <inline-formula id="IEq35"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$L$$\end{document}</tex-math><mml:math id="M74"><mml:mi>L</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq35.gif"/></alternatives></inline-formula> is the total number of lattice sites in the simulated area<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>. Together, Eqs. (<xref rid="Equ1" ref-type="">1</xref> and <xref rid="Equ2" ref-type="">2</xref>) imply that cell configurations which increase the penalties in functional (<xref rid="Equ1" ref-type="">1</xref>) are less likely to occur. Thus, the cell population evolves through stochastic rearrangements in accordance with the biological dynamics incorporated into the effective energy function <inline-formula id="IEq36"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E$$\end{document}</tex-math><mml:math id="M76"><mml:mi>E</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq36.gif"/></alternatives></inline-formula>.</p><p id="Par13">In the initial condition, the area of each cell was set to the equilibrium value <inline-formula id="IEq37"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${A}_{0}$$\end{document}</tex-math><mml:math id="M78"><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq37.gif"/></alternatives></inline-formula>, i.e., the size of each cell is 10&#x02009;&#x000d7;&#x02009;10 pixels. The total number of <inline-formula id="IEq38"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N=3000$$\end{document}</tex-math><mml:math id="M80"><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>3000</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq38.gif"/></alternatives></inline-formula> cells are placed in the domain: 100&#x02009;&#x000d7;&#x02009;30 cells in the <inline-formula id="IEq39"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M82"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq39.gif"/></alternatives></inline-formula>- and <inline-formula id="IEq40"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$y$$\end{document}</tex-math><mml:math id="M84"><mml:mi>y</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq40.gif"/></alternatives></inline-formula>-dimensions, respectively. Then, the cell-free region is a 500-pixel-wide (in the <inline-formula id="IEq41"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M86"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq41.gif"/></alternatives></inline-formula>-dimension) empty region. This is long enough that the leading cells will not reach the end of the empty region before the end of the simulations. The surrounding wall cells are used to prevent the cells from sticking to the lattice boundaries. The barrier and wall cells (each is 10&#x02009;&#x000d7;&#x02009;10 pixels) have the CC3D &#x0201c;Freeze&#x0201d; attribute and thus, they are excluded from participating in the pixel copies of the Potts model<sup><xref ref-type="bibr" rid="CR45">45</xref></sup>.</p></sec><sec id="Sec4"><title>Intracellular dynamics</title><p id="Par14">Active cell motility is powered by cytoskeletal dynamics which is regulated by cell polarity, a spatial imbalance of signaling molecules<sup><xref ref-type="bibr" rid="CR1">1</xref>,<xref ref-type="bibr" rid="CR17">17</xref>,<xref ref-type="bibr" rid="CR46">46</xref></sup>. Following<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>, we represent cell polarity as a vector quantity <inline-formula id="IEq42"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{p}}_{\sigma }$$\end{document}</tex-math><mml:math id="M88"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq42.gif"/></alternatives></inline-formula>, and we assume that the motile force is a nonlinear (Hill) function of polarity:<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{F}}_{\sigma }={F}_{{\rm{\max }}}\frac{{\overrightarrow{p}}_{\sigma }}{|{\overrightarrow{p}}_{\sigma }|}\frac{{|{\overrightarrow{p}}_{\sigma }|}^{n}}{{|{\overrightarrow{p}}_{\sigma }|}^{n}+{\alpha }^{n}}$$\end{document}</tex-math><mml:math id="M90" display="block"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>F</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mo stretchy="true">|</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">|</mml:mo></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mo stretchy="true">|</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">|</mml:mo></mml:mrow><mml:mi>n</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mo stretchy="true">|</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">|</mml:mo></mml:mrow><mml:mi>n</mml:mi></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mi>&#x003b1;</mml:mi></mml:mrow><mml:mi>n</mml:mi></mml:msup></mml:mrow></mml:mfrac></mml:math><graphic xlink:href="41598_2020_63506_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>with half-saturation constant <inline-formula id="IEq43"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha  &#x0003e; 0$$\end{document}</tex-math><mml:math id="M92"><mml:mi>&#x003b1;</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mn>0</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq43.gif"/></alternatives></inline-formula>, and maximal motile force <inline-formula id="IEq44"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M94"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq44.gif"/></alternatives></inline-formula>. To describe the dynamics of cell polarisation, we adopt the earlier models<sup><xref ref-type="bibr" rid="CR24">24</xref>,<xref ref-type="bibr" rid="CR25">25</xref>,<xref ref-type="bibr" rid="CR35">35</xref></sup> similar to the one recently used in<sup><xref ref-type="bibr" rid="CR21">21</xref></sup> as:<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{{\rm{d}}{\overrightarrow{p}}_{\sigma }}{{\rm{d}}t}=-\,\beta {\overrightarrow{p}}_{\sigma }+\gamma {\overrightarrow{v}}_{\sigma }$$\end{document}</tex-math><mml:math id="M96" display="block"><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="normal">d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mi>&#x003b2;</mml:mi><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mi>&#x003b3;</mml:mi><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>v</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><graphic xlink:href="41598_2020_63506_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>where 1/<italic>&#x003b2;</italic> is the characteristic persistence time of polarisation and the second term represents the reinforcement of polarisation through actual movement<sup><xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR47">47</xref></sup>, where <inline-formula id="IEq45"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{v}}_{\sigma }$$\end{document}</tex-math><mml:math id="M98"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>v</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq45.gif"/></alternatives></inline-formula> and <inline-formula id="IEq46"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\gamma $$\end{document}</tex-math><mml:math id="M100"><mml:mi>&#x003b3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq46.gif"/></alternatives></inline-formula> are the velocity of the center of mass of the cell <inline-formula id="IEq47"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sigma $$\end{document}</tex-math><mml:math id="M102"><mml:mi>&#x003c3;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq47.gif"/></alternatives></inline-formula> and a characteristic scale of the velocity, respectively. This is qualitatively equivalent to earlier models in which cell polarity aligns with cell velocity due to the inherent asymmetry created in a moving cell<sup><xref ref-type="bibr" rid="CR25">25</xref>,<xref ref-type="bibr" rid="CR29">29</xref>,<xref ref-type="bibr" rid="CR48">48</xref></sup>; reviewed in<sup><xref ref-type="bibr" rid="CR26">26</xref></sup>. Thus, the displacement of the cells is determined by the intracellular motile force <inline-formula id="IEq48"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{F}}_{\sigma }$$\end{document}</tex-math><mml:math id="M104"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>F</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq48.gif"/></alternatives></inline-formula> in combination with other intercellular interactions represented in Eqs. (<xref rid="Equ1" ref-type="">1</xref>&#x02013;<xref rid="Equ4" ref-type="">4</xref>).</p><p id="Par15">To mimic the initial migratory stimulus through the presence of the cell-free region to which the leading cells (i.e. the first row of cells) are exposed when the barrier is lifted, we assign an initial polarity to the leading cells to trigger their motility. This is consistent with earlier studies showing that the motile force production is initiated at the first few rows of the leading edge and travels backward into the monolayer<sup><xref ref-type="bibr" rid="CR19">19</xref>,<xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR49">49</xref>,<xref ref-type="bibr" rid="CR50">50</xref></sup>.</p><p id="Par16">The magnitude of the initial polarity of the leading cells is set as the steady-state polarity of a migrating single cell; see Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1(a)</xref>. Due to the strong nonlinearity of Eq. (<xref rid="Equ3" ref-type="">3</xref>), the model single cell motility exhibits a bistable behaviour as shown in<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>; see also in Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1(a)</xref>. Such bistability has been also found in more detailed PDE models<sup><xref ref-type="bibr" rid="CR51">51</xref>,<xref ref-type="bibr" rid="CR52">52</xref></sup>. Recall that the cell velocity (and thus polarity) is determined by the motile force <inline-formula id="IEq49"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{F}}_{\sigma }$$\end{document}</tex-math><mml:math id="M106"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>F</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq49.gif"/></alternatives></inline-formula> and intercellular interactions represented in Eqs. (<xref rid="Equ1" ref-type="">1</xref>&#x02013;<xref rid="Equ4" ref-type="">4</xref>). Thus, when a cell is initialised with polarity greater than the threshold parameter <inline-formula id="IEq50"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha $$\end{document}</tex-math><mml:math id="M108"><mml:mi>&#x003b1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq50.gif"/></alternatives></inline-formula>, it will tend to move with a stable velocity and polarity. Conversely, if the initial polarity is lower than <inline-formula id="IEq51"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha $$\end{document}</tex-math><mml:math id="M110"><mml:mi>&#x003b1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq51.gif"/></alternatives></inline-formula> the cell gradually looses its polarity and motility; see Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1(a)</xref>. Such bistable behavior has been experimentally observed in<sup><xref ref-type="bibr" rid="CR53">53</xref>,<xref ref-type="bibr" rid="CR54">54</xref></sup>. Thus, following the experiments<sup><xref ref-type="bibr" rid="CR19">19</xref>,<xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR49">49</xref>,<xref ref-type="bibr" rid="CR50">50</xref></sup>, at the onset of migration, when the barrier is removed, we set the polarity of the leading cells equal to the steady-state value; see Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. We set the maximum motile force <inline-formula id="IEq52"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}=1000$$\end{document}</tex-math><mml:math id="M112"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>1000</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq52.gif"/></alternatives></inline-formula>, at which according to the single cell simulations the cell velocity starts to saturate; see Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1(b&#x02013;d)</xref> and Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.<fig id="Fig1"><label>Figure 1</label><caption><p>Single-cell dynamics. (<bold>a</bold>) The magnitude of polarity <inline-formula id="IEq53"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\overrightarrow{p}|$$\end{document}</tex-math><mml:math id="M114"><mml:mo>|</mml:mo><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover><mml:mo>|</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq53.gif"/></alternatives></inline-formula> versus time plots indicate bistability. For various values of the maximal motile force <inline-formula id="IEq54"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M116"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq54.gif"/></alternatives></inline-formula> (see the color key), the model cell exhibits either a highly polarised or a depolarised phenotype &#x02013; depending on the initial polarity value (2 or 0.8, respectively oriented in the <inline-formula id="IEq55"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M118"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq55.gif"/></alternatives></inline-formula> direction). The cortical contractility coefficient is <inline-formula id="IEq56"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}=4$$\end{document}</tex-math><mml:math id="M120"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>4</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq56.gif"/></alternatives></inline-formula> and the area compressibility coefficient is <inline-formula id="IEq57"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{area}}}=70$$\end{document}</tex-math><mml:math id="M122"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>70</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq57.gif"/></alternatives></inline-formula>. (<bold>b</bold>) Steady-state cell polarity <inline-formula id="IEq58"><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|\overrightarrow{p}|$$\end{document}</tex-math><mml:math id="M124"><mml:mo>|</mml:mo><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover><mml:mo>|</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq58.gif"/></alternatives></inline-formula> is a non-linear increasing function of <inline-formula id="IEq59"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M126"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq59.gif"/></alternatives></inline-formula>. The steady-state polarity saturates for <inline-formula id="IEq60"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}} &#x0003e; 1000$$\end{document}</tex-math><mml:math id="M128"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub><mml:mo>&#x0003e;</mml:mo><mml:mn>1000</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq60.gif"/></alternatives></inline-formula>. <inline-formula id="IEq61"><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{area}}}=70$$\end{document}</tex-math><mml:math id="M130"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>70</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq61.gif"/></alternatives></inline-formula>. See Movie&#x000a0;<xref rid="MOESM1" ref-type="media">1</xref>. (<bold>c</bold>,<bold>d</bold>) Velocity <inline-formula id="IEq62"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$v$$\end{document}</tex-math><mml:math id="M132"><mml:mi>v</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq62.gif"/></alternatives></inline-formula> (<inline-formula id="IEq63"><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M134"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq63.gif"/></alternatives></inline-formula>-component) versus <inline-formula id="IEq64"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M136"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq64.gif"/></alternatives></inline-formula>, where <inline-formula id="IEq65"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}=1000$$\end{document}</tex-math><mml:math id="M138"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>1000</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq65.gif"/></alternatives></inline-formula>, (<bold>c</bold>); and <inline-formula id="IEq66"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M140"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq66.gif"/></alternatives></inline-formula>, where <inline-formula id="IEq67"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{area}}}=70$$\end{document}</tex-math><mml:math id="M142"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>70</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq67.gif"/></alternatives></inline-formula> (<bold>d</bold>). Error bars indicate standard deviation (SD). Other simulation parameters are in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.</p></caption><graphic xlink:href="41598_2020_63506_Fig1_HTML" id="d29e2223"/></fig></p><p id="Par17">The single cell velocity can be estimated by considering the motility term in the energy function. A pixel change which moves the cell center in the direction of the cell polarization, i.e. reducing the energy, leads to a displacement of the cell center <inline-formula id="IEq68"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta {r}_{c}\sim R/N\sim {N}^{-1/2}$$\end{document}</tex-math><mml:math id="M144"><mml:mi>&#x003b4;</mml:mi><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub><mml:mo>&#x0223c;</mml:mo><mml:mi>R</mml:mi><mml:mo>/</mml:mo><mml:mi>N</mml:mi><mml:mo>&#x0223c;</mml:mo><mml:msup><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq68.gif"/></alternatives></inline-formula> where <inline-formula id="IEq69"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N={A}_{0}$$\end{document}</tex-math><mml:math id="M146"><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq69.gif"/></alternatives></inline-formula> is the number of pixels in the cell and <inline-formula id="IEq70"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$R\sim {N}^{1/2}$$\end{document}</tex-math><mml:math id="M148"><mml:mi>R</mml:mi><mml:mo>&#x0223c;</mml:mo><mml:msup><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq70.gif"/></alternatives></inline-formula> is the cell radius. The number of such energy reducing pixel changes in a single MCS timestep of the CPM model is proportional to the cell perimeter (~<italic>N</italic><sup>1/2</sup>). Thus, the estimated single cell velocity, i.e. displacement per unit time is: <inline-formula id="IEq71"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$v\sim {N}^{1/2}\delta {r}_{c}\sim 1$$\end{document}</tex-math><mml:math id="M150"><mml:mi>v</mml:mi><mml:mo>&#x0223c;</mml:mo><mml:msup><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mi>&#x003b4;</mml:mi><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub><mml:mo>&#x0223c;</mml:mo><mml:mn>1</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq71.gif"/></alternatives></inline-formula>, which is comparable to the numerical values obtained in the simulations (~0.4&#x02013;0.5).</p><p id="Par18">In order to estimate the required magnitude of the motile force coefficient <inline-formula id="IEq72"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M152"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq72.gif"/></alternatives></inline-formula>, we have to take into account that individual pixel changes also lead to temporary changes (increase or decrease) of the cell area and perimeter. For the parameter values we used, the area constraint appears to be the stronger one. Therefore, for single pixel change attempts that move the center of mass in the direction of the cell polarization, to be successful, the decrease of energy due to the motile force need to be larger than the energy increase due to compression or expansion of the cell by one pixel relative to the reference value <inline-formula id="IEq73"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${A}_{0}$$\end{document}</tex-math><mml:math id="M154"><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq73.gif"/></alternatives></inline-formula>. Thus, we have <inline-formula id="IEq74"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}\delta {r}_{c} &#x0003e; {\lambda }_{{\rm{area}}}$$\end{document}</tex-math><mml:math id="M156"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub><mml:mi>&#x003b4;</mml:mi><mml:msub><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub><mml:mo>&#x0003e;</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq74.gif"/></alternatives></inline-formula> which gives <inline-formula id="IEq75"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}} &#x0003e; {\lambda }_{{\rm{area}}}{N}^{1/2}\sim 700$$\end{document}</tex-math><mml:math id="M158"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub><mml:mo>&#x0003e;</mml:mo><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub><mml:msup><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>&#x0223c;</mml:mo><mml:mn>700</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq75.gif"/></alternatives></inline-formula>. This is qualitatively in agreement with the range of parameter values identified in the numerical simulations.</p><p id="Par19">In order to estimate the spatial and temporal units of our model, we can use a typical cell diameter of ~20 <italic>&#x003bc;</italic>m which means that the length unit, i.e. pixel size, of our model is ~2 <italic>&#x003bc;</italic>m. The typical value of single cell velocity is 20 <italic>&#x003bc;</italic>m/h corresponding to ~0.5 pixel/MCS. Thus, we can estimate the time unit MCS of the model as approximately 3&#x02009;minutes. With this value the duration of our cell sheet simulations, in the range of 300&#x02013;500 MCS, corresponds to 15&#x02013;25&#x02009;hours, which agrees with the typical timescale of scratch assay experiments.</p><p id="Par20">We run&#x000a0;each simulation in three stages. The first stage yields equilibrium cell shapes, starting from a uniform square grid initial configuration. The duration of this step is 2900 MCS, and the motile force is switched off <inline-formula id="IEq76"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}=0$$\end{document}</tex-math><mml:math id="M160"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq76.gif"/></alternatives></inline-formula>. During this stage cell shapes are determined by the competition between cell-cell adhesion and the contractility of the cell cortex (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>) as previously reported<sup><xref ref-type="bibr" rid="CR33">33</xref>,<xref ref-type="bibr" rid="CR40">40</xref>,<xref ref-type="bibr" rid="CR55">55</xref></sup>. In the &#x0201c;hard&#x0201d; regime, when contractility is strong, the cells tend to minimise their perimeter and exhibit shapes that are close to hexagons. Conversely, in the &#x0201c;soft&#x0201d; regime cell-cell adhesion dominates and the cells have irregular shapes with elongated boundaries.<fig id="Fig2"><label>Figure 2</label><caption><p>Cell shapes at a stochastic equilibrium state, for various regimes of cortex contractility <inline-formula id="IEq77"><alternatives><tex-math id="M161">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M162"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq77.gif"/></alternatives></inline-formula> and adhesion <inline-formula id="IEq78"><alternatives><tex-math id="M163">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}}$$\end{document}</tex-math><mml:math id="M164"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq78.gif"/></alternatives></inline-formula> coefficients. Other simulation parameters are listed in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.</p></caption><graphic xlink:href="41598_2020_63506_Fig2_HTML" id="d29e2539"/></fig></p><p id="Par21">The second stage (for 100 MCS) simulates the full dynamics of the cells, i.e., the cell polarisation coupled to the CPM through the motile force, while the cells are still confined behind the barrier. We denote the end of this stage as <inline-formula id="IEq79"><alternatives><tex-math id="M165">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0$$\end{document}</tex-math><mml:math id="M166"><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq79.gif"/></alternatives></inline-formula>; see Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3(a)</xref>. Finally, at the onset of stage 3, the barrier is lifted, the first row of cells are polarised; see Fig.&#x000a0;<xref rid="Fig3" ref-type="fig">3(b,c)</xref>. The simulation ends when the polarisation wave traverses the domain.<fig id="Fig3"><label>Figure 3</label><caption><p>Simulation steps. (<bold>a</bold>) The barrier is lifted at <inline-formula id="IEq80"><alternatives><tex-math id="M167">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0$$\end{document}</tex-math><mml:math id="M168"><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq80.gif"/></alternatives></inline-formula>. (<bold>b</bold>) After the barrier removal, the cells migrate into the cell-free region and develop polarity within an area progressively extending backward. (<bold>c</bold>) At <inline-formula id="IEq81"><alternatives><tex-math id="M169">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=350$$\end{document}</tex-math><mml:math id="M170"><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>350</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq81.gif"/></alternatives></inline-formula> MCS, the polarisation wave has propagated through half of the monolayer. Colour bar: the cell polarity magnitude <inline-formula id="IEq82"><alternatives><tex-math id="M171">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{\overrightarrow{p}}_{\sigma }|$$\end{document}</tex-math><mml:math id="M172"><mml:mo>|</mml:mo><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub><mml:mo>|</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq82.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2020_63506_Fig3_HTML" id="d29e2630"/></fig></p></sec></sec><sec id="Sec5" sec-type="results"><title>Results and Discussion</title><p id="Par22">We use the model described in the previous section to systematically investigate how the various model parameters representing cellular mechanics affect collective cell movement. We start with establishing parameter regimes where different collective behaviours are exhibited. This allows us not only to analyse the propagation of polarisation wave, but also to describe other collective cellular behaviours.</p><p id="Par23">One interesting observation is&#x000a0;that in a certain range of parameters, when the motile force in the CPM is switched on, cells spontaneously polarise and generate a swirling movement even in a confluent layer without a free edge (i.e., before the barrier is lifted). Typical cell trajectories corresponding to this type of characteristic swirling motion are shown in Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(a)</xref>, top. The spontaneous polarisation and swirling motility happen when the contractility of the cell cortex is relatively weak and/or the polarisation threshold <inline-formula id="IEq83"><alternatives><tex-math id="M173">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha $$\end{document}</tex-math><mml:math id="M174"><mml:mi>&#x003b1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq83.gif"/></alternatives></inline-formula> is low. Otherwise, the cells remain unpolarised and almost stationary (Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(b)</xref>, top). The corresponding phase diagram in the model parameter space is shown in Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5(a)</xref>.<fig id="Fig4"><label>Figure 4</label><caption><p>(<bold>a</bold>) Displacement trajectories of the center of mass of the cells exhibiting swirling movement, due to a weak cortex contractility <inline-formula id="IEq84"><alternatives><tex-math id="M175">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}=0.3$$\end{document}</tex-math><mml:math id="M176"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>0.3</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq84.gif"/></alternatives></inline-formula>, before (top) and after (bottom) the barrier removal; see Movie&#x000a0;<xref rid="MOESM2" ref-type="media">2</xref>. Bottom: coexistence of the swirling and the migrating cells. (<bold>b</bold>) Displacement trajectories of cells with <inline-formula id="IEq85"><alternatives><tex-math id="M177">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}=3$$\end{document}</tex-math><mml:math id="M178"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>3</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq85.gif"/></alternatives></inline-formula>, before (top) and after (bottom) the barrier removal. Top: cells remain unpolarised. Bottom: ordered directed migration. (<bold>c</bold>) Order parameter <inline-formula id="IEq86"><alternatives><tex-math id="M179">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\varPhi $$\end{document}</tex-math><mml:math id="M180"><mml:mi>&#x003a6;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq86.gif"/></alternatives></inline-formula> for the trajectories in (a, bottom), where the simulations are run for 500 MCS after the barrier removal. (<bold>d</bold>) <inline-formula id="IEq87"><alternatives><tex-math id="M181">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Phi $$\end{document}</tex-math><mml:math id="M182"><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq87.gif"/></alternatives></inline-formula> for the trajectories in (b, bottom), where the simulations end when the polarisation wave reaches the end of the domain. <inline-formula id="IEq88"><alternatives><tex-math id="M183">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}}=-\,2$$\end{document}</tex-math><mml:math id="M184"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mn>2</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq88.gif"/></alternatives></inline-formula>. For the clarity of illustration, sample trajectories are uniformly selected from the domain. Other simulation parameters are in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.</p></caption><graphic xlink:href="41598_2020_63506_Fig4_HTML" id="d29e2764"/></fig><fig id="Fig5"><label>Figure 5</label><caption><p>Phase diagrams. (<bold>a</bold>) Parameter region indicating the presence of spontaneous swirling motion or stationary cells in a confluent layer, i.e., before the barrier is lifted, when the cortex contractility coefficient <inline-formula id="IEq89"><alternatives><tex-math id="M185">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M186"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq89.gif"/></alternatives></inline-formula> and the half-saturation constant <inline-formula id="IEq90"><alternatives><tex-math id="M187">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha $$\end{document}</tex-math><mml:math id="M188"><mml:mi>&#x003b1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq90.gif"/></alternatives></inline-formula> are varied. (<bold>b</bold>) Different collective cell behaviors as <inline-formula id="IEq91"><alternatives><tex-math id="M189">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M190"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq91.gif"/></alternatives></inline-formula> and the maximal motile force <inline-formula id="IEq92"><alternatives><tex-math id="M191">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M192"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq92.gif"/></alternatives></inline-formula> are varied. Swirling movements are formed at lower <inline-formula id="IEq93"><alternatives><tex-math id="M193">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}\le 0.5$$\end{document}</tex-math><mml:math id="M194"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02264;</mml:mo><mml:mn>0.5</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq93.gif"/></alternatives></inline-formula>. Following the barrier removal, we observe ordered cell sheet migration, or transient cell migration when the polarisation wave dies out and does not propagate into the entire monolayer. Other simulation parameters are in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.</p></caption><graphic xlink:href="41598_2020_63506_Fig5_HTML" id="d29e2857"/></fig></p><p id="Par24">After the barrier is lifted, we observe that the cells migrate into the cell-free region; see Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(a,b)</xref>, bottom. In the regime where spontaneous polarisation occurs, the invasion and the swirling movements coexist &#x02013; the latter is prominent in the bulk, further away from the moving edge; see Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(a)</xref>, bottom. Such coexistence of the swirling and directed migration was indeed observed in experiments<sup><xref ref-type="bibr" rid="CR56">56</xref></sup>.</p><p id="Par25">To assess the effect of the swirling on the overall alignment of the migrating cells, we use an order parameter defined as:<disp-formula id="Equ5"><label>5</label><alternatives><tex-math id="M195">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Phi =\frac{|{\sum }_{\sigma }^{N}\,{\overrightarrow{v}}_{\sigma }|}{{\sum }_{\sigma }^{N}\,|{\overrightarrow{v}}_{\sigma }|}$$\end{document}</tex-math><mml:math id="M196" display="block"><mml:mi mathvariant="normal">&#x003a6;</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="true">|</mml:mo><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mi>&#x003c3;</mml:mi><mml:mi>N</mml:mi></mml:msubsup><mml:mrow><mml:mspace width=".1em"/><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>v</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow><mml:mo stretchy="true">|</mml:mo></mml:mrow><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mi>&#x003c3;</mml:mi><mml:mi>N</mml:mi></mml:msubsup><mml:mrow><mml:mspace width=".1em"/><mml:mrow><mml:mo stretchy="true">|</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>v</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">|</mml:mo></mml:mrow></mml:mrow></mml:mrow></mml:mfrac></mml:math><graphic xlink:href="41598_2020_63506_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq94"><alternatives><tex-math id="M197">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Phi $$\end{document}</tex-math><mml:math id="M198"><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq94.gif"/></alternatives></inline-formula> varies between 0 (uncorrelated random movement) and 1 (fully aligned migration). We find that the swirls reduce the overall alignment of the migration, captured by a decreased order parameter <inline-formula id="IEq95"><alternatives><tex-math id="M199">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Phi $$\end{document}</tex-math><mml:math id="M200"><mml:mi mathvariant="normal">&#x003a6;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq95.gif"/></alternatives></inline-formula>; see Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(c)</xref>. In the absence of the swirls, cell alignment gradually increases as the polarisation wave propagates into the monolayer; see Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(d)</xref>. Such increase in the alignment of migrating cells with the propagation of the motility wave has been observed experimentally in<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>.</p><p id="Par26">Interestingly, the directed collective migration into the free space requires that the motile force generated by a polarised cell (<inline-formula id="IEq96"><alternatives><tex-math id="M201">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${F}_{{\rm{\max }}}$$\end{document}</tex-math><mml:math id="M202"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">max</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq96.gif"/></alternatives></inline-formula>) is sufficiently strong. Otherwise either the polarisation cannot propagate backward into the bulk or the cell layer cannot expand. In either case the migration stops after a short transient period. The minimal value of the motile force required for the propagation of the polarisation wave into the bulk and for sustained directed migration increases with the cortical contractility of the cells; see Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5(b)</xref>.</p><p id="Par27">We now focus on the parameter regime which keeps the cells stationary and unpolarised until the barrier is lifted. If the motile force is strong enough, such cells become motile and migrate into the free space. The progression of the average position of the cells is shown in Fig.&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref> for various parameter values. To calculate the average position of cells, we bin the domain along the <inline-formula id="IEq97"><alternatives><tex-math id="M203">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M204"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq97.gif"/></alternatives></inline-formula>-dimension, where each bin is five-cell wide, and calculate the <inline-formula id="IEq98"><alternatives><tex-math id="M205">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M206"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq98.gif"/></alternatives></inline-formula>-component of the average position of cells over time. Figure&#x000a0;<xref rid="Fig6" ref-type="fig">6</xref> shows a progression of the leading edge with constant speed, in agreement with experiments<sup><xref ref-type="bibr" rid="CR56">56</xref></sup>. The stationary cells are recruited into the collective migration at a constant rate by the propagating polarisation wave &#x02013; as predicted by our previous one-dimensional (1D) model<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. The slope of the dashed line shows the propagation speed of the polarisation wave, which decreases when the cell contractility is increased; compare the slopes of the dashed lines in Fig.&#x000a0;<xref rid="Fig6" ref-type="fig">6(a,b)</xref>.<fig id="Fig6"><label>Figure 6</label><caption><p>Average displacement of the center of mass of cells (<inline-formula id="IEq99"><alternatives><tex-math id="M207">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M208"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq99.gif"/></alternatives></inline-formula>-component) versus time at various cortex contractility <inline-formula id="IEq100"><alternatives><tex-math id="M209">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M210"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq100.gif"/></alternatives></inline-formula> and cell-cell adhesion <inline-formula id="IEq101"><alternatives><tex-math id="M211">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}}$$\end{document}</tex-math><mml:math id="M212"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq101.gif"/></alternatives></inline-formula>. For the clarity, trajectories are averaged over five-cell wide bins along the <inline-formula id="IEq102"><alternatives><tex-math id="M213">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M214"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq102.gif"/></alternatives></inline-formula>-dimension of the domain. Dotted trajectory: displacement of the leading cells only, i.e., the first row of cells from the cell-free region. Solid arrow: average position of the front bin. Dashed arrow: average position of the last bin. Dashed line indicates the propagation of the polarisation as a wave, and its slope is the wave speed: 15.35&#x02009;&#x000b1;&#x02009;5.44 (<bold>a</bold>), 3.23&#x02009;&#x000b1;&#x02009;2.71 (<bold>b</bold>), and 3.63&#x02009;&#x000b1;&#x02009;2.87 (<bold>c</bold>). <inline-formula id="IEq103"><alternatives><tex-math id="M215">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}}$$\end{document}</tex-math><mml:math id="M216"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq103.gif"/></alternatives></inline-formula>: &#x02212;2 (less adhesive) and &#x02212;20 (highly adhesive). See Movies&#x000a0;<xref rid="MOESM3" ref-type="media">3</xref> and <xref rid="MOESM4" ref-type="media">4</xref>. Other simulation parameters are in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.</p></caption><graphic xlink:href="41598_2020_63506_Fig6_HTML" id="d29e3121"/></fig></p><p id="Par28">In order to investigate how the speed of the polarisation wave and the expansion velocity of the edge cells change as a function of model parameters, we ran a series of simulations and the results are summarised in Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>. The polarisation wave speed and the velocity of the leading edge are most strongly affected by the cortex contractility. Increasing the cortex contractility decelerates the propagation of the polarisation wave and also the velocity of the leading edge. Parameters representing cell-cell adhesion and compressibility have much weaker effects (Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7</xref>). Note, that the overall value of the edge velocity is roughly similar to the single cell velocity as in the case of the 1D model<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>.<fig id="Fig7"><label>Figure 7</label><caption><p>The polarisation wave speed (top row) and the <inline-formula id="IEq104"><alternatives><tex-math id="M217">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M218"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq104.gif"/></alternatives></inline-formula>-component of the edge velocity (bottom row) versus the cortex contractility coefficient <inline-formula id="IEq105"><alternatives><tex-math id="M219">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M220"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq105.gif"/></alternatives></inline-formula> (<bold>a</bold>,<bold>b</bold>), the cell-cell adhesion coefficient <inline-formula id="IEq106"><alternatives><tex-math id="M221">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}}$$\end{document}</tex-math><mml:math id="M222"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq106.gif"/></alternatives></inline-formula> (<bold>c</bold>,<bold>d</bold>), and the area strain <inline-formula id="IEq107"><alternatives><tex-math id="M223">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{area}}}$$\end{document}</tex-math><mml:math id="M224"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">area</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq107.gif"/></alternatives></inline-formula> (<bold>e</bold>,<bold>f</bold>). To calculate the edge velocity, we bin the domain along the <inline-formula id="IEq108"><alternatives><tex-math id="M225">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$x$$\end{document}</tex-math><mml:math id="M226"><mml:mi>x</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq108.gif"/></alternatives></inline-formula>-dimension, where each bin is three-cell wide, and calculate the average velocity of cells in the front bin which is connected to the monolayer and the cell-free region. Each symbol is derived from a single simulation run and corresponds to mean&#x02009;&#x000b1;&#x02009;SD. In (<bold>b</bold>), the filled symbols are at <inline-formula id="IEq109"><alternatives><tex-math id="M227">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M228"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq109.gif"/></alternatives></inline-formula>&#x02009;=&#x02009;0.3 and 0.6 where the swirling movements are formed. Other simulation parameters are in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>.</p></caption><graphic xlink:href="41598_2020_63506_Fig7_HTML" id="d29e3248"/></fig></p><p id="Par29">At low cortex contractility the edge velocity (~0.3) is not sensitive to the presence or absence of swirling motion (Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7(b)</xref>, filled symbols). This finding is consistent with the experimental observation that the average velocity of the migrating cell front did not show much variation in the presence of swirls<sup><xref ref-type="bibr" rid="CR56">56</xref></sup>. Consistently with earlier reports<sup><xref ref-type="bibr" rid="CR57">57</xref></sup>, Fig.&#x000a0;<xref rid="Fig7" ref-type="fig">7(c&#x02013;f)</xref> also indicates that cell-cell adhesion and the area compressibility have little effect on the polarisation wave speed and the edge velocity.</p><p id="Par30">For certain parameter values the simulations indicate patterning instabilities at the free edge where some of the leading cells leave the monolayer. We find that such&#x000a0;behavior develops when the cortex contractility is strong. When the cortex contractility is weak (e.g., <inline-formula id="IEq110"><alternatives><tex-math id="M229">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}=2$$\end{document}</tex-math><mml:math id="M230"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>2</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq110.gif"/></alternatives></inline-formula>), the energy cost for the advancement of the leading cells is low, resulting in a smooth migration of the monolayer; see Fig.&#x000a0;<xref rid="Fig8" ref-type="fig">8(a)</xref>. However, when&#x000a0;with the cortex contractility is strong (e.g., <inline-formula id="IEq111"><alternatives><tex-math id="M231">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}\approx 6$$\end{document}</tex-math><mml:math id="M232"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02248;</mml:mo><mml:mn>6</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq111.gif"/></alternatives></inline-formula> or larger), the displacement of the leading cells is somewhat restricted, the stochastic fluctuations are amplified resulting in the development of instabilities at the free edge; see Fig.&#x000a0;<xref rid="Fig8" ref-type="fig">8(b,c)</xref>. This is analogous to the experimental observations<sup><xref ref-type="bibr" rid="CR44">44</xref></sup> that the tension in the cortical actomyosin ring prevents the initiation of new leader cells.<fig id="Fig8"><label>Figure 8</label><caption><p>Leading edge migratory dynamics. The leading edge destabilises into individually migrating cells when the cell cortex contractility <inline-formula id="IEq112"><alternatives><tex-math id="M233">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}$$\end{document}</tex-math><mml:math id="M234"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq112.gif"/></alternatives></inline-formula> increases from 2 (<bold>a</bold>) to 6 (<bold>b</bold>) and then to 7 (<bold>c</bold>). Screenshots are taken at the end of the simulations. <inline-formula id="IEq113"><alternatives><tex-math id="M235">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{adh}}}=-\,20$$\end{document}</tex-math><mml:math id="M236"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">adh</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mo>&#x02212;</mml:mo><mml:mspace width="-.25em"/><mml:mn>20</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq113.gif"/></alternatives></inline-formula>. Other simulation parameters are in Table&#x000a0;<xref rid="Tab1" ref-type="table">1</xref>. Colour bar: the cell polarity magnitude <inline-formula id="IEq114"><alternatives><tex-math id="M237">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{\overrightarrow{p}}_{\sigma }|$$\end{document}</tex-math><mml:math id="M238"><mml:mo>|</mml:mo><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub><mml:mo>|</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq114.gif"/></alternatives></inline-formula>.</p></caption><graphic xlink:href="41598_2020_63506_Fig8_HTML" id="d29e3396"/></fig></p></sec><sec id="Sec6"><title>Summary and Outlook</title><p id="Par31">In this paper, we studied the collective migration of epithelial cells in a confluent monolayer exposed to free space. Our simulations identified that the cortex contractility, not adhesion of the cells is a key model parameter that controls the transitions between swirling movements and well aligned cell sheet migration. Strong contractility can destabilise the advancement of the leading edge, block the propagation of the polarisation wave, and inhibit the collective coherent migration.</p><p id="Par32">Our model also indicates that the cells cortex contractility plays an essential role in regulating the formation of the swirling movement, i.e. the swirls are more likely to form when the cortex contractility is weak; see Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(a,b)</xref>. This is explained using Eqs. (<xref rid="Equ1" ref-type="">1</xref>&#x02013;<xref rid="Equ4" ref-type="">4</xref>). Cells with a weak cortex contractility (e.g., <inline-formula id="IEq115"><alternatives><tex-math id="M239">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\lambda }_{{\rm{cont}}}=0.3$$\end{document}</tex-math><mml:math id="M240"><mml:msub><mml:mrow><mml:mi>&#x003bb;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">cont</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>0.3</mml:mn></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq115.gif"/></alternatives></inline-formula>) can more easily change their shape which can also lead to the displacement of the center of mass of the cells. This displacement can spontaneously polarise the cell, due to the bistable behaviour of the cell polarity <inline-formula id="IEq116"><alternatives><tex-math id="M241">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$|{\overrightarrow{p}}_{\sigma }|$$\end{document}</tex-math><mml:math id="M242"><mml:mo>|</mml:mo><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>p</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub><mml:mo>|</mml:mo></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq116.gif"/></alternatives></inline-formula>; see Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1(a)</xref>. The spontaneous cell polarisation becomes more likely when the polarisation threshold <inline-formula id="IEq117"><alternatives><tex-math id="M243">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha $$\end{document}</tex-math><mml:math id="M244"><mml:mi>&#x003b1;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq117.gif"/></alternatives></inline-formula> is lower. This resembles the experimental observations showing that the intensity of the polarisation promotes the appearance of the swirls<sup><xref ref-type="bibr" rid="CR58">58</xref></sup>. Then, the motile force <inline-formula id="IEq118"><alternatives><tex-math id="M245">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overrightarrow{F}}_{\sigma }$$\end{document}</tex-math><mml:math id="M246"><mml:msub><mml:mrow><mml:mover accent="true"><mml:mi>F</mml:mi><mml:mo>&#x02192;</mml:mo></mml:mover></mml:mrow><mml:mrow><mml:mi>&#x003c3;</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq118.gif"/></alternatives></inline-formula> generated by a spontaneous polarisation is transmitted to the neighbouring cells leading to the formation of swirling movements. This suggests that sufficiently strengthening the cells cortical contractility would increase the overall alignment of the migration by transforming the swirling movements into a directed cell sheet migration; see Fig.&#x000a0;<xref rid="Fig4" ref-type="fig">4(a,b)</xref>.</p><p id="Par33">On the other hand, excessive strengthening of the cells cortex contractility can block the collective migration in a monolayer; see Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5(b)</xref> and Movie&#x000a0;<xref rid="MOESM5" ref-type="media">5</xref>. A tight cortical contractility results in symmetric hexagon-like cell shapes corresponding to the &#x0201c;hard&#x0201d; regime (Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref>) that blocks the cells polarisation by limiting their deformation and motility. The &#x0201c;hard&#x0201d; cell shapes can only have relatively little displacement of the center of mass, corresponding to weak cell polarity and motile force. This blockage of the active motility can also be caused by increasing the decay rate of the cell polarisation <inline-formula id="IEq119"><alternatives><tex-math id="M247">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta $$\end{document}</tex-math><mml:math id="M248"><mml:mi>&#x003b2;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq119.gif"/></alternatives></inline-formula>. At high <inline-formula id="IEq120"><alternatives><tex-math id="M249">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\beta $$\end{document}</tex-math><mml:math id="M250"><mml:mi>&#x003b2;</mml:mi></mml:math><inline-graphic xlink:href="41598_2020_63506_Article_IEq120.gif"/></alternatives></inline-formula>, the cells do not possess non-zero steady-state for the polarity and their polarity magnitude can only stabilise at zero; see Fig.&#x000a0;<xref rid="Fig1" ref-type="fig">1(a)</xref> and our discussion in<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. Then, starting with an initial polarity, the cells gradually loose their polarity and stop moving. Therefore, the polarisation wave becomes unstable and disappears gradually after the barrier is lifted; see Movie&#x000a0;<xref rid="MOESM6" ref-type="media">6</xref>.</p><p id="Par34">In the present study, we focused on the migration of cells in the absence of cell proliferation, and where all the cells had the same constant mechanical characteristics. Future works may consider the effects of the cell proliferation combined with active cell migration on the collective movement and the propagation of the polarisation wave. It is also interesting to consider the adaptive responses of cells to the environment, where the cellular properties can vary. For instance, the alignment of the cells&#x02019; migration may be enhanced by coupling the cortical contractility to the polarisation threshold in order to inhibit the swirling movements; see Fig.&#x000a0;<xref rid="Fig5" ref-type="fig">5(a,b)</xref>. Likewise, recent studies on the efficiency of wound healing have shown that a monolayer can effectively cover the wound region and achieve a permanent gap closure when the instabilities of the leading edge are suppressed<sup><xref ref-type="bibr" rid="CR59">59</xref></sup>. Accordingly, a coupling of the cortical contractility to the morphology of the leading edge in order to maintain a moderate cortical contractility could be studied in the context of a wound closure assay.</p></sec><sec sec-type="supplementary-material"><title>Supplementary information</title><sec id="Sec7"><p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41598_2020_63506_MOESM1_ESM.avi"><caption><p>Supplementary Information.</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="41598_2020_63506_MOESM2_ESM.avi"><caption><p>Supplementary Information2.</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="41598_2020_63506_MOESM3_ESM.avi"><caption><p>Supplementary Information3.</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="41598_2020_63506_MOESM4_ESM.avi"><caption><p>Supplementary Information4.</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM5"><media xlink:href="41598_2020_63506_MOESM5_ESM.avi"><caption><p>Supplementary Information5.</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM6"><media xlink:href="41598_2020_63506_MOESM6_ESM.avi"><caption><p>Supplementary Information6.</p></caption></media></supplementary-material>
+</p></sec></sec></body><back><fn-group><fn><p><bold>Publisher&#x02019;s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><sec><title>Supplementary information</title><p>is available for this paper at 10.1038/s41598-020-63506-6.</p></sec><ack><title>Acknowledgements</title><p>This work was initiated during the workshop &#x0201c;Virtual tissues, progress and challenges in multicellular systems biology&#x0201d; organised by J. Osborne. We acknowledge very useful discussions with J. Glazier during the workshop on the implementation of our model in CompuCell3D.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>Z.N. conceived the idea. H.K., Z.N. and A.C. carried out the model development, analysis, and prepared the manuscript. All the authors, H.K., A.C. and Z.N., contributed to the interpretation of results and improvements of the manuscript.</p></notes><notes notes-type="data-availability"><title>Data availability</title><p>The computer code is available to download from the website at <ext-link ext-link-type="uri" xlink:href="https://github.com/hr-khataee/2DModel">https://github.com/hr-khataee/2DModel</ext-link>. The code has been developed with CC3D version 3.7.8.</p></notes><notes id="FPar1" notes-type="COI-statement"><title>Competing interests</title><p id="Par35">The authors declare no competing interests.</p></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van Helvert</surname><given-names>S</given-names></name><name><surname>Storm</surname><given-names>C</given-names></name><name><surname>Friedl</surname><given-names>P</given-names></name></person-group><article-title>Mechanoreciprocity in cell migration</article-title><source>Nature Cell Biology</source><year>2018</year><volume>20</volume><fpage>8</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1038/s41556-017-0012-0</pub-id><?supplied-pmid 29269951?><pub-id pub-id-type="pmid">29269951</pub-id></element-citation></ref><ref id="CR2"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lauffenburger</surname><given-names>DA</given-names></name><name><surname>Horwitz</surname><given-names>AF</given-names></name></person-group><article-title>Cell Migration: A Physically Integrated Molecular Process</article-title><source>Cell</source><year>1996</year><volume>84</volume><fpage>359</fpage><lpage>369</lpage><pub-id pub-id-type="doi">10.1016/S0092-8674(00)81280-5</pub-id><?supplied-pmid 8608589?><pub-id pub-id-type="pmid">8608589</pub-id></element-citation></ref><ref id="CR3"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Friedl</surname><given-names>P</given-names></name><name><surname>Gilmour</surname><given-names>D</given-names></name></person-group><article-title>Collective cell migration in morphogenesis, regeneration and cancer</article-title><source>Nature Reviews Molecular Cell Biology</source><year>2009</year><volume>10</volume><fpage>445</fpage><lpage>457</lpage><pub-id pub-id-type="doi">10.1038/nrm2720</pub-id><?supplied-pmid 19546857?><pub-id pub-id-type="pmid">19546857</pub-id></element-citation></ref><ref id="CR4"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charras</surname><given-names>G</given-names></name><name><surname>Yap</surname><given-names>AS</given-names></name></person-group><article-title>Tensile Forces and Mechanotransduction at Cell&#x02013;Cell Junctions</article-title><source>Current Biology</source><year>2018</year><volume>28</volume><fpage>R445</fpage><lpage>R457</lpage><pub-id pub-id-type="doi">10.1016/j.cub.2018.02.003</pub-id><?supplied-pmid 29689229?><pub-id pub-id-type="pmid">29689229</pub-id></element-citation></ref><ref id="CR5"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vincent</surname><given-names>R</given-names></name><etal/></person-group><article-title>Active Tensile Modulus of an Epithelial Monolayer</article-title><source>Physical Review Letters</source><year>2015</year><volume>115</volume><fpage>248103</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.115.248103</pub-id><?supplied-pmid 26705659?><pub-id pub-id-type="pmid">26705659</pub-id></element-citation></ref><ref id="CR6"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hannezo</surname><given-names>E</given-names></name><name><surname>Prost</surname><given-names>J</given-names></name><name><surname>Joanny</surname><given-names>J-F</given-names></name></person-group><article-title>Theory of epithelial sheet morphology in three dimensions</article-title><source>Proceedings of the National Academy of Sciences</source><year>2014</year><volume>111</volume><fpage>27</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.1073/pnas.1312076111</pub-id></element-citation></ref><ref id="CR7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>JH</given-names></name><etal/></person-group><article-title>Propulsion and navigation within the advancing monolayer sheet</article-title><source>Nature materials</source><year>2013</year><volume>12</volume><fpage>856</fpage><lpage>63</lpage><pub-id pub-id-type="doi">10.1038/nmat3689</pub-id><?supplied-pmid 23793160?><pub-id pub-id-type="pmid">23793160</pub-id></element-citation></ref><ref id="CR8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deforet</surname><given-names>M</given-names></name><name><surname>Hakim</surname><given-names>V</given-names></name><name><surname>Yevick</surname><given-names>H</given-names></name><name><surname>Duclos</surname><given-names>G</given-names></name><name><surname>Silberzan</surname><given-names>P</given-names></name></person-group><article-title>Emergence of collective modes and tri-dimensional structures from epithelial confinement</article-title><source>Nature Communications</source><year>2014</year><volume>5</volume><fpage>3747</fpage><pub-id pub-id-type="doi">10.1038/ncomms4747</pub-id><?supplied-pmid 24796352?><pub-id pub-id-type="pmid">24796352</pub-id></element-citation></ref><ref id="CR9"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Desai</surname><given-names>RA</given-names></name><name><surname>Gao</surname><given-names>L</given-names></name><name><surname>Raghavan</surname><given-names>S</given-names></name><name><surname>Liu</surname><given-names>WF</given-names></name><name><surname>Chen</surname><given-names>CS</given-names></name></person-group><article-title>Cell polarity triggered by cell-cell adhesion via E-cadherin</article-title><source>Journal of Cell Science</source><year>2009</year><volume>122</volume><fpage>905</fpage><lpage>911</lpage><pub-id pub-id-type="doi">10.1242/jcs.028183</pub-id><?supplied-pmid 19258396?><pub-id pub-id-type="pmid">19258396</pub-id></element-citation></ref><ref id="CR10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Watanabe</surname><given-names>N</given-names></name><name><surname>Mitchison</surname><given-names>TJ</given-names></name></person-group><article-title>Single-Molecule Speckle Analysis of Actin Filament Turnover in Lamellipodia</article-title><source>Science</source><year>2002</year><volume>295</volume><fpage>1083</fpage><lpage>1086</lpage><pub-id pub-id-type="doi">10.1126/science.1067470</pub-id><?supplied-pmid 11834838?><pub-id pub-id-type="pmid">11834838</pub-id></element-citation></ref><ref id="CR11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dawes</surname><given-names>AT</given-names></name><name><surname>Edelstein-Keshet</surname><given-names>L</given-names></name></person-group><article-title>Phosphoinositides and Rho Proteins Spatially Regulate Actin Polymerization to Initiate and Maintain Directed Movement in a One-Dimensional Model of a Motile Cell</article-title><source>Biophysical Journal</source><year>2007</year><volume>92</volume><fpage>744</fpage><lpage>768</lpage><pub-id pub-id-type="doi">10.1529/biophysj.106.090514</pub-id><?supplied-pmid 17098793?><pub-id pub-id-type="pmid">17098793</pub-id></element-citation></ref><ref id="CR12"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Du Roure</surname><given-names>O</given-names></name><etal/></person-group><article-title>Force mapping in epithelial cell migration</article-title><source>Proceedings of the National Academy of Sciences</source><year>2005</year><volume>102</volume><fpage>2390</fpage><lpage>2395</lpage><pub-id pub-id-type="doi">10.1073/pnas.0408482102</pub-id></element-citation></ref><ref id="CR13"><label>13.</label><mixed-citation publication-type="other">Ananthakrishnan, R. &#x00026; Ehrlicher, A. The Forces Behind Cell Movement. <italic>International Journal of Biological Sciences</italic>, 303&#x02013;317 (2007).</mixed-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coburn</surname><given-names>L</given-names></name><name><surname>Cerone</surname><given-names>L</given-names></name><name><surname>Torney</surname><given-names>C</given-names></name><name><surname>Couzin</surname><given-names>ID</given-names></name><name><surname>Neufeld</surname><given-names>Z</given-names></name></person-group><article-title>Tactile interactions lead to coherent motion and enhanced chemotaxis of migrating cells</article-title><source>Physical Biology</source><year>2013</year><volume>10</volume><fpage>046002</fpage><pub-id pub-id-type="doi">10.1088/1478-3975/10/4/046002</pub-id><?supplied-pmid 23752100?><pub-id pub-id-type="pmid">23752100</pub-id></element-citation></ref><ref id="CR15"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maiuri</surname><given-names>P</given-names></name><etal/></person-group><article-title>Actin flows mediate a universal coupling between cell speed and cell persistence</article-title><source>Cell</source><year>2015</year><volume>161</volume><fpage>374</fpage><lpage>386</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2015.01.056</pub-id><?supplied-pmid 25799384?><pub-id pub-id-type="pmid">25799384</pub-id></element-citation></ref><ref id="CR16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Herant</surname><given-names>M</given-names></name><name><surname>Dembo</surname><given-names>M</given-names></name></person-group><article-title>Form and Function in Cell Motility: From Fibroblasts to Keratocytes</article-title><source>Biophysical Journal</source><year>2010</year><volume>98</volume><fpage>1408</fpage><lpage>1417</lpage><pub-id pub-id-type="doi">10.1016/j.bpj.2009.12.4303</pub-id><?supplied-pmid 20409459?><pub-id pub-id-type="pmid">20409459</pub-id></element-citation></ref><ref id="CR17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Br&#x000fc;ckner</surname><given-names>DB</given-names></name><etal/></person-group><article-title>Stochastic nonlinear dynamics of confined cell migration in two-state systems</article-title><source>Nature Physics</source><year>2019</year><volume>15</volume><fpage>617</fpage><lpage>617</lpage><pub-id pub-id-type="doi">10.1038/s41567-019-0493-9</pub-id></element-citation></ref><ref id="CR18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maitre</surname><given-names>J-L</given-names></name><etal/></person-group><article-title>Adhesion Functions in Cell Sorting by Mechanically Coupling the Cortices of Adhering Cells</article-title><source>Science</source><year>2012</year><volume>338</volume><fpage>253</fpage><lpage>256</lpage><pub-id pub-id-type="doi">10.1126/science.1225399</pub-id><?supplied-pmid 22923438?><pub-id pub-id-type="pmid">22923438</pub-id></element-citation></ref><ref id="CR19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Serra-Picamal</surname><given-names>X</given-names></name><etal/></person-group><article-title>Mechanical waves during tissue expansion</article-title><source>Nature Physics</source><year>2012</year><volume>8</volume><fpage>628</fpage><lpage>634</lpage><pub-id pub-id-type="doi">10.1038/nphys2355</pub-id></element-citation></ref><ref id="CR20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Collective cell migration has distinct directionality and speed dynamics</article-title><source>Cellular and Molecular Life Sciences</source><year>2017</year><volume>74</volume><fpage>3841</fpage><lpage>3850</lpage><pub-id pub-id-type="doi">10.1007/s00018-017-2553-6</pub-id><?supplied-pmid 28612218?><pub-id pub-id-type="pmid">28612218</pub-id></element-citation></ref><ref id="CR21"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tlili</surname><given-names>S</given-names></name><etal/></person-group><article-title>Collective cell migration without proliferation: density determines cell velocity and wave velocity</article-title><source>Royal Society Open Science</source><year>2018</year><volume>5</volume><fpage>172421</fpage><pub-id pub-id-type="doi">10.1098/rsos.172421</pub-id><?supplied-pmid 29892428?><pub-id pub-id-type="pmid">29892428</pub-id></element-citation></ref><ref id="CR22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Szab&#x000f3;</surname><given-names>A</given-names></name><name><surname>Varga</surname><given-names>K</given-names></name><name><surname>Garay</surname><given-names>T</given-names></name><name><surname>Hegedus</surname><given-names>B</given-names></name><name><surname>Czir&#x000f3;k</surname><given-names>A</given-names></name></person-group><article-title>Invasion from a cell aggregate&#x02014;the roles of active cell motion and mechanical equilibrium</article-title><source>Physical Biology</source><year>2012</year><volume>9</volume><fpage>016010</fpage><pub-id pub-id-type="doi">10.1088/1478-3975/9/1/016010</pub-id><?supplied-pmid 22313673?><pub-id pub-id-type="pmid">22313673</pub-id></element-citation></ref><ref id="CR23"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Graner</surname><given-names>F</given-names></name><name><surname>Glazier</surname><given-names>JA</given-names></name></person-group><article-title>Simulation of biological cell sorting using a two-dimensional extended Potts model</article-title><source>Physical Review Letters</source><year>1992</year><volume>69</volume><fpage>2013</fpage><lpage>2016</lpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.69.2013</pub-id><?supplied-pmid 10046374?><pub-id pub-id-type="pmid">10046374</pub-id></element-citation></ref><ref id="CR24"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Szab&#x000f3;</surname><given-names>A</given-names></name><etal/></person-group><article-title>Collective cell motion in endothelial monolayers</article-title><source>Physical Biology</source><year>2010</year><volume>7</volume><fpage>046007</fpage><pub-id pub-id-type="doi">10.1088/1478-3975/7/4/046007</pub-id><?supplied-pmid 21076204?><pub-id pub-id-type="pmid">21076204</pub-id></element-citation></ref><ref id="CR25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kabla</surname><given-names>AJ</given-names></name></person-group><article-title>Collective cell migration: leadership, invasion and segregation</article-title><source>Journal of The Royal Society Interface</source><year>2012</year><volume>9</volume><fpage>3268</fpage><lpage>3278</lpage><pub-id pub-id-type="doi">10.1098/rsif.2012.0448</pub-id></element-citation></ref><ref id="CR26"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Camley</surname><given-names>BA</given-names></name><name><surname>Rappel</surname><given-names>W-J</given-names></name></person-group><article-title>Physical models of collective cell motility: from cell to tissue</article-title><source>Journal of Physics D: Applied Physics</source><year>2017</year><volume>50</volume><fpage>113002</fpage><pub-id pub-id-type="doi">10.1088/1361-6463/aa56fe</pub-id><pub-id pub-id-type="pmid">28989187</pub-id></element-citation></ref><ref id="CR27"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fletcher</surname><given-names>AG</given-names></name><name><surname>Osborne</surname><given-names>JM</given-names></name><name><surname>Maini</surname><given-names>PK</given-names></name><name><surname>Gavaghan</surname><given-names>DJ</given-names></name></person-group><article-title>Implementing vertex dynamics models of cell populations in biology within a consistent computational framework</article-title><source>Progress in Biophysics and Molecular Biology</source><year>2013</year><volume>113</volume><fpage>299</fpage><lpage>326</lpage><pub-id pub-id-type="doi">10.1016/j.pbiomolbio.2013.09.003</pub-id><?supplied-pmid 24120733?><pub-id pub-id-type="pmid">24120733</pub-id></element-citation></ref><ref id="CR28"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fletcher</surname><given-names>AG</given-names></name><name><surname>Osterfield</surname><given-names>M</given-names></name><name><surname>Baker</surname><given-names>RE</given-names></name><name><surname>Shvartsman</surname><given-names>SY</given-names></name></person-group><article-title>Vertex Models of Epithelial Morphogenesis</article-title><source>Biophysical Journal</source><year>2014</year><volume>106</volume><fpage>2291</fpage><lpage>2304</lpage><pub-id pub-id-type="doi">10.1016/j.bpj.2013.11.4498</pub-id><?supplied-pmid 24896108?><pub-id pub-id-type="pmid">24896108</pub-id></element-citation></ref><ref id="CR29"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barton</surname><given-names>DL</given-names></name><name><surname>Henkes</surname><given-names>S</given-names></name><name><surname>Weijer</surname><given-names>CJ</given-names></name><name><surname>Sknepnek</surname><given-names>R</given-names></name></person-group><article-title>Active Vertex Model for cell-resolution description of epithelial tissue mechanics</article-title><source>PLoS Computational Biology</source><year>2017</year><volume>13</volume><fpage>e1005569</fpage><pub-id pub-id-type="doi">10.1371/journal.pcbi.1005569</pub-id><?supplied-pmid 28665934?><pub-id pub-id-type="pmid">28665934</pub-id></element-citation></ref><ref id="CR30"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sep&#x000fa;lveda</surname><given-names>N</given-names></name><etal/></person-group><article-title>Collective Cell Motion in an Epithelial Sheet Can Be Quantitatively Described by a Stochastic Interacting Particle Model</article-title><source>PLoS Computational Biology</source><year>2013</year><volume>9</volume><fpage>e1002944</fpage><pub-id pub-id-type="doi">10.1371/journal.pcbi.1002944</pub-id><?supplied-pmid 23505356?><pub-id pub-id-type="pmid">23505356</pub-id></element-citation></ref><ref id="CR31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Angelini</surname><given-names>TE</given-names></name><name><surname>Hannezo</surname><given-names>E</given-names></name><name><surname>Trepat</surname><given-names>X</given-names></name><name><surname>Fredberg</surname><given-names>JJ</given-names></name><name><surname>Weitz</surname><given-names>DA</given-names></name></person-group><article-title>Cell Migration Driven by Cooperative Substrate Deformation Patterns</article-title><source>Physical Review Letters</source><year>2010</year><volume>104</volume><fpage>168104</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.104.168104</pub-id><?supplied-pmid 20482085?><pub-id pub-id-type="pmid">20482085</pub-id></element-citation></ref><ref id="CR32"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Koride</surname><given-names>S</given-names></name><name><surname>Loza</surname><given-names>AJ</given-names></name><name><surname>Sun</surname><given-names>SX</given-names></name></person-group><article-title>Epithelial vertex models with active biochemical regulation of contractility can explain organized collective cell motility</article-title><source>APL Bioengineering</source><year>2018</year><volume>2</volume><fpage>031906</fpage><pub-id pub-id-type="doi">10.1063/1.5023410</pub-id><?supplied-pmid 31069315?><pub-id pub-id-type="pmid">31069315</pub-id></element-citation></ref><ref id="CR33"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Farhadifar</surname><given-names>R</given-names></name><name><surname>R&#x000f6;per</surname><given-names>J-C</given-names></name><name><surname>Aigouy</surname><given-names>B</given-names></name><name><surname>Eaton</surname><given-names>S</given-names></name><name><surname>J&#x000fc;licher</surname><given-names>F</given-names></name></person-group><article-title>The Influence of Cell Mechanics, Cell-Cell Interactions, and Proliferation on Epithelial Packing</article-title><source>Current Biology</source><year>2007</year><volume>17</volume><fpage>2095</fpage><lpage>2104</lpage><pub-id pub-id-type="doi">10.1016/j.cub.2007.11.049</pub-id><?supplied-pmid 18082406?><pub-id pub-id-type="pmid">18082406</pub-id></element-citation></ref><ref id="CR34"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zmurchok</surname><given-names>C</given-names></name><name><surname>Bhaskar</surname><given-names>D</given-names></name><name><surname>Edelstein-Keshet</surname><given-names>L</given-names></name></person-group><article-title>Coupling mechanical tension and GTPase signaling to generate cell and tissue dynamics</article-title><source>Physical Biology</source><year>2018</year><volume>15</volume><fpage>046004</fpage><pub-id pub-id-type="doi">10.1088/1478-3975/aab1c0</pub-id><?supplied-pmid 29473547?><pub-id pub-id-type="pmid">29473547</pub-id></element-citation></ref><ref id="CR35"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oelz</surname><given-names>D</given-names></name><name><surname>Khataee</surname><given-names>H</given-names></name><name><surname>Czirok</surname><given-names>A</given-names></name><name><surname>Neufeld</surname><given-names>Z</given-names></name></person-group><article-title>Polarization wave at the onset of collective cell migration</article-title><source>Physical Review E</source><year>2019</year><volume>100</volume><fpage>032403</fpage><pub-id pub-id-type="doi">10.1103/PhysRevE.100.032403</pub-id><?supplied-pmid 31640045?><pub-id pub-id-type="pmid">31640045</pub-id></element-citation></ref><ref id="CR36"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Glazier</surname><given-names>JA</given-names></name><name><surname>Graner</surname><given-names>F</given-names></name></person-group><article-title>Simulation of the differential adhesion driven rearrangement of biological cells</article-title><source>Physical Review E</source><year>1993</year><volume>47</volume><fpage>2128</fpage><lpage>2154</lpage><pub-id pub-id-type="doi">10.1103/PhysRevE.47.2128</pub-id></element-citation></ref><ref id="CR37"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Osborne</surname><given-names>JM</given-names></name><name><surname>Fletcher</surname><given-names>AG</given-names></name><name><surname>Pitt-Francis</surname><given-names>JM</given-names></name><name><surname>Maini</surname><given-names>PK</given-names></name><name><surname>Gavaghan</surname><given-names>DJ</given-names></name></person-group><article-title>Comparing individual-based approaches to modelling the self-organization of multicellular tissues</article-title><source>PLoS Computational Biology</source><year>2017</year><volume>13</volume><fpage>e1005387</fpage><pub-id pub-id-type="doi">10.1371/journal.pcbi.1005387</pub-id><?supplied-pmid 28192427?><pub-id pub-id-type="pmid">28192427</pub-id></element-citation></ref><ref id="CR38"><label>38.</label><mixed-citation publication-type="other">Gini&#x0016b;nait&#x00117;, R., Baker, R. E., Kulesa, P. M. &#x00026; Maini, P. K. Modelling collective cell migration: neural crest as a model paradigm. <italic>Journal of Mathematical Biology</italic> (2019).</mixed-citation></ref><ref id="CR39"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Swat</surname><given-names>MH</given-names></name><etal/></person-group><article-title>Multi-Scale Modeling of Tissues Using CompuCell3D</article-title><source>Methods in cell Biology</source><year>2012</year><volume>110</volume><fpage>325</fpage><lpage>366</lpage><pub-id pub-id-type="doi">10.1016/B978-0-12-388403-9.00013-8</pub-id><?supplied-pmid 22482955?><pub-id pub-id-type="pmid">22482955</pub-id></element-citation></ref><ref id="CR40"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Noppe</surname><given-names>RA</given-names></name><name><surname>Roberts</surname><given-names>AP</given-names></name><name><surname>Yap</surname><given-names>AS</given-names></name><name><surname>Gomez</surname><given-names>GA</given-names></name><name><surname>Neufeld</surname><given-names>Z</given-names></name></person-group><article-title>Modelling wound closure in an epithelial cell sheet using the cellular Potts model</article-title><source>Integrative Biology</source><year>2015</year><volume>7</volume><fpage>1253</fpage><lpage>1264</lpage><pub-id pub-id-type="doi">10.1039/C5IB00053J</pub-id><?supplied-pmid 26119963?><pub-id pub-id-type="pmid">26119963</pub-id></element-citation></ref><ref id="CR41"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Albert</surname><given-names>PJ</given-names></name><name><surname>Schwarz</surname><given-names>US</given-names></name></person-group><article-title>Dynamics of Cell Ensembles on Adhesive Micropatterns: Bridging the Gap between Single Cell Spreading and Collective Cell Migration</article-title><source>PLoS Computational Biology</source><year>2016</year><volume>12</volume><fpage>e1004863</fpage><pub-id pub-id-type="doi">10.1371/journal.pcbi.1004863</pub-id><?supplied-pmid 27054883?><pub-id pub-id-type="pmid">27054883</pub-id></element-citation></ref><ref id="CR42"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Th&#x000fc;roff</surname><given-names>F</given-names></name><name><surname>Goychuk</surname><given-names>A</given-names></name><name><surname>Reiter</surname><given-names>M</given-names></name><name><surname>Frey</surname><given-names>E</given-names></name></person-group><article-title>Bridging the gap between single-cell migration and collective dynamics</article-title><source>eLife</source><year>2019</year><volume>8</volume><fpage>e46842</fpage><pub-id pub-id-type="doi">10.7554/eLife.46842</pub-id><?supplied-pmid 31808744?><pub-id pub-id-type="pmid">31808744</pub-id></element-citation></ref><ref id="CR43"><label>43.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>N</given-names></name><name><surname>Glazier</surname><given-names>JA</given-names></name><name><surname>Izaguirre</surname><given-names>JA</given-names></name><name><surname>Alber</surname><given-names>MS</given-names></name></person-group><article-title>A parallel implementation of the Cellular Potts Model for simulation of cell-based morphogenesis</article-title><source>Computer Physics Communications</source><year>2007</year><volume>176</volume><fpage>670</fpage><lpage>681</lpage><pub-id pub-id-type="doi">10.1016/j.cpc.2007.03.007</pub-id><?supplied-pmid 18084624?><pub-id pub-id-type="pmid">18084624</pub-id></element-citation></ref><ref id="CR44"><label>44.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reffay</surname><given-names>M</given-names></name><etal/></person-group><article-title>Interplay of RhoA and mechanical forces in collective cell migration driven by leader cells</article-title><source>Nature Cell Biology</source><year>2014</year><volume>16</volume><fpage>217</fpage><lpage>223</lpage><pub-id pub-id-type="doi">10.1038/ncb2917</pub-id><?supplied-pmid 24561621?><pub-id pub-id-type="pmid">24561621</pub-id></element-citation></ref><ref id="CR45"><label>45.</label><mixed-citation publication-type="other">Swat, M. H. <italic>et al</italic>. Multi-cell simulations of development and disease using the CompuCell3D simulation environment. <italic>Methods in molecular biology</italic><bold>500</bold>, 361&#x02013;428.</mixed-citation></ref><ref id="CR46"><label>46.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gamba</surname><given-names>A</given-names></name><etal/></person-group><article-title>Diffusion-limited phase separation in eukaryotic chemotaxis</article-title><source>Proceedings of the National Academy of Sciences</source><year>2005</year><volume>102</volume><fpage>16927</fpage><lpage>16932</lpage><pub-id pub-id-type="doi">10.1073/pnas.0503974102</pub-id></element-citation></ref><ref id="CR47"><label>47.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Selmeczi</surname><given-names>D</given-names></name><name><surname>Mosler</surname><given-names>S</given-names></name><name><surname>Hagedorn</surname><given-names>PH</given-names></name><name><surname>Larsen</surname><given-names>NB</given-names></name><name><surname>Flyvbjerg</surname><given-names>H</given-names></name></person-group><article-title>Cell Motility as Persistent Random Motion: Theories from Experiments</article-title><source>Biophysical Journal</source><year>2005</year><volume>89</volume><fpage>912</fpage><lpage>931</lpage><pub-id pub-id-type="doi">10.1529/biophysj.105.061150</pub-id><?supplied-pmid 15951372?><pub-id pub-id-type="pmid">15951372</pub-id></element-citation></ref><ref id="CR48"><label>48.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Szab&#x000f3;</surname><given-names>B</given-names></name><etal/></person-group><article-title>Phase transition in the collective migration of tissue cells: Experiment and model</article-title><source>Physical Review E</source><year>2006</year><volume>74</volume><fpage>061908</fpage><pub-id pub-id-type="doi">10.1103/PhysRevE.74.061908</pub-id></element-citation></ref><ref id="CR49"><label>49.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bui</surname><given-names>J</given-names></name><name><surname>Conway</surname><given-names>DE</given-names></name><name><surname>Heise</surname><given-names>RL</given-names></name><name><surname>Weinberg</surname><given-names>SH</given-names></name></person-group><article-title>Mechanochemical Coupling and Junctional Forces during Collective Cell Migration</article-title><source>Biophysical Journal</source><year>2019</year><volume>117</volume><fpage>170</fpage><lpage>183</lpage><pub-id pub-id-type="doi">10.1016/j.bpj.2019.05.020</pub-id><?supplied-pmid 31200935?><pub-id pub-id-type="pmid">31200935</pub-id></element-citation></ref><ref id="CR50"><label>50.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>P</given-names></name><name><surname>Wolgemuth</surname><given-names>CW</given-names></name></person-group><article-title>Crawling Cells Can Close Wounds without Purse Strings or Signaling</article-title><source>PLoS Computational Biology</source><year>2011</year><volume>7</volume><fpage>e1002007</fpage><pub-id pub-id-type="doi">10.1371/journal.pcbi.1002007</pub-id><?supplied-pmid 21423710?><pub-id pub-id-type="pmid">21423710</pub-id></element-citation></ref><ref id="CR51"><label>51.</label><mixed-citation publication-type="other">Ziebert, F., Swaminathan, S. &#x00026; Aranson, I. S. Model for self-polarization and motility of keratocyte fragments. <italic>Journal of The Royal Society Interface</italic><bold>9</bold>, 1084&#x02013;1092 (2020) (2012).</mixed-citation></ref><ref id="CR52"><label>52.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Recho</surname><given-names>P</given-names></name><name><surname>Putelat</surname><given-names>T</given-names></name><name><surname>Truskinovsky</surname><given-names>L</given-names></name></person-group><article-title>Active gel segment behaving as an active particle</article-title><source>Physical Review E</source><year>2019</year><volume>100</volume><fpage>062403</fpage><pub-id pub-id-type="doi">10.1103/PhysRevE.100.062403</pub-id><?supplied-pmid 31962422?><pub-id pub-id-type="pmid">31962422</pub-id></element-citation></ref><ref id="CR53"><label>53.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Verkhovsky</surname><given-names>AB</given-names></name><name><surname>Svitkina</surname><given-names>TM</given-names></name><name><surname>Borisy</surname><given-names>GG</given-names></name></person-group><article-title>Self-polarization and directional motility of cytoplasm</article-title><source>Current Biology</source><year>1999</year><volume>9</volume><fpage>11</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/S0960-9822(99)80042-6</pub-id><?supplied-pmid 9889119?><pub-id pub-id-type="pmid">9889119</pub-id></element-citation></ref><ref id="CR54"><label>54.</label><mixed-citation publication-type="other">Lomakin, A. <italic>et al</italic>. Competition for actin between two distinct F-actin networks defines a bistable switch for cell polarization. <italic>Nature Cell Biology</italic><bold>17</bold>, 1435&#x02013;1445 (11 2015).</mixed-citation></ref><ref id="CR55"><label>55.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coburn</surname><given-names>L</given-names></name><etal/></person-group><article-title>Contact inhibition of locomotion and mechanical cross-talk between cell&#x02013;cell and cell&#x02013;substrate adhesion determine the pattern of junctional tension in epithelial cell aggregates</article-title><source>Molecular Biology of the Cell</source><year>2016</year><volume>27</volume><fpage>3436</fpage><lpage>3448</lpage><pub-id pub-id-type="doi">10.1091/mbc.e16-04-0226</pub-id><?supplied-pmid 27605701?><pub-id pub-id-type="pmid">27605701</pub-id></element-citation></ref><ref id="CR56"><label>56.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vedula</surname><given-names>SRK</given-names></name><etal/></person-group><article-title>Emerging modes of collective cell migration induced by geometrical constraints</article-title><source>Proceedings of the National Academy of Sciences</source><year>2012</year><volume>109</volume><fpage>12974</fpage><lpage>12979</lpage><pub-id pub-id-type="doi">10.1073/pnas.1119313109</pub-id></element-citation></ref><ref id="CR57"><label>57.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bindschadler</surname><given-names>M</given-names></name><name><surname>McGrath</surname><given-names>JL</given-names></name></person-group><article-title>Sheet migration by wounded monolayers as an emergent property of single-cell dynamics</article-title><source>Journal of Cell Science</source><year>2007</year><volume>120</volume><fpage>876</fpage><lpage>884</lpage><pub-id pub-id-type="doi">10.1242/jcs.03395</pub-id><?supplied-pmid 17298977?><pub-id pub-id-type="pmid">17298977</pub-id></element-citation></ref><ref id="CR58"><label>58.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lin</surname><given-names>S-Z</given-names></name><name><surname>Ye</surname><given-names>S</given-names></name><name><surname>Xu</surname><given-names>G-K</given-names></name><name><surname>Li</surname><given-names>B</given-names></name><name><surname>Feng</surname><given-names>X-Q</given-names></name></person-group><article-title>Dynamic Migration Modes of Collective Cells</article-title><source>Biophysical Journal</source><year>2018</year><volume>115</volume><fpage>1826</fpage><lpage>1835</lpage><pub-id pub-id-type="doi">10.1016/j.bpj.2018.09.010</pub-id><?supplied-pmid 30297134?><pub-id pub-id-type="pmid">30297134</pub-id></element-citation></ref><ref id="CR59"><label>59.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stichel</surname><given-names>D</given-names></name><etal/></person-group><article-title>An individual-based model for collective cancer cell migration explains speed dynamics and phenotype variability in response to growth factors</article-title><source>npj Systems Biology and Applications</source><year>2017</year><volume>3</volume><fpage>5</fpage><pub-id pub-id-type="doi">10.1038/s41540-017-0006-3</pub-id><?supplied-pmid 28649432?><pub-id pub-id-type="pmid">28649432</pub-id></element-citation></ref></ref-list></back></article>

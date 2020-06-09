@@ -1,0 +1,270 @@
+{
+  "id": [
+    "PMC7244976"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7244976"
+  ],
+  "doi": [
+    "10.1155/2020/4912347"
+  ],
+  "title": [
+    "Inhibiting the Progression of Human Retinoblastoma Cell by Downregulation of MMP-2/MMP-9 Using Short Hairpin RNAs (shRNAs) In Vitro."
+  ],
+  "authorString": [
+    "Meng N, Zhao Z, Shi C, Xia L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Meng N"
+          ],
+          "firstName": [
+            "Nana"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Ophthalmology, Affiliated People's Hospital, Jiangsu University, Zhenjiang 212002, China"
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhi"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ]
+        },
+        {
+          "fullName": [
+            "Shi C"
+          ],
+          "firstName": [
+            "Chunhe"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Xia L"
+          ],
+          "firstName": [
+            "Leizhou"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "L"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2904922"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of Ophthalmology"
+          ],
+          "ISSN": [
+            "2090-004X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Objective To investigate the effect of downregulated matrix metalloproteinases (MMPs) gene on the proliferation, apoptosis, cell cycle, migration, and invasion of human retinoblastoma (RB) cell line in vitro. Methods Small hairpin RNA (shRNA) targeting MMP-2/MMP-9 was designed and transfected into WER1-Rb-1 cells. 48 hours after transfection, qRT-PCR and western blot technique were used to investigate the inhibitory effect of MMP-2 and MMP-9 shRNAs. Cell viability was examined by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. Cell cycle arrest was detected using a flow cytometer while apoptosis was tested with Annexin V/PI kit. Transwell chamber assay was performed to detect the migration and invasion ability of the WER1-Rb-1 cells. Results After transfection of MMP-2/MMP-9 shRNA, there was a significant decrease in the expressions of both mRNA and protein in the shRNA groups compared with the negative and vector controls. The results of MTT assay suggested that the cell viability was significantly decreased in shRNA groups (p<0.05). Cell apoptosis also increased significantly in shRNA groups compared with the negative and vector controls (p<0.05). The flow cytometer analysis proved that the proportion of the G1 phase increased and the proportion of the G0 phase reduced significantly by the transfection of MMP-2/MMP-9 shRNA (p<0.05). The migration and invasion ability were also significantly decreased in the groups of MMP-2/MMP-9 shRNA (p<0.05). Conclusions Cell viability, migration, and invasion ability of RB cells are inhibited, and apoptosis is induced after downregulation of MMP-2/MMP-9 through RNA interference. MMP-2 and MMP-9 may be potential targets in the gene therapy of RB."
+  ],
+  "affiliation": [
+    "Department of Ophthalmology, Affiliated People's Hospital, Jiangsu University, Zhenjiang 212002, China"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7244976/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7244976"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/4912347"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-08"
+  ],
+  "firstIndexDate": [
+    "2020-06-08"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-08"
+  ],
+  "dateOfRevision": [
+    "2020-06-08"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-13"
+  ],
+  "firstPublicationDate": [
+    "2020-05-13"
+  ]
+}

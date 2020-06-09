@@ -1,0 +1,1055 @@
+{
+  "id": [
+    "27559126"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27559126"
+  ],
+  "pmcid": [
+    "PMC5063616"
+  ],
+  "doi": [
+    "10.1091/mbc.e16-04-0212"
+  ],
+  "title": [
+    "MenaINV mediates synergistic cross-talk between signaling pathways driving chemotaxis and haptotaxis."
+  ],
+  "authorString": [
+    "Oudin MJ, Miller MA, Klazen JA, Kosciuk T, Lussiez A, Hughes SK, Tadros J, Bear JE, Lauffenburger DA, Gertler FB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Oudin MJ"
+          ],
+          "firstName": [
+            "Madeleine J"
+          ],
+          "lastName": [
+            "Oudin"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6988-4260",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Miller MA"
+          ],
+          "firstName": [
+            "Miles A"
+          ],
+          "lastName": [
+            "Miller"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7638-8898",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 Center for Systems Biology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Klazen JA"
+          ],
+          "firstName": [
+            "Joelle A Z"
+          ],
+          "lastName": [
+            "Klazen"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kosciuk T"
+          ],
+          "firstName": [
+            "Tatsiana"
+          ],
+          "lastName": [
+            "Kosciuk"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lussiez A"
+          ],
+          "firstName": [
+            "Alisha"
+          ],
+          "lastName": [
+            "Lussiez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes SK"
+          ],
+          "firstName": [
+            "Shannon K"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9778-140X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tadros J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Tadros"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bear JE"
+          ],
+          "firstName": [
+            "James E"
+          ],
+          "lastName": [
+            "Bear"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Lineberger Comprehensive Cancer Center, University of North Carolina Chapel Hill, Chapel Hill, NC 27514."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lauffenburger DA"
+          ],
+          "firstName": [
+            "Douglas A"
+          ],
+          "lastName": [
+            "Lauffenburger"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142 Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gertler FB"
+          ],
+          "firstName": [
+            "Frank B"
+          ],
+          "lastName": [
+            "Gertler"
+          ],
+          "initials": [
+            "FB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142 Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139 fgertler@mit.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6988-4260",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7638-8898",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9778-140X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "20"
+      ],
+      "volume": [
+        "27"
+      ],
+      "journalIssueId": [
+        "2463034"
+      ],
+      "dateOfPublication": [
+        "2016 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular biology of the cell"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Biol. Cell"
+          ],
+          "medlineAbbreviation": [
+            "Mol Biol Cell"
+          ],
+          "NLMid": [
+            "9201390"
+          ],
+          "ISSN": [
+            "1059-1524"
+          ],
+          "ESSN": [
+            "1939-4586"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "3085-3094"
+  ],
+  "abstractText": [
+    "Directed cell migration, a key process in metastasis, arises from the combined influence of multiple processes, including chemotaxis-the directional movement of cells to soluble cues-and haptotaxis-the migration of cells on gradients of substrate-bound factors. However, it is unclear how chemotactic and haptotactic pathways integrate with each other to drive overall cell behavior. MenaINV has been implicated in metastasis by driving chemotaxis via dysregulation of phosphatase PTP1B and more recently in haptotaxis via interaction with integrin α5β1. Here we find that MenaINV-driven haptotaxis on fibronectin (FN) gradients requires intact signaling between α5β1 integrin and the epidermal growth factor receptor (EGFR), which is influenced by PTP1B. Furthermore, we show that MenaINV-driven haptotaxis and ECM reorganization both require the Rab-coupling protein RCP, which mediates α5β1 and EGFR recycling. Finally, MenaINV promotes synergistic migratory response to combined EGF and FN in vitro and in vivo, leading to hyperinvasive phenotypes. Together our data demonstrate that MenaINV is a shared component of multiple prometastatic pathways that amplifies their combined effects, promoting synergistic cross-talk between RTKs and integrins."
+  ],
+  "affiliation": [
+    "David H. Koch Institute for Integrative Cancer Research, Massachusetts Institute of Technology, Cambridge, MA 02142."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 CA014051"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA112967"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM110155"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tumor Cells, Cultured"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Metastasis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microfilament Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptor Protein-Tyrosine Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptor, Epidermal Growth Factor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytoskeletal Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Adhesion Molecules"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Integrin alpha5beta1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Integrins"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphoproteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chemotaxis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptor Cross-Talk"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Tyrosine Phosphatase, Non-Receptor Type 1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "vasodilator-stimulated phosphoprotein"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Enah protein, mouse"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Phosphoproteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cytoskeletal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Microfilament Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Integrins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cell Adhesion Molecules"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Integrin alpha5beta1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "protein tyrosine phosphatase, non-receptor type 1"
+          ],
+          "registryNumber": [
+            "EC 3.1.3.48"
+          ]
+        },
+        {
+          "name": [
+            "PTPN1 protein, human"
+          ],
+          "registryNumber": [
+            "EC 3.1.3.48"
+          ]
+        },
+        {
+          "name": [
+            "Receptor Protein-Tyrosine Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        },
+        {
+          "name": [
+            "Receptor, Epidermal Growth Factor"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.E16-04-0212"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.E16-04-0212"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5063616"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5063616?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.e16-04-0212"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-05"
+  ],
+  "dateOfCreation": [
+    "2016-08-26"
+  ],
+  "firstIndexDate": [
+    "2016-09-03"
+  ],
+  "fullTextReceivedDate": [
+    "2017-01-11"
+  ],
+  "dateOfRevision": [
+    "2018-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-24"
+  ],
+  "firstPublicationDate": [
+    "2016-08-24"
+  ]
+}

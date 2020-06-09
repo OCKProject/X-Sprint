@@ -1,0 +1,354 @@
+{
+  "id": [
+    "32411706"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32411706"
+  ],
+  "pmcid": [
+    "PMC7198906"
+  ],
+  "doi": [
+    "10.3389/fcell.2020.00285"
+  ],
+  "title": [
+    "Membrane Compartmentalization and Scaffold Proteins in Leukocyte Migration."
+  ],
+  "authorString": [
+    "Samson GPB, Legler DF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Samson GPB"
+          ],
+          "firstName": [
+            "Guerric P B"
+          ],
+          "lastName": [
+            "Samson"
+          ],
+          "initials": [
+            "GPB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biotechnology Institute Thurgau at the University of Konstanz, Kreuzlingen, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Legler DF"
+          ],
+          "firstName": [
+            "Daniel F"
+          ],
+          "lastName": [
+            "Legler"
+          ],
+          "initials": [
+            "DF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8610-4764",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biotechnology Institute Thurgau at the University of Konstanz, Kreuzlingen, Switzerland.",
+                "Faculty of Biology, University of Konstanz, Konstanz, Germany.",
+                "Theodor Kocher Institute, University of Bern, Bern, Switzerland."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8610-4764",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2911890"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in cell and developmental biology"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Dev Biol"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Dev Biol"
+          ],
+          "NLMid": [
+            "101630250"
+          ],
+          "ISSN": [
+            "2296-634X"
+          ],
+          "ESSN": [
+            "2296-634X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "285"
+  ],
+  "abstractText": [
+    "Leukocyte migration across vessels into and within peripheral and lymphoid tissues is essential for host defense against invading pathogens. Leukocytes are specialized in sensing a variety of guidance cues and to integrate environmental stimuli to navigate in a timely and spatially controlled manner. These extracellular signals must be transmitted across the leukocyte's plasma membrane in a way that intracellular signaling cascades enable directional cell movement. Therefore, the composition of the membrane in concert with proteins that influence the compartmentalization of the plasma membrane or contribute to delineate intracellular signaling molecules are key in controlling leukocyte navigation. This becomes evident by the fact that mislocalization of membrane proteins is known to deleteriously affect cellular functions that may cause diseases. In this review we summarize recent advances made in the understanding of how membrane cholesterol levels modulate chemokine receptor signaling and hence leukocyte trafficking. Moreover, we provide an overview on the role of membrane scaffold proteins, particularly tetraspanins, flotillins/reggies, and caveolins in controlling leukocyte migration both in vitro and in vivo."
+  ],
+  "affiliation": [
+    "Biotechnology Institute Thurgau at the University of Konstanz, Kreuzlingen, Switzerland."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "189144"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Caveolin",
+        "Leukocyte Migration",
+        "Tetraspanin",
+        "Scaffold Proteins",
+        "Membrane Compartmentalization",
+        "Flotillin/reggie"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fcell.2020.00285"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7198906"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7198906?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fcell.2020.00285"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-16"
+  ],
+  "firstIndexDate": [
+    "2020-05-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-16"
+  ],
+  "dateOfRevision": [
+    "2020-05-18"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-28"
+  ],
+  "firstPublicationDate": [
+    "2020-04-28"
+  ]
+}

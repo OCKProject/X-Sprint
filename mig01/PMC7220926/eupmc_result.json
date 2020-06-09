@@ -1,0 +1,454 @@
+{
+  "id": [
+    "32404937"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32404937"
+  ],
+  "pmcid": [
+    "PMC7220926"
+  ],
+  "doi": [
+    "10.1038/s41467-020-15476-6"
+  ],
+  "title": [
+    "Chemotaxing neutrophils enter alternate branches at capillary bifurcations."
+  ],
+  "authorString": [
+    "Wang X, Hossain M, Bogoslowski A, Kubes P, Irimia D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4464-9376",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "BioMEMS Resource Center, Department of Surgery, Massachusetts General Hospital, Harvard Medical School, Shriners Burns Hospital, Boston, MA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hossain M"
+          ],
+          "firstName": [
+            "Mokarram"
+          ],
+          "lastName": [
+            "Hossain"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physiology and Biophysics, University of Calgary, Calgary, Alberta, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bogoslowski A"
+          ],
+          "firstName": [
+            "Ania"
+          ],
+          "lastName": [
+            "Bogoslowski"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1767-2298",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physiology and Biophysics, University of Calgary, Calgary, Alberta, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kubes P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Kubes"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2835-4244",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Physiology and Biophysics, University of Calgary, Calgary, Alberta, Canada."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Irimia D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Irimia"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7347-2082",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "BioMEMS Resource Center, Department of Surgery, Massachusetts General Hospital, Harvard Medical School, Shriners Burns Hospital, Boston, MA, USA. dirimia@hms.harvard.edu."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4464-9376",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1767-2298",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2835-4244",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7347-2082",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2949307"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2385"
+  ],
+  "abstractText": [
+    "Upon tissue injury or microbial invasion, a large number of neutrophils converge from blood to the sites of injury or infection in a short time. The migration through a limited number of paths through tissues and capillary networks seems efficient and 'traffic jams' are generally avoided. However, the mechanisms that guide efficient trafficking of large numbers of neutrophils through capillary networks are not well understood. Here we show that pairs of neutrophils arriving closely one after another at capillary bifurcations migrate to alternating branches in vivo and in vitro. Perturbation of chemoattractant gradients and the increased hydraulic resistance induced by the first neutrophil in one branch biases the migration of the following neutrophil towards the other branch. These mechanisms guide neutrophils to efficiently navigate through capillary networks and outline the effect of inter-neutrophil interactions during migration on overall lymphocyte trafficking patterns in confined environments."
+  ],
+  "affiliation": [
+    "BioMEMS Resource Center, Department of Surgery, Massachusetts General Hospital, Harvard Medical School, Shriners Burns Hospital, Boston, MA, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GM092804"
+          ],
+          "agency": [
+            "U.S. Department of Health & Human Services | NIH | National Institute of General Medical Sciences (NIGMS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-020-15476-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7220926"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7220926?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-020-15476-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-15"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-17"
+  ],
+  "dateOfRevision": [
+    "2020-05-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-13"
+  ],
+  "firstPublicationDate": [
+    "2020-05-13"
+  ]
+}

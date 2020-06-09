@@ -1,0 +1,358 @@
+{
+  "id": [
+    "32006706"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32006706"
+  ],
+  "pmcid": [
+    "PMC7106233"
+  ],
+  "doi": [
+    "10.1016/j.meegid.2020.104215"
+  ],
+  "title": [
+    "Pathogenic viruses: Molecular detection and characterization."
+  ],
+  "authorString": [
+    "Artika IM, Wiyatno A, Ma'roef CN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Artika IM"
+          ],
+          "firstName": [
+            "I Made"
+          ],
+          "lastName": [
+            "Artika"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4293-3389",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Biosafety Level 3 Unit, Eijkman Institute for Molecular Biology, Jalan Diponegoro 69, Jakarta 10430, Indonesia; Department of Biochemistry, Faculty of Mathematics and Natural Sciences, Bogor Agricultural University, Darmaga Campus, Bogor 16680, Indonesia. Electronic address: imart@eijkman.go.id."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wiyatno A"
+          ],
+          "firstName": [
+            "Ageng"
+          ],
+          "lastName": [
+            "Wiyatno"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Emerging Virus Research Unit, Eijkman Institute for Molecular Biology, Jalan Diponegoro 69, Jakarta 10430, Indonesia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma'roef CN"
+          ],
+          "firstName": [
+            "Chairin Nisa"
+          ],
+          "lastName": [
+            "Ma'roef"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Emerging Virus Research Unit, Eijkman Institute for Molecular Biology, Jalan Diponegoro 69, Jakarta 10430, Indonesia."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4293-3389",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "81"
+      ],
+      "journalIssueId": [
+        "2947691"
+      ],
+      "dateOfPublication": [
+        "2020 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Infect. Genet. Evol."
+          ],
+          "medlineAbbreviation": [
+            "Infect Genet Evol"
+          ],
+          "NLMid": [
+            "101084138"
+          ],
+          "ISSN": [
+            "1567-7257"
+          ],
+          "ESSN": [
+            "1567-7257"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "104215"
+  ],
+  "abstractText": [
+    "Pathogenic viruses are viruses that can infect and replicate within human cells and cause diseases. The continuous emergence and re-emergence of pathogenic viruses has become a major threat to public health. Whenever pathogenic viruses emerge, their rapid detection is critical to enable implementation of specific control measures and the limitation of virus spread. Further molecular characterization to better understand these viruses is required for the development of diagnostic tests and countermeasures. Advances in molecular biology techniques have revolutionized the procedures for detection and characterization of pathogenic viruses. The development of PCR-based techniques together with DNA sequencing technology, have provided highly sensitive and specific methods to determine virus circulation. Pathogenic viruses potentially having global catastrophic consequences may emerge in regions where capacity for their detection and characterization is limited. Development of a local capacity to rapidly identify new viruses is therefore critical. This article reviews the molecular biology of pathogenic viruses and the basic principles of molecular techniques commonly used for their detection and characterization. The principles of good laboratory practices for handling pathogenic viruses are also discussed. This review aims at providing researchers and laboratory personnel with an overview of the molecular biology of pathogenic viruses and the principles of molecular techniques and good laboratory practices commonly implemented for their detection and characterization."
+  ],
+  "affiliation": [
+    "Biosafety Level 3 Unit, Eijkman Institute for Molecular Biology, Jalan Diponegoro 69, Jakarta 10430, Indonesia; Department of Biochemistry, Faculty of Mathematics and Natural Sciences, Bogor Agricultural University, Darmaga Campus, Bogor 16680, Indonesia. Electronic address: imart@eijkman.go.id."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "DNA sequencing",
+        "Polymerase chain reaction",
+        "Virus detection",
+        "Pathogenic Viruses",
+        "Unidirectional Workflow"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.meegid.2020.104215"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7106233"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7106233?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.meegid.2020.104215"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-02"
+  ],
+  "firstIndexDate": [
+    "2020-02-07"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-02"
+  ],
+  "dateOfRevision": [
+    "2020-06-05"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-30"
+  ],
+  "firstPublicationDate": [
+    "2020-01-30"
+  ]
+}

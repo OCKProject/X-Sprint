@@ -1,0 +1,514 @@
+{
+  "id": [
+    "26814646"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26814646"
+  ],
+  "pmcid": [
+    "PMC4727438"
+  ],
+  "doi": [
+    "10.1590/0074-02760150386"
+  ],
+  "title": [
+    "The dynamics of Brazilian protozoology over the past century."
+  ],
+  "authorString": [
+    "Elias MC, Floeter-Winter LM, Mena-Chalco JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Elias MC"
+          ],
+          "firstName": [
+            "M Carolina"
+          ],
+          "lastName": [
+            "Elias"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0501-8280",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratório Especial de Ciclo Celular, Instituto Butantan, São Paulo, SP, Brasil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Floeter-Winter LM"
+          ],
+          "firstName": [
+            "Lucile M"
+          ],
+          "lastName": [
+            "Floeter-Winter"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8954-8704",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Departamento de Fisiologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, SP, Brasil."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena-Chalco JP"
+          ],
+          "firstName": [
+            "Jesus P"
+          ],
+          "lastName": [
+            "Mena-Chalco"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Centro de Matemática, Computação e Cognição, Universidade Federal do ABC, Santo André, SP, Brasil."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0501-8280",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8954-8704",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "111"
+      ],
+      "journalIssueId": [
+        "2367659"
+      ],
+      "dateOfPublication": [
+        "2016 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Memorias do Instituto Oswaldo Cruz"
+          ],
+          "ISOAbbreviation": [
+            "Mem. Inst. Oswaldo Cruz"
+          ],
+          "medlineAbbreviation": [
+            "Mem Inst Oswaldo Cruz"
+          ],
+          "NLMid": [
+            "7502619"
+          ],
+          "ISSN": [
+            "0074-0276"
+          ],
+          "ESSN": [
+            "1678-8060"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "67-74"
+  ],
+  "abstractText": [
+    "Brazilian scientists have been contributing to the protozoology field for more than 100 years with important discoveries of new species such as Trypanosoma cruzi and Leishmania spp. In this work, we used a Brazilian thesis database (Coordination for the Improvement of Higher Education Personnel) covering the period from 1987-2011 to identify researchers who contributed substantially to protozoology. We selected 248 advisors by filtering to obtain researchers who supervised at least 10 theses. Based on a computational analysis of the thesis databases, we found students who were supervised by these scientists. A computational procedure was developed to determine the advisors' scientific ancestors using the Lattes Platform. These analyses provided a list of 1,997 researchers who were inspected through Lattes CV examination and allowed the identification of the pioneers of Brazilian protozoology. Moreover, we investigated the areas in which researchers who earned PhDs in protozoology are now working. We found that 68.4% of them are still in protozoology, while 16.7% have migrated to other fields. We observed that support for protozoology by national or international agencies is clearly correlated with the increase of scientists in the field. Finally, we described the academic genealogy of Brazilian protozoology by formalising the \"forest\" of Brazilian scientists involved in the study of protozoa and their vectors over the past century."
+  ],
+  "affiliation": [
+    "Laboratório Especial de Ciclo Celular, Instituto Butantan, São Paulo, SP, Brasil."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Historical Article",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parasitology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomedical Research"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 20th Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "History, 21st Century"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Personnel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "HI"
+                  ],
+                  "qualifierName": [
+                    "history"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brazil"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/0074-02760150386"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4727438"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4727438?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/0074-02760150386"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-08"
+  ],
+  "dateOfCreation": [
+    "2016-01-28"
+  ],
+  "firstIndexDate": [
+    "2016-01-28"
+  ],
+  "fullTextReceivedDate": [
+    "2016-02-22"
+  ],
+  "dateOfRevision": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2016-01-01"
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": [
+    "32291953"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32291953"
+  ],
+  "pmcid": [
+    "PMC7262928"
+  ],
+  "doi": [
+    "10.1111/1759-7714.13441"
+  ],
+  "title": [
+    "MicroRNA-125b as a tumor suppressor by targeting MMP11 in breast cancer."
+  ],
+  "authorString": [
+    "Wang Y, Wei Y, Fan X, Zhang P, Wang P, Cheng S, Zhang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yanan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Affiliated Hospital of Hebei University, Baoding, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei Y"
+          ],
+          "firstName": [
+            "Yaning"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Oncology, Affiliated Hospital of Hebei University, Baoding, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fan X"
+          ],
+          "firstName": [
+            "Xiangyu"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Affiliated Hospital of Hebei University, Baoding, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang P"
+          ],
+          "firstName": [
+            "Pei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Affiliated Hospital of Hebei University, Baoding, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang P"
+          ],
+          "firstName": [
+            "Pan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, Affiliated Hospital of Hebei University, Baoding, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng S"
+          ],
+          "firstName": [
+            "Shujie"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8605-9518",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Surgery, Affiliated Hospital of Hebei University, Baoding, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jinku"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, No.1 Central Hospital of Baoding, Baoding, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8605-9518",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2960477"
+      ],
+      "dateOfPublication": [
+        "2020 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Thoracic cancer"
+          ],
+          "ISOAbbreviation": [
+            "Thorac Cancer"
+          ],
+          "medlineAbbreviation": [
+            "Thorac Cancer"
+          ],
+          "NLMid": [
+            "101531441"
+          ],
+          "ISSN": [
+            "1759-7706"
+          ],
+          "ESSN": [
+            "1759-7714"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1613-1620"
+  ],
+  "abstractText": [
+    "BACKGROUND:Breast cancer is a common type of tumor in women worldwide. MicroRNAs have been identified as regulators in many human cancers. The aim of this study was therefore to investigate the functional role of miR-125b in regulating breast cancer progression. METHODS:We used the StarBase database to investigate the expression of miRNA-125b in breast cancer and adjacent normal tissues. MMP11 3'-UTR construct and luciferase reporter assays was performed for target genes. Cell proliferation was evaluated by CCK-8 and colony formation assay. The migration and invasion were assessed by transwell assay. RESULTS:Luciferase reporter assays showed miRNA-125b directly targeted MMP11. miRNA-125b by transfection with its mimic in breast cancer cells significantly suppressed breast cancer cell proliferation and migration. Western blot revealed that overexpression of miRNA-125b substantially reduced MMP11 protein expression. We used the UALCAN database to investigate the expression of MMP11 in human breast cancer and adjacent normal tissues. In addition, we found that miRNA-125b spoiled MMP11 induced breast cancer cell proliferation and migration promotion effect. CONCLUSIONS:miRNA-125b mimic inhibited proliferation, migration, and invasion of breast cancer cells through targeting MMP11 protein."
+  ],
+  "affiliation": [
+    "Department of Pathology, Affiliated Hospital of Hebei University, Baoding, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Breast cancer",
+        "Mmp11",
+        "Microrna-125b"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1759-7714.13441"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7262928"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7262928?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1759-7714.13441"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-16"
+  ],
+  "firstIndexDate": [
+    "2020-04-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-05"
+  ],
+  "dateOfRevision": [
+    "2020-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-14"
+  ],
+  "firstPublicationDate": [
+    "2020-04-14"
+  ]
+}
