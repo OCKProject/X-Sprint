@@ -7,43 +7,52 @@
   <text x="151.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,22.0,280.0)" title="model" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">model</text>
   <g>
    <rect x="140.0" y="140.0" width="22.0" height="22.0" style="fill:#000;"/>
-   <text x="140.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">7</text>
+   <text x="140.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">5</text>
   </g>
-  <text x="173.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,44.0,302.0)" title="greenhouse" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">greenhouse</text>
+  <text x="173.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,44.0,302.0)" title="Conflict" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Conflict</text>
   <g>
-   <rect x="162.0" y="140.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
-   <text x="162.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+   <rect x="162.0" y="140.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="162.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
-  <text x="195.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,66.0,324.0)" title="feedback" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">feedback</text>
+  <text x="195.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,66.0,324.0)" title="greenhouse" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">greenhouse</text>
   <g>
-   <rect x="184.0" y="140.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
+   <rect x="184.0" y="140.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
    <text x="184.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
   </g>
-  <text x="217.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,88.0,346.0)" title="anthropogenic" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">anthropogenic</text>
+  <text x="217.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,88.0,346.0)" title="feedback" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">feedback</text>
   <g>
-   <rect x="206.0" y="140.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
+   <rect x="206.0" y="140.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
    <text x="206.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
   </g>
-  <text x="10.0" y="184.0" title="greenhouse" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">greenhouse</text>
+  <text x="239.0" y="129.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,109.99999999999997,368.0)" title="anthropogenic" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">anthropogenic</text>
   <g>
-   <rect x="140.0" y="162.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
-   <text x="140.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+   <rect x="228.0" y="140.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
+   <text x="228.0" y="162.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="184.0" title="Conflict" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">Conflict</text>
+  <g>
+   <rect x="140.0" y="162.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="140.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
   <g>
-   <rect x="162.0" y="162.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
-   <text x="162.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+   <rect x="162.0" y="162.0" width="22.0" height="22.0" style="fill:#666666;"/>
+   <text x="162.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">3</text>
   </g>
   <g>
    <rect x="184.0" y="162.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
    <text x="184.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
   <g>
-   <rect x="206.0" y="162.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
-   <text x="206.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+   <rect x="206.0" y="162.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="206.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
-  <text x="10.0" y="206.0" title="feedback" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">feedback</text>
   <g>
-   <rect x="140.0" y="184.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
+   <rect x="228.0" y="162.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="228.0" y="184.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
+  </g>
+  <text x="10.0" y="206.0" title="greenhouse" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">greenhouse</text>
+  <g>
+   <rect x="140.0" y="184.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
    <text x="140.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
   </g>
   <g>
@@ -51,29 +60,58 @@
    <text x="162.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
   <g>
-   <rect x="184.0" y="184.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
+   <rect x="184.0" y="184.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
    <text x="184.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
   </g>
   <g>
    <rect x="206.0" y="184.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
    <text x="206.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
-  <text x="10.0" y="228.0" title="anthropogenic" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">anthropogenic</text>
   <g>
-   <rect x="140.0" y="206.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
+   <rect x="228.0" y="184.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
+   <text x="228.0" y="206.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <text x="10.0" y="228.0" title="feedback" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">feedback</text>
+  <g>
+   <rect x="140.0" y="206.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
    <text x="140.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
   </g>
   <g>
-   <rect x="162.0" y="206.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
-   <text x="162.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+   <rect x="162.0" y="206.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="162.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
   <g>
    <rect x="184.0" y="206.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
    <text x="184.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
   </g>
   <g>
-   <rect x="206.0" y="206.0" width="22.0" height="22.0" style="fill:#dbdbdb;"/>
+   <rect x="206.0" y="206.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
    <text x="206.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="228.0" y="206.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="228.0" y="228.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
+  </g>
+  <text x="10.0" y="250.0" title="anthropogenic" style="fill:black;font-family:Helvetica;font-size:13.2px;font-weight:bold;">anthropogenic</text>
+  <g>
+   <rect x="140.0" y="228.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
+   <text x="140.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="162.0" y="228.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="162.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
+  </g>
+  <g>
+   <rect x="184.0" y="228.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
+   <text x="184.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
+  </g>
+  <g>
+   <rect x="206.0" y="228.0" width="22.0" height="22.0" style="fill:#ffffff;"/>
+   <text x="206.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">0</text>
+  </g>
+  <g>
+   <rect x="228.0" y="228.0" width="22.0" height="22.0" style="fill:#cccccc;"/>
+   <text x="228.0" y="250.0" style="fill:orange;font-family:Helvetica;font-size:13.2px;stroke:orange;stroke-width:0.8;">1</text>
   </g>
  </g>
 </svg>

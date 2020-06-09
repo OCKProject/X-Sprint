@@ -46,11 +46,7 @@
  </snippetsTree>
  <snippetsTree>
   <snippets file="test1/PMC7188949/results/search/runaway/results.xml">
-   <result pre="of developing an RRI. Powers (2010) proposed a proximal aetiology" exact="model" post="whereby impaired muscular control at the hip, for example"/>
-   <result pre="each session. The data were recorded using a Plugin Gate" exact="model" post="and followed the procedure of Riazati et al. (2019)."/>
-   <result pre="running sessions. This was processed using the static plugin gait" exact="model" post="and static subject calibration. For HIIT and MICR, kinematics"/>
-   <result pre="a fourth order low-pass Butterworth filter via dynamic plug-in gait" exact="model" post="with 6 Hz cut-off frequency. Gait identification was achieved"/>
-   <result pre="PowersC. M.WitvrouwE.DavisI. S.CrossleyK. M. (2017). Evidence-based framework for a pathomechanical" exact="model" post="of patellofemoral pain: 2017 patellofemoral pain consensus statement from"/>
+   <result pre="authors drafted the intellectual content and revised the final version." exact="Conflict" post="of Interest The authors declare that the research was"/>
   </snippets>
  </snippetsTree>
  <snippetsTree>
@@ -61,6 +57,11 @@
    <result pre="obtained with Freesurfer and a 3-layer Boundary Element Method (BEM)" exact="model" post="was created with 5120 triangles and conductivities set to"/>
    <result pre="stimulation sites within subjects)34. For one method (eLORETA) the mixed-effects" exact="model" post="resulted in a &quot;singular fit&quot; due to a lack"/>
    <result pre="Imaging Data Structure specification to human intracranial electrophysiologySci. Data201961610.1038/s41597-019-0105-730647409 28.EngemannDAGramfortAAutomated" exact="model" post="selection in covariance estimation and spatial whitening of MEG"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7198792/results/search/runaway/results.xml">
+   <result pre="the manuscript. All authors read and approved the final manuscript." exact="Conflict" post="of Interest The authors declare that the research was"/>
   </snippets>
  </snippetsTree>
  <snippetsTree>
@@ -85,24 +86,7 @@
  </snippetsTree>
  <snippetsTree>
   <snippets file="test1/PMC7200977/results/search/runaway/results.xml">
-   <result pre="steps: region of interest segmentation, feature extraction, feature selection, and" exact="model" post="building and validation. The feature selection methods included the"/>
-   <result pre="coefficient, and Partition-Membership filter. The performance metrics of the classification" exact="model" post="included accuracy (Acc), precision (Pre), area under curve (AUC),"/>
-   <result pre="feature redundancy varies with the algorithms. The final step is" exact="model" post="building. The algorithms of model building can be roughly"/>
-   <result pre="algorithms. The final step is model building. The algorithms of" exact="model" post="building can be roughly divided into machine learning and"/>
-   <result pre="first-order features and higher-order features from the ROI. (4) Prediction" exact="model" post="building based on machine learning classifiers, ROC curves used"/>
-   <result pre="on machine learning classifiers, ROC curves used to assess the" exact="model" post="performance. Adc is lung Adenocarcinoma, and Oth are other"/>
-   <result pre="could be the basis to develop a multiple class classification" exact="model" post="to reduce or avoid the use of invasive diagnostic"/>
-   <result pre="the random line which is the worst possible performance a" exact="model" post="can achieve. (A) Logistic regression (LR), naive bayes (NB),"/>
-   <result pre="by radiomics (22–28). Tang et al. (27) developed a radiomics" exact="model" post="to discriminate Adc from squamous cell carcinoma (Sqc) with"/>
-   <result pre="AUC of 0.82, Yang et al. (24) developed an LR" exact="model" post="to predict lymph node metastasis in solid Adc with"/>
-   <result pre="divided with stratified random sampling to keep them balanced. For" exact="model" post="development, independent data sets were used for feature selection"/>
-   <result pre="development, independent data sets were used for feature selection and" exact="model" post="construction, and cross validation method was used for resampling."/>
-   <result pre="construction, and cross validation method was used for resampling. In" exact="model" post="selection, we used many classifiers to show the classification"/>
-   <result pre="texture features were available. We used this data set for" exact="model" post="building and validation. In order to keep the data"/>
-   <result pre="included CT image acquisition, texture feature extraction, feature selection, and" exact="model" post="building. The validation phase included model testing and performance"/>
-   <result pre="extraction, feature selection, and model building. The validation phase included" exact="model" post="testing and performance evaluation. CT Image Acquisition and Texture"/>
-   <result pre="with 10-folds cross validation. The performance metrics of the classification" exact="model" post="included TPR, TNR, accuracy, precision, AUC, kappa statistics, and"/>
-   <result pre="2.ForghaniRSavadjievPChatterjeeAMuthukrishnanNReinholdCForghaniBet al.. Radiomics and artificial intelligence for biomarker and prediction" exact="model" post="development in oncology. Comput Struct Biotechnol J. (2019) 17:995–1008."/>
+   <result pre="intellectual contribution to the work, and approved it for publication." exact="Conflict" post="of Interest The authors declare that the research was"/>
   </snippets>
  </snippetsTree>
  <snippetsTree>

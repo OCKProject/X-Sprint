@@ -68,3 +68,26 @@ There's a Wikipedia Category on Human Migration:
 https://en.wikipedia.org/wiki/Category:Human_migration
 
 Then make Med migr special ones - This could be a community contribution for use by people wantingto access related research https://en.wikipedia.org/wiki/MENA - Create a MENA Migration Dictionary, as well as general Human Migration dictionary.
+
+#### Migration dictionary
+
+Terms from AMRO workshop:
+
+''''
+
+<entry term="Desertifcation" name="Desertifcation"/>
+<entry term="Global Warming" name="Global Warming"/>
+<entry term="Rise of Sea Level" name="Rise of Sea Level"/>
+<entry term="Sea Temperature" name="Sea Temperature"/>
+<entry term="Carbon Oxide" name="Carbon Oxide"/>
+<entry term="Conflict" name="Conflict"/>
+<entry term="Central Mediterrean Sea" name="Centreal Mediterrean Sea"/>
+<entry term="North Africa" name="North Africa"/>
+<entry term="Sahara" name="Sahara"/>
+<entry term="Malta" name="Malta"/>
+<entry term="Italy" name="Italy"/>
+<entry term="Lampedusa" name="Lampedusa"/>
+
+''''
+
+#### MENA migration Dictionary
