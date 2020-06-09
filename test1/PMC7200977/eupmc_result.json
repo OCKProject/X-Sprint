@@ -1,0 +1,294 @@
+{
+  "id": [
+    "32411600"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32411600"
+  ],
+  "pmcid": [
+    "PMC7200977"
+  ],
+  "doi": [
+    "10.3389/fonc.2020.00602"
+  ],
+  "title": [
+    "A Non-invasive Method to Diagnose Lung Adenocarcinoma."
+  ],
+  "authorString": [
+    "Yan M, Wang W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yan M"
+          ],
+          "firstName": [
+            "Mengmeng"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Medicine, University of Electronic Science and Technology of China, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Weidong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Sichuan Cancer Hospital and Institute, Chengdu, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2911881"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "602"
+  ],
+  "abstractText": [
+    "Purpose: To find out the CT radiomics features of differentiating lung adenocarcinoma from another lung cancer histological type. Methods: This was a historical cohort study, three independent lung cancer cohorts included. One cohort was used to evaluate the stability of radiomics features, one cohort was used to feature selection, and the last was used to construct and evaluate classification models. The research is divided into four steps: region of interest segmentation, feature extraction, feature selection, and model building and validation. The feature selection methods included the intraclass correlation coefficient, ReliefF coefficient, and Partition-Membership filter. The performance metrics of the classification model included accuracy (Acc), precision (Pre), area under curve (AUC), and kappa statistics. Results: The 10 features (First order shape features: Sphericity and Compacity, Gray-Level Run Length Matrix: Short-Run Emphasis, Low Gray-level Run Emphasis, and High Gray-level Run Emphasis, Gray Level Co-occurrence Matrix: Homogeneity, Energy, Contrast, Correlation, and Dissimilarity) showed the most stable and classification capability. The 6 classifiers, Logistic regression classifier (LR), Sequence Minimum Optimization algorithm, Random Forest, KStar, Naive Bayes and Random Committee, have great performance both on the train and the test sets, and especially LR has the best performance on the test set (Acc = 98.72, Pre = 0.988, AUC = 1, and kappa = 0.974). Conclusion: Lung adenocarcinoma can be identified based on CT radiomics features. We can diagnose lung adenocarcinoma with CT non-invasively."
+  ],
+  "affiliation": [
+    "School of Medicine, University of Electronic Science and Technology of China, Chengdu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lung adenocarcinoma",
+        "Texture analysis",
+        "Radiomics",
+        "Multi-instance Learning",
+        "Lung Cancer Histological Types"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00602"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200977"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7200977?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2020.00602"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-05-16"
+  ],
+  "firstIndexDate": [
+    "2020-05-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-16"
+  ],
+  "dateOfRevision": [
+    "2020-05-18"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-29"
+  ],
+  "firstPublicationDate": [
+    "2020-04-29"
+  ]
+}

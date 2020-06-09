@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="test1/PMC7185022/results/search/runaway/results.xml">
+  <result pre="can mitigate runs. In this paper we develop a dynamic" exact="model" post="of debt runs based on He and Xiong (2012)"/>
+  <result pre="run probabilities in these markets, we develop a continuous time" exact="model" post="of dynamic debt runs in the markets for ARS"/>
+  <result pre="VRDOs based on He and Xiong (2012), HX hereafter). Our" exact="model" post="has two major departures from the HX model: (i)"/>
+  <result pre="and (ii) modeling of committed versus uncommitted liquidity provision. The" exact="model" post="is particularly useful. First, it accounts for the &quot;dynamic&quot;"/>
+  <result pre="the rollover threshold determines the run probability. We calibrate the" exact="model" post="to the historical interest rate data for both markets."/>
+  <result pre="historical interest rate data for both markets. Using calibrated key" exact="model" post="parameters, we are able to infer the unobserved fundamental"/>
+  <result pre="the debt-run literature that examines the determinants of runs.6 Our" exact="model" post="is built upon (He and Xiong, 2012), which extends"/>
+  <result pre="1983, Rochet, Vives, 2004, Goldstein, Pauzner, 2005, etc.). The He-Xiong" exact="model" post="highlights the dynamic coordination problem between creditors whose contracts"/>
+  <result pre="paper, Schroth et al. (2014) extend and apply the He-Xiong" exact="model" post="to the ABCP market. The authors show that an"/>
+  <result pre="creditors, increases the likelihood of runs. By contrast, in our" exact="model" post="a run imposes an additional type of negative externalities,"/>
+  <result pre="type of negative externalities, because an ARS run in our" exact="model" post="may trigger uncommitted liquidity support to fail and its"/>
+  <result pre="conceptualize the value of liquidity backstop. Section 3 presents the" exact="model" post="and contains discussion of key model implications. In Section"/>
+  <result pre="Section 3 presents the model and contains discussion of key" exact="model" post="implications. In Section 4, we present our calibration procedure"/>
+  <result pre="a liquidity backstop. In the next section we develop a" exact="model" post="for both markets to endogenously determine investors’ rollover decision"/>
+  <result pre="determine investors’ rollover decision and the run probabilities. The calibrated" exact="model" post="is then used to quantify the value of a"/>
+  <result pre="value of a liquidity backstop. 3 Model We extend the" exact="model" post="of dynamic debt runs in He and Xiong (2012)"/>
+  <result pre="provision. For ease of exposition, we first focus on the" exact="model" post="for VRDOs that incorporates a floating interest rate into"/>
+  <result pre="interest rate into the He-Xiong model. We then extends the" exact="model" post="further to the market for ARS. The model for"/>
+  <result pre="extends the model further to the market for ARS. The" exact="model" post="for ARS features uncommitted liquidity provision.11 3.1 The model"/>
+  <result pre="The model for ARS features uncommitted liquidity provision.11 3.1 The" exact="model" post="for VRDOs: Committed liquidity provision Consider a municipality who"/>
+  <result pre="measure the value of a liquidity backstop later. 3.2 The" exact="model" post="for ARS: Uncommitted liquidity provision Unlike VRDOs that are"/>
+  <result pre="that it is strictly monotonically increasing. In contrast to the" exact="model" post="for VRDOs, the HJB equation in the case of"/>
+  <result pre="default loss as studied in HX, a run in our" exact="model" post="also induces an additional cost in the event of"/>
+  <result pre="measured by Γ. In the next section, we calibrate the" exact="model" post="and quantitatively measure Γ. 4 Quantitative Analysis The markets"/>
+  <result pre="in Panel B of Figure 4. We then estimate the" exact="model" post="using MLE to best fit the actual ARS excess"/>
+  <result pre="of Figure 4 shows a reasonably good fit between the" exact="model" post="and the data. In particular, consistent with the data"/>
+  <result pre="and the data. In particular, consistent with the data our" exact="model" post="is able to generate spikes in the ARS excess"/>
+  <result pre="rate on the run behavior. To compare with the HX" exact="model" post="which has a fixed interest rate, we consider the"/>
+  <result pre="(Panel A) and ARS (Panel B). From Panel A the" exact="model" post="implies a 50% chance of a VRDO run within"/>
+  <result pre="the run probabilities are close to zero. In summary, our" exact="model" post="is able to reproduce the differential crisis experiences for"/>
+  <result pre="Panel C, we compute the equilibrium rollover threshold in our" exact="model" post="as well as the one in the benchmark HX"/>
+  <result pre="to 0 with probability 1 − q . In the" exact="model" post="we have essentially assumed p = 0 until mid"/>
+  <result pre="backstop. 5 Concluding Remarks In this paper, we develop a" exact="model" post="of dynamic debt runs to study the important role"/>
+  <result pre="are previously neglected (see Gennaioli et al., 2013). The key" exact="model" post="implication in this paper is general and can be"/>
+  <result pre="of Financial Economics972010239262 ChenR.-R.ScottL.Maximum likelihood estimation for a multifactor equilibrium" exact="model" post="of the term structure of interest ratesJournal of Fixed"/>
+  <result pre="and evidence from the commercial paper marketJournal of Finance612006867892 GennaioliN.ShleiferA.VishnyR.A" exact="model" post="of shadow bankingJournal of Finance68201313311363 GoldsteinI.Empirical literature on financial"/>
+  <result pre="ensures that the max rate is sufficiently high for the" exact="model" post="to be meaningful. The restriction (B.15) rules out the"/>
+  <result pre="risk-free rate ρ is assumed to be constant in the" exact="model" post="for tractability. We thus work directly with the excess"/>
+  <result pre="same number of Treasury securities, and then to estimate the" exact="model" post="using the extracted factors together with the rest of"/>
+  <result pre="to refer to both VRDOs and ARS when describing the" exact="model" post="setup that applies to both. 12The proofs of Propositions"/>
+ </snippets>
+</snippetsTree>

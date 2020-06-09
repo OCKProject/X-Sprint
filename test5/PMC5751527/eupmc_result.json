@@ -1,0 +1,344 @@
+{
+  "id": [
+    "29257108"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29257108"
+  ],
+  "pmcid": [
+    "PMC5751527"
+  ],
+  "doi": [
+    "10.3390/s17122955"
+  ],
+  "title": [
+    "Anti-Runaway Prevention System with Wireless Sensors for Intelligent Track Skates at Railway Stations."
+  ],
+  "authorString": [
+    "Jiang C, Xu Y, Wen C, Chen D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jiang C"
+          ],
+          "firstName": [
+            "Chaozhe"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "National United Engineering Laboratory of Integrated and Intelligent Transportation, Chengdu 610031, China. jiangchaozhe@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Yibo"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Cloud-Guizhou Big Data Science Application Research Center, Guiyang 550081, Guizhou, China. yibo.xu@csdata.com.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3933-2446",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National United Engineering Laboratory of Integrated and Intelligent Transportation, Chengdu 610031, China. swjtuctt@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen D"
+          ],
+          "firstName": [
+            "Dilin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Industrial and Enterprise System Engineering, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA. dilin2@illinoise.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3933-2446",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2623997"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sensors (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Sensors (Basel)"
+          ],
+          "NLMid": [
+            "101204366"
+          ],
+          "ISSN": [
+            "1424-8220"
+          ],
+          "ESSN": [
+            "1424-8220"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Anti-runaway prevention of rolling stocks at a railway station is essential in railway safety management. The traditional track skates for anti-runaway prevention of rolling stocks have some disadvantages since they are operated and monitored completely manually. This paper describes an anti-runaway prevention system (ARPS) based on intelligent track skates equipped with sensors and real-time monitoring and management system. This system, which has been updated from the traditional track skates, comprises four parts: intelligent track skates, a signal reader, a database station, and a monitoring system. This system can monitor the real-time situation of track skates without changing their workflow for anti-runaway prevention, and thus realize the integration of anti-runaway prevention information management. This system was successfully tested and practiced at Sunjia station in Harbin Railway Bureau in 2014, and the results confirmed that the system showed 100% accuracy in reflecting the usage status of the track skates. The system could meet practical demands, as it is highly reliable and supports long-distance communication."
+  ],
+  "affiliation": [
+    "National United Engineering Laboratory of Integrated and Intelligent Transportation, Chengdu 610031, China. jiangchaozhe@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wireless Communication Technology",
+        "Anti-runaway Prevention",
+        "Detecting And Communicating Sensor",
+        "Intelligent Track Skates",
+        "Real-time Monitoring And Management System"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s17122955"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5751527"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5751527?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/s17122955"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-02-22"
+  ],
+  "dateOfCreation": [
+    "2017-12-20"
+  ],
+  "firstIndexDate": [
+    "2017-12-20"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-12"
+  ],
+  "dateOfRevision": [
+    "2018-02-22"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-19"
+  ],
+  "firstPublicationDate": [
+    "2017-12-19"
+  ]
+}

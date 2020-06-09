@@ -1,0 +1,314 @@
+{
+  "id": [
+    "PMC7235041"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7235041"
+  ],
+  "doi": [
+    "10.1038/s41539-020-0065-x"
+  ],
+  "title": [
+    "Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts."
+  ],
+  "authorString": [
+    "Cetron JS, Connolly AC, Diamond SG, May VV, Haxby JV, Kraemer DJM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cetron JS"
+          ],
+          "firstName": [
+            "Joshua S."
+          ],
+          "lastName": [
+            "Cetron"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Department of Psychology, Harvard University,Cambridge, MA 02138 USA"
+          ]
+        },
+        {
+          "fullName": [
+            "Connolly AC"
+          ],
+          "firstName": [
+            "Andrew C."
+          ],
+          "lastName": [
+            "Connolly"
+          ],
+          "initials": [
+            "AC"
+          ]
+        },
+        {
+          "fullName": [
+            "Diamond SG"
+          ],
+          "firstName": [
+            "Solomon G."
+          ],
+          "lastName": [
+            "Diamond"
+          ],
+          "initials": [
+            "SG"
+          ]
+        },
+        {
+          "fullName": [
+            "May VV"
+          ],
+          "firstName": [
+            "Vicki V."
+          ],
+          "lastName": [
+            "May"
+          ],
+          "initials": [
+            "VV"
+          ]
+        },
+        {
+          "fullName": [
+            "Haxby JV"
+          ],
+          "firstName": [
+            "James V."
+          ],
+          "lastName": [
+            "Haxby"
+          ],
+          "initials": [
+            "JV"
+          ]
+        },
+        {
+          "fullName": [
+            "Kraemer DJM"
+          ],
+          "firstName": [
+            "David J. M."
+          ],
+          "lastName": [
+            "Kraemer"
+          ],
+          "initials": [
+            "DJM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2912666"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NPJ Science of Learning"
+          ],
+          "ISOAbbreviation": [
+            "NPJ Sci Learn"
+          ],
+          "medlineAbbreviation": [
+            "NPJ Sci Learn"
+          ],
+          "NLMid": [
+            "101689142"
+          ],
+          "ISSN": [
+            "2056-7936"
+          ],
+          "ESSN": [
+            "2056-7936"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "How does STEM knowledge learned in school change students’ brains? Using fMRI, we presented photographs of real-world structures to engineering students with classroom-based knowledge and hands-on lab experience, examining how their brain activity differentiated them from their “novice” peers not pursuing engineering degrees. A data-driven MVPA and machine-learning approach revealed that neural response patterns of engineering students were convergent with each other and distinct from novices’ when considering physical forces acting on the structures. Furthermore, informational network analysis demonstrated that the distinct neural response patterns of engineering students reflected relevant concept knowledge: learned categories of mechanical structures. Information about mechanical categories was predominantly represented in bilateral anterior ventral occipitotemporal regions. Importantly, mechanical categories were not explicitly referenced in the experiment, nor does visual similarity between stimuli account for mechanical category distinctions. The results demonstrate how learning abstract STEM concepts in the classroom influences neural representations of objects in the world."
+  ],
+  "affiliation": [
+    "Department of Psychology, Harvard University,Cambridge, MA 02138 USA"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Learning and memory",
+        "Human Behaviour"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235041/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7235041"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41539-020-0065-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-22"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-22"
+  ],
+  "dateOfRevision": [
+    "2020-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-18"
+  ],
+  "firstPublicationDate": [
+    "2020-05-18"
+  ]
+}

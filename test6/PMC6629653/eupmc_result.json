@@ -1,0 +1,646 @@
+{
+  "id": [
+    "31308414"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31308414"
+  ],
+  "pmcid": [
+    "PMC6629653"
+  ],
+  "doi": [
+    "10.1038/s41598-019-46629-3"
+  ],
+  "title": [
+    "Stable, predictable and training-free operation of superconducting Bi-2212 Rutherford cable racetrack coils at the wire current density of 1000 A/mm2."
+  ],
+  "authorString": [
+    "Shen T, Bosque E, Davis D, Jiang J, White M, Zhang K, Higley H, Turqueti M, Huang Y, Miao H, Trociewitz U, Hellstrom E, Parrell J, Hunt A, Gourlay S, Prestemon S, Larbalestier D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shen T"
+          ],
+          "firstName": [
+            "Tengming"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1581-320X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA. tshen@lbl.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Bosque E"
+          ],
+          "firstName": [
+            "Ernesto"
+          ],
+          "lastName": [
+            "Bosque"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "National High Magnetic Field Laboratory, Florida State University, Tallahassee, FL, 32310, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Davis D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang J"
+          ],
+          "firstName": [
+            "Jianyi"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "National High Magnetic Field Laboratory, Florida State University, Tallahassee, FL, 32310, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "White M"
+          ],
+          "firstName": [
+            "Marvis"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "nGimat LLC, Lexington, KY, 40551, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Higley H"
+          ],
+          "firstName": [
+            "Hugh"
+          ],
+          "lastName": [
+            "Higley"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Turqueti M"
+          ],
+          "firstName": [
+            "Marcos"
+          ],
+          "lastName": [
+            "Turqueti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Yibing"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Bruker OST LLC, Carteret, NJ, 07008, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Miao H"
+          ],
+          "firstName": [
+            "Hanping"
+          ],
+          "lastName": [
+            "Miao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Bruker OST LLC, Carteret, NJ, 07008, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Trociewitz U"
+          ],
+          "firstName": [
+            "Ulf"
+          ],
+          "lastName": [
+            "Trociewitz"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "National High Magnetic Field Laboratory, Florida State University, Tallahassee, FL, 32310, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hellstrom E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Hellstrom"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "National High Magnetic Field Laboratory, Florida State University, Tallahassee, FL, 32310, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Parrell J"
+          ],
+          "firstName": [
+            "Jeffrey"
+          ],
+          "lastName": [
+            "Parrell"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Bruker OST LLC, Carteret, NJ, 07008, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hunt A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Hunt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "nGimat LLC, Lexington, KY, 40551, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gourlay S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Gourlay"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Prestemon S"
+          ],
+          "firstName": [
+            "Soren"
+          ],
+          "lastName": [
+            "Prestemon"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Larbalestier D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Larbalestier"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7098-7208",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National High Magnetic Field Laboratory, Florida State University, Tallahassee, FL, 32310, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1581-320X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7098-7208",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2833193"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "10170"
+  ],
+  "abstractText": [
+    "High-temperature superconductors (HTS) could enable high-field magnets stronger than is possible with Nb-Ti and Nb3Sn, but two challenges have so far been the low engineering critical current density JE, especially in high-current cables, and the danger of quenches. Most HTS magnets made so far have been made out of REBCO coated conductor. Here we demonstrate stable, reliable and training-quench-free performance of Bi-2212 racetrack coils wound with a Rutherford cable fabricated from wires made with a new precursor powder. These round multifilamentary wires exhibited a record JE up to 950 A/mm2 at 30 T at 4.2 K. These coils carried up to 8.6 kA while generating 3.5 T at 4.2 K at a JE of 1020 A/mm2. Different from the unpredictable training performance of Nb-Ti and Nb3Sn magnets, these Bi-2212 magnets showed no training quenches and entered the flux flow state in a stable manner before thermal runaway and quench occurred. Also different from Nb-Ti, Nb3Sn, and REBCO magnets for which localized thermal runaways occur at unpredictable locations, the quenches of Bi-2212 magnets consistently occurred in the high field regions over a long conductor length. These characteristics make quench detection simple, enabling safe protection, and suggest a new paradigm of constructing quench-predictable superconducting magnets from Bi-2212."
+  ],
+  "affiliation": [
+    "Lawrence Berkeley National Laboratory, Berkeley, CA, 94720, USA. tshen@lbl.gov."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DE-SC0009705"
+          ],
+          "agency": [
+            "DOE | SC | High Energy Physics (HEP)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DE-AC02-05CH11231"
+          ],
+          "agency": [
+            "DOE | SC | High Energy Physics (HEP)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21GM111302"
+          ],
+          "agency": [
+            "DH | National Institute for Health Research (NIHR)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DE-SC0010421"
+          ],
+          "agency": [
+            "DOE | SC | High Energy Physics (HEP)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 GM111302"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-46629-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6629653"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6629653?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-46629-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-17"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-28"
+  ],
+  "dateOfRevision": [
+    "2019-09-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-15"
+  ],
+  "firstPublicationDate": [
+    "2019-07-15"
+  ]
+}

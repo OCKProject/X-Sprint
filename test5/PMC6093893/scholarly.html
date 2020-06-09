@@ -1,0 +1,909 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> <head> <style type="text/css">
+      	     		 
+      	    a                          {background : #ffffff; }
+      	    article                    {border-style : dotted; border-width : 2px; }
+		 	
+		 	div                        {background : #ffffcc;}
+		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+		 	div.ack                    {border-style : solid ; border-color : red; margin : 2em; }
+		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.boxed-text             {margin : 5em; border-style : solid;}
+		 	div.contrib-group          {margin : 1em; }
+		 	div.fig                    {border-style : solid; border-width : 2px; margin : 2em; }
+		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+		 	div.given-names            {font-style : italic;}
+		 	div.intro                  {border-style : inset; margin : 5px;}
+		 	div.introduction           {border-style : inset; margin : 5px;}
+		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.journal-title-group    {background : #ffeeee;}
+		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+		 	div.kwd                    {font-style : italic}
+		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+		 	div.name                   {font-weight : bold;}
+		 	div.alt-title              {font-style : italic; font-size : 12px;}
+		 	
+		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+		 	div.title                  {font-family : courier; font-weight : bold;
+		 	                            font-size : 16pt; margin : 5px;}
+		 	
+		 	div.materials_methods      {border-style : double; margin : 5px; }
+		 	div.methods                {border-style : double; margin : 5px; }
+		 	
+		 	div.results                {border-style : solid; margin : 5px;}
+		 	div.background             {border-style : dotted; margin : 5px;}
+		 	
+		 	div.discussion             {border-style : groove; margin : 5px;}
+		 	div.conclusion             {border-style : ridge; margin : 5px;}
+		 	div.conclusions             {border-style : ridge; margin : 5px;}
+		 	div.supplementary-material {border-style : inset; margin : 5px;}
+		 	div.abbreviations          {border-style : double; border-color : red; margin : 5px;}
+		 	div.competinginterests     {border-style : double; border-color : blue; margin : 5px;}
+		 	div.acknowledgements       {border-style : double; border-color : green; margin : 5px;}
+		 	div.authors_contributions   {border-style : double; border-color : purple; margin : 5px;}
+		 	
+		 	div.publisher              {border-style : outset; margin : 5px;}
+		 	div.fn-type-conflict       {background : #f88; }
+		 	div.fn-type-con            {background : #ddf; }
+		 	div.fn-type-other          {background : #ddd; }
+		 	
+		 	div.unknown                {background : #ffd;
+									 	  border-style : solid;
+									 	  border-width : 1px;
+									 	  padding : 2 px;}
+		 	  
+      	    table                      {background : #ffffdd;}
+		 	tr                         {background : #ddddff; padding : 1px;}
+		 	
+		 	span                       {background : #ffcccc;}
+		 	
+		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+		 	span.collab                {background : #ddffff; }
+		 	span.comment               {font-family : courier; font-size : 6px; background : #ffaaff;}
+		 	span.contrib               {background : #ffffff;}
+		 	span.corresp               {background : #ddffdd; }
+		 	span.doi                   {background : #ffffff;}
+		 	span.email                 {font-family : courier; }
+		 	span.etal                  {font-style : italic;}
+		 	span.fpage                 {font-family : courier;}
+		 	span.given-names           {background : #ffffff;}
+		 	span.iso-abbrev            {background : #ffffff;}
+		 	span.issn-epub             {background : #ffffff;}
+		 	span.issn-ppub             {background : #ffffff;}
+		 	span.journal-title         {background : #ffffff;}
+		 	span.lpage                 {font-family : courier;}
+		 	span.mixed-article-title   {font-style : italic ;}
+		 	span.nlm-ta                {background : #ffffff;}
+		 	span.pmc                   {background : #ffffff;}
+		 	span.pmcid                 {background : #ffffff;}
+		 	span.pmid                  {background : #ffffff;}
+		 	span.publisher             {background : #ffffff;}
+		 	span.publisher-id          {background : #ffffff;}
+		 	span.publisher-name        {background : #ffffff;}
+		 	span.source                {background : #ffffff;}
+		 	span.subject               {background : #ffffff;}
+		 	span.surname               {background : #ffffff;}
+		 	span.volume                {font-family : courier; font-weight : bold;}
+		 	span.year                  {font-family : courier ; font-style : italic;}
+			</style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"><span class="nlm-ta" title="nlm-ta">Sci Rep</span><span class="iso-abbrev" title="iso-abbrev">Sci Rep</span><div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"><span class="journal-title" tagx="journal-title" title="journal-title">Scientific Reports</span></div><span class="issn-epub" tagx="issn" title="issn-epub">2045-2322</span><div class="publisher" tagx="publisher" title="publisher"><span class="publisher-name" tagx="publisher-name" title="publisher-name">Nature Publishing Group UK</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">London</span></div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"><span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/6093893">6093893</a></span><span class="publisher-id" title="publisher-id">30700</span><span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.1038/s41598-018-30700-6">10.1038/s41598-018-30700-6</a></span><div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Article</span></div> <div class="title-group"> <div class="article-title" title="article-title">
+Resistive switching in nano-structures</div> </div> <div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">V. G.</span></span><span class="address" title="address"><span class="email" tagx="email" title="email">victor.karpov@utoledo.edu</span></span><a href="#Aff1" /></span><span class="contrib" title="contrib"><span class="contrib-id" tagx="contrib-id" title="contrib-id">http://orcid.org/0000-0002-2245-8536</span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Niraula</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span><span class="address" title="address"><span class="email" tagx="email" title="email">dipesh.niraula@rockets.utodeo.edu</span></span><a href="#Aff1" /></span><span class="citation_author_institution" id="Aff1">[], <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">0000 0001 2184 944X</span><span class="institution-id" title="institution-id">grid.267337.4</span><span class="institution" title="institution">Department of Physics and Astronomy, </span><span class="institution" title="institution">University of Toledo, </span></div></span></div><span class="pub-date-epub" title="pub-date-epub">epub: <span>2018-8-8</span></span><span class="pub-date-pmc-release" title="pub-date-pmc-release">pmc-release: <span>2018-8-8</span></span><span class="pub-date-collection" title="pub-date-collection">collection: <span>2018</span></span><span class="volume" tagx="volume" title="volume">8</span><span class="elocation-id" tagx="elocation-id" title="elocation-id">12212</span><span class="history" title="history"><span class="received" title="received">received: 2018-5-4</span><span class="accepted" title="accepted">accepted: 2018-8-3</span></span><div class="permissions"><span class="copyright" title="copyright">(C) , </span><span class="license" title="license"><span class="license-p" title="license-p"><b>Open Access</b> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>.</span></span></div> <div class="abstract" title="abstract"> <div class="abstract-title" title="abstract-title">
+Abstract</div> <p id="Par1">Solid state memory and switching devices aimed at replacing the flash memory technology operate by switching from the high to low resistance when conductive filaments are created in response to the electric pulse. The filaments are identified with either structurally different protrusions or purely electronic conductive pathways. The former can appear via the field induced nucleation (FIN), while the latter do not require phase transformations and are attributed to certain types of temperature and bias dependent conductivity. The existing understanding of those processes ignores features related to extremely small linear sizes of nano-structures. Such are, for example, the device sizes smaller than critical nucleation radii, and/or the electron energy relaxation lengths exceeding the structure dimensions. This paper develops a theory of switching under nano-size conditions. We show how the structure thinness can make FIN a truly threshold phenomenon possible only for voltage (not the field) exceeding a certain critical value. We predict the possibility of threshold switching without memory for certain thickness dependent voltages. The thermal runaway mechanism of electronic switching is described analytically leading to results consistent with the published numerical modeling. Our predictions offer possible experimental verifications deciding between FIN and thermal runaway switching.</p> </div> <div class="funding-group" title="funding-group"> <div class="funding" title="funding">
+Funding</div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">https://doi.org/10.13039/100000028</span><span class="institution" title="institution">Semiconductor Research Corporation (SRC)</span></div> </div><span class="award-id" tagx="award-id" title="award-id">2016-LM-2654</span><span class="award-id" tagx="award-id" title="award-id">2016-LM-2654</span><span class="principal-award-recipient" title="principal-award-recipient"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">V. G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Niraula</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span></span></div> </div> <div class="custom-meta-group" title="custom-meta-group"> <meta name="issue-copyright-statement" value="© The Author(s) 2018" /> </div> </div> </div> <div class="body" title="body"> <div class="introduction" title="introduction"> <div class="title" tagx="title" title="title">
+Introduction</div> <p id="Par2">The presence of conductive filaments (CFs) is critically important for functionality of phase change memory (PCM)<sup><a href="#CR1">1</a></sup>, resistive random access memory (RRAM)<sup><a href="#CR2">2</a></sup>, and threshold switches (TS)<sup><a href="#CR3">3</a></sup>. Also, CFs are responsible for the breakdown phenomena in gate dielectrics<sup><a href="#CR4">4</a></sup>.</p> <p id="Par3">While the important role of CFs is commonly recognized, their underlying physics is not sufficiently understood. The two types of mechanisms of CF formation have been proposed in the literature: (1) the direct electric field induced nucleation (FIN) of a new phase in the form of conductive filamentary pathway characterized by its critical length and nucleation barrier<sup><a href="#CR5">5</a>,<a href="#CR6">6</a></sup>, and (2) the electronic filament precursor raising the local temperature enough to trigger a phase transformation or remain as such for the case of TS<sup><a href="#CR7">7</a></sup>.</p> <p id="Par4">We recall that CFs in the above mentioned devices are initially created by the electro-forming process that requires a certain forming voltage ~1 − 4 V. A formed structure is then modified (using additional electric stimuli) in such a way as to introduce a relatively narrow insulating gap across the filament. Repeatedly closing and opening that gap makes the device switching between two distinct states underlying its functionality. As the order of magnitude estimates, we mention the original CF length of <i>H</i> ~ 10 − 20 nm, and the insulating gap width <i>h</i><sub>gap</sub> ~ 1 − 3 nm<sup><a href="#CR8">8</a>–<a href="#CR10">10</a></sup>. The voltages required to create and bridge the insulating gaps in CFs are typically several times lower than the forming voltages<sup><a href="#CR10">10</a>–<a href="#CR12">12</a></sup>.</p> <p id="Par5">Here we consider a constrained FIN where the volume available for nucleation is limited. That condition can be important for the modern nanometer devices where conductive bridges form through narrow, <i>h</i><sub>gap</sub> ~ 1 − 3 nm gaps, while the critical nucleation length <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M1">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${h}_{c}\gg {h}_{{\rm{gap}}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> </div> <div class="mo_UNKNOWN">
+≫</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div>, say, <i>h</i><sub><i>c</i></sub> ~ 10 nm<sup><a href="#CR5">5</a>,<a href="#CR6">6</a></sup>, as illustrated in Fig. <a href="#Fig1">1</a>. It can be relevant for the electroforming processes as well if the dielectric layer thickness is small enough, <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M3">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\lesssim $$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+≲</div></div><span class="inline-graphic" title="inline-graphic" /></div></span>10 nm. <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 1</span></a></div>   <p>Left: critical length (<i>h</i><sub><i>c</i></sub>) conductive embryo formed in a uniform electric field within a gap of height <i>H</i> significantly exceeding <i>h</i><sub><i>c</i></sub>. That condition corresponding to that of the standard FIN theory can relate to a pristine (before ‘forming’) device structure. Right: a conductive filament with an insulating gap of thickness <i>h</i><sub>gap</sub> in a ‘formed’ device. A small conductive embryo will nucleate inside the gap of <i>h</i><sub>gap</sub> &amp;lt; <i>h</i><sub><i>c</i></sub>, i. e. beyond the limits of applicability of the standard FIN. Dashed arrows represent the electric field.</p>   </div> <p /> <p id="Par6">The paper is organized as follows. In Sec. II we apply the standard field induced nucleation theory to the narrow (<span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M5">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${h}_{c}\gg {h}_{{\rm{gap}}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> </div> <div class="mo_UNKNOWN">
+≫</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div>) gap case. Sec. III will introduce a different FIN scenario driven by the free energy originating from the effective capacitor formed by the CF tip and the opposite electrode. Sec. IV discusses the interplay between the two FIN scenarios. The thermal runaway electronic mechanism of switching is analyzed in Sec. V. Sec. VI contains final conclusions.<p /> </div> <div class="thestandardfinscenario" title="sec"> <div class="title" tagx="title" title="title">
+The Standard FIN Scenario</div> <p id="Par7">We recall that FIN is a process where a small metallic needle-shaped embryo nucleates in a non-conductive host due to the polarization energy gain in a strong external electric field <i>E</i>. Similar to other nucleation processes, FIN is characterized by the critical nucleation length <i>h</i><sub><i>c</i></sub> and nucleation barrier <i>W</i> representing respectively the length above which the embryo grows spontaneously, and its corresponding energy. Along the standard lines, the latter quantities are defined without any spacial constraints.</p> <p id="Par8">Assuming a high aspect ratio nucleus, <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M7">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$h\gg 2r$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+≫</div> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+r</div></div><span class="inline-graphic" title="inline-graphic" /></div> its free energy is presented as, <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">1</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M9">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$F(h,r)=2\pi rh\gamma +\mu \pi {r}^{2}h-\alpha {h}^{3}\varepsilon {E}^{2}.$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+h</div> <div class="mi_UNKNOWN">
+γ</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+μ</div> <div class="mi_UNKNOWN">
+π</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+α</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mn_UNKNOWN">
+3</div> </div> <div class="mi_UNKNOWN">
+ε</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>where <i>E</i> is the strength of a uniform field before the embryo nucleation [The field becomes non-uniform upon the metal embryo nucleation, which however is accounted for by the field dependent term in Eq. (<a href="#Equ1">1</a>); see e.g. 14, p. 17]. Here, <i>γ</i> is the surface tension and <i>μ</i> is the chemical potential difference between the two phases. The third term in Eq. (<a href="#Equ1">1</a>) represents the electrostatic energy gain and is written in a truncated form where <i>α</i> stands for a combination of numerical and logarithmic multipliers. For example, <i>α</i> = {12 ln[(2<i>h</i>/<i>r</i>) − 1]}<sup>−1</sup> for the ellipsoidal CF, and <i>α</i> = {ln[(2<i>h</i>/<i>r</i>) − 7]}<sup>−1</sup> for the cylindrical CF, assuming <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M11">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$h\gg r$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+≫</div> <div class="mi_UNKNOWN">
+r</div></div><span class="inline-graphic" title="inline-graphic" /></div></span><sup><a href="#CR5">5</a>,<a href="#CR13">13</a></sup>. In what follows we neglect the logarithmic dependence of <i>α</i> treating it as a constant smaller than one, say, <i>α</i> ~ 0.1.<p /> <p id="Par9">FIN theory describes the case of strong fields where the bulk term [second on the right-hand-side of Eq. (<a href="#Equ1">1</a>)] is insignificant and omitted compared to the field term. As a result, nucleation in TS (<i>μ</i> &amp;gt; 0) and non-volatile memory (<i>μ</i> &amp;lt; 0) is described similarly<sup><a href="#CR14">14</a></sup>. The difference appears beyond the present scope, in that, upon the field removal, the formed needle-shaped nucleus is stable in the memory and unstable in TS devices.</p> <p id="Par10">The free energy of Eq. (<a href="#Equ1">1</a>) has a stationary point, which is a maximum and thus unrelated to the transition barrier between the initial state (<i>r</i> = <i>h</i> = 0) and the new phase state where <i>F</i> decreases with <i>h</i> and <i>r</i>. It was shown that such a barrier is provided by the absolute minimum of <i>F</i>(<i>h</i>, <i>r</i>) located at the boundary region of the minimum allowed value of <i>r</i> (in sub-nanometer range) denoted here as <i>r</i><sub>min</sub>. The latter is determined by the conditions of electric and mechanical integrity for CF<sup><a href="#CR5">5</a></sup>.</p> <p id="Par11">We note that the inequality <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M13">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$h\gg 2r$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+≫</div> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+r</div></div><span class="inline-graphic" title="inline-graphic" /></div> underlying Eq. (<a href="#Equ1">1</a>) reduces here to <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M15">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$h\gg 2{r}_{{\rm{\min }}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+≫</div> <div class="mn_UNKNOWN">
+2</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div></span>. While <i>r</i><sub>min</sub> is in a sub-nanometer range, the latter inequality may be not very strong with the left-hand side by only a numerical factor (say, 3–5) exceeding the right one. Our results then remain valid approximately not changing any qualitative conclusions.<p /> <p id="Par12">For <i>r</i> = <i>r</i><sub>min</sub>, the free energy is a minimum at </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">2</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M17">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${h}_{c}=\sqrt{\frac{2\pi {r}_{{\rm{\min }}}\gamma }{3\varepsilon \alpha }}\frac{1}{E}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> <div class="mi_UNKNOWN">
+γ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+α</div> </div> </div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+E</div> </div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>corresponding to the barrier height <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">3</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M19">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$W(E)=F[{h}_{c}(E),{r}_{{\rm{\min }}}]=\frac{{2}^{5/2}{(\pi {r}_{{\rm{\min }}}\gamma )}^{3/2}}{{3}^{3/2}{(\alpha \varepsilon )}^{1/2}E}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+E</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+[</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+E</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+5</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+π</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> <div class="mi_UNKNOWN">
+γ</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+ε</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mi_UNKNOWN">
+E</div> </div> </div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>as illustrated in Fig. <a href="#Fig2">2</a>. <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 2</span></a></div>   <p>The free energies of a conductive embryo vs. its height in the electric fields of three different strengths, corresponding (from right to left) to the unstable, metastable, and thermodynamically stable embryos. The initial state of the system corresponds to <i>h</i> ≈ 0 (to the accuracy of thermal energy fluctuation ~<i>kT</i>). <i>W</i> is the nucleation barrier height, <i>W</i><sub><i>ms</i></sub> is the barrier determining the lifetime of a metastable embryo. The inset diagram illustrates how the transition creates a state (in TS) that is unstable upon the field removal.</p>   </div> <p /> <p id="Par13">For the future references, it is convenient to represent the nucleation barrier through the electric potential <i>U</i> = <i>EH</i>, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">4</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M21">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$W(U)={W}_{0}\frac{{U}_{0}}{U}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> <div class="mi_UNKNOWN">
+U</div> </div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>with <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">5</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M23">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${W}_{0}=2\pi \gamma {r}_{{\rm{\min }}}H,\,{\rm{and}}\,{U}_{0}=\sqrt{\frac{8\pi {r}_{{\rm{\min }}}\gamma }{27\alpha \varepsilon }}.$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+γ</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> <div class="mi_UNKNOWN">
+H</div> <div class="mo_UNKNOWN">
+,</div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+and</div> <div class="mspace_UNKNOWN" /> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+8</div> <div class="mi_UNKNOWN">
+π</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> <div class="mi_UNKNOWN">
+γ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+27</div> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+ε</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par14">Because the nucleation time <i>τ</i> = <i>τ</i><sub>0</sub> exp(<i>W</i>/<i>kT</i>) where <i>τ</i><sub>0</sub> = const, it follows that FIN takes place under any voltage <i>U</i> over the time that exponentially decreases with <i>U</i> as </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">6</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M25">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\tau \propto \exp [({W}_{0}/kT)\,({U}_{0}/U)].$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mo_UNKNOWN">
+∝</div> <div class="mi_UNKNOWN">
+exp</div> <div class="mo_UNKNOWN">
+[</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+k</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+)</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+]</div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par15">This type of dependence was experimentally observed<sup><a href="#CR15">15</a>–<a href="#CR18">18</a></sup>.</p> <p id="Par16">Considering FIN in a narrow gap, the weak field region, <i>E</i> &amp;lt; <i>E</i><sub><i>ms</i></sub> [explicitly given in Eq. <a href="#Equ7">7</a>)] can be determined by the condition <i>h</i><sub><i>c</i></sub> &amp;gt; <i>h</i><sub>gap</sub>. In that region, the free energy within the gap is increasing with <i>h</i> making embryos unstable. On the other hand, under higher fields, <i>E</i> &amp;gt; <i>E</i><sub><i>s</i></sub> [also, explicitly given in Eq. <a href="#Equ7">7</a>)], the barrier is at shorter distance than <i>h</i><sub><i>c</i></sub>, and yet, the energy <i>F</i>(<i>h</i><sub>gap</sub>, <i>r</i><sub>min</sub>) is positive. Therefore, for the field strengths in the interval, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">7</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M27">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${E}_{ms}\equiv \sqrt{\frac{2\pi {r}_{{\rm{\min }}}\gamma }{3\varepsilon \alpha {h}_{{\rm{gap}}}^{2}}} &amp;lt; E &amp;lt; \sqrt{\frac{2\pi {r}_{{\rm{\min }}}\gamma }{\varepsilon \alpha {h}_{{\rm{gap}}}^{2}}}\equiv {E}_{s},$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+≡</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> <div class="mi_UNKNOWN">
+γ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+α</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="mi_UNKNOWN">
+E</div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> <div class="mi_UNKNOWN">
+γ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+α</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≡</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+,</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>a metastable embryo within a gap (<i>h</i><sub><i>c</i></sub> &amp;lt; <i>h</i><sub>gap</sub>) can be formed. Shown in Fig. <a href="#Fig2">2</a> the barrier determining that embryo lifetime is given by <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">8</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M29">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${W}_{ms}=W(E)-F({h}_{{\rm{gap}}})$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+W</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+E</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> </div> <div class="mo_UNKNOWN">
+)</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>with <i>W</i>(<i>E</i>) and <i>F</i>(<i>h</i>) from Eqs (<a href="#Equ1">1</a>) and (<a href="#Equ3">3</a>). The metastable embryo lifetime is given by <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">9</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M31">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\tau }_{ms}={\tau }_{0}\,\exp ({W}_{ms}/kT)$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+exp</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+k</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+)</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>with <i>W</i><sub><i>ms</i></sub> = 0 when <i>E</i> = <i>E</i><sub><i>ms</i></sub>.<p /> <p id="Par17">The upper characteristic field <i>E</i><sub><i>s</i></sub> in Eq. (<a href="#Equ7">7</a>) is determined by the condition <i>F</i>(<i>h</i><sub>gap</sub>) = 0, i.e. the embryo remains stable as long as the field <i>E</i> is applied. When the field is removed, the second term in Eq. (<a href="#Equ1">1</a>) disappears, and the embryo free energy linear in <i>h</i> makes it decay as illustrated in Fig. <a href="#Fig2">2</a> relevant for TS functionality.</p> <p id="Par18">It follows from the above that while the nucleation of unconstrained CF is possible for the field of any strength (with exponentially field dependent nucleation times), the confined CFs require the field strength <i>E</i> &amp;gt; <i>E</i><sub><i>ms</i></sub> and the corresponding voltages <i>U</i> &amp;gt; <i>U</i><sub><i>ms</i></sub> = <i>E</i><sub><i>ms</i></sub><i>h</i><sub>gap</sub>. Similarly, stable CFs can nucleate when <i>U</i> &amp;gt; <i>U</i><sub><i>s</i></sub> = <i>E</i><sub><i>s</i></sub><i>h</i><sub>gap</sub>. It follows from Eq. (<a href="#Equ7">7</a>) that both <i>U</i><sub><i>s</i></sub> and <i>U</i><sub><i>ms</i></sub> are independent of <i>h</i><sub>gap</sub> and <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M33">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${U}_{s}=\sqrt{3}{U}_{ms}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+s</div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div>. Therefore, as opposed to the case of unconstrained CF, the confinement seems to make nucleation a truly threshold voltage phenomenon.<p /> <p id="Par19">Interestingly, the latter expressions for <i>U</i><sub><i>s</i></sub> and <i>U</i><sub><i>ms</i></sub> predict numerical values consistent with the data in the order of magnitude<sup><a href="#CR19">19</a>–<a href="#CR24">24</a></sup>, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">10</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M35">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${U}_{s}=\sqrt{\frac{2\pi \gamma {r}_{{\rm{\min }}}}{\varepsilon \alpha }}=(\frac{{3}^{3/2}}{2})\,{U}_{0}\sim 0.3-1\,{\rm{V}}.$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+γ</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+α</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mspace_UNKNOWN" /> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+∼</div> <div class="mn_UNKNOWN">
+0.3</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+V</div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>Here and in what follows we use the numerical values listed in Table <a href="#Tab1">1</a>. <div class="table-wrap_UNKNOWN" id="Tab1"><span class="label" tagx="label" title="label">Table 1</span> <p>Some parameters related to FIN.</p>  <table frame="hsides" rules="groups"> <thead> <tr> <th>Parameter</th> <th><i>H</i>, nm<sup>a</sup></th> <th><i>r</i><sub>min</sub>, nm<sup>b</sup></th> <th><i>ε</i><sup>c</sup></th> <th><i>γ</i>, dyn/cm<sup>d</sup></th> <th><i>α</i><sup>e</sup></th> <th><i>κ</i>, cm<sup>2</sup>/s<sup>f</sup></th> </tr> </thead> <tbody> <tr> <td>Value</td> <td>3</td> <td>0.3</td> <td>25</td> <td>10–100</td> <td>0.1</td> <td>0.1</td> </tr> </tbody> </table> <div class="table-wrap-foot_UNKNOWN"> <p><sup>a</sup>Following published estimates<sup><a href="#CR8">8</a>–<a href="#CR10">10</a></sup>.</p> <p><sup>b</sup>We use r<sub>min</sub> discussed in the early work on FIN<sup><a href="#CR5">5</a></sup>.</p> <p><sup>c</sup>We use the dielectric permittivity of HfO<sub>2</sub>.</p> <p><sup>d</sup>Because the values of interfacial energies in materials undergoing FIN are not available, we use the ballpark of typical values for a variety of other systems<sup><a href="#CR44">44</a>,<a href="#CR45">45</a></sup>.</p> <p><sup>e</sup>See the discussion after Eq. (<a href="#Equ1">1</a>).</p> <p><sup>f</sup>Thermal diffusivity estimated or HfO<sub>2</sub> based RRAM devices<sup><a href="#CR6">6</a></sup>.</p> </div> </div> <p /> <p id="Par20">Also, we note that the transition from the regime of constant field to constant voltage with dielectric thinning below 10 nm was observed in PCM devices<sup><a href="#CR25">25</a></sup>, although its original explanation was different. It was demonstrated that in 30 nm PCM structures switching is dominated by the field strength rather than voltage<sup><a href="#CR26">26</a></sup>.</p> </div> <div class="anotherscenariooffin" title="sec"> <div class="title" tagx="title" title="title">
+Another Scenario of FIN</div> <p id="Par21">The preceding section analysis tacitly assumed the polarization energy of a metal needle remaining cubic in length regardless of its closeness to opposite electrode. That assumption remains valid through almost the entire gap, since the electric field is strongly different from the uniform only in a small region ~<span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M37">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${r}^{2}/h\ll {h}_{{\rm{gap}}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+≪</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div> around the tip<sup><a href="#CR27">27</a></sup>.<p /> <p id="Par22">However, there is another gap related effect significantly contributing to the free energy: capacitive interaction between the CF tip and its opposite electrode. That interaction can be thought of as due to a flat plate capacitor formed by the tip’s end face and the opposite electrode, which may have a much larger area (for example in micron range) that can be approximated as infinite compared to the tip area. However the field distribution is strongly dominated by the smallest of the two plates, as was confirmed in our numerical COMSOL modeling. Using the flat plate capacitor formula leads to the energy contribution, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">11</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M39">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${F}_{C}=-\,\frac{C{U}^{2}}{2}\approx -\,\frac{\varepsilon {r}^{2}{U}^{2}}{8{h}_{{\rm{gap}}}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+−</div> <div class="mspace_UNKNOWN" /> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+C</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mo_UNKNOWN">
+−</div> <div class="mspace_UNKNOWN" /> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+8</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> </div> </div> </div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>where <i>C</i> is the flat plate capacitor capacitance, <i>U</i> is the voltage between the electrodes. Note that assuming other geometrical shapes of the tip (with the infinite opposite electrode) lead to only slightly different results<sup><a href="#CR28">28</a>,<a href="#CR29">29</a></sup>, where, for example, <i>r</i> is replaced with the electrode size in Eq. (<a href="#Equ11">11</a>) for the case of hyperboloid of revolution<sup><a href="#CR29">29</a></sup>.<p /> <p id="Par23">A comment is in order to explain the negative sign of <i>F</i><sub><i>C</i></sub> in Eq. (<a href="#Equ11">11</a>). In the process of changing the gap capacitance Δ<i>C</i> with its width <i>h</i><sub>gap</sub>, we assume that the system remains at constant voltage, so the capacitor energy changes by <i>U</i><sup>2</sup>Δ<i>C</i>/2. However, simultaneously the charge Δ<i>Q</i> = <i>U</i>Δ<i>C</i> passes through the power source, which requires the energy −<i>U</i>Δ<i>Q</i> = −<i>U</i><sup>2</sup>Δ<i>C</i> making the total energy change equal −<i>U</i><sup>2</sup>Δ<i>C</i>/2.</p> <p id="Par24">Based on Eqs (<a href="#Equ1">1</a>) and (<a href="#Equ11">11</a>) and assuming the TS case, the free energy of CF can be approximated as </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">12</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M41">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$F(h,r)=2\pi \gamma rh-\alpha {h}^{3}\varepsilon {(U/H)}^{2}-\frac{\varepsilon {r}^{2}{U}^{2}}{8(H-h)}.$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+α</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mn_UNKNOWN">
+3</div> </div> <div class="mi_UNKNOWN">
+ε</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+H</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+8</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+H</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par25">A major feature added here is a sharp energy decrease for relatively small gap widths <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M43">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${h}_{{\rm{gap}}}\ll H$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> </div> <div class="mo_UNKNOWN">
+≪</div> <div class="mi_UNKNOWN">
+H</div></div><span class="inline-graphic" title="inline-graphic" /></div> due to interaction between the CF tip and opposite electrode. We have verified the above heuristic free energy form of Eq. (<a href="#Equ12">12</a>) with COMSOL modeling for a variety of CF dimensions; one example is presented in Fig. <a href="#Fig3">3</a> for a cylinder shaped CF of radius <i>r</i> = 0.5 nm between two circular electrodes of radii 10 nm each. Overall, the analytical form of free energy in Eq. (<a href="#Equ12">12</a>) provides a description within ~10% of relative error. <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 3</span></a></div>   <p>The free energy of CF in a narrow gap between two electrodes. Symbols represent the results of the COMSOL numerical modeling for 0.5 nm radius CF between the two coaxial circular metal electrodes of 10 nm radius each. The solid line is a fit by Eq. (<a href="#Equ12">12</a>). The dashed line is the free energy corresponding to the same surface tension and polarization, but without the capacitive interaction.</p>   </div> <p /> <p id="Par26">The free energy of Eq. (<a href="#Equ12">12</a>) has a stationary point at certain <i>h</i> and <i>r</i> that can be determined analytically. Here we skip the corresponding cumbersome equations noting that, for that point, <i>D</i> ≡ ∂<sup>2</sup><i>F</i>/∂<i>h</i><sup>2</sup>∂<sup>2</sup><i>F</i>/∂<i>r</i><sup>2</sup> − (∂<sup>2</sup><i>F</i>/∂<i>h</i>∂<i>r</i>)<sup>2</sup> &amp;gt; 0 and ∂<sup>2</sup><i>F</i>/∂<i>h</i><sup>2</sup> &amp;lt; 0, ∂<sup>2</sup><i>F</i>/∂<i>r</i><sup>2</sup> &amp;lt; 0, which identifies it as a maximum.</p> <p id="Par27">The case of a maximum stationary point in free energy landscape is similar to that of the standard field induced transformation scenario described in the preceding section: the phase transformation barrier is determined by the minimum acceptable radius <i>r</i><sub>min</sub>. Its related gap width is given by <i>dF</i>(<i>h</i>, <i>r</i><sub>min</sub>)/<i>dh</i> = 0 with <i>F</i> from Eq. (<a href="#Equ12">12</a>). Because the polarization term [second on the right hand side of Eq. (<a href="#Equ12">12</a>)] is relatively unimportant for <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M45">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$H-h\ll H$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+H</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+≪</div> <div class="mi_UNKNOWN">
+H</div></div><span class="inline-graphic" title="inline-graphic" /></div>, we get, <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">13</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M47">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$H-h=H\frac{U}{2{U}_{\gamma }}\,{\rm{where}}\,{U}_{\gamma }\equiv \sqrt{\frac{4\pi \gamma {H}^{2}}{\varepsilon {r}_{{\rm{\min }}}}}.$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+H</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+h</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+H</div> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> </div> </div> </div> </div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+where</div> <div class="mspace_UNKNOWN" /> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> </div> </div> <div class="mo_UNKNOWN">
+≡</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+4</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+γ</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+H</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par28">The corresponding barrier height is given by, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">14</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M49">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$W={W}_{0}(1-U/{U}_{\gamma }),$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+/</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+,</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>leading to the nucleation time exponentially dependent on bias. We conclude that the above introduced capacitive interaction acts as a sort of clutch decreasing CF energy in a narrow interval of its heights close to the opposite electrode. The corresponding nucleation barrier decreases with voltage linearly unlike the standard FIN dependence in Eq. (<a href="#Equ6">6</a>).<p /> <p id="Par29">Note that the parameters from Table <a href="#Tab1">1</a>, yield a numerical estimate of the characteristic voltage <i>U</i><sub><i>γ</i></sub> ~ 3 V. The corresponding gap width from Eq. (<a href="#Equ13">13</a>) is typically in sub-nanometer range. For small enough voltages, Eq. (<a href="#Equ13">13</a>) predicts <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M51">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${h}_{{\rm{gap}}}\lesssim 1$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> </div> <div class="mo_UNKNOWN">
+≲</div> <div class="mn_UNKNOWN">
+1</div></div><span class="inline-graphic" title="inline-graphic" /></div> Å, which raises a question on applicability of this theory, since that narrow gaps would allow significant electric currents, energy dissipation, and electric shorting.<p /> <p id="Par30">To understand the role of the latter effects, we note the very short thermalization time <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M53">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\tau }_{T}\sim {h}_{{\rm{gap}}}^{2}/\kappa \lesssim 0.1$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> </div> <div class="mo_UNKNOWN">
+∼</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+gap</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+κ</div> <div class="mo_UNKNOWN">
+≲</div> <div class="mn_UNKNOWN">
+0.1</div></div><span class="inline-graphic" title="inline-graphic" /></div> ps where <i>κ</i> is the thermal diffusivity ensuring local quasi-equilibrium. The dissipation will increase the quasi-equilibrium temperature, thus accelerating the nucleation. On the other hand, the concomitant electric shorting, would decrease the electrostatic energy of the entire device towards its final value corresponding to the fully formed CF. That decrease aggravates the free energy falloff again helping nucleation.<p /> <p id="Par31">The quantitative description of the above mentioned transient temperature increase and shorting effect fall beyond the present scope. Therefore, we should admit a degree of uncertainty making the proposed FIN scenario questionable for small enough voltages. If that scenario does not work, the structures with nano-gaps can work only as TS and not memory when their applied biases are below <i>U</i><sub><i>ms</i></sub>. The viability of ~1 Å gaps between the nucleated CF and opposite electrode may depend on the morphology of materials involved.</p> </div> <div class="interplayoftwofinscenarios" title="sec"> <div class="title" tagx="title" title="title">
+Interplay of Two FIN Scenarios</div> <p id="Par32">The interplay between the standard and here developed FIN models is described by two relations, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">15</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M55">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{{U}_{\gamma }}{{U}_{s}}=\sqrt{2\alpha }\frac{H}{{r}_{{\rm{\min }}}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+α</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+H</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> </div> </div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>and <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">16</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M57">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{{W}_{{\rm{new}}}}{{W}_{{\rm{stand}}}}=(\frac{{3}^{3/2}}{2})\frac{U(1-U/{U}_{\gamma })}{{U}_{s}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+new</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+W</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+stand</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+/</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+γ</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>where the nucleation barriers <i>W</i><sub>stand</sub> and <i>W</i><sub>new</sub> are given respectively by Eqs (<a href="#Equ4">4</a>) and (<a href="#Equ14">14</a>). Comparing the barrier shapes in Figs <a href="#Fig2">2</a> and <a href="#Fig3">3</a> we then conclude that the standard FIN scenario dominates (i. e. <i>W</i><sub>stand</sub> &amp;lt; <i>W</i><sub>new</sub>) when <i>U</i> &amp;gt; <i>U</i><sub><i>c</i></sub> ≡ 2/(3)<sup>3/2</sup> <i>U</i><sub><i>s</i></sub>. That is the same range of voltages where the standard FIN theory predicts the voltage dependence of <i>τ</i> in Eq. (<a href="#Equ6">6</a>). We recall, in addition, that the transition between the two FIN scenarios has a threshold nature at voltage <i>U</i><sub><i>ms</i></sub> = <i>E</i><sub><i>ms</i></sub><i>h</i><sub>gap</sub> [see Eq. (<a href="#Equ7">7</a>)]. That is slightly above <i>U</i><sub><i>c</i></sub>, since, based on their definitions, <i>U</i><sub><i>c</i></sub> = (2/3)<i>U</i><sub><i>ms</i></sub>. Such a behavior is illustrated in Fig. <a href="#Fig4">4</a> (Left). <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 4</span></a></div>   <p><i>Left</i>: A sketch of the FIN barrier voltage dependence, linear in low voltage region and hyperbolic for higher voltages. <i>Right</i>: The filament free energies with (solid line) and without (dashed line) the tip electrode interaction [the last term in Eq. (<a href="#Equ12">12</a>)] taken into account.</p>   </div> <p /> <p id="Par33">It should be noted in addition that the criterion of nucleation in the standard FIN scenario depends on the post-nucleation CF evolution and conditions determining the desired lifetime of the initially metastable CF created under voltage above <i>U</i><sub><i>ms</i></sub>. In general, the sufficient voltage is determined by the condition that the nucleated CF survives the desired time as specified in Eq. (<a href="#Equ9">9</a>). However, the results presented in Sec. III show that the tip-electrode interaction can transform the metastable CF into a stable one as illustrated in Fig. <a href="#Fig4">4</a> (Right).</p> <p id="Par34">The above consideration predicts that, given all other factors, the switching voltage should decrease when the gap <i>H</i> decreases. Indeed, using <i>τ</i> = <i>τ</i><sub>0</sub> exp(<i>W</i>/<i>kT</i>) along with Eq. (<a href="#Equ14">14</a>), the voltage capable of triggering nucleation over time <i>τ</i> becomes, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">17</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M59">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$U(\tau )=[H-\frac{kT}{2\pi \gamma {r}_{{\rm{\min }}}}\,\mathrm{ln}\,(\frac{\tau }{{\tau }_{0}})]\sqrt{\frac{4\pi \gamma }{\varepsilon {r}_{{\rm{\min }}}}},$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+U</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+τ</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+[</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+H</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+γ</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> </div> </div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+ln</div> <div class="mspace_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> </div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+4</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+γ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+min</div> </div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+,</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par35">It increases with <i>H</i> for any given exposure time. The latter prediction is consistent with the data<sup><a href="#CR10">10</a>–<a href="#CR12">12</a></sup> showing how the switching voltage in a formed structure is by a factor 2–4 lower than the forming voltage.</p> </div> <div class="electronicswitching" title="sec"> <div class="title" tagx="title" title="title">
+Electronic Switching</div> <p id="Par36">A number of recent publications<sup><a href="#CR30">30</a>–<a href="#CR35">35</a></sup> theoretically studied purely switching (without any structural transformations) that might pertain to threshold switches operating as selector devices in modern solid state memory arrays. Their underlying thermal runaway scenario utilizes a non-linear current voltage characteristic where the conductivity is thermally and field activated, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">18</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M61">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sigma ={\sigma }_{0}\,\exp (\,-\,w/kT)\,{\rm{with}}\,w={w}_{0}-\delta w(E).$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+exp</div> <div class="mo_UNKNOWN">
+(</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+−</div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+k</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+)</div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+with</div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+δ</div> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+E</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par37">Here <i>δw</i>(<i>E</i>) is the field induced decrease in the activation energy of conductivity. A local lateral variation of current will then generate excessive local heat and temperature additionally increasing the current density at that location, etc.; hence, thermal electron instability evolving into a narrow filament carrying high electric current. The formation of such a filament is identified as switching.</p> <p id="Par38">Because the underlying modeling<sup><a href="#CR30">30</a>–<a href="#CR35">35</a></sup> remains numerical, here, we give a simple analytical treatment allowing to examine the corresponding parameter ranges. We start with the standard 3D heat transfer equation <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M63">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$c\partial T/\partial t=\chi {\nabla }^{2}T+\sigma {E}^{2}=0$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+∂</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+∂</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+χ</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∇</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+σ</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div></div><span class="inline-graphic" title="inline-graphic" /></div> where the thermal capacitance (<i>c</i>), thermal conductivity (<i>χ</i>), and electric conductivity taking their respective values in the semiconductor and metal electrode materials forming a structure with axial symmetry shown in Fig. <a href="#Fig5">5</a>. <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 5</span></a></div>   <p>A sketch of a semiconductor layer (transparent) between two metal electrodes (grey) of thickness <i>L</i> each. The bottom view shows a hot spot caused by the runaway instability. <i>χ</i><sub><i>s</i></sub> and <i>χ</i><sub><i>e</i></sub> are respectively the thermal conductivities of the semiconductor and electrode materials, <i>σ</i> is the semiconductor conductivity, <i>E</i> is the electric field, and <i>T</i><sub>0</sub> is the temperature on the external electrode surfaces.</p>   </div> <p /> <p id="Par39">Given the ambient temperature <i>T</i><sub>0</sub> at the external surfaces and the Neumann boundary conditions at the electrode-semiconductor interfaces, it was shown<sup><a href="#CR36">36</a></sup> that averaging the semiconductor temperature along the transversal direction (between the electrodes) reduces the heat transport equation to the form </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">19</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M65">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{{c}_{s}}{{\chi }_{s}}\frac{\partial T}{\partial t}={\nabla }^{2}T+{\beta }^{2}({T}_{0}-T)+\frac{\sigma {E}^{2}}{{\chi }_{s}},\,{\beta }^{2}\equiv \frac{2{\chi }_{e}}{{\chi }_{s}HL}.$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+∂</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∇</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
++</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mspace_UNKNOWN" /> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+≡</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mi_UNKNOWN">
+H</div> <div class="mi_UNKNOWN">
+L</div> </div> </div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par40">Here <i>T</i> depends on the radial coordinate <i>r</i>, indexes <i>s</i> and <i>e</i> denote respectively the semiconductor and electrode materials. <i>β</i> is a reciprocal thermal length characterizing the decay of radial nonuniformities. Note that the second and third terms on the right-hand-side represents respectively heat dissipation and evolution.</p> <p id="Par41">Equation (<a href="#Equ19">19</a>) along with Eq. (<a href="#Equ18">18</a>) allows the standard linear stability analysis constituting a natural approach to studying run-away phenomena. Along the standard lines<sup><a href="#CR37">37</a></sup>, it introduces small deviations from the average quantities, then linearizes the equations with respect to the deviations, and establishes the nature of temporal evolution of the latter (growing or decaying) by introducing their Fourier expansions.</p> <p id="Par42">More specifically, we introduce the average lateral temperature <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M67">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\overline{T}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div> and substitute <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">20</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M69">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\delta T\equiv T-\overline{T}=\sum _{q}\,{T}_{q}\,\exp (i{\omega }_{q}t-iqr)\,(\,\ll \,\overline{T}),$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+δ</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+≡</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+−</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="munder_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mi_UNKNOWN">
+q</div> </div> </div> <div class="mspace_UNKNOWN" /> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> </div> </div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+exp</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+i</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> </div> </div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+i</div> <div class="mi_UNKNOWN">
+q</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+(</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+≪</div> <div class="mspace_UNKNOWN" /> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+,</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>into Eqs (<a href="#Equ18">18</a>) and (<a href="#Equ19">19</a>). Linearizing the latter yields, <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">21</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M71">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$(\overline{T}-{T}_{0})\frac{{\beta }^{2}{\chi }_{s}}{{\sigma }_{0}{E}^{2}}=\exp (-\frac{w}{k\overline{T}})$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+exp</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div>and <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">22</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M73">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\frac{{c}_{s}}{{\chi }_{s}}i{\omega }_{q}=-\,{q}^{2}-{\beta }^{2}+\frac{{\sigma }_{0}{E}^{2}}{{\chi }_{s}}\frac{w}{k{\overline{T}}^{2}}\,\exp \,(-\frac{w}{k\overline{T}}).$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mi_UNKNOWN">
+i</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+−</div> <div class="mspace_UNKNOWN" /> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+exp</div> <div class="mspace_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par43">The instability takes place for positive real values of <i>iω</i> [the corresponding temporal exponents in Eq. (<a href="#Equ20">20</a>) increase]. For the modes with <i>q</i> below a certain wave number <i>q</i><sub>0</sub>, the latter criterion reduces to the form, </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">23</span><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M75">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\lambda \equiv \frac{\overline{T}-{T}_{0}}{\overline{T}}\frac{w}{k\overline{T}}\frac{{\beta }^{2}}{{\beta }^{2}+{q}_{0}^{2}}\ge {\lambda }_{cr}=1.$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> <div class="mo_UNKNOWN">
+≡</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+≥</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+r</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1.</div></div><div class="graphic_UNKNOWN" position="anchor" /> </div> </div> <p /> <p id="Par44">While derived differently, the inequality in Eq. (<a href="#Equ23">23</a>) is similar to the classical criterion<sup><a href="#CR38">38</a>,<a href="#CR39">39</a></sup><span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M77">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\lambda \ge {\lambda }_{cr}\approx 0.88$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> <div class="mo_UNKNOWN">
+≥</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+r</div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mn_UNKNOWN">
+0.88</div></div><span class="inline-graphic" title="inline-graphic" /></div> for 1D thermal instability with <i>q</i><sub>0</sub> = 0 and <i>β</i> = <i>H</i>/2.<p /> <p id="Par45">A graphical representation in Fig. <a href="#Fig6">6</a> shows that when the field is low enough, Eq. (<a href="#Equ21">21</a>) has three solutions: low (<i>T</i><sub><i>l</i></sub>) corresponding to the uniform current flow, high (<i>T</i><sub><i>h</i></sub>) for the hot spot, and intermediate (<i>T</i><sub><i>unst</i></sub>), which is unstable as seen from the relationship between the heat evolution and dissipation [cf. the note after Eq. (<a href="#Equ19">19</a>)]. That conclusion agrees with the general phenomenological analysis of thermal instabilities<sup><a href="#CR40">40</a></sup>. Furthermore, the condition for critical field (straight line tangential to the exponential curve in Fig. <a href="#Fig6">6</a>) self-consistently coincides with the criterion in Eq. (<a href="#Equ23">23</a>) when <i>q</i> = 0. </p><div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 6</span></a></div>   <p>A sketch of the graphical solution of Eq. (<a href="#Equ21">21</a>) where the straight line and the curve represent its left- and right-hand sides. Note that the curve is S-shaped and thus crosses the straight line three times, because it describes the exponent linear in −1/<i>T</i> (rather than <i>T</i>).</p>   </div> <p /> <p id="Par46">The above simplistic analysis provides approximate numerical results given the same parameters as in the published numerical modeling<sup><a href="#CR30">30</a>–<a href="#CR35">35</a></sup>. For example, assuming values<sup><a href="#CR34">34</a></sup><i>E</i> = 10<sup>8</sup> V/m, <i>σ</i><sub>0</sub> = 10<sup>7</sup> S/m, <i>χ</i><sub><i>s</i></sub> = 0.12 Wm<sup>−1</sup> K<sup>−1</sup>, <i>H</i> = 10 nm, <i>L</i> = 30 nm, <i>χ</i><sub><i>e</i></sub>/<i>χ</i><sub><i>s</i></sub> = 170, <i>R</i> = 60 nm, yields <i>β</i><sup>2</sup> ≈ 10<sup>18</sup> m<sup>−2</sup>, and <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M79">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$w/k\overline{T}=\,\mathrm{ln}\,\{{\sigma }_{0}{E}^{2}/[{\beta }^{2}{\chi }_{s}(\overline{T}-{T}_{0})]\}\approx 7$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+k</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mspace_UNKNOWN" /> <div class="mi_UNKNOWN">
+ln</div> <div class="mspace_UNKNOWN" /> <div class="mo_UNKNOWN">
+{</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+σ</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mo_UNKNOWN">
+[</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+χ</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+]</div> <div class="mo_UNKNOWN">
+}</div> <div class="mo_UNKNOWN">
+≈</div> <div class="mn_UNKNOWN">
+7</div></div><span class="inline-graphic" title="inline-graphic" /></div>. Here we have rather arbitrarily approximated <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M81">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$(\overline{T}-{T}_{0})={T}_{0}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div></span> under the logarithm, which has no significant effect when it appears with a multiplier that is by many orders of magnitude bigger than <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M83">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$(\overline{T}-{T}_{0})$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div></div><span class="inline-graphic" title="inline-graphic" /></div></span>. Substituting into Eq. (<a href="#Equ23">23</a>) gives <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M85">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$7(\overline{T}-{T}_{0})/\overline{T}=1$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mn_UNKNOWN">
+7</div> <div class="mo_UNKNOWN">
+(</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+/</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div></div><span class="inline-graphic" title="inline-graphic" /></div></span>, i. e. the switching temperature <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M87">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\overline{T}\approx 340$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mn_UNKNOWN">
+340</div></div><span class="inline-graphic" title="inline-graphic" /></div></span> K, in fare agreement with numerical simulations<sup><a href="#CR34">34</a></sup>.<p /> <p id="Par47">Furthermore, the estimated <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M89">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\overline{T}\approx 340$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+≈</div> <div class="mn_UNKNOWN">
+340</div></div><span class="inline-graphic" title="inline-graphic" /></div> K and <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M91">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$w/k\overline{T}=7$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+k</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+7</div></div><span class="inline-graphic" title="inline-graphic" /></div></span> yield <i>w</i> ≈ 0.21 eV, which must be interpreted as the barrier for the above used <i>E</i> = 10<sup>8</sup> V/m. Any assumptions about that barrier field dependence are not necessary as long as <i>w</i> remains an adjustable parameter. That pertains to all the preceding numerical modeling<sup><a href="#CR30">30</a>–<a href="#CR35">35</a></sup> carried out under the assumptions of <i>δw</i>(<i>E</i>) following the Pool-Frenkel law. We would like to emphasize that thermal runaway switching will take place for any model of thermally activated conductivity with or without field or voltage dependent barrier. In particular, a close fitting of switching currents with the Pool-Frenkel based modeling curves does not appear indicative of that law. Of course, the switching field will depend <i>δw</i>(<i>E</i>) when the value of zero field barrier <i>w</i><sub>0</sub> is postulated.<p /> <p id="Par48">The case of very thin dielectrics requires additional comments when the electron transport is ballistic violating the assumption of power generation inside the structure. That assumption underlies the term proportional to <i>σE</i><sup>2</sup> in Eq. (<a href="#Equ19">19</a>); it was adopted in all the preceding modeling work<sup><a href="#CR30">30</a>–<a href="#CR35">35</a></sup>. The switching processes of interest take place under voltages of ~1 V, which means that electrons dissipate the energy of ~1 eV (between the electrode quasi-Fermi levels). For the case of ballistic transport, it will be injected in the opposite electrode as the electron kinetic energy with the relaxation length <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M93">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {\mathcal L} $$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+ℒ</div></div><span class="inline-graphic" title="inline-graphic" /></div> is on the order of tens of nanometers even for amorphous materials<sup><a href="#CR41">41</a></sup>. Since <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M95">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {\mathcal L} \gg H$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+ℒ</div> <div class="mo_UNKNOWN">
+≫</div> <div class="mi_UNKNOWN">
+H</div></div><span class="inline-graphic" title="inline-graphic" /></div></span>, the heat is generated in the layer of thickness ~<span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M97">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ {\mathcal L} $$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+ℒ</div></div><span class="inline-graphic" title="inline-graphic" /></div></span>, and its transport is dominated by the conductive material. When that type of transport takes place, the mechanism of thermal runaway electronic switching outlined in the beginning of this section becomes irrelevant.<p /> <p id="Par49">Some additional observations are as follows. </p><ul> <li><span class="label" tagx="label" title="label">(i)</span><p id="Par50">Using the available data, Eq. (<a href="#Equ23">23</a>) shows that switching takes place when the barrier is still significant, <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M99">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$w/kT\gg 1$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+k</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
+≫</div> <div class="mn_UNKNOWN">
+1</div></div><span class="inline-graphic" title="inline-graphic" /></div>. With that in mind, one can approximate the required barrier suppression vs. gap width, <i>δw</i>(<i>E</i>) = const + <i>kT</i> ln <i>H</i>, which dependence may be too weak to resolve experimentally.<p /> </li> <li><span class="label" tagx="label" title="label">(ii)</span><p id="Par51">Unlike FIN, the runaway model per se does not predict any delay time between voltage pulse and switching. The observed delay was attributed in that model to the thermalization time<sup><a href="#CR30">30</a></sup> or left without explicit interpretation<sup><a href="#CR35">35</a></sup>.</p> <p id="Par52">We note here that the thermalization attributed delay time must be controlled by the conductivity, which is activated over the characteristic time <i>τ</i> ∝ exp[−<i>δw</i>(<i>E</i>)/<i>T</i>] [cf. Eq. (<a href="#Equ18">18</a>)]. That delay time is exponential in voltage as intended to fit the data. That leads to the prediction that the delay time is reciprocal of the voltage dependent conductivity, which is open for experimental verifications. Note that FIN predictions for <i>τ</i>(<i>U</i>) are quite different as specified in Eqs (<a href="#Equ6">6</a>) and (<a href="#Equ14">14</a>).</p> </li> <li><span class="label" tagx="label" title="label">(iii)</span><p id="Par53">The above analysis will describe the finite area effects when we set <i>q</i><sub>0</sub> = 2<i>π</i>/<i>R</i> where <i>R</i> is the device radius taking into account, along the general lines, that the strongly oscillating terms with <i>q</i> &amp;gt; 2<i>π</i>/<i>R</i> in the expansion of Eq. (<a href="#Equ20">20</a>) are immaterial. With that in mind, Eqs (<a href="#Equ21">21</a>) and (<a href="#Equ23">23</a>) predict that switching requires temperature increase <span class="inline-formula" title="inline-formula"> </span></p><div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M101">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$(\overline{T}-{T}_{0})$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div></div><span class="inline-graphic" title="inline-graphic" /></div> that are by the factor of 1 + 4<i>π</i><sup>2</sup>(<i>β</i><sup>2</sup><i>R</i><sup>2</sup>)<sup>−1</sup> greater than that for infinitely large devices. Since <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M103">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$(\overline{T}-{T}_{0})\propto {E}^{2}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+∝</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+E</div> </div> <div class="mn_UNKNOWN">
+2</div> </div></div><span class="inline-graphic" title="inline-graphic" /></div></span>, we conclude that the switching fields and potentials scale as <span class="inline-formula" title="inline-formula"> <div class="alternatives" title="alternatives"> <div class="tex" title="tex"> <div class="tex-math_UNKNOWN" id="M105">
+\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sqrt{1+4{\pi }^{2}{({\beta }^{2}{R}^{2})}^{-1}}$$\end{document}</div> </div><div class="math_UNKNOWN"> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+4</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+π</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+β</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div></div><span class="inline-graphic" title="inline-graphic" /></div></span> with device size, which is at least qualitatively consistent with the results of numerical modeling<sup><a href="#CR31">31</a></sup>. That scaling becomes practically important for nano-sized devices. No such scaling is predicted by FIN where switching field remains independent of device diameter.<p /> </li> </ul> <p /> <p id="Par54">The above (ii) and (iii) can be used to experimentally decide between the switching mechanisms of FIN and thermal runaway. A general concern about the latter arises for the case of submicron and especially nanometer thick amorphous structures with transversal conduction varying by many orders of magnitude between different spots<sup><a href="#CR42">42</a></sup>, which strongly affect the thermal runaway mechanism<sup><a href="#CR43">43</a></sup>.</p> </div> <div class="conclusion" title="conclusion"> <div class="title" tagx="title" title="title">
+Conclusions</div> <p id="Par55">We have shown that, </p><ol> <li> <p id="Par56">FIN in narrow (shorter than the critical nucleation length) gaps between two metal electrodes exhibits new trends governed by certain characteristic voltages in the practically interesting range.</p> </li> <li> <p id="Par57">There exists the characteristic voltage <i>U</i><sub><i>ms</i></sub> independent of the gap width, below which the nucleation barrier decreases with voltage linearly, while it is reciprocal of voltage above <i>U</i><sub><i>ms</i></sub>, and the transition is of threshold nature independent of the gap width.</p> </li> <li> <p id="Par58">For some materials and structure thicknesses, nucleation of CF can result in functionality of only TS without memory.</p> </li> <li> <p id="Par59">Our analytical consideration of thermal runaway switching provides results consistent with the earlier published numerical modeling and leads to several predictions offering experimental verifications deciding between the mechanisms of FIN and thermal runaway.</p> </li> </ol> <p /> </div> </div> <div class="back" title="back"> <div class="fn-group" title="fn-group"> <div class="fn-type-" title=""> <p><b>Publisher's note:</b> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p> </div> </div> <div class="ack" title="ack"> <div class="title" tagx="title" title="title">
+Acknowledgements</div> <p>This work was supported in part by the Semiconductor Research Corporation (SRC) under Contract No. 2016-LM-2654. We are grateful to I. V. Karpov and R. Kotlyar for useful discussions.</p> </div> <div class="title" tagx="title" title="title">
+Author Contributions</div> <p>V.G.K. wrote the main manuscript text and D.N. carried out COMSOL numerical modeling. Both authors critically read and contributed to the manuscript preparation, and also reviewed the manuscript.</p> <div class="competinginterests" title="sec"> <div class="title" tagx="title" title="title">
+Competing Interests</div> <p>The authors declare no competing interests.</p> </div> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+References</div> <li tag="ref"><a name="CR1" /><span class="label" tagx="label" title="label">1.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><i>Phase Change Memory</i>: <i>Device Physics</i>, <i>Reliability and Applications</i>, Edited by Redaelli, Andrea (Editor) (Springer 2017).</span></li> <li tag="ref"><a name="CR2" /><span class="label" tagx="label" title="label">2.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><i>Resistive Switching</i>: <i>From Fundamentals of Nanoionic Redox Processes to Memristive Device Applications</i>, Edited by Ielmini, Daniele &amp;amp; Waser, Rainer (Wiley-VCH, 2016).</span></li> <li tag="ref"><a name="CR3" /><span class="label" tagx="label" title="label">3.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">Z</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Threshold Switching of Ag or Cu in Dielectrics: Materials, Mechanism, and Applications</span><span class="source" tagx="source" title="source">Advanced Functional Materials</span><span class="year" tagx="year" title="year">2018</span><span class="volume" tagx="volume" title="volume">28</span><span class="fpage" tagx="fpage" title="fpage">1704862</span><span class="pub-id"><a href="https://dx.doi.org/10.1002/adfm.201704862">10.1002/adfm.201704862</a></span></span></li> <li tag="ref"><a name="CR4" /><span class="label" tagx="label" title="label">4.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lombardo</span><span class="given-names" tagx="given-names" title="given-names">S</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Dielectric breakdown mechanisms in gate oxides</span><span class="source" tagx="source" title="source">J. Appl. Phys.</span><span class="year" tagx="year" title="year">2005</span><span class="volume" tagx="volume" title="volume">98</span><span class="fpage" tagx="fpage" title="fpage">121301</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.2147714">10.1063/1.2147714</a></span></span></li> <li tag="ref"><a name="CR5" /><span class="label" tagx="label" title="label">5.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">VG</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kryukov</span><span class="given-names" tagx="given-names" title="given-names">YA</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">IV</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mitra</span><span class="given-names" tagx="given-names" title="given-names">M</span></span></span><span class="mixed-article-title" title="mixed-article-title">Field-induced nucleation in phase change memory</span><span class="source" tagx="source" title="source">Phys. Rev. B</span><span class="year" tagx="year" title="year">2008</span><span class="volume" tagx="volume" title="volume">78</span><span class="fpage" tagx="fpage" title="fpage">052201</span><span class="pub-id"><a href="https://dx.doi.org/10.1103/PhysRevB.78.052201">10.1103/PhysRevB.78.052201</a></span></span></li> <li tag="ref"><a name="CR6" /><span class="label" tagx="label" title="label">6.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">VG</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Niraula</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">IV</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kotlyar</span><span class="given-names" tagx="given-names" title="given-names">R</span></span></span><span class="mixed-article-title" title="mixed-article-title">Thermodynamics of Phase Transitions and Bipolar Filamentary Switching in Resistive Random-Access Memory</span><span class="source" tagx="source" title="source">Phys. Rev. Applied</span><span class="year" tagx="year" title="year">2017</span><span class="volume" tagx="volume" title="volume">8</span><span class="fpage" tagx="fpage" title="fpage">024028</span><span class="pub-id"><a href="https://dx.doi.org/10.1103/PhysRevApplied.8.024028">10.1103/PhysRevApplied.8.024028</a></span></span></li> <li tag="ref"><a name="CR7" /><span class="label" tagx="label" title="label">7.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Le Gallo</span><span class="given-names" tagx="given-names" title="given-names">M</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Athmanathan</span><span class="given-names" tagx="given-names" title="given-names">A</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Krebs</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sebastian</span><span class="given-names" tagx="given-names" title="given-names">A</span></span></span><span class="mixed-article-title" title="mixed-article-title">Evidence for thermally assisted threshold switching behavior in nanoscale phasechange memory cells</span><span class="source" tagx="source" title="source">J. Appl. Phys.</span><span class="year" tagx="year" title="year">2016</span><span class="volume" tagx="volume" title="volume">119</span><span class="fpage" tagx="fpage" title="fpage">025704</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.4938532">10.1063/1.4938532</a></span></span></li> <li tag="ref"><a name="CR8" /><span class="label" tagx="label" title="label">8.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Pickett</span><span class="given-names" tagx="given-names" title="given-names">MD</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Switching dynamics in titanium dioxide memristive devices</span><span class="source" tagx="source" title="source">J. Appl. Phys.</span><span class="year" tagx="year" title="year">2009</span><span class="volume" tagx="volume" title="volume">106</span><span class="fpage" tagx="fpage" title="fpage">074508</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.3236506">10.1063/1.3236506</a></span></span></li> <li tag="ref"><a name="CR9" /><span class="label" tagx="label" title="label">9.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Cagli, C. <i>et al</i>. About the intrinsic resistance variability in HfO2-based RRAM devices. <i>2017 Joint International EUROSOI Workshop and International Conference on Ultimate Integration on Silicon</i> (<i>EUROSOI</i>-<i>ULIS</i>), 10.1109/ULIS.2017.7962593 Gap = 1–3 nm (IEEE, Athene, Greece, 2017).</span></li> <li tag="ref"><a name="CR10" /><span class="label" tagx="label" title="label">10.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Long</span><span class="given-names" tagx="given-names" title="given-names">B</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Li</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mandal</span><span class="given-names" tagx="given-names" title="given-names">S</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Jha</span><span class="given-names" tagx="given-names" title="given-names">R</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Leedy</span><span class="given-names" tagx="given-names" title="given-names">K</span></span></span><span class="mixed-article-title" title="mixed-article-title">Switching dynamics and charge transport studies of resistive random access memory devices</span><span class="source" tagx="source" title="source">Appl. Phys. Lett.</span><span class="year" tagx="year" title="year">2012</span><span class="volume" tagx="volume" title="volume">101</span><span class="fpage" tagx="fpage" title="fpage">113503</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.4749809">10.1063/1.4749809</a></span></span></li> <li tag="ref"><a name="CR11" /><span class="label" tagx="label" title="label">11.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Larentis, S., Nardi, F., Balatti, S., Ielmini, D. &amp;amp; Gilmer, D. C. Bipolar-Switching Model of RRAM by Field- and Temperature-Activated Ion Migration. <i>Memory Workshop</i> (<i>IMW</i>), <i>2012 4th IEEE International</i>, 10.1109/IMW.2012.6213648 (2012).</span></li> <li tag="ref"><a name="CR12" /><span class="label" tagx="label" title="label">12.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Valov</span><span class="given-names" tagx="given-names" title="given-names">I</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Staikov</span><span class="given-names" tagx="given-names" title="given-names">G</span></span></span><span class="mixed-article-title" title="mixed-article-title">Nucleation and growth phenomena in nanosized electrochemical systems for resistive switching memories</span><span class="source" tagx="source" title="source">J Solid State Electrochem</span><span class="year" tagx="year" title="year">2013</span><span class="volume" tagx="volume" title="volume">17</span><span class="fpage" tagx="fpage" title="fpage">365</span><span class="pub-id"><a href="https://dx.doi.org/10.1007/s10008-012-1890-5">10.1007/s10008-012-1890-5</a></span></span></li> <li tag="ref"><a name="CR13" /><span class="label" tagx="label" title="label">13.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Landau</span><span class="given-names" tagx="given-names" title="given-names">LD</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lifsitz</span><span class="given-names" tagx="given-names" title="given-names">EM</span></span></span><span class="source" tagx="source" title="source">Electrodynamics of Continuous Media</span><span class="year" tagx="year" title="year">1984</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Oxford</span><span class="publisher-name" tagx="publisher-name" title="publisher-name">Pergamon</span></span></li> <li tag="ref"><a name="CR14" /><span class="label" tagx="label" title="label">14.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nardone</span><span class="given-names" tagx="given-names" title="given-names">M</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">VG</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Jackson</span><span class="given-names" tagx="given-names" title="given-names">C</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">IV</span></span></span><span class="mixed-article-title" title="mixed-article-title">Unified Model of Nucleation Switching</span><span class="source" tagx="source" title="source">Appl. Phys. Lett.</span><span class="year" tagx="year" title="year">2009</span><span class="volume" tagx="volume" title="volume">94</span><span class="fpage" tagx="fpage" title="fpage">103509</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.3100779">10.1063/1.3100779</a></span></span></li> <li tag="ref"><a name="CR15" /><span class="label" tagx="label" title="label">15.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bernard</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gonon</span><span class="given-names" tagx="given-names" title="given-names">P</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Jousseaume</span><span class="given-names" tagx="given-names" title="given-names">V</span></span></span><span class="mixed-article-title" title="mixed-article-title">Resistance switching of Cu/SiO2Cu/SiO2 memory cells studied under voltage and current-driven modes</span><span class="source" tagx="source" title="source">Appl. Phys. Lett.</span><span class="year" tagx="year" title="year">2010</span><span class="volume" tagx="volume" title="volume">96</span><span class="fpage" tagx="fpage" title="fpage">193502</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.3428779">10.1063/1.3428779</a></span></span></li> <li tag="ref"><a name="CR16" /><span class="label" tagx="label" title="label">16.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sharma</span><span class="given-names" tagx="given-names" title="given-names">AA</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Dynamics of electroforming in binary metal oxide-based resistive switching memory</span><span class="source" tagx="source" title="source">J. Appl. Phys.</span><span class="year" tagx="year" title="year">2015</span><span class="volume" tagx="volume" title="volume">118</span><span class="fpage" tagx="fpage" title="fpage">114903</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.4930051">10.1063/1.4930051</a></span></span></li> <li tag="ref"><a name="CR17" /><span class="label" tagx="label" title="label">17.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yoo</span><span class="given-names" tagx="given-names" title="given-names">J</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Park</span><span class="given-names" tagx="given-names" title="given-names">J</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Song</span><span class="given-names" tagx="given-names" title="given-names">J</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lim</span><span class="given-names" tagx="given-names" title="given-names">S</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hwang</span><span class="given-names" tagx="given-names" title="given-names">H</span></span></span><span class="mixed-article-title" title="mixed-article-title">Field-induced nucleation in threshold switching characteristics of electrochemical metallization devices</span><span class="source" tagx="source" title="source">Appl. Phys. Lett.</span><span class="year" tagx="year" title="year">2017</span><span class="volume" tagx="volume" title="volume">111</span><span class="fpage" tagx="fpage" title="fpage">063109</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.4985165">10.1063/1.4985165</a></span></span></li> <li tag="ref"><a name="CR18" /><span class="label" tagx="label" title="label">18.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Krebs</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Threshold field of phase change memory materials measured using phase change bridge devices</span><span class="source" tagx="source" title="source">Appl. Phys. Lett.</span><span class="year" tagx="year" title="year">2009</span><span class="volume" tagx="volume" title="volume">95</span><span class="fpage" tagx="fpage" title="fpage">082101</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.3210792">10.1063/1.3210792</a></span></span></li> <li tag="ref"><a name="CR19" /><span class="label" tagx="label" title="label">19.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"> Fantini, A. <i>et al</i>. Intrinsic Switching Behavior in HfO2 RRAM by Fast Electrical Measurements on Novel 2R Test Structures. <i>2012 4th IEEE International Memory Workshop</i>, Milan, May 20–23, IEEE, 10.1109/IMW.2012.6213646 (2012).</span></li> <li tag="ref"><a name="CR20" /><span class="label" tagx="label" title="label">20.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Chen, Y. Y. <i>et al</i>. Understanding of the Endurance Failure in Scaled HfO2-based 1T1R RRAM through Vacancy Mobility Degradation. <i>Electron Devices Meeting</i> (<i>IEDM</i>), p. 20.3.1, IEEE International, <b>19</b>, 10.1109/IEDM.2012.6479079.18 (2012).</span></li> <li tag="ref"><a name="CR21" /><span class="label" tagx="label" title="label">21.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wouters</span><span class="given-names" tagx="given-names" title="given-names">DJ</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Analysis of Complementary RRAM Switching</span><span class="source" tagx="source" title="source">IEEE Electron. Dev. Lett.</span><span class="year" tagx="year" title="year">2012</span><span class="volume" tagx="volume" title="volume">33</span><span class="fpage" tagx="fpage" title="fpage">1186</span><span class="pub-id"><a href="https://dx.doi.org/10.1109/LED.2012.2198789">10.1109/LED.2012.2198789</a></span></span></li> <li tag="ref"><a name="CR22" /><span class="label" tagx="label" title="label">22.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Wei, Z. <i>et al</i>. Distribution Projecting the Reliability for 40 nm ReRAM and beyond based on Stochastic Differential Equation. <i>2015 IEEE International Electron Devices Meeting</i> (<i>IEDM</i>), Washington, DC, Dec 7–9, 10.1109/IEDM.2015.7409650 (2015).</span></li> <li tag="ref"><a name="CR23" /><span class="label" tagx="label" title="label">23.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sawa</span><span class="given-names" tagx="given-names" title="given-names">A</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Fujii</span><span class="given-names" tagx="given-names" title="given-names">T</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kawasaki</span><span class="given-names" tagx="given-names" title="given-names">M</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tokura</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span></span><span class="mixed-article-title" title="mixed-article-title">Colossal Electro-Resistance Memory Effect at Metal/La2CuO4 Interfaces</span><span class="source" tagx="source" title="source">Jpn. J. Appl. Phys.</span><span class="year" tagx="year" title="year">2005</span><span class="volume" tagx="volume" title="volume">44</span><span class="fpage" tagx="fpage" title="fpage">L1241</span><span class="pub-id"><a href="https://dx.doi.org/10.1143/JJAP.44.L1241">10.1143/JJAP.44.L1241</a></span></span></li> <li tag="ref"><a name="CR24" /><span class="label" tagx="label" title="label">24.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Beck</span><span class="given-names" tagx="given-names" title="given-names">A</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bednorz</span><span class="given-names" tagx="given-names" title="given-names">JG</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gerber</span><span class="given-names" tagx="given-names" title="given-names">Ch</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rossel</span><span class="given-names" tagx="given-names" title="given-names">C</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Widmer</span><span class="given-names" tagx="given-names" title="given-names">D</span></span></span><span class="mixed-article-title" title="mixed-article-title">Reproducible switching effect in thin oxide films for memory applications</span><span class="source" tagx="source" title="source">Appl. Phys. Lett.</span><span class="year" tagx="year" title="year">2000</span><span class="volume" tagx="volume" title="volume">77</span><span class="fpage" tagx="fpage" title="fpage">139</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.126902">10.1063/1.126902</a></span></span></li> <li tag="ref"><a name="CR25" /><span class="label" tagx="label" title="label">25.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yu</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Brittman</span><span class="given-names" tagx="given-names" title="given-names">S</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lee</span><span class="given-names" tagx="given-names" title="given-names">JS</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Falk</span><span class="given-names" tagx="given-names" title="given-names">AL</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Park</span><span class="given-names" tagx="given-names" title="given-names">H</span></span></span><span class="mixed-article-title" title="mixed-article-title">Minimum Voltage for Threshold Switching in Nanoscale Phase-Change Memory</span><span class="source" tagx="source" title="source">Nano Lett.</span><span class="year" tagx="year" title="year">2008</span><span class="volume" tagx="volume" title="volume">8</span><span class="fpage" tagx="fpage" title="fpage">3424</span></span></li> <li tag="ref"><a name="CR26" /><span class="label" tagx="label" title="label">26.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wimmer</span><span class="given-names" tagx="given-names" title="given-names">M</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Salinga</span><span class="given-names" tagx="given-names" title="given-names">M</span></span></span><span class="mixed-article-title" title="mixed-article-title">The gradual nature of threshold switching</span><span class="source" tagx="source" title="source">New Journal of Physics</span><span class="year" tagx="year" title="year">2014</span><span class="volume" tagx="volume" title="volume">16</span><span class="fpage" tagx="fpage" title="fpage">113044</span><span class="pub-id"><a href="https://dx.doi.org/10.1088/1367-2630/16/11/113044">10.1088/1367-2630/16/11/113044</a></span></span></li> <li tag="ref"><a name="CR27" /><span class="label" tagx="label" title="label">27.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">VG</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shvydka</span><span class="given-names" tagx="given-names" title="given-names">D</span></span></span><span class="mixed-article-title" title="mixed-article-title">Semi-shunt field emission in electronic devices</span><span class="source" tagx="source" title="source">Appl. Phys. Lett.</span><span class="year" tagx="year" title="year">2014</span><span class="volume" tagx="volume" title="volume">105</span><span class="fpage" tagx="fpage" title="fpage">053904</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.4892547">10.1063/1.4892547</a></span></span></li> <li tag="ref"><a name="CR28" /><span class="label" tagx="label" title="label">28.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hudlet</span><span class="given-names" tagx="given-names" title="given-names">S</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Saint Jeana</span><span class="given-names" tagx="given-names" title="given-names">M</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guthmann</span><span class="given-names" tagx="given-names" title="given-names">C</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Berger</span><span class="given-names" tagx="given-names" title="given-names">J</span></span></span><span class="mixed-article-title" title="mixed-article-title">Evaluation of the capacitive force between an atomic force microscopy tip and a metallic surface</span><span class="source" tagx="source" title="source">Eur. Phys. J. B</span><span class="year" tagx="year" title="year">1998</span><span class="volume" tagx="volume" title="volume">2</span><span class="fpage" tagx="fpage" title="fpage">5</span><span class="pub-id"><a href="https://dx.doi.org/10.1007/s100510050219">10.1007/s100510050219</a></span></span></li> <li tag="ref"><a name="CR29" /><span class="label" tagx="label" title="label">29.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ruda</span><span class="given-names" tagx="given-names" title="given-names">HE</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shik</span><span class="given-names" tagx="given-names" title="given-names">A</span></span></span><span class="mixed-article-title" title="mixed-article-title">Theoretical analysis of scanning capacitance microscopy</span><span class="source" tagx="source" title="source">Phys. Rev B</span><span class="year" tagx="year" title="year">2003</span><span class="volume" tagx="volume" title="volume">67</span><span class="fpage" tagx="fpage" title="fpage">235309</span><span class="pub-id"><a href="https://dx.doi.org/10.1103/PhysRevB.67.235309">10.1103/PhysRevB.67.235309</a></span></span></li> <li tag="ref"><a name="CR30" /><span class="label" tagx="label" title="label">30.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Li</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Joule Heating-Induced MetalInsulator Transition in Epitaxial VO2/TiO2 Devices</span><span class="source" tagx="source" title="source">ACS Appl. Mater. Interfaces</span><span class="year" tagx="year" title="year">2016</span><span class="volume" tagx="volume" title="volume">8</span><span class="fpage" tagx="fpage" title="fpage">12908</span><span class="pub-id"><a href="https://dx.doi.org/10.1021/acsami.6b03501">10.1021/acsami.6b03501</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27136956">27136956</a></span></span></li> <li tag="ref"><a name="CR31" /><span class="label" tagx="label" title="label">31.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Li</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Goodwill</span><span class="given-names" tagx="given-names" title="given-names">JM</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bain</span><span class="given-names" tagx="given-names" title="given-names">JA</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Skowronski</span><span class="given-names" tagx="given-names" title="given-names">M</span></span></span><span class="mixed-article-title" title="mixed-article-title">Scaling behavior of oxide-based electrothermal threshold switching devices</span><span class="source" tagx="source" title="source">Nanoscale</span><span class="year" tagx="year" title="year">2017</span><span class="volume" tagx="volume" title="volume">9</span><span class="fpage" tagx="fpage" title="fpage">14139</span><span class="pub-id"><a href="https://dx.doi.org/10.1039/C7NR03865H">10.1039/C7NR03865H</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/28905051">28905051</a></span></span></li> <li tag="ref"><a name="CR32" /><span class="label" tagx="label" title="label">32.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"> Goodwill, J. M., Sharma, A. A., Li, D., Bain, J. A. &amp;amp; Skowronski, M. Electro-Thermal Model of Threshold Switching in TaOx Based Devices. <i>ACS Appl</i>. <i>Mater</i>. <i>Interfaces</i>, <b>9</b>, 10.1021/acsami.6b16559 (2017).</span></li> <li tag="ref"><a name="CR33" /><span class="label" tagx="label" title="label">33.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Funck</span><span class="given-names" tagx="given-names" title="given-names">C</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hoffmann-Eifert</span><span class="given-names" tagx="given-names" title="given-names">S</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lukas</span><span class="given-names" tagx="given-names" title="given-names">S</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Waser</span><span class="given-names" tagx="given-names" title="given-names">R</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Menzel</span><span class="given-names" tagx="given-names" title="given-names">S</span></span></span><span class="mixed-article-title" title="mixed-article-title">Design rules for threshold switches based on a field triggered thermal runaway mechanism</span><span class="source" tagx="source" title="source">Journal of Computational Electronics</span><span class="year" tagx="year" title="year">2017</span><span class="volume" tagx="volume" title="volume">16</span><span class="fpage" tagx="fpage" title="fpage">1175</span><span class="pub-id"><a href="https://dx.doi.org/10.1007/s10825-017-1061-0">10.1007/s10825-017-1061-0</a></span></span></li> <li tag="ref"><a name="CR34" /><span class="label" tagx="label" title="label">34.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Funck</span><span class="given-names" tagx="given-names" title="given-names">C</span></span><span class="etal" title="etal"><i>et al.</i></span></span><span class="mixed-article-title" title="mixed-article-title">Multidimensional Simulation of Threshold Switching in NbO2 Based on an Electric Field Triggered Thermal Runaway Model</span><span class="source" tagx="source" title="source">Adv. Electron. Mater.</span><span class="year" tagx="year" title="year">2016</span><span class="volume" tagx="volume" title="volume">2</span><span class="fpage" tagx="fpage" title="fpage">1600169</span><span class="pub-id"><a href="https://dx.doi.org/10.1002/aelm.201600169">10.1002/aelm.201600169</a></span></span></li> <li tag="ref"><a name="CR35" /><span class="label" tagx="label" title="label">35.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Le Gallo</span><span class="given-names" tagx="given-names" title="given-names">M</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Athmanathan</span><span class="given-names" tagx="given-names" title="given-names">A</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Krebs</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sebastian</span><span class="given-names" tagx="given-names" title="given-names">A</span></span></span><span class="mixed-article-title" title="mixed-article-title">Evidence for thermally assisted threshold switching behavior in nanoscale phase- change memory cells</span><span class="source" tagx="source" title="source">J. Appl. Phys.</span><span class="year" tagx="year" title="year">2016</span><span class="volume" tagx="volume" title="volume">119</span><span class="fpage" tagx="fpage" title="fpage">025704</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.4938532">10.1063/1.4938532</a></span></span></li> <li tag="ref"><a name="CR36" /><span class="label" tagx="label" title="label">36.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Niraula</span><span class="given-names" tagx="given-names" title="given-names">D</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">VG</span></span></span><span class="mixed-article-title" title="mixed-article-title">Heat transport in filamentary RRAM devices, IEEE Trans El</span><span class="source" tagx="source" title="source">Devices</span><span class="year" tagx="year" title="year">2017</span><span class="volume" tagx="volume" title="volume">64</span><span class="fpage" tagx="fpage" title="fpage">4108</span></span></li> <li tag="ref"><a name="CR37" /><span class="label" tagx="label" title="label">37.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Glendinning, P. <i>Stability</i>, <i>instability and chaos</i>: <i>an introduction to the theory of nonlinear differential equations</i> (Cambridge university press, 1994).</span></li> <li tag="ref"><a name="CR38" /><span class="label" tagx="label" title="label">38.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Frank-Kamenetskii</span><span class="given-names" tagx="given-names" title="given-names">DA</span></span></span><span class="source" tagx="source" title="source">Diffusion and Heat Transfer in Chemical Kinetics</span><span class="year" tagx="year" title="year">1969</span><span class="edition" tagx="edition" title="edition">2nd ed.</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">New York</span><span class="publisher-name" tagx="publisher-name" title="publisher-name">Plenum Press</span><span class="fpage" tagx="fpage" title="fpage">199</span></span></li> <li tag="ref"><a name="CR39" /><span class="label" tagx="label" title="label">39.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Landau</span><span class="given-names" tagx="given-names" title="given-names">LD</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lifshitz</span><span class="given-names" tagx="given-names" title="given-names">EM</span></span></span><span class="source" tagx="source" title="source">Physics of Fluids</span><span class="year" tagx="year" title="year">1987</span><span class="edition" tagx="edition" title="edition">Second Edition</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Oxford, New York</span><span class="publisher-name" tagx="publisher-name" title="publisher-name">Pergamon</span></span></li> <li tag="ref"><a name="CR40" /><span class="label" tagx="label" title="label">40.</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Subashiev, A. V. &amp;amp; Fishman, I. M. Kinetics of reversible thermal breakdown in thin films. <i>Zh</i>. <i>Eksp</i>. <i>Teor</i>. <i>Fiz</i>. <b>93</b>, 2264 (1987), <i>Sov</i>. <i>Phys</i>. <i>JETP</i><b>66</b>, 1293 (1987).</span></li> <li tag="ref"><a name="CR41" /><span class="label" tagx="label" title="label">41.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tomita</span><span class="given-names" tagx="given-names" title="given-names">T</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kamakura</span><span class="given-names" tagx="given-names" title="given-names">Y</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Taniguchi</span><span class="given-names" tagx="given-names" title="given-names">K</span></span></span><span class="mixed-article-title" title="mixed-article-title">Energy Relaxation Length for Ballistic Electron Transport in SiO<sub>2</sub></span><span class="source" tagx="source" title="source">phys. stat. sol. (b)</span><span class="year" tagx="year" title="year">1997</span><span class="volume" tagx="volume" title="volume">204</span><span class="fpage" tagx="fpage" title="fpage">129</span><span class="pub-id"><a href="https://dx.doi.org/10.1002/1521-3951(199711)204:1&lt;129::AID-PSSB129&gt;3.0.CO;2-V">10.1002/1521-3951(199711)204:1&amp;lt;129::AID-PSSB129&amp;gt;3.0.CO;2-V</a></span></span></li> <li tag="ref"><a name="CR42" /><span class="label" tagx="label" title="label">42.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Raikh</span><span class="given-names" tagx="given-names" title="given-names">ME</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ruzin</span><span class="given-names" tagx="given-names" title="given-names">IM</span></span></span><span class="mixed-article-title" title="mixed-article-title">Transparency fluctuations in randomly inhomogeneous barriers of finite area</span><span class="source" tagx="source" title="source">Sov. Phys. JETP</span><span class="year" tagx="year" title="year">1987</span><span class="volume" tagx="volume" title="volume">65</span><span class="fpage" tagx="fpage" title="fpage">1273</span></span></li> <li tag="ref"><a name="CR43" /><span class="label" tagx="label" title="label">43.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Karpov</span><span class="given-names" tagx="given-names" title="given-names">VG</span></span></span><span class="mixed-article-title" title="mixed-article-title">Coupled electron heat transport in nonuniform thin film semiconductor structures</span><span class="source" tagx="source" title="source">Phys. Rev. B</span><span class="year" tagx="year" title="year">2012</span><span class="volume" tagx="volume" title="volume">86</span><span class="fpage" tagx="fpage" title="fpage">165317</span><span class="pub-id"><a href="https://dx.doi.org/10.1103/PhysRevB.86.165317">10.1103/PhysRevB.86.165317</a></span></span></li> <li tag="ref"><a name="CR44" /><span class="label" tagx="label" title="label">44.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Jeurgens</span><span class="given-names" tagx="given-names" title="given-names">LPH</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">Z</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mittemeijer</span><span class="given-names" tagx="given-names" title="given-names">EJ</span></span></span><span class="mixed-article-title" title="mixed-article-title">Thermodynamic of reactions and phase tranformations at interfaces and surfaces</span><span class="source" tagx="source" title="source">Int. J. Mat. Res.</span><span class="year" tagx="year" title="year">2009</span><span class="volume" tagx="volume" title="volume">100</span><span class="fpage" tagx="fpage" title="fpage">1281</span><span class="pub-id"><a href="https://dx.doi.org/10.3139/146.110204">10.3139/146.110204</a></span></span></li> <li tag="ref"><a name="CR45" /><span class="label" tagx="label" title="label">45.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Israelachvili</span><span class="given-names" tagx="given-names" title="given-names">JN</span></span></span><span class="source" tagx="source" title="source">Intermolecular and surface forces</span><span class="year" tagx="year" title="year">1992</span><span class="edition" tagx="edition" title="edition">Second Edition</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">London, New York</span><span class="publisher-name" tagx="publisher-name" title="publisher-name">Academc Press</span></span></li> </ul> </div> </div>  </body></html>

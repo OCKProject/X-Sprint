@@ -1,0 +1,81 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="other"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5770686</article-id><article-id pub-id-type="doi">10.1002/advs.201870003</article-id><article-id pub-id-type="publisher-id">ADVS201870003</article-id><article-categories><subj-group subj-group-type="overline"><subject>Frontispiece</subject></subj-group><subj-group subj-group-type="heading"><subject>Frontispiece</subject></subj-group></article-categories><title-group><article-title>Thermal Runaway: Identifying the Cause of Rupture of Li&#x02010;Ion Batteries during Thermal Runaway (Adv. Sci. 1/2018)</article-title></title-group><contrib-group><contrib id="advs201870003-cr-0001" contrib-type="author"><name><surname>Finegan</surname><given-names>Donal P.</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201870003-cr-0002" contrib-type="author"><name><surname>Darcy</surname><given-names>Eric</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs201870003-cr-0003" contrib-type="author"><name><surname>Keyser</surname><given-names>Matthew</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs201870003-cr-0004" contrib-type="author"><name><surname>Tjaden</surname><given-names>Bernhard</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201870003-cr-0005" contrib-type="author"><name><surname>Heenan</surname><given-names>Thomas M. M.</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201870003-cr-0006" contrib-type="author"><name><surname>Jervis</surname><given-names>Rhodri</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201870003-cr-0007" contrib-type="author"><name><surname>Bailey</surname><given-names>Josh J.</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201870003-cr-0008" contrib-type="author"><name><surname>Vo</surname><given-names>Nghia T.</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs201870003-cr-0009" contrib-type="author"><name><surname>Magdysyuk</surname><given-names>Oxana V.</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs201870003-cr-0010" contrib-type="author"><name><surname>Drakopoulos</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs201870003-cr-0011" contrib-type="author"><name><surname>Michiel</surname><given-names>Marco Di</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="advs201870003-cr-0012" contrib-type="author"><name><surname>Rack</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="advs201870003-cr-0013" contrib-type="author"><name><surname>Hinds</surname><given-names>Gareth</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="advs201870003-cr-0014" contrib-type="author"><name><surname>Brett</surname><given-names>Dan J. L.</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs201870003-cr-0015" contrib-type="author"><name><surname>Shearing</surname><given-names>Paul R.</given-names></name><xref ref-type="aff" rid="advs201870003-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="advs201870003-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Electrochemical Innovation Lab</named-content>
+<named-content content-type="organisation-division">Department of Chemical Engineering</named-content>
+<institution>University College London</institution>
+<named-content content-type="street">Torrington Place</named-content>
+<named-content content-type="city">London</named-content>
+<named-content content-type="post-code">WC1E 7JE</named-content>
+<country country="GB">UK</country>
+</aff><aff id="advs201870003-aff-0002">
+<label><sup>2</sup></label>
+<institution>NASA Johnson Space Center</institution>
+<named-content content-type="city">Houston</named-content>
+<named-content content-type="country-part">TX</named-content>
+<named-content content-type="post-code">77058</named-content>
+<country country="US">USA</country>
+</aff><aff id="advs201870003-aff-0003">
+<label><sup>3</sup></label>
+<institution>National Renewable Energy Laboratory</institution>
+<named-content content-type="street">15013 Denver West Parkway</named-content>
+<named-content content-type="city">Golden</named-content>
+<named-content content-type="country-part">CO</named-content>
+<named-content content-type="post-code">80401</named-content>
+<country country="US">USA</country>
+</aff><aff id="advs201870003-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Diamond Light Source</named-content>
+<institution>Harwell Science and Innovation Campus</institution>
+<named-content content-type="city">Didcot</named-content>
+<named-content content-type="country-part">Oxfordshire</named-content>
+<named-content content-type="post-code">OX110DE</named-content>
+<country country="GB">UK</country>
+</aff><aff id="advs201870003-aff-0005">
+<label><sup>5</sup></label>
+<institution>ESRF&#x02013;The European Synchrotron</institution>
+<named-content content-type="street">71 Rue des Martyrs</named-content>
+<named-content content-type="post-code">38000</named-content>
+<named-content content-type="city">Grenoble</named-content>
+<country country="FR">France</country>
+</aff><aff id="advs201870003-aff-0006">
+<label><sup>6</sup></label>
+<institution>National Physical Laboratory</institution>
+<named-content content-type="street">Hampton Road</named-content>
+<named-content content-type="city">Teddington</named-content>
+<named-content content-type="country-part">Middlesex</named-content>
+<named-content content-type="post-code">TW11 0LW</named-content>
+<country country="GB">UK</country>
+</aff><pub-date pub-type="epub"><day>17</day><month>1</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2018</year></pub-date><volume>5</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/advs.v5.1</issue-id><elocation-id>1870003</elocation-id><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-5-na.pdf"/><abstract id="advs201870003-abs-0001" abstract-type="toc"><p>At a critical temperature, active materials within Li&#x02010;ion batteries break down, generating heat and gas. Thermal runaway occurs when this process accelerates after the temperature of the cell begins to rise, leading to hazardous failure mechanisms such as the cell bursting. In article number <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/advs.201700369">1700369</ext-link>, Paul R. Shearing and co&#x02010;workers use high&#x02010;speed X&#x02010;ray imaging to capture and characterize such high risk mechanisms in commercial cell designs.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xlink:href="ADVS-5-na-g001.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs201870003-kwd-0001">high&#x02010;speed imaging</kwd><kwd id="advs201870003-kwd-0002">Li&#x02010;ion batteries</kwd><kwd id="advs201870003-kwd-0003">thermal runaway</kwd><kwd id="advs201870003-kwd-0004">venting</kwd><kwd id="advs201870003-kwd-0005">X&#x02010;ray CT</kwd></kwd-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="1"/><word-count count="238"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs201870003</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.1 mode:remove_FC converted:17.01.2018</meta-value></custom-meta></custom-meta-group></article-meta></front></article>

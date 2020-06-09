@@ -1,0 +1,727 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Omega</journal-id><journal-id journal-id-type="iso-abbrev">ACS Omega</journal-id><journal-id journal-id-type="publisher-id">ao</journal-id><journal-id journal-id-type="coden">acsodf</journal-id><journal-title-group><journal-title>ACS Omega</journal-title></journal-title-group><issn pub-type="epub">2470-1343</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6648732</article-id><article-id pub-id-type="pmid">31459904</article-id><article-id pub-id-type="doi">10.1021/acsomega.9b00004</article-id><article-categories><subj-group><subject>Article</subject></subj-group></article-categories><title-group><article-title>Probing into Styrene Polymerization Runaway Hazards:
+Effects of the Monomer Mass Fraction</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Zhao</surname><given-names>Lin</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Zhu</surname><given-names>Wen</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Papadaki</surname><given-names>Maria I.</given-names></name><xref rid="aff2" ref-type="aff">&#x000a7;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Mannan</surname><given-names>M. Sam</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff1" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><name><surname>Akbulut</surname><given-names>Mustafa</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><sup>&#x02020;</sup>Artie
+McFerrin Department of Chemical Engineering and <sup>&#x02021;</sup>Mary Kay O&#x02019;Connor Process
+Safety Center, <institution>Texas A&#x00026;M University</institution>, 3122 TAMU, College Station, Texas 77843-3122, <country>United States</country></aff><aff id="aff2"><label>&#x000a7;</label>Department
+of Environmental and Natural Resources Management, School of Engineering, <institution>University of Patras</institution>, Seferi 2, Agrinio 30100, <country>Greece</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>makbulut@tamu.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>05</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>31</day><month>05</month><year>2019</year></pub-date><volume>4</volume><issue>5</issue><fpage>8136</fpage><lpage>8145</lpage><history><date date-type="received"><day>01</day><month>01</month><year>2019</year></date><date date-type="accepted"><day>19</day><month>04</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical
+Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0011" id="ab-tgr1"/></p><p>Polymerization reactions have caused
+a number of serious incidents
+in the past; they are prone to reaction runaways because of their
+exothermic and autoaccelerating nature. To minimalize the risk, the
+reaction is commonly performed in a solvent as empirical industrial
+practice. In this work, the thermal runaway hazards of the ethylbenzene&#x02013;styrene
+system with different monomer mass fractions were calorimetrically
+investigated up to temperatures where decomposition products are unlikely
+to be produced. Experiments showed that the polymerization runaway
+&#x0201c;onset&#x0201d; temperature inversely increased with the monomer
+mass fraction. Experiment and thermodynamic calculations showed that
+volatile diluent increased system vapor pressure even at a lower adiabatic
+temperature rise and verified that moderation of the risks could be
+achieved if the monomer mass fraction is below ca. 85%. A lumped kinetic
+model developed by Hui and Hamielec was used to predict the runaway
+profile of this reaction under different dilutions, and the agreement
+was excellent.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ao9b00004</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ao-2019-00004y</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Styrene is one of the
+most widely used monomers and has a variety
+of applications in the chemical industry to produce polystyrene, acrylonitrile&#x02013;butadiene&#x02013;styrene
+rubber, and many other polymers. However, the storage and polymerization
+processes are prone to runaways as monomers are thermally unstable.
+Barton and Nolan<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> reported that 48% of
+total runaway incidents that occurred over the period from 1962 to
+1987 in the UK were polymerization reactions. A reactive chemical
+incidents report published by the Chemical Safety Board (CSB)<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> also denoted that almost 15% of incidents involving
+uncontrolled chemical reactions in 1980&#x02013;2001 in the US are
+polymerization thermal runaways. An incident statistical study by
+Sales<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> in 2006 showed that 17 out of 132
+(13%) reactive chemical incidents recorded by the major accident reporting
+system in the European Commission were caused by the polymerization
+runaway reactions. More recently, Mihailidou<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> analyzed 319 major industrial incidents with significant consequences
+based on the United Nations Environment Program (UNEP) criterion and
+found 34 out of 319 (11%) major incidents worldwide during the years
+1917&#x02013;2011 were related to the reactive monomer/polymer process.
+Saada<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> analyzed 30 runaway incidents in
+a specific unit process during 1988&#x02013;2013 and showed that over
+33% of those were polymerization incidents. A significant number of
+these incidents were related to styrene production and handling as
+listed in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref6">6</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> Despite this, lessons have not been learned, and the reoccurrence
+of styrene-related runaway incidents continues.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Selected Thermal Runaway Incidents
+Related to the Styrene Process</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center">&#x000a0;</th><th colspan="2" align="center">consequences<hr/></th></tr><tr><th style="border:none;" align="center">date</th><th style="border:none;" align="center">location</th><th style="border:none;" align="center">injury</th><th style="border:none;" align="center">fatality</th></tr></thead><tbody><tr><td style="border:none;" align="left">07/05/1994</td><td style="border:none;" align="left">Kaohsiung,
+Taiwan</td><td style="border:none;" align="left">0</td><td style="border:none;" align="left">1</td></tr><tr><td style="border:none;" align="left">01/26/1996</td><td style="border:none;" align="left">Chiayi, Taiwan</td><td style="border:none;" align="left">1</td><td style="border:none;" align="left">0</td></tr><tr><td style="border:none;" align="left">01/21/1998</td><td style="border:none;" align="left">Kaohsiung, Taiwan</td><td style="border:none;" align="left">4</td><td style="border:none;" align="left">0</td></tr><tr><td style="border:none;" align="left">12/24/1998</td><td style="border:none;" align="left">Kanagawa, Japan</td><td style="border:none;" align="left">0</td><td style="border:none;" align="left">0</td></tr><tr><td style="border:none;" align="left">06/27/1998</td><td style="border:none;" align="left">Channahon, IL, US</td><td style="border:none;" align="left">1</td><td style="border:none;" align="left">0</td></tr><tr><td style="border:none;" align="left">06/23/1999</td><td style="border:none;" align="left">Pasadena,
+TX, US</td><td style="border:none;" align="left">21</td><td style="border:none;" align="left">2</td></tr><tr><td style="border:none;" align="left">10/06/1999</td><td style="border:none;" align="left">Chiayi, Taiwan</td><td style="border:none;" align="left">1</td><td style="border:none;" align="left">0</td></tr><tr><td style="border:none;" align="left">03/27/2000</td><td style="border:none;" align="left">Pasadena, TX, US</td><td style="border:none;" align="left">71</td><td style="border:none;" align="left">1</td></tr><tr><td style="border:none;" align="left">04/02/2003</td><td style="border:none;" align="left">Addyston, OH, US</td><td style="border:none;" align="left">0</td><td style="border:none;" align="left">1</td></tr><tr><td style="border:none;" align="left">04/08/2004</td><td style="border:none;" align="left">Jiangsu, China</td><td style="border:none;" align="left">8</td><td style="border:none;" align="left">6</td></tr><tr><td style="border:none;" align="left">06/30/2005</td><td style="border:none;" align="left">Mesa,
+AZ, US</td><td style="border:none;" align="left">0</td><td style="border:none;" align="left">1</td></tr></tbody></table></table-wrap><p>Several factors contribute to the highly hazardous
+styrene handling
+and polystyrene production process. First of all, the styrene polymerization
+reaction is relatively highly exothermic with a heat generation at
+around 71 kJ&#x000b7;mol<sup>&#x02013;1</sup>.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> At the same time, even without an initiator, two styrene molecules
+will undergo a Diels&#x02013;Alder type of reaction and generate radicals
+to start self-polymerization upon heating.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> This polymerization process auto-accelerates as the reaction progresses;
+the system viscosity dramatically increases, and the reaction becomes
+diffusion-controlled, which is known as the gel effect or Trommsdorff&#x02013;Norrish
+effect. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> gives
+a schematic of how the gel effect might lead to the thermal runaway
+for polymerization.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Gel effect in the polymerization system.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0001" id="gr1" position="float"/></fig><p>From a classic first-principle kinetic analysis,
+the polymerization
+rate <italic>R</italic><sub>p</sub> is proportional related to the
+propagation rate constant <italic>k</italic><sub>p</sub>, monomer
+concentration, and also to the square root of the initiator efficiency <italic>f</italic>, the initiator decomposition rate constant <italic>k</italic><sub>d</sub>, and the reciprocal of the termination rate constant <italic>k</italic><sub>t</sub>. As the monomers are consumed, the polymer
+concentration as well as polymer molecular weight <italic>M</italic> increases, and the latter can increase by orders of magnitudes compared
+with monomer molar weight. These long-chain polymers significantly
+elevate system viscosity via two different mechanisms. First of all,
+the intrinsic viscosity of polymer chains [&#x003b7;] increases exponentially
+with molecular weight <italic>M</italic> because of the increase of
+the length of polymer chains, which can be described by the Mark&#x02013;Houwink
+as <xref rid="eq2" ref-type="disp-formula">eq <xref rid="eq2" ref-type="disp-formula">6</xref></xref>. Parameters <italic>a</italic> and <italic>K</italic> depend on the specific polymer&#x02013;solvent
+system. At the same time, bulk viscosity of the solution increases
+with polymer concentration, as formulated by Huggins in <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">7</xref></xref>, where &#x003b7;<sub>sp</sub> is
+the specific viscosity, &#x003b7;<sub>0</sub> is the solvent viscosity,
+and <italic>k</italic><sub>H</sub> is the Huggins coefficient. Thus,
+the mobility of polymer chains and diffusion is strongly hindered
+such that the termination rate dramatically drops compared with the
+initial termination rate constant <italic>k</italic><sub>t</sub><sup arrange="stack">0</sup> according to <xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">8</xref></xref>,<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> resulting
+in a fasterned polymerization reaction rate. This synergetic process
+could be further intensified under adiabatic conditions, as reaction
+heat generated during exotherm elevates the system temperature and
+reaction rate. To ease the gel effect and avoid sudden increase of
+viscosity and heat release, the industry employs a small portion of
+the organic solvent to reduce the system viscosity and enhance the
+mobility of polymer chains.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> A cascade
+of tower-type reactors is also employed to limit the reaction extent
+and viscosity increase.</p><p>It is of great importance that such
+a highly hazardous reaction
+process should be carried out in compliance with the Occupational
+Safety and Health Administration (OSHA) 29 CFR 1910.119, process safety
+management (PSM) of highly hazardous chemicals standard.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Among the 14 elements included in the PSM, process
+hazard analysis is essential in terms of identifying, evaluating,
+and controlling the hazard of the process. For reactive chemical systems
+in general, calorimeter studies provide valuable process safety data
+such as &#x0201c;onset&#x0201d; temperature of exothermic reactions,
+maximum temperature, maximum pressure, and noncondensable gas generation
+under intended or unintended (mal-operation) conditions.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> These data would serve as the basis for designing
+the process itself, its protection layers, and methods to control
+reaction hazards, for example, cooling capacity design and relief
+valve sizing.</p><p>A considerable amount of the literature has been
+published on the
+assessment of the thermal hazards of the undesirable thermally initiated
+styrene polymerization using calorimeters. Whiting and Tou<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> evaluated the thermal behavior of inhibited
+styrene in an accelerating rate calorimeter (ARC) to address the effects
+of the system thermal inertia. Gibson et al.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> tested the runaway reaction of inhibited styrene starting from 150
+&#x000b0;C in an adiabatic Dewar and calculated the relief valve size.
+Frurip et al.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> discussed some general
+practices regarding hazard evaluation of polymerizable compounds and
+performed the ARC test on uninhibited styrene with peroxide at various
+concentrations. Chen et al. performed isothermal studies on inhibited<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> and uninhibited<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> styrene
+to investigate the runaway behavior and kinetic parameters of styrene
+at low temperatures using microcalorimeters. Leung et al.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> utilized the ARC to investigate the thermally
+initiated polymerization of inhibited styrene with 20% ethylbenzene
+added to the system.</p><p>A thorough literature review revealed that
+very few studies focused
+on the diluted styrene-solution system, which is more commonly employed
+in industrial practices, and the reaction hazards accruing from this
+system were not fully understood. From the inherent safer design (ISD)
+point of view,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> the addition of solvent
+into the system is an effective &#x0201c;moderating&#x0201d; strategy
+because it lowers system viscosity and the reaction runaway severity
+as can be shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>. At the same time, this moderating measure contradicts the
+&#x0201c;substituting&#x0201d; and &#x0201c;simplifying&#x0201d; principles
+of ISD by introducing an additional volatile and highly flammable
+species into the system. The system complexity also increases as one
+more component is involved, inevitably affecting the physical properties
+of the system and in particular the ones which are directly related
+with its safety (e.g., flash point, flammable limit, heat capacity,
+vapor pressure, thermal conductivity, and heat capacity). Furthermore,
+additional hazardous scenarios have to be introduced as the interaction
+between the solvent and styrene needs to be considered.</p><p>For
+a pure styrene calorimetry study, the most well-studied scenario
+was the worst-case runaway reaction, where the system cooling was
+lost and the reaction developed under adiabatic condition. For a binary
+solvent-styrene system, another possible scenario is that the solvent-to-monomer
+ratio deviates from the original design intent. By applying the hazard
+and operability study concept to this solvent-styrene system, the
+reaction recipe is chosen as the study node, with monomer mass fraction
+as the process parameter, and the deviations (guide words) are &#x0201c;high&#x0201d;
+and &#x0201c;low&#x0201d;, which adequately represent two types of mischarging
+scenarios. The quantification of the consequences of these scenarios
+provides useful information on how monomer fraction will affect runaway
+behavior and process hazards.</p><p>In this paper, the runaway hazards
+of the polymerization of uninhibited
+styrene in ethylbenzene were evaluated as a function of the monomer
+mass fraction in screening and adiabatic calorimeters to obtain quantitative
+reaction hazard information. A lumped kinetic modeling was employed
+to simulate the temperature and pressure profile, and the global rate
+of the thermal polymerization was evaluated to obtain critical reaction
+parameters for predicting runaway behavior.</p></sec><sec id="sec2"><label>2</label><title>Materials
+and Methods</title><sec id="sec2.1"><label>2.1</label><title>Materials</title><p>Ethylbenzene (Sigma-Aldrich,
+ReagentPlus, 99%) and alumina inhibitor remover (Sigma-Aldrich) were
+used without further purification. Styrene (Sigma-Aldrich, ReagentPlus,
+99%) contained 15 ppm of 4-<italic>tert</italic>-butylcatechol (TBC)
+as an inhibitor; this inhibitor requires dissolved oxygen to become
+effective. To rule out the retardant effect of inhibitor, TBC was
+removed before testing. Alumina has been identified as an active adsorption
+material of TBC for industry practices.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> By passing the styrene slowly through a packed column with alumina
+inhibitor remover, the inhibitor-free monomer was obtained and used
+immediately. Purified styrene monomer was mixed with ethylbenzene
+to prepare a series of solutions with a monomer mass fraction that
+varied from 0.55 to 1.</p></sec><sec id="sec2.2"><label>2.2</label><title>Differential Scanning Calorimeter</title><p>Dynamic scanning tests with a small sample size were conducted
+in
+a Q20 differential scanning calorimeter (DSC, TA Instruments) to get
+preliminary results of styrene thermal behavior. Approximately 5 mg
+of test samples were heated from 30 to 300 &#x000b0;C at a fixed heating
+rate of 4 K&#x000b7;min<sup>&#x02013;1</sup>. To prevent sample boiling,
+high-pressure (15 MPa) stainless steel capsules were used for all
+tests. The measured heat flow was divided by the mass of the reactant
+to obtain the specific heat flow; then, the specific heat flow was
+integrated with respect to test time to get the specific heat of the
+sample. The specific heat of reaction of styrene monomer for styrene&#x02013;ethylbenzene
+samples was calculated by dividing the heat of reaction of the entire
+sample by the mass fraction of styrene. The baselines for integration
+were obtained by rescanning the sample after each test.</p></sec><sec id="sec2.3"><label>2.3</label><title>Automatic Pressure Tracking Adiabatic Calorimeter</title><p>A
+DSC study only gives heat generation information for small sample
+quantities. The obtained data are not enough to adequately assess
+the thermal hazards of reaction at industrial scales under worst-case
+scenarios; only to flag severe thermal hazards. Furthermore, it is
+also not possible to obtain pressure-rise information during the runaway
+with DSC. In a thermal runaway incident, it is the pressure which
+rises, as the temperature increases, driving to potential rupture
+of the confined container or its explosion, loss of containment and
+potential domino effects such as fire. Adiabatic calorimeter tests
+have been proven to be extremely important for a more reliable evaluation
+of thermal hazards of reactive chemicals in bulk quantities under
+various conditions. The automatic pressure tracking adiabatic calorimeter
+(APTAC) enables the use of a relatively large sample size and maintains
+the reactant at near adiabatic conditions by keeping the temperature/pressure
+difference in and out of the test cell minimal.</p><p>In this work,
+ca. 10 g of the sample was loaded into a glass test-cell of a thermal
+inertia factor (&#x003c6;-factor) of 1.25&#x02013;1.26. To eliminate
+the dissolved oxygen, the sample was purged with nitrogen for 30 min
+in an ice bath before being tested. Styrene polymerization generates
+only condensable gases and has been identified as a vapor system by
+the Center for Chemical Process Safety (CCPS) regarding relief valve
+design.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> To suppress the boiling of the
+solution and minimalize the tempering effects, the APTAC cell, together
+with the contained reactant, was pressurized with nitrogen to around
+1000 kPa (147 psi) before heating. A heat&#x02013;wait&#x02013;search
+operating mode<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> was applied with temperature
+steps of 5 &#x000b0;C, a heating rate of 5 &#x000b0;C&#x000b7;min<sup>&#x02013;1</sup>, and a 30 min waiting period between temperature steps. APTAC entered
+adiabatic mode once the self-heating rate exceeded 0.1 &#x000b0;C&#x000b7;min<sup>&#x02013;1</sup>. Temperature and pressure, as well as the rate of
+self-heating and pressure-rise, was measured and recorded throughout
+the experiment.</p></sec></sec><sec id="sec3"><label>3</label><title>Results and Discussion</title><sec id="sec3.1"><label>3.1</label><title>DSC Test of Inhibited and Purified Styrene</title><p>Inhibited
+and inhibitor-free styrene was first tested in DSC to
+check the effect of TBC on styrene thermally initiated self-polymerization
+reaction. The specific heat flow is shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, and the characteristic thermal hazards
+information obtained from repeated trails are summarized in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>. As can be seen in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, three exothermic
+peaks were displayed in both cases. However, the time of their appearance
+and the heat flow generated are significantly different. For TBC inhibited
+styrene, the first exothermic peak was detected to be around 150 &#x000b0;C,
+followed by a higher peak at 205 &#x000b0;C and an almost invisible one
+at around 250 &#x000b0;C. This multipeak exothermic curve denoted a complex
+reaction pathway of thermal polymerization of styrene and had been
+observed in many other studies.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> Liao<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> reported similar peak behavior for TBC inhibited styrene
+and performed kinetic modeling on each peak. It was identified that
+the first peak was typical of an autocatalytic behavior while the
+second peak was an <italic>n</italic>th order regarding styrene with
+a reaction order around 1.8&#x02013;2. For inhibitor-free samples,
+the DSC curve showed a different thermal profile as three major exothermic
+peaks appeared at 120, 150, and 205 &#x000b0;C. As can be seen, the overall
+heat generation was approximately the same for both cases. However,
+in the case of the uninhibited monomer, the reaction became notable
+at a much lower temperature (101 &#x000b0;C) while its rate of heat generation
+was much slower than that of the inhibited monomer. Also, the temperature
+range of the exothermic reaction was expanded. It is argued that thermally
+initiated radicals trigger the polymerization at a much lower temperature,
+which can be considered as a guiding value for deciding on styrene
+storage conditions in view of inhibitor depletion. When the TBC or
+other inhibitors are exhausted over time in a styrene tank, the self-reaction
+may significantly accelerate at around 101 &#x000b0;C. On the other hand,
+if unwanted polymerization occurs in an inhibited quantity of styrene,
+containment of the unwanted reaction may not be possible as the generation
+of heat will be more intense after 150 &#x000b0;C compared with uninhibited
+styrene. The maximum heat flow for either sample was detected at 205
+&#x000b0;C, and this unaltered characteristic temperature indicated that
+15 ppm of TBC effectively inhibited self-polymerization but only at
+the early stage. It is plausible that the first peak denotes the primary
+radical production, where the TBC acts as a radical scavenger and
+thus delays the polymerization until it is depleted at a higher temperature.
+The main peak is likely to represent the main polymerization process
+in the course of which the monomers add up to build the extended polymer
+chain. The heat of polymerization of styrene obtained from this study
+was between 629&#x02013;646 J&#x000b7;g<sup>&#x02013;1</sup>, which is
+slightly lower than the value of 670 &#x000b1; 11 J&#x000b7;g<sup>&#x02013;1</sup> measured by Chen<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> using 10 mg of styrene.
+This deviation may be owed to the more heat dissipation to the surrounding
+caused by the smaller sample size in this study.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Dynamic DSC measurements
+of TBC inhibited styrene (&#x025ef;) and
+purified styrene (&#x025a1;).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0003" id="gr2" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Dynamic DSC Experimental Data of TBC
+Inhibited Styrene and Purified Styrene</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">styrene</th><th style="border:none;" align="center"><italic>T</italic><sub>on</sub> (&#x000b0;C)</th><th style="border:none;" align="center">&#x00394;<italic>H</italic> (J&#x000b7;g<sup>&#x02013;1</sup>)</th><th style="border:none;" align="center"><italic>T</italic><sub>peak</sub> (&#x000b0;C)</th></tr></thead><tbody><tr><td style="border:none;" align="left">TBC inhibited</td><td style="border:none;" align="left">149 (&#x000b1;4)</td><td style="border:none;" align="left">646 (&#x000b1;9)</td><td style="border:none;" align="left">205 (&#x000b1;3)</td></tr><tr><td style="border:none;" align="left">purified</td><td style="border:none;" align="left">101 (&#x000b1;1)</td><td style="border:none;" align="left">628 (&#x000b1;22)</td><td style="border:none;" align="left">205 (&#x000b1;0.1)</td></tr></tbody></table></table-wrap></sec><sec id="sec3.2"><label>3.2</label><title>DSC Study of the Mass Fraction Effect</title><p>To study the impact of the monomer mass fraction on self-polymerization,
+dynamic DSC tests of purified styrene&#x02013;ethylbenzene solutions
+with different solvent additions were performed, and the results are
+summarized in <xref rid="tbl3" ref-type="other">Table <xref rid="tbl3" ref-type="other">3</xref></xref>. As can be seen from the table, the &#x0201c;onset&#x0201d; temperature
+(<italic>T</italic><sub>on</sub>) obtained from DSC test was observed
+at around 100 &#x000b0;C and did not shift upon ethylbenzene addition.
+Similarly, the maximum exothermic peak temperature (<italic>T</italic><sub>peak</sub>) appeared at approximately 205&#x02013;210 &#x000b0;C
+and it was marginally if not at all, affected by the mass of styrene.
+The normalized heat, however, was substantially affected by the mass
+fraction of styrene in the solution.</p><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Dynamic
+DSC Results of Styrene&#x02013;Ethylbenzene
+Systems</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">styrene mass fraction (%)</th><th style="border:none;" align="center"><italic>T</italic><sub>on</sub> (&#x000b0;C)</th><th style="border:none;" align="center">&#x00394;<italic>H</italic> of solution (J&#x000b7;g<sup>&#x02013;1</sup>)</th><th style="border:none;" align="center">&#x00394;<italic>H</italic> of styrene (J&#x000b7;g<sup>&#x02013;1</sup>)</th><th style="border:none;" align="center"><italic>T</italic><sub>peak</sub> (&#x000b0;C)</th></tr></thead><tbody><tr><td style="border:none;" align="left">100</td><td style="border:none;" align="left">101 (&#x000b1;1)</td><td style="border:none;" align="left">629 (&#x000b1;22)</td><td style="border:none;" align="left">629 (&#x000b1;22)</td><td style="border:none;" align="left">205
+(&#x000b1;0.06)</td></tr><tr><td style="border:none;" align="left">85</td><td style="border:none;" align="left">100 (&#x000b1;1)</td><td style="border:none;" align="left">468 (&#x000b1;9)</td><td style="border:none;" align="left">551 (&#x000b1;9)</td><td style="border:none;" align="left">209
+(&#x000b1;3)</td></tr><tr><td style="border:none;" align="left">70</td><td style="border:none;" align="left">100 (&#x000b1;0.1)</td><td style="border:none;" align="left">327 (&#x000b1;17)</td><td style="border:none;" align="left">468 (&#x000b1;17)</td><td style="border:none;" align="left">212
+(&#x000b1;3)</td></tr><tr><td style="border:none;" align="left">55</td><td style="border:none;" align="left">103 (&#x000b1;2)</td><td style="border:none;" align="left">231 (&#x000b1;24)</td><td style="border:none;" align="left">434 (&#x000b1;24)</td><td style="border:none;" align="left">211
+(&#x000b1;0.7)</td></tr></tbody></table></table-wrap><p>The specific heat flow profiles of the samples are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. The total heat
+of reaction was calculated as described in the experimental section
+and summarized in <xref rid="tbl3" ref-type="other">Table <xref rid="tbl3" ref-type="other">3</xref></xref> as &#x00394;<italic>H</italic> of the solution. The heat of reaction
+of the samples was the total heat released by the samples. This value
+is useful for the calculation of the cooling system for the polymerization.
+The monotonically decreasing heat release indicated that addition
+of the solvent significantly reduced the overall thermal hazards.
+The heat flow was then divided by the styrene mass fraction to produce <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b, and the overall
+reaction heat of styrene is reported as &#x00394;<italic>H</italic> of
+styrene in <xref rid="tbl3" ref-type="other">Table <xref rid="tbl3" ref-type="other">3</xref></xref>.
+Three major exothermic peaks for all polymerization reactions irrespectively
+of styrene concentrations were obtained. As can be seen in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b, in all cases,
+the first two peaks had approximately the same position and area.
+In other words, the same amount of heat was produced by styrene, regardless
+of ethylbenzene addition up to around 150 &#x000b0;C. This observation
+led to the hypothesis that the thermally initiated polymerization
+process of styrene was not affected by the addition of solvent at
+the initial stage (before around 150 &#x000b0;C). The last exothermic
+peak shifted from 205 to 210 &#x000b0;C as styrene mass fraction in the
+solution was reduced from 100 to 55%. In addition to that, the respective
+peak became wider as the solvent increased; the severity of the reaction
+step was decreased as the specific heat released in each case was
+declining (smaller peak area) with a lower monomer mass fraction.
+This is a clear indication that the final peak corresponds to chain-addition/termination
+course, a process which has been known to be strongly affected by
+the gel effect.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>DSC results of thermal polymerization of styrene in ethylbenzene
+with various mass fractions: 100% styrene (&#x02014;), 85% styrene
+(&#x02212; &#x02212;), 70% styrene (- - - -), 55% styrene (- &#x000b7;
+-). (a) Specific heat flow per gram of solution (b) specific heat
+flow per gram of styrene.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0004" id="gr3" position="float"/></fig><p>The DSC results denoted the decline of the overall reaction
+heat
+resulted from the reduced severity of the main exothermic step, as
+shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b.
+When the mass fraction of styrene in the test sample was lowered,
+the collisions between active reactant species were significantly
+reduced, resulting in a slower chain addition process. At the same
+time, in the more diluted solution, the mobility of the polymer chains
+was increased which facilitated the termination process, thus resulting
+in reduced chain length and therefore reduced reaction severity. Therefore,
+the DSC results confirmed that when the reaction takes place in a
+dilute solution, it becomes significantly less thermally hazardous
+because of the reduced heat generated. However, as this is partially
+owed to the shorter polymer chains production, product quality standards
+also need to be considered so that the objective of performing the
+polymerization is not compromised.</p></sec><sec id="sec3.3"><label>3.3</label><title>APTAC
+Study of the Mass Fraction Effect</title><p>The runaway behavior of
+similar bulk samples was also characterized
+under adiabatic conditions employing one of the best instruments serving
+such studies. A larger sample size was used in which case the heat
+and mass transfer effects became more significant, which adequately
+mimicked the real reaction vessels. The results of the respective
+measurements are summarized in <xref rid="tbl4" ref-type="other">Table <xref rid="tbl4" ref-type="other">4</xref></xref>. The corresponding temperature and pressure trajectories
+are shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> and <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>. The
+first column of <xref rid="tbl4" ref-type="other">Table <xref rid="tbl4" ref-type="other">4</xref></xref> represents the &#x0201c;onset&#x0201d; temperature (<italic>T</italic><sub>on</sub>) of the adiabatic reaction, which is taken as the temperature
+when the self-heating rate of the reaction exceeds 0.1 &#x000b0;C&#x000b7;min<sup>&#x02013;1</sup>, and the APTAC enters the adiabatic mode from the
+heat&#x02013;wait&#x02013;search mode. The apparent adiabatic temperature
+rise was calculated as the difference between the maximum temperature
+at the end of the exothermic process and the &#x0201c;onset&#x0201d;
+temperature <italic>T</italic><sub>on</sub>. This number was multiplied
+by the &#x003c6; factor to obtain the true adiabatic temperature rise
+(&#x00394;<italic>T</italic><sub>ad</sub>) as shown in the second column.
+The time-to-maximum rate (TMR) is the time needed for the runaway
+reaction to reach its maximum self-heating rate. The maximum pressure
+increase (&#x00394;<italic>P</italic>) was calculated by subtracting
+the initial value of the adiabatic pressure from the peak pressure.
+The last two columns of <xref rid="tbl4" ref-type="other">Table <xref rid="tbl4" ref-type="other">4</xref></xref> display the maximum pressure-rise rate (d<italic>P</italic>/d<italic>t</italic><sub>m</sub>) and maximum self-heating rate (d<italic>T</italic>/d<italic>t</italic><sub>m</sub>) during the adiabatic
+reaction. The data during the heat&#x02013;wait&#x02013;search period
+were omitted in <xref rid="fig4" ref-type="fig">Figures <xref rid="fig4" ref-type="fig">4</xref></xref> and <xref rid="fig5" ref-type="fig">5</xref>, and the time in these two figures
+was normalized by setting the &#x0201c;onset&#x0201d; time at 0 min.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Adiabatic
+temperature rises during the adiabatic runaway reaction
+of styrene&#x02013;ethylbenzene systems at various styrene mass fractions:
+100% styrene, 85% styrene, 70% styrene, 55% styrene.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0005" id="gr4" position="float"/></fig><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Adiabatic pressure rises during the adiabatic runaway
+reaction
+of styrene&#x02013;ethylbenzene systems at various styrene mass fractions:
+100% styrene, 85% styrene, 70% styrene, and 55% styrene.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0006" id="gr5" position="float"/></fig><table-wrap id="tbl4" position="float"><label>Table 4</label><caption><title>Thermokinetic Data of the Styrene&#x02013;Ethylbenzene
+System from APTAC Tests</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">styrene mass fraction (%)</th><th style="border:none;" align="center"><italic>T</italic><sub>on</sub> (&#x000b0;C)</th><th style="border:none;" align="center">&#x00394;<italic>T</italic><sub>ad</sub> (&#x000b0;C)</th><th style="border:none;" align="center">TMR (min)</th><th style="border:none;" align="center">&#x00394;<italic>P</italic> (kPa)</th><th style="border:none;" align="center">d<italic>P</italic>/d<italic>t</italic><sub>m</sub> (kPa&#x000b7;min<sup>&#x02013;1</sup>)</th><th style="border:none;" align="center">d<italic>T</italic>/d<italic>t</italic><sub>m</sub> (&#x000b0;C&#x000b7;min<sup>&#x02013;1</sup>)</th></tr></thead><tbody><tr><td style="border:none;" align="left">100</td><td style="border:none;" align="left">106 (&#x000b1;2)</td><td style="border:none;" align="left">290 (&#x000b1;8)</td><td style="border:none;" align="left">121 (&#x000b1;6)</td><td style="border:none;" align="left">1299 (&#x000b1;16)</td><td style="border:none;" align="left">241
+(&#x000b1;25)</td><td style="border:none;" align="left">58 (&#x000b1;6)</td></tr><tr><td style="border:none;" align="left">85</td><td style="border:none;" align="left">109 (&#x000b1;0.5)</td><td style="border:none;" align="left">238 (&#x000b1;3)</td><td style="border:none;" align="left">134
+(&#x000b1;7)</td><td style="border:none;" align="left">1403 (&#x000b1;24)</td><td style="border:none;" align="left">78 (&#x000b1;2)</td><td style="border:none;" align="left">10 (&#x000b1;0.1)</td></tr><tr><td style="border:none;" align="left">70</td><td style="border:none;" align="left">117
+(&#x000b1;0.1)</td><td style="border:none;" align="left">177 (&#x000b1;5)</td><td style="border:none;" align="left">145 (&#x000b1;1)</td><td style="border:none;" align="left">1254 (&#x000b1;56)</td><td style="border:none;" align="left">21 (&#x000b1;2)</td><td style="border:none;" align="left">2
+(&#x000b1;0.1)</td></tr><tr><td style="border:none;" align="left">55</td><td style="border:none;" align="left">126 (&#x000b1;4)</td><td style="border:none;" align="left">104 (&#x000b1;4)</td><td style="border:none;" align="left">181 (&#x000b1;10)</td><td style="border:none;" align="left">822
+(&#x000b1;33)</td><td style="border:none;" align="left">3 (&#x000b1;0.3)</td><td style="border:none;" align="left">0.6 (&#x000b1;0.02)</td></tr></tbody></table></table-wrap><p>For pure styrene system,
+the detected adiabatic &#x0201c;onset&#x0201d;
+temperature was 106 &#x000b0;C, denoting that the polymerization reaction
+started to have a self-heating rate higher than 0.1 &#x000b0;C&#x000b7;min<sup>&#x02013;1</sup>. Soon after the &#x0201c;onset&#x0201d;, a steep increase
+in temperature was observed starting at 100 min of the reaction, resulting
+in a temperature increment of 200 &#x000b0;C within 15 min. Such rapid,
+explosive-like reaction behavior indicates the severity of uncontrolled
+thermal polymerization of pure styrene. Correspondingly, the pressure
+inside the test cell increased by 1300 kPa (189 psi), indicating how
+severe threat to process vessels and relief valves a runaway can pose.
+These data also explain why it is a common practice in the industry
+to avoid using 100% pure styrene for polymer production. The maximum
+temperature obtained was about 20 &#x000b0;C below the decomposition
+&#x0201c;onset&#x0201d; temperature of polystyrene in nitrogen as obtained
+by Peterson,<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> indicating that no decomposition
+was initiated by the runaway reaction.</p><p>From the temperature
+data, it is clear that as the monomer mass
+fraction decreased, heat generated by the reaction dissipated to the
+solvent, and a significant delay and mitigation of thermal polymerization
+was observed. The adiabatic &#x0201c;onset&#x0201d; temperature increased
+to 126 &#x000b0;C for 55% styrene. This is a clear indication that the
+solvent will &#x0201c;delay&#x0201d; a potential runaway such that the
+same self-heating rate was achieved at a much higher temperature for
+diluted samples. However, at the same time, from a scientific point
+of view, this research demonstrates the misleading role that the &#x0201c;onset&#x0201d;
+temperature can play if it is considered as a &#x0201c;physical property&#x0201d;
+of the reactant. What actually these measurements indicate is that
+the enhanced transfer of heat of reaction because of the dilution
+of the monomer substantially delays the reaction runaway.</p><p>Additionally,
+the adiabatic temperature rise dropped from 290 to
+104 &#x000b0;C, which was almost 1/3 of the value for pure styrene when
+the mass fraction was reduced to 55%. Unsurprisingly, the time for
+the reaction to reach its summit increased as the styrene mass fraction
+dropped. For all samples, the main exothermic activity was observed
+after 100 min. For pure styrene, it took only 121 min for the adiabatic
+reaction to reach its maximum speed. As the mass content dropped,
+a longer time was required for the polymerization to develop fully,
+and the TMR prolonged. The 55% styrene&#x02013;ethylbenzene system
+took almost 3 h to reach its maximum heat release rate. It is clear
+that the pure styrene system brings difficulties to hazard mitigation
+or emergency responding, and adding solvents is a practical solution
+to mitigate the sudden temperature increase. In the case of a loss-of-cooling
+scenario, systems with longer TMR have a lower risk of catastrophic
+consequences as more time is available to respond and implement mitigation
+measures.</p><p>However, the effect of styrene concentration on pressure
+change
+was not as straightforward as temperature. All experiments had approximately
+the same initial pad pressure of 1000 kPa (147 psi) but their &#x0201c;onset&#x0201d;
+temperatures were different, leading to a slight variation on the
+&#x0201c;onset&#x0201d; pressure. The peak pressure and pressure difference
+did not change monotonically with the mass content. When styrene was
+diluted from 100 to 85%, a higher pressure building up was observed.
+The pressure changes then declined upon further ethylbenzene addition.
+As there was no noncondensable gas production during this reaction,
+the pressure increases primarily consisted of two parts: (1) the vapor
+pressure of volatile components, which is also a function of temperature
+and (2) the expansion of pad gas at higher temperature practically
+obeying the gas law. For the polymer mixture system, the former one
+was also affected by the polymers produced. According to Flory&#x02019;s
+free volume theory,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> the vapor pressure
+of polymer itself is usually omitted, but the polymer chains had significant
+effects on the activity of solvent and monomer, leading to a change
+of vapor pressure of these volatile species. In this study, a pure
+styrene system had the highest temperature increase, leading to a
+higher expansion of nitrogen pad. At the same time, as no solvent
+was present, monomers reacted to form a nonvolatile polymer, which
+contributed very little to the total pressure. The pressure trajectory
+denoted that the system pressure reached its maximum before the end
+of the adiabatic reaction, and gradually decreased afterward. Similar
+pressure behavior was also observed by Gibson<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> in Dewar bottle and Tou<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> in the ARC,
+where the maximum pressure during the runaway reaction of styrene
+was significantly higher than the final pressure. The experimental
+data reinforced the speculation that monomer vapor pressure contribution
+first increases and then decreases during the reaction.</p><p>For
+the 85% styrene&#x02013;ethylbenzene system, the lower temperature
+increment resulted in a less-expanded nitrogen pad. However, the ethylbenzene
+was not consumed during the reaction and then contributed to building
+up vapor pressure. The summation of these two factors led to an overall
+higher pressure (2400 kPa) than the pure system (2200 kPa). It is
+worth mentioning that this higher pressure was observed at a lower
+temperature (298 &#x000b0;C) compared with that of the pure styrene (335
+&#x000b0;C). If this maximum pressure was normalized to 335 &#x000b0;C,
+then the potential pressure rise could increase further to around
+2562 kPa, which was also denoted in the figure. As more solvent was
+added, the reaction extent and temperature increase were lowered,
+even though more solvent vaporized at a lower temperature, and the
+expansion of pad gas was not significant, resulting in a lowered total
+pressure increase. From a safety perspective, the real hazard of a
+runaway reaction is the uncontrolled pressure, as the direct cause
+of the loss of containment is the overpressure. Toxic or flammable
+reactants may be released when the pressure build up exceeds the ultimate
+strength of the process vessel, followed by fire or explosion. Although
+diluting the monomer by 15% helps lower heat release, the elevated
+pressure change may pose another concern of possible loss of containment.</p><p>These key hazard indicators obtained from adiabatic tests were
+plotted in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>. The maximum pressure-rising rate (d<italic>P</italic>/d<italic>t</italic><sub>m</sub>) and the maximum self-heating rate (d<italic>T</italic>/d<italic>t</italic><sub>m</sub>) during the runaway both
+raised exponentially with respect to styrene mass fraction.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Summary of
+styrene mass fraction effects on the adiabatic runaway
+behavior of the ethylbenzene&#x02013;styrene system. (a) Maximum pressure-rising
+rate, (b) maximum self-heating rate, (c) TMR, and (d) maximum pressure
+increase.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0007" id="gr6" position="float"/></fig></sec><sec id="sec3.4"><label>3.4</label><title>Hui and
+Hamielec Kinetic Verification of Adiabatic
+Data</title><p>To predict the thermal runaway behavior of the styrene&#x02013;ethylbenzene
+system and also obtain the optimum solvent dosage ratio to minimize
+both thermal and pressure hazards, kinetic simulation needs to be
+carried out. The Design Institute for Emergency Relief Systems (DIERS)<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> has recommended the use of the Hui and Hamielec<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> model to predict the thermal runaway temperature
+profile of the thermally initiated styrene polymerization in ethylbenzene
+in a bulk quantity (32 L). This model was developed in the 1970s for
+the thermally initiated polymerization of styrene taking into consideration
+of the gel effect and viscosity change at higher conversions. The
+initiation was assumed to be a third-order reaction with respect to
+the monomer concentration. Other reaction rate constants were empirically
+correlated with the polymer mass fraction and temperature.</p><p>The
+overall polymerization rate of Hui and Hamielec kinetic model can
+be cast as follows<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_m001" position="anchor"/><label>5</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_m002" position="anchor"/><label>6</label></disp-formula><disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_m003" position="anchor"/><label>7</label></disp-formula><disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_m004" position="anchor"/><label>8</label></disp-formula><disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_m005" position="anchor"/><label>9</label></disp-formula><disp-formula id="eq6"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_m006" position="anchor"/><label>10</label></disp-formula>where <italic>x</italic> is the mass fraction
+of styrene in the system; <italic>x</italic><sub>p</sub> is the mass
+fraction of polymer; [M] is the monomer molar concentration in mol&#x000b7;L<sup>&#x02013;1</sup>; and temperature-related parameters <italic>A</italic><sub>0</sub>, <italic>A</italic><sub>1</sub>, <italic>A</italic><sub>2</sub>, <italic>A</italic><sub>3</sub> are independent of conversion.
+For the styrene/ethylbenzene/polystyrene system in this study, thermodynamic
+properties such as density, heat capacity, and pure component vapor
+pressure were calculated with empirical correlations.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> The adiabatic temperature profile was simulated for different
+runs employing 55&#x02013;100% monomer in solution for which adiabatic
+measurements were performed. The heat loss correction was performed
+using the thermal inertia factor obtained in the experimental section.
+The comparison of the self-heating rate between experimental results
+and the simulated ones employing <xref rid="eq1" ref-type="disp-formula">eqs <xref rid="eq1" ref-type="disp-formula">5</xref></xref>&#x02013;<xref rid="eq6" ref-type="disp-formula">10</xref> are shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Self-heating rate during
+adiabatic runaway reaction for different
+styrene&#x02013;ethylbenzene mass fractions: 100% (&#x025a1;), 85% (&#x025ef;),
+70% (&#x025b3;), 55% (&#x025bd;), and Hui and Hamielec kinetic prediction
+(solid lines).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0008" id="gr7" position="float"/></fig><p>As can be seen from the
+figure, the empirical rate equations provided
+by Hui and Hamielec are in good agreement with the adiabatic experimental
+data in terms of self-heating rate change regarding the reciprocal
+of temperature. <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref> shows a comparison of a series of simulation results with experimentally
+detected maximum temperature and maximum self-heating rates. The model
+showed a linear trend of maximum adiabatic temperature increase and
+an exponentially increasing peak self-heating rate with the monomer
+mass fraction. The model predicted a slightly lowered maximum self-heating
+rate for all cases. Adjustment of the value of parameters <italic>A</italic><sub>0</sub>&#x02013;<italic>A</italic><sub>3</sub> using
+experimental data may result in more accurate predictions of the self-heating
+rates and pressures.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Hui and Hamielec model results (&#x025ef;) and APTAC experiment
+results (&#x025a1;). (a) Maximum adiabatic temperature and (b) maximum
+temperature rising rate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0009" id="gr8" position="float"/></fig><p>The total pressure of the system was also simulated by considering
+both pad gas pressure and vapor pressure, as discussed before. The
+vapor pressure of volatile components (monomer and ethylbenzene) was
+calculated based on the partial vapor pressure of each component over
+a monomer/polymer/solvent system via the following Flory&#x02013;Huggins
+equation<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> (<xref rid="eq7" ref-type="disp-formula">eq <xref rid="eq7" ref-type="disp-formula">11</xref></xref>) to correct the respective activities. <italic>P</italic><sub>i</sub><sup arrange="stack">0</sup> is the pure compound vapor pressure; &#x003d5;<sub>i</sub> is the
+volume fraction of the compound; &#x003d5;<sub>p</sub> is the volume
+fraction of polymer chains; and &#x003c7; is the polymer&#x02013;solvent
+interaction parameter, which was measured by Flory to be around 0.45
+for polystyrene in ethylbenzene.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup><disp-formula id="eq7"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_m007" position="anchor"/><label>11</label></disp-formula></p><p>The pad-pressure
+change of nitrogen was assumed to follow the ideal
+gas law, while the gas-phase temperature increased during exotherm,
+and the headspace volume expanded because of the contraction of the
+liquid phase caused by polymerization. In such a way, each pressure
+contributor was simulated separately, as shown in <xref rid="fig9" ref-type="fig">Figure <xref rid="fig9" ref-type="fig">9</xref></xref>.</p><fig id="fig9" position="float"><label>Figure 9</label><caption><p>Hui and Hamielec kinetic
+modeling and experiment results of the
+maximum pressure change for ethylbenzene&#x02013;styrene systems.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0010" id="gr9" position="float"/></fig><p>The simulation results showed
+that the maximum pressure during
+the adiabatic thermal runaway was not a monotonic function of the
+monomer mass fraction, which was confirmed by the experiments. It
+was expected that as the reaction temperature increased during the
+adiabatic runaway polymerization, the pad gas expansion would result
+in a respective rise of pressure. However, as the monomer with lower
+density gradually reacted to build up polymer chains with higher density,
+a contraction of the liquid phase and an expansion of the gas phase
+was introduced. This volume change counterbalanced the temperature
+change effect and moderated the pad-pressure increase. The vapor pressure
+of monomer and ethylbenzene increased with temperature, while at the
+same time the monomer was consumed and thus its contribution to the
+total vapor pressure during the reaction decreased.</p><p>When the
+mass fraction of monomer increased from 55 to 100%, the
+nonreactive volatile components fractions dropped, and the total pressure
+increase with conversion showed a significant change. Two different
+pressure change patterns were observed as shown in <xref rid="fig10" ref-type="fig">Figure <xref rid="fig10" ref-type="fig">10</xref></xref>.</p><fig id="fig10" position="float"><label>Figure 10</label><caption><p>Hui and Hamielec kinetic
+modeling of pressure change as a function
+of styrene conversion for selected ethylbenzene&#x02013;styrene systems.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ao-2019-00004y_0002" id="gr10" position="float"/></fig><p>For samples with monomer mass
+fraction below 95%, the calculated
+maximum pressure was observed at the end of the reaction (<italic>P</italic><sub>max</sub> = <italic>P</italic><sub>final</sub>). In
+these cases, although the monomer was completely consumed at the final
+stage, the solvent vapor pressure reached its maximum and had a significant
+contribution to the total pressure. The simulations for a styrene
+mass fraction of 95 and 100% showed that the total pressure first
+increased with conversion and then dropped at the end of the reaction
+(<italic>P</italic><sub>max</sub> &#x0003e; <italic>P</italic><sub>final</sub>). In other words, the peak thermal hazard and peak pressure hazard
+appeared at different stages of the adiabatic runaway reaction. For
+the pure styrene sample, simulation denoted peak pressure value was
+at around 77% monomer conversion, at which point 23% of the monomer
+still had a significant contribution to the total pressure. After
+more monomers were consumed, the simulated vapor pressure of monomer
+dropped to 0 psi at the end point (100% conversion). The total pressure
+was then equal to the pad gas pressure. The experimental results were
+in good agreement with the prediction within the mutual error. The
+results showed that the addition of solvent or the lowering of mass
+fraction was an effective measure to prolong TMR and moderate the
+rate of heat release. However, volatile solvents lead to a higher
+pressure rise even at lower temperatures, which introduces a different
+kind of hazard which has to be taken into consideration when designing
+the vapor relief systems.</p><p>The experimental and lumped kinetic
+modeling results reported herein
+should be considered in the light of some limitations. First of all,
+other species which are present in the polymer production such as
+initiators, chain-transfer agents, or possible contaminants may also
+have an impact on the thermal runaway behavior. Other scenarios and
+further studies are necessary to be conducted to evaluate the synergistic
+effects which arise from their presence. At the same time, the lumped
+kinetic simulation with Hui and Hamielec model matched well with the
+adiabatic self-heating rate for the concentrated samples at higher
+temperature range while overestimated the rate of polymerization at
+the initial stage. This deviation may be caused by the simplified
+empirical correlation which was insufficient to provide detailed expressions
+of rate constants for individual step in the free-radical polymerization
+reaction. A series of more detailed kinetic studies have been carried
+out by a working party of the International Union of Pure and Applied
+Chemistry (IUPAC) since 1988<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> to obtain the accurate
+values of the critical rate constants for a variety of free-radical
+polymerization systems. More specifically, for the styrene system,
+the pulsed laser polymerization&#x02013;size exclusion chromatography
+(PLP&#x02013;SEC) method was first used to obtain the benchmark value
+of the propagation rate coefficient of styrene.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> The change of initiator efficiency of 2,2&#x02032;-azoisobutyronitril
+in styrene was evaluated under different temperature and pressure
+conditions.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Most importantly, the experimental
+method to accurately assess the termination rate coefficient has been
+carefully reviewed for various free-radical polymerization systems,<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> followed by a recent experimental evaluation of the styrene termination
+rate coefficient that covers the entire conversion range.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> These benchmark values and IUPAC recommended
+PLP&#x02013;SEC experimental method have facilitated the development
+of numerous new kinetic models as summarized by Achilias.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> The future utilization of these detailed nonempirical
+kinetic modeling would enable a deeper understanding of styrene polymerization
+thermal runaway behavior at bulk quantities.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusion</title><p>The effect of styrene mass fractions on the thermally
+initiated
+polymerization runaway hazards of the styrene&#x02013;ethylbenzene
+system was studied using screening and adiabatic calorimeters. DSC
+results confirmed a multipeak reaction exotherm between 100 and 300
+&#x000b0;C. The addition of diluent effectively reduced overall heat
+release by affecting the late stage of the reaction at higher temperatures
+(&#x0003e;150 &#x000b0;C). Adiabatic tests identified a delayed and milder
+self-polymerization
+upon dilution, with higher detected &#x0201c;onset&#x0201d; temperature
+and linearly decreased adiabatic temperature rise. Both screening
+and adiabatic test results confirmed that the overall heat release
+and reaction severity was reduced by the addition of the solvent.
+At the same time, the pressure build-up rate and temperature rate
+exponentially decreased with lower monomer mass fraction, proving
+that dilution with solvent is an effective measure to moderate reaction
+thermal hazards and as such it may form a sound inherently safer design
+option, especially when the monomer mass fraction drops below 0.8.
+However, when the monomer was diluted in ethylbenzene to 85% w/w,
+the presence of volatile species resulted in a higher pressure-rise
+during reaction runaway compared with the pure styrene system even
+at lower temperatures. The lumped kinetic model developed by Hui and
+Hamielec presented an excellent agreement with the experimental data
+for both thermal and pressure hazards during the adiabatic thermal
+runaway. The study revealed the complex role of solvent (ethylbenzene)
+regarding the polymerization runaway hazards. Addition of solvents
+into the polymerization system to mitigate the thermal risk may introduce
+pressure risks because of the volatile nature of the solvent. Optimum
+process design should be based on a thorough assessment of all types
+of hazards present in the system.</p></sec></body><back><notes notes-type="COI-statement" id="NOTES-d7e1610-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This research was sponsored by the Mary Kay O&#x02019;Connor
+Process Safety Center, Texas A&#x00026;M University and is dedicated to
+the memory of M.S.M.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="book" id="cit1"><person-group person-group-type="allauthors"><name><surname>Barton</surname><given-names>J.</given-names></name>; <name><surname>Nolan</surname><given-names>P.</given-names></name></person-group><article-title>Incidents in the chemical industry
+due to thermal runaway chemical reactions</article-title>. <source>Hazards X: Process Safety in Fine and Speciality Chemical Plants</source>; <publisher-name>Taylor &#x00026; Francis</publisher-name>, <year>1989</year>; Vol. <volume>115</volume>, pp <fpage>3</fpage>&#x02013;<lpage>18</lpage>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="book" id="cit2"><person-group person-group-type="allauthors"><collab>US
+Chemical Safety and Hazard
+Investigation Board (CSB)</collab></person-group>. <source>Improving
+Reactive Hazard Management</source>, <year>2002</year>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Sales</surname><given-names>J.</given-names></name>; <name><surname>Mushtaq</surname><given-names>F.</given-names></name>; <name><surname>Christou</surname><given-names>M. D.</given-names></name>; <name><surname>Nomen</surname><given-names>R.</given-names></name>
+<article-title>Study of Major Accidents
+Involving Chemical Reactive Substances</article-title>. <source>Process
+Saf. Environ. Prot.</source>
+<year>2007</year>, <volume>85</volume>, <fpage>117</fpage>&#x02013;<lpage>124</lpage>. <pub-id pub-id-type="doi">10.1205/psep06012</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Mihailidou</surname><given-names>E. K.</given-names></name>; <name><surname>Antoniadis</surname><given-names>K. D.</given-names></name>; <name><surname>Assael</surname><given-names>M. J.</given-names></name>
+<article-title>The 319 major industrial accidents
+since 1917</article-title>. <source>Int. Rev. Chem. Eng.</source>
+<year>2012</year>, <volume>4</volume>, <fpage>529</fpage>&#x02013;<lpage>540</lpage>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Saada</surname><given-names>R.</given-names></name>; <name><surname>Patel</surname><given-names>D.</given-names></name>; <name><surname>Saha</surname><given-names>B.</given-names></name>
+<article-title>Causes and consequences of thermal
+runaway incidents-Will they ever be avoided?</article-title>. <source>Process Saf. Environ. Prot.</source>
+<year>2015</year>, <volume>97</volume>, <fpage>109</fpage>&#x02013;<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1016/j.psep.2015.02.005</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="conf-proc" id="cit6"><person-group person-group-type="allauthors"><name><surname>Chen</surname><given-names>C.-C.</given-names></name>; <name><surname>Shu</surname><given-names>C.-M.</given-names></name>; <name><surname>Chang</surname><given-names>R.-S.</given-names></name>; <name><surname>Shyu</surname><given-names>M.-L.</given-names></name>; <name><surname>Chen</surname><given-names>S.-C.</given-names></name></person-group><source>Thermal Hazard Analysis
+of Styrene Monomer at Low Temperature Conditions During Storage and
+Transportation, Conference of NATAS</source>, <year>2002</year>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Liao</surname><given-names>C. C.</given-names></name>; <name><surname>Wu</surname><given-names>S. H.</given-names></name>; <name><surname>Su</surname><given-names>T. S.</given-names></name>; <name><surname>Shyu</surname><given-names>M. L.</given-names></name>; <name><surname>Shu</surname><given-names>C. M.</given-names></name>
+<article-title>Thermokinetics
+evaluation and simulations for the polymerization of styrene in the
+presence of various inhibitor concentrations</article-title>. <source>J. Therm. Anal. Calorim.</source>
+<year>2006</year>, <volume>85</volume>, <fpage>65</fpage>&#x02013;<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1007/s10973-005-7359-3</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="weblink" id="cit8"><person-group person-group-type="allauthors"><collab>Occupational
+Safety and Health
+Administration (OSHA)</collab></person-group>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.osha.gov/">https://www.osha.gov/</uri>, accessed
+December 1, 2018.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="weblink" id="cit9"><article-title>JST Failure Knowledge
+Database</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sozogaku.com/fkd/en/">http://www.sozogaku.com/fkd/en/</uri>, accessed December 1, 2018.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="book" id="cit10"><person-group person-group-type="allauthors"><collab>Wiley-VCH</collab></person-group>. <source>Ullmann&#x02019;s Polymers and Plastics, 4 Volume Set: Products
+and Processes</source>; <publisher-name>John Wiley &#x00026; Sons</publisher-name>, <year>2016</year>; Vol. <volume>1</volume>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Husain</surname><given-names>A.</given-names></name>; <name><surname>Hamielec</surname><given-names>A. E.</given-names></name>
+<article-title>Thermal polymerization of styrene</article-title>. <source>J. Appl. Polym. Sci.</source>
+<year>1978</year>, <volume>22</volume>, <fpage>1207</fpage>&#x02013;<lpage>1223</lpage>. <pub-id pub-id-type="doi">10.1002/app.1978.070220505</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Achilias</surname><given-names>D. S.</given-names></name>
+<article-title>A review
+of modeling of diffusion controlled polymerization reactions</article-title>. <source>Macromol. Theory Simul.</source>
+<year>2007</year>, <volume>16</volume>, <fpage>319</fpage>&#x02013;<lpage>347</lpage>. <pub-id pub-id-type="doi">10.1002/mats.200700003</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="weblink" id="cit13"><person-group person-group-type="allauthors"><collab>Occupational
+Safety and Health
+Administration (OSHA)</collab></person-group>. <article-title>29 CFR
+1910.119&#x02014;Process Safety Management of Highly Hazardous Chemicals</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.119">https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.119</uri>, accessed December 1, 2018.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Leggett</surname><given-names>D. J.</given-names></name>
+<article-title>Safe process
+development from reaction hazards testing</article-title>. <source>Thermochim.
+Acta</source>
+<year>2001</year>, <volume>367&#x02013;368</volume>, <fpage>351</fpage>&#x02013;<lpage>365</lpage>. <pub-id pub-id-type="doi">10.1016/s0040-6031(00)00665-1</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Whiting</surname><given-names>L. F.</given-names></name>; <name><surname>Tou</surname><given-names>J. C.</given-names></name>
+<article-title>Thermal hazard evaluation
+of styrene polymerization
+by accelerating rate calorimetry</article-title>. <source>J. Therm.
+Anal. Calorim.</source>
+<year>1982</year>, <volume>24</volume>, <fpage>111</fpage>&#x02013;<lpage>132</lpage>. <pub-id pub-id-type="doi">10.1007/bf01914806</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="conf-proc" id="cit16"><person-group person-group-type="allauthors"><name><surname>Gibson</surname><given-names>N.</given-names></name>; <name><surname>Maddison</surname><given-names>N.</given-names></name>; <name><surname>Rogers</surname><given-names>R.</given-names></name></person-group><source>Case Studies in the Application
+of Diers Venting Methods to Fine Chemical Batch and Semi-Batch Reactors,
+Hazards from Pressure: Exothermic Reactions, Unstable Substances,
+Pressure Relief and Accidental Discharge: A Three-Day Symposium</source>; <publisher-name>Pergamon Press</publisher-name>, <year>1987</year>; p <fpage>157</fpage>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Frurip</surname><given-names>D.
+J.</given-names></name>; <name><surname>Chakrabarti</surname><given-names>A.</given-names></name>; <name><surname>Hofelich</surname><given-names>T. C.</given-names></name>; <name><surname>Martinez</surname><given-names>S. J.</given-names></name>; <name><surname>Whiting</surname><given-names>L. F.</given-names></name>
+<article-title>Hazard
+evaluation of polymerizable compounds</article-title>. <source>Process
+Saf. Prog.</source>
+<year>1995</year>, <volume>14</volume>, <fpage>79</fpage>&#x02013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1002/prs.680140202</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Chen</surname><given-names>C.-C.</given-names></name>; <name><surname>Duh</surname><given-names>Y.-S.</given-names></name>; <name><surname>Shu</surname><given-names>C.-M.</given-names></name>
+<article-title>Thermal
+polymerization of uninhibited
+styrene investigated by using microcalorimetry</article-title>. <source>J. Hazard. Mater.</source>
+<year>2009</year>, <volume>163</volume>, <fpage>1385</fpage>&#x02013;<lpage>1390</lpage>. <pub-id pub-id-type="doi">10.1016/j.jhazmat.2008.07.151</pub-id>.<pub-id pub-id-type="pmid">18835095</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Leung</surname><given-names>J. C.</given-names></name>; <name><surname>Fauske</surname><given-names>H. K.</given-names></name>; <name><surname>Fisher</surname><given-names>H. G.</given-names></name>
+<article-title>Thermal
+runaway reactions in a low
+thermal inertia apparatus</article-title>. <source>Thermochim. Acta</source>
+<year>1986</year>, <volume>104</volume>, <fpage>13</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1016/0040-6031(86)85180-2</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="book" id="cit20"><person-group person-group-type="allauthors"><collab>Center
+For Chemical Process
+Safety (CCPS)</collab></person-group>. <source>Inherently Safer Chemical
+Processes: A Life Cycle Approach</source>; <publisher-name>Wiley</publisher-name>, <year>2010</year>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Rivero</surname><given-names>M.
+J.</given-names></name>; <name><surname>Ib&#x000e1;&#x000f1;ez</surname><given-names>R.</given-names></name>; <name><surname>Ortiz</surname><given-names>M. I.</given-names></name>
+<article-title>Analysis of the elimination process
+of polymerisation inhibitors from styrene by means of adsorption</article-title>. <source>J. Chem. Technol. Biotechnol.</source>
+<year>2003</year>, <volume>78</volume>, <fpage>64</fpage>&#x02013;<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1002/jctb.744</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="book" id="cit22"><person-group person-group-type="allauthors"><collab>Center For Chemical Process
+Safety (CCPS)</collab></person-group>. <source>Guidelines for Pressure
+Relief and Effluent Handling Systems</source>; <publisher-name>John
+Wiley &#x00026; Sons</publisher-name>, <year>2017</year>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Aldeeb</surname><given-names>A. A.</given-names></name>; <name><surname>Rogers</surname><given-names>W. J.</given-names></name>; <name><surname>Mannan</surname><given-names>M. S.</given-names></name>
+<article-title>Evaluation of styrene-acrylonitrile
+copolymerization thermal stability and runaway behavior</article-title>. <source>J. Hazard. Mater.</source>
+<year>2003</year>, <volume>104</volume>, <fpage>269</fpage>&#x02013;<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1016/s0304-3894(03)00269-3</pub-id>.<pub-id pub-id-type="pmid">14602415</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Peterson</surname><given-names>J. D.</given-names></name>; <name><surname>Vyazovkin</surname><given-names>S.</given-names></name>; <name><surname>Wight</surname><given-names>C. A.</given-names></name>
+<article-title>Kinetics of the Thermal and Thermo-Oxidative
+Degradation of Polystyrene, Polyethylene and Poly(propylene)</article-title>. <source>Macromol. Chem. Phys.</source>
+<year>2001</year>, <volume>202</volume>, <fpage>775</fpage>&#x02013;<lpage>784</lpage>. <pub-id pub-id-type="doi">10.1002/1521-3935(20010301)202:6&#x0003c;775::aid-macp775&#x0003e;3.0.co;2-g</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Flory</surname><given-names>P. J.</given-names></name>
+<article-title>Thermodynamics
+of heterogeneous polymers and their solutions</article-title>. <source>J. Chem. Phys.</source>
+<year>1944</year>, <volume>12</volume>, <fpage>425</fpage>&#x02013;<lpage>438</lpage>. <pub-id pub-id-type="doi">10.1063/1.1723887</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="book" id="cit26"><person-group person-group-type="allauthors"><name><surname>Fisher</surname><given-names>H.</given-names></name>; <name><surname>Forrest</surname><given-names>H.</given-names></name>; <name><surname>Grossel</surname><given-names>S. S.</given-names></name>; <name><surname>Huff</surname><given-names>J.</given-names></name>; <name><surname>Muller</surname><given-names>A.</given-names></name>; <name><surname>Noronha</surname><given-names>J.</given-names></name>; <name><surname>Shaw</surname><given-names>D.</given-names></name>; <name><surname>Tilley</surname><given-names>B.</given-names></name></person-group><source>Emergency Relief System
+Design Using
+DIERS Technology: The Design Institute for Emergency Relief Systems
+(DIERS) Project Manual</source>; <publisher-name>John Wiley &#x00026;
+Sons</publisher-name>, <year>2010</year>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Hui</surname><given-names>A. W.</given-names></name>; <name><surname>Hamielec</surname><given-names>A. E.</given-names></name>
+<article-title>Thermal polymerization of styrene at high conversions
+and temperatures. An experimental study</article-title>. <source>J.
+Appl. Polym. Sci.</source>
+<year>1972</year>, <volume>16</volume>, <fpage>749</fpage>&#x02013;<lpage>769</lpage>. <pub-id pub-id-type="doi">10.1002/app.1972.070160319</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="book" id="cit28"><person-group person-group-type="allauthors"><name><surname>Flory</surname><given-names>P. J.</given-names></name></person-group><source>Principles of Polymer
+Chemistry</source>; <publisher-name>Cornell University Press</publisher-name>, <year>1953</year>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>H&#x000f6;cker</surname><given-names>H.</given-names></name>; <name><surname>Flory</surname><given-names>P. J.</given-names></name>
+<article-title>Thermodynamics
+of polystyrene solutions. Part 2.-Polystyrene
+and ethylbenzene</article-title>. <source>Trans. Faraday Soc.</source>
+<year>1971</year>, <volume>67</volume>, <fpage>2270</fpage>&#x02013;<lpage>2274</lpage>. <pub-id pub-id-type="doi">10.1039/tf9716702270</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Buback</surname><given-names>M.</given-names></name>; <name><surname>Garcia-Rubio</surname><given-names>L. H.</given-names></name>; <name><surname>Gilbert</surname><given-names>R. G.</given-names></name>; <name><surname>Napper</surname><given-names>D. H.</given-names></name>; <name><surname>Guillot</surname><given-names>J.</given-names></name>; <name><surname>Hamielec</surname><given-names>A. E.</given-names></name>; <name><surname>Hill</surname><given-names>D.</given-names></name>; <name><surname>O&#x02019;Driscoll</surname><given-names>K. F.</given-names></name>; <name><surname>Olaj</surname><given-names>O. F.</given-names></name>; <name><surname>Shen</surname><given-names>J.</given-names></name>
+<article-title>values of rate parameters in free
+radical polymerization systems</article-title>. <source>J. Polym. Sci.,
+Part C: Polym. Lett.</source>
+<year>1988</year>, <volume>26</volume>, <fpage>293</fpage>&#x02013;<lpage>297</lpage>. <pub-id pub-id-type="doi">10.1002/pol.1988.140260704</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Buback</surname><given-names>M.</given-names></name>; <name><surname>Gilbert</surname><given-names>R. G.</given-names></name>; <name><surname>Russell</surname><given-names>G. T.</given-names></name>; <name><surname>Hill</surname><given-names>D. J. T.</given-names></name>; <name><surname>Moad</surname><given-names>G.</given-names></name>; <name><surname>O&#x02019;Driscoll</surname><given-names>K. F.</given-names></name>; <name><surname>Shen</surname><given-names>J.</given-names></name>; <name><surname>Winnik</surname><given-names>M. A.</given-names></name>
+<article-title>Consistent values
+of rate parameters in free radical polymerization systems. II. Outstanding
+dilemmas and recommendations</article-title>. <source>J. Polym. Sci.,
+Part A: Polym. Chem.</source>
+<year>1992</year>, <volume>30</volume>, <fpage>851</fpage>&#x02013;<lpage>863</lpage>. <pub-id pub-id-type="doi">10.1002/pola.1992.080300516</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Buback</surname><given-names>M.</given-names></name>; <name><surname>Gilbert</surname><given-names>R. G.</given-names></name>; <name><surname>Hutchinson</surname><given-names>R. A.</given-names></name>; <name><surname>Klumperman</surname><given-names>B.</given-names></name>; <name><surname>Kuchta</surname><given-names>F.-D.</given-names></name>; <name><surname>Manders</surname><given-names>B. G.</given-names></name>; <name><surname>O&#x02019;Driscoll</surname><given-names>K. F.</given-names></name>; <name><surname>Russell</surname><given-names>G. T.</given-names></name>; <name><surname>Schweer</surname><given-names>J.</given-names></name>
+<article-title>Critically evaluated rate coefficients
+for free-radical polymerization, 1. Propagation rate coefficient for
+styrene</article-title>. <source>Macromol. Chem. Phys.</source>
+<year>1995</year>, <volume>196</volume>, <fpage>3267</fpage>&#x02013;<lpage>3280</lpage>. <pub-id pub-id-type="doi">10.1002/macp.1995.021961016</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Buback</surname><given-names>M.</given-names></name>; <name><surname>Huckestein</surname><given-names>B.</given-names></name>; <name><surname>Kuchta</surname><given-names>F.-D.</given-names></name>; <name><surname>Russell</surname><given-names>G. T.</given-names></name>; <name><surname>Schmid</surname><given-names>E.</given-names></name>
+<article-title>Initiator
+efficiencies in 2,2&#x02032;-azoisobutyronitrile-initiated free-radical
+polymerizations of styrene</article-title>. <source>Macromol. Chem.
+Phys.</source>
+<year>1994</year>, <volume>195</volume>, <fpage>2117</fpage>&#x02013;<lpage>2140</lpage>. <pub-id pub-id-type="doi">10.1002/macp.1994.021950620</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Buback</surname><given-names>M.</given-names></name>; <name><surname>Egorov</surname><given-names>M.</given-names></name>; <name><surname>Gilbert</surname><given-names>R. G.</given-names></name>; <name><surname>Kaminsky</surname><given-names>V.</given-names></name>; <name><surname>Olaj</surname><given-names>O. F.</given-names></name>; <name><surname>Russell</surname><given-names>G. T.</given-names></name>; <name><surname>Vana</surname><given-names>P.</given-names></name>; <name><surname>Zifferer</surname><given-names>G.</given-names></name>
+<article-title>Critically evaluated
+termination rate coefficients for free-radical polymerization, 1.
+The current situation</article-title>. <source>Macromol. Chem. Phys.</source>
+<year>2002</year>, <volume>203</volume>, <fpage>2570</fpage>&#x02013;<lpage>2582</lpage>. <pub-id pub-id-type="doi">10.1002/macp.200290041</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Barner-Kowollik</surname><given-names>C.</given-names></name>; <name><surname>Buback</surname><given-names>M.</given-names></name>; <name><surname>Egorov</surname><given-names>M.</given-names></name>; <name><surname>Fukuda</surname><given-names>T.</given-names></name>; <name><surname>Goto</surname><given-names>A.</given-names></name>; <name><surname>Olaj</surname><given-names>O. F.</given-names></name>; <name><surname>Russell</surname><given-names>G. T.</given-names></name>; <name><surname>Vana</surname><given-names>P.</given-names></name>; <name><surname>Yamada</surname><given-names>B.</given-names></name>; <name><surname>Zetterlund</surname><given-names>P. B.</given-names></name>
+<article-title>Critically evaluated termination
+rate coefficients
+for free-radical polymerization: Experimental methods</article-title>. <source>Prog. Polym. Sci.</source>
+<year>2005</year>, <volume>30</volume>, <fpage>605</fpage>&#x02013;<lpage>643</lpage>. <pub-id pub-id-type="doi">10.1016/j.progpolymsci.2005.02.001</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Kattner</surname><given-names>H.</given-names></name>; <name><surname>Buback</surname><given-names>M.</given-names></name>
+<article-title>Chain-length-dependent
+termination of styrene bulk
+polymerization up to high degrees of monomer conversion</article-title>. <source>Macromolecules</source>
+<year>2017</year>, <volume>50</volume>, <fpage>5308</fpage>&#x02013;<lpage>5314</lpage>. <pub-id pub-id-type="doi">10.1021/acs.macromol.7b00745</pub-id>.</mixed-citation></ref></ref-list></back></article>

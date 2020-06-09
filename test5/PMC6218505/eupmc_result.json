@@ -1,0 +1,367 @@
+{
+  "id": [
+    "30397243"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30397243"
+  ],
+  "pmcid": [
+    "PMC6218505"
+  ],
+  "doi": [
+    "10.1038/s41598-018-34681-4"
+  ],
+  "title": [
+    "Probing heat generation during tensile plastic deformation of a bulk metallic glass at cryogenic temperature."
+  ],
+  "authorString": [
+    "Brennhaugen DDE, Georgarakis K, Yokoyama Y, Nakayama KS, Arnberg L, Aune RE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brennhaugen DDE"
+          ],
+          "firstName": [
+            "David D E"
+          ],
+          "lastName": [
+            "Brennhaugen"
+          ],
+          "initials": [
+            "DDE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4190-4340",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, NTNU, Norwegian University of Science and Technology, 7491, Trondheim, Norway. david.e.brennhaugen@ntnu.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Georgarakis K"
+          ],
+          "firstName": [
+            "Konstantinos"
+          ],
+          "lastName": [
+            "Georgarakis"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "School of Aerospace, Transport and Manufacturing, Cranfield University, Cranfield, MK43 0AL, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Yokoyama Y"
+          ],
+          "firstName": [
+            "Yoshihiko"
+          ],
+          "lastName": [
+            "Yokoyama"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute for Materials Research, Tohoku University, 2-1-1, Katahira, Sendai, 980-8577, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakayama KS"
+          ],
+          "firstName": [
+            "Koji S"
+          ],
+          "lastName": [
+            "Nakayama"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "New Industry Creation Hatchery Center, Tohoku University, 2-1-1, Katahira, Sendai, 980-8577, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Arnberg L"
+          ],
+          "firstName": [
+            "Lars"
+          ],
+          "lastName": [
+            "Arnberg"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, NTNU, Norwegian University of Science and Technology, 7491, Trondheim, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Aune RE"
+          ],
+          "firstName": [
+            "Ragnhild E"
+          ],
+          "lastName": [
+            "Aune"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, NTNU, Norwegian University of Science and Technology, 7491, Trondheim, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4190-4340",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2743300"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "16317"
+  ],
+  "abstractText": [
+    "Despite significant research efforts, the deformation and failure mechanisms of metallic glasses remain not well understood. In the absence of periodic structure, these materials typically deform in highly localized, thin shear bands at ambient and low temperatures. This process usually leads to an abrupt fracture, hindering their wider use in structural applications. The dynamics and temperature effects on the formation and operation of those shear bands have been the focus of long-standing debate. Here, we use a new experimental approach based on localized boiling of liquid nitrogen by the heat generated in the shear bands to monitor the tensile plastic deformation of a bulk metallic glass submerged in a cryogenic bath. With the \"nitrogen bubbles heat sensor\", we could capture the heat dissipation along the primary shear banding plane and follow the dynamics of the shear band operation. The observation of nitrogen boiling on the surface of the deforming metallic glass gives direct evidence of temperature increase in the shear bands, even at cryogenic temperatures. An acceleration in bubble nucleation towards the end of the apparent plastic deformation suggests a change from steady-state to runaway shear and premonitions the fracture, allowing us to resolve the sequence of deformation and failure events."
+  ],
+  "affiliation": [
+    "Department of Materials Science and Engineering, NTNU, Norwegian University of Science and Technology, 7491, Trondheim, Norway. david.e.brennhaugen@ntnu.no."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-34681-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6218505"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6218505?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-34681-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-07"
+  ],
+  "firstIndexDate": [
+    "2018-11-06"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-12"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-05"
+  ],
+  "firstPublicationDate": [
+    "2018-11-05"
+  ]
+}

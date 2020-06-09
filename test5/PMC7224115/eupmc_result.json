@@ -1,0 +1,318 @@
+{
+  "id": [
+    "32421089"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32421089"
+  ],
+  "pmcid": [
+    "PMC7224115"
+  ],
+  "doi": [
+    "10.1007/s10479-020-03635-3"
+  ],
+  "title": [
+    "Stopping Covid-19: A pandemic-management service value chain approach."
+  ],
+  "authorString": [
+    "Baveja A, Kapoor A, Melamed B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baveja A"
+          ],
+          "firstName": [
+            "Alok"
+          ],
+          "lastName": [
+            "Baveja"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "1Rutgers Business School-Newark and New Brunswick, Rutgers Global Health Institute, Rutgers University, Piscataway, NJ USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kapoor A"
+          ],
+          "firstName": [
+            "Ajai"
+          ],
+          "lastName": [
+            "Kapoor"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Goldratt Consulting, \"Utah Leads Together\" Covid-19 Task Force, San Jose, CA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Melamed B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Melamed"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2568-2293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Rutgers Business School-Newark and New Brunswick, Rutgers Global Health Institute, Rutgers University, Piscataway, NJ USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2568-2293",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2956849"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of operations research"
+          ],
+          "ISOAbbreviation": [
+            "Ann Oper Res"
+          ],
+          "medlineAbbreviation": [
+            "Ann Oper Res"
+          ],
+          "NLMid": [
+            "101608624"
+          ],
+          "ISSN": [
+            "0254-5330"
+          ],
+          "ESSN": [
+            "1572-9338"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-12"
+  ],
+  "abstractText": [
+    "A logical strategy to contain the Covid-19 pandemic is to completely isolate everyone for 2 weeks (the incubation period of the virus). However, such a strategy can have prohibitive economic and social costs and, therefore, will be difficult to implement. At the same time, the current situation is leading to an expanding humanitarian, health and economic crisis. Based on principles of the Theory of Constraints, we propose in this article the \"Shutting-down Transmission Of Pandemic\" (STOP Covid-19) plan that would reliably contain the pandemic, mitigate its economic consequences, and boost societal confidence. This plan requires the implementation of four strategies over 90 days: (a) stop all international, domestic passenger air and intercity bus/train travel; (b) create administrative zones of about 1 million people; (c) stop all non-emergency cross-zonal travel except for transportation of goods, and (d) deploy an information-driven service value chain to control the spread of the pandemic within a zone."
+  ],
+  "affiliation": [
+    "1Rutgers Business School-Newark and New Brunswick, Rutgers Global Health Institute, Rutgers University, Piscataway, NJ USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Theory Of Constraints",
+        "Supply Chain Management",
+        "Covid-19",
+        "Service Value Chain",
+        "Pandemic Management"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10479-020-03635-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7224115"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7224115?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10479-020-03635-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-19"
+  ],
+  "firstIndexDate": [
+    "2020-05-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-17"
+  ],
+  "dateOfRevision": [
+    "2020-05-18"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-14"
+  ],
+  "firstPublicationDate": [
+    "2020-05-14"
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": [
+    "29291250"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29291250"
+  ],
+  "pmcid": [
+    "PMC5744472"
+  ],
+  "doi": [
+    "10.1126/sciadv.aap7528"
+  ],
+  "title": [
+    "Induced seismicity provides insight into why earthquake ruptures stop."
+  ],
+  "authorString": [
+    "Galis M, Ampuero JP, Mai PM, Cappa F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Galis M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Galis"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5375-7061",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ampuero JP"
+          ],
+          "firstName": [
+            "Jean Paul"
+          ],
+          "lastName": [
+            "Ampuero"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4827-7987",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "California Institute of Technology, Pasadena, CA 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mai PM"
+          ],
+          "firstName": [
+            "P Martin"
+          ],
+          "lastName": [
+            "Mai"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9744-4964",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cappa F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Cappa"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4859-8024",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Université Côte d'Azur, CNRS, Observatoire de la Côte d'Azur, IRD, Géoazur, Nice, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5375-7061",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4827-7987",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9744-4964",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4859-8024",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2626922"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science advances"
+          ],
+          "ISOAbbreviation": [
+            "Sci Adv"
+          ],
+          "medlineAbbreviation": [
+            "Sci Adv"
+          ],
+          "NLMid": [
+            "101653440"
+          ],
+          "ISSN": [
+            "2375-2548"
+          ],
+          "ESSN": [
+            "2375-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "eaap7528"
+  ],
+  "abstractText": [
+    "Injection-induced earthquakes pose a serious seismic hazard but also offer an opportunity to gain insight into earthquake physics. Currently used models relating the maximum magnitude of injection-induced earthquakes to injection parameters do not incorporate rupture physics. We develop theoretical estimates, validated by simulations, of the size of ruptures induced by localized pore-pressure perturbations and propagating on prestressed faults. Our model accounts for ruptures growing beyond the perturbed area and distinguishes self-arrested from runaway ruptures. We develop a theoretical scaling relation between the largest magnitude of self-arrested earthquakes and the injected volume and find it consistent with observed maximum magnitudes of injection-induced earthquakes over a broad range of injected volumes, suggesting that, although runaway ruptures are possible, most injection-induced events so far have been self-arrested ruptures."
+  ],
+  "affiliation": [
+    "King Abdullah University of Science and Technology, Thuwal, Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.aap7528"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5744472"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5744472?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.aap7528"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-02"
+  ],
+  "firstIndexDate": [
+    "2018-01-01"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-04"
+  ],
+  "dateOfRevision": [
+    "2019-05-24"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-20"
+  ],
+  "firstPublicationDate": [
+    "2017-12-20"
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": [
+    "PMC5770686"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5770686"
+  ],
+  "doi": [
+    "10.1002/advs.201870003"
+  ],
+  "title": [
+    "Thermal Runaway: Identifying the Cause of Rupture of Li‐Ion Batteries during Thermal Runaway (Adv. Sci. 1/2018)."
+  ],
+  "authorString": [
+    "Finegan DP, Darcy E, Keyser M, Tjaden B, Heenan TMM, Jervis R, Bailey JJ, Vo NT, Magdysyuk OV, Drakopoulos M, Michiel MD, Rack A, Hinds G, Brett DJL, Shearing PR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Finegan DP"
+          ],
+          "firstName": [
+            "Donal P."
+          ],
+          "lastName": [
+            "Finegan"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "University College LondonTorrington Place London WC1E 7JE Houston TX 77058 15013 Denver West Parkway Golden CO 80401 Didcot Oxfordshire OX110DE 71 Rue des Martyrs 38000 Grenoble Hampton Road Teddington Middlesex TW11 0LW UK"
+          ]
+        },
+        {
+          "fullName": [
+            "Darcy E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Darcy"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Keyser M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Keyser"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Tjaden B"
+          ],
+          "firstName": [
+            "Bernhard"
+          ],
+          "lastName": [
+            "Tjaden"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Heenan TMM"
+          ],
+          "firstName": [
+            "Thomas M. M."
+          ],
+          "lastName": [
+            "Heenan"
+          ],
+          "initials": [
+            "TMM"
+          ]
+        },
+        {
+          "fullName": [
+            "Jervis R"
+          ],
+          "firstName": [
+            "Rhodri"
+          ],
+          "lastName": [
+            "Jervis"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Bailey JJ"
+          ],
+          "firstName": [
+            "Josh J."
+          ],
+          "lastName": [
+            "Bailey"
+          ],
+          "initials": [
+            "JJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Vo NT"
+          ],
+          "firstName": [
+            "Nghia T."
+          ],
+          "lastName": [
+            "Vo"
+          ],
+          "initials": [
+            "NT"
+          ]
+        },
+        {
+          "fullName": [
+            "Magdysyuk OV"
+          ],
+          "firstName": [
+            "Oxana V."
+          ],
+          "lastName": [
+            "Magdysyuk"
+          ],
+          "initials": [
+            "OV"
+          ]
+        },
+        {
+          "fullName": [
+            "Drakopoulos M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Drakopoulos"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Michiel MD"
+          ],
+          "firstName": [
+            "Marco Di"
+          ],
+          "lastName": [
+            "Michiel"
+          ],
+          "initials": [
+            "MD"
+          ]
+        },
+        {
+          "fullName": [
+            "Rack A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Rack"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Hinds G"
+          ],
+          "firstName": [
+            "Gareth"
+          ],
+          "lastName": [
+            "Hinds"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Brett DJL"
+          ],
+          "firstName": [
+            "Dan J. L."
+          ],
+          "lastName": [
+            "Brett"
+          ],
+          "initials": [
+            "DJL"
+          ]
+        },
+        {
+          "fullName": [
+            "Shearing PR"
+          ],
+          "firstName": [
+            "Paul R."
+          ],
+          "lastName": [
+            "Shearing"
+          ],
+          "initials": [
+            "PR"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2644076"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced Science"
+          ],
+          "medlineAbbreviation": [
+            "Advanced science"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "At a critical temperature, active materials within Li‐ion batteries break down, generating heat and gas. Thermal runaway occurs when this process accelerates after the temperature of the cell begins to rise, leading to hazardous failure mechanisms such as the cell bursting. In article number 1700369, Paul R. Shearing and co‐workers use high‐speed X‐ray imaging to capture and characterize such high risk mechanisms in commercial cell designs."
+  ],
+  "affiliation": [
+    "University College LondonTorrington Place London WC1E 7JE Houston TX 77058 15013 Denver West Parkway Golden CO 80401 Didcot Oxfordshire OX110DE 71 Rue des Martyrs 38000 Grenoble Hampton Road Teddington Middlesex TW11 0LW UK"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Other"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Venting",
+        "Thermal Runaway",
+        "Li‐ion Batteries",
+        "High‐speed Imaging",
+        "X‐ray Ct"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770686/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5770686"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/advs.201870003"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-28"
+  ],
+  "firstIndexDate": [
+    "2018-01-29"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-28"
+  ],
+  "dateOfRevision": [
+    "2019-09-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-17"
+  ],
+  "firstPublicationDate": [
+    "2018-01-17"
+  ]
+}

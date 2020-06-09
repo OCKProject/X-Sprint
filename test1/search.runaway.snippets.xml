@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSnippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7185022/results/search/runaway/results.xml">
+   <result pre="can mitigate runs. In this paper we develop a dynamic" exact="model" post="of debt runs based on He and Xiong (2012)"/>
+   <result pre="run probabilities in these markets, we develop a continuous time" exact="model" post="of dynamic debt runs in the markets for ARS"/>
+   <result pre="VRDOs based on He and Xiong (2012), HX hereafter). Our" exact="model" post="has two major departures from the HX model: (i)"/>
+   <result pre="and (ii) modeling of committed versus uncommitted liquidity provision. The" exact="model" post="is particularly useful. First, it accounts for the &quot;dynamic&quot;"/>
+   <result pre="the rollover threshold determines the run probability. We calibrate the" exact="model" post="to the historical interest rate data for both markets."/>
+   <result pre="historical interest rate data for both markets. Using calibrated key" exact="model" post="parameters, we are able to infer the unobserved fundamental"/>
+   <result pre="the debt-run literature that examines the determinants of runs.6 Our" exact="model" post="is built upon (He and Xiong, 2012), which extends"/>
+   <result pre="1983, Rochet, Vives, 2004, Goldstein, Pauzner, 2005, etc.). The He-Xiong" exact="model" post="highlights the dynamic coordination problem between creditors whose contracts"/>
+   <result pre="paper, Schroth et al. (2014) extend and apply the He-Xiong" exact="model" post="to the ABCP market. The authors show that an"/>
+   <result pre="creditors, increases the likelihood of runs. By contrast, in our" exact="model" post="a run imposes an additional type of negative externalities,"/>
+   <result pre="type of negative externalities, because an ARS run in our" exact="model" post="may trigger uncommitted liquidity support to fail and its"/>
+   <result pre="conceptualize the value of liquidity backstop. Section 3 presents the" exact="model" post="and contains discussion of key model implications. In Section"/>
+   <result pre="Section 3 presents the model and contains discussion of key" exact="model" post="implications. In Section 4, we present our calibration procedure"/>
+   <result pre="a liquidity backstop. In the next section we develop a" exact="model" post="for both markets to endogenously determine investors’ rollover decision"/>
+   <result pre="determine investors’ rollover decision and the run probabilities. The calibrated" exact="model" post="is then used to quantify the value of a"/>
+   <result pre="value of a liquidity backstop. 3 Model We extend the" exact="model" post="of dynamic debt runs in He and Xiong (2012)"/>
+   <result pre="provision. For ease of exposition, we first focus on the" exact="model" post="for VRDOs that incorporates a floating interest rate into"/>
+   <result pre="interest rate into the He-Xiong model. We then extends the" exact="model" post="further to the market for ARS. The model for"/>
+   <result pre="extends the model further to the market for ARS. The" exact="model" post="for ARS features uncommitted liquidity provision.11 3.1 The model"/>
+   <result pre="The model for ARS features uncommitted liquidity provision.11 3.1 The" exact="model" post="for VRDOs: Committed liquidity provision Consider a municipality who"/>
+   <result pre="measure the value of a liquidity backstop later. 3.2 The" exact="model" post="for ARS: Uncommitted liquidity provision Unlike VRDOs that are"/>
+   <result pre="that it is strictly monotonically increasing. In contrast to the" exact="model" post="for VRDOs, the HJB equation in the case of"/>
+   <result pre="default loss as studied in HX, a run in our" exact="model" post="also induces an additional cost in the event of"/>
+   <result pre="measured by Γ. In the next section, we calibrate the" exact="model" post="and quantitatively measure Γ. 4 Quantitative Analysis The markets"/>
+   <result pre="in Panel B of Figure 4. We then estimate the" exact="model" post="using MLE to best fit the actual ARS excess"/>
+   <result pre="of Figure 4 shows a reasonably good fit between the" exact="model" post="and the data. In particular, consistent with the data"/>
+   <result pre="and the data. In particular, consistent with the data our" exact="model" post="is able to generate spikes in the ARS excess"/>
+   <result pre="rate on the run behavior. To compare with the HX" exact="model" post="which has a fixed interest rate, we consider the"/>
+   <result pre="(Panel A) and ARS (Panel B). From Panel A the" exact="model" post="implies a 50% chance of a VRDO run within"/>
+   <result pre="the run probabilities are close to zero. In summary, our" exact="model" post="is able to reproduce the differential crisis experiences for"/>
+   <result pre="Panel C, we compute the equilibrium rollover threshold in our" exact="model" post="as well as the one in the benchmark HX"/>
+   <result pre="to 0 with probability 1 − q . In the" exact="model" post="we have essentially assumed p = 0 until mid"/>
+   <result pre="backstop. 5 Concluding Remarks In this paper, we develop a" exact="model" post="of dynamic debt runs to study the important role"/>
+   <result pre="are previously neglected (see Gennaioli et al., 2013). The key" exact="model" post="implication in this paper is general and can be"/>
+   <result pre="of Financial Economics972010239262 ChenR.-R.ScottL.Maximum likelihood estimation for a multifactor equilibrium" exact="model" post="of the term structure of interest ratesJournal of Fixed"/>
+   <result pre="and evidence from the commercial paper marketJournal of Finance612006867892 GennaioliN.ShleiferA.VishnyR.A" exact="model" post="of shadow bankingJournal of Finance68201313311363 GoldsteinI.Empirical literature on financial"/>
+   <result pre="ensures that the max rate is sufficiently high for the" exact="model" post="to be meaningful. The restriction (B.15) rules out the"/>
+   <result pre="risk-free rate ρ is assumed to be constant in the" exact="model" post="for tractability. We thus work directly with the excess"/>
+   <result pre="same number of Treasury securities, and then to estimate the" exact="model" post="using the extracted factors together with the rest of"/>
+   <result pre="to refer to both VRDOs and ARS when describing the" exact="model" post="setup that applies to both. 12The proofs of Propositions"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7188949/results/search/runaway/results.xml">
+   <result pre="of developing an RRI. Powers (2010) proposed a proximal aetiology" exact="model" post="whereby impaired muscular control at the hip, for example"/>
+   <result pre="each session. The data were recorded using a Plugin Gate" exact="model" post="and followed the procedure of Riazati et al. (2019)."/>
+   <result pre="running sessions. This was processed using the static plugin gait" exact="model" post="and static subject calibration. For HIIT and MICR, kinematics"/>
+   <result pre="a fourth order low-pass Butterworth filter via dynamic plug-in gait" exact="model" post="with 6 Hz cut-off frequency. Gait identification was achieved"/>
+   <result pre="PowersC. M.WitvrouwE.DavisI. S.CrossleyK. M. (2017). Evidence-based framework for a pathomechanical" exact="model" post="of patellofemoral pain: 2017 patellofemoral pain consensus statement from"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7189230/results/search/runaway/results.xml">
+   <result pre="recorded from the scalp3. The procedure involves, first, creating a" exact="model" post="of how electrical currents propagate from their origin to"/>
+   <result pre="recording electrodes, the so-called forward problem; and second, creating a" exact="model" post="of the plausible locations and intensities of the current"/>
+   <result pre="is, simulated electrical activity is placed inside a realistic volume-conductor" exact="model" post="and projected onto the scalp surface in order to"/>
+   <result pre="obtained with Freesurfer and a 3-layer Boundary Element Method (BEM)" exact="model" post="was created with 5120 triangles and conductivities set to"/>
+   <result pre="stimulation sites within subjects)34. For one method (eLORETA) the mixed-effects" exact="model" post="resulted in a &quot;singular fit&quot; due to a lack"/>
+   <result pre="Imaging Data Structure specification to human intracranial electrophysiologySci. Data201961610.1038/s41597-019-0105-730647409 28.EngemannDAGramfortAAutomated" exact="model" post="selection in covariance estimation and spatial whitening of MEG"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7200005/results/search/runaway/results.xml">
+   <result pre="data and refers to the point at which the theoretical" exact="model" post="being developed stabilizes. Many qualitative data analyses, however, do"/>
+   <result pre="a population, 29 participants would be required. Note that their" exact="model" post="assumes a random sample. The above studies are foundational"/>
+   <result pre="once in the sample&quot;. • Population ‘data’ is hypothetical• Simulation" exact="model" post="requires large amounts of a priori information Hagaman &amp;amp;"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7200705/results/search/runaway/results.xml">
+   <result pre="gas) sources in British Columbia (BC), Canada using three metrics:" exact="greenhouse" post="gas (GHG) emissions, electricity cost, and overlap between future"/>
+   <result pre="large-bodied carnivores and ungulates, and 37 fish species) and existing" exact="anthropogenic" post="disturbance (i.e., forestry and linear infrastructure) under five prioritization"/>
+   <result pre="prioritization scenarios: each of the three sets of species and" exact="anthropogenic" post="disturbance separately, and a scenario combining all four datasets."/>
+   <result pre="refinement, and transportation infrastructure (roads, pipelines; www.data.gov.bc.ca/). Life cycle assessment-based" exact="greenhouse" post="gas emissions We used GHG emission estimates from Life"/>
+   <result pre="GHGenius 4.03 (www.ghgenius.ca). GHGenius is a peer-reviewed tool for estimating" exact="greenhouse" post="gas emissions from a variety of fuels and industry"/>
+   <result pre="for the Coming Decade. (2015). 40.MargulesCRPresseyRLSystematic conservation planningNature200040524325310.1038/3501225110821285 41.DolanSLHeathGALife cycle" exact="greenhouse" post="gas emissions of utility-scale wind powerJ. Ind. Ecol.201216S136S15410.1111/j.1530-9290.2012.00464.x 42.WeisserDA"/>
+   <result pre="of utility-scale wind powerJ. Ind. Ecol.201216S136S15410.1111/j.1530-9290.2012.00464.x 42.WeisserDA guide to life-cycle" exact="greenhouse" post="gas (GHG) emissions from electric supply technologiesEnergy2007321543155910.1016/j.energy.2007.01.008 43.RaadalHLGagnonLModahlISHanssenOJLife cycle"/>
+   <result pre="greenhouse gas (GHG) emissions from electric supply technologiesEnergy2007321543155910.1016/j.energy.2007.01.008 43.RaadalHLGagnonLModahlISHanssenOJLife cycle" exact="greenhouse" post="gas (GHG) emissions from the generation of wind and"/>
+   <result pre="powerRenew. Sustain. Energy Rev.2011153417342210.1016/j.rser.2011.05.001 44.S&amp;amp;T2 Consultants Inc. GHGenius 4.03. A" exact="model" post="for lifecycle assessment of transportation fuels. (2013). 45.Delucchi, M."/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7200977/results/search/runaway/results.xml">
+   <result pre="steps: region of interest segmentation, feature extraction, feature selection, and" exact="model" post="building and validation. The feature selection methods included the"/>
+   <result pre="coefficient, and Partition-Membership filter. The performance metrics of the classification" exact="model" post="included accuracy (Acc), precision (Pre), area under curve (AUC),"/>
+   <result pre="feature redundancy varies with the algorithms. The final step is" exact="model" post="building. The algorithms of model building can be roughly"/>
+   <result pre="algorithms. The final step is model building. The algorithms of" exact="model" post="building can be roughly divided into machine learning and"/>
+   <result pre="first-order features and higher-order features from the ROI. (4) Prediction" exact="model" post="building based on machine learning classifiers, ROC curves used"/>
+   <result pre="on machine learning classifiers, ROC curves used to assess the" exact="model" post="performance. Adc is lung Adenocarcinoma, and Oth are other"/>
+   <result pre="could be the basis to develop a multiple class classification" exact="model" post="to reduce or avoid the use of invasive diagnostic"/>
+   <result pre="the random line which is the worst possible performance a" exact="model" post="can achieve. (A) Logistic regression (LR), naive bayes (NB),"/>
+   <result pre="by radiomics (22–28). Tang et al. (27) developed a radiomics" exact="model" post="to discriminate Adc from squamous cell carcinoma (Sqc) with"/>
+   <result pre="AUC of 0.82, Yang et al. (24) developed an LR" exact="model" post="to predict lymph node metastasis in solid Adc with"/>
+   <result pre="divided with stratified random sampling to keep them balanced. For" exact="model" post="development, independent data sets were used for feature selection"/>
+   <result pre="development, independent data sets were used for feature selection and" exact="model" post="construction, and cross validation method was used for resampling."/>
+   <result pre="construction, and cross validation method was used for resampling. In" exact="model" post="selection, we used many classifiers to show the classification"/>
+   <result pre="texture features were available. We used this data set for" exact="model" post="building and validation. In order to keep the data"/>
+   <result pre="included CT image acquisition, texture feature extraction, feature selection, and" exact="model" post="building. The validation phase included model testing and performance"/>
+   <result pre="extraction, feature selection, and model building. The validation phase included" exact="model" post="testing and performance evaluation. CT Image Acquisition and Texture"/>
+   <result pre="with 10-folds cross validation. The performance metrics of the classification" exact="model" post="included TPR, TNR, accuracy, precision, AUC, kappa statistics, and"/>
+   <result pre="2.ForghaniRSavadjievPChatterjeeAMuthukrishnanNReinholdCForghaniBet al.. Radiomics and artificial intelligence for biomarker and prediction" exact="model" post="development in oncology. Comput Struct Biotechnol J. (2019) 17:995–1008."/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="test1/PMC7235041/results/search/runaway/results.xml">
+   <result pre="bottom-up perceptual information to these neural patterns using a forward-encoding" exact="model" post="of primary visual cortex (HMAX13). In this way, we"/>
+   <result pre="(Meng = 76%, Mnov = 66%, t(29) = 2.44, p = 0.02; Fig. 1b inset). A linear mixed-effects" exact="model" post="revealed significant main effects of both run (β = 0.03, SE = 0.01,"/>
+   <result pre="students (top left) and novices (top right), accompanied by the" exact="model" post="DM for the mechanical categories of the stimuli. Engineering"/>
+   <result pre="the visual similarity analysis are shown, alongside the visual similarity" exact="model" post="DM produced by HMAX. Both groups show peak visual"/>
+   <result pre="entirely data-driven; at no point was an a priori representational" exact="model" post="introduced. (This analysis is described in full detail in"/>
+   <result pre="each participant were then correlated with a mechanical category information" exact="model" post="DM, as well as a visual similarity model DM"/>
+   <result pre="category information model DM, as well as a visual similarity" exact="model" post="DM as a control analysis. The mechanical category DM"/>
+   <result pre="be divided: cantilevers, trusses, and vertical loads. The visual similarity" exact="model" post="DM for the stimulus items was generated using the"/>
+   <result pre="for the stimulus items was generated using the HMAX forward-encoding" exact="model" post="of primary visual cortex. Finally, we computed a summary"/>
+   <result pre="showed a significant peak correlation with the mechanical category representation" exact="model" post="in a bilateral anterior vOT informational network (t(15) = 2.27, p = 0.038),"/>
+   <result pre="the mechanical category representations cannot be accounted for by a" exact="model" post="of item-level visual similarity alone. As a descriptive visualization"/>
+   <result pre="visual informational gradient peak representations (nor in the visual similarity" exact="model" post="representation itself). Fig. 5 Descriptive visualization showing that the"/>
+   <result pre="from the mechanical category analysis. In contrast, the visual similarity" exact="model" post="and the peak informational networks from the visual similarity"/>
+   <result pre="encounter a ceiling effect; Fig. 1), despite not receiving any" exact="feedback" post="about their task performance. This behavioral change is therefore"/>
+   <result pre="that does not come out of the univariate general linear" exact="model" post="(GLM). This difference between an analysis of global signal"/>
+   <result pre="whether the labeling was correct or incorrect based on the" exact="model" post="they had imagined during the fixation period, and indicate"/>
+   <result pre="calculate beta-value estimates for each stimulus, an item-level univariate regression" exact="model" post="was computed for each functional run using the GLM."/>
+   <result pre="To accomplish this, an explanatory variable was set up to" exact="model" post="the brain activity associated with each individual stimulus. Activity"/>
+   <result pre="an unconfounded estimate of the BOLD signal. In order to" exact="model" post="this brain activity separately from the rest of the"/>
+   <result pre="button press, a separate explanatory variable was set up to" exact="model" post="brain activity associated with the response period (4 s per"/>
+   <result pre="correlations were calculated between each informational network DM and a" exact="model" post="DM representing the mechanical structure category for each stimulus"/>
+   <result pre="neural activity patterns, we performed a control analysis using a" exact="model" post="of visual similarity between items in the stimulus set."/>
+   <result pre="set. For this control analysis, we computed a visual similarity" exact="model" post="of the stimuli using a forward-encoding model of primary"/>
+   <result pre="a visual similarity model of the stimuli using a forward-encoding" exact="model" post="of primary visual cortex (HMAX, C1 layer13). RSA was"/>
+   <result pre="3, using the identical approach as for the mechanical category" exact="model" post="but this time targeting the visual similarity model. The"/>
+   <result pre="showing the correlations between neural representations and the visual similarity" exact="model" post="for each group are displayed in Fig. 3, and"/>
+   <result pre="the mechanical category information peaks and the mechanical and visual" exact="model" post="DMs in Fig. 5. (The mechanical and visual RSA"/>
+   <result pre="of the Cognitive Neuroscience of Learning Lab at Dartmouth for" exact="feedback" post="on earlier versions of this manuscript. Author contributions J.S.C."/>
+  </snippets>
+ </snippetsTree>
+</projectSnippetsTree>

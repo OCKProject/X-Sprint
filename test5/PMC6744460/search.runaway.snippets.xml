@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="test5/PMC6744460/results/search/runaway/results.xml">
+  <result pre="for early detection of electrode temperature rise during simulated thermal" exact="runaway" post="tests incorporating a modern additive manufacturing-supported resistance temperature detector"/>
+  <result pre="RTD with almost 10 times faster detection ability, prohibiting thermal" exact="runaway" post="events without interfering in the LIBs’ operation. A temperature"/>
+  <result pre="events without interfering in the LIBs’ operation. A temperature prediction" exact="model" post="is developed to forecast battery surface temperature rise stemming"/>
+  <result pre="explosion14,15. When the examined LIBs were shorted to simulate thermal" exact="runaway" post="conditions, temperature differences up to 50 °C were observed between"/>
+  <result pre="material fracture16. During battery thermal hazards such as a thermal" exact="runaway" post="phenomena, violent temperature rise leads to cracking of the"/>
+  <result pre="non-negligible at the start of the cooling process. Thus, the" exact="model" post="in Eq. (2) will fail to reflect the actual"/>
+  <result pre="in battery short circuit test; (b) Representative comparison of temperature" exact="model" post="predictions; (c) Peak temperature prediction error comparison; (d) Peak"/>
+  <result pre="\begin{document}$$\dot{{\rm{Q}}}$$\end{document} Q ˙ is shown in Fig. 5(b). The new" exact="model" post="reduces error in maximum surface temperature prediction as shown"/>
+  <result pre="prediction error remains steady over different cathode sizes and the" exact="model" post="can be applied to cells with higher electrode mass."/>
+  <result pre="be applied to cells with higher electrode mass. The proposed" exact="model" post="can also predict battery temperature evolution after thermal hazard"/>
+  <result pre="used for improving the efficiency of surface temperature-based battery thermal" exact="runaway" post="detection. A curved surface correlating maximum surface temperature increasing"/>
+  <result pre="rate of battery surface temperature in short circuit related thermal" exact="runaway" post="is dependent on both electrode temperature rise and electrode"/>
+  <result pre="transfer from the electrode to battery surface. Thus, the thermal" exact="runaway" post="risk level cannot be simply predicted with the change"/>
+  <result pre="Fig. 6e, there will be a high risk of thermal" exact="runaway" post="and effective cooling such as forced air cooling should"/>
+  <result pre="transient regional processes, and it was instructive for LIB thermal" exact="runaway" post="detection and prevention. Figure 6 Strategy for protecting coin"/>
+  <result pre="For prevention of short circuit related thermal runaway, a thermal" exact="runaway" post="risk assessing strategy is developed for CR2032 coin cell"/>
+  <result pre="battery surface temperature from Eqs (6 and 7): This thermal" exact="runaway" post="prevention strategy consists of internal RTD and external RTD"/>
+  <result pre="rise, ΔTint, is used as the early signature of thermal" exact="runaway" post="and if the measured value excesses range for safe"/>
+  <result pre="manner based on Eq. (6), a high risk for thermal" exact="runaway" post="is identified for the analyzed cell and it should"/>
+  <result pre="fabrication To develop a feasible approach to detect battery thermal" exact="runaway" post="in-operando and meet requirement on commercial LIBs, the design"/>
+  <result pre="(RTS)-based control for Li-ion battery safetyScientific Reports201551823710.1038/srep1823726658957 9.FineganDPet al.Characterising thermal" exact="runaway" post="within lithium-ion cells by inducing and monitoring internal short"/>
+  <result pre="a Li-ion battery with fiber bragg grating sensorsSensors201616139410.3390/s16091394 14.LiuBYinSXuJIntegrated computation" exact="model" post="of lithium-ion battery subject to nail penetrationApplied Energy201618327828910.1016/j.apenergy.2016.08.101 15.OrendorffCJRothEPNagasubramanianGExperimental"/>
+  <result pre="with external thermal gradientACS Applied Materials &amp;amp; Interfaces201810263282633410.1021/acsami.8b0913129999310 40.WangQet al.Thermal" exact="runaway" post="caused fire and explosion of lithium ion batteryJournal of"/>
+  <result pre="extremesJournal of The Electrochemical Society2018165A1639A164710.1149/2.0671809jes 42.YokoshimaTet al.Operando analysis of thermal" exact="runaway" post="in lithium ion battery during nail-penetration test using an"/>
+ </snippets>
+</snippetsTree>

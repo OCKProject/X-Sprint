@@ -1,0 +1,524 @@
+{
+  "id": [
+    "30936325"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30936325"
+  ],
+  "pmcid": [
+    "PMC6453287"
+  ],
+  "doi": [
+    "10.1136/bcr-2018-225411"
+  ],
+  "title": [
+    "Runaway pacemaker."
+  ],
+  "authorString": [
+    "Gul A, Sheikh MA, Rao A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gul A"
+          ],
+          "firstName": [
+            "Ambreen"
+          ],
+          "lastName": [
+            "Gul"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Cardiology, Southend University Hospital NHS Foundation Trust, Westcliff-on-Sea, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sheikh MA"
+          ],
+          "firstName": [
+            "Muhammad Asad"
+          ],
+          "lastName": [
+            "Sheikh"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Cardiology, Southend University Hospital NHS Foundation Trust, Westcliff-on-Sea, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rao A"
+          ],
+          "firstName": [
+            "Atif"
+          ],
+          "lastName": [
+            "Rao"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Cardiology, Southend University Hospital NHS Foundation Trust, Westcliff-on-Sea, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2788250"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ case reports"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Case Rep"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Case Rep"
+          ],
+          "NLMid": [
+            "101526291"
+          ],
+          "ISSN": [
+            "1757-790X"
+          ],
+          "ESSN": [
+            "1757-790X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Runaway pacemaker is phenomenon in which pacemaker induces ventricular tachycardia as a result of some malfunction in the device. This entity is not very common in clinical practice. Normally, the pacemaker perceives the inherent cardiac impulse and hence averting the delivery of pacemaker stimulus in susceptible period of cardiac cycle. This is a case of a pacemaker-induced tachycardia (named as runaway pacemaker) in a patient with a history of Single Chamber Ventricular (VVI) pacemaker. A 75-year-old man was admitted with 3 days history of fluttering in the chest, shortness of breath, central chest and epigastric pain which radiated to the back. His medical history includes pacemaker implantation in 1996 with lead complication following which he was managed with VVI pacemaker, and the last procedure was generator change 4 years ago with no complication. Examination revealed ventricular tachycardia with ECG showing paced rhythm with ventricular pacing at the rate of 200-150/min. His pacemaker-induced ventricular tachycardia was immediately aborted after putting magnet on the device which restored his baseline rhythm with heart rate of 60/min. Pacemaker was explanted urgently with replacement of new pulse generator. The patient was discharged home with VVI pacemaker showing excellent parameters."
+  ],
+  "affiliation": [
+    "Department of Cardiology, Southend University Hospital NHS Foundation Trust, Westcliff-on-Sea, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Heart Conduction System"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tachycardia, Ventricular"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrocardiography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Device Removal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Prosthesis Implantation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Equipment Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Equipment Failure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bioelectric Energy Sources"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pacemaker, Artificial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arrhythmias, Cardiac"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Arrhythmias",
+        "Pacing And Electrophysiology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bcr-2018-225411"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6453287"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6453287?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bcr-2018-225411"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-29"
+  ],
+  "dateOfCreation": [
+    "2019-04-03"
+  ],
+  "firstIndexDate": [
+    "2019-04-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-25"
+  ],
+  "dateOfRevision": [
+    "2019-07-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-31"
+  ],
+  "firstPublicationDate": [
+    "2019-03-31"
+  ]
+}

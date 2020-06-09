@@ -1,0 +1,350 @@
+{
+  "id": [
+    "30808914"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30808914"
+  ],
+  "pmcid": [
+    "PMC6391379"
+  ],
+  "doi": [
+    "10.1038/s41598-019-39431-8"
+  ],
+  "title": [
+    "Development of highly inhomogeneous temperature profile within electrically heated alkali silicate glasses."
+  ],
+  "authorString": [
+    "McLaren CT, Kopatz C, Smith NJ, Jain H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McLaren CT"
+          ],
+          "firstName": [
+            "Charles T"
+          ],
+          "lastName": [
+            "McLaren"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Lehigh University, Bethlehem, PA, 18015, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kopatz C"
+          ],
+          "firstName": [
+            "Craig"
+          ],
+          "lastName": [
+            "Kopatz"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Corning Incorporated, Corning, NY, 14830, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith NJ"
+          ],
+          "firstName": [
+            "Nicholas J"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "NJ"
+          ],
+          "affiliation": [
+            "Corning Incorporated, Corning, NY, 14830, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jain H"
+          ],
+          "firstName": [
+            "Himanshu"
+          ],
+          "lastName": [
+            "Jain"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4382-9460",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Lehigh University, Bethlehem, PA, 18015, USA. h.jain@lehigh.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4382-9460",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2776943"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2805"
+  ],
+  "abstractText": [
+    "According to Joule's well-known first law, application of electric field across a homogeneous solid should produce heat uniformly in proportion to the square of electrical current. Here we report strong departure from this expectation for common, homogeneous ionic solids such as alkali silicate glasses when subjected even to moderate fields (~100 V/cm). Unlike electronically conducting metals and semiconductors, with time the heating of ionically conducting glass becomes extremely inhomogeneous with the formation of a nanoscale alkali-depletion region, such that the glass melts near the anode, even evaporates, while remaining solid elsewhere. In situ infrared imaging shows and finite element analysis confirms localized temperatures more than thousand degrees above the remaining sample depending on whether the field is DC or AC. These observations unravel the origin of recently discovered electric field induced softening of glass. The observed highly inhomogeneous temperature profile point to the challenges for the application of Joule's law to the electrical performance of glassy thin films, nanoscale devices, and similarly-scaled phenomena."
+  ],
+  "affiliation": [
+    "Department of Materials Science and Engineering, Lehigh University, Bethlehem, PA, 18015, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DMR-0844014"
+          ],
+          "agency": [
+            "National Science Foundation (NSF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-39431-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6391379"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6391379?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-39431-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-28"
+  ],
+  "firstIndexDate": [
+    "2019-02-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2019-02-26"
+  ]
+}

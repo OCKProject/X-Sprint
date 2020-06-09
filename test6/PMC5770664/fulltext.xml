@@ -1,0 +1,775 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5770664</article-id><article-id pub-id-type="doi">10.1002/advs.201700369</article-id><article-id pub-id-type="publisher-id">ADVS438</article-id><article-categories><subj-group subj-group-type="overline"><subject>Full Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Full Papers</subject></subj-group></article-categories><title-group><article-title>Identifying the Cause of Rupture of Li&#x02010;Ion Batteries during Thermal Runaway</article-title></title-group><contrib-group><contrib id="advs438-cr-0001" contrib-type="author"><name><surname>Finegan</surname><given-names>Donal P.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4633-560X</contrib-id><xref ref-type="aff" rid="advs438-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs438-cr-0002" contrib-type="author"><name><surname>Darcy</surname><given-names>Eric</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8426-8607</contrib-id><xref ref-type="aff" rid="advs438-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs438-cr-0003" contrib-type="author"><name><surname>Keyser</surname><given-names>Matthew</given-names></name><xref ref-type="aff" rid="advs438-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="advs438-cr-0004" contrib-type="author"><name><surname>Tjaden</surname><given-names>Bernhard</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5055-5923</contrib-id><xref ref-type="aff" rid="advs438-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs438-cr-0005" contrib-type="author"><name><surname>Heenan</surname><given-names>Thomas M. M.</given-names></name><xref ref-type="aff" rid="advs438-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs438-cr-0006" contrib-type="author"><name><surname>Jervis</surname><given-names>Rhodri</given-names></name><xref ref-type="aff" rid="advs438-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs438-cr-0007" contrib-type="author"><name><surname>Bailey</surname><given-names>Josh J.</given-names></name><xref ref-type="aff" rid="advs438-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs438-cr-0008" contrib-type="author"><name><surname>Vo</surname><given-names>Nghia T.</given-names></name><xref ref-type="aff" rid="advs438-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs438-cr-0009" contrib-type="author"><name><surname>Magdysyuk</surname><given-names>Oxana V.</given-names></name><xref ref-type="aff" rid="advs438-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs438-cr-0010" contrib-type="author"><name><surname>Drakopoulos</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="advs438-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="advs438-cr-0011" contrib-type="author"><name><surname>Michiel</surname><given-names>Marco Di</given-names></name><xref ref-type="aff" rid="advs438-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="advs438-cr-0012" contrib-type="author"><name><surname>Rack</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="advs438-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="advs438-cr-0013" contrib-type="author"><name><surname>Hinds</surname><given-names>Gareth</given-names></name><xref ref-type="aff" rid="advs438-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="advs438-cr-0014" contrib-type="author"><name><surname>Brett</surname><given-names>Dan J. L.</given-names></name><xref ref-type="aff" rid="advs438-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs438-cr-0015" contrib-type="author" corresp="yes"><name><surname>Shearing</surname><given-names>Paul R.</given-names></name><address><email>p.shearing@ucl.ac.uk</email></address><xref ref-type="aff" rid="advs438-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="advs438-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Electrochemical Innovation Lab</named-content>
+<named-content content-type="organisation-division">Department of Chemical Engineering</named-content>
+<institution>University College London</institution>
+<named-content content-type="street">Torrington Place</named-content>
+<named-content content-type="city">London</named-content>
+<named-content content-type="post-code">WC1E 7JE</named-content>
+<country country="GB">UK</country>
+</aff><aff id="advs438-aff-0002">
+<label><sup>2</sup></label>
+<institution>NASA Johnson Space Center</institution>
+<named-content content-type="city">Houston</named-content>
+<named-content content-type="country-part">TX</named-content>
+<named-content content-type="post-code">77058</named-content>
+<country country="US">USA</country>
+</aff><aff id="advs438-aff-0003">
+<label><sup>3</sup></label>
+<institution>National Renewable Energy Laboratory</institution>
+<named-content content-type="street">15013 Denver West Parkway</named-content>
+<named-content content-type="city">Golden</named-content>
+<named-content content-type="country-part">CO</named-content>
+<named-content content-type="post-code">80401</named-content>
+<country country="US">USA</country>
+</aff><aff id="advs438-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Diamond Light Source</named-content>
+<institution>Harwell Science and Innovation Campus</institution>
+<named-content content-type="city">Didcot</named-content>
+<named-content content-type="country-part">Oxfordshire</named-content>
+<named-content content-type="post-code">OX110DE</named-content>
+<country country="GB">UK</country>
+</aff><aff id="advs438-aff-0005">
+<label><sup>5</sup></label>
+<institution>ESRF&#x02013;The European Synchrotron</institution>
+<named-content content-type="street">71 Rue des Martyrs</named-content>
+<named-content content-type="post-code">38000</named-content>
+<named-content content-type="city">Grenoble</named-content>
+<country country="FR">France</country>
+</aff><aff id="advs438-aff-0006">
+<label><sup>6</sup></label>
+<institution>National Physical Laboratory</institution>
+<named-content content-type="street">Hampton Road</named-content>
+<named-content content-type="city">Teddington</named-content>
+<named-content content-type="country-part">Middlesex</named-content>
+<named-content content-type="post-code">TW11 0LW</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>p.shearing@ucl.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>10</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2018</year></pub-date><volume>5</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/advs.v5.1</issue-id><elocation-id>1700369</elocation-id><history><date date-type="received"><day>11</day><month>7</month><year>2017</year></date><date date-type="rev-recd"><day>04</day><month>9</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-5-na.pdf"/><abstract><title>Abstract</title><p>As the energy density of lithium&#x02010;ion cells and batteries increases, controlling the outcomes of thermal runaway becomes more challenging. If the high rate of gas generation during thermal runaway is not adequately vented, commercial cell designs can rupture and explode, presenting serious safety concerns. Here, ultra&#x02010;high&#x02010;speed synchrotron X&#x02010;ray imaging is used at &#x0003e;20 000 frames per second to characterize the venting processes of six different 18650 cell designs undergoing thermal runaway. For the first time, the mechanisms that lead to the most catastrophic type of cell failure, rupture, and explosion are identified and elucidated in detail. The practical application of the technique is highlighted by evaluating a novel 18650 cell design with a second vent at the base, which is shown to avoid the critical stages that lead to rupture. The insights yielded in this study shed new light on battery failure and are expected to guide the development of safer commercial cell designs.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs438-kwd-0001">high&#x02010;speed imaging</kwd><kwd id="advs438-kwd-0002">Li&#x02010;ion batteries</kwd><kwd id="advs438-kwd-0003">thermal runaway</kwd><kwd id="advs438-kwd-0004">venting</kwd><kwd id="advs438-kwd-0005">X&#x02010;ray CT</kwd></kwd-group><funding-group><award-group><funding-source>EPSRC</funding-source><award-id>EP/N032888/1</award-id><award-id>EP/M009394/1</award-id></award-group><award-group><funding-source>Royal Academy of Engineering</funding-source></award-group><award-group><funding-source>STFC</funding-source><award-id>ST/N002385/1</award-id></award-group><award-group><funding-source>UK National Measurement System</funding-source></award-group></funding-group><counts><fig-count count="9"/><table-count count="3"/><page-count count="13"/><word-count count="8214"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs438</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.1 mode:remove_FC converted:17.01.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs438-cit-0033">
+<string-name>
+<given-names>D. P.</given-names>
+<surname>Finegan</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Darcy</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Keyser</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Tjaden</surname>
+</string-name>, <string-name>
+<given-names>T. M. M.</given-names>
+<surname>Heenan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Jervis</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Bailey</surname>
+</string-name>, <string-name>
+<given-names>N. T.</given-names>
+<surname>Vo</surname>
+</string-name>, <string-name>
+<given-names>O. V.</given-names>
+<surname>Magdysyuk</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Drakopoulos</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Di Michiel</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rack</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hinds</surname>
+</string-name>, <string-name>
+<given-names>D. J. L.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Shearing</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2018</year>, <volume>5</volume>, <elocation-id>1700369</elocation-id>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/advs.438">https://doi.org/10.1002/advs.438</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="advs438-sec-0010"><label>1</label><title>Introduction</title><p>The uptake of electric and hybrid electric vehicles (EVs and HEVs) brings forth a rapid increase in the demand for lithium&#x02010;ion batteries alongside an acute need for improvements in their safety and performance.<xref rid="advs438-bib-0001" ref-type="ref">1</xref> As the energy density of batteries rises, their safety and reliability becomes increasingly important. When exposed to abusive electrical, thermal, or mechanical conditions, the active materials within lithium&#x02010;ion batteries break down exothermically, generating large amounts of heat which can lead to thermal runaway, accompanied by fire and/or explosion.<xref rid="advs438-bib-0002" ref-type="ref">2</xref>, <xref rid="advs438-bib-0003" ref-type="ref">3</xref>, <xref rid="advs438-bib-0004" ref-type="ref">4</xref> Although the risk of a single cell failing is extremely low, the risk of cell failure within an EV becomes significant when thousands of cells are encased in a pack. In particular, the occurrence of a single cell undergoing thermal runaway causes great concern since cell&#x02010;to&#x02010;cell propagation of thermal runaway and the hazardous destruction of the entire system can occur.<xref rid="advs438-bib-0005" ref-type="ref">5</xref>
+</p><p>The 18650 cell (designated by it having a cylindrical geometry with a diameter of 18 mm and a length of 65 mm) is the most ubiquitous lithium&#x02010;ion cell geometry and one that is used in some EVs as well as other demanding applications such as human spaceflight.<xref rid="advs438-bib-0006" ref-type="ref">6</xref> The capacity of 18650 cells has steadily been increasing since their initial production,<xref rid="advs438-bib-0007" ref-type="ref">7</xref> with commercial cells today achieving &#x0003e;3 Ah. With increasing capacity, the rate and quantity of heat and gas generated during failure of the cells are also expected to rise. In a report from Sandia National Labs, Orendorff et al.<xref rid="advs438-bib-0008" ref-type="ref">8</xref> measured a heating rate of 70 W Ah<sup>&#x02212;1</sup>, a heat output of 9.1 kJ Ah<sup>&#x02212;1</sup>, and a gas output of 2.5 L Ah<sup>&#x02212;1</sup> during thermal runaway of cylindrical 3.4 Ah LiNi<sub>0.8</sub>Co<sub>0.15</sub>Al<sub>0.05</sub>O<sub>2</sub> (NCA) cells. The increasing heating rate, as well as heat and gas output, present engineering challenges to mitigate the risk of catastrophic failure. For example, gas generation within the rigid casing of an 18650 cell causes it to effectively become a pressure vessel, and if the pressure within the cell is not relieved in a controlled manner, then the cell can undergo violent rupture in the form of an explosion.</p><p>Integrated safety devices<xref rid="advs438-bib-0009" ref-type="ref">9</xref> such as pressure relief vents, positive temperature coefficient (PTC) devices, current limiting switches, and current interrupt devices (CIDs) are designed to prevent the build&#x02010;up of gas, and if necessary, safely relieve pressure. However, a rapid rise in pressure can sometimes circumvent the safety mechanisms of even the most advanced cell designs. For example, as shown in a previous study,<xref rid="advs438-bib-0004" ref-type="ref">4</xref> an 18650 cell can rupture if the pressure relief is hindered by the vent becoming clogged; this leads to the spread of hot projectiles and molten materials into the surrounding area. The hazards associated with such projectiles are widely recognized, and some testing standards, such as UL 2054,<xref rid="advs438-bib-0010" ref-type="ref">10</xref> involve projectile tests for cells undergoing thermal runaway. The efficacy of the venting mechanism determines the risk of the cell exploding and producing projectiles, as well as playing an important role in heat dissipation of the cell during failure.<xref rid="advs438-bib-0011" ref-type="ref">11</xref> A high rate and large volume of gas generation can lead to flares,<xref rid="advs438-bib-0012" ref-type="ref">12</xref> which challenge the mechanical integrity of cells and their integrated safety devices. Therefore, it is imperative that the engineering design of cells evolves alongside their increasing energy density, and that the increasing risks associated with failure are understood and mitigated. This necessitates an applied understanding of battery failure with detailed empirical descriptions of the events that occur leading up to and during catastrophic failure,<xref rid="advs438-bib-0013" ref-type="ref">13</xref> linking phenomena that occur within cells to risks posed externally. However, due to the complexity and high speed of catastrophic failure, as well as the myriad of possibilities for failure propagation, there remains limited understanding of the internal events that lead to cell rupture, limiting design options for preventing such phenomena.</p><p>X&#x02010;ray radiography and computed tomography (CT) have been used to noninvasively inspect internal architectures of materials and devices. Time&#x02010;lapse X&#x02010;ray imaging can be used to track the evolution of materials as they change over time, which has emerged as a highly effective method for characterizing degradation mechanisms of lithium&#x02010;ion batteries across multiple time and length scales.<xref rid="advs438-bib-0003" ref-type="ref">3</xref>, <xref rid="advs438-bib-0004" ref-type="ref">4</xref>, <xref rid="advs438-bib-0014" ref-type="ref">14</xref> As shown in a previous study,<xref rid="advs438-bib-0004" ref-type="ref">4</xref> thermal runaway can propagate throughout 18650 cells in &#x0003c;2 s, requiring a temporal resolution of &#x0003e;1000 frames per second (fps) to capture sufficient detail to describe the dynamic failure mechanisms. The process of cell rupture was observed to occur over &#x0003c;0.01 s, requiring a much higher temporal resolution and frame rate to achieve enough detail to characterize the process. X&#x02010;ray sources with an extremely high photon flux such as synchrotrons are required<xref rid="advs438-bib-0015" ref-type="ref">15</xref> to achieve such high&#x02010;speed imaging capabilities. For example, recently a team at the Swiss Light Source (SLS) achieved high&#x02010;speed X&#x02010;ray CT at 20 Hz,<xref rid="advs438-bib-0016" ref-type="ref">16</xref> and at the European Synchrotron (ESRF) the dynamics of an electric arc ignition in a fuse were captured via ultra&#x02010;high&#x02010;speed radiography at MHz frame rates.<xref rid="advs438-bib-0017" ref-type="ref">17</xref>
+</p><p>In this work, the high&#x02010;speed imaging capability of the ESRF<xref rid="advs438-bib-0018" ref-type="ref">18</xref> has been used to image the venting and rupture mechanisms of five different commercial cell designs undergoing thermal runaway induced by thermal abuse. The rapid processes that lead to cell bursting are identified via high&#x02010;speed imaging at unprecedented rates of up to 20 272 fps. This approach allows the stages that lead to the most catastrophic type of failure (cell bursting) to be characterized, as well as more moderate types of failure. The insights achieved from the experiments performed at the ESRF clarify the need for cell designs with more effective pressure relief. The behavior of a prototype cell with a double&#x02010;vent design is then assessed via follow&#x02010;on high&#x02010;speed imaging experiments at the Diamond Light Source (DLS) synchrotron.<xref rid="advs438-bib-0019" ref-type="ref">19</xref> The venting mechanisms of six different 18650 cell designs are compared with respect to safety, and the merits of each design, as well as suggestions for further improvements, are discussed.</p></sec><sec id="advs438-sec-0020"><label>2</label><title>Results and Discussion</title><sec id="advs438-sec-0030"><label>2.1</label><title>18650 Cell Designs</title><p>The venting mechanisms of five different commercial 18650 cell designs and one prototype cell design were examined via high&#x02010;speed radiography during thermal runaway. The specifications of the tested cells are presented in <bold>Table</bold>
+<xref rid="advs438-tbl-0001" ref-type="table-wrap">
+<bold>1</bold>
+</xref>, where the cells contain one or more of four different electrode materials, LiNi<italic><sub>x</sub></italic>Mn<italic><sub>y</sub></italic>Co<italic><sub>z</sub></italic>O<sub>2</sub> (NMC), LiNi<italic><sub>x</sub></italic>Co<italic><sub>y</sub></italic>Al<italic><sub>z</sub></italic>O<sub>2</sub> (NCA), LiMn<sub>2</sub>O<sub>4</sub> (LMO), and LiCoO<sub>2</sub> (LCO).</p><table-wrap id="advs438-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Specifications of 18650 lithium&#x02010;ion cells used during high&#x02010;speed radiography experiments. The voltage at which the cells were tested, as well as whether the cell contained a mandrel, is also provided</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Model</th><th align="center" rowspan="1" colspan="1">Positive electrode</th><th align="center" rowspan="1" colspan="1">Capacity [Ah]</th><th align="center" rowspan="1" colspan="1">Voltage [V]</th><th align="center" rowspan="1" colspan="1">Mandrel</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">LG ICR18650&#x02010;S3</td><td align="center" rowspan="1" colspan="1">NMC</td><td align="center" rowspan="1" colspan="1">2.2</td><td align="center" rowspan="1" colspan="1">4.2</td><td align="center" rowspan="1" colspan="1">No</td></tr><tr><td align="left" rowspan="1" colspan="1">LG ICR18650&#x02010;B4</td><td align="center" rowspan="1" colspan="1">NMC</td><td align="center" rowspan="1" colspan="1">2.6</td><td align="center" rowspan="1" colspan="1">4.2</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">Panasonic NCR18650B</td><td align="center" rowspan="1" colspan="1">NCA</td><td align="center" rowspan="1" colspan="1">3.4</td><td align="center" rowspan="1" colspan="1">4.2</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">Samsung INR18650&#x02010;25R</td><td align="center" rowspan="1" colspan="1">NCA</td><td align="center" rowspan="1" colspan="1">2.5</td><td align="center" rowspan="1" colspan="1">4.2</td><td align="center" rowspan="1" colspan="1">No</td></tr><tr><td align="left" rowspan="1" colspan="1">Sanyo UR18650ZY</td><td align="center" rowspan="1" colspan="1">LMO and LCO</td><td align="center" rowspan="1" colspan="1">2.6</td><td align="center" rowspan="1" colspan="1">4.2</td><td align="center" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" rowspan="1" colspan="1">Bottom&#x02010;vent cell</td><td align="center" rowspan="1" colspan="1">NCA</td><td align="center" rowspan="1" colspan="1">2.8</td><td align="center" rowspan="1" colspan="1">4.2</td><td align="center" rowspan="1" colspan="1">No</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>The six cells represent a wide range of chemistries, capacities, and cell designs. The two LG cells, LG ICR18650&#x02010;S3 and LG ICR18650&#x02010;B4, will henceforth be referred to as LG&#x02010;S3 and LG&#x02010;B4. The vent region of each cell design was imaged using X&#x02010;ray CT (imaging conditions are provided in the following sections), and exploded 3D segmentations are presented in <bold>Figure</bold>
+<xref rid="advs438-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>. The LG cells contained the same vent design (Figure <xref rid="advs438-fig-0001" ref-type="fig">2</xref>a,c), but the LG&#x02010;B4 cell contained a cylindrical center mandrel which offered some safety advantages.<xref rid="advs438-bib-0020" ref-type="ref">20</xref> Figure <xref rid="advs438-fig-0001" ref-type="fig">2</xref> shows the safety features and vent designs of the LG, Panasonic, Samsung, and Sanyo cells. The CID vent disk on each cell consisted of a conducting plate with a domed structure that was concave with respect to the electrode assembly. When the pressure inside the cell increased due to gas generation, the domed disk became convex and disconnected the circuit, preventing further discharge. In addition, each CID disk contained a scored annulus that ruptured when a certain pressure was reached, initiating the venting process. The LG, Panasonic, and Sanyo cells all contained PTC devices (Figure <xref rid="advs438-fig-0001" ref-type="fig">2</xref>), in contrast to the Samsung cell due to it being designed for high&#x02010;rate discharge (20 A) applications. The PTC switch consisted of a conductive polymer layer between two metallic annular disks that greatly increased in electrical resistance at elevated temperatures.</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0007" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Greyscale <italic>XZ</italic> orthoslices from X&#x02010;ray CT reconstructions of a) LG&#x02010;S3 and b) Panasonic cells. Exploded 3D reconstructions of c) LG&#x02010;S3 and d) Panasonic cells, showing the placement of the integrated safety devices. Greyscale <italic>XZ</italic> orthoslices from e) Sanyo and f) Samsung cells. Exploded 3D reconstructions of g) Sanyo and h) Samsung cells, showing the placement of the integrated safety devices.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-5-na-g007"/></fig><p>The design of the spin groove of the crimp seal and its top fold of each cell, shown in the greyscale tomographic slices in Figure <xref rid="advs438-fig-0001" ref-type="fig">2</xref>a,b,e,f, played an important role in the bursting process of each cell. The spin groove stretched as a result of rapid pressure rise during thermal runaway; its architecture determined the volume of gas that could accumulate within the cell before it burst and released the cell header, as well as the bursting pressure itself. The Panasonic cell contained the shortest spin groove height (Figure <xref rid="advs438-fig-0007" ref-type="fig">1</xref>b). The Sanyo and Samsung cells had similar crimp designs with a deeper spin groove into the core of the cell, whereas the LG cells contained a shallower spin groove with a thick wall.</p></sec><sec id="advs438-sec-0040"><label>2.2</label><title>Controlled Ejection</title><p>The process of pressure relief determines the risks associated with cell failure. The crimp components are designed to relieve the pressure in a controlled way, with the release of hot and molten fluidized material in a known direction, and without high&#x02010;velocity projectiles. Internal cylindrical mandrels are designed to aid the release of pressure by providing a clear path for the fluidized material and gases to flow from the base to the crimp of the cell. As shown in a previous study,<xref rid="advs438-bib-0004" ref-type="ref">4</xref> without an internal mandrel the electrode assembly can collapse into the vacant core which hinders the escape of gases and increases the risk of the cell bursting.</p><p>Three cell designs exhibited a well&#x02010;controlled pressure relief and fluid ejection process during thermal runaway with each cell design displaying characteristic failure mechanisms: the LG&#x02010;S3, the LG&#x02010;B4, and the Sanyo cells. The venting mechanism of each cell was captured by high&#x02010;speed radiography at 2000 fps with two repeat tests for the LG&#x02010;S3, LG&#x02010;B4, and Sanyo cells. In <bold>Figure</bold>
+<xref rid="advs438-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>, selected radiographs from Movies S1, S3, and S5 in the Supporting Information are presented, and similar phenomena can also be seen in the movies in the Supporting Information of the repeat tests of the same cells (Movies S2, S4, and S6, Supporting Information).</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0001" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Time&#x02010;stamped radiographs of a) LG&#x02010;S3, b) LG&#x02010;B4, and c) Sanyo cells undergoing thermal runaway. Radiography movies of (a), (b), and, (c) are provided as Movies S1, S3, and S5, respectively, in the Supporting Information. The red arrows highlight the radial direction of propagation of thermal runaway, and the yellow arrows highlight the direction of peeling and shift of the electrode assembly.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-5-na-g001"/></fig><p>The LG&#x02010;S3 and LG&#x02010;B4 cells contained the same design of crimp components; however, the two cells differed in that the LG&#x02010;B4 cell contained an internal cylindrical mandrel and had a slightly higher capacity of 2.6 Ah. As highlighted by the red arrows in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>a,b, the ejection process progressed radially outwards from the inner layers of the electrode assemblies of the LG&#x02010;S3 and LG&#x02010;B4 cells. The inner layers of the LG cell without the mandrel (LG&#x02010;S3) first shifted toward the vent, creating a V&#x02010;shape (as highlighted by yellow arrows at 1.4545 s in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>a) and peeled away due to the shear force exerted by the escaping gas passing through the vacant core. Similarly, the inner layers of the electrode assembly of the LG&#x02010;B4 cells (with the mandrel) peeled away as shown after 1.6150 s in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>b, but the gas flow caused the mandrel to shift to one side, which mitigated the peeling effect on the side on which the mandrel leaned, but accentuated the peeling on the opposite side.</p><p>In each of the three LG&#x02010;S3 cells, thermal runaway propagated radially outwards from the inner layers (shown at 1.5525 s in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>a). The active materials of the electrode assembly broke down exothermically and began to fluidize. Large portions of the electrode assembly began to detach and eject, and in the case of the LG cell without the mandrel, some material accumulated beneath the top button of the cell, as shown between 1.5525 s and 2.3540 s in Figure <xref rid="advs438-fig-0001" ref-type="fig">2</xref>a. Thermal runaway ran to completion within each of the three cells, with evidence of copper globules (highly attenuating white sections shown at 2.3540 s in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>a), indicating that internal temperatures reached &#x0003e;1085 &#x000b0;C (the melting&#x02010;point of copper). However, the rate of propagation of thermal runaway in the radial direction varied between the three cells. As seen at 1.8830 s in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>b, the ejection of a large portion of the electrode assembly on the right side of the mandrel interrupted the propagation of thermal runaway in the radial direction on that side.</p></sec><sec id="advs438-sec-0050"><label>2.3</label><title>Piercing by the Mandrel</title><p>The mandrel in both the LG&#x02010;B4 and Sanyo cells (Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>b,c) was propelled through the CID vent disk and crimp plate, and exerted significant force on the top button. The mandrel in both cells had a slit from bottom to top, which allowed gases to access the vacant core at any depth through the cell. The indent at the top of both mandrels allowed gas to escape the mandrel when pressed against the top button, providing a direct route for gases to escape from the base of the cell to the top. Furthermore, when compared to the failure mechanism of the LG&#x02010;S3 cell, the mandrel appears to have mitigated the build&#x02010;up of debris beneath the top button. However, in the Sanyo cell, the mandrel deformed the crimp components and punctured through the top button, as seen between 1.9085 s and 2.3435 s in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref>c.</p><p>The three cells described in Figure <xref rid="advs438-fig-0002" ref-type="fig">3</xref> remained intact during thermal runaway. There was no evidence that the cells approached their bursting pressure during thermal runaway as neither the top fold nor spin groove of the cells displayed any significant extension. However, a postmortem X&#x02010;ray CT image capturing the additional damage (piercing) to the top button of the Sanyo cell from the internal mandrel is shown in <bold>Figure</bold>
+<xref rid="advs438-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>a.</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0002" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Postmortem 3D reconstructions and corresponding <italic>XZ</italic> and <italic>YZ</italic> orthoslices of a) Sanyo, b) Panasonic, and c) Samsung cells showing the damage to the top button after thermal runaway. The cylindrical mandrel in (a) and (b) is seen to protrude after puncturing the top button. The radiography movies showing the process of thermal runaway for the Sanyo, Panasonic, and Samsung cells are provided as Movies S5, S7, and S8 in the Supporting Information.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-5-na-g002"/></fig><p>The presence of debris and resolidified metals inside the cylindrical mandrel in Figure <xref rid="advs438-fig-0003" ref-type="fig">4</xref>a indicates that the longitudinal slit in the mandrel allowed fluidized materials to pass through its hollow core from any depth within the cell, which would have helped mitigate peeling by reducing the shear force experienced by the inner layers of the electrode assembly during thermal runaway. The presence of copper globules within the mandrel indicates that the local temperature within the flow of material was &#x0003e;1085 &#x000b0;C, which when directed at the underside of the top button would weaken the steel and facilitate the mandrel puncturing through.</p><p>Similarly, the mandrel caused a puncture in the top button of the Panasonic cell (Figure <xref rid="advs438-fig-0003" ref-type="fig">4</xref>b). Considering that the Panasonic mandrel weighed only 0.3 g, this indicates the more violent nature of thermal runaway in a cell that achieves &#x0003e;250 Wh kg<sup>&#x02212;1</sup> and &#x0003e;700 Wh L<sup>&#x02212;1</sup>. The radiographs in Movie S7 in the Supporting Information show the lead&#x02010;up to the end&#x02010;state of the cell captured in the postmortem image of the Panasonic cell in Figure <xref rid="advs438-fig-0003" ref-type="fig">4</xref>b. No debris was observed within the mandrel of the Panasonic cells, which did not contain a longitudinal slit. Consequently, the mandrel design within the Panasonic cell only relieved pressure from the base of the cell. By puncturing through the top button of the two cells, the mandrels provided a direct path for gases and fluidized materials to flow out of the casing. This is expected to have improved the pressure relief and reduced the risk of the cell bursting. However, a damaged top button would also increase the risk of the mandrel escaping as a high&#x02010;velocity projectile, which is seen in the following section.</p><p>The top button of the Samsung cell shown in Figure <xref rid="advs438-fig-0003" ref-type="fig">4</xref>c (radiographs in Movie S8, Supporting Information) is suspected to consist of an alloy with a lower melting&#x02010;point than steel because the top button was observed to melt during thermal runaway, despite there being little presence of melted copper within the cell (indicating that most of the cell did not reach 1085 &#x000b0;C).</p></sec><sec id="advs438-sec-0060"><label>2.4</label><title>Cell Bursting and Mandrel Escape</title><p>Throughout all tests, the higher energy density cells were observed to be the most likely to burst. The increased likelihood is partially attributed to the higher capacity (3.4 Ah) relative to the rest of the cells (&#x02264;2.6 Ah) which, according the report by Orendorff et al.<xref rid="advs438-bib-0008" ref-type="ref">8</xref> would produce an additional 2 L of gas during thermal runaway (based on &#x02248;2.5 L Ah<sup>&#x02212;1</sup>). The additional gas generation is also expected to result in increased force being applied on the internal mandrel and crimp components, irrespective of whether the vent clogged. The stages that lead up to bursting of the Samsung (2.5 Ah), LG (2.6 Ah), and Panasonic (3.4 Ah) cells were examined. Detailed imaging of the events surrounding the bursting process of an 18650 cell, which occurs over &#x02248;0.01 s, is beyond the capability of imaging at 2000 fps (as demonstrated in Movie S9, Supporting Information where a Panasonic cell bursts). An increased frame rate of 20 272 fps was used to capture and characterize the bursting process, which required a reduction in the size of the field of view (FOV).</p><p>When exposed to the same setup and heating rate, two out of seven Samsung cells that were tested burst. The five cells that did not burst underwent a controlled release of pressure and ejection of broken&#x02010;down material. The ejection process was improved by the top button melting (Figure <xref rid="advs438-fig-0003" ref-type="fig">4</xref>c) and clearing a path for the active material to eject. As highlighted by red arrows in <bold>Figure</bold>
+<xref rid="advs438-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>a, thermal runaway propagated from the inner layers of the cell radially outwards. The flow of gas through the core of the cell carried the active material out through the top button as it broke down. In the case of the Samsung cells that burst, it appeared that the electrode assembly collapsed into its hollow core, hindered the escape of gas, and led to the ejection of the electrode assembly via a four&#x02010;stage process (Figure <xref rid="advs438-fig-0004" ref-type="fig">5</xref>b):<list list-type="bullet" id="advs438-list-0001"><list-item><p> Stage 1 involved a minor shift of the electrode assembly toward the vent.</p></list-item><list-item><p> Stage 2 involved a sudden major shift (highlighted by the yellow arrows in Figure <xref rid="advs438-fig-0004" ref-type="fig">5</xref>b) of the electrode assembly toward the vent, clogging the vent and exerting force on the crimp components.</p></list-item><list-item><p> Stage 3 involved the spin groove stretching out as a result of the force applied by the electrode assembly on the crimp components.</p></list-item><list-item><p> Stage 4 involved the top fold straightening out and releasing the crimp components followed by ejection of the electrode assembly, completing the bursting process.</p></list-item></list>
+</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0003" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Time&#x02010;stamped radiographs taken at a) 2000 fps showing the propagation of thermal runaway within the Samsung cell and the top button melting, and b) taken at 20 272 fps showing the stages of the Samsung cell bursting. The thin yellow line on each image is a reference line at the shoulder of the spin groove. Radiography movies of (a) and (b) are provided as Movies S8 and S10, respectively, in the Supporting Information. The red arrows highlight the radial direction of propagation of thermal runaway, and the yellow arrows highlight the shift of the electrode assembly and extension of the spin groove.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-5-na-g003"/></fig><p>Here, the shift of the electrode assembly against the crimp components caused the vent to clog, which is likely to be the primary cause of the cell bursting. The collapse of the electrode assembly is thought to have led to the major shift, via a rapid build&#x02010;up of pressure at the base of the cell with no alternative path through which it could be relieved.</p><p>The LG&#x02010;B4 cell had a similar capacity (2.6 Ah) to the Samsung cell (2.5 Ah) and is expected to have generated a similar quantity of gas. However, the LG cell contained a cylindrical mandrel that supported the electrode assembly and prevented collapse of the assembly structure into its core, as seen previously.<xref rid="advs438-bib-0004" ref-type="ref">4</xref> In Movie S11 in the Supporting Information, the electrode assembly and mandrel are also seen to have shifted toward the vent, exerting force on the crimp components and leading to ejection of the electrode assembly. The mandrel in the LG&#x02010;B4 cell moved independently from the electrode assembly, exerted force on and deformed the crimp components before the electrode assembly made contact. The movement of the mandrel through the core of the electrode assembly indicates that, despite the open pathway for the gas to flow from the base of the cell to the vent, the pressure relief from the base of the cell was still insufficient to prevent the assembly shifting toward and clogging the vent.</p><p>The bursting mechanism of the Samsung and LG&#x02010;B4 cells appeared to stem from a pressure build&#x02010;up beneath the FOV that led to the electrode assembly shifting toward and clogging the vent. Within about 0.01 s of the electrode assembly making contact with the crimp components, the cell reached its burst&#x02010;pressure and released the crimp components. The Panasonic cell also contained a mandrel, but its capacity was more than 30% greater (3.4 Ah) than the Samsung and LG cells. Of the 11 Panasonic cells tested, 6 burst via spin groove release of the cell header, 4 underwent crimp&#x02010;puncture by the internal mandrel, and 1 stayed intact. <bold>Figure</bold>
+<xref rid="advs438-fig-0005" ref-type="fig">
+<bold>5</bold>
+</xref>a is extracted from Movie S12 in the Supporting Information and shows an example of the crimp&#x02010;components of the Panasonic cell being punctured by the internal mandrel, where the mandrel escaped as a projectile. Thermal runaway initiated 5 winds in from the outer casing (seen at 1.9700 s in Figure <xref rid="advs438-fig-0005" ref-type="fig">6</xref>a), and the rapid peeling of the inner layers of the electrode assembly indicates a high flow rate of gas through the core. As highlighted by the yellow arrow at 2.0660 s in Figure <xref rid="advs438-fig-0005" ref-type="fig">6</xref>a, the mandrel shifted position and was propelled up against the crimp components. Thereafter, the mandrel exerted enough force to pierce the top button and escape the cell at a high velocity. According to Orendorff et al.,<xref rid="advs438-bib-0008" ref-type="ref">8</xref> a gas output of &#x02248;8 L was measured during thermal runaway of similar cylindrical 3.4 Ah NCA cells. Generation of such a large volume of gas over a short time period would lead to a high flow rate of gas through the vent, and is thought to have caused the mandrel to propel against and exert force on the top button. Following the top button being pierced and the core of the electrode assembly being cleared, none of the cells proceeded to burst, which was due to the improved pressure relief.</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0004" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Time&#x02010;stamped radiographs taken at a) 2000 fps showing the mandrel piercing the crimp&#x02010;components during thermal runaway where the yellow arrows highlight the direction of shift of the mandrel, and b) taken at 20 272 fps showing the stages of the 18650 Panasonic cell bursting. Radiography movies of (a) and (b) are provided as Movies S12 and S13, respectively, in the Supporting Information.</p></caption><graphic id="nlm-graphic-11" xlink:href="ADVS-5-na-g004"/></fig><p>The bursting process of the Panasonic cells also occurred in four stages (Figure <xref rid="advs438-fig-0005" ref-type="fig">6</xref>b):<list list-type="bullet" id="advs438-list-0002"><list-item><p> Stage 1 involved a minor shift of the electrode assembly toward the vent. The portion of the assembly directly beneath the spin groove stayed in position, while the inner portion sheared away.</p></list-item><list-item><p> Stage 2 involved the spin groove straightening out. This stage did not appear to be influenced by the force exerted by the shift of the assembly, but by the build&#x02010;up of gas beneath the crimp components. This provides evidence that the gas cannot escape at a sufficient rate, irrespective of the vent being clogged.</p></list-item><list-item><p> Stage 3 involved a major shift of the electrode assembly and cylindrical mandrel toward the vent, thereafter exerting force on the crimp components.</p></list-item><list-item><p> Stage 4 involved the final step of the top fold straightening out as a result of the force exerted by the electrode assembly, releasing the cell header. This was followedby the complete ejection of the electrode assembly, completing the bursting process.</p></list-item></list>
+</p><p>The order of Stages 2 and 3 in the bursting process of the Panasonic cell indicates that it is not necessarily vent&#x02010;clogging alone that can lead to an 18650 cell bursting during thermal runaway, but a vent design that does not allow a sufficient flow rate of gas to escape. The spin groove of the Panasonic cell extended without force being applied by the electrode assembly or the mandrel. A pocket of gas formed between the crimp components and the electrode assembly while the spin groove continued to extend. This indicates that the vent design of the cell did not allow escape of a sufficient flow rate of gas to avoid reaching the pressure required to extend the spin groove. However, the top fold retained the crimp components until the electrode assembly underwent a major shift toward the vent (Stage 3 in Figure <xref rid="advs438-fig-0005" ref-type="fig">6</xref>b), at which point the top fold extended and released the crimp components, and the electrode assembly ejected. This result highlights the need for a more effective pressure relief strategy for high capacity cells, where large quantities of gas can be generated over a very short time during thermal runaway.</p></sec><sec id="advs438-sec-0070"><label>2.5</label><title>Considerations for Module Design</title><p>Postmortem photographs of the Samsung and Panasonic cells described in Figure <xref rid="advs438-fig-0004" ref-type="fig">5</xref> and Figure <xref rid="advs438-fig-0005" ref-type="fig">6</xref> are provided in <bold>Figure</bold>
+<xref rid="advs438-fig-0006" ref-type="fig">
+<bold>6</bold>
+</xref>. The occurrence of bursting, mandrel piercing, and melting of the top button poses different risks when the 18650 cells are fitted as part of a battery pack or module assembly. For example, extension of the spin groove and straightening of the top fold necessitate space above the vent end of the 18650 cell. In the case of the Samsung and Panasonic cells in Figure <xref rid="advs438-fig-0005" ref-type="fig">6</xref>b,d, the extended spin groove and top fold added &#x02248;1.5 and 0.5 mm respectively, to the total length of the cells. Therefore, a 2 mm allowance for the cell to extend in the longitudinal direction is required for the bursting process to occur. Preventing the extension of the folds is likely to increase the risk of side&#x02010;wall rupture, a phenomenon that is widely known to significantly increase the risk of cell&#x02010;to&#x02010;cell propagation of thermal runaway. An example of how the extension of the spin groove and top fold might be hindered is by an end&#x02010;plate or mounting&#x02010;bracket in a battery module that applies compressive force to the top and base of the cells.</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0005" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Postmortem photographs of the 18650 Samsung cells where a) the top button melted, and b) the cell burst, as well as the Panasonic cells that underwent c) piercing of the top button by the mandrel, and d) bursting.</p></caption><graphic id="nlm-graphic-13" xlink:href="ADVS-5-na-g005"/></fig><p>The projectiles from the pierced and burst cells contained enough momentum to reach several meters from the cell. Such hot projectiles can pose great risks, particularly for transport and shipping, where flammable materials might be present. Similarly, the flare of hot and molten material from the section of the melted cap could lead to rapid heat transfer and cause propagation of thermal runaway to neighboring cells, if not configured safely in modules. Conversely, if directed toward a safe location, hot flares may help dissipate the heat from failing cells and reduce the risk of cell&#x02010;to&#x02010;cell propagation.</p></sec><sec id="advs438-sec-0080"><label>2.6</label><title>Application of a Second Vent</title><p>As previously observed, high energy density cells can produce gas at a sufficiently high rate to cause a pressure rise that extends the spin groove and leads to bursting without the vent being clogged by the electrode assembly. This demonstrates a clear need for more effective venting mechanisms to coincide with the increasing energy density of cells. One such strategy is the incorporation of a second vent at the base of the cell and, in light of this observation, a high energy density (2.8 Ah) 18650 prototype cell with a secondary vent at its base (<bold>Figure</bold>
+<xref rid="advs438-fig-0007" ref-type="fig">
+<bold>7</bold>
+</xref>a) was examined. The base vent consisted of a scored disk in the casing with two nonweakened sections that hold the disk in place when it ruptures (Figure <xref rid="advs438-fig-0007" ref-type="fig">1</xref>a). The cell was held in mid&#x02010;air in the upright position by hydraulic clamps, with a gap beneath the cell that allowed the base vent to activate (Figure <xref rid="advs438-fig-0007" ref-type="fig">1</xref>b). During activation, the disk ruptured and folded back on the hinge allowing release of the contents of the cell (Figure <xref rid="advs438-fig-0007" ref-type="fig">1</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0006" orientation="portrait" position="float"><label>Figure 7</label><caption><p>a) Photograph showing the vent disk at the base of the 18650 prototype cell. b) Photograph showing the position of the 18650 cell with clearance at its base for the second vent. c) Postmortem photograph showing ruptured vent disk. d) Time&#x02010;stamped radiographs showing the activation of the secondary vent during thermal runaway. e) Time&#x02010;stamped radiographs showing the crimp&#x02010;region of the 18650 cell during thermal runaway. Radiography movies of (d) and (e) are provided as Movies S14 and S16, respectively, in the Supporting Information.</p></caption><graphic id="nlm-graphic-15" xlink:href="ADVS-5-na-g006"/></fig><p>Five cells with base vents were tested, all of which showed similar behavior. Movies S14 and S15 in the Supporting Information show the bottom vent activating, and the events that occur at the top vent for one cell are shown in Movie S16 in the Supporting Information. In each of the cells the ejection process occurred in three stages:<list list-type="bullet" id="advs438-list-0003"><list-item><p> Stage 1 involved a minor shift of the electrode assembly toward the top vent (highlighted by the upward pointing arrows in Figure <xref rid="advs438-fig-0007" ref-type="fig">1</xref>d,e). This corresponded with a pocket of gas forming at the base of the cell and the base plate expanding out into a dome shape.</p></list-item><list-item><p> Stage 2 involved the bottom vent activating and the electrode assembly undergoing a major shift toward the base of the cell (highlighted by the downward pointing arrows in Figure <xref rid="advs438-fig-0007" ref-type="fig">1</xref>d,e).</p></list-item><list-item><p> Stage 3 involved the controlled release of the broken&#x02010;down active materials from the top and bottom vents of the cell. There was no evidence of the spin groove or top fold extending or side wall rupture, indicating that the double&#x02010;vent design provided effective pressure relief during thermal runaway.</p></list-item></list>
+</p><p>The initial stage of the thermal runaway process resembled that of the single&#x02010;vent cells, where a minor shift of the electrode assembly toward the top vent occurred. The doming of the base of the cell at this point indicates that pressure built up beneath the electrode assembly, which caused a minor shift of the assembly upwards toward the top vent. The primary path through which the pressure at the base of the cell could be relieved was through the core of the assembly toward the top vent. However, unlike the single&#x02010;vent cells, the pressure was relieved from the base of the cell through the base vent, rather than relying on a clear path through the electrode assembly. The pressure at which the bottom vent activated was much lower than that which was required for the spin groove to extend and the cell to burst. This helped prevent a major shift of the electrode assembly toward the vent, extension of the spin groove, and ultimately the cell bursting.</p><p>The electrode assembly shifted toward the base vent during the second stage of the thermal runaway process (Figure <xref rid="advs438-fig-0007" ref-type="fig">1</xref>d,e). This indicates that greater pressure relief was provided by the bottom vent than the top vent. Thermal runaway propagated relatively slowly throughout the cell and the broken&#x02010;down material was ejected from both ends. In contrast to the single&#x02010;vent cells examined previously, peeling of the inner layers of the electrode assembly did not appear to occur in the double&#x02010;vent cells. This was because there was no pressure rise at the base of the cell, reducing the directed stream of gas toward the top vent and therefore the shear on the inner layers.</p><p>By providing an alternative escape route for generated gas, the base&#x02010;vent design appeared to reduce the risk of cell rupture and projectile generation. Furthermore, the role of the internal cylindrical mandrel in maintaining an open path for gases to flow from the base to the top vent of the cells is made redundant with the introduction of the base vent; the risk of a collapsed electrode assembly leading to the vent being clogged no longer exists. However, the base&#x02010;vent design and the inherent ejection of hot material from both ends of the 18650 cell during thermal runaway may require a new approach to the design of battery modules, such as additional space being provided below the cells, which would come at the expense of the volumetric energy density of the module.</p></sec></sec><sec id="advs438-sec-0090"><label>3</label><title>Conclusions</title><p>The combined use of high&#x02010;speed X&#x02010;ray radiography and CT has been shown to be a powerful tool for linking external risks posed by 18650 lithium&#x02010;ion cells during thermal runaway with internal phenomena. The venting mechanisms of five different 18650 cell designs from four leading manufacturers were analyzed, and the occurrences that lead to four types of failure were characterized: controlled ejection of contents, cell bursting, puncture of the top button, and escape of the internal mandrel. The internal mandrel was shown to support the electrode assembly and provide a clear path through which fluidized broken&#x02010;down materials can escape via the vent during thermal runaway. The apparent drawback of the mandrel is that high flow rates of gas can lead to the mandrel shifting independently from the electrode assembly and sometimes puncturing the crimp components. In high&#x02010;capacity cells, where greater quantities of gases are generated, the mandrel can achieve enough momentum to pierce through the top button and become a high&#x02010;velocity projectile outside the cell which can be a major hazard in battery systems and during shipping. To avoid the mandrel being released as a projectile, it could be fixed to the base plate of the cell or contain a flattened end next to the vent that reduces the risk of puncture.</p><p>Using high&#x02010;speed X&#x02010;ray imaging, the lead&#x02010;up to cell rupture was captured in unprecedented detail and the bursting process was characterized as occurring in distinct stages. Two causes of bursting were identified. First, bursting occurs when the electrode assembly does not maintain an opening to allow sufficient gas flow to reach the vent, causing the electrode assembly to shift and clog the vent, which was the leading cause of cell rupture in this study. Second, when the vent itself does not allow sufficient flow of gas to escape, the internal pressure can rise to reach the cell's burst&#x02010;pressure. The second mechanism is more likely to occur in high&#x02010;capacity cells where a much greater quantity of gas is generated during thermal runaway. The two causes of bursting described here were prevented by the inclusion of a second vent at the base of the 18650 cell, which quickly relieved pressure before the spin groove could extend or the electrode assembly could shift and clog the vent. Pressure relief at both ends of the 18650 cell rendered the mandrel redundant for the purpose of maintaining an open channel for gases to escape. Therefore, the inclusion of a base vent improves the ability to safely manage rapid gas generation during thermal runaway and greatly reduces the risk of cell rupture.</p><p>In summary, high&#x02010;speed X&#x02010;ray imaging has facilitated evaluation of the effectiveness of safety devices and mechanical designs of commercial cells in mitigating risks associated with thermal runaway. It is important to note that the cells in this work were intentionally exposed to extreme thermal conditions that are certain to lead to thermal runaway. These conditions are exceedingly rare during normal operation &#x0201c;in&#x02010;field&#x0201d; scenarios. The insights discussed here have highlighted the need for mechanical designs of commercial cells to evolve alongside their increasing energy and power densities, especially since failure of high&#x02010;performance cells is often accompanied by high&#x02010;risk consequences through increased heat and gas production. This study demonstrates the potential for linking other risks, such as side&#x02010;wall rupture, total heat output, and the rate of gas generation, with internal dynamics of cells during failure. It is expected that this diagnostic approach is a precedent for further analyses that combine multiple metrics with the aim of developing a comprehensive description of battery failure and associated risks.</p></sec><sec id="advs438-sec-0100"><label>4</label><title>Experimental Section</title><p>
+<italic>Experimental Setup</italic>: The experiments were performed at beamlines ID19 and I12 of the ESRF and DLS synchrotrons, respectively. The 18650 cells were heated by passing a current through high&#x02010;resistance NiCr wire wrapped around the base of the cells (<bold>Figure</bold>
+<xref rid="advs438-fig-0008" ref-type="fig">
+<bold>8</bold>
+</xref>a,b). The NiCr wire was cut to a length that gave a resistance of around 22 &#x003a9; and a suitable current to generate a heating power of 33 W was applied through the use of a power supply. High&#x02010;temperature glass cloth tape was wrapped above and below the heating coil to avoid short circuiting (Figure <xref rid="advs438-fig-0008" ref-type="fig">8</xref>a,b).</p><fig fig-type="Figure" xml:lang="en" id="advs438-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>a) NiCr wire with a length corresponding to a resistance of &#x02248;22 &#x003a9; wrapped around the base of an 18650 cell. The wire is separated from the cell casing by glass cloth tape. b) An additional layer of glass cloth tape was wrapped around the NiCr wire to prevent short circuiting. c) A failed 18650 cell secured in place by hydraulic clamps and insulation plates.</p></caption><graphic id="nlm-graphic-17" xlink:href="ADVS-5-na-g008"/></fig><p>The 18650 cells underwent thermal runaway in an explosion&#x02010;proof chamber with integrated X&#x02010;ray transparent windows (a description and photographs of the entire system are provided as Supporting Information with ref. (21)). The 18650 cells, with the heating coil applied were secured in line with the X&#x02010;ray beam by hydraulic clamps (operated at a pressure of 3 bar) with intermediate ceramic insulation plates to minimize heat loss to the metallic clamps (Figure <xref rid="advs438-fig-0008" ref-type="fig">8</xref>c). A 16 mm wide piece of insulation plate was placed underneath the cell to avoid the clamps crushing the cell casing during thermal runaway.</p><p>
+<italic>X&#x02010;Ray Computed Tomography</italic>: 3D tomograms of the vent region of all the cells were taken at the ID19 beamline of the ESRF (Figure <xref rid="advs438-fig-0001" ref-type="fig">2</xref>). The cells were imaged using a polychromatic beam with a 9.65 mm &#x000d7; 15.20 mm (horizontal &#x000d7; vertical) FOV, which consisted of 1302 &#x000d7; 2048 pixels with a pixel resolution of 7.42 &#x000d7; 10<sup>&#x02212;6</sup>
+<sc>m</sc>. The horizontal dimension of the FOV amounted to half of the 18650 cell; the cell was positioned such that its radial center was at the edge of the FOV, and therefore a 360&#x000b0; rotation enabled the entire cell to be captured and reconstructed.<xref rid="advs438-bib-0022" ref-type="ref">22</xref> Each tomogram consisted of 3600 images with angular increments of 0.1&#x000b0;, each with an exposure time of 0.2 s. A PCO.Dimax (PCO AG, Germany) detector lens coupled with an LuAG:Ce (Ce&#x02010;doped Lu<sub>3</sub>Al<sub>5</sub>O<sub>12</sub>) scintillator was used, and the tomograms were reconstructed using a standard filtered back projection (FBP) algorithm.<xref rid="advs438-bib-0023" ref-type="ref">23</xref>
+</p><p>
+<italic>High&#x02010;Speed Radiography</italic>: To capture the dynamic occurrences during thermal runaway, a range of imaging conditions were utilized. <bold>Table</bold>
+<xref rid="advs438-tbl-0002" ref-type="table-wrap">
+<bold>2</bold>
+</xref> presents the imaging conditions for three different frame rates. At the ESRF, a polychromatic beam with a peak energy of 75 keV and a high&#x02010;speed PCO.Dimax camera (PCO AG, Germany) were used for all imaging experiments. Two scintillators were used during the imaging experiments: a GGG:Eu (Eu&#x02010;doped Gd<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub>) and an LuAG:Ce scintillator, as listed in Table <xref rid="advs438-tbl-0002" ref-type="table-wrap">2</xref>. The PCO.Dimax camera had 36 GB of on&#x02010;board memory for fast intermediate storage. A postevent triggering technique was used for recording, whereby the camera recorded continuously until triggered, at which point the previous 36 GB of data was stored and uploaded to the ESRF central servers. The time period corresponding to 36 GB of data collection depended on the frame rate and size of the FOV whereby for a predetermined frame rate, a larger FOV was more data&#x02010;intensive and consequently had shorter recorded time periods. Typically, the time period of interest was cropped to &#x02248;3 s surrounding thermal runaway. A summary of frame rates and FOVs used in this work are presented in Table <xref rid="advs438-tbl-0002" ref-type="table-wrap">2</xref>.</p><table-wrap id="advs438-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Imaging conditions at the ESRF and DLS for different frame rates</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Source</th><th align="center" rowspan="1" colspan="1">Frame rate [s<sup>&#x02212;1</sup>]</th><th align="center" rowspan="1" colspan="1">Exposure [&#x000b5;s]</th><th align="center" rowspan="1" colspan="1">FOV [pixels]</th><th align="center" rowspan="1" colspan="1">Pixel [&#x000b5;m]</th><th align="center" rowspan="1" colspan="1">Energy [keV]</th><th align="center" rowspan="1" colspan="1">Scintillator</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">ESRF</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">460</td><td align="center" rowspan="1" colspan="1">2016 &#x000d7; 1292</td><td align="center" rowspan="1" colspan="1">11.35</td><td align="center" rowspan="1" colspan="1">Poly</td><td align="center" rowspan="1" colspan="1">GGG:Eu</td></tr><tr><td align="left" rowspan="1" colspan="1">DLS</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">490</td><td align="center" rowspan="1" colspan="1">1280 &#x000d7; 800</td><td align="center" rowspan="1" colspan="1">17.90</td><td align="center" rowspan="1" colspan="1">74</td><td align="center" rowspan="1" colspan="1">LuAG:Ce</td></tr><tr><td align="left" rowspan="1" colspan="1">ESRF</td><td align="center" rowspan="1" colspan="1">16 742</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">1008 &#x000d7; 248</td><td align="center" rowspan="1" colspan="1">22.70</td><td align="center" rowspan="1" colspan="1">Poly</td><td align="center" rowspan="1" colspan="1">LuAG:Ce</td></tr><tr><td align="left" rowspan="1" colspan="1">ESRF</td><td align="center" rowspan="1" colspan="1">20 272</td><td align="center" rowspan="1" colspan="1">40</td><td align="center" rowspan="1" colspan="1">816 &#x000d7; 236</td><td align="center" rowspan="1" colspan="1">22.70</td><td align="center" rowspan="1" colspan="1">Poly</td><td align="center" rowspan="1" colspan="1">LuAG:Ce</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Experiments performed at DLS utilized a Vision Research Phantom Miro 310 high&#x02010;speed imaging camera (Vision Research, NJ, USA), and the high&#x02010;speed imaging experiments at 2000 fps were performed using a monochromatic 74 keV beam and an LuAG:Ce scintillator (Table <xref rid="advs438-tbl-0002" ref-type="table-wrap">2</xref>).</p><p>To demonstrate reproducibility and provide confidence in the results, several repeat tests were carried out for each cell design. For brevity, 16 movies consisting of high&#x02010;speed X&#x02010;ray imaging of failing cells are provided as Supporting Information, which include one repeat test for each phenomenon described. For reference, a summary of the cell type, imaging rate, and failure mechanisms is provided in <bold>Table</bold>
+<xref rid="advs438-tbl-0003" ref-type="table-wrap">
+<bold>3</bold>
+</xref>. The failure mechanisms mentioned in Table <xref rid="advs438-tbl-0003" ref-type="table-wrap">3</xref> refer to the range of failure events observed, namely, when thermal runaway causes venting but is completely contained within the 18650 casing with no rupture (Contained), when the internal mandrel pierces through the top button but stays within the cell (Pierced), when the internal mandrel punctures the top button and escapes as a projectile (Escape), and when the cell bursts and releases its crimp components (Burst). The bottom&#x02010;vent cells underwent an independent failure scenario where a modified 18650 cell design with a second bursting disk at its base activated (2nd vent). Each of the respective failure events are discussed in detail in the Results and Discussion section.</p><table-wrap id="advs438-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Summary table of the cell type, imaging rate, and failure mechanism contained within each of the Supporting Information Movies</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Supporting Information Movie</th><th align="center" rowspan="1" colspan="1">Cell type</th><th align="center" rowspan="1" colspan="1">Imaging [fps]</th><th align="center" rowspan="1" colspan="1">Failure mechanism</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">LG&#x02010;S3</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Contained</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">LG&#x02010;S3</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Contained</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">LG&#x02010;B4</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Contained</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">LG&#x02010;B4</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Contained</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">Sanyo</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Pierced</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">Sanyo</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Contained</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">Panasonic</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Pierced</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">Samsung</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Contained</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">Panasonic</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Burst</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="center" rowspan="1" colspan="1">Samsung</td><td align="center" rowspan="1" colspan="1">20 272</td><td align="center" rowspan="1" colspan="1">Burst</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">LG&#x02010;B4</td><td align="center" rowspan="1" colspan="1">20 272</td><td align="center" rowspan="1" colspan="1">Burst</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">Panasonic</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Escape</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="center" rowspan="1" colspan="1">Panasonic</td><td align="center" rowspan="1" colspan="1">16 742</td><td align="center" rowspan="1" colspan="1">Burst</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="center" rowspan="1" colspan="1">Bottom vent</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Second vent</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">Bottom vent</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Second vent</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">Bottom vent</td><td align="center" rowspan="1" colspan="1">2000</td><td align="center" rowspan="1" colspan="1">Second vent</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="advs438-sec-0120"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s001.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s002.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s003.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s004.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s005.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s006.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s007.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s008.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s009.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s010.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s011.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s012.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s013.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s014.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s015.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-na-s016.mp4"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs438-sec-0110"><title>Acknowledgements</title><p>The authors would like to acknowledge funding from the EPSRC (EP/N032888/1 and EP/M009394/1), the Royal Academy of Engineering, the STFC (ST/N002385/1), and the UK National Measurement System. These experiments were performed between beamlines ID19 at the ESRF (Grenoble, France) and I12 at Diamond Light Source (Harwell, UK). Finally, the authors would like to acknowledge the help and support from Sandeep Yayathi from the NASA Johnson Space Center.</p></ack><ref-list id="advs438-bibl-0001"><ref id="advs438-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs438-cit-0001">
+<string-name>
+<given-names>B.</given-names>
+<surname>Nykvist</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Nilsson</surname>
+</string-name>, <source>Nat. Clim. Change</source>
+<year>2015</year>, <volume>5</volume>, <fpage>329</fpage>.</mixed-citation></ref><ref id="advs438-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs438-cit-0002">a) <string-name>
+<given-names>R.</given-names>
+<surname>Spotnitz</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Franklin</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2003</year>, <volume>113</volume>, <fpage>81</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="advs438-cit-0003">b) <string-name>
+<given-names>P.</given-names>
+<surname>Ribiere</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Grugeon</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Morcrette</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Boyanov</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Laruelle</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Marlair</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2012</year>, <volume>5</volume>, <fpage>5271</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="advs438-cit-0004">c) <string-name>
+<given-names>A. W.</given-names>
+<surname>Golubkov</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Fuchs</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Wagner</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wiltsche</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Stangl</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Fauler</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Voitic</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Thaler</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Hacker</surname>
+</string-name>, <source>RSC Adv.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>3633</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="advs438-cit-0005">d) <string-name>
+<given-names>A. W.</given-names>
+<surname>Golubkov</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Scheikl</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Planteu</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Voitic</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Wiltsche</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Stangl</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Fauler</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Thaler</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Hacker</surname>
+</string-name>, <source>RSC Adv.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>57171</fpage>.</mixed-citation></ref><ref id="advs438-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs438-cit-0006">
+<string-name>
+<given-names>D. P.</given-names>
+<surname>Finegan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Scheel</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Tjaden</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Di Michiel</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hinds</surname>
+</string-name>, <string-name>
+<given-names>D. J. L.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Shearing</surname>
+</string-name>, <source>Phys. Chem. Chem. Phys.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>30912</fpage>.<pub-id pub-id-type="pmid">27388638</pub-id></mixed-citation></ref><ref id="advs438-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs438-cit-0007">
+<string-name>
+<given-names>D. P.</given-names>
+<surname>Finegan</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Scheel</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Tjaden</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Hunt</surname>
+</string-name>, <string-name>
+<given-names>T. J.</given-names>
+<surname>Mason</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Millichamp</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Di Michiel</surname>
+</string-name>, <string-name>
+<given-names>G. J.</given-names>
+<surname>Offer</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hinds</surname>
+</string-name>, <string-name>
+<given-names>D. J. L.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Shearing</surname>
+</string-name>, <source>Nat. Commun.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>6924</fpage>.<pub-id pub-id-type="pmid">25919582</pub-id></mixed-citation></ref><ref id="advs438-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs438-cit-0008">a) <string-name>
+<given-names>J.</given-names>
+<surname>Lamb</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Orendorff</surname>
+</string-name>, <string-name>
+<given-names>L. A. M.</given-names>
+<surname>Steele</surname>
+</string-name>, <string-name>
+<given-names>S. W.</given-names>
+<surname>Spangler</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2015</year>, <volume>283</volume>, <fpage>517</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="advs438-cit-0009">b) <string-name>
+<given-names>C. F.</given-names>
+<surname>Lopez</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Jeevarajan</surname>
+</string-name>, <string-name>
+<given-names>P. P.</given-names>
+<surname>Mukherjee</surname>
+</string-name>, <source>J. Electrochem. Soc.</source>
+<year>2015</year>, <volume>162</volume>, <fpage>A1905</fpage>.</mixed-citation></ref><ref id="advs438-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs438-cit-0010">
+<string-name>
+<given-names>S.</given-names>
+<surname>Yayathi</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Walker</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Doughty</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ardebili</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2016</year>, <volume>329</volume>, <fpage>197</fpage>.</mixed-citation></ref><ref id="advs438-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs438-cit-0011">
+<string-name>
+<given-names>K.</given-names>
+<surname>Ozawa</surname>
+</string-name>, <source>Solid State Ionics</source>
+<year>1994</year>, <volume>69</volume>, <fpage>212</fpage>.</mixed-citation></ref><ref id="advs438-bib-0008"><label>8</label><mixed-citation publication-type="book" id="advs438-cit-0012">
+<string-name>
+<given-names>C.</given-names>
+<surname>Orendorff</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Lamb</surname>
+</string-name>, <string-name>
+<given-names>L. A.</given-names>
+<surname>Steele</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Spangler</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Langendorf</surname>
+</string-name>, <source>Sandia Report</source>, <publisher-name>SAND2016&#x02010;0486, Sandia National Labs (Albuquerque, New Mexico, USA)</publisher-name>
+<year>2016</year>.</mixed-citation></ref><ref id="advs438-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs438-cit-0013">
+<string-name>
+<given-names>P. G.</given-names>
+<surname>Balakrishnan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Ramesh</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Prem Kumar</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2006</year>, <volume>155</volume>, <fpage>401</fpage>.</mixed-citation></ref><ref id="advs438-bib-0010"><label>10</label><mixed-citation publication-type="book" id="advs438-cit-0014">
+<collab collab-type="authors">Underwriters&#x02010;Laboratories</collab>
+, in <source>UL 2054&#x02014;Standard for Household and Commercial Batteries</source>, <year>2004</year>.</mixed-citation></ref><ref id="advs438-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs438-cit-0015">
+<string-name>
+<given-names>P. T.</given-names>
+<surname>Coman</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rayman</surname>
+</string-name>, <string-name>
+<given-names>R. E.</given-names>
+<surname>White</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2016</year>, <volume>307</volume>, <fpage>56</fpage>.</mixed-citation></ref><ref id="advs438-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs438-cit-0016">
+<string-name>
+<given-names>S. J.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Timmons</surname>
+</string-name>, <string-name>
+<given-names>W. J.</given-names>
+<surname>Pitz</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2009</year>, <volume>193</volume>, <fpage>855</fpage>.</mixed-citation></ref><ref id="advs438-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs438-cit-0017">
+<string-name>
+<given-names>C.</given-names>
+<surname>Hendricks</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Williard</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mathew</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pecht</surname>
+</string-name>, <source>J. Power Sources</source>
+<year>2015</year>, <volume>297</volume>, <fpage>113</fpage>.</mixed-citation></ref><ref id="advs438-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs438-cit-0018">a) <string-name>
+<given-names>P. R.</given-names>
+<surname>Shearing</surname>
+</string-name>, <source>Nat. Energy</source>
+<year>2016</year>, <volume>1</volume>, <fpage>16173</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="advs438-cit-0019">b) <string-name>
+<given-names>D. P.</given-names>
+<surname>Finegan</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Tudisco</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Scheel</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name>
+<given-names>O. O.</given-names>
+<surname>Taiwo</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Eastwood</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Di Michiel</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Bay</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Hall</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hinds</surname>
+</string-name>, <string-name>
+<given-names>D. J. L.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Shearing</surname>
+</string-name>, <source>Adv. Sci.</source>
+<year>2016</year>, <volume>3</volume>, <fpage>3</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="advs438-cit-0020">c) <string-name>
+<given-names>D. S.</given-names>
+<surname>Eastwood</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Yufit</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Gelb</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gu</surname>
+</string-name>, <string-name>
+<given-names>R. S.</given-names>
+<surname>Bradley</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name>
+<given-names>D. J. L.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name>
+<given-names>N. P.</given-names>
+<surname>Brandon</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Withers</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Shearing</surname>
+</string-name>, <source>Adv. Energy Mater.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>4</fpage>.</mixed-citation><mixed-citation publication-type="journal" id="advs438-cit-0021">d) <string-name>
+<given-names>M.</given-names>
+<surname>Ebner</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Marone</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Stampanoni</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Wood</surname>
+</string-name>, <source>Science</source>
+<year>2013</year>, <volume>342</volume>, <fpage>716</fpage>.<pub-id pub-id-type="pmid">24136360</pub-id></mixed-citation></ref><ref id="advs438-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs438-cit-0022">
+<string-name>
+<given-names>E.</given-names>
+<surname>Maire</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Withers</surname>
+</string-name>, <source>Int. Mater. Rev.</source>
+<year>2014</year>, <volume>59</volume>, <fpage>1</fpage>.</mixed-citation></ref><ref id="advs438-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs438-cit-0023">
+<string-name>
+<given-names>E.</given-names>
+<surname>Maire</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Le Bourlot</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Adrien</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mortensen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mokso</surname>
+</string-name>, <source>Int. J. Fract.</source>
+<year>2016</year>, <volume>200</volume>, <fpage>3</fpage>.</mixed-citation></ref><ref id="advs438-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs438-cit-0024">
+<string-name>
+<given-names>M. P.</given-names>
+<surname>Olbinado</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Just</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Gelet</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lhuissier</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Scheel</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Vagovic</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sato</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Graceffa</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Schulz</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mancuso</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Morse</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rack</surname>
+</string-name>, <source>Opt. Express</source>
+<year>2017</year>, <volume>25</volume>, <fpage>13857</fpage>.<pub-id pub-id-type="pmid">28788829</pub-id></mixed-citation></ref><ref id="advs438-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs438-cit-0025">
+<string-name>
+<given-names>A.</given-names>
+<surname>Rack</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Scheel</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Hardy</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Curfs</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bonnin</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Reichert</surname>
+</string-name>, <source>J. Synchrotron Radiat.</source>
+<year>2014</year>, <volume>21</volume>, <fpage>815</fpage>.<pub-id pub-id-type="pmid">24971980</pub-id></mixed-citation></ref><ref id="advs438-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs438-cit-0026">
+<string-name>
+<given-names>M.</given-names>
+<surname>Drakopoulos</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Connolley</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Reinhard</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Atwood</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Magdysyuk</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Vo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hart</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Connor</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Humphreys</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Howell</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wilkin</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Pedersen</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Foster</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>De Maio</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Basham</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wanelik</surname>
+</string-name>, <source>J. Synchrotron Radiat.</source>
+<year>2015</year>, <volume>22</volume>, <fpage>828</fpage>.<pub-id pub-id-type="pmid">25931103</pub-id></mixed-citation></ref><ref id="advs438-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="advs438-cit-0027">a) <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Woo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nam</surname>
+</string-name>, <italic>USA Patent</italic>, <year>2011</year>.</mixed-citation><mixed-citation publication-type="miscellaneous" id="advs438-cit-0028">b) <string-name>
+<given-names>J. K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Woo</surname>
+</string-name>, <italic>US 7691530B2</italic>, <year>2010</year>.</mixed-citation><mixed-citation publication-type="miscellaneous" id="advs438-cit-0029">c) <string-name>
+<given-names>S. K.</given-names>
+<surname>Woo</surname>
+</string-name>, <string-name>
+<given-names>Y. T.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Chun</surname>
+</string-name>, <italic>US 7939196 B2</italic>, <year>2011</year>.</mixed-citation></ref><ref id="advs438-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs438-cit-0030">
+<string-name>
+<given-names>D. P.</given-names>
+<surname>Finegan</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Darcy</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Keyser</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Tjaden</surname>
+</string-name>, <string-name>
+<given-names>T. M. M.</given-names>
+<surname>Heenan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Jervis</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Bailey</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Malik</surname>
+</string-name>, <string-name>
+<given-names>N. T.</given-names>
+<surname>Vo</surname>
+</string-name>, <string-name>
+<given-names>O. V.</given-names>
+<surname>Magdysyuk</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Atwood</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Drakopoulos</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>DiMichiel</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rack</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Hinds</surname>
+</string-name>, <string-name>
+<given-names>D. J. L.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name>
+<given-names>P. R.</given-names>
+<surname>Shearing</surname>
+</string-name>, <source>Energy Environ. Sci.</source>
+<year>2017</year>, <volume>10</volume>, <fpage>1377</fpage>.</mixed-citation></ref><ref id="advs438-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs438-cit-0031">
+<string-name>
+<given-names>A.</given-names>
+<surname>Kyrieleis</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ibison</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Titarenko</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Withers</surname>
+</string-name>, <source>Nucl. Instrum. Methods Phys. Res., Sect. A</source>
+<year>2009</year>, <volume>607</volume>, <fpage>677</fpage>.</mixed-citation></ref><ref id="advs438-bib-0023"><label>23</label><mixed-citation publication-type="book" id="advs438-cit-0032">
+<string-name>
+<given-names>M.</given-names>
+<surname>Slaney</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Kak</surname>
+</string-name>, <source>Principles of Computerized Tomographic Imaging</source>, <publisher-name>SIAM</publisher-name>, Philadelphia <year>2001</year>.</mixed-citation></ref></ref-list></back></article>

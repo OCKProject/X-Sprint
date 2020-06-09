@@ -1,0 +1,391 @@
+{
+  "id": [
+    "30147774"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30147774"
+  ],
+  "pmcid": [
+    "PMC6086254"
+  ],
+  "doi": [
+    "10.1007/s11625-017-0513-6"
+  ],
+  "title": [
+    "Evolving the Anthropocene: linking multi-level selection with long-term social-ecological change."
+  ],
+  "authorString": [
+    "Ellis EC, Magliocca NR, Stevens CJ, Fuller DQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ellis EC"
+          ],
+          "firstName": [
+            "Erle C"
+          ],
+          "lastName": [
+            "Ellis"
+          ],
+          "initials": [
+            "EC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2006-3362",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Geography and Environmental Systems, University of Maryland, Baltimore County, Baltimore, MD 21250 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Magliocca NR"
+          ],
+          "firstName": [
+            "Nicholas R"
+          ],
+          "lastName": [
+            "Magliocca"
+          ],
+          "initials": [
+            "NR"
+          ],
+          "affiliation": [
+            "2Department of Geography, University of Alabama, Tuscaloosa, AL 35487 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Stevens CJ"
+          ],
+          "firstName": [
+            "Chris J"
+          ],
+          "lastName": [
+            "Stevens"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2669-5715",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "3Institute of Archaeology, University College London, London, WC1H 0PY UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Fuller DQ"
+          ],
+          "firstName": [
+            "Dorian Q"
+          ],
+          "lastName": [
+            "Fuller"
+          ],
+          "initials": [
+            "DQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4859-080X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "3Institute of Archaeology, University College London, London, WC1H 0PY UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2006-3362",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2669-5715",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4859-080X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2719491"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sustainability science"
+          ],
+          "ISOAbbreviation": [
+            "Sustain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Sustain Sci"
+          ],
+          "NLMid": [
+            "101731366"
+          ],
+          "ISSN": [
+            "1862-4065"
+          ],
+          "ESSN": [
+            "1862-4057"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "119-128"
+  ],
+  "abstractText": [
+    "To what degree is cultural multi-level selection responsible for the rise of environmentally transformative human behaviors? And vice versa? From the clearing of vegetation using fire to the emergence of agriculture and beyond, human societies have increasingly sustained themselves through practices that enhance environmental productivity through ecosystem engineering. At the same time, human societies have increased in scale and complexity from mobile bands of hunter-gatherers to telecoupled world systems. We propose that these long-term changes are coupled through positive feedbacks among social and environmental changes, coevolved primarily through selection acting at the group level and above, and that this can be tested by combining archeological evidence with mechanistic experiments using an agent-based virtual laboratory (ABVL) approach. A more robust understanding of whether and how cultural multi-level selection couples human social change with environmental transformation may help in addressing the long-term sustainability challenges of the Anthropocene."
+  ],
+  "affiliation": [
+    "1Department of Geography and Environmental Systems, University of Maryland, Baltimore County, Baltimore, MD 21250 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "323842"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Archaeology",
+        "Sociocultural Niche Construction (Snc)",
+        "Agent-based Modeling (Abm)",
+        "Social–ecological Systems (Ses)",
+        "The Extended Evolutionary Synthesis (Ees)",
+        "Anthroecology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11625-017-0513-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6086254"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6086254?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11625-017-0513-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-28"
+  ],
+  "firstIndexDate": [
+    "2018-08-27"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-26"
+  ],
+  "dateOfRevision": [
+    "2018-08-30"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-23"
+  ],
+  "firstPublicationDate": [
+    "2017-11-23"
+  ]
+}

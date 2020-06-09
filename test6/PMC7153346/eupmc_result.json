@@ -1,0 +1,224 @@
+{
+  "id": [
+    "PMC7153346"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7153346"
+  ],
+  "doi": [
+    "10.1016/b978-0-12-821012-3.00016-6"
+  ],
+  "title": [
+    "Combustion, reactive hazard, and bioprocess safety."
+  ],
+  "authorString": [
+    "Liu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Shijie"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2941399"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioprocess Engineering"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "719-772"
+  ],
+  "abstractText": [
+    "Is bioprocess dangerous? How to maintain safety? What is reactive hazard? What is biohazard? Chemical or biotransformation means change. Any changes have irreversible consequences. Managing the changes can help us, while changes can also be harmful. The first-line of defense on any potential unwanted transformations is isolation or containment. WHO defines four-risk groups of biosafety levels. There are six key knowledge bases for biosafety. With chemical safety, substance identification is the first step. The global harmonized system (GHS) of classification and labeling is generally agreed by the world bodies. The hazards are divided into three categories—physical, health, and environmental hazards. Chemical reactivity hazard is a situation where an uncontrolled reaction could result directly or indirectly in serious harm to people, property, or equipment. Fire and explosion are common reactivity hazards. To safe guard processes and facility, one needs to first identify the threat, or screening for reactivity hazards. Combustion processes proceed with chain reactions and the reaction is highly exothermic. Combined with the high-activation energy, combustion leads to large-temperature dependence. The overall reaction products can also vary (partial oxidation versus total oxidation). Partial oxidation reactions are important in chemical industry. Pyrolysis and gasification of biomass, for example, are useful technologies in biomass conversion. An explosion is a fast, transient, exothermic reaction. Unintended and accidental explosions can occur due to (1) The accumulation of reactive chemicals (gas, liquid, or solid) in confined space; (2) Leakage of “significant amount” of reactive chemicals (gas, liquid, or solid) to atmosphere or environment; or (3) Reactor runaway. As a bioprocess engineer, you will be responsible for creating safe processes and protecting the lives and health of your colleagues."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "chapter-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pyrolysis",
+        "Gasification",
+        "Explosion",
+        "Biohazard",
+        "Reactivity Hazard",
+        "Reactor Runaway"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153346/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7153346"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/b978-0-12-821012-3.00016-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-16"
+  ],
+  "firstIndexDate": [
+    "2020-04-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-15"
+  ],
+  "dateOfRevision": [
+    "2020-04-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-03"
+  ],
+  "firstPublicationDate": [
+    "2020-04-03"
+  ]
+}

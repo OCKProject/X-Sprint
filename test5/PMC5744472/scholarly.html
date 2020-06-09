@@ -1,0 +1,928 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> <head> <style type="text/css">
+      	     		 
+      	    a                          {background : #ffffff; }
+      	    article                    {border-style : dotted; border-width : 2px; }
+		 	
+		 	div                        {background : #ffffcc;}
+		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+		 	div.ack                    {border-style : solid ; border-color : red; margin : 2em; }
+		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.boxed-text             {margin : 5em; border-style : solid;}
+		 	div.contrib-group          {margin : 1em; }
+		 	div.fig                    {border-style : solid; border-width : 2px; margin : 2em; }
+		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+		 	div.given-names            {font-style : italic;}
+		 	div.intro                  {border-style : inset; margin : 5px;}
+		 	div.introduction           {border-style : inset; margin : 5px;}
+		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.journal-title-group    {background : #ffeeee;}
+		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+		 	div.kwd                    {font-style : italic}
+		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+		 	div.name                   {font-weight : bold;}
+		 	div.alt-title              {font-style : italic; font-size : 12px;}
+		 	
+		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+		 	div.title                  {font-family : courier; font-weight : bold;
+		 	                            font-size : 16pt; margin : 5px;}
+		 	
+		 	div.materials_methods      {border-style : double; margin : 5px; }
+		 	div.methods                {border-style : double; margin : 5px; }
+		 	
+		 	div.results                {border-style : solid; margin : 5px;}
+		 	div.background             {border-style : dotted; margin : 5px;}
+		 	
+		 	div.discussion             {border-style : groove; margin : 5px;}
+		 	div.conclusion             {border-style : ridge; margin : 5px;}
+		 	div.conclusions             {border-style : ridge; margin : 5px;}
+		 	div.supplementary-material {border-style : inset; margin : 5px;}
+		 	div.abbreviations          {border-style : double; border-color : red; margin : 5px;}
+		 	div.competinginterests     {border-style : double; border-color : blue; margin : 5px;}
+		 	div.acknowledgements       {border-style : double; border-color : green; margin : 5px;}
+		 	div.authors_contributions   {border-style : double; border-color : purple; margin : 5px;}
+		 	
+		 	div.publisher              {border-style : outset; margin : 5px;}
+		 	div.fn-type-conflict       {background : #f88; }
+		 	div.fn-type-con            {background : #ddf; }
+		 	div.fn-type-other          {background : #ddd; }
+		 	
+		 	div.unknown                {background : #ffd;
+									 	  border-style : solid;
+									 	  border-width : 1px;
+									 	  padding : 2 px;}
+		 	  
+      	    table                      {background : #ffffdd;}
+		 	tr                         {background : #ddddff; padding : 1px;}
+		 	
+		 	span                       {background : #ffcccc;}
+		 	
+		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+		 	span.collab                {background : #ddffff; }
+		 	span.comment               {font-family : courier; font-size : 6px; background : #ffaaff;}
+		 	span.contrib               {background : #ffffff;}
+		 	span.corresp               {background : #ddffdd; }
+		 	span.doi                   {background : #ffffff;}
+		 	span.email                 {font-family : courier; }
+		 	span.etal                  {font-style : italic;}
+		 	span.fpage                 {font-family : courier;}
+		 	span.given-names           {background : #ffffff;}
+		 	span.iso-abbrev            {background : #ffffff;}
+		 	span.issn-epub             {background : #ffffff;}
+		 	span.issn-ppub             {background : #ffffff;}
+		 	span.journal-title         {background : #ffffff;}
+		 	span.lpage                 {font-family : courier;}
+		 	span.mixed-article-title   {font-style : italic ;}
+		 	span.nlm-ta                {background : #ffffff;}
+		 	span.pmc                   {background : #ffffff;}
+		 	span.pmcid                 {background : #ffffff;}
+		 	span.pmid                  {background : #ffffff;}
+		 	span.publisher             {background : #ffffff;}
+		 	span.publisher-id          {background : #ffffff;}
+		 	span.publisher-name        {background : #ffffff;}
+		 	span.source                {background : #ffffff;}
+		 	span.subject               {background : #ffffff;}
+		 	span.surname               {background : #ffffff;}
+		 	span.volume                {font-family : courier; font-weight : bold;}
+		 	span.year                  {font-family : courier ; font-style : italic;}
+			</style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"><span class="nlm-ta" title="nlm-ta">Sci Adv</span><span class="iso-abbrev" title="iso-abbrev">Sci Adv</span><span class="publisher-id" title="publisher-id">SciAdv</span><span class="hwp" title="hwp">advances</span><div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"><span class="journal-title" tagx="journal-title" title="journal-title">Science Advances</span></div><span class="issn-epub" tagx="issn" title="issn-epub">2375-2548</span><div class="publisher" tagx="publisher" title="publisher"><span class="publisher-name" tagx="publisher-name" title="publisher-name">American Association for the Advancement of Science</span></div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"><span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/5744472">5744472</a></span><span class="publisher-id" title="publisher-id">aap7528</span><span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.1126/sciadv.aap7528">10.1126/sciadv.aap7528</a></span><div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Research Article</span>: <span class="subject" title="subject">Research Articles</span>: <span class="subject" title="subject">SciAdv r-articles</span>: <span class="subject" title="subject">Geophysics</span>: <span class="subject" title="subject">Geophysics</span></div> <div class="title-group"> <div class="article-title" title="article-title">
+Induced seismicity provides insight into why earthquake ruptures stop</div> </div> <div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Galis</span><span class="given-names" tagx="given-names" title="given-names">Martin</span></span><span class="contrib-id" tagx="contrib-id" title="contrib-id">http://orcid.org/0000-0002-5375-7061</span><a href="#aff1"><sup>1</sup></a><a href="#afn1">*</a><a href="#cor1">†</a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ampuero</span><span class="given-names" tagx="given-names" title="given-names">Jean Paul</span></span><span class="contrib-id" tagx="contrib-id" title="contrib-id">http://orcid.org/0000-0002-4827-7987</span><a href="#aff2"><sup>2</sup></a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mai</span><span class="given-names" tagx="given-names" title="given-names">P. Martin</span></span><span class="contrib-id" tagx="contrib-id" title="contrib-id">http://orcid.org/0000-0002-9744-4964</span><a href="#aff1"><sup>1</sup></a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cappa</span><span class="given-names" tagx="given-names" title="given-names">Frédéric</span></span><span class="contrib-id" tagx="contrib-id" title="contrib-id">http://orcid.org/0000-0003-4859-8024</span><a href="#aff3"><sup>3</sup></a><a href="#aff4"><sup>4</sup></a></span><span class="citation_author_institution" id="aff1">[1], </span><span class="citation_author_institution" id="aff2">[2], </span><span class="citation_author_institution" id="aff3">[3], </span><span class="citation_author_institution" id="aff4">[4], </span></div> <div class="author-notes" title="author-notes"> <div class="fn-type-present-address" title="present-address"><span class="label" tagx="label" title="label">*</span><p>Present address: Comenius University, Bratislava, Slovakia.</p> </div> <div class="corresp" title="corresp"><span class="label" tagx="label" title="label">†</span>Corresponding author. Email: <span class="email" tagx="email" title="email">martin.galis@kaust.edu.sa</span></div> </div><span class="pub-date-collection" title="pub-date-collection">collection: <span>2017-12</span></span><span class="pub-date-epub" title="pub-date-epub">epub: <span>2017-12-12</span></span><span class="volume" tagx="volume" title="volume">3</span><span class="issue" tagx="issue" title="issue">12</span><span class="elocation-id" tagx="elocation-id" title="elocation-id">eaap7528</span><span class="history" title="history"><span class="received" title="received">received: 2017-8-23</span><span class="accepted" title="accepted">accepted: 2017-11-22</span></span><div class="permissions"><span class="copyright" title="copyright">(C) <span class="copyright-holder" tagx="copyright-holder" title="copyright-holder">The Authors</span>, <span class="copyright-year" tagx="copyright-year" title="copyright-year">2017</span></span><span class="license" title="license"><span class="license-p" title="license-p">This is an open-access article distributed under the terms of the <a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial license</a>, which permits use, distribution, and reproduction in any medium, so long as the resultant use is <b>not</b> for commercial advantage and provided the original work is properly cited.</span></span></div> <div class="abstract" title="abstract"> <p>Our theoretical model of rupture arrest indicates that most of the injection-induced earthquakes have been self-arrested.</p> </div> <div class="abstract" title="abstract"> <div class="abstract-title" title="abstract-title">
+Abstract</div> <p>Injection-induced earthquakes pose a serious seismic hazard but also offer an opportunity to gain insight into earthquake physics. Currently used models relating the maximum magnitude of injection-induced earthquakes to injection parameters do not incorporate rupture physics. We develop theoretical estimates, validated by simulations, of the size of ruptures induced by localized pore-pressure perturbations and propagating on prestressed faults. Our model accounts for ruptures growing beyond the perturbed area and distinguishes self-arrested from runaway ruptures. We develop a theoretical scaling relation between the largest magnitude of self-arrested earthquakes and the injected volume and find it consistent with observed maximum magnitudes of injection-induced earthquakes over a broad range of injected volumes, suggesting that, although runaway ruptures are possible, most injection-induced events so far have been self-arrested ruptures.</p> </div> <div class="funding-group" title="funding-group"> <div class="funding" title="funding">
+Funding</div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">http://dx.doi.org/10.13039/100000001</span><span class="institution" title="institution">National Science Foundation</span></div> </div><span class="award-id" tagx="award-id" title="award-id">award347007</span><span class="award-id" tagx="award-id" title="award-id">EAR-1151926</span></div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">http://dx.doi.org/10.13039/501100001665</span><span class="institution" title="institution">Agence Nationale de la Recherche</span></div> </div><span class="award-id" tagx="award-id" title="award-id">award361668</span><span class="award-id" tagx="award-id" title="award-id">ANR-13-JS06-0004-01</span></div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">http://dx.doi.org/10.13039/501100004052</span><span class="institution" title="institution">King Abdullah University of Science and Technology</span></div> </div><span class="award-id" tagx="award-id" title="award-id">award347008</span><span class="award-id" tagx="award-id" title="award-id">BAS/1339-01-01</span></div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">http://dx.doi.org/10.13039/501100004052</span><span class="institution" title="institution">King Abdullah University of Science and Technology</span></div> </div><span class="award-id" tagx="award-id" title="award-id">award347009</span><span class="award-id" tagx="award-id" title="award-id">BAS/1339-01-01</span></div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">http://dx.doi.org/10.13039/501100004052</span><span class="institution" title="institution">King Abdullah University of Science and Technology</span></div> </div><span class="award-id" tagx="award-id" title="award-id">award347010</span><span class="award-id" tagx="award-id" title="award-id">URF/1/2160-01-01</span></div> <div class="award-group" title="award-group"> <div class="funding-source" title="funding-source"> <div class="institution-wrap" title="institution-wrap"><span class="institution-id" title="institution-id">http://dx.doi.org/10.13039/501100004052</span><span class="institution" title="institution">King Abdullah University of Science and Technology</span></div> </div><span class="award-id" tagx="award-id" title="award-id">award347011</span><span class="award-id" tagx="award-id" title="award-id">URF/1/2160-01-01</span></div> </div> <div class="custom-meta-group" title="custom-meta-group"> <meta name="Copyeditor" value="Jeanelle Ebreo" /> </div> </div> </div> <div class="body" title="body"> <div class="introduction" title="introduction"> <div class="title" tagx="title" title="title">
+INTRODUCTION</div> <p>The hazard posed by induced and triggered seismicity is a growing concern, notably in the geoenergy industry, both fossil and renewable (<a href="#R1"><i>1</i></a>, <a href="#R2"><i>2</i></a>). If viewed as large-scale experiments, anthropogenic earthquake sequences may also provide opportunities to advance our understanding of earthquake processes. The magnitude of the largest expected earthquake, <i>M</i><sub>max</sub>, is a crucial parameter for seismic hazard analysis. For natural earthquakes, it is estimated from a combination of paleoseismological data, recorded or historical seismicity, fault geometry, and empirical scaling relations (<a href="#R3"><i>3</i></a>, <a href="#R4"><i>4</i></a>). The use of dynamic rupture modeling for the assessment of extreme properties of earthquakes is still emergent (<a href="#R5"><i>5</i></a>, <a href="#R6"><i>6</i></a>)—notably due to large uncertainties on initial conditions, fault geometry, and rheology—and has been used only in a few studies of injection-induced earthquakes (<a href="#R7"><i>7</i></a>). Although the relation between <i>M</i><sub>max</sub> and fluid injection or production parameters is a topic of active research (<a href="#R8"><i>8</i></a>–<a href="#R13"><i>13</i></a>), previously proposed models to estimate <i>M</i><sub>max</sub> lack a relation between earthquake size and the triggering stress perturbation, consistent with physics-based earthquake models.</p> <p>Although it has been demonstrated that earthquakes can be initiated by stress perturbations caused by fluid injection and production (<a href="#R1"><i>1</i></a>), the conditions controlling the arrest (and hence final size) of induced earthquakes are still poorly understood. A working assumption of several existing models is that induced ruptures remain confined to the volume perturbed by fluid pressure (<a href="#R8"><i>8</i></a>, <a href="#R9"><i>9</i></a>) or poroelastic stresses (<a href="#R14"><i>14</i></a>). However, in principle, an earthquake nucleated in an area of enhanced stress can continue propagating into the surrounding areas if sufficient stored elastic energy is available there. These earthquakes are often qualified as "triggered" rather than "induced" (<a href="#R15"><i>15</i></a>). The concept of a "critically stressed crust" (<a href="#R16"><i>16</i></a>), supported by geophysical and geodetic observations, implies that even tectonically stable regions (that is, intraplate regions with low strain rate) are capable of storing significant elastic energy. Statistical models of induced seismicity (<a href="#R12"><i>12</i></a>) allow for these triggered earthquakes but do not specify their physics.</p> <p>Numerical simulations and fracture mechanics provide fundamental insights into the nucleation of dynamic ruptures by localized stresses and their subsequent propagation and arrest beyond the nucleation area. Galis <i>et al</i>. (<a href="#R17"><i>17</i></a>) found that the capability of a rupture to propagate along a homogeneous fault depends on the amplitude and area of the stress perturbation. Small or weak perturbations result in arrested ruptures that stop spontaneously at a finite distance from the nucleation area. Large or strong stress perturbations result in runaway ruptures that are only stopped by the boundaries of the fault. These two rupture behaviors are also observed in laboratory experiments of frictional sliding of polymethyl methacrylate blocks driven by a lateral point load (<a href="#R18"><i>18</i></a>). At low imposed force, arrested ruptures propagate along the block interface but stop spontaneously before reaching the end of the block. At large enough shear force, a runaway rupture leads to slip of the whole block. Kammer <i>et al</i>. (<a href="#R19"><i>19</i></a>) applied fracture mechanics to predict the length of the arrested ruptures as a function of loading force and the transition to runaway ruptures. Garagash and Germanovich (<a href="#R20"><i>20</i></a>) identified the two modes of ruptures in their analysis of nucleation and arrest of ruptures due to a line-source injection, resulting in a one-dimensional (1D) pore-pressure perturbation. These theoretical and experimental results suggest that also earthquake ruptures may propagate in the two regimes.</p> <p>Determining whether earthquakes propagate as arrested or as runaway ruptures would provide physics-based constrains on earthquake size. Although the nucleation conditions of natural earthquakes are poorly known, they may be better constrained for earthquakes initiated by pore-pressure perturbations during fluid injection or withdrawal. Therefore, to gain deeper physical insight into the propagation and arrest of earthquake ruptures, we focus on studying injection-induced earthquakes. Building up on our previous works (<a href="#R17"><i>17</i></a>, <a href="#R19"><i>19</i></a>, <a href="#R21"><i>21</i></a>, <a href="#R22"><i>22</i></a>), here, we develop a quantitative model for the effect of pre-existing elastic energy on the size of induced earthquakes based on numerical simulation and fracture mechanics theory of the nucleation and arrest of dynamic rupture. Our model of rupture arrest is qualitatively similar to that of Garagash and Germanovich (<a href="#R20"><i>20</i></a>), despite the fact that they analyzed a 1D case, whereas we study a 2D pore-pressure perturbation.</p> <p>Through our investigations, we show that the observed relation between maximum magnitudes of induced earthquakes, <i>M</i><sub>max</sub>, and net volume of injected fluid, Δ<i>V</i>, is consistent with predictions of our model. Our work is therefore a first-order step toward the integration of earthquake physics into a theoretical and computational framework for modeling injection-induced and triggered seismicity.</p> </div> <div class="results" title="results"> <div class="title" tagx="title" title="title">
+RESULTS</div> <div class="rupturearrestin3ddynamicsimulationsofearthquakesinducedbyfluidinjection" title="sec"> <div class="title" tagx="title" title="title">
+Rupture arrest in 3D dynamic simulations of earthquakes induced by fluid injection</div> <p>We consider earthquake ruptures nucleated by a stress perturbation localized on a small portion of a fault. To introduce the model through a basic example, we consider a horizontal planar fault intersecting a cylindrical reservoir (<a href="#F1">Fig. 1</a>). Fluid is injected at a constant rate at the center of the reservoir. Before injection, the fault is loaded by large-scale tectonic stresses, resulting in uniform background shear stress τ<sub>0</sub> and effective normal stress σ<sub>0</sub>′ (positive if compressive). Upon injection, the pore-pressure perturbation <i>p</i> varies in space and time, as given by an axisymmetric analytical solution of the diffusion equation for single-phase (that is, water) fluid flow (see Materials and Methods). The effective normal stress is σ′ = σ<sub>0</sub>′ − <i>p</i>. Fault slip is governed by linear slip-weakening friction with static and dynamic friction coefficients μ<sub>s</sub> and μ<sub>d</sub>, respectively, and characteristic slip-weakening distance, <i>D</i><sub>c</sub>. These frictional properties are uniform over the fault. The background stress is characterized by a nondimensional strength excess ratio <i>S</i> = (μ<sub>s</sub>σ<sub>0</sub>′ − τ<sub>0</sub>)/(τ<sub>0</sub> − μ<sub>d</sub>σ<sub>0</sub>′). The "potential stress drop," that is, the shear stress in excess of dynamic strength available to drive slip, is Δτ = τ<sub>0</sub> − μ<sub>d</sub>σ′ = Δτ<sub>0</sub> + μ<sub>d</sub> ⋅ <i>p</i>, where Δτ<sub>0</sub> = τ<sub>0</sub> − μ<sub>d</sub>σ<sub>0</sub> is the uniform background stress drop.</p> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Fig. 1</span></a></div>   <div class="title" tagx="title" title="title">
+Arrested and runaway earthquake ruptures.</div> <p>The red line and the symbols delineate the rupture arrest area as a function of pore pressure inside the perturbation. The rupture extent is also illustrated by final slip maps. The sketch in the inset depicts the relative position of a fault and a reservoir.</p>   </div> <p>Fluid injection into the reservoir increases its pore pressure, which reduces the fault’s frictional strength μ<sub>s</sub>(σ<sub>0</sub>′ − <i>p</i>). A rupture nucleates if and where the fault strength drops below the shear stress. The ensuing rupture propagation is modeled with a 3D dynamic rupture simulation method (<a href="#R17"><i>17</i></a>). The typical behavior resulting from these simulations is illustrated in <a href="#F1">Fig. 1</a>. In this example, the pore-pressure perturbation on the fault has a fixed area but increasing amplitude. To estimate an upper bound on rupture size at a given pressure, we assume that the fault is locked until that pressure is reached and then slip is released in a single event. If the pressure is low, ruptures are self-arrested. Their arrest area is significantly larger than the fluid-pressurized area. As the pressure increases, so does the rupture arrest area. When a critical pressure is reached, there is a sharp transition to runaway rupture: The rupture area jumps to a size limited only by the assumed fault boundaries. More generally, we find that whether the rupture becomes arrested or runaway depends on both the area and amplitude of the pore-pressure perturbation.</p> </div> <div class="fracture-mechanicsestimatesofthesizeofarrestedruptures" title="sec"> <div class="title" tagx="title" title="title">
+Fracture-mechanics estimates of the size of arrested ruptures</div> <p>Although it is possible to conduct a parametric study of the arrest of induced earthquakes based on 3D dynamic rupture simulations, here, we develop a more efficient approach based on fracture mechanics. We validate and calibrate the approach through 3D dynamic simulations and then apply it to assess the influence of reservoir and fault parameters on the size of arrested ruptures.</p> <p>To estimate the area of arrested ruptures, we apply Griffith’s crack equilibrium criterion. The criterion is essentially an energy balance equating the elastostatic energy release rate due to crack growth, <i>G</i>, and the fracture energy dissipated by unit of crack growth, <i>G</i><sub>c</sub> = 1/2σ′(μ<sub>s</sub> − μ<sub>d</sub>)<i>D</i><sub>c</sub>. To keep the derivation tractable, we approximate the rupture as circular and ignore the differences between shear crack modes (II and III). We apply known integral relations to numerically compute <i>G</i>(<i>R</i>) as a function of rupture radius <i>R</i> for any axisymmetric distribution of stress (<a href="#R21"><i>21</i></a>). We determine the equilibrium radii <i>R</i> that satisfy <i>G</i>(<i>R</i>) = <i>G</i><sub>c</sub> and apply an additional condition, <i>d</i>(<i>G</i> − <i>G</i><sub>c</sub>)/<i>dR</i> &amp;lt; 0, to identify stable equilibrium position. Finally, we use a circular crack model with uniform stress drop to compute the moment magnitude <i>M</i><sub>w</sub> from the rupture area (the derivation of the approach and its validation are presented in Materials and Methods).</p> <p>Considering now an injection at a constant flow rate into a sealed reservoir, we investigate the dependency of rupture arrest area on reservoir and fault parameters. In <a href="#F2">Fig. 2A</a>, we compare the temporal evolution of rupture arrest area for a fixed set of fault parameters (with <i>S</i> = 2) and for a representative range of reservoir parameters summarized in table S1. We find that the detailed distribution of pore pressure inside the reservoir is largely irrelevant: Rupture arrest area is controlled by the integral over the spatial extent of pore pressure on the fault. Consequently, reservoir parameters other than its radius do not affect the sizes of arrested ruptures, only their admissible timing. The injection rate <i>q</i>, fluid compressibility <i>c</i><sub><i>t</i></sub>, porosity φ, and reservoir thickness <i>h</i> have similar effects. At times long enough so that reservoir pressure is saturated, these parameters affect the value and temporal evolution of the average pressure but not the shape of the pressure distribution (see <a href="#F3">Fig. 3</a>). For example, reducing injection rate <i>q</i> delays the onset of arrested ruptures, whereas increased injection rate leads to earlier onset, yet in both cases, the minimal and maximal rupture arrest areas are identical. On the other hand, permeability <i>k</i> and viscosity μ<sub>v</sub> alter the pressure distribution but not its integral; hence, they do not affect rupture timing. Reservoir radius, <i>r</i><sub>e</sub>, is the only reservoir parameter affecting the maximum rupture size: The area of the largest arrested rupture increases with <i>r</i><sub>e</sub> (<a href="#F2">Fig. 2B</a>).</p> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Fig. 2</span></a></div>   <div class="title" tagx="title" title="title">
+Influence of reservoir- and fault-related parameters on the evolution of rupture arrest area.</div> <p>(<b>A</b>) Varying reservoir-related parameters, (<b>B</b>) varying strength parameter <i>S</i> and reservoir radius <i>r</i><sub>e</sub>, and (<b>C</b>) varying fault-related parameters. The reference solution (bold blue line) is the same in all three panels. In each panel, the same color depicts the solutions for the same varying parameter. For (A) and (C), thin and bold lines indicate solutions for lower and greater value of the corresponding parameter compared to that of the reference solution. For stresses in (C), the thin and thick lines indicate lower and higher values of <i>S</i>, respectively. Transition to runaway ruptures is marked by the dashed lines. The horizontal gray lines indicate the area of the intersection of the reservoir and the fault; it also corresponds to the minimal arrested area. The horizontal dotted gray line in (A) indicates constant maximum arrested area (in other panels, maximum arrested area varies). Note that in (C), the lines for τ<sub>0</sub> and σ are almost identical.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Fig. 3</span></a></div>   <div class="title" tagx="title" title="title">
+Comparison of pore-pressure distribution inside sealed cylindrical reservoirs induced at time <i>t</i> = 100 days by steady-flux injection at its center, for varying compressibility <i>c</i><sub><i>t</i></sub>, viscosity μ<sub>v</sub>, porosity φ, and permeability <i>k</i>.</div> <p>Higher and lower values of parameters are depicted by thicker and thinner lines of the same color, respectively. The numbers indicate the values of the spatial integral of pressure in megapascals per square kilometer.</p>   </div> <p>The effect of fault parameters on arrested rupture area is illustrated in <a href="#F2">Fig. 2</a> (B and C). Fault parameters (μ<sub>s</sub>, μ<sub>d</sub>, <i>D</i><sub>c</sub>, τ<sub>0</sub>, and σ) influence both the timing of the onset of arrested ruptures and the subsequent temporal evolution of the rupture arrest area. For example, faults with lower background stress τ<sub>0</sub> (higher <i>S</i>; <a href="#F2">Fig. 2B</a>) or larger slip-weakening distance <i>D</i><sub>c</sub> (<a href="#F2">Fig. 2C</a>) can produce larger arrested ruptures. This is expected because both smaller energy available to drive ruptures and larger fracture energy (larger fault resistance to rupture growth) tend to stabilize a fault.</p> </div> <div class="magnitudeofthelargestarrestedrupture" title="sec"> <div class="title" tagx="title" title="title">
+Magnitude of the largest arrested rupture</div> <p>The magnitude of the largest arrested rupture, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span>, is an important indicator of the stability of a perturbed fault. A fault capable of producing runaway ruptures is relatively unstable. Noting that the largest arrested ruptures are significantly larger than the fluid-pressurized area, we obtain further insight into what controls <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> by approximating the additional stress drop (induced by the pore-pressure perturbation) as a point load superimposed on the background stress drop. This approximation leads to the following estimate of the maximum arrested moment (see <a href="#E19">Eqs. 19</a> and <a href="#E21">21</a>) </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0.4255</div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+μ</div> <div class="mi_UNKNOWN">
+d</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+p</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+p</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div><span class="label" tagx="label" title="label">(1)</span></div>where Δ<i>p</i> is the average increase in pore pressure inside the reservoir, <i>A</i><sub><i>p</i></sub> is the area of the stress perturbation (here, the area of intersection between the reservoir and the fault), μ<sub>d</sub> is the dynamic friction coefficient, and Δτ<sub>0</sub> is the background stress drop. The corresponding moment magnitude <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> is computed using <a href="#E20">Eq. 20</a>.<p /> <p>The result in <a href="#E1">Eq. 1</a> reflects how rupture arrest is controlled by a competition between two sources of elastic energy: injection-induced fluid pressure and tectonic prestress. The contributions of these two sources to the elastic energy available for rupture growth (via the stress intensity factor in <a href="#E18">Eq. 18</a>) are both positive. However, the energy contributed by injection-induced fluid pressure decays with increasing rupture size, whereas the energy contributed by tectonic prestress increases, thereby creating a trade-off between these two strain-energy sources. At the maximum arrest size, both contributions are comparable. Hence, although arrested ruptures can grow well beyond the reservoir boundaries, the reservoir pressure not only triggers them but also contributes significantly to their energy balance.</p> <p>To draw the connection between <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> and injection parameters, following McGarr (<a href="#R9"><i>9</i></a>), we approximate the average increase in pore pressure after injecting a volume Δ<i>V</i> of fluid into a saturated reservoir of volume <i>V</i> as </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+p</div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+κ</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+V</div> </div> <div class="mi_UNKNOWN">
+V</div> </div> </div> </div></div><span class="label" tagx="label" title="label">(2)</span></div>where κ is the bulk modulus of the reservoir rock. This approximation assumes an incompressible fluid and neglects the effects of porosity on the ability of a rock formation to accommodate fluid pressure diffusion or distribution. For the scenario of <a href="#F1">Fig. 1</a>, the volume affected by the stress perturbation is <i>V</i> = <i>A</i><sub><i>p</i></sub>⋅<i>h</i>, where <i>h</i> is the reservoir thickness, and <a href="#E1">Eqs. 1</a> and <a href="#E2">2</a> yield <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+γ</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+where</div> <div class="mo_UNKNOWN"> </div> <div class="mi_UNKNOWN">
+γ</div> <div class="mo_UNKNOWN">
+≐</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+0.4255</div> <div class="mrow_UNKNOWN"> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+κ</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+μ</div> <div class="mi_UNKNOWN">
+d</div> </div> </div> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div><span class="label" tagx="label" title="label">(3)</span></div> <p /> <p>We note that, for example, a greater stress drop Δτ<sub>0</sub> leads to smaller values of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span>, reflecting the fact that transition to runaway ruptures will occur earlier for a fault with a greater stress drop than for a fault with a lower stress drop. Comparison to computations accounting for the exact stress drop distribution in ~4250 randomly generated reservoir-fault configurations (see Materials and Methods) shows that the point-load approximation of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> is unbiased and accurate within an uncertainty of ±0.5. More generally, the term <i>F</i> = μ<sub>d</sub> ⋅ Δ<i>p</i> ⋅ <i>A</i><sub><i>p</i></sub> in <a href="#E1">Eq. 1</a> can be interpreted as the spatial integral of a localized perturbation of potential stress drop resulting from the intersection of a fault with a fluid-pressurized volume or a poroelastic stress distribution or from pressure diffusion along a permeable fault zone channel.</p> <p>In <a href="#F4">Fig. 4</a>, we compare our <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> estimates with the largest magnitudes observed in various injection-induced earthquake sequences as a function of the cumulative net injected fluid volumes in nearby wells. We consider three values of γ corresponding to plausible values of key model parameters (<i>h</i> from 10 to 1000 m, Δτ<sub>0</sub> from 0.1 to 10 MPa, κ = 50 GPa, and μ<sub>d</sub> = 0.1). An induced earthquake with magnitude below our predicted <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> is interpreted as a spontaneously arrested rupture. Because moment can be accommodated by aseismic slip or by multiple earthquakes on the same fault, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> is a conservative upper magnitude bound for arrested ruptures. Conversely, an earthquake with magnitude above our predicted <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> is interpreted as a runaway rupture. In reality, arrested ruptures are likely to stop even before they reach their maximum size because even small or weak barriers can significantly affect their propagation. A runaway rupture needs a stronger and larger barrier to be stopped, typically the end of a fault or a geometrical/geological fault segmentation. In this context, larger values of γ and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> lead to a more stable situation.</p> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Fig. 4</span></a></div>   <div class="title" tagx="title" title="title">
+Comparison of our estimate of magnitude of maximum arrested rupture, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span>, for three values of γ with magnitudes of injection-induced earthquakes over a broad range of injected volumes.</div> <p>We find that our estimate is equivalent to that of magnitude of maximum possible earthquake by van der Elst <i>et al</i>. (<a href="#R12"><i>12</i></a>) for <i>b</i> = 1; therefore, we also indicate the corresponding values of seismogenic index <i>A</i><sub><i>p</i></sub>. For completeness, we also include the estimate of maximum possible induced earthquake by McGarr (<a href="#R9"><i>9</i></a>). Note that for the events induced during multistage hydrofracking in the Western Canada sedimentary basin (yellow circles), we consider the total volumes for all previous stages and all proximal well completions reported as "maximum volume" by Atkinson <i>et al</i>. (<a href="#R11"><i>11</i></a>).</p>   </div> <p><a href="#F4">Figure 4</a> reveals a striking consistency between the relation <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> <div class="mo_UNKNOWN">
+∝</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div></span> predicted by our model and data recorded across a very broad range of injected volumes and scales, from laboratory experiments (centimeter scale) to induced seismicity at field scales (hectometers to kilometers), including intermediate-scale natural laboratories (meters to dekameters). Moreover, almost all magnitudes fall below the predicted <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span>, with γ = 1.5 × 10<sup>10</sup>. These two observations suggest that these induced earthquakes may have been arrested ruptures.</p> </div> </div> <div class="discussion" title="discussion"> <div class="title" tagx="title" title="title">
+DISCUSSION</div> <p>Our model does not provide an estimate of maximum possible magnitude <i>M</i><sub>max</sub>, only the maximum size of arrested ruptures <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span>. Ruptures can grow larger if they are runaway. It is nevertheless informative to compare it with previous estimates of <i>M</i><sub>max</sub> of injection-induced earthquakes.</p> <p>McGarr (<a href="#R9"><i>9</i></a>) proposed a linear relation between <i>M</i><sub>0 max</sub> and Δ<i>V</i>, which differs significantly from our physics-based prediction <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> <div class="mo_UNKNOWN">
+∝</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div></span>. Although for low injected volumes, McGarr’s model largely overpredicts observed maximum magnitudes, several cases from data sets by Buijze <i>et al</i>. (<a href="#R23"><i>23</i></a>) and Atkinson <i>et al</i>. (<a href="#R11"><i>11</i></a>) exceed his model for large injected volumes. Our model is more consistent with the data as a whole; however, the difference between our model and maximum observed magnitudes increases with injected fluid volume, suggesting that fluid injection can induce even larger events than what has been recorded so far. This difference concerns magnitudes &amp;gt;4 and is therefore significant for seismic hazard analysis.</p> <p>Comparing <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> with the estimate <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+max</div> </div> </div> </div></div></span> by van der Elst <i>et al</i>. (<a href="#R12"><i>12</i></a>), based on the premise that induced seismicity is Poissonian and follows the Gutenberg-Richter magnitude-frequency distribution, like regular tectonic earthquakes, reveals interesting similarities. Their model predicts <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mn_UNKNOWN">
+0</div> <div class="mtext_UNKNOWN">
+max</div> </div> <div class="mo_UNKNOWN">
+∝</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+b</div> </div> </div> </div> </div> </div> </div></div></span>, where <i>b</i> is the Gutenberg-Richter exponent. If <i>b</i> = 1, both models predict exponent of <sup>3</sup>/<sub>2</sub>. Equating the prefactors, the seismogenic index Σ of their model can be related to our parameter γ by <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Σ</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mn_UNKNOWN">
+3</div> </div> <div class="msub_UNKNOWN"> <div class="mtext_UNKNOWN">
+log</div> <div class="mn_UNKNOWN">
+10</div> </div> <div class="mi_UNKNOWN">
+γ</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+6.07</div> </div> </div></div></span>. The range of γ values in <a href="#F4">Fig. 4</a> yields a reasonable range of values of Σ. Because <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+max</div> </div> </div> </div></div></span> estimates maximum magnitude and our <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> estimates the largest arrested rupture, the similarity between the two estimates is unexpected. For <i>b</i> ≠ 1 (<i>b</i> &amp;gt; 1 is common for induced seismicity), the two models no longer yield consistent results. Using our terminology, van der Elst <i>et al</i>. (<a href="#R12"><i>12</i></a>) showed that runaway ruptures that stopped because of natural heterogeneity of tectonic stresses are a viable explanation of the <i>M</i><sub>max</sub> versus injected volume data. Our model allows both possibilities (the largest observed ruptures could be either runaway or self-arrested), and we show that the latter is viable too. However, our attempts to discriminate the two models by their predictions of the relative timing of the largest earthquake are inconclusive because of the scarcity of data (see Materials and Methods).</p> <p>Our analysis shows that rupture arrest and the transition to runaway rupture are dominantly controlled by friction parameters and stress state (that is, conditions on the fault before injection), whereas the temporal evolution of pore pressure only influences timing (that is, triggering). Our model also reveals that for the same pore pressure, a larger reservoir can produce larger events than a smaller reservoir. This implies that there is no universal safe pressure limit; what matters is the product <i>F</i> = μ<sub>d</sub> ⋅ Δ<i>p</i> ⋅ <i>A</i><sub><i>p</i></sub>. This also explains, conceptually, how low-pressure wastewater disposal into an extended reservoir may induce larger events than hydrofracking operations involving higher pore pressure but over a smaller footprint.</p> <p>Our model also reveals significant variations in the duration of the relatively stable, arrested rupture regime. This may have important implications for traffic-light systems (TLSs) aiming at operational control of induced earthquake hazard. A TLS that implicitly assumes that magnitudes of induced earthquakes do not change abruptly with time or a TLS with magnitude thresholds higher than <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> could fail to capture an abrupt transition to runaway ruptures. In the framework of our model, a TLS may be particularly challenged in reservoir-fault systems characterized by a short arrested rupture regime.</p> <p>Although our scaling of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> with injected volume has been derived for the point-force approximation of the injection scenario captured in <a href="#F1">Fig. 1</a>, we believe that it is more robust and applicable to a wider range of scenarios. Strictly speaking, the point-force approximation is valid if the pressurized region is small compared to the size of the maximum arrested rupture. However, the verification of the point-force approximation using the finite-reservoir approach revealed that the point-force approximation is robust, as demonstrated by no systematic correlation of residuals with other fault-reservoir parameters (fig. S6), particularly with strength parameter <i>S</i> (from 1.5 to 8), radius of reservoir (from 0.1 to 5 km), or magnitudes (from 4 to 8). The only exceptions are compressibility and porosity, whose effects, as discussed, are neglected in the approximation of the average pore pressure (<a href="#E2">Eq. 2</a>). Moreover, our approach can be applied to more general injection scenarios than depicted in <a href="#F1">Fig 1</a>. For example, if an arbitrarily oriented fault intersects a general-shaped reservoir, the resulting scaling remains <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> <div class="mo_UNKNOWN">
+∝</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div></span>, but reservoir thickness <i>h</i> in the parameter γ is replaced by the ratio of volume of the reservoir and the area of the intersection, <i>V</i>/<i>A</i><sub><i>p</i></sub>. For a special case of a vertical fault intersecting a cylindrical reservoir at distance <i>D</i> from the reservoir center, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+V</div> <div class="mo_UNKNOWN">
+/</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+p</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+π</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+/</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+2</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+D</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div></span>.</p> <p>Beyond injection-induced seismicity, our theory for rupture arrest is potentially applicable to faults loaded by localized stresses of other origins, which can be represented by an effective load <i>F</i>, including situations that are relevant for natural seismicity. For instance, <i>F</i> could arise from stochastic stresses (<a href="#R21"><i>21</i></a>) or from stress concentrations due to localized fault loading (<a href="#R19"><i>19</i></a>). In particular, creep in the deep extension of a fault concentrates stress at the base of the seismogenic zone. In earthquake cycle simulations, this loading nucleates sequences of arrested ruptures at a depth before a runaway rupture. Megathrust earthquakes that remained confined at depth, like the 2015 Gorkha, Nepal earthquake (<a href="#R24"><i>24</i></a>, <a href="#R25"><i>25</i></a>), may be examples of these arrested ruptures, a necessary prelude to a much larger event. The belt of background seismicity in Nepal is consistent with concentrated tectonic loading around the bottom of the megathrust seismic coupling zone. The appropriateness of one of our key model assumptions, the Griffith’s fracture criterion, for natural earthquake arrest is supported by microseismicity observations. On strike-slip faults, the criterion predicts that rupture arrest length is larger horizontally (mode II) than vertically (mode III) by a factor 1/(1 − ν), where ν is the Poisson’s ratio. This is consistent with the aspect ratio of rupture areas inferred from aftershocks of microearthquakes in California (<a href="#R26"><i>26</i></a>).</p> <p>Although our approach allows scaling of fracture energy with rupture size, here, we assumed constant fracture energy on each rupture. Considering an empirical model (<a href="#R27"><i>27</i></a>) and a thermal pressurization model (<a href="#R28"><i>28</i></a>) of fracture energy scaling with slip, which both fit the relevant seismological observations adequately, we find qualitatively different results for rupture arrest size. Thus, further study of earthquake arrest can help advance our understanding of fracture energy scaling.</p> </div> <div class="materials_methods" title="materials|methods"> <div class="title" tagx="title" title="title">
+MATERIALS AND METHODS</div> <div class="porepressureinacylindricalreservoir" title="sec"> <div class="title" tagx="title" title="title">
+Pore pressure in a cylindrical reservoir</div> <p>We used the general solution of the diffusion equation for single-phase fluid flow for a cylindrical reservoir, with constant injection rate at its center and no-flow boundary condition [Appendix B in the study of Lee <i>et al</i>. (<a href="#R29"><i>29</i></a>)]. The dimensionless diffusion equation exploiting axisymmetry is </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> </div> </div> </div></div><span class="label" tagx="label" title="label">(4)</span></div>where <i>r</i><sub>D</sub> = <i>r</i>/<i>r</i><sub>w</sub> is the dimensionless radius (<i>r</i> being the radius and <i>r</i><sub>w</sub> being the wellbore radius) <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+k</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+μ</div> <div class="mi_UNKNOWN">
+v</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+w</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div><span class="label" tagx="label" title="label">(5)</span></div>is the dimensionless time (<i>t</i> being the time, <i>k</i> and φ being the permeability and porosity of the reservoir, respectively, and <i>c</i><sub><i>t</i></sub> being the compressibility of the fluid), and <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+k</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+h</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+B</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+μ</div> <div class="mi_UNKNOWN">
+v</div> </div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+p</div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div><span class="label" tagx="label" title="label">(6)</span></div>is the dimensionless pressure (<i>h</i> being the reservoir height, <i>q</i> being the injection rate (negative sign indicates withdrawal), <i>B</i> being the formation volume factor, μ<sub>v</sub> being the fluid viscosity, <i>p</i><sub>i</sub> being the initial pore pressure, and <i>p</i> being the current pore pressure). The initial condition is <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> </div></div><span class="label" tagx="label" title="label">(7)</span></div>the inner boundary condition (that is, constant injection rate) is given as <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div></div><span class="label" tagx="label" title="label">(8)</span></div>whereas the outer boundary condition (that is, no-flow boundary) is given as <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> </div></div><span class="label" tagx="label" title="label">(9)</span></div>where <i>r</i><sub>eD</sub> = <i>r</i><sub>e</sub>/<i>r</i><sub>w</sub> is dimensionless radius of the reservoir. The general solution for <i>r</i><sub>D</sub> ≤ <i>r</i><sub>eD</sub> and <i>t</i><sub>D</sub> ≥ 0 is <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mn_UNKNOWN">
+4</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+ln</div> <div class="mo_UNKNOWN"> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> <div class="mn_UNKNOWN">
+4</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+4</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> <div class="mn_UNKNOWN">
+4</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+ln</div> <div class="mo_UNKNOWN"> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+2</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+4</div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+π</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+∞</div> </div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+Ψ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mi_UNKNOWN">
+D</div> </div> </div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div><span class="label" tagx="label" title="label">(10)</span></div>where <i>J</i><sub><i>k</i></sub> and <i>Y</i><sub><i>k</i></sub> are the <i>k</i>th-order Bessel functions of the first and second kind, respectively <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+Ψ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+Y</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+Y</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+D</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+−</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div></div><span class="label" tagx="label" title="label">(11)</span></div>and α<sub><i>n</i></sub>(<i>r</i><sub>eD</sub>) is the <i>n</i>th root of the equation <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+Y</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+J</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+Y</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+α</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mtext_UNKNOWN">
+eD</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> </div></div><span class="label" tagx="label" title="label">(12)</span></div> <p /> <p>The last term in the <i>p</i><sub>D</sub> solution (<a href="#E10">Eq. 10</a>) is a transient component that vanishes at long times.</p> </div> <div class="estimationofrupturearrestarea" title="sec"> <div class="title" tagx="title" title="title">
+Estimation of rupture arrest area</div> <p>We derived estimates of the rupture arrest area given a spatial distribution of potential stress drop, Δτ, based on the Griffith crack equilibrium criterion and small-scale yielding fracture mechanics. Following the approach in Appendix B in the study of Ripperger <i>et al</i>. (<a href="#R21"><i>21</i></a>) and Appendix A in the study of Galis <i>et al</i>. (<a href="#R17"><i>17</i></a>), we adopted the following simplifying assumptions:</p> <p>(1) The rupture is approximately circular, with radius <i>R</i>.</p> <p>(2) The stress drop distribution is axisymmetric, Δτ(<i>r</i>).</p> <p>(3) The static stress intensity factor averaged along the crack rim is approximated by the expression for tensile (mode I) cracks </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mrow_UNKNOWN"> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+R</div> </div> </div> </div> </div> <div class="mstyle_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mo_UNKNOWN">
+∫</div> <div class="mn_UNKNOWN">
+0</div> <div class="mi_UNKNOWN">
+R</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+τ</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+r</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div> <div class="mi_UNKNOWN">
+r</div> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+r</div> </div> </div></div><span class="label" tagx="label" title="label">(13)</span></div> <p /> <p>(4) The details of weakening inside the process zone are ignored, and the rupture criterion is based on the fracture toughness <i>K</i><sub>c</sub>, related to the slip-weakening fracture energy by </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+G</div> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+s</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mi_UNKNOWN">
+d</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+D</div> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+μ</div> </div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mi_UNKNOWN">
+c</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div><span class="label" tagx="label" title="label">(14)</span></div> <p /> <p>Although we considered here a slip-weakening model with constant <i>G</i><sub>c</sub>, a scale-dependent <i>G</i><sub>c</sub>(<i>R</i>) can be incorporated too. The conditions for rupture arrest are </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mo_UNKNOWN"> </div> <div class="mtext_UNKNOWN">
+and</div> <div class="mo_UNKNOWN"> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mi_UNKNOWN">
+c</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="mi_UNKNOWN">
+R</div> </div> </div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="mn_UNKNOWN">
+0</div> </div> </div></div><span class="label" tagx="label" title="label">(15)</span></div> <p /> <p>The first condition is the Griffith’s crack equilibrium criterion, and the second condition is necessary to find a stable equilibrium at which further perturbation does not lead to further self-accelerating dynamic rupture. Galis <i>et al</i>. (<a href="#R17"><i>17</i></a>) considered an adjustable factor η in the Griffith’s criterion, that is, η ⋅ <i>K</i><sub>0</sub>(<i>R</i>) = <i>K</i><sub>c</sub>, as a proxy to account for the differences between modes I, II, and III, the departures from circularity, the effect of dynamic overshoot, etc. They found that η = 1 yields results consistent with numerical simulations; therefore, we adopted η = 1. In numerical simulations, the stresses in the hypocentral area were chosen so that the initial condition was near an unstable equilibrium state (∂(<i>K</i><sub>0</sub> − <i>K</i><sub>c</sub>)/∂<i>R</i> &amp;gt; 0).</p> <p>The solution of the problem (<a href="#R15"><i>15</i></a>) was found by numerically integrating <i>K</i><sub>0</sub>(<i>R</i>) (<a href="#E13">Eq. 13</a>) with adaptive sampling of <i>R</i> and <i>r</i> to achieve high accuracy of the rupture arrest radius, <i>R</i><sub>arr</sub>, for various stress drop distributions. The rupture arrest area was then obtained as <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mtext_UNKNOWN">
+arr</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+π</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mtext_UNKNOWN">
+arr</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span>. If a solution to <a href="#E15">Eq. 15</a> exists, it represents the final radius <i>R</i> of an arrested rupture. Otherwise, rupture is runaway.</p> <p>We considered stress drop distributions with identical peak amplitude such that τ<sub>0</sub> &amp;gt; τ<sub><i>s</i></sub> at <i>r</i> = 0 but with varying width (<a href="#F5">Fig. 5</a>). Such a peak could result from reduced normal stress due to locally increased pore pressure. The stress drop perturbation affects the shape of <i>K</i><sub>0</sub>(<i>R</i>) following three cases depending on its width. If the perturbation is too narrow, rupture does not propagate outside the overstressed area because the perturbed <i>K</i><sub>0</sub> does not reach <i>K</i><sub>c</sub>. If the perturbation is large enough, it initiates a runaway rupture because, once <i>K</i><sub>0</sub> becomes greater than <i>K</i><sub>c</sub>, it will remain greater. In the intermediate case, rupture starts propagating outside the overstressed region, but the rupture eventually stops when the stable equilibrium is reached, that is, <i>K</i><sub>0</sub> = <i>K</i><sub>c</sub> on the decreasing leg of <i>K</i><sub>0</sub>.</p> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Fig. 5</span></a></div>   <div class="title" tagx="title" title="title">
+Fracture mechanics of rupture arrest under nonuniform stress.</div> <p>Sketch of (<b>A</b>) stress drop distributions Δτ(<i>r</i>) and (<b>B</b>) the corresponding static stress intensity factors <i>K</i><sub>0</sub>(<i>R</i>) illustrating different crack behavior (although our approach supports <i>K</i><sub>c</sub> being a function of <i>R</i>, for illustration purposes, <i>K</i><sub>c</sub> is plotted as a constant).</p>   </div> <p>We obtained further physical insight by developing a simplified analytical estimate. For this purpose, we assumed that <i>K</i><sub>c</sub> is constant and the rupture arrest area is much larger than the fluid-pressurized area <i>A</i><sub><i>p</i></sub>. Following the study of Galis <i>et al</i>. (<a href="#R17"><i>17</i></a>), we approximated stress drop by a point load superimposed on the background uniform stress drop </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+τ</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+≐</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+δ</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+/</div> <div class="mo_UNKNOWN">
+(</div> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> </div> </div></div><span class="label" tagx="label" title="label">(16)</span></div>where <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+μ</div> <div class="mi_UNKNOWN">
+d</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+p</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+p</div> </div> </div> </div></div><span class="label" tagx="label" title="label">(17)</span></div> <p /> <p>Here, Δ<i>p</i> is the average increase in pore pressure inside the reservoir. We adopted a definition of Dirac’s distribution in polar coordinates consistent with <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mo_UNKNOWN">
+∫</div> <div class="mn_UNKNOWN">
+0</div> <div class="mi_UNKNOWN">
+R</div> </div> </div> <div class="mi_UNKNOWN">
+δ</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+)</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+d</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> </div></div></span> (<a href="#R30"><i>30</i></a>). After inserting <a href="#E16">Eq. 16</a> into <a href="#E13">Eq. 13</a>, we obtained </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+F</div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+R</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mi_UNKNOWN">
+π</div> </div> </div> </div> </div> </div></div><span class="label" tagx="label" title="label">(18)</span></div> <p /> <p>Solving the Griffith’s equilibrium condition (<a href="#E15">Eq. 15</a>) leads to a quartic equation with too complicated solutions to provide the desired insight. Yet, a compact expression can be derived for the maximum rupture arrest radius, <i>R</i><sub>max − arr</sub>. The first term of <a href="#E18">Eq. 18</a> decreases with <i>R</i>, whereas the second term increases; hence, <i>K</i><sub>0</sub>(<i>R</i>) has a single minimum. Runaway ruptures are possible only if this minimum exceeds <i>K</i><sub>c</sub> because, then, the Griffith’s equilibrium criterion cannot be satisfied for any <i>R</i>. The rupture radius at the minimum of <i>K</i><sub>0</sub> gives </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+F</div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+3</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+μ</div> <div class="mi_UNKNOWN">
+d</div> </div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+p</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+p</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="mi_UNKNOWN">
+Δ</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+τ</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </div> </div> </div> </div></div><span class="label" tagx="label" title="label">(19)</span></div> <p /> <p>The corresponding rupture arrest area is <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+π</div> <div class="mo_UNKNOWN">
+⋅</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span>.</p> </div> <div class="verificationoftheoreticalestimatesofrupturearrestarea" title="sec"> <div class="title" tagx="title" title="title">
+Verification of theoretical estimates of rupture arrest area</div> <p>We verified our theoretical estimates of rupture arrest area by comparison with 3D dynamic rupture simulations. First, we analyzed results for a step-like distribution of stress drop with Δτ(<i>r</i>) = Δτ<sub>i</sub> for <i>r</i> ≤ <i>R</i><sub>i</sub> and Δτ(<i>r</i>) = Δτ<sub>0</sub> for <i>r</i> &amp;gt; <i>R</i><sub>i</sub>. Galis <i>et al</i>. (<a href="#R17"><i>17</i></a>) performed dynamic rupture simulations on a 30 × 15–km fault with μ<sub>s</sub> = 0.6778, μ<sub>d</sub> = 0.525, <i>d</i><sub>c</sub> = 0.4 m, and σ = 120 MPa and various values of strength parameter <i>S</i> (obtained by varying τ<sub>0</sub>) to investigate conditions for runaway ruptures. The fault is large enough so that ruptures that break the entire fault are considered runaway ruptures. Here, we considered the same configurations. <a href="#F6">Figure 6A</a> shows very good agreement between estimated and simulated rupture arrest areas for all considered values of <i>S</i> and <i>R</i><sub>i</sub>, including the transition to runaway ruptures. The comparison further revealed that our approach worked equally well for circular, elliptical, and square perturbations, although it was based on an assumption of radially symmetric stress drop. To achieve agreement between theory and numerical results, we introduced a correction factor ϕ = 2 such that <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mtext_UNKNOWN">
+arr</div> <div class="mtext_UNKNOWN">
+num</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+ϕ</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div></div></span> or <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mtext_UNKNOWN">
+arr</div> <div class="mtext_UNKNOWN">
+num</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msqrt_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div></div></span>. Galis <i>et al</i>. (<a href="#R17"><i>17</i></a>) introduced an adjustable factor η multiplying <i>K</i><sub>0</sub> to account for deviations from circular mode I rupture. The factor ϕ introduced here has a different role; it accounts for the effects affecting crack radius <i>R</i>. In terms of the <i>K</i><sub>0</sub>(<i>R</i>) plot in <a href="#F5">Fig. 5B</a>, η provides a correction for the <i>y</i> axis, whereas ϕ provides a correction for the <i>x</i> axis.</p> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Fig. 6</span></a></div>   <div class="title" tagx="title" title="title">
+Verification of our theoretical estimates with numerical results.</div> <p>Comparison of estimated rupture arrest area <i>A</i><sub>arr</sub> and maximum rupture arrest area <i>A</i><sub>max</sub> with rupture arrest area from numerical simulations <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mtext_UNKNOWN">
+arr</div> <div class="mtext_UNKNOWN">
+num</div> </div> </div> </div></div></span> as functions of overstressed area for (<b>A</b>) a steplike distribution of stress drop and varying strength parameter <i>S</i> (<b>B</b>), a Gaussian distribution of stress drop, and varying minimal normal stress σ<sup>min</sup>. For a step-like stress drop distribution, we performed simulations with circular, square, and elliptical perturbations marked by circles, squares, and triangles. The transitions from solid to dashed lines indicate transition from arrested to runaway ruptures. The undulated double line indicates interrupted <i>y</i> axis; r.r. indicates runaway ruptures. <i>L</i><sub>fric</sub> = μ ⋅ <i>D</i><sub>c</sub>/(τ<sub>s0</sub> − τ<sub>d0</sub>) is a characteristic length scale introduced by the slip-weakening process (<a href="#R39"><i>39</i></a>).</p>   </div> <p>Next, we analyzed results for stress drop with a Gaussian perturbation, Δτ(<i>r</i>) = Δτ<sub>0</sub> + μ<sub>d</sub>σ<sub>0</sub>′(1 − σ<sup>min</sup>) ⋅ exp(−<i>r</i><sup>2</sup>/(2 χ<sup>2</sup>)), as would result from an instantaneous pressure point source at <i>r</i> = 0 (<a href="#R31"><i>31</i></a>). We adopted the same friction parameters as those of Galis <i>et al</i>. (<a href="#R17"><i>17</i></a>), yielding Δτ<sub>0</sub> = 6.1 MPa, and considered σ<sup>min</sup> = 0.5, 0.65, 0.75, and 0.8. <a href="#F6">Figure 6B</a> shows the overall consistency between estimated and simulated rupture arrest areas as a function of the characteristic area of the stress perturbation, πχ<sup>2</sup>. Part of the small differences decrease with mesh refinement (fig. S1) and are attributed to the staircase representation of the smooth stress drop distribution in a discrete grid. For the larger σ<sup>min</sup> values considered, the critical perturbation area at the transition to runaway ruptures was underestimated. This was expected because our theoretical estimates lacked a rupture nucleation criterion to account for the finite size of the initiation area (where the initial stress is higher than the static strength).</p> <p><a href="#F6">Figure 6</a> also shows very good agreement between theory and numerical results for the maximum area of spontaneously arrested ruptures, <i>A</i><sub>max</sub>. The agreement improved with increasing <i>S</i> for the steplike stress drop and with decreasing σ<sup>min</sup> for the Gaussian distribution because in this case, the assumptions for the point-load approximation were better satisfied (fig. S2). Although both examples represent spatially variable stress drop and nucleation of ruptures by increased fluid pressure, the results for step-like distributions are more relevant for a sealed reservoir.</p> </div> <div class="conversionofrupturearrestsizetomagnitude" title="sec"> <div class="title" tagx="title" title="title">
+Conversion of rupture arrest size to magnitude</div> <p>Moment magnitude <i>M</i><sub>w</sub> is defined by (<a href="#R32"><i>32</i></a>) </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mn_UNKNOWN">
+3</div> </div> <div class="mo_UNKNOWN"> </div> <div class="msub_UNKNOWN"> <div class="mtext_UNKNOWN">
+log</div> <div class="mn_UNKNOWN">
+10</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+6.07</div> </div> </div></div><span class="label" tagx="label" title="label">(20)</span></div>where <i>M</i><sub>0</sub> is the seismic moment. We derived the seismic moment from the initial stress information using the equation for a circular crack with uniform stress drop (<a href="#R33"><i>33</i></a>) <div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+16</div> <div class="mn_UNKNOWN">
+7</div> </div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Δ</div> <div class="mi_UNKNOWN">
+τ</div> </div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+3</div> </div> </div> </div></div><span class="label" tagx="label" title="label">(21)</span></div> <p /> <p>Strictly speaking, the formula should be based on the static stress drop, which differs from the dynamic stress drop Δτ<sub>0</sub> due to dynamic overshoot. The average dynamic and static stress drops of arrested ruptures are almost identical (fig. S3), and in highly heterogeneous ruptures, they differ by only 10% on average (<a href="#R34"><i>34</i></a>). Because the pressurized region is small compared to the rupture area, we approximated the average stress drop as Δτ<sub>0</sub>, neglecting the additional stress drop μ<sub>d</sub> ⋅ Δ<i>p</i> inside the reservoir. Figure S4 compares magnitudes estimated by this approach with those obtained from dynamic rupture simulations by directly applying the definition of seismic moment </p><div class="disp-formula" title="disp-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+μ</div> <div class="mstyle_UNKNOWN"> <div class="mo_UNKNOWN">
+∫</div> <div class="mo_UNKNOWN">
+∫</div> </div> <div class="mi_UNKNOWN">
+D</div> <div class="mi_UNKNOWN">
+d</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div><span class="label" tagx="label" title="label">(22)</span></div>where μ is the shear modulus, and <i>D</i> is the final slip. Rupture simulations were initiated artificially by prescribing an area in which the initial stress slightly exceeded the static frictional strength. We excluded this initiation area from the magnitude computation because it contained artificially large slip. Overall, for rupture areas from 1 to 500 km<sup>2</sup>, the approximation to <i>M</i><sub>w</sub> using <a href="#E21">Eq. 21</a> agrees with the numerical simulation results, with deviations smaller than ~0.1 and insignificant underestimation. It is also naturally consistent with empirical scaling relations based on the self-similar rupture model, in particular, with the relation for stable continental regions by Leonard (<a href="#R35"><i>35</i></a>), which assumes a stress drop value (5.84 MPa) that is very similar to the background stress drop in our simulations (6.11 MPa).<p /> </div> <div class="verificationofpoint-loadapproximationofreservoir" title="sec"> <div class="title" tagx="title" title="title">
+Verification of point-load approximation of reservoir</div> <p>Here, we verified the adequacy of the maximum arrested rupture magnitude estimated under the point-load approximation, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span>. We considered ~4250 randomly generated reservoir-fault configurations. Values of reservoir parameters (that is, viscosity, permeability, compressibility, porosity, well radius, flow rate, height, and radius of the reservoir) were sampled as independent, uniformly distributed variables within ranges reported for common reservoirs (<a href="#R36"><i>36</i></a>, <a href="#R37"><i>37</i></a>). The following fault-related parameters were sampled from uniform distributions: μ<sub>s</sub>, μ<sub>d</sub>/μ<sub>s</sub>, depth, and <i>S</i>. Normal background stress was derived from depth assuming a typical density of shallow crust and water (2500 and 1000 kg m<sup>−3</sup>, respectively). To improve the sampling of lower magnitudes events, we increased the number of models with lower <i>S</i>, reservoir radius, and <i>D</i><sub>c</sub>, the only three parameters that exhibited signs of correlation with magnitude. Histograms of model parameters are shown in fig. S5. For each parameter setting, we computed the exact value of the maximum arrested earthquake magnitude, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span>, by numerically solving the rupture arrest conditions accounting completely for the finite size of the reservoir. Correlation plots between model parameters and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span> are shown in fig. S6.</p> <p>Figure S7 reveals good agreement between the point-load approximation (<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span>) and the finite-reservoir calculation (<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span>). Scatter was expected because of the approximation of the average reservoir pore pressure Δ<i>p</i> (<a href="#E2">Eq. 2</a>). In particular, the approximation neglects the effects of compressibility and effects of porosity on the ability of a formation to accommodate fluid. Both assumptions lead to systematic deviation of Δ<i>p</i> from the true average pore pressure, which was also manifested by the weak correlation of compressibility and porosity with residuals (fig. S6). The scatter of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> is mostly confined within ±0.5, with only few points reaching down to −1. This indicates that the influence of compressibility and porosity is not strong enough to cause a significant deviation of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> from <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span>. The approximation of Δ<i>p</i> also neglects the effects of viscosity and permeability, but as shown in <a href="#F3">Fig. 3</a>, these parameters affect the pressure distribution without affecting the average pressure. The nonsymmetric distribution of the orthogonal residuals has mean and median close to zero (− 0.13 and − 0.1, respectively). We concluded that <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> is consistent with <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span> with uncertainty ±0.5.</p> </div> <div class="predictionsoftherelativetimingofthelargestearthquake" title="sec"> <div class="title" tagx="title" title="title">
+Predictions of the relative timing of the largest earthquake</div> <p>In the model by van der Elst <i>et al</i>. (<a href="#R12"><i>12</i></a>), the probability of occurrence of the largest earthquake is uniformly distributed within a sequence. In our model, the potential size of arrested ruptures grows with ongoing injection; hence, the largest triggered event has a higher chance to occur later in the sequence. However, our model does not make a specific prediction about how strong this tendency is; its effect could be a slight increase of probability with time. Moreover, the induced seismicity sequences considered by van der Elst <i>et al</i>. (<a href="#R12"><i>12</i></a>) contain also aftershocks of the largest event, which tends to bias low the rank of occurrence of the largest event.</p> <p>We applied the two-sample Anderson-Darling (AD) test (<a href="#R38"><i>38</i></a>) to assess whether the occurrence rank of the largest event in the recorded induced sequences is drawn from each of the following three distributions: uniform, linearly increasing, and Gaussian (the latter being a proxy for a distribution biased by aftershocks). For the linear and Gaussian distributions, we determined optimal parameters by grid search to minimize the AD test statistic. Comparison of the optimal AD test values showed that all three considered distributions can explain the data with similar level of statistical significance and, therefore, none of them can be rejected (fig. S8). Consequently, our model qualitatively explains this data similarly well as the model proposed by van der Elst <i>et al</i>. (<a href="#R12"><i>12</i></a>). However, the current data set is small (only 17 sequences), and a larger data set may facilitate the discrimination between models in the future.</p> </div> </div> <div class="supplementary-material" title="supplementary-material"> <div class="title" tagx="title" title="title">
+Supplementary Material</div> <div class="local-data" title="local-data">  <div class="title" tagx="title" title="title">
+http://advances.sciencemag.org/cgi/content/full/3/12/eaap7528/DC1</div>  <div class="media" title="media"><a href="supp_3_12_eaap7528__index.html">LINK</a></div> <div class="media" title="media"><a href="aap7528_SM.pdf">LINK</a></div> </div> </div> </div> <div class="back" title="back"> <div class="ack" title="ack"> <div class="title" tagx="title" title="title">
+Acknowledgments</div> <p><b>Funding:</b> Research presented in this paper is supported by King Abdullah University of Science and Technology (KAUST) in Thuwal, Saudi Arabia (grants BAS/1339-01-01 and URF/1/2160-01-01) and by the NSF (CAREER award EAR-1151926). Some of the 3D dynamic rupture simulations for verification of our model have been carried out using the KAUST Supercomputing Laboratory. We thank the Agence Nationale de la Recherche through the HYDROSEIS project (Role of fluids and fault HYDROmechanics on SEISmic rupture) under contract ANR-13-JS06-0004-01 for supporting the in situ experiments providing the data (Duboeuf <i>et al</i>.) used in <a href="#F4">Fig. 4</a>. We also thank S. Goodfellow and L. De Barros for providing their laboratory and in situ data used in <a href="#F4">Fig. 4</a>. J.P.A. and F.C. thank the Observatoire de la Côte d’Azur for supporting this research. <b>Author contributions:</b> M.G. and J.P.A. developed the main ideas, interpreted the results, and produced the manuscript. P.M.M. contributed to the discussions and interpretations of the results and commented on the manuscript at all stages. F.C. provided the data for <a href="#F4">Fig. 4</a>, contributed to the discussions of the results, and commented on the manuscript at all stages. <b>Competing interests:</b> The authors declare that they have no competing interests. <b>Data and materials availability:</b> All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Additional data related to this paper may be requested from the authors.</p> </div> <div class="app-group" title="app-group"> <div class="app" title="app"> <div class="title" tagx="title" title="title">
+SUPPLEMENTARY MATERIALS</div> <div class="local-data" title="local-data"> <p>Supplementary material for this article is available at <a href="http://advances.sciencemag.org/cgi/content/full/3/12/eaap7528/DC1">http://advances.sciencemag.org/cgi/content/full/3/12/eaap7528/DC1</a></p> <p>fig. S1. Comparison of dimensionless rupture arrest area calculated from numerical simulations with grid spacing <i>h</i> = 50 m (circles) and <i>h</i> = 100 m (squares) with our theoretical estimates (bold lines) for varying σ<sup>min</sup> (indicated by color).</p> <p>fig. S2. Comparison of stress drop distributions as functions of dimensionless crack radius at the time of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+A</div> <div class="mtext_UNKNOWN">
+arr</div> <div class="mtext_UNKNOWN">
+max</div> </div> </div> </div></div></span> for situations from <a href="#F6">Fig. 6</a>.</p> <p>fig. S3. Scaling of mean static and dynamic stress drops in results of numerical simulations.</p> <p>fig. S4. Comparison of various approaches to estimate <i>M</i><sub>w</sub> from ruptured area <i>A</i><sub>arr</sub>.</p> <p>fig. S5. Distributions of reservoir-fault parameters for all ~4250 configurations used for verification of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+max</div> </div> </div> </div></div></span> (point-load approximation) against <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span> (finite-reservoir approach).</p> <p>fig. S6. Distributions of reservoir-fault parameters for all ~4250 configurations used for verification of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+max</div> </div> </div> </div></div></span> (point-load approximation) against <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span> (finite-reservoir approach).</p> <p>fig. S7. Comparison of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mtext_UNKNOWN">
+max</div> <div class="mo_UNKNOWN">
+−</div> <div class="mtext_UNKNOWN">
+arr</div> </div> </div> </div> </div></div></span> (derived for a point-load approximation of a reservoir) with <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+w</div> <div class="mtext_UNKNOWN">
+crit</div> </div> </div> </div></div></span> (derived for a finite reservoir) and corresponding orthogonal residuals.</p> <p>fig. S8. Evaluation of the probability of occurrence rank of the largest event within a sequence.</p> <p>table S1. Reservoir and fault parameters used to prepare <a href="#F2">Fig. 2</a>.</p> <p>References (<a href="#R40"><i>40</i></a>, <a href="#R41"><i>41</i></a>)</p> </div> </div> </div> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+REFERENCES AND NOTES</div> <li tag="ref"><a name="R1" /><span class="label" tagx="label" title="label">1</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ellsworth</span><span class="given-names" tagx="given-names" title="given-names">W. L.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Injection-induced earthquakes</span>. <span class="source" tagx="source" title="source">Science</span><span class="volume" tagx="volume" title="volume">341</span>, <span class="fpage" tagx="fpage" title="fpage">1225942</span> (<span class="year" tagx="year" title="year">2013</span>).<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23846903">23846903</a></span></span></li> <li tag="ref"><a name="R2" /><span class="label" tagx="label" title="label">2</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Elsworth</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Spiers</span><span class="given-names" tagx="given-names" title="given-names">C. J.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Niemeijer</span><span class="given-names" tagx="given-names" title="given-names">A. R.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Understanding induced seismicity</span>. <span class="source" tagx="source" title="source">Science</span><span class="volume" tagx="volume" title="volume">354</span>, <span class="fpage" tagx="fpage" title="fpage">1380</span>–<span class="lpage" tagx="lpage" title="lpage">1381</span> (<span class="year" tagx="year" title="year">2016</span>).<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27980173">27980173</a></span></span></li> <li tag="ref"><a name="R3" /><span class="label" tagx="label" title="label">3</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">Building Seismic Safety Council (BSSC), "NEHRP recommended seismic provisions for new buildings and other structures" (Report No. FEMA P-1050-1/2015 Edition, National Institute of Building Sciences, 2015); <a href="http://www.nibs.org/?page=bssc_pubs">www.nibs.org/?page=bssc_pubs</a>.</span></li> <li tag="ref"><a name="R4" /><span class="label" tagx="label" title="label">4</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Thingbaijam</span><span class="given-names" tagx="given-names" title="given-names">K. K. S.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mai</span><span class="given-names" tagx="given-names" title="given-names">P. M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Goda</span><span class="given-names" tagx="given-names" title="given-names">K.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">New empirical earthquake source-scaling laws</span>. <span class="source" tagx="source" title="source">Bull. Seismol. Soc. Am.</span><span class="volume" tagx="volume" title="volume">107</span>, <span class="fpage" tagx="fpage" title="fpage">2225</span>–<span class="lpage" tagx="lpage" title="lpage">2246</span> (<span class="year" tagx="year" title="year">2017</span>).</span></li> <li tag="ref"><a name="R5" /><span class="label" tagx="label" title="label">5</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lozos</span><span class="given-names" tagx="given-names" title="given-names">J. C.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">A case for historic joint rupture of the San Andreas and San Jacinto faults</span>. <span class="source" tagx="source" title="source">Sci. Adv.</span><span class="volume" tagx="volume" title="volume">2</span>, <span class="fpage" tagx="fpage" title="fpage">e1500621</span> (<span class="year" tagx="year" title="year">2016</span>).<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27034977">27034977</a></span></span></li> <li tag="ref"><a name="R6" /><span class="label" tagx="label" title="label">6</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hirono</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tsuda</span><span class="given-names" tagx="given-names" title="given-names">K.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tanikawa</span><span class="given-names" tagx="given-names" title="given-names">W.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ampuero</span><span class="given-names" tagx="given-names" title="given-names">J.-P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shibazaki</span><span class="given-names" tagx="given-names" title="given-names">B.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kinoshita</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mori</span><span class="given-names" tagx="given-names" title="given-names">J. J.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Near-trench slip potential of megaquakes evaluated from fault properties and conditions</span>. <span class="source" tagx="source" title="source">Sci. Rep.</span><span class="volume" tagx="volume" title="volume">6</span>, <span class="fpage" tagx="fpage" title="fpage">28184</span> (<span class="year" tagx="year" title="year">2016</span>).<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27321861">27321861</a></span></span></li> <li tag="ref"><a name="R7" /><span class="label" tagx="label" title="label">7</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cappa</span><span class="given-names" tagx="given-names" title="given-names">F.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rutqvist</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Impact of CO<sub>2</sub> geological sequestration on the nucleation of earthquakes</span>. <span class="source" tagx="source" title="source">Geophys. Res. Lett.</span><span class="volume" tagx="volume" title="volume">38</span>, <span class="fpage" tagx="fpage" title="fpage">L17313</span> (<span class="year" tagx="year" title="year">2011</span>).</span></li> <li tag="ref"><a name="R8" /><span class="label" tagx="label" title="label">8</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shapiro</span><span class="given-names" tagx="given-names" title="given-names">S. A.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Krüger</span><span class="given-names" tagx="given-names" title="given-names">O. S.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Dinske</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Langenbruch</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Magnitudes of induced earthquakes and geometric scales of fluid-stimulated rock volumes</span>. <span class="source" tagx="source" title="source">Geophysics</span><span class="volume" tagx="volume" title="volume">76</span>, <span class="fpage" tagx="fpage" title="fpage">WC55</span>–<span class="lpage" tagx="lpage" title="lpage">WC63</span> (<span class="year" tagx="year" title="year">2011</span>).</span></li> <li tag="ref"><a name="R9" /><span class="label" tagx="label" title="label">9</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">McGarr</span><span class="given-names" tagx="given-names" title="given-names">A.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Maximum magnitude earthquakes induced by fluid injection</span>. <span class="source" tagx="source" title="source">J. Geophys. Res. Solid Earth</span><span class="volume" tagx="volume" title="volume">119</span>, <span class="fpage" tagx="fpage" title="fpage">1008</span>–<span class="lpage" tagx="lpage" title="lpage">1019</span> (<span class="year" tagx="year" title="year">2014</span>).</span></li> <li tag="ref"><a name="R10" /><span class="label" tagx="label" title="label">10</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hallo</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Oprsal</span><span class="given-names" tagx="given-names" title="given-names">I.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Eisner</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ali</span><span class="given-names" tagx="given-names" title="given-names">M. Y.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Prediction of magnitude of the largest potentially induced seismic event</span>. <span class="source" tagx="source" title="source">J. Seismol.</span><span class="volume" tagx="volume" title="volume">18</span>, <span class="fpage" tagx="fpage" title="fpage">421</span>–<span class="lpage" tagx="lpage" title="lpage">431</span> (<span class="year" tagx="year" title="year">2014</span>).</span></li> <li tag="ref"><a name="R11" /><span class="label" tagx="label" title="label">11</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Atkinson</span><span class="given-names" tagx="given-names" title="given-names">G. M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Eaton</span><span class="given-names" tagx="given-names" title="given-names">D. W.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ghofrani</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Walker</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cheadle</span><span class="given-names" tagx="given-names" title="given-names">B.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Schultz</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shcherbakov</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tiampo</span><span class="given-names" tagx="given-names" title="given-names">K.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gu</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Harrington</span><span class="given-names" tagx="given-names" title="given-names">R. M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Liu</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">van der Baan</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kao</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Hydraulic fracturing and seismicity in the Western Canada sedimentary basin</span>. <span class="source" tagx="source" title="source">Seismol. Res. Lett.</span><span class="volume" tagx="volume" title="volume">87</span>, <span class="fpage" tagx="fpage" title="fpage">631</span>–<span class="lpage" tagx="lpage" title="lpage">647</span> (<span class="year" tagx="year" title="year">2016</span>).</span></li> <li tag="ref"><a name="R12" /><span class="label" tagx="label" title="label">12</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">van der Elst</span><span class="given-names" tagx="given-names" title="given-names">N. J.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Page</span><span class="given-names" tagx="given-names" title="given-names">M. T.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Weiser</span><span class="given-names" tagx="given-names" title="given-names">D. A.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Goebel</span><span class="given-names" tagx="given-names" title="given-names">T. H. W.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hosseini</span><span class="given-names" tagx="given-names" title="given-names">S. M.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Induced earthquake magnitudes are as large as (statistically) expected</span>. <span class="source" tagx="source" title="source">J. Geophys. Res. Solid Earth</span><span class="volume" tagx="volume" title="volume">121</span>, <span class="fpage" tagx="fpage" title="fpage">4575</span>–<span class="lpage" tagx="lpage" title="lpage">4590</span> (<span class="year" tagx="year" title="year">2016</span>).</span></li> <li tag="ref"><a name="R13" /><span class="label" tagx="label" title="label">13</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zöller</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Holschneider</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">The maximum possible and the maximum expected earthquake magnitude for production-induced earthquakes at the gas field in Groningen, The Netherlands</span>. <span class="source" tagx="source" title="source">Bull. Seismol. Soc. Am.</span><span class="volume" tagx="volume" title="volume">106</span>, <span class="fpage" tagx="fpage" title="fpage">2917</span>–<span class="lpage" tagx="lpage" title="lpage">2921</span> (<span class="year" tagx="year" title="year">2016</span>).</span></li> <li tag="ref"><a name="R14" /><span class="label" tagx="label" title="label">14</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Segall</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lu</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Injection-induced seismicity: Poroelastic and earthquake nucleation effects</span>. <span class="source" tagx="source" title="source">J. Geophys. Res. Solid Earth</span><span class="volume" tagx="volume" title="volume">120</span>, <span class="fpage" tagx="fpage" title="fpage">5082</span>–<span class="lpage" tagx="lpage" title="lpage">5103</span> (<span class="year" tagx="year" title="year">2015</span>).</span></li> <li tag="ref"><a name="R15" /><span class="label" tagx="label" title="label">15</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Dahm</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cesca</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hainzl</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Braun</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Krüger</span><span class="given-names" tagx="given-names" title="given-names">F.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Discrimination between induced, triggered, and natural earthquakes close to hydrocarbon reservoirs: A probabilistic approach based on the modeling of depletion-induced stress changes and seismological source parameters</span>. <span class="source" tagx="source" title="source">J. Geophys. Res. Solid Earth</span><span class="volume" tagx="volume" title="volume">120</span>, <span class="fpage" tagx="fpage" title="fpage">2491</span>–<span class="lpage" tagx="lpage" title="lpage">2509</span> (<span class="year" tagx="year" title="year">2015</span>).</span></li> <li tag="ref"><a name="R16" /><span class="label" tagx="label" title="label">16</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Townend</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zoback</span><span class="given-names" tagx="given-names" title="given-names">M. D.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">How faulting keeps the crust strong</span>. <span class="source" tagx="source" title="source">Geology</span><span class="volume" tagx="volume" title="volume">28</span>, <span class="fpage" tagx="fpage" title="fpage">399</span>–<span class="lpage" tagx="lpage" title="lpage">402</span> (<span class="year" tagx="year" title="year">2000</span>).</span></li> <li tag="ref"><a name="R17" /><span class="label" tagx="label" title="label">17</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Galis</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Pelties</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kristek</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Moczo</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ampuero</span><span class="given-names" tagx="given-names" title="given-names">J.-P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mai</span><span class="given-names" tagx="given-names" title="given-names">P. M.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">On the initiation of sustained slip-weakening ruptures by localized stresses</span>. <span class="source" tagx="source" title="source">Geophys. J. Int.</span><span class="volume" tagx="volume" title="volume">200</span>, <span class="fpage" tagx="fpage" title="fpage">890</span>–<span class="lpage" tagx="lpage" title="lpage">909</span> (<span class="year" tagx="year" title="year">2015</span>).</span></li> <li tag="ref"><a name="R18" /><span class="label" tagx="label" title="label">18</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rubinstein</span><span class="given-names" tagx="given-names" title="given-names">S. M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cohen</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Fineberg</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Dynamics of precursors to frictional sliding</span>. <span class="source" tagx="source" title="source">Phys. Rev. Lett.</span><span class="volume" tagx="volume" title="volume">98</span>, <span class="fpage" tagx="fpage" title="fpage">226103</span> (<span class="year" tagx="year" title="year">2007</span>).<span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/17677864">17677864</a></span></span></li> <li tag="ref"><a name="R19" /><span class="label" tagx="label" title="label">19</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kammer</span><span class="given-names" tagx="given-names" title="given-names">D. S.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Radiguet</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ampuero</span><span class="given-names" tagx="given-names" title="given-names">J.-P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Molinari</span><span class="given-names" tagx="given-names" title="given-names">J.-F.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Linear elastic fracture mechanics predicts the propagation distance of frictional slip</span>. <span class="source" tagx="source" title="source">Tribol. Lett.</span><span class="volume" tagx="volume" title="volume">57</span>, <span class="fpage" tagx="fpage" title="fpage">23</span> (<span class="year" tagx="year" title="year">2015</span>).</span></li> <li tag="ref"><a name="R20" /><span class="label" tagx="label" title="label">20</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Garagash</span><span class="given-names" tagx="given-names" title="given-names">D. I.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Germanovich</span><span class="given-names" tagx="given-names" title="given-names">L. N.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Nucleation and arrest of dynamic slip on a pressurized fault</span>. <span class="source" tagx="source" title="source">J. Geophys. Res.</span><span class="volume" tagx="volume" title="volume">117</span>, <span class="fpage" tagx="fpage" title="fpage">B10310</span> (<span class="year" tagx="year" title="year">2012</span>).</span></li> <li tag="ref"><a name="R21" /><span class="label" tagx="label" title="label">21</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ripperger</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ampuero</span><span class="given-names" tagx="given-names" title="given-names">J.-P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mai</span><span class="given-names" tagx="given-names" title="given-names">P. M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Giardini</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Earthquake source characteristics from dynamic rupture with constrained stochastic fault stress</span>. <span class="source" tagx="source" title="source">J. Geophys. Res.</span><span class="volume" tagx="volume" title="volume">112</span>, <span class="fpage" tagx="fpage" title="fpage">B04311</span> (<span class="year" tagx="year" title="year">2007</span>).</span></li> <li tag="ref"><a name="R22" /><span class="label" tagx="label" title="label">22</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">J.-P. Ampuero, J. Ripperger, P. M. Mai, Properties of dynamic earthquake ruptures with heterogeneous stress drop, in <i>Earthquakes: Radiated Energy and the Physics of Earthquakes Faulting</i>, A. McGarr, R. E. Abercrombie, H. Kanamori, Eds. (American Geophysical Union, Geophysical Monograph Series, 2006), vol. 170, pp. 255–261.</span></li> <li tag="ref"><a name="R23" /><span class="label" tagx="label" title="label">23</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">L. Buijze, B. Wassing, P. A. Fokker, J. D. va Wees, Moment partitioning for injection-induced seismicity: Case studies and insights from numerical modeling, in <i>Proceedings World Geothermal Congress 2015</i>, Melbourne, Australia, 19 to 25 April 2015.</span></li> <li tag="ref"><a name="R24" /><span class="label" tagx="label" title="label">24</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Avouac</span><span class="given-names" tagx="given-names" title="given-names">J.-P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Meng</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wei</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ampuero</span><span class="given-names" tagx="given-names" title="given-names">J.-P.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Lower edge of locked Main Himalayan Thrust unzipped by the 2015 Gorkha earthquake</span>. <span class="source" tagx="source" title="source">Nat. Geosci.</span><span class="volume" tagx="volume" title="volume">8</span>, <span class="fpage" tagx="fpage" title="fpage">708</span>–<span class="lpage" tagx="lpage" title="lpage">711</span> (<span class="year" tagx="year" title="year">2015</span>).</span></li> <li tag="ref"><a name="R25" /><span class="label" tagx="label" title="label">25</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Michel</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Avouac</span><span class="given-names" tagx="given-names" title="given-names">J.-P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lapusta</span><span class="given-names" tagx="given-names" title="given-names">N.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Jiang</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Pulse-like partial ruptures and high-frequency radiation at creeping-locked transition during megathrust earthquakes</span>. <span class="source" tagx="source" title="source">Geophys. Res. Lett.</span><span class="volume" tagx="volume" title="volume">44</span>, <span class="fpage" tagx="fpage" title="fpage">8345</span>–<span class="lpage" tagx="lpage" title="lpage">8351</span> (<span class="year" tagx="year" title="year">2017</span>).</span></li> <li tag="ref"><a name="R26" /><span class="label" tagx="label" title="label">26</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rubin</span><span class="given-names" tagx="given-names" title="given-names">A. M.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Aftershocks of microearthquakes as probes of the mechanics of rupture</span>. <span class="source" tagx="source" title="source">J. Geophys. Res.</span><span class="volume" tagx="volume" title="volume">107</span>, <span class="fpage" tagx="fpage" title="fpage">ESE 3-1</span>–<span class="lpage" tagx="lpage" title="lpage">ESE 3-16</span> (<span class="year" tagx="year" title="year">2002</span>).</span></li> <li tag="ref"><a name="R27" /><span class="label" tagx="label" title="label">27</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Abercrombie</span><span class="given-names" tagx="given-names" title="given-names">R. E.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rice</span><span class="given-names" tagx="given-names" title="given-names">J. R.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Can observations of earthquake scaling constrain slip weakening?</span><span class="source" tagx="source" title="source">Geophys. J. Int.</span><span class="volume" tagx="volume" title="volume">162</span>, <span class="fpage" tagx="fpage" title="fpage">406</span>–<span class="lpage" tagx="lpage" title="lpage">424</span> (<span class="year" tagx="year" title="year">2005</span>).</span></li> <li tag="ref"><a name="R28" /><span class="label" tagx="label" title="label">28</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Viesca</span><span class="given-names" tagx="given-names" title="given-names">R. C.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Garagash</span><span class="given-names" tagx="given-names" title="given-names">D. I.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Ubiquitous weakening of faults due to thermal pressurization</span>. <span class="source" tagx="source" title="source">Nat. Geosci.</span><span class="volume" tagx="volume" title="volume">8</span>, <span class="fpage" tagx="fpage" title="fpage">875</span>–<span class="lpage" tagx="lpage" title="lpage">879</span> (<span class="year" tagx="year" title="year">2015</span>).</span></li> <li tag="ref"><a name="R29" /><span class="label" tagx="label" title="label">29</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">J. Lee, J. B. Rollins, J. P. Spivey, <i>Pressure Transient Testing, SPE Textbook Series</i> (Society of Petroleum Engineers, 2003), vol. 9.</span></li> <li tag="ref"><a name="R30" /><span class="label" tagx="label" title="label">30</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">R. P. Kanwal, Generalized functions: Theory and technique, in <i>Mathematics in Science and Engineering</i>, R. Bellman, Ed. (Academic Press, 1983), vol. 171.</span></li> <li tag="ref"><a name="R31" /><span class="label" tagx="label" title="label">31</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">S. A. Shapiro, <i>Fluid-Induced Seismicity</i> (Cambridge Univ. Press, 2015).</span></li> <li tag="ref"><a name="R32" /><span class="label" tagx="label" title="label">32</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hanks</span><span class="given-names" tagx="given-names" title="given-names">T. C.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kanamori</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">A moment magnitude scale</span>. <span class="source" tagx="source" title="source">J. Geophys. Res.</span><span class="volume" tagx="volume" title="volume">84</span>, <span class="fpage" tagx="fpage" title="fpage">2348</span>–<span class="lpage" tagx="lpage" title="lpage">2350</span> (<span class="year" tagx="year" title="year">1979</span>).</span></li> <li tag="ref"><a name="R33" /><span class="label" tagx="label" title="label">33</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kanamori</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Anderson</span><span class="given-names" tagx="given-names" title="given-names">D. L.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Theoretical basis of some empirical relations in seismology</span>. <span class="source" tagx="source" title="source">Bull. Seismol. Soc. Am.</span><span class="volume" tagx="volume" title="volume">65</span>, <span class="fpage" tagx="fpage" title="fpage">1073</span>–<span class="lpage" tagx="lpage" title="lpage">1095</span> (<span class="year" tagx="year" title="year">1975</span>).</span></li> <li tag="ref"><a name="R34" /><span class="label" tagx="label" title="label">34</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">P. M. Mai, P. Somerville, A. Pitarka, L. Dalguer, S. Song, G. Beroza, H. Miyake, K. Irikura, On scaling of fracture energy and stress drop in dynamic rupture models: Consequences for near-source ground-motions, in <i>Earthquakes: Radiated Energy and the Physics of Faulting</i> (American Geophysical Union, Geophysical Monograph Series, 2006), vol. 170, pp. 283–293.</span></li> <li tag="ref"><a name="R35" /><span class="label" tagx="label" title="label">35</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Leonard</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Earthquake fault scaling: Self-consistent relating of rupture length, width, average displacement, and moment release</span>. <span class="source" tagx="source" title="source">Bull. Seismol. Soc. Am.</span><span class="volume" tagx="volume" title="volume">100</span>, <span class="fpage" tagx="fpage" title="fpage">1971</span>–<span class="lpage" tagx="lpage" title="lpage">1988</span> (<span class="year" tagx="year" title="year">2010</span>).</span></li> <li tag="ref"><a name="R36" /><span class="label" tagx="label" title="label">36</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">M. A. Barrufet, "Properties of oilfield waters, lecture" (2011); [accessed 6 December 2017]; <a href="http://www.pe.tamu.edu/barrufet/public_html/PETE310/pdf/L30-31-Oilfield_Waters.pdf">http://www.pe.tamu.edu/barrufet/public_html/PETE310/pdf/L30-31-Oilfield_Waters.pdf</a></span></li> <li tag="ref"><a name="R37" /><span class="label" tagx="label" title="label">37</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation">IHS Harmony, 2016v3, User’s Manual (2016); <a href="https://cdn.ihs.com/fekete/help/Harmony/Default.htm">https://cdn.ihs.com/fekete/help/Harmony/Default.htm</a>.</span></li> <li tag="ref"><a name="R38" /><span class="label" tagx="label" title="label">38</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Pettitt</span><span class="given-names" tagx="given-names" title="given-names">A. N.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">A two-sample anderson—Darling rank statistic</span>. <span class="source" tagx="source" title="source">Biometrika</span><span class="volume" tagx="volume" title="volume">63</span>, <span class="fpage" tagx="fpage" title="fpage">161</span>–<span class="lpage" tagx="lpage" title="lpage">168</span> (<span class="year" tagx="year" title="year">1976</span>).</span></li> <li tag="ref"><a name="R39" /><span class="label" tagx="label" title="label">39</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Dunham</span><span class="given-names" tagx="given-names" title="given-names">E. M.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Conditions governing the occurrence of supershear ruptures under slip weakening friction</span>. <span class="source" tagx="source" title="source">J. Geophys. Res.</span><span class="volume" tagx="volume" title="volume">112</span>, <span class="fpage" tagx="fpage" title="fpage">B07302</span> (<span class="year" tagx="year" title="year">2007</span>).</span></li> <li tag="ref"><a name="R40" /><span class="label" tagx="label" title="label">40</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wells</span><span class="given-names" tagx="given-names" title="given-names">D. L.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Coppersmith</span><span class="given-names" tagx="given-names" title="given-names">K. J.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">New empirical relationships among magnitude, rupture length, rupture width, rupture area, and surface displacement</span>. <span class="source" tagx="source" title="source">Bull. Seismol. Soc. Am.</span><span class="volume" tagx="volume" title="volume">84</span>, <span class="fpage" tagx="fpage" title="fpage">974</span>–<span class="lpage" tagx="lpage" title="lpage">1002</span> (<span class="year" tagx="year" title="year">1994</span>).</span></li> <li tag="ref"><a name="R41" /><span class="label" tagx="label" title="label">41</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mai</span><span class="given-names" tagx="given-names" title="given-names">P. M.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Beroza</span><span class="given-names" tagx="given-names" title="given-names">G. C.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Source scaling properties from finite-fault-rupture models</span>. <span class="source" tagx="source" title="source">Bull. Seismol. Soc. Am.</span><span class="volume" tagx="volume" title="volume">90</span>, <span class="fpage" tagx="fpage" title="fpage">604</span>–<span class="lpage" tagx="lpage" title="lpage">615</span> (<span class="year" tagx="year" title="year">2000</span>).</span></li> <li tag="ref"><a name="R42" /><span class="label" tagx="label" title="label">42</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Goodfellow</span><span class="given-names" tagx="given-names" title="given-names">S. D.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nasseri</span><span class="given-names" tagx="given-names" title="given-names">M. H. B.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Maxwell</span><span class="given-names" tagx="given-names" title="given-names">S. C.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Young</span><span class="given-names" tagx="given-names" title="given-names">R. P.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Hydraulic fracture energy budget: Insights from the laboratory</span>. <span class="source" tagx="source" title="source">Geophys. Res. Lett.</span><span class="volume" tagx="volume" title="volume">42</span>, <span class="fpage" tagx="fpage" title="fpage">3179</span>–<span class="lpage" tagx="lpage" title="lpage">3187</span> (<span class="year" tagx="year" title="year">2015</span>).</span></li> <li tag="ref"><a name="R43" /><span class="label" tagx="label" title="label">43</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">De Barros</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Daniel</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guglielmi</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rivet</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Caron</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Payre</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bergery</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Henry</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Castilla</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Dick</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Barbieri</span><span class="given-names" tagx="given-names" title="given-names">E.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gourlay</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Fault structure, stress, or pressure control of the seismicity in shale? Insights from a controlled experiment of fluid-induced fault reactivation</span>. <span class="source" tagx="source" title="source">J. Geophys. Res.</span><span class="volume" tagx="volume" title="volume">121</span>, <span class="fpage" tagx="fpage" title="fpage">4506</span>–<span class="lpage" tagx="lpage" title="lpage">4522</span> (<span class="year" tagx="year" title="year">2016</span>).</span></li> <li tag="ref"><a name="R44" /><span class="label" tagx="label" title="label">44</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Duboeuf</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">De Barros</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cappa</span><span class="given-names" tagx="given-names" title="given-names">F.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guglielmi</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Deschamps</span><span class="given-names" tagx="given-names" title="given-names">A.</span></span>, <span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Seguy</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Aseismic motions drive a sparse seismicity during fluid injections into a fractured zone in a carbonate reservoir</span>. <span class="source" tagx="source" title="source">J. Geophys. Res.</span><span class="volume" tagx="volume" title="volume">122</span>, (<span class="year" tagx="year" title="year">2017</span>).</span></li> <li tag="ref"><a name="R45" /><span class="label" tagx="label" title="label">45</span><span class="mixed-citation" tagx="mixed-citation" title="mixed-citation"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Maxwell</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span></span>, <span class="mixed-article-title" title="mixed-article-title">Unintentional seismicity induced by hydraulic fracturing</span>. <span class="source" tagx="source" title="source">CSEG Recorder</span><span class="volume" tagx="volume" title="volume">38</span>, (<span class="year" tagx="year" title="year">2013</span>).</span></li> </ul> </div> </div>  </body></html>

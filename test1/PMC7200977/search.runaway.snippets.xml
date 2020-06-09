@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="test1/PMC7200977/results/search/runaway/results.xml">
+  <result pre="steps: region of interest segmentation, feature extraction, feature selection, and" exact="model" post="building and validation. The feature selection methods included the"/>
+  <result pre="coefficient, and Partition-Membership filter. The performance metrics of the classification" exact="model" post="included accuracy (Acc), precision (Pre), area under curve (AUC),"/>
+  <result pre="feature redundancy varies with the algorithms. The final step is" exact="model" post="building. The algorithms of model building can be roughly"/>
+  <result pre="algorithms. The final step is model building. The algorithms of" exact="model" post="building can be roughly divided into machine learning and"/>
+  <result pre="first-order features and higher-order features from the ROI. (4) Prediction" exact="model" post="building based on machine learning classifiers, ROC curves used"/>
+  <result pre="on machine learning classifiers, ROC curves used to assess the" exact="model" post="performance. Adc is lung Adenocarcinoma, and Oth are other"/>
+  <result pre="could be the basis to develop a multiple class classification" exact="model" post="to reduce or avoid the use of invasive diagnostic"/>
+  <result pre="the random line which is the worst possible performance a" exact="model" post="can achieve. (A) Logistic regression (LR), naive bayes (NB),"/>
+  <result pre="by radiomics (22–28). Tang et al. (27) developed a radiomics" exact="model" post="to discriminate Adc from squamous cell carcinoma (Sqc) with"/>
+  <result pre="AUC of 0.82, Yang et al. (24) developed an LR" exact="model" post="to predict lymph node metastasis in solid Adc with"/>
+  <result pre="divided with stratified random sampling to keep them balanced. For" exact="model" post="development, independent data sets were used for feature selection"/>
+  <result pre="development, independent data sets were used for feature selection and" exact="model" post="construction, and cross validation method was used for resampling."/>
+  <result pre="construction, and cross validation method was used for resampling. In" exact="model" post="selection, we used many classifiers to show the classification"/>
+  <result pre="texture features were available. We used this data set for" exact="model" post="building and validation. In order to keep the data"/>
+  <result pre="included CT image acquisition, texture feature extraction, feature selection, and" exact="model" post="building. The validation phase included model testing and performance"/>
+  <result pre="extraction, feature selection, and model building. The validation phase included" exact="model" post="testing and performance evaluation. CT Image Acquisition and Texture"/>
+  <result pre="with 10-folds cross validation. The performance metrics of the classification" exact="model" post="included TPR, TNR, accuracy, precision, AUC, kappa statistics, and"/>
+  <result pre="2.ForghaniRSavadjievPChatterjeeAMuthukrishnanNReinholdCForghaniBet al.. Radiomics and artificial intelligence for biomarker and prediction" exact="model" post="development in oncology. Comput Struct Biotechnol J. (2019) 17:995–1008."/>
+ </snippets>
+</snippetsTree>

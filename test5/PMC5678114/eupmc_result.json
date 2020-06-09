@@ -1,0 +1,317 @@
+{
+  "id": [
+    "29118370"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29118370"
+  ],
+  "pmcid": [
+    "PMC5678114"
+  ],
+  "doi": [
+    "10.1038/s41598-017-15365-x"
+  ],
+  "title": [
+    "All-Materials-Inclusive Flash Spark Plasma Sintering."
+  ],
+  "authorString": [
+    "Manière C, Lee G, Olevsky EA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Manière C"
+          ],
+          "firstName": [
+            "Charles"
+          ],
+          "lastName": [
+            "Manière"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0073-9772",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Powder Technology Laboratory, San Diego State University, San Diego, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee G"
+          ],
+          "firstName": [
+            "Geuntak"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Powder Technology Laboratory, San Diego State University, San Diego, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Olevsky EA"
+          ],
+          "firstName": [
+            "Eugene A"
+          ],
+          "lastName": [
+            "Olevsky"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "affiliation": [
+            "Powder Technology Laboratory, San Diego State University, San Diego, USA. eolevsky@mail.sdsu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0073-9772",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2613327"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "15071"
+  ],
+  "abstractText": [
+    "A new flash (ultra-rapid) spark plasma sintering method applicable to various materials systems, regardless of their electrical resistivity, is developed. A number of powders ranging from metals to electrically insulative ceramics have been successfully densified resulting in homogeneous microstructures within sintering times of 8-35 s. A finite element simulation reveals that the developed method, providing an extraordinary fast and homogeneous heating concentrated in the sample's volume and punches, is applicable to all the different samples tested. The utilized uniquely controllable flash phenomenon is enabled by the combination of the electric current concentration around the sample and the confinement of the heat generated in this area by the lateral thermal contact resistance. The presented new method allows: extending flash sintering to nearly all materials, controlling sample shape by an added graphite die, and an energy efficient mass production of small and intermediate size objects. This approach represents also a potential venue for future investigations of flash sintering of complex shapes."
+  ],
+  "affiliation": [
+    "Powder Technology Laboratory, San Diego State University, San Diego, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-017-15365-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5678114"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5678114?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-017-15365-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-11-10"
+  ],
+  "firstIndexDate": [
+    "2017-11-10"
+  ],
+  "fullTextReceivedDate": [
+    "2017-11-19"
+  ],
+  "dateOfRevision": [
+    "2019-06-03"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-08"
+  ],
+  "firstPublicationDate": [
+    "2017-11-08"
+  ]
+}

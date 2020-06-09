@@ -1,0 +1,460 @@
+{
+  "id": [
+    "32050455"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32050455"
+  ],
+  "pmcid": [
+    "PMC7175242"
+  ],
+  "doi": [
+    "10.3390/life10020014"
+  ],
+  "title": [
+    "Synthetic Biology for Terraformation Lessons from Mars, Earth, and the Microbiome."
+  ],
+  "authorString": [
+    "Conde-Pueyo N, Vidiella B, Sardanyés J, Berdugo M, Maestre FT, De Lorenzo V, Solé R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Conde-Pueyo N"
+          ],
+          "firstName": [
+            "Nuria"
+          ],
+          "lastName": [
+            "Conde-Pueyo"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "ICREA-Complex Systems Lab, Universitat Pompeu Fabra, Plaça de la Mercè, 10, 08002 Barcelona, Spain;."
+          ]
+        },
+        {
+          "fullName": [
+            "Vidiella B"
+          ],
+          "firstName": [
+            "Blai"
+          ],
+          "lastName": [
+            "Vidiella"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "ICREA-Complex Systems Lab, Universitat Pompeu Fabra, Plaça de la Mercè, 10, 08002 Barcelona, Spain;."
+          ]
+        },
+        {
+          "fullName": [
+            "Sardanyés J"
+          ],
+          "firstName": [
+            "Josep"
+          ],
+          "lastName": [
+            "Sardanyés"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Centre de Recerca Matemàtica, Campus UAB Edifici C, 08193 Bellaterra, Barcelona, Spain;."
+          ]
+        },
+        {
+          "fullName": [
+            "Berdugo M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Berdugo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "ICREA-Complex Systems Lab, Universitat Pompeu Fabra, Plaça de la Mercè, 10, 08002 Barcelona, Spain;."
+          ]
+        },
+        {
+          "fullName": [
+            "Maestre FT"
+          ],
+          "firstName": [
+            "Fernando T"
+          ],
+          "lastName": [
+            "Maestre"
+          ],
+          "initials": [
+            "FT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7434-4856",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Ecología and Instituto Multidisciplinar para el Estudio del Medio \"Ramon Margalef\", Universidad de Alicante, Carr. de San Vicente del Raspeig, s/n, 03690 San Vicente del Raspeig, Alicante, Spain; (M.B.); (F.M.)."
+          ]
+        },
+        {
+          "fullName": [
+            "De Lorenzo V"
+          ],
+          "firstName": [
+            "Victor"
+          ],
+          "lastName": [
+            "De Lorenzo"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6041-2731",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Systems and Synthetic Biology Program, Centro Nacional de Biotecnología (CNB-CSIC), Campus de Cantoblanco, 28049 Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Solé R"
+          ],
+          "firstName": [
+            "Ricard"
+          ],
+          "lastName": [
+            "Solé"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "ICREA-Complex Systems Lab, Universitat Pompeu Fabra, Plaça de la Mercè, 10, 08002 Barcelona, Spain;."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7434-4856",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6041-2731",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2909793"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Life (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Life (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Life (Basel)"
+          ],
+          "NLMid": [
+            "101580444"
+          ],
+          "ISSN": [
+            "2075-1729"
+          ],
+          "ESSN": [
+            "2075-1729"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "What is the potential for synthetic biology as a way of engineering, on a large scale, complex ecosystems? Can it be used to change endangered ecological communities and rescue them to prevent their collapse? What are the best strategies for such ecological engineering paths to succeed? Is it possible to create stable, diverse synthetic ecosystems capable of persisting in closed environments? Can synthetic communities be created to thrive on planets different from ours? These and other questions pervade major future developments within synthetic biology. The goal of engineering ecosystems is plagued with all kinds of technological, scientific and ethic problems. In this paper, we consider the requirements for terraformation, i.e., for changing a given environment to make it hospitable to some given class of life forms. Although the standard use of this term involved strategies for planetary terraformation, it has been recently suggested that this approach could be applied to a very different context: ecological communities within our own planet. As discussed here, this includes multiple scales, from the gut microbiome to the entire biosphere."
+  ],
+  "affiliation": [
+    "ICREA-Complex Systems Lab, Universitat Pompeu Fabra, Plaça de la Mercè, 10, 08002 Barcelona, Spain;."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FIS2015-67616- P"
+          ],
+          "agency": [
+            "Ministerio de Ciencia, Tecnología e Innovación Productiva"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PR01018-EC-H2020- FET-Open MADONNA"
+          ],
+          "agency": [
+            "H2020 Future and Emerging Technologies"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Restoration ecology",
+        "Microbiome",
+        "Synthetic Biology",
+        "Mars",
+        "Drylands",
+        "Hypercycles",
+        "Terraformation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/life10020014"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7175242"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7175242?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/life10020014"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR107303"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-14"
+  ],
+  "firstIndexDate": [
+    "2020-02-14"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-30"
+  ],
+  "dateOfRevision": [
+    "2020-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-09"
+  ],
+  "firstPublicationDate": [
+    "2020-02-09"
+  ]
+}

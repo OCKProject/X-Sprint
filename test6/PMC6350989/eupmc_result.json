@@ -1,0 +1,412 @@
+{
+  "id": [
+    "30695067"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30695067"
+  ],
+  "pmcid": [
+    "PMC6350989"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0211403"
+  ],
+  "title": [
+    "Self-organization and time-stability of social hierarchies."
+  ],
+  "authorString": [
+    "Hickey J, Davidsen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hickey J"
+          ],
+          "firstName": [
+            "Joseph"
+          ],
+          "lastName": [
+            "Hickey"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9373-1181",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Complexity Science Group, Department of Physics and Astronomy, University of Calgary, Calgary, Alberta, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Davidsen J"
+          ],
+          "firstName": [
+            "Jörn"
+          ],
+          "lastName": [
+            "Davidsen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Complexity Science Group, Department of Physics and Astronomy, University of Calgary, Calgary, Alberta, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9373-1181",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2765643"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0211403"
+  ],
+  "abstractText": [
+    "The formation and stability of social hierarchies is a question of general relevance. Here, we propose a simple generalized theoretical model for establishing social hierarchy via pair-wise interactions between individuals and investigate its stability. In each interaction or fight, the probability of \"winning\" depends solely on the relative societal status of the participants, and the winner has a gain of status whereas there is an equal loss to the loser. The interactions are characterized by two parameters. The first parameter represents how much can be lost, and the second parameter represents the degree to which even a small difference of status can guarantee a win for the higher-status individual. Depending on the parameters, the resulting status distributions reach either a continuous unimodal form or lead to a totalitarian end state with one high-status individual and all other individuals having status approaching zero. However, we find that in the latter case long-lived intermediary distributions often exist, which can give the illusion of a stable society. As we show, our model allows us to make predictions consistent with animal interaction data and their evolution over a number of years. Moreover, by implementing a simple, but realistic rule that restricts interactions to sufficiently similar-status individuals, the stable or long-lived distributions acquire high-status structure corresponding to a distinct high-status class. Using household income as a proxy for societal status in human societies, we find agreement over their entire range from the low-to-middle-status parts to the characteristic high-status \"tail\". We discuss how the model provides a conceptual framework for understanding the origin of social hierarchy and the factors which lead to the preservation or deterioration of the societal structure."
+  ],
+  "affiliation": [
+    "Complexity Science Group, Department of Physics and Astronomy, University of Calgary, Calgary, Alberta, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Goats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Aggression"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Dominance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Personality"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Theoretical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Hierarchy, Social"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0211403"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6350989"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6350989?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0211403"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-08"
+  ],
+  "dateOfCreation": [
+    "2019-01-30"
+  ],
+  "firstIndexDate": [
+    "2019-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-01"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-29"
+  ],
+  "firstPublicationDate": [
+    "2019-01-29"
+  ]
+}

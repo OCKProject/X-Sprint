@@ -1,0 +1,557 @@
+{
+  "id": [
+    "32059744"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32059744"
+  ],
+  "pmcid": [
+    "PMC7023820"
+  ],
+  "doi": [
+    "10.1186/s40101-020-0213-2"
+  ],
+  "title": [
+    "Effects of aging on foot pedal responses to visual stimuli."
+  ],
+  "authorString": [
+    "Yuda E, Yoshida Y, Ueda N, Kaneko I, Miura Y, Hayano J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yuda E"
+          ],
+          "firstName": [
+            "Emi"
+          ],
+          "lastName": [
+            "Yuda"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Tohoku University Graduate School of Engineering, Aoba 6-6-05 Aramaki Aoba-ku, Sendai, 980-8759, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshida Y"
+          ],
+          "firstName": [
+            "Yutaka"
+          ],
+          "lastName": [
+            "Yoshida"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Nagoya City University Graduate School of Design and Architecture, Kita Chikusa 2-1-10 Chikusa-ku, Nagoya, 464-0083, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ueda N"
+          ],
+          "firstName": [
+            "Norihiro"
+          ],
+          "lastName": [
+            "Ueda"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Medical Education, Nagoya City University Graduate School of Medical Sciences, 1 Kawasumi Mizuho-cho Mizuho-ku, Nagoya, 467-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaneko I"
+          ],
+          "firstName": [
+            "Itaru"
+          ],
+          "lastName": [
+            "Kaneko"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Medical Education, Nagoya City University Graduate School of Medical Sciences, 1 Kawasumi Mizuho-cho Mizuho-ku, Nagoya, 467-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Miura Y"
+          ],
+          "firstName": [
+            "Yutaka"
+          ],
+          "lastName": [
+            "Miura"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Shigakkan University, 55 Nakoyama, Yokonemachi, Obu, Aichi, 474-8651, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hayano J"
+          ],
+          "firstName": [
+            "Junichiro"
+          ],
+          "lastName": [
+            "Hayano"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5340-6325",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Education, Nagoya City University Graduate School of Medical Sciences, 1 Kawasumi Mizuho-cho Mizuho-ku, Nagoya, 467-8601, Japan. hayano@med.nagoya-cu.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5340-6325",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "39"
+      ],
+      "journalIssueId": [
+        "2909127"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of physiological anthropology"
+          ],
+          "ISOAbbreviation": [
+            "J Physiol Anthropol"
+          ],
+          "medlineAbbreviation": [
+            "J Physiol Anthropol"
+          ],
+          "NLMid": [
+            "101269653"
+          ],
+          "ISSN": [
+            "1880-6791"
+          ],
+          "ESSN": [
+            "1880-6805"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "BACKGROUND:Car accidents due to unexpected forward or backward runaway by older drivers are a serious social problem. Although the cause of these accidents is often attributed to stepping on the accelerator instead of the brake, it is difficult to induce such pedal application errors systematically with usual drive simulators. We developed a simple personal computer system that induces the pedal errors, and investigate the effects of age on the error behaviors. METHODS:The system consisted of a laptop computer and a three-pedal foot mouse. It measured response time, accuracy, and flexibility of pedal operation to visual stimuli. The system displayed two open circles on the computer display, lighting one of the circles in a random order and interval. Subjects were instructed to press the foot pedal with their right foot as quickly as possible when the circle was lit; the ipsilateral pedal to the lit circle in a parallel mode and the contralateral pedal in a cross mode. When the correct pedal was pressed, the light went off immediately, but when the wrong pedal was pressed, the buzzer sounded and the light remained on until the correct pedal was pressed. During a 6-min trial, the mode was switched between parallel and cross every 2 min. During the cross mode, a cross mark appears on the display. The pedal responses were evaluated in 52 subjects divided into young (20-29 years), middle-aged (30-64 years), and older (65-84 years) groups. Additionally, the repeatability of the pedal response characteristic indicators was examined in 14 subjects who performed this test twice. RESULTS:The mean response time was 95 ms (17%) longer in the older group than in the young group. More characteristically, however, the older group showed 2.1 times more frequent pedal errors, fell into long hesitations (response freezing > 3 s) 16 times more often, and took 1.8 times longer period to correct the wrong pedal than the young groups. The indicators of pedal response characteristics showed within-individual repeatability to the extent that can identify the age-dependent changes. CONCLUSIONS:Hesitations and extended error correction time can be associated with increased crash risk due to unexpected runaway by older drivers. The system we have developed may help to uncover and evaluate physiological characteristics related to crash risk in the elderly population."
+  ],
+  "affiliation": [
+    "Tohoku University Graduate School of Engineering, Aoba 6-6-05 Aramaki Aoba-ku, Sendai, 980-8759, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Foot"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reaction Time"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Automobile Driving"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aging",
+        "Older Driver",
+        "Simon Effect",
+        "Response Time",
+        "Driving Simulator, Hesitation",
+        "Technoadaptability"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40101-020-0213-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7023820"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7023820?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40101-020-0213-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-03-31"
+  ],
+  "dateOfCreation": [
+    "2020-02-16"
+  ],
+  "firstIndexDate": [
+    "2020-02-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-31"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-14"
+  ],
+  "firstPublicationDate": [
+    "2020-02-14"
+  ]
+}

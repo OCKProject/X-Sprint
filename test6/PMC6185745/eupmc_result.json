@@ -1,0 +1,631 @@
+{
+  "id": [
+    "30076408"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30076408"
+  ],
+  "pmcid": [
+    "PMC6185745"
+  ],
+  "doi": [
+    "10.1038/s41594-018-0096-7"
+  ],
+  "title": [
+    "Atomic insights into the genesis of cellular filaments by globular proteins."
+  ],
+  "authorString": [
+    "McPartland L, Heller DM, Eisenberg DS, Hochschild A, Sawaya MR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McPartland L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "McPartland"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunobiology, Harvard Medical School, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Heller DM"
+          ],
+          "firstName": [
+            "Danielle M"
+          ],
+          "lastName": [
+            "Heller"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunobiology, Harvard Medical School, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Eisenberg DS"
+          ],
+          "firstName": [
+            "David S"
+          ],
+          "lastName": [
+            "Eisenberg"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2432-5419",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, University of California, Los Angeles, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hochschild A"
+          ],
+          "firstName": [
+            "Ann"
+          ],
+          "lastName": [
+            "Hochschild"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4807-9865",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunobiology, Harvard Medical School, Boston, MA, USA. ann_hochschild@hms.harvard.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Sawaya MR"
+          ],
+          "firstName": [
+            "Michael R"
+          ],
+          "lastName": [
+            "Sawaya"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0874-9043",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Chemistry, University of California, Los Angeles, Los Angeles, CA, USA. sawaya@mbi.ucla.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2432-5419",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4807-9865",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0874-9043",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2713100"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature structural & molecular biology"
+          ],
+          "ISOAbbreviation": [
+            "Nat. Struct. Mol. Biol."
+          ],
+          "medlineAbbreviation": [
+            "Nat Struct Mol Biol"
+          ],
+          "NLMid": [
+            "101186374"
+          ],
+          "ISSN": [
+            "1545-9993"
+          ],
+          "ESSN": [
+            "1545-9985"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "705-714"
+  ],
+  "abstractText": [
+    "Self-assembly of proteins into filaments, such as actin and tubulin filaments, underlies essential cellular processes in all three domains of life. The early emergence of filaments in evolutionary history suggests that filament genesis might be a robust process. Here we describe the fortuitous construction of GFP fusion proteins that self-assemble as fluorescent polar filaments in Escherichia coli. Filament formation is achieved by appending as few as 12 residues to GFP. Crystal structures reveal that each protomer donates an appendage to fill a groove between the two following protomers along the filament. This exchange of appendages resembles runaway domain swapping but is distinguished by higher efficiency because monomers cannot competitively bind their own appendages. Ample evidence for this 'runaway domain coupling' mechanism in nature suggests it could facilitate the evolutionary pathway from globular protein to polar filament, requiring a minimal extension of protein sequence and no substantial refolding."
+  ],
+  "affiliation": [
+    "Department of Microbiology and Immunobiology, Harvard Medical School, Boston, MA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P41 GM103403"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM115941"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DP1 OD003806"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 RR029205"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Howard Hughes Medical Institute"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ribonuclease, Pancreatic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Escherichia coli Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Green Fluorescent Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recombinant Fusion Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Crystallography, X-Ray"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Conformation"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ribonuclease, Pancreatic"
+          ],
+          "registryNumber": [
+            "EC 3.1.27.5"
+          ]
+        },
+        {
+          "name": [
+            "Escherichia coli Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Recombinant Fusion Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Green Fluorescent Proteins"
+          ],
+          "registryNumber": [
+            "147336-22-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41594-018-0096-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6185745"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6185745?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41594-018-0096-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PDB"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS977255"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-08-26"
+  ],
+  "dateOfCreation": [
+    "2018-08-05"
+  ],
+  "firstIndexDate": [
+    "2018-08-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-15"
+  ],
+  "dateOfRevision": [
+    "2019-11-05"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-03"
+  ],
+  "firstPublicationDate": [
+    "2018-08-03"
+  ],
+  "embargoDate": [
+    "2019-02-03"
+  ]
+}

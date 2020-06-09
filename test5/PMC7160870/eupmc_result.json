@@ -1,0 +1,328 @@
+{
+  "id": [
+    "32100552"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32100552"
+  ],
+  "pmcid": [
+    "PMC7160870"
+  ],
+  "doi": [
+    "10.1177/1535759720906115"
+  ],
+  "title": [
+    "A Tale of two Networks-Glial Contributions to Generalized Seizures."
+  ],
+  "authorString": [
+    "Rosch RE, Dulla CG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rosch RE"
+          ],
+          "firstName": [
+            "Richard E"
+          ],
+          "lastName": [
+            "Rosch"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0316-5818",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dulla CG"
+          ],
+          "firstName": [
+            "Chris G"
+          ],
+          "lastName": [
+            "Dulla"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6560-6535",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0316-5818",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6560-6535",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2940002"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Epilepsy currents"
+          ],
+          "ISOAbbreviation": [
+            "Epilepsy Curr"
+          ],
+          "medlineAbbreviation": [
+            "Epilepsy Curr"
+          ],
+          "NLMid": [
+            "101135954"
+          ],
+          "ISSN": [
+            "1535-7597"
+          ],
+          "ESSN": [
+            "1535-7511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "108-110"
+  ],
+  "abstractText": [
+    "[Box: see text]."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "article-commentary",
+        "Comment",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1535759720906115"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7160870"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7160870?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1535759720906115"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31444362"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nat Commun. 2019 Aug 23;10(1):3830"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-27"
+  ],
+  "firstIndexDate": [
+    "2020-02-27"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-22"
+  ],
+  "dateOfRevision": [
+    "2020-04-21"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-26"
+  ],
+  "firstPublicationDate": [
+    "2020-02-26"
+  ]
+}

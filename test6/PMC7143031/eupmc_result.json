@@ -1,0 +1,367 @@
+{
+  "id": [
+    "32245033"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32245033"
+  ],
+  "pmcid": [
+    "PMC7143031"
+  ],
+  "doi": [
+    "10.3390/ma13061419"
+  ],
+  "title": [
+    "Design of High Temperature Complex Dielectric Properties Measuring System Based on XGBoost Algorithm."
+  ],
+  "authorString": [
+    "Wu Y, Wu L, Zhu H, Hong T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Information Science & Technology, Chengdu University of Technology, Chengdu 610000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Electronic and Information Engineering, Sichuan University, Chengdu 610065, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu H"
+          ],
+          "firstName": [
+            "Huacheng"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1737-870X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Electronic and Information Engineering, Sichuan University, Chengdu 610065, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hong T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "School of Electronic Information Engineering, China West Normal University, Nanchong 637002, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1737-870X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2924181"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Materials (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Materials (Basel)"
+          ],
+          "NLMid": [
+            "101555929"
+          ],
+          "ISSN": [
+            "1996-1944"
+          ],
+          "ESSN": [
+            "1996-1944"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "This paper aims to propose an online relative complex permittivity measurement system at high temperature based on microwave interferometer. A ridge waveguide with a TE10 mode was used in which the sample was heated and measured simultaneously at a frequency of 2450 MHz, and the microwave interferometer is used to collect the amplitude and phase difference of the incident signal. The Extreme Gradient Boosting (XGBoost) algorithm trained by the corresponding simulation data is used to construct the inversion model to calculate the complex dielectric coefficient of the tested material. Besides, this paper uses linear regression algorithm (LR) to calibrate the measurement system in order to improve the measurement accuracy. The entire system was tested using different materials at room temperature, and the maximum error of the measurement accuracy is less than 8% compared to the theoretical data. The robustness of the entire system was also tested by measuring Macor materials up to 800 °C. This proposed method provides an effective way to understand the mechanism between microwaves and matter at high temperatures."
+  ],
+  "affiliation": [
+    "College of Information Science & Technology, Chengdu University of Technology, Chengdu 610000, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017GZ0370"
+          ],
+          "agency": [
+            "Science Foundation of the Sichuan Province; China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "61701049"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dielectric property",
+        "Microwave Interferometer",
+        "Xgboost Algorithm"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma13061419"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7143031"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7143031?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ma13061419"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-05"
+  ],
+  "firstIndexDate": [
+    "2020-04-05"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-16"
+  ],
+  "dateOfRevision": [
+    "2020-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-20"
+  ],
+  "firstPublicationDate": [
+    "2020-03-20"
+  ]
+}

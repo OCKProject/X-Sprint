@@ -1,0 +1,648 @@
+{
+  "id": [
+    "31061393"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31061393"
+  ],
+  "pmcid": [
+    "PMC6502817"
+  ],
+  "doi": [
+    "10.1038/s41467-019-09924-1"
+  ],
+  "title": [
+    "Fast lithium growth and short circuit induced by localized-temperature hotspots in lithium batteries."
+  ],
+  "authorString": [
+    "Zhu Y, Xie J, Pei A, Liu B, Wu Y, Lin D, Li J, Wang H, Chen H, Xu J, Yang A, Wu CL, Wang H, Chen W, Cui Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu Y"
+          ],
+          "firstName": [
+            "Yangying"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9185-3161",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie J"
+          ],
+          "firstName": [
+            "Jin"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6270-1465",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pei A"
+          ],
+          "firstName": [
+            "Allen"
+          ],
+          "lastName": [
+            "Pei"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8930-2125",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu B"
+          ],
+          "firstName": [
+            "Bofei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yecun"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6011-4489",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin D"
+          ],
+          "firstName": [
+            "Dingchang"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9354-5952",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hansen"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6738-1659",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Jinwei"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang A"
+          ],
+          "firstName": [
+            "Ankun"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0274-4025",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu CL"
+          ],
+          "firstName": [
+            "Chun-Lan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7124-1520",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hongxia"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0720-3305",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6103-6352",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA. yicui@stanford.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9185-3161",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6270-1465",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8930-2125",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6011-4489",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9354-5952",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6738-1659",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0274-4025",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7124-1520",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0720-3305",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6103-6352",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2811011"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2067"
+  ],
+  "abstractText": [
+    "Fast-charging and high-energy-density batteries pose significant safety concerns due to high rates of heat generation. Understanding how localized high temperatures affect the battery is critical but remains challenging, mainly due to the difficulty of probing battery internal temperature with high spatial resolution. Here we introduce a method to induce and sense localized high temperature inside a lithium battery using micro-Raman spectroscopy. We discover that temperature hotspots can induce significant lithium metal growth as compared to the surrounding lower temperature area due to the locally enhanced surface exchange current density. More importantly, localized high temperature can be one of the factors to cause battery internal shorting, which further elevates the temperature and increases the risk of thermal runaway. This work provides important insights on the effects of heterogeneous temperatures within batteries and aids the development of safer batteries, thermal management schemes, and diagnostic tools."
+  ],
+  "affiliation": [
+    "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09924-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6502817"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6502817?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09924-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-08"
+  ],
+  "firstIndexDate": [
+    "2019-05-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-15"
+  ],
+  "dateOfRevision": [
+    "2020-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-06"
+  ],
+  "firstPublicationDate": [
+    "2019-05-06"
+  ]
+}

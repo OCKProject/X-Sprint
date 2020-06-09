@@ -1,0 +1,429 @@
+{
+  "id": [
+    "31992751"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31992751"
+  ],
+  "pmcid": [
+    "PMC6987180"
+  ],
+  "doi": [
+    "10.1038/s41598-020-58021-7"
+  ],
+  "title": [
+    "Internal short circuit detection in Li-ion batteries using supervised machine learning."
+  ],
+  "authorString": [
+    "Naha A, Khandelwal A, Agarwal S, Tagade P, Hariharan KS, Kaushik A, Yadu A, Kolake SM, Han S, Oh B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Naha A"
+          ],
+          "firstName": [
+            "Arunava"
+          ],
+          "lastName": [
+            "Naha"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Khandelwal A"
+          ],
+          "firstName": [
+            "Ashish"
+          ],
+          "lastName": [
+            "Khandelwal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Agarwal S"
+          ],
+          "firstName": [
+            "Samarth"
+          ],
+          "lastName": [
+            "Agarwal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India. agarwal.samarth@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tagade P"
+          ],
+          "firstName": [
+            "Piyush"
+          ],
+          "lastName": [
+            "Tagade"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Hariharan KS"
+          ],
+          "firstName": [
+            "Krishnan S"
+          ],
+          "lastName": [
+            "Hariharan"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaushik A"
+          ],
+          "firstName": [
+            "Anshul"
+          ],
+          "lastName": [
+            "Kaushik"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Yadu A"
+          ],
+          "firstName": [
+            "Ankit"
+          ],
+          "lastName": [
+            "Yadu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kolake SM"
+          ],
+          "firstName": [
+            "Subramanya Mayya"
+          ],
+          "lastName": [
+            "Kolake"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Han S"
+          ],
+          "firstName": [
+            "Seongho"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Advanced Battery Lab, Mobile Communication Business Division, SAMSUNG ELECTRONICS Co., Gyeonggi-do, 16677, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Oh B"
+          ],
+          "firstName": [
+            "Bookeun"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Advanced Battery Lab, Mobile Communication Business Division, SAMSUNG ELECTRONICS Co., Gyeonggi-do, 16677, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2899419"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1301"
+  ],
+  "abstractText": [
+    "With the proliferation of Li-ion batteries in smart phones, safety is the main concern and an on-line detection of battery faults is much wanting. Internal short circuit is a very critical issue that is often ascribed to be a cause of many accidents involving Li-ion batteries. A novel method that can detect the Internal short circuit in real time based on an advanced machine leaning approach, is proposed. Based on an equivalent electric circuit model, a set of features encompassing the physics of Li-ion cell with short circuit fault are identified and extracted from each charge-discharge cycle. The training feature set is generated with and without an external short-circuit resistance across the battery terminals. To emulate a real user scenario, internal short is induced by mechanical abuse. The testing feature set is generated from the battery charge-discharge data before and after the abuse. A random forest classifier is trained with the training feature set. The fault detection accuracy for the testing dataset is found to be more than 97%. The proposed algorithm does not interfere with the normal usage of the device, and the trained model can be implemented in any device for online fault detection."
+  ],
+  "affiliation": [
+    "Mobile Battery Research Lab, Samsung R&D Institute India - Bangalore (SRIB), #2870, Phoenix Building, Bagmane Constellation Business Park, Outer ring road, Doddanekundi circle, Marathahalli Post, Bangalore, 560037, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-58021-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6987180"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6987180?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-58021-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-01-30"
+  ],
+  "firstIndexDate": [
+    "2020-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-09"
+  ],
+  "dateOfRevision": [
+    "2020-02-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-28"
+  ],
+  "firstPublicationDate": [
+    "2020-01-28"
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": [
+    "31732970"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31732970"
+  ],
+  "pmcid": [
+    "PMC6973023"
+  ],
+  "doi": [
+    "10.1111/evo.13883"
+  ],
+  "title": [
+    "Antagonistic coevolution between hosts and sexually transmitted infections."
+  ],
+  "authorString": [
+    "Ashby B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ashby B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Ashby"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5588-7081",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mathematical Sciences, University of Bath, Bath, BA2 7AY, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5588-7081",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "74"
+      ],
+      "journalIssueId": [
+        "2897829"
+      ],
+      "dateOfPublication": [
+        "2020 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evolution; international journal of organic evolution"
+          ],
+          "ISOAbbreviation": [
+            "Evolution"
+          ],
+          "medlineAbbreviation": [
+            "Evolution"
+          ],
+          "NLMid": [
+            "0373224"
+          ],
+          "ISSN": [
+            "0014-3820"
+          ],
+          "ESSN": [
+            "1558-5646"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "43-56"
+  ],
+  "abstractText": [
+    "Sexually transmitted infections (STIs) are predicted to play an important role in the evolution of host mating strategies, and vice versa, yet our understanding of host-STI coevolution is limited. Previous theoretical work has shown mate choice can evolve to prevent runaway STI virulence evolution in chronic, sterilizing infections. Here, I generalize this theory to examine how a broader range of life-history traits influence coevolution; specifically, how host preferences for healthy mates and STI virulence coevolve when infections are acute and can cause mortality or sterility, and hosts do not form long-term sexual partnerships. I show that mate choice reduces both mortality and sterility virulence, with qualitatively different outcomes depending on the mode of virulence, costs associated with mate choice, recovery rates, and host lifespan. For example, fluctuating selection-a key finding in previous work-is most likely when hosts have moderate lifespans, STIs cause sterility and long infections, and costs of mate choice are low. The results reveal new insights into the coevolution of mate choice and STI virulence as different life-history traits vary, providing increased support for parasite-mediated sexual selection as a potential driver of host mate choice, and mate choice as a constraint on the evolution of virulence."
+  ],
+  "affiliation": [
+    "Department of Mathematical Sciences, University of Bath, Bath, BA2 7AY, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NE/N014979/1"
+          ],
+          "agency": [
+            "Natural Environment Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virulence",
+        "Mate choice",
+        "Std",
+        "Fluctuating Selection",
+        "Host-parasite",
+        "Parasite-mediated Sexual Selection"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/evo.13883"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6973023"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6973023?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/evo.13883"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR74747"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-17"
+  ],
+  "firstIndexDate": [
+    "2019-11-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-04"
+  ],
+  "dateOfRevision": [
+    "2020-01-28"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-17"
+  ],
+  "firstPublicationDate": [
+    "2019-12-17"
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": [
+    "31666666"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31666666"
+  ],
+  "pmcid": [
+    "PMC6821822"
+  ],
+  "doi": [
+    "10.1038/s41598-019-52160-2"
+  ],
+  "title": [
+    "Effects of Microwave Energy on Fast Compressive Strength Development of Coal Bottom Ash-Based Geopolymers."
+  ],
+  "authorString": [
+    "Hong S, Kim H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hong S"
+          ],
+          "firstName": [
+            "Sungil"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8729-0861",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, University of Seoul, 163 Seoulsiripdae-ro, Dongdaemun-gu, Seoul, 02504, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim H"
+          ],
+          "firstName": [
+            "Hyo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7657-4885",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical Engineering, University of Seoul, 163 Seoulsiripdae-ro, Dongdaemun-gu, Seoul, 02504, Korea. hkim@uos.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8729-0861",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7657-4885",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2866017"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "15694"
+  ],
+  "abstractText": [
+    "Microwave energy has been shown to be effective for geopolymer synthesis due to its fast and penetrative heating characteristics; however, the changes in the physicochemical properties of the geopolymer, resulting from the microwave irradiation, have not been fully elucidated. Therefore, this study is aimed at investigating the effect of the microwaving on the properties of coal bottom ash(CBA) geopolymers. We prepared geopolymer samples by casting a mixture of ground CBA and 14 M NaOH solution against cubic molds with a hand press machine, followed by pre-curing in a dry oven at 75 °C for 24 h and microwaving under various powers and durations. The compressive strength strongly depended on the moisture content, i.e., the strength increased from 21 to 65 MPa or higher as the moisture content decreased to critical values, after which the strength began to decrease. The results showed that microwave energy stimulated an additional geopolymerization by evaporating the redundant free water. This led to the strength gain, although the over-irradiation generated a high internal stress and poor structural integrity, which resulted in the strength loss. Therefore, the appropriate application of microwave energy is a promising option for synthesizing high-strength geopolymers in a cost- and time-effective manner."
+  ],
+  "affiliation": [
+    "Department of Chemical Engineering, University of Seoul, 163 Seoulsiripdae-ro, Dongdaemun-gu, Seoul, 02504, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-52160-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6821822"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6821822?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-52160-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-01"
+  ],
+  "firstIndexDate": [
+    "2019-11-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2020-03-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-30"
+  ],
+  "firstPublicationDate": [
+    "2019-10-30"
+  ]
+}

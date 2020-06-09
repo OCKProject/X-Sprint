@@ -1,0 +1,279 @@
+{
+  "id": [
+    "32341612"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32341612"
+  ],
+  "pmcid": [
+    "PMC7185022"
+  ],
+  "doi": [
+    "10.1016/j.jedc.2020.103916"
+  ],
+  "title": [
+    "Liquidity Backstops and Dynamic Debt Runs."
+  ],
+  "authorString": [
+    "Wei B, Yue VZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wei B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Federal Reserve Bank of Atlanta, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Yue VZ"
+          ],
+          "firstName": [
+            "Vivian Z"
+          ],
+          "lastName": [
+            "Yue"
+          ],
+          "initials": [
+            "VZ"
+          ],
+          "affiliation": [
+            "Emory University and the Federal Reserve Bank of Atlanta, and NBER, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2947460"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of economic dynamics & control"
+          ],
+          "ISOAbbreviation": [
+            "J Econ Dyn Control"
+          ],
+          "medlineAbbreviation": [
+            "J Econ Dyn Control"
+          ],
+          "NLMid": [
+            "101085812"
+          ],
+          "ISSN": [
+            "0165-1889"
+          ],
+          "ESSN": [
+            "1879-1743"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "103916"
+  ],
+  "abstractText": [
+    "Liquidity backstops can mitigate runs. In this paper we develop a dynamic model of debt runs based on He and Xiong (2012) to identify, both conceptually and quantitatively, the value of a liquidity backstop for its run-mitigating role. For the purpose of identification, we focus on the municipal bond markets for variable rate demand obligations and auction rate securities. Based on the run episodes in these markets during the financial crisis of 2007-09 and the calibrated model, we find that the value of a liquidity backstop is about 14.5 basis points per annum. Our findings have important policy implications regarding the effectiveness of liquidity backstops in ameliorating problems of financial instability."
+  ],
+  "affiliation": [
+    "Federal Reserve Bank of Atlanta, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Debt Run",
+        "Lender Of Last Resort",
+        "Liquidity Backstop"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jedc.2020.103916"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7185022"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7185022?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jedc.2020.103916"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-29"
+  ],
+  "firstIndexDate": [
+    "2020-04-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-29"
+  ],
+  "dateOfRevision": [
+    "2020-04-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-27"
+  ],
+  "firstPublicationDate": [
+    "2020-04-27"
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": [
+    "32201789"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32201789"
+  ],
+  "pmcid": [
+    "PMC7081428"
+  ],
+  "doi": [
+    "10.1021/acsomega.9b03964"
+  ],
+  "title": [
+    "Toward the Mechanistic Understanding of the Additives' Role on Ammonium Nitrate Decomposition: Calcium Carbonate and Calcium Sulfate as Case Studies."
+  ],
+  "authorString": [
+    "Menicacci E, Rotureau P, Fayet G, Adamo C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Menicacci E"
+          ],
+          "firstName": [
+            "Eleonora"
+          ],
+          "lastName": [
+            "Menicacci"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institut National de l'Environnement Industriel et des Risques (INERIS), Parc Technologique Alata, BP2, 60550 Verneuil-en-Halatte, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Rotureau P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Rotureau"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institut National de l'Environnement Industriel et des Risques (INERIS), Parc Technologique Alata, BP2, 60550 Verneuil-en-Halatte, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Fayet G"
+          ],
+          "firstName": [
+            "Guillaume"
+          ],
+          "lastName": [
+            "Fayet"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Institut National de l'Environnement Industriel et des Risques (INERIS), Parc Technologique Alata, BP2, 60550 Verneuil-en-Halatte, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Adamo C"
+          ],
+          "firstName": [
+            "Carlo"
+          ],
+          "lastName": [
+            "Adamo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2638-2735",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chimie ParisTech, PSL Research University, CNRS, Institute of Chemistry for Life and Health Sciences (i-CLeHS), FRE 2027, F-75005 Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2638-2735",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2926217"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "5034-5040"
+  ],
+  "abstractText": [
+    "The reaction mechanism involved in the decomposition of ammonium nitrate (AN) in the presence of CaCO3 and CaSO4, commonly used for stabilization and the reduction of explosivity properties of AN, was theoretically investigated using a computational approach based on density functional theory. The presented computational results suggest that both carbonate and sulfate anions can intercept an acid proton from nitric acid issued from the first step of decomposition of AN, thus inhibiting its runaway decomposition and the generation of reactive species (radicals). The reaction then leads to the production of stable products, as experimentally observed. Our modeling outcomes allow for tracing a relationship between the capability of proton acceptance of both carbonate and sulfate anions and the macroscopic behavior of these two additives as inhibitor or inert in the AN mixture."
+  ],
+  "affiliation": [
+    "Institut National de l'Environnement Industriel et des Risques (INERIS), Parc Technologique Alata, BP2, 60550 Verneuil-en-Halatte, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b03964"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7081428"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7081428?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.9b03964"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-03-24"
+  ],
+  "firstIndexDate": [
+    "2020-03-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-26"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-09"
+  ],
+  "firstPublicationDate": [
+    "2020-03-09"
+  ]
+}

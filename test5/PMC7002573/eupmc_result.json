@@ -1,0 +1,378 @@
+{
+  "id": [
+    "32024851"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32024851"
+  ],
+  "pmcid": [
+    "PMC7002573"
+  ],
+  "doi": [
+    "10.1038/s41598-020-58439-z"
+  ],
+  "title": [
+    "Two dimensional (2D) reduced graphene oxide (RGO)/hexagonal boron nitride (h-BN) based nanocomposites as anodes for high temperature rechargeable lithium-ion batteries."
+  ],
+  "authorString": [
+    "Mussa Y, Ahmed F, Arsalan M, Alsharaeh E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mussa Y"
+          ],
+          "firstName": [
+            "Yasmin"
+          ],
+          "lastName": [
+            "Mussa"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Science and General Studies, Alfaisal University, P. O. Box 50927, Riyadh, 11533, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmed F"
+          ],
+          "firstName": [
+            "Faheem"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "College of Science and General Studies, Alfaisal University, P. O. Box 50927, Riyadh, 11533, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Arsalan M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Arsalan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1502-8247",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "EXPEC Advanced Research Center, Saudi Aramco, P. O. Box 5000, Dhahran, 31311, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Alsharaeh E"
+          ],
+          "firstName": [
+            "Edreese"
+          ],
+          "lastName": [
+            "Alsharaeh"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6285-8083",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Science and General Studies, Alfaisal University, P. O. Box 50927, Riyadh, 11533, Saudi Arabia. ealsharaeh@alfaisal.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1502-8247",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6285-8083",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2908367"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1882"
+  ],
+  "abstractText": [
+    "With lithium-ion (li-ion) batteries as energy storage devices, operational safety from thermal runaway remains a major obstacle especially for applications in harsh environments such as in the oil industry. In this approach, a facile method via microwave irradiation technique (MWI) was followed to prepare Co3O4/reduced graphene oxide (RGO)/hexagonal boron nitride (h-BN) nanocomposites as anodes for high temperature li-ion batteries. Results showed that the addition of h-BN not only enhanced the thermal stability of Co3O4/RGO nanocomposites but also enhanced the specific surface area. Co3O4/RGO/h-BN nanocomposites displayed the highest specific surface area of 191 m2/g evidencing the synergistic effects between RGO and h-BN. Moreover, Co3O4/RGO/h-BN also displayed the highest specific capacity with stable reversibility on the high performance after 100 cycles and lower internal resistance. Interestingly, this novel nanocomposite exhibits outstanding high temperature performances with excellent cycling stability (100% capacity retention) and a decreased internal resistance at 150 °C."
+  ],
+  "affiliation": [
+    "College of Science and General Studies, Alfaisal University, P. O. Box 50927, Riyadh, 11533, Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "No. AFU-01-2017"
+          ],
+          "agency": [
+            "Saudi Aramco"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-58439-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7002573"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7002573?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-58439-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-07"
+  ],
+  "firstIndexDate": [
+    "2020-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-19"
+  ],
+  "dateOfRevision": [
+    "2020-02-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-05"
+  ],
+  "firstPublicationDate": [
+    "2020-02-05"
+  ]
+}

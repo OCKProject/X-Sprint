@@ -1,0 +1,799 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> <head> <style type="text/css">
+      	     		 
+      	    a                          {background : #ffffff; }
+      	    article                    {border-style : dotted; border-width : 2px; }
+		 	
+		 	div                        {background : #ffffcc;}
+		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+		 	div.ack                    {border-style : solid ; border-color : red; margin : 2em; }
+		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.boxed-text             {margin : 5em; border-style : solid;}
+		 	div.contrib-group          {margin : 1em; }
+		 	div.fig                    {border-style : solid; border-width : 2px; margin : 2em; }
+		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+		 	div.given-names            {font-style : italic;}
+		 	div.intro                  {border-style : inset; margin : 5px;}
+		 	div.introduction           {border-style : inset; margin : 5px;}
+		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin 1em;}
+		 	div.journal-title-group    {background : #ffeeee;}
+		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+		 	div.kwd                    {font-style : italic}
+		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+		 	div.name                   {font-weight : bold;}
+		 	div.alt-title              {font-style : italic; font-size : 12px;}
+		 	
+		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+		 	div.title                  {font-family : courier; font-weight : bold;
+		 	                            font-size : 16pt; margin : 5px;}
+		 	
+		 	div.materials_methods      {border-style : double; margin : 5px; }
+		 	div.methods                {border-style : double; margin : 5px; }
+		 	
+		 	div.results                {border-style : solid; margin : 5px;}
+		 	div.background             {border-style : dotted; margin : 5px;}
+		 	
+		 	div.discussion             {border-style : groove; margin : 5px;}
+		 	div.conclusion             {border-style : ridge; margin : 5px;}
+		 	div.conclusions             {border-style : ridge; margin : 5px;}
+		 	div.supplementary-material {border-style : inset; margin : 5px;}
+		 	div.abbreviations          {border-style : double; border-color : red; margin : 5px;}
+		 	div.competinginterests     {border-style : double; border-color : blue; margin : 5px;}
+		 	div.acknowledgements       {border-style : double; border-color : green; margin : 5px;}
+		 	div.authors_contributions   {border-style : double; border-color : purple; margin : 5px;}
+		 	
+		 	div.publisher              {border-style : outset; margin : 5px;}
+		 	div.fn-type-conflict       {background : #f88; }
+		 	div.fn-type-con            {background : #ddf; }
+		 	div.fn-type-other          {background : #ddd; }
+		 	
+		 	div.unknown                {background : #ffd;
+									 	  border-style : solid;
+									 	  border-width : 1px;
+									 	  padding : 2 px;}
+		 	  
+      	    table                      {background : #ffffdd;}
+		 	tr                         {background : #ddddff; padding : 1px;}
+		 	
+		 	span                       {background : #ffcccc;}
+		 	
+		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+		 	span.collab                {background : #ddffff; }
+		 	span.comment               {font-family : courier; font-size : 6px; background : #ffaaff;}
+		 	span.contrib               {background : #ffffff;}
+		 	span.corresp               {background : #ddffdd; }
+		 	span.doi                   {background : #ffffff;}
+		 	span.email                 {font-family : courier; }
+		 	span.etal                  {font-style : italic;}
+		 	span.fpage                 {font-family : courier;}
+		 	span.given-names           {background : #ffffff;}
+		 	span.iso-abbrev            {background : #ffffff;}
+		 	span.issn-epub             {background : #ffffff;}
+		 	span.issn-ppub             {background : #ffffff;}
+		 	span.journal-title         {background : #ffffff;}
+		 	span.lpage                 {font-family : courier;}
+		 	span.mixed-article-title   {font-style : italic ;}
+		 	span.nlm-ta                {background : #ffffff;}
+		 	span.pmc                   {background : #ffffff;}
+		 	span.pmcid                 {background : #ffffff;}
+		 	span.pmid                  {background : #ffffff;}
+		 	span.publisher             {background : #ffffff;}
+		 	span.publisher-id          {background : #ffffff;}
+		 	span.publisher-name        {background : #ffffff;}
+		 	span.source                {background : #ffffff;}
+		 	span.subject               {background : #ffffff;}
+		 	span.surname               {background : #ffffff;}
+		 	span.volume                {font-family : courier; font-weight : bold;}
+		 	span.year                  {font-family : courier ; font-style : italic;}
+			</style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"><span class="nlm-ta" title="nlm-ta">Materials (Basel)</span><span class="iso-abbrev" title="iso-abbrev">Materials (Basel)</span><span class="publisher-id" title="publisher-id">materials</span><div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"><span class="journal-title" tagx="journal-title" title="journal-title">Materials</span></div><span class="issn-epub" tagx="issn" title="issn-epub">1996-1944</span><div class="publisher" tagx="publisher" title="publisher"><span class="publisher-name" tagx="publisher-name" title="publisher-name">MDPI</span></div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"><span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/7143031">7143031</a></span><span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.3390/ma13061419">10.3390/ma13061419</a></span><span class="publisher-id" title="publisher-id">materials-13-01419</span><div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Article</span></div> <div class="title-group"> <div class="article-title" title="article-title">
+Design of High Temperature Complex Dielectric Properties Measuring System Based on XGBoost Algorithm</div> </div> <div class="contrib-group" title="contrib-group"><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wu</span><span class="given-names" tagx="given-names" title="given-names">Yuanyuan</span></span><a href="#af1-materials-13-01419">1</a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wu</span><span class="given-names" tagx="given-names" title="given-names">Li</span></span><a href="#af2-materials-13-01419">2</a></span><span class="contrib" title="contrib"><span class="contrib-id" tagx="contrib-id" title="contrib-id">https://orcid.org/0000-0002-1737-870X</span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhu</span><span class="given-names" tagx="given-names" title="given-names">Huacheng</span></span><a href="#af2-materials-13-01419">2</a></span><span class="contrib" title="contrib"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hong</span><span class="given-names" tagx="given-names" title="given-names">Tao</span></span><a href="#af3-materials-13-01419">3</a><a href="#c1-materials-13-01419">*</a></span></div><span class="citation_author_institution" id="af1-materials-13-01419">[1], <span class="email" tagx="email" title="email">wuyuanyuan@cdut.edu.cn</span></span><span class="citation_author_institution" id="af2-materials-13-01419">[2], <span class="email" tagx="email" title="email">wuli1307@scu.edu.cn</span><span class="email" tagx="email" title="email">hczhu@scu.edu.cn</span></span><span class="citation_author_institution" id="af3-materials-13-01419">[3], </span><div class="author-notes" title="author-notes"> <div class="corresp" title="corresp"><span class="label" tagx="label" title="label">*</span>Correspondence: <span class="email" tagx="email" title="email">scu_mandela@163.com</span>; Tel.: +86-1588-246-5675</div> </div><span class="pub-date-epub" title="pub-date-epub">epub: <span>2020-3-3</span></span><span class="pub-date-collection" title="pub-date-collection">collection: <span>2020-3</span></span><span class="volume" tagx="volume" title="volume">13</span><span class="issue" tagx="issue" title="issue">6</span><span class="elocation-id" tagx="elocation-id" title="elocation-id">1419</span><span class="history" title="history"><span class="received" title="received">received: 2020-2-13</span><span class="accepted" title="accepted">accepted: 2020-3-18</span></span><div class="permissions"><span class="copyright" title="copyright">(C) , <span class="copyright-year" tagx="copyright-year" title="copyright-year">2020</span></span><span class="license" title="license"><span class="license-p" title="license-p">Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>).</span></span></div> <div class="abstract" title="abstract"> <div class="abstract-title" title="abstract-title">
+Abstract</div> <p>This paper aims to propose an online relative complex permittivity measurement system at high temperature based on microwave interferometer. A ridge waveguide with a TE<sub>10</sub> mode was used in which the sample was heated and measured simultaneously at a frequency of 2450 MHz, and the microwave interferometer is used to collect the amplitude and phase difference of the incident signal. The Extreme Gradient Boosting (XGBoost) algorithm trained by the corresponding simulation data is used to construct the inversion model to calculate the complex dielectric coefficient of the tested material. Besides, this paper uses linear regression algorithm (LR) to calibrate the measurement system in order to improve the measurement accuracy. The entire system was tested using different materials at room temperature, and the maximum error of the measurement accuracy is less than 8% compared to the theoretical data. The robustness of the entire system was also tested by measuring Macor materials up to 800 °C. This proposed method provides an effective way to understand the mechanism between microwaves and matter at high temperatures.</p> </div> <div class="kwd-group"> <div class="kwd" title="kwd">
+dielectric property</div> <div class="kwd" title="kwd">
+microwave interferometer</div> <div class="kwd" title="kwd">
+XGBoost algorithm</div> </div> </div> </div> <div class="body" title="body"> <div class="intro" title="intro"> <div class="title" tagx="title" title="title">
+1. Introduction</div> <p>The dielectric property of material mainly relies on the frequency and temperature. In the high power application of microwaves, the microwave frequency is usually fixed, and the interaction between microwaves and matter at different temperature, especially high temperature, should be investigated [<a href="#B1-materials-13-01419">1</a>,<a href="#B2-materials-13-01419">2</a>,<a href="#B3-materials-13-01419">3</a>,<a href="#B4-materials-13-01419">4</a>,<a href="#B5-materials-13-01419">5</a>]. Meanwhile, in the microwave heating process, thermal runaway always happens. Therefore, it is essential to study the complex permittivity of matter at high temperature in order to avoid the issue of thermal runaway and guide the design of the microwave equipment [<a href="#B6-materials-13-01419">6</a>].</p> <p>The measurement of relative permittivity of materials in high temperature environment has very important requirements in the fields of aerospace, metallurgy, and chemical industry [<a href="#B7-materials-13-01419">7</a>,<a href="#B8-materials-13-01419">8</a>,<a href="#B9-materials-13-01419">9</a>,<a href="#B10-materials-13-01419">10</a>,<a href="#B11-materials-13-01419">11</a>,<a href="#B12-materials-13-01419">12</a>]. The research on electromagnetic parameter measurement has also been the focus of attention in the fields of bioelectromagnetism and materials science [<a href="#B13-materials-13-01419">13</a>,<a href="#B14-materials-13-01419">14</a>,<a href="#B15-materials-13-01419">15</a>,<a href="#B16-materials-13-01419">16</a>]. For example, when the aircraft passes through the atmosphere, the aircraft will rub against the air, which will generate a large amount of heat, so that the surface temperature of the radome reaches about 2400 °C. Therefore, when designing the radome, it is necessary to measure the relative complex permittivity of the material of the radome in the high temperature range to ensure that the temperature does not affect the transmission of electromagnetic waves when the temperature rises. In addition, microwaves have also been widely used in the metallurgical industry [<a href="#B17-materials-13-01419">17</a>,<a href="#B18-materials-13-01419">18</a>,<a href="#B19-materials-13-01419">19</a>,<a href="#B20-materials-13-01419">20</a>]. The temperature of microwave metallurgy can achieve microwave high-temperature sintering, calcination decomposition, reduction, and synthesis at several thousand degrees Celsius. Therefore, in microwave metallurgy, the material needs to be in a high temperature state. Whether to absorb the microwave to make a judgment, so accurate measurement of the high temperature relative complex permittivity of the metallurgical material is very important for microwave metallurgy.</p> <p>In the study of high-temperature dielectric measurement, JG Powles used a rectangular waveguide as a measuring device in the middle of the last century, connected the load at the waveguide end, and then placed the sample under test in the test waveguide, passing the electricity in the measurement system. The parameters complete the relative complex permittivity measurement of polycrystalline ceramic materials at 0.95 GHz and 2.4 GHz [<a href="#B21-materials-13-01419">21</a>]; Vasundara V. Varadan designed a high-temperature relative complex permittivity measurement system based on free space method in their paper [<a href="#B22-materials-13-01419">22</a>]. The system can measure the relative permittivity of materials with a frequency of 5.85–40 GHz and a temperature of 850 °C. The system uses the pair of point-focusing antennas to transmit and receive electromagnetic waves by heating the measured substances in a high-temperature furnace during measurement, and measures the parameters of the experimental system <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> by a vector network analyzer, and then calculates the relative complex permittivity of the material. Yuma Katsuta designed a set of high temperature relative complex permittivity measurement system with a frequency of 2450 MHz using a cylindrical cavity in 2007 [<a href="#B23-materials-13-01419">23</a>], by measuring the signal of the vector network analyzer. The power amplifier is used for amplification, and then the measured substance is heated by microwave heating, and the maximum heating power is up to 100 W. The relative complex permittivity of the measured substance is calculated by the scattering parameter of the cylindrical resonator. Arai et al. designed two different dielectric measurement systems to measure the high temperature relative complex permittivity of ceramic materials up to 1200 °C [<a href="#B7-materials-13-01419">7</a>].</p> <p>This paper proposes an on-line temperature relative complex permittivity measurement system at the frequency of 2450 MHz based on microwave interferometer. A ridge waveguide is designed as the core device of the system, where the tested materials can be placed. The scattering parameters are measured using the microwave power and microwave interferometer. The Extreme Gradient Boosting (XGBoost) [<a href="#B24-materials-13-01419">24</a>] algorithm is used to predict the relative complex permittivity of the tested materials by performing regression training on data sets which are collected by finite difference time domain (FDTD) [<a href="#B25-materials-13-01419">25</a>] simulation. Furthermore, the system uses linear regression algorithm (LR) [<a href="#B26-materials-13-01419">26</a>] to calibrate the system to improve the measurement accuracy. The measurement system also integrates a data acquisition network to realize the automatic acquisition of measurement data for easy operation. The feasibility of the system was verified at room temperature and high temperature. Measurements on relative complex permittivity of the alcohols and Macor materials are also performed to evaluate the performance of the system. The measurement result proved the feasibility of the measurement system.</p> </div> <div class="2.systemdesign" title="sec"> <div class="title" tagx="title" title="title">
+2. System Design</div> <p>In the system, the ridge waveguide is used for heating and measuring, and the structure of ridge waveguide is shown in <a href="#materials-13-01419-f001">Figure 1</a>. The ridge waveguide has a cut-off waveguide on the upper and lower sides, where the test tube is placed. The cut-off waveguide can pass electromagnetic waves above the cutoff frequency, filter out electromagnetic waves below the cutoff frequency to achieve electromagnetic shielding [<a href="#B27-materials-13-01419">27</a>]. Combined with the FDTD (finite difference time domain) simulation, the size of the ridge waveguide is constantly optimized, and the final size of the designed ridged waveguide is shown in <a href="#materials-13-01419-t001">Table 1</a>.</p> <p>The system consists of a solid-state source, a circulator, a dual directional coupler, a ridge waveguide, a matched load power meter, an infrared thermometer, an interferometer module, and a data acquisition module. The measurement system is shown in <a href="#materials-13-01419-f002">Figure 2</a>a. The material to be tested is placed in a quartz glass tube located at the center of the ridge waveguide. In order to solve the problem of non-uniform heating, a double-layer glass tube is used as shown in <a href="#materials-13-01419-f002">Figure 2</a>b. The thickness of the inner and outer layer is 1.5 mm, the thickness of the air layer is 2 mm, and the diameter of the measured material is 10 mm. The power generated by the microwave source is coupled to both ends of the ridge waveguide via a circulator and a dual directional coupler, respectively. The power meter is also connected to a dual directional coupler to measure the input power, output power, and transmission power of the ridge waveguide. Based on the measured power, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> at both ends of the ridge waveguide in the current state can be calculated. By adding a microwave interferometer module to the measurement system, the real-time measurement of the phase of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div></div></span> can be accomplished while using microwave heating.</p> <p>During the heating process, the relative complex permittivity of the material changes with the increase of temperature, and the absorption and reflection of the microwave also change. The change of the reflected power and the transmitted power means the change of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span>, and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span>, indicating that the relative complex permittivity of the material have a certain correspondence with the <i>S</i> parameters. Therefore, the XGBoost algorithm is used to simulate the corresponding relationship. The process of predicting relative complex permittivity with XGBoost algorithm is shown in <a href="#materials-13-01419-f003">Figure 3</a>. First, the data sets with labels used for algorithm training are generated by FDTD simulation, then XGBoost machine learning model is established by Python language, automatic parameter optimization is carried out by grid search method [<a href="#B28-materials-13-01419">28</a>]. Finally, the <i>S</i> parameters measured by experiments can be sent to the well-trained XGBoost algorithm model, then the relative complex permittivity can be predicted.</p> </div> <div class="methods" title="methods"> <div class="title" tagx="title" title="title">
+3. Methodology</div> <div class="3.1.samplesgeneration" title="sec"> <div class="title" tagx="title" title="title">
+3.1. Samples Generation</div> <p>In the measurement of high temperature relative complex permittivity, the construction of sample space is particularly important. When XGBoost algorithm is used to inverse the dielectric properties, it often encounters multi-value problems, which means that different relative complex dielectric coefficients correspond to the same <i>S</i> parameters. In order to solve this problem, the system optimizes the structure of the ridge waveguide model during design, so that the relative complex dielectric coefficient corresponds to the <i>S</i> parameter one by one. The monotonicity of the data is ensured by continuously optimizing the height and width of the ridge and the diameter of the quartz tube combined with the FDTD algorithm. <a href="#materials-13-01419-f004">Figure 4</a>a,b shows the relationship between <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> and dielectric properties of the final ridged waveguide, respectively.</p> <p>It can be seen from <a href="#materials-13-01419-f004">Figure 4</a> that when the real part of the dielectric is in the range of 1–5, there is a multivalued phenomenon of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span>, but the monotonicity is better when the range of the real part of the dielectric is 5–40. However, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> is monotonous in the range of 1–40, basically there is no multi-value phenomenon.</p> <p>In order to reduce the multi-value phenomenon of the inversion calculation better, the XGBoost adopts three input and two output network structures, with <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span> as the input vectors, and the real and imaginary parts of the relative complex permittivity as the output vectors. So there is a certain requirement for the monotonicity of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span>. Therefore, the relationship between <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span> and the relative complex permittivity in the ridge waveguide is calculated with FDTD simulation, as shown in <a href="#materials-13-01419-f005">Figure 5</a>.</p> <p>It can be seen from the figure that with the real part of the relative complex permittivity, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span> decreases gradually. When the real part of the relative complex permittivity is less than 30, there is a multi-valued phenomenon of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span>. However, the combination of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> can effectively avoid the influence of single parameter and multi-value on algorithm inversion, that ensure the accuracy of calculation results.</p> </div> <div class="3.2.algorithmmodelconstruction" title="sec"> <div class="title" tagx="title" title="title">
+3.2. Algorithm Model Construction</div> <p>This paper used the XGBoost algorithm as the core algorithm for inverting relative complex permittivity. Boosting is a machine learning technique algorithm. It is one of the Boosting algorithms, a boost library with linear scale solver and tree learning algorithm developed by Tianqi Chen of the university of Washington in 2016 [<a href="#B24-materials-13-01419">24</a>]. Its biggest characteristic is that it can call CPU manually for multithreading parallel computing, so it is more than ten times faster than the same algorithm under the same condition [<a href="#B29-materials-13-01419">29</a>]. The algorithm is also improved to achieve higher accuracy. The steps can be described as follows:</p> <p>1. Add a regularization term to the target function: </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(1)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+L</div> <div class="mi_UNKNOWN">
+o</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+s</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+l</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Ω</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div></div></div> where <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(2)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Ω</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+f</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
++</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mi_UNKNOWN">
+λ</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+j</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mi_UNKNOWN">
+j</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div></div> <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(3)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> </div></div></div> <p /> <p>Loss is the error function, representing the fitted data of the model. Ω is a regularization term, which represents the parameters of the penalty complex model and is used to solve over fitting. In this paper, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div></div></span> represent the actual and predicted relative complex permittivity (<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div></div></span>,<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> </div> </div></div></span>) respectively. <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> </div></div></span> represents scattering parameters (<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span>,<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span>,<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span>).</p> <p>2. Second-order Taylor expansion is used to expand the error function at <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div></div></span>: </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(4)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+o</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+s</div> <div class="mo_UNKNOWN">
+≈</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+l</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> </div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+t</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+]</div> <div class="mo_UNKNOWN">
++</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+Ω</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+Ω</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div></div></div> where <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(5)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </div> <div class="mi_UNKNOWN">
+l</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div></div></div> <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(6)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msup_UNKNOWN"> <div class="mo_UNKNOWN">
+∂</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mrow_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </div> <div class="mi_UNKNOWN">
+L</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN" /> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+t</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div></div></div> <p /> <p>3. Removing all constant terms and substituting Equation (3) and regular terms (2) into Equation (4), we can get: </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(7)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+o</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+s</div> <div class="mo_UNKNOWN">
+≈</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+[</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> </div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+T</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+λ</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mi_UNKNOWN">
+j</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></div> <p /> <p>4. Defining the sample set on the <i>j</i>-th leaf node as: <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mi_UNKNOWN">
+j</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+{</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+q</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+j</div> </div> </div> </div> <div class="mo_UNKNOWN">
+}</div> </div> </div> </div></div></span>, then converting the sample accumulation operation to operation on the leaf node: </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(8)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+o</div> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+s</div> <div class="mo_UNKNOWN">
+≈</div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+j</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+[</div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="munder_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+∈</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mi_UNKNOWN">
+j</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+g</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mi_UNKNOWN">
+j</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="munder_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+∈</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mi_UNKNOWN">
+j</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+h</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+λ</div> </div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+w</div> <div class="mi_UNKNOWN">
+j</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+]</div> </div> </div> </div> <div class="mi_UNKNOWN">
+γ</div> <div class="mi_UNKNOWN">
+T</div> </div> </div></div></div> <p /> <p>This paper builds the XGBoost machine learning model based on the Python programming language. The mean squared error (<i>MSE</i>), the mean absolute error (<i>MAE</i>), and the coefficient of determination (<span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span>) in the metrics module in s-klearn library are called to evaluate the prediction error [<a href="#B30-materials-13-01419">30</a>]. The <i>MSE</i> and <i>MAE</i> estimated over <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div></div></span> is defined as: </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(9)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+E</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+,</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div></div></div> <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(10)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mi_UNKNOWN">
+A</div> <div class="mi_UNKNOWN">
+E</div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+,</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div> </div> </div></div></div> where <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div></div></span> is the predicted value of the <i>i</i>-th sample, and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div></div></span> is the corresponding actual value. The <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span> estimated over <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div></div></span> is defined: <div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(11)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+,</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mi_UNKNOWN">
+i</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+¯</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </div> </div> </div> </div></div></div> where <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+¯</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> </div> </div> <div class="mstyle_UNKNOWN"> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+s</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+p</div> <div class="mi_UNKNOWN">
+l</div> <div class="mi_UNKNOWN">
+e</div> <div class="mi_UNKNOWN">
+s</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+i</div> </div> </div> </div> </div> </div></div></span>. <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span> provides an index of the degree of accuracy in the predicted samples. The best score of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span> is 1. Besides, the smaller the <i>MSE</i> and <i>MAE</i>, the better the prediction.<p /> <p>After training the XGBoost model with the training data set obtained from FDTD simulation, the parameters of XGBoost model are determined by optimizing the values of <i>MSE</i>, <i>MAE,</i> and R², as shown in <a href="#materials-13-01419-t002">Table 2</a>.</p> <p>After the parameters of XGBoost model are obtained, different data from the training data set is selected to test this model, so that the prediction effect of the algorithm can be evaluated. <a href="#materials-13-01419-f006">Figure 6</a> shows the prediction of the real and imaginary parts of the relative complex permittivity. It can be seen from the above figure that the prediction error of the real part of the complex permittivity can be as low as 1.1%, and when the real part is less than 20, the predicted value is very accurate, the imaginary error is generally below 3%.</p> </div> <div class="3.3.systemcalibration" title="sec"> <div class="title" tagx="title" title="title">
+3.3. System Calibration</div> <p>In order to ensure the accuracy of system measurement, the system needs to be calibrated before measurement to eliminate the error caused by system deviation. This paper uses linear regression algorithm in machine learning to calibrate the system [<a href="#B31-materials-13-01419">31</a>]. The data of several groups of common and easily accessible chemical reagents are measured using the system without calibration. The results show that the measurement results of methanol and ethanol (reagent grade liquid, Chengdu Kelong Chemical Reagent Factory, Chengdu, China) are more accurate and stable, as shown in <a href="#materials-13-01419-t003">Table 3</a>. Therefore, methanol, ethanol, and air test are combined with linear regression algorithm to calibrate the system. The calibration principle is as follows: </p><div class="disp-formula" title="disp-formula"><span class="label" tagx="label" title="label">(12)</span><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mo_UNKNOWN">
+^</div> </div> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+ω</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+S</div> <div class="mo_UNKNOWN">
+)</div> <div class="mo_UNKNOWN">
+=</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+methanol</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ethanol</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+3</div> </div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+air</div> </div> </div> </div> </div></div></div> <p /> <p>Here, we define <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+{</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+2</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mn_UNKNOWN">
+3</div> </div> </div> <div class="mo_UNKNOWN">
+}</div> </div> </div> </div></div></span> as the parameter vector of system drift. <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mo_UNKNOWN">
+=</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+{</div> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+}</div> </div> </div> </div></div></span> is the <i>S</i> parameters after system calibration. <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+methanol</div> </div> </div> </div> </div></div></span>, <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ethanol</div> </div> </div> </div> </div></div></span> and <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+air</div> </div> </div> </div> </div></div></span> represent labeled data sets of methanol, ethanol, and air respectively, that are the <i>S</i> parameters measured and simulated by FDTD algorithm.</p> <p>The drift parameter vector ω of the system can be determined by algorithm and this data. Therefore, when the calibrated system is used for measurement, the calibrated <i>S</i> parameters can be obtained by inputting the measured <i>S</i> parameters, and then sending them to the well-trained XGBoost model for inversion. The results after calibration with regression algorithm are also shown in <a href="#materials-13-01419-t003">Table 3</a>.</p> <p>The results show that the system error reduced after calibration. Therefore, in order to improve the accuracy of system measurement, it is necessary to measure the <i>S</i> parameter values of methanol, ethanol, and air before experiment to calibrate the system. The schematic diagram of system calibration with linear regression algorithm is shown in <a href="#materials-13-01419-f007">Figure 7</a>.</p> </div> </div> <div class="4.measuredresultsanddiscussion" title="sec"> <div class="title" tagx="title" title="title">
+4. Measured Results and Discussion</div> <p>Measurements are conducted to verify the system reliability under room temperature and dynamic high temperatures respectively.</p> <div class="4.1.roomtemperaturemeasurement" title="sec"> <div class="title" tagx="title" title="title">
+4.1. Room Temperature Measurement</div> <p>The easy-to-access chemical substances in the laboratory are used for the experiment. As shown in <a href="#materials-13-01419-t004">Table 4</a>, the relative complex permittivity of methanol and ethanol and the relative complex permittivity of mixed solutions of different chemical solvents were tested using the system. The reference values are obtained by other experiments at the frequency of 2450 MHz [<a href="#B32-materials-13-01419">32</a>], and the values of mixtures can be obtained by the Bruggeman formula [<a href="#B33-materials-13-01419">33</a>]. The measurement errors are all within 8%, which basically meets the general measurement accuracy requirements.</p> </div> <div class="4.2.hightemperaturemeasurement" title="sec"> <div class="title" tagx="title" title="title">
+4.2. High Temperature Measurement</div> <p>Macor materials that are less susceptible to deformation at elevated temperatures are used to verify the relative complex permittivity of the system at elevated temperatures. The experimental results were compared with the results in the reference [<a href="#B34-materials-13-01419">34</a>]. The specific measurement results are shown in <a href="#materials-13-01419-f008">Figure 8</a>.</p> <p>It can be seen from the measurement results that when the temperature is below 400 °C, the measured values of the real and imaginary parts of the relative complex permittivity of Macor are close to those of the reference. When the temperature reaches 500 °C, the real and imaginary parts of the relative complex permittivity of Macor show a certain degree of increase. The measured real part has a certain deviation from the reference value, but the error is small. The value of the imaginary part of the electrical coefficient is still relatively close. When the temperature rises to 600 °C, the change trend of the imaginary part of the complex dielectric constant is still consistent with the reference. The measured value of the real part of the complex dielectric coefficient still has a certain deviation from the reference value, but the change trend is consistent. To some extent, the accuracy of the measurement of the system is proved, and compared with the measurement results in the previous chapter, after adding the phase measurement to the system, the relative complex permittivity of the Macor and the reference are calculated by inversion. The values are closer, indicating that the measurement accuracy of the system is improved compared to the measurement system of the previous chapter, and the measurement accuracy of the system is further optimized.</p> </div> </div> <div class="conclusions" title="conclusions"> <div class="title" tagx="title" title="title">
+5. Conclusions</div> <p>This paper designs an on-line high temperature relative complex permittivity measurement system at a working frequency of 2450 MHz. The core device of the system is a ridge waveguide, and the heating and relative complex permittivity of the sample to be tested are measured by the ridge waveguide; the scattering parameters in the experimental system are measured using a microwave power meter and a microwave interferometer, respectively, and the XGBoost model training is completed to construct an inversion calculation network to realize the calculation and measurement of the relative complex permittivity of the measured substance. The accuracy of the system measured at room temperature was verified using chemical solvents and their mixed solvents with known relative complex dielectric coefficients. The relative complex permittivity of Macor materials up to 800 °C was measured and compared, and the online high temperature relative complex was compared. The measurement results of the electrical coefficient measurement system and the data in the reference documents verify the measurement accuracy of the high temperature relative complex permittivity measurement system in the high temperature range.</p> </div> </div> <div class="back" title="back"> <div class="title" tagx="title" title="title">
+Author Contributions</div> <p>T.H. and L.W. conceived and designed the experiments; Y.W. developed the model, performed the experiments, analyzed the data, and wrote the initial draft of the manuscript; H.Z. reviewed and contributed to the final manuscript; H.Z. helped with the location and equipment. All authors have read and agreed to the published version of the manuscript.</p> <div class="title" tagx="title" title="title">
+Funding</div> <p>This work was supported by the NSFC—China (Grant No. 61701049, 61731013), Science Foundation of the Sichuan Province, China (Grant No. 2017GZ0370).</p> <div class="title" tagx="title" title="title">
+Conflicts of Interest</div> <p>The authors declare no conflict of interest.</p> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+References</div> <li tag="ref"><a name="B1-materials-13-01419" /><span class="label" tagx="label" title="label">1.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ren</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ebadi</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Chen</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">An</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Gong</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Characterization of SiCN ceramic material dielectric properties at high temperatures for harsh environment sensing applications</span><span class="source" tagx="source" title="source">IEEE Trans. Microw. Theory Tech.</span><span class="year" tagx="year" title="year">2012</span><span class="volume" tagx="volume" title="volume">61</span><span class="fpage" tagx="fpage" title="fpage">960</span><span class="lpage" tagx="lpage" title="lpage">971</span><span class="pub-id"><a href="https://dx.doi.org/10.1109/TMTT.2012.2234476">10.1109/TMTT.2012.2234476</a></span></span></li> <li tag="ref"><a name="B2-materials-13-01419" /><span class="label" tagx="label" title="label">2.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Garcia-Baños</span><span class="given-names" tagx="given-names" title="given-names">B.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Catalá-Civera</span><span class="given-names" tagx="given-names" title="given-names">J.M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Peñaranda-Foix</span><span class="given-names" tagx="given-names" title="given-names">F.L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Plaza-González</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Llorens-Vallés</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span></span><span class="mixed-article-title" title="mixed-article-title">In situ monitoring of microwave processing of materials at high temperatures through dielectric properties measurement</span><span class="source" tagx="source" title="source">Materials</span><span class="year" tagx="year" title="year">2016</span><span class="volume" tagx="volume" title="volume">9</span><span class="elocation-id" tagx="elocation-id" title="elocation-id">349</span><span class="pub-id"><a href="https://dx.doi.org/10.3390/ma9050349">10.3390/ma9050349</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/28773471">28773471</a></span></span></li> <li tag="ref"><a name="B3-materials-13-01419" /><span class="label" tagx="label" title="label">3.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yang</span><span class="given-names" tagx="given-names" title="given-names">Z.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Fang</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Liu</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hu</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Chen</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhou</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Dielectric properties and high-temperature dielectric relaxation of tungsten-bronze structure ceramics Ba<sub>2</sub>GdFeNbTa<sub>3</sub>O<sub>15</sub></span><span class="source" tagx="source" title="source">J. Mater. Sci. Mater. El.</span><span class="year" tagx="year" title="year">2012</span><span class="volume" tagx="volume" title="volume">23</span><span class="fpage" tagx="fpage" title="fpage">229</span><span class="lpage" tagx="lpage" title="lpage">233</span><span class="pub-id"><a href="https://dx.doi.org/10.1007/s10854-011-0391-0">10.1007/s10854-011-0391-0</a></span></span></li> <li tag="ref"><a name="B4-materials-13-01419" /><span class="label" tagx="label" title="label">4.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wen</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wu</span><span class="given-names" tagx="given-names" title="given-names">G.L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lei</span><span class="given-names" tagx="given-names" title="given-names">T.Q.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhou</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guo</span><span class="given-names" tagx="given-names" title="given-names">Z.X.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Co-enhanced SiO<sub>2</sub>-BN ceramics for high-temperature dielectric applications</span><span class="source" tagx="source" title="source">J. Eur. Ceram. Soc.</span><span class="year" tagx="year" title="year">2000</span><span class="volume" tagx="volume" title="volume">20</span><span class="fpage" tagx="fpage" title="fpage">1923</span><span class="lpage" tagx="lpage" title="lpage">1928</span><span class="pub-id"><a href="https://dx.doi.org/10.1016/S0955-2219(00)00107-2">10.1016/S0955-2219(00)00107-2</a></span></span></li> <li tag="ref"><a name="B5-materials-13-01419" /><span class="label" tagx="label" title="label">5.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lu</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhang</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wu</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cai</span><span class="given-names" tagx="given-names" title="given-names">W.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Peng</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bo</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kan</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Huang</span><span class="given-names" tagx="given-names" title="given-names">F.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhu</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Oxygen-vacancy-related high-temperature dielectric relaxation in SrTiO<sub>3</sub> ceramics</span><span class="source" tagx="source" title="source">J. Appl. Phys.</span><span class="year" tagx="year" title="year">2010</span><span class="volume" tagx="volume" title="volume">107</span><span class="fpage" tagx="fpage" title="fpage">114101</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.3430987">10.1063/1.3430987</a></span></span></li> <li tag="ref"><a name="B6-materials-13-01419" /><span class="label" tagx="label" title="label">6.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Chandran</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bogdan Neculaes</span><span class="given-names" tagx="given-names" title="given-names">V.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Brisco</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Katz</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Schoonover</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cretegny</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Experimental and numerical studies of microwave power redistribution during thermal runaway</span><span class="source" tagx="source" title="source">J. Appl. Phys.</span><span class="year" tagx="year" title="year">2013</span><span class="volume" tagx="volume" title="volume">114</span><span class="fpage" tagx="fpage" title="fpage">204904</span><span class="pub-id"><a href="https://dx.doi.org/10.1063/1.4832826">10.1063/1.4832826</a></span></span></li> <li tag="ref"><a name="B7-materials-13-01419" /><span class="label" tagx="label" title="label">7.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Arai</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Binner</span><span class="given-names" tagx="given-names" title="given-names">J.G.P.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cross</span><span class="given-names" tagx="given-names" title="given-names">T.E.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Comparison of techniques for measuring high-temperature microwave complex permittivity: Measurements on an Alumina/Zircona system</span><span class="source" tagx="source" title="source">J. Microw. Power. Energy</span><span class="year" tagx="year" title="year">1996</span><span class="volume" tagx="volume" title="volume">31</span><span class="fpage" tagx="fpage" title="fpage">12</span><span class="lpage" tagx="lpage" title="lpage">18</span><span class="pub-id"><a href="https://dx.doi.org/10.1080/08327823.1996.11688287">10.1080/08327823.1996.11688287</a></span></span></li> <li tag="ref"><a name="B8-materials-13-01419" /><span class="label" tagx="label" title="label">8.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Singh</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ohji</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Dong</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Koch</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shimamura</span><span class="given-names" tagx="given-names" title="given-names">K.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Clauss</span><span class="given-names" tagx="given-names" title="given-names">B.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Heidenreich</span><span class="given-names" tagx="given-names" title="given-names">B.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Akedo</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span><span class="source" tagx="source" title="source">Advances in High Temperature Ceramic Matrix Composites and Materials for Sustainable Development</span><span class="publisher-name" tagx="publisher-name" title="publisher-name">John Wiley &amp;amp; Sons</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Hoboken, NJ, USA</span><span class="year" tagx="year" title="year">2017</span></span></li> <li tag="ref"><a name="B9-materials-13-01419" /><span class="label" tagx="label" title="label">9.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">McCann</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Strezov</span><span class="given-names" tagx="given-names" title="given-names">V.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lucas</span><span class="given-names" tagx="given-names" title="given-names">J.A.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Evans</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Strezov</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Iron ore characterisation during high temperature thermal processing</span><span class="source" tagx="source" title="source">Dev. Chem. Eng. Mich.</span><span class="year" tagx="year" title="year">2004</span><span class="volume" tagx="volume" title="volume">12</span><span class="fpage" tagx="fpage" title="fpage">369</span><span class="lpage" tagx="lpage" title="lpage">382</span><span class="pub-id"><a href="https://dx.doi.org/10.1002/apj.5500120412">10.1002/apj.5500120412</a></span></span></li> <li tag="ref"><a name="B10-materials-13-01419" /><span class="label" tagx="label" title="label">10.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rodriguez</span><span class="given-names" tagx="given-names" title="given-names">L.A.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">García</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Grace</span><span class="given-names" tagx="given-names" title="given-names">L.R.</span></span></span><span class="mixed-article-title" title="mixed-article-title">The effect of in-service aerospace contaminants on X-band dielectric properties of a bismaleimide/quartz composite</span><span class="source" tagx="source" title="source">Proceedings of the PPS-30: The 30th International Conference of the Polymer Processing Society—Conference Papers</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">Cleveland, OH, USA</span><span class="conf-date" tagx="conf-date" title="conf-date">6–12 June 2014</span></span></li> <li tag="ref"><a name="B11-materials-13-01419" /><span class="label" tagx="label" title="label">11.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Fasenfest</span><span class="given-names" tagx="given-names" title="given-names">K.D.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Design and characteristic mode analysis of a wideband high permittivity patch antenna</span><span class="source" tagx="source" title="source">Proceedings of the 2015 IEEE International Symposium on Antennas and Propagation &amp;amp; USNC/URSI National Radio Science Meeting</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">Vancouver, BC, Canada</span><span class="conf-date" tagx="conf-date" title="conf-date">19–24 July 2015</span></span></li> <li tag="ref"><a name="B12-materials-13-01419" /><span class="label" tagx="label" title="label">12.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Pilania</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">C.C.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wu</span><span class="given-names" tagx="given-names" title="given-names">K.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sukumar</span><span class="given-names" tagx="given-names" title="given-names">N.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Breneman</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sotzing</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ramprasad</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span></span><span class="mixed-article-title" title="mixed-article-title">New group IV chemical motifs for improved dielectric permittivity of polyethylene</span><span class="source" tagx="source" title="source">J. Chem. Inf. Model.</span><span class="year" tagx="year" title="year">2013</span><span class="volume" tagx="volume" title="volume">53</span><span class="fpage" tagx="fpage" title="fpage">879</span><span class="lpage" tagx="lpage" title="lpage">886</span><span class="pub-id"><a href="https://dx.doi.org/10.1021/ci400033h">10.1021/ci400033h</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23521565">23521565</a></span></span></li> <li tag="ref"><a name="B13-materials-13-01419" /><span class="label" tagx="label" title="label">13.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cao</span><span class="given-names" tagx="given-names" title="given-names">M.S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Song</span><span class="given-names" tagx="given-names" title="given-names">W.L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hou</span><span class="given-names" tagx="given-names" title="given-names">Z.L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wen</span><span class="given-names" tagx="given-names" title="given-names">B.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yuan</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span></span><span class="mixed-article-title" title="mixed-article-title">The effects of temperature and frequency on the dielectric properties, electromagnetic interference shielding and microwave-absorption of short carbon fiber/silica composites</span><span class="source" tagx="source" title="source">Carbon</span><span class="year" tagx="year" title="year">2010</span><span class="volume" tagx="volume" title="volume">48</span><span class="fpage" tagx="fpage" title="fpage">788</span><span class="lpage" tagx="lpage" title="lpage">796</span><span class="pub-id"><a href="https://dx.doi.org/10.1016/j.carbon.2009.10.028">10.1016/j.carbon.2009.10.028</a></span></span></li> <li tag="ref"><a name="B14-materials-13-01419" /><span class="label" tagx="label" title="label">14.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bukhari</span><span class="given-names" tagx="given-names" title="given-names">M.H.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Batool</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Raza</span><span class="given-names" tagx="given-names" title="given-names">D.Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bagasra</span><span class="given-names" tagx="given-names" title="given-names">O.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Rizvi</span><span class="given-names" tagx="given-names" title="given-names">A.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shah</span><span class="given-names" tagx="given-names" title="given-names">A.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Razzaki</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sultan</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span></span><span class="mixed-article-title" title="mixed-article-title">DNA electromagnetic properties and interactions—An investigation on intrinsic bioelectromagnetism within DNA</span><span class="source" tagx="source" title="source">Electromagn. Biol. Med.</span><span class="year" tagx="year" title="year">2018</span><span class="volume" tagx="volume" title="volume">37</span><span class="fpage" tagx="fpage" title="fpage">169</span><span class="lpage" tagx="lpage" title="lpage">174</span><span class="pub-id"><a href="https://dx.doi.org/10.1080/15368378.2018.1499032">10.1080/15368378.2018.1499032</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/30024785">30024785</a></span></span></li> <li tag="ref"><a name="B15-materials-13-01419" /><span class="label" tagx="label" title="label">15.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kumar</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Coronel</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Simunovic</span><span class="given-names" tagx="given-names" title="given-names">J.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Truong</span><span class="given-names" tagx="given-names" title="given-names">V.D.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sandeep</span><span class="given-names" tagx="given-names" title="given-names">K.P.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Measurement of dielectric properties of pumpable food materials under static and continuous flow conditions</span><span class="source" tagx="source" title="source">J. Food Sci.</span><span class="year" tagx="year" title="year">2007</span><span class="volume" tagx="volume" title="volume">72</span><span class="fpage" tagx="fpage" title="fpage">E177</span><span class="lpage" tagx="lpage" title="lpage">E183</span><span class="pub-id"><a href="https://dx.doi.org/10.1111/j.1750-3841.2007.00315.x">10.1111/j.1750-3841.2007.00315.x</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/17995769">17995769</a></span></span></li> <li tag="ref"><a name="B16-materials-13-01419" /><span class="label" tagx="label" title="label">16.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Fang</span><span class="given-names" tagx="given-names" title="given-names">Y.F.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hu</span><span class="given-names" tagx="given-names" title="given-names">R.H.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yang</span><span class="given-names" tagx="given-names" title="given-names">X.Q.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Huang</span><span class="given-names" tagx="given-names" title="given-names">K.M.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Influence of Air Bubbles on the Measurement of Complex Permittivity of Electrolyte Solution</span><span class="source" tagx="source" title="source">Inform. Electr. Eng.</span><span class="year" tagx="year" title="year">2007</span><span class="volume" tagx="volume" title="volume">1</span><span class="fpage" tagx="fpage" title="fpage">52</span><span class="lpage" tagx="lpage" title="lpage">56</span></span></li> <li tag="ref"><a name="B17-materials-13-01419" /><span class="label" tagx="label" title="label">17.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hulls</span><span class="given-names" tagx="given-names" title="given-names">P.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Shute</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Dielectric heating in industry application of radio frequency and microwaves</span><span class="source" tagx="source" title="source">IEEE Proc. A Phys. Sci. Meas. Instrum. Manag. Educ. Rev.</span><span class="year" tagx="year" title="year">1981</span><span class="volume" tagx="volume" title="volume">128</span><span class="fpage" tagx="fpage" title="fpage">583</span><span class="lpage" tagx="lpage" title="lpage">588</span><span class="pub-id"><a href="https://dx.doi.org/10.1049/ip-a-1.1981.0088">10.1049/ip-a-1.1981.0088</a></span></span></li> <li tag="ref"><a name="B18-materials-13-01419" /><span class="label" tagx="label" title="label">18.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bhuyan</span><span class="given-names" tagx="given-names" title="given-names">R.K.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kumar</span><span class="given-names" tagx="given-names" title="given-names">T.S.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Pamu</span><span class="given-names" tagx="given-names" title="given-names">D.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">James</span><span class="given-names" tagx="given-names" title="given-names">A.R.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Structural and Microwave Dielectric Properties of Mg<sub>2</sub>TiO<sub>4</sub>Ceramics Synthesized by Mechanical Method</span><span class="source" tagx="source" title="source">Int. J. Appl. Ceram. Technol.</span><span class="year" tagx="year" title="year">2013</span><span class="volume" tagx="volume" title="volume">10</span><span class="fpage" tagx="fpage" title="fpage">E18</span><span class="lpage" tagx="lpage" title="lpage">E24</span><span class="pub-id"><a href="https://dx.doi.org/10.1111/j.1744-7402.2012.02823.x">10.1111/j.1744-7402.2012.02823.x</a></span></span></li> <li tag="ref"><a name="B19-materials-13-01419" /><span class="label" tagx="label" title="label">19.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Plaksin</span><span class="given-names" tagx="given-names" title="given-names">S.V.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sokolovskiy</span><span class="given-names" tagx="given-names" title="given-names">I.I.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Bistrov</span><span class="given-names" tagx="given-names" title="given-names">N.I.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Netak</span><span class="given-names" tagx="given-names" title="given-names">B.B.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lavrich</span><span class="given-names" tagx="given-names" title="given-names">Y.N.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Pogorelaya</span><span class="given-names" tagx="given-names" title="given-names">L.M.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Application of high power microwaves for heat treatment of metallurgical containers lining</span><span class="source" tagx="source" title="source">Proceedings of the 2013 23rd International Crimean Conference Microwave &amp;amp; Telecommunication Technology</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">Sevastopol, Ukraine</span><span class="conf-date" tagx="conf-date" title="conf-date">8–14 September 2013</span></span></li> <li tag="ref"><a name="B20-materials-13-01419" /><span class="label" tagx="label" title="label">20.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Samouhos</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Taxiarchou</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Kouvelos</span><span class="given-names" tagx="given-names" title="given-names">E.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Novel applications of microwaves in the metallurgical processing of a nickel-ferrous laterite ore and an aluminum industry waste</span><span class="source" tagx="source" title="source">Proceedings of the 3rd International Conference on Competitive Materials and Technology Processes (IC-CMTP3)</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">Miskolc-Lillafüred, Hungary</span><span class="conf-date" tagx="conf-date" title="conf-date">6–10 October 2014</span></span></li> <li tag="ref"><a name="B21-materials-13-01419" /><span class="label" tagx="label" title="label">21.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Powles</span><span class="given-names" tagx="given-names" title="given-names">J.G.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Jackson</span><span class="given-names" tagx="given-names" title="given-names">W.</span></span></span><span class="mixed-article-title" title="mixed-article-title">The measurement of the dielectric properties of high-permittivity materials at centimetre wavelengths</span><span class="source" tagx="source" title="source">Proc. IEE Part III Radio Commun. Eng.</span><span class="year" tagx="year" title="year">1949</span><span class="volume" tagx="volume" title="volume">96</span><span class="fpage" tagx="fpage" title="fpage">383</span><span class="lpage" tagx="lpage" title="lpage">389</span><span class="pub-id"><a href="https://dx.doi.org/10.1049/pi-3.1949.0085">10.1049/pi-3.1949.0085</a></span></span></li> <li tag="ref"><a name="B22-materials-13-01419" /><span class="label" tagx="label" title="label">22.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Varadan</span><span class="given-names" tagx="given-names" title="given-names">V.V.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hollinger</span><span class="given-names" tagx="given-names" title="given-names">R.D.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ghodgaonkar</span><span class="given-names" tagx="given-names" title="given-names">D.K.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Varadan</span><span class="given-names" tagx="given-names" title="given-names">V.K.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Free-space, broadband measurements of high-temperature, complex dielectric properties at microwave frequencies</span><span class="source" tagx="source" title="source">IEEE Trans. Instrum. Meas.</span><span class="year" tagx="year" title="year">1991</span><span class="volume" tagx="volume" title="volume">40</span><span class="fpage" tagx="fpage" title="fpage">842</span><span class="lpage" tagx="lpage" title="lpage">846</span><span class="pub-id"><a href="https://dx.doi.org/10.1109/19.106308">10.1109/19.106308</a></span></span></li> <li tag="ref"><a name="B23-materials-13-01419" /><span class="label" tagx="label" title="label">23.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Katsuta</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nikawa</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Measurement of temperature dependent permittivity for thin material during microwave heating</span><span class="source" tagx="source" title="source">Proceedings of the 2007 Asia-Pacific Microwave Conference</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">Bangkok, Thailand</span><span class="conf-date" tagx="conf-date" title="conf-date">11–14 December 2007</span></span></li> <li tag="ref"><a name="B24-materials-13-01419" /><span class="label" tagx="label" title="label">24.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Chen</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Guestrin</span><span class="given-names" tagx="given-names" title="given-names">C.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Xgboost: A scalable tree boosting system</span><span class="source" tagx="source" title="source">Proceedings of the 22nd Acm Sigkdd International Conference on Knowledge Discovery and Data Mining</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">San Francisco, CA, USA</span><span class="conf-date" tagx="conf-date" title="conf-date">13–17 August 2016</span></span></li> <li tag="ref"><a name="B25-materials-13-01419" /><span class="label" tagx="label" title="label">25.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Betz</span><span class="given-names" tagx="given-names" title="given-names">V.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Mittra</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Comparison and evaluation of boundary conditions for the absorption of guided waves in an FDTD simulation</span><span class="source" tagx="source" title="source">IEEE Microw. Guided Wave Lett.</span><span class="year" tagx="year" title="year">1992</span><span class="volume" tagx="volume" title="volume">2</span><span class="fpage" tagx="fpage" title="fpage">499</span><span class="lpage" tagx="lpage" title="lpage">501</span><span class="pub-id"><a href="https://dx.doi.org/10.1109/75.173408">10.1109/75.173408</a></span></span></li> <li tag="ref"><a name="B26-materials-13-01419" /><span class="label" tagx="label" title="label">26.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">H.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhao</span><span class="given-names" tagx="given-names" title="given-names">Z.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lin</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Feng</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Li</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhao</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wen</span><span class="given-names" tagx="given-names" title="given-names">R.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wei</span><span class="given-names" tagx="given-names" title="given-names">N.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Yao</span><span class="given-names" tagx="given-names" title="given-names">X.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhang</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Leaf area index estimation of spring maize with canopy hyperspectral data based on linear regression algorithm</span><span class="source" tagx="source" title="source">Spectrosc. Spect. Anal.</span><span class="year" tagx="year" title="year">2017</span><span class="volume" tagx="volume" title="volume">37</span><span class="fpage" tagx="fpage" title="fpage">1489</span><span class="lpage" tagx="lpage" title="lpage">1496</span></span></li> <li tag="ref"><a name="B27-materials-13-01419" /><span class="label" tagx="label" title="label">27.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zeng</span><span class="given-names" tagx="given-names" title="given-names">G.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Research and Design of the Property of Ridge Waveguide and Directional Coupler</span><span class="source" tagx="source" title="source">Master’s Thesis</span><span class="publisher-name" tagx="publisher-name" title="publisher-name">Nanjing University of Science and Technology</span><span class="publisher-loc" tagx="publisher-loc" title="publisher-loc">Nanjing, China</span><span class="year" tagx="year" title="year">2012</span><span class="comment">(In Chinese)</span></span></li> <li tag="ref"><a name="B28-materials-13-01419" /><span class="label" tagx="label" title="label">28.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Lerman</span><span class="given-names" tagx="given-names" title="given-names">P.M.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Fitting segmented regression models by grid search</span><span class="source" tagx="source" title="source">J. R. Stat. Soc. C Appl.</span><span class="year" tagx="year" title="year">1980</span><span class="volume" tagx="volume" title="volume">29</span><span class="fpage" tagx="fpage" title="fpage">77</span><span class="lpage" tagx="lpage" title="lpage">84</span><span class="pub-id"><a href="https://dx.doi.org/10.2307/2346413">10.2307/2346413</a></span></span></li> <li tag="ref"><a name="B29-materials-13-01419" /><span class="label" tagx="label" title="label">29.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Chen</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">He</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Benesty</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Khotilovich</span><span class="given-names" tagx="given-names" title="given-names">V.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Tang</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Xgboost: Extreme Gradient Boosting</span><span class="comment">Available online: <a href="https://cran.r-project.org/web/packages/xgboost/vignettes/xgboost.pdf">https://cran.r-project.org/web/packages/xgboost/vignettes/xgboost.pdf</a></span><span class="date-in-citation" tagx="date-in-citation" title="date-in-citation">(accessed on 20 March 2020)</span></span></li> <li tag="ref"><a name="B30-materials-13-01419" /><span class="label" tagx="label" title="label">30.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Pan</span><span class="given-names" tagx="given-names" title="given-names">B.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Application of XGBoost algorithm in hourly PM2.5 concentration prediction</span><span class="source" tagx="source" title="source">Proceedings of the IOP Conference Series: Earth and Environmental Science</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">Harbin, China</span><span class="conf-date" tagx="conf-date" title="conf-date">8–10 December 2017</span></span></li> <li tag="ref"><a name="B31-materials-13-01419" /><span class="label" tagx="label" title="label">31.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Povak</span><span class="given-names" tagx="given-names" title="given-names">N.A.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Hessburg</span><span class="given-names" tagx="given-names" title="given-names">P.F.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">McDonnell</span><span class="given-names" tagx="given-names" title="given-names">T.C.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Reynolds</span><span class="given-names" tagx="given-names" title="given-names">K.M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Sullivan</span><span class="given-names" tagx="given-names" title="given-names">T.J.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Salter</span><span class="given-names" tagx="given-names" title="given-names">R.B.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cosby</span><span class="given-names" tagx="given-names" title="given-names">B.J.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Machine learning and linear regression models to predict catchment-level base cation weathering rates across the southern Appalachian Mountain region, USA</span><span class="source" tagx="source" title="source">Water Resour. Res.</span><span class="year" tagx="year" title="year">2014</span><span class="volume" tagx="volume" title="volume">50</span><span class="fpage" tagx="fpage" title="fpage">2798</span><span class="lpage" tagx="lpage" title="lpage">2814</span><span class="pub-id"><a href="https://dx.doi.org/10.1002/2013WR014203">10.1002/2013WR014203</a></span></span></li> <li tag="ref"><a name="B32-materials-13-01419" /><span class="label" tagx="label" title="label">32.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wu</span><span class="given-names" tagx="given-names" title="given-names">L.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Zhang</span><span class="given-names" tagx="given-names" title="given-names">Y.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Wang</span><span class="given-names" tagx="given-names" title="given-names">F.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Ma</span><span class="given-names" tagx="given-names" title="given-names">W.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Xie</span><span class="given-names" tagx="given-names" title="given-names">T.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Huang</span><span class="given-names" tagx="given-names" title="given-names">K.</span></span></span><span class="mixed-article-title" title="mixed-article-title">An On-Line System for High Temperature Dielectric Property Measurement of Microwave-Assisted Sintering Materials</span><span class="source" tagx="source" title="source">Materials</span><span class="year" tagx="year" title="year">2019</span><span class="volume" tagx="volume" title="volume">12</span><span class="elocation-id" tagx="elocation-id" title="elocation-id">665</span><span class="pub-id"><a href="https://dx.doi.org/10.3390/ma12040665">10.3390/ma12040665</a></span><span class="pub-id"><a href="http://www.ncbi.nlm.nih.gov/pubmed/30813380">30813380</a></span></span></li> <li tag="ref"><a name="B33-materials-13-01419" /><span class="label" tagx="label" title="label">33.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Nelson</span><span class="given-names" tagx="given-names" title="given-names">S.O.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Trabelsi</span><span class="given-names" tagx="given-names" title="given-names">S.</span></span></span><span class="mixed-article-title" title="mixed-article-title">Dielectric properties of agricultural products and applications</span><span class="source" tagx="source" title="source">Res. Agric. Eng.</span><span class="year" tagx="year" title="year">2008</span><span class="volume" tagx="volume" title="volume">54</span><span class="fpage" tagx="fpage" title="fpage">104</span><span class="lpage" tagx="lpage" title="lpage">112</span><span class="pub-id"><a href="https://dx.doi.org/10.17221/1000-RAE">10.17221/1000-RAE</a></span></span></li> <li tag="ref"><a name="B34-materials-13-01419" /><span class="label" tagx="label" title="label">34.</span><span class="element-citation'"><span class="person-group'"><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Aral</span><span class="given-names" tagx="given-names" title="given-names">M.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Binner</span><span class="given-names" tagx="given-names" title="given-names">J.G.P.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Carr</span><span class="given-names" tagx="given-names" title="given-names">G.E.</span></span><span class="name" tagx="name" title="name"><span class="surname" tagx="surname" title="surname">Cross</span><span class="given-names" tagx="given-names" title="given-names">T.E.</span></span></span><span class="mixed-article-title" title="mixed-article-title">High temperature dielectric measurements on ceramics</span><span class="source" tagx="source" title="source">Proceedings of the Sixth International Conference on Dielectric Materials, Measurements and Applications</span><span class="conf-loc" tagx="conf-loc" title="conf-loc">Manchester, UK</span><span class="conf-date" tagx="conf-date" title="conf-date">7–10 September 1992</span></span></li> </ul> </div> </div> <div class="floats-group" title="floats-group"> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 1</span></a></div>   <p>Schematic of ridge waveguide.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 2</span></a></div>   <p>Measurement system diagram: (<b>a</b>) the whole system, (<b>b</b>) top view of the glass tube.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 3</span></a></div>   <p>Inversion flow chart.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 4</span></a></div>   <p>(<b>a</b>) Relationship between <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> and relative complex permittivity; (<b>b</b>) Relationship between <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+|</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+21</div> </div> </div> </div> <div class="mo_UNKNOWN">
+|</div> </div> </div> </div></div></span> and relative complex permittivity.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 5</span></a></div>   <p>Relationship diagram of <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+φ</div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+11</div> </div> </div> </div> </div> </div> </div></div></span> and relative complex permittivity.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 6</span></a></div>   <p>Comparison of the actual and reversed complex permittivity.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 7</span></a></div>   <p>The schematic diagram of system calibration.</p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"><a href="http://doi.org/"><span class="label" tagx="label" title="label">Figure 8</span></a></div>   <p>Comparison of measured and reference relative complex permittivity of Macor.</p>   </div> <div class="table-wrap_UNKNOWN" id="materials-13-01419-t001" orientation="portrait" position="float">
+materials-13-01419-t001_Table 1<span class="label" tagx="label" title="label">Table 1</span> <p>Dimensions of the ridged waveguide.</p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Name</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ridge Width</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ridge Length</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ridge Height</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Observation Hole Radius</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Waveguide Length</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Waveguide Diameter</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Material Hole Radius</th> </tr> </thead> <tbody> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Size (mm)</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">26.9</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">180</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">19.2</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10.8</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">200</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">54.61 × 109.22</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td> </tr> </tbody> </table> </div> <div class="table-wrap_UNKNOWN" id="materials-13-01419-t002" orientation="portrait" position="float">
+materials-13-01419-t002_Table 2<span class="label" tagx="label" title="label">Table 2</span> <p>Parameters of Extreme Gradient Boosting (XGBoost) model.</p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Max_depth</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Learning_rate</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Objective</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">N_estimator</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Booster</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Gamma</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Lambda</th> </tr> </thead> <tbody> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">6</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.1</td> <td align="center" valign="middle" rowspan="1" colspan="1">logistic</td> <td align="center" valign="middle" rowspan="1" colspan="1">1000</td> <td align="center" valign="middle" rowspan="1" colspan="1">gbtree</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.1</td> <td align="center" valign="middle" rowspan="1" colspan="1">3</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Subsample</td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div></div></span><i>MSE</i></td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div></div></span><i>MAE</i></td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span></td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> </div> </div></div></span><i>MSE</i></td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> </div> </div></div></span><i>MAE</i></td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div></div></span></td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.7</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.1683</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.2907</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.9982</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.00101</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0244</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.9889</td> </tr> </tbody> </table> </div> <div class="table-wrap_UNKNOWN" id="materials-13-01419-t003" orientation="portrait" position="float">
+materials-13-01419-t003_Table 3<span class="label" tagx="label" title="label">Table 3</span> <p>Measurement results of methanol and ethanol.</p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Material</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Property</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Before Calibration</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ref [<a href="#B32-materials-13-01419">32</a>]</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Errors</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">After Calibration</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Errors</th> </tr> </thead> <tbody> <tr> <td rowspan="2" align="center" valign="middle" colspan="1">methanol</td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div></div></span></td> <td align="center" valign="middle" rowspan="1" colspan="1">25.2</td> <td align="center" valign="middle" rowspan="1" colspan="1">24.97</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.92%</td> <td align="center" valign="middle" rowspan="1" colspan="1">25.11</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.56%</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> </div> </div></div></span></td> <td align="center" valign="middle" rowspan="1" colspan="1">14.26</td> <td align="center" valign="middle" rowspan="1" colspan="1">14.48</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.51%</td> <td align="center" valign="middle" rowspan="1" colspan="1">14.32</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.10%</td> </tr> <tr> <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">ethanol</td> <td align="center" valign="middle" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div></div></span></td> <td align="center" valign="middle" rowspan="1" colspan="1">8.28</td> <td align="center" valign="middle" rowspan="1" colspan="1">8.94</td> <td align="center" valign="middle" rowspan="1" colspan="1">7.38%</td> <td align="center" valign="middle" rowspan="1" colspan="1">8.72</td> <td align="center" valign="middle" rowspan="1" colspan="1">2.46%</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> </div> </div></div></span></td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.29</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.60</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.08%</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.45</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.97%</td> </tr> </tbody> </table> </div> <div class="table-wrap_UNKNOWN" id="materials-13-01419-t004" orientation="portrait" position="float">
+materials-13-01419-t004_Table 4<span class="label" tagx="label" title="label">Table 4</span> <p>Measurement results at room temperature. ("4 methanol + 1 ethanol" means the volume rate between methanol and ethanol is 4 to 1.)</p>  <table frame="hsides" rules="groups"> <thead> <tr> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Media</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Measured <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div></div></span></th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div></div></span></th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Errors</th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Measured <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> </div> </div></div></span></th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference <span class="inline-formula" title="inline-formula"><div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ε</div> <div class="mi_UNKNOWN">
+r</div> <div class="mo_UNKNOWN">
+″</div> </div> </div> </div></div></span></th> <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Errors</th> </tr> </thead> <tbody> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Ethanol</td> <td align="center" valign="middle" rowspan="1" colspan="1">8.72</td> <td align="center" valign="middle" rowspan="1" colspan="1">8.94</td> <td align="center" valign="middle" rowspan="1" colspan="1">2.46%</td> <td align="center" valign="middle" rowspan="1" colspan="1">7.45</td> <td align="center" valign="middle" rowspan="1" colspan="1">7.60</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.97%</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">Methanol</td> <td align="center" valign="middle" rowspan="1" colspan="1">25.11</td> <td align="center" valign="middle" rowspan="1" colspan="1">24.97</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.56%</td> <td align="center" valign="middle" rowspan="1" colspan="1">14.32</td> <td align="center" valign="middle" rowspan="1" colspan="1">14.48</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.10%</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">4 methanol + 1 ethanol</td> <td align="center" valign="middle" rowspan="1" colspan="1">20.75</td> <td align="center" valign="middle" rowspan="1" colspan="1">21.03</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.33%</td> <td align="center" valign="middle" rowspan="1" colspan="1">13.28</td> <td align="center" valign="middle" rowspan="1" colspan="1">13.04</td> <td align="center" valign="middle" rowspan="1" colspan="1">1.84%</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">2 methanol + 3 ethanol</td> <td align="center" valign="middle" rowspan="1" colspan="1">13.25</td> <td align="center" valign="middle" rowspan="1" colspan="1">14.09</td> <td align="center" valign="middle" rowspan="1" colspan="1">5.96%</td> <td align="center" valign="middle" rowspan="1" colspan="1">10.73</td> <td align="center" valign="middle" rowspan="1" colspan="1">10.14</td> <td align="center" valign="middle" rowspan="1" colspan="1">5.82%</td> </tr> <tr> <td align="center" valign="middle" rowspan="1" colspan="1">4 methanol + 1 N-butanol</td> <td align="center" valign="middle" rowspan="1" colspan="1">19.21</td> <td align="center" valign="middle" rowspan="1" colspan="1">19.17</td> <td align="center" valign="middle" rowspan="1" colspan="1">0.21%</td> <td align="center" valign="middle" rowspan="1" colspan="1">11.66</td> <td align="center" valign="middle" rowspan="1" colspan="1">11.12</td> <td align="center" valign="middle" rowspan="1" colspan="1">4.86%</td> </tr> <tr> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2 methanol + 3 N-butanol</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.31</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.13</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.97%</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.77</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.39</td> <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7.05%</td> </tr> </tbody> </table> </div> </div>  </body></html>

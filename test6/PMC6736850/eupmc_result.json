@@ -1,0 +1,310 @@
+{
+  "id": [
+    "31506477"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31506477"
+  ],
+  "pmcid": [
+    "PMC6736850"
+  ],
+  "doi": [
+    "10.1038/s41598-019-49049-5"
+  ],
+  "title": [
+    "Localized microwave-heating (LMH) of basalt - Lava, dusty-plasma, and ball-lightning ejection by a \"miniature volcano\"."
+  ],
+  "authorString": [
+    "Jerby E, Shoshani Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jerby E"
+          ],
+          "firstName": [
+            "Eli"
+          ],
+          "lastName": [
+            "Jerby"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Faculty of Engineering, Tel Aviv University, Ramat Aviv, 6997801, Israel. jerby@eng.tau.ac.il."
+          ]
+        },
+        {
+          "fullName": [
+            "Shoshani Y"
+          ],
+          "firstName": [
+            "Yoav"
+          ],
+          "lastName": [
+            "Shoshani"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Faculty of Engineering, Tel Aviv University, Ramat Aviv, 6997801, Israel."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2853330"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "12954"
+  ],
+  "abstractText": [
+    "This paper presents various phenomena obtained by localized microwave-heating (LMH) of basalt, including effects of inner core melting, lava eruption and flow (from the molten core outside), plasma ejection from basalt (in forms of fire-column and ball-lightning), and effusion of dust (deposited as powder by the plasma). The experiments are conducted by irradiating a basalt stone (~30-cm3 volume, either naturally shaped or cut to a cubic brick) in a microwave cavity, fed by an adaptively-matched magnetron (~1 kW at 2.45 GHz). Effects of LMH and thermal-runaway instability in basalt are observed and compared to theory. Various in- and ex-situ diagnostics are used in order to characterize the dusty-plasma observed and its nanoparticle products. The resemblance of the experimental phenomena obtained in small laboratory scale to gigantic volcanic phenomena in nature is noticed, and its potential relevance to further volcanic studies is discussed. In particular, we show that LMH could be instrumental for laboratory demonstrations and simulations of miniature-volcano effects, such as lava flows, formation of volcanic glass (obsidian), eruption of dusty-plasma and volcanic ash, and ejection of ball lightning. These findings might be significant as well for various applications, such as drilling and mining, microwave-induced breakdown spectroscopy (MIBS), mineral extraction, and powder production directly from basalts."
+  ],
+  "affiliation": [
+    "Faculty of Engineering, Tel Aviv University, Ramat Aviv, 6997801, Israel. jerby@eng.tau.ac.il."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1896/16"
+          ],
+          "agency": [
+            "Israel Science Foundation (ISF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-49049-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6736850"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6736850?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-49049-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-12"
+  ],
+  "firstIndexDate": [
+    "2019-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-30"
+  ],
+  "dateOfRevision": [
+    "2019-09-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-10"
+  ],
+  "firstPublicationDate": [
+    "2019-09-10"
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "id": [
+    "32405875"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32405875"
+  ],
+  "pmcid": [
+    "PMC7221092"
+  ],
+  "doi": [
+    "10.1186/s11671-020-03327-8"
+  ],
+  "title": [
+    "Molecular Sieve-Modified Separator for High-Performance Lithium-Ion Batteries."
+  ],
+  "authorString": [
+    "Kang Y, Deng C, Wang Z, Chen Y, Liu X, Liang Z, Li T, Hu Q, Zhao Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kang Y"
+          ],
+          "firstName": [
+            "Yuqiong"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Division of Energy and Environment, Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen, Tsinghua University, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng C"
+          ],
+          "firstName": [
+            "Changjian"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Hoffmann Institute of Advanced Materials, Shenzhen Polytechnic, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhengyang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Division of Energy and Environment, Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen, Tsinghua University, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yuqing"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Division of Energy and Environment, Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen, Tsinghua University, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xinyi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, Northern Illinois University, DeKalb, IL, 60115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Stanford University, Stanford, CA, 94305, USA. lianzhen@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Li T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, Northern Illinois University, DeKalb, IL, 60115, USA. tli4@niu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Q"
+          ],
+          "firstName": [
+            "Quan"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Changsha Nanoapparatus Co., Ltd, Changsha, 410017, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6003-3136",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Energy and Environment, Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen, Tsinghua University, Shenzhen, 518055, China. yzhao.zjut@hotmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6003-3136",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2949376"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nanoscale research letters"
+          ],
+          "ISOAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "medlineAbbreviation": [
+            "Nanoscale Res Lett"
+          ],
+          "NLMid": [
+            "101279750"
+          ],
+          "ISSN": [
+            "1931-7573"
+          ],
+          "ESSN": [
+            "1556-276X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "107"
+  ],
+  "abstractText": [
+    "Lithium-ion batteries (LIBs) are currently the most important energy storage system. Separators in the battery play a critical role in terms of the rate capability, cycle life, and safe operation. However, commercial separators exhibit poor electrolyte wettability and limited safety. It is also extremely important to eliminate the hazardous small molecules (e.g., H2O and HF) inside the battery to enhance the service life. Herein, a functionalized poly(vinylidene fluoride-co-hexafluoropropylene)@polyacrylonitrile (PVDF-HFP@PAN) separator modified by 4-Å molecular sieves (MS) was fabricated by hydrothermal method for LIBs. MS@PVDF-HFP@PAN separator exhibits high thermal stability and carbonate electrolyte wettability. In addition, it can lower the moisture value in the battery system to 13 ppm, which significantly improves the electrolyte quality. When the current density increased from 0.2 to 5 C, the discharging capacity of the cell with MS@PVDF-HFP@PAN declines from 177.6 to 143.2 mAh g-1, demonstrating an excellent capacity retention of 80.6%. The discharge capacity retention of NMC622 half-cell with MS@PVDF-HFP@PAN after 100 cycles is 98.6% of its initial discharge capacity, which is higher than that of a cell with the Celgard 2400 separator (91.9%)."
+  ],
+  "affiliation": [
+    "Division of Energy and Environment, Engineering Laboratory for the Next Generation Power and Energy Storage Batteries Graduate School at Shenzhen, Tsinghua University, Shenzhen, 518055, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Separator",
+        "Electrospinning",
+        "water absorption",
+        "Lithium-ion Batteries",
+        "Molecular Sieves"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11671-020-03327-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7221092"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7221092?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11671-020-03327-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-15"
+  ],
+  "firstIndexDate": [
+    "2020-05-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-17"
+  ],
+  "dateOfRevision": [
+    "2020-05-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-13"
+  ],
+  "firstPublicationDate": [
+    "2020-05-13"
+  ]
+}
