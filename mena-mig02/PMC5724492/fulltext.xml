@@ -1,0 +1,845 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Virol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1096-9071</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5724492</article-id><article-id pub-id-type="doi">10.1002/jmv.24921</article-id><article-id pub-id-type="publisher-id">JMV24921</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Hepatitis C virus genotypes in the Middle East and North Africa: Distribution, diversity, and patterns</article-title></title-group><contrib-group><contrib id="jmv24921-cr-0001" contrib-type="author"><name><surname>Mahmud</surname><given-names>Sarwat</given-names></name><xref ref-type="aff" rid="jmv24921-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv24921-cr-0002" contrib-type="author"><name><surname>Al&#x02010;Kanaani</surname><given-names>Zaina</given-names></name><xref ref-type="aff" rid="jmv24921-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv24921-cr-0003" contrib-type="author"><name><surname>Chemaitelly</surname><given-names>Hiam</given-names></name><xref ref-type="aff" rid="jmv24921-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv24921-cr-0004" contrib-type="author"><name><surname>Chaabna</surname><given-names>Karima</given-names></name><xref ref-type="aff" rid="jmv24921-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv24921-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv24921-cr-0005" contrib-type="author"><name><surname>Kouyoumjian</surname><given-names>Silva P.</given-names></name><xref ref-type="aff" rid="jmv24921-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv24921-cr-0006" contrib-type="author" corresp="yes"><name><surname>Abu&#x02010;Raddad</surname><given-names>Laith J.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0790-0506</contrib-id><address><email>lja2002@qatar-med.cornell.edu</email></address><xref ref-type="aff" rid="jmv24921-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv24921-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jmv24921-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Infectious Disease Epidemiology Group, Weill Cornell Medicine&#x02014;Qatar</named-content>
+<institution>Cornell University</institution>
+<institution>Qatar Foundation&#x02014;Education City</institution>
+<named-content content-type="city">Doha</named-content>
+<country country="QA">Qatar</country>
+</aff><aff id="jmv24921-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Healthcare Policy &#x00026; Research, Weill Cornell Medicine</named-content>
+<institution>Cornell University</institution>
+<country country="US">New York</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Laith J. Abu&#x02010;Raddad, Infectious Disease Epidemiology Group, Weill Cornell Medicine&#x02014;Qatar, Qatar Foundation&#x02014;Education City, P.O. Box 24144, Doha, Qatar.<break/></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>9</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2018</year></pub-date><volume>90</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/jmv.v90.1</issue-id><fpage>131</fpage><lpage>141</lpage><history><date date-type="received"><day>09</day><month>7</month><year>2017</year></date><date date-type="accepted"><day>17</day><month>8</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Journal of Medical Virology</italic> Published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JMV-90-131.pdf"/><abstract><p>Our objective was to characterize the distribution, diversity and patterns of hepatitis C virus (HCV) genotypes in the Middle East and North Africa (MENA). Source of data was a database of HCV genotype studies in MENA populated using a series of systematic literature searches. Pooled mean proportions were estimated for each genotype and by country using DerSimonian&#x02010;Laird random&#x02010;effects meta&#x02010;analyses. Genotype diversity within countries was assessed using Shannon Diversity Index. Number of chronic infections by genotype and country was calculated using the pooled proportions and country&#x02010;specific numbers of chronic infection. Analyses were conducted on 338 genotype studies including 82&#x02009;257 genotyped individuals. Genotype 1 was dominant (&#x02265;50%) in Algeria, Iran, Morocco, Oman, Tunisia, and UAE, and was overall ubiquitous across the region. Genotype 2 was common (10&#x02010;50%) in Algeria, Bahrain, Libya, and Morocco. Genotype 3 was dominant in Afghanistan and Pakistan. Genotype 4 was dominant in Egypt, Iraq, Jordan, Palestine, Qatar, Saudi Arabia, and Syria. Genotypes 5, 6, and 7 had limited or no presence across countries. Genotype diversity varied immensely throughout MENA. Weighted by population size, MENA's chronic infections were highest among genotype 3, followed by genotype 4, genotype 1, genotype 2, genotype 5, and genotype 6. Despite ubiquitous presence of genotype 1, the vast majority of chronic infections were of genotypes 3 or 4, because of the sizable epidemics in Pakistan and Egypt. Three sub&#x02010;regional patterns were identified: genotype 3 pattern centered in Pakistan, genotype 4 pattern centered in Egypt, and genotype 1 pattern ubiquitous in most MENA countries.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jmv24921-kwd-0001">epidemiology</kwd><kwd id="jmv24921-kwd-0002">genotype</kwd><kwd id="jmv24921-kwd-0003">Hepatitis C virus</kwd><kwd id="jmv24921-kwd-0004">meta&#x02010;analysis</kwd><kwd id="jmv24921-kwd-0005">Middle East and North Africa</kwd><kwd id="jmv24921-kwd-0006">transmission</kwd></kwd-group><funding-group><award-group><funding-source>Qatar National Research Fund</funding-source><award-id>9&#x02010;040&#x02010;3&#x02010;008</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="11"/><word-count count="5144"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jmv24921</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.8 mode:remove_FC converted:11.12.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jmv24921-cit-000A">
+<string-name>
+<surname>Mahmud</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Al&#x02010;Kanaani</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Chemaitelly</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Chaabna</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Kouyoumjian</surname>
+<given-names>SP</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Hepatitis C virus genotypes in the Middle East and North Africa: Distribution, diversity, and patterns</article-title>. 
+<source>J Med Virol</source>. 
+<year>2018</year>;<volume>90:</volume>
+<fpage>131</fpage>&#x02013;<lpage>141</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/jmv.24921">https://doi.org/10.1002/jmv.24921</ext-link>
+<pub-id pub-id-type="pmid">28842995</pub-id></mixed-citation>
+</p></notes></front><body><sec id="jmv24921-sec-0002"><label>1</label><title>INTRODUCTION</title><p>Hepatitis C virus (HCV) is a blood&#x02010;borne pathogen, with the majority of chronically infected individuals showing clinical manifestations 20&#x02010;30 years after the onset of infection.<xref rid="jmv24921-bib-0001" ref-type="ref">1</xref> Chronic HCV infection causes several morbidities, such as liver cirrhosis and liver cancer, and is a main indication for liver transplantation.<xref rid="jmv24921-bib-0002" ref-type="ref">2</xref>, <xref rid="jmv24921-bib-0003" ref-type="ref">3</xref>, <xref rid="jmv24921-bib-0004" ref-type="ref">4</xref> HCV related morbidity and mortality place a burden on healthcare systems worldwide, as an estimated 62&#x02010;79 million people are chronically infected, globally.<xref rid="jmv24921-bib-0005" ref-type="ref">5</xref> The Middle East and North Africa (MENA) region is the most affected by HCV infection, with over 15 million chronically infected individuals.<xref rid="jmv24921-bib-0005" ref-type="ref">5</xref>, <xref rid="jmv24921-bib-0006" ref-type="ref">6</xref>
+</p><p>HCV demonstrates substantial genetic diversity and can be classified into seven main genotypes, numbered from one to seven, and 67 subtypes.<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref> HCV genotype distribution varies across the globe.<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref>, <xref rid="jmv24921-bib-0008" ref-type="ref">8</xref> Genotypes 1 and three are prevalent genotypes worldwide, while genotype two is common in West Africa and South America, and genotypes 4 and 6 are common in Central/North Africa and East/Southern Asia, respectively.<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref>, <xref rid="jmv24921-bib-0008" ref-type="ref">8</xref>
+</p><p>Knowledge of HCV genotype distribution, diversity, and patterns contribute to effective control of HCV infection.<xref rid="jmv24921-bib-0009" ref-type="ref">9</xref> Genotype distribution can reveal inferences about the modes of transmission and sources of infection.<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref>, <xref rid="jmv24921-bib-0010" ref-type="ref">10</xref> Importantly, HCV genotype is a predictor of response to direct&#x02010;acting antiviral (DAA) treatment, and is therefore integral in selection and duration of interferon&#x02010;free DAA regimens.<xref rid="jmv24921-bib-0011" ref-type="ref">11</xref> As such, this study aims to characterize the distribution, diversity, and patterns of HCV genotypes in MENA by (1) estimating the country&#x02010;specific pooled mean proportions of HCV genotypes; (2) assessing the country&#x02010;specific genotype diversity; and (3) estimating the country&#x02010;specific number of chronically infected individuals by genotype. This study was conducted under the umbrella of the MENA HCV Epidemiology Synthesis Project, an on&#x02010;going effort to characterize HCV epidemiology and inform key public health research, policy and programming priorities in MENA.<xref rid="jmv24921-bib-0012" ref-type="ref">12</xref>, <xref rid="jmv24921-bib-0013" ref-type="ref">13</xref>, <xref rid="jmv24921-bib-0014" ref-type="ref">14</xref>, <xref rid="jmv24921-bib-0015" ref-type="ref">15</xref>, <xref rid="jmv24921-bib-0016" ref-type="ref">16</xref>, <xref rid="jmv24921-bib-0017" ref-type="ref">17</xref>, <xref rid="jmv24921-bib-0018" ref-type="ref">18</xref>, <xref rid="jmv24921-bib-0019" ref-type="ref">19</xref>, <xref rid="jmv24921-bib-0020" ref-type="ref">20</xref>
+</p></sec><sec id="jmv24921-sec-0003"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jmv24921-sec-0004"><label>2.1</label><title>Data sources</title><p>The source of data for our study was the MENA HCV Epidemiology Synthesis Project database, a comprehensive database of HCV epidemiological measures.<xref rid="jmv24921-bib-0012" ref-type="ref">12</xref>, <xref rid="jmv24921-bib-0013" ref-type="ref">13</xref>, <xref rid="jmv24921-bib-0014" ref-type="ref">14</xref>, <xref rid="jmv24921-bib-0015" ref-type="ref">15</xref>, <xref rid="jmv24921-bib-0016" ref-type="ref">16</xref>, <xref rid="jmv24921-bib-0017" ref-type="ref">17</xref>, <xref rid="jmv24921-bib-0018" ref-type="ref">18</xref>, <xref rid="jmv24921-bib-0019" ref-type="ref">19</xref>, <xref rid="jmv24921-bib-0020" ref-type="ref">20</xref> The database consists of several sub&#x02010;databases such as an HCV genotype frequency sub&#x02010;database comprised of 338 HCV genotype studies among 82&#x02009;257 participants, an HCV antibody prevalence sub&#x02010;database comprised of 2543 antibody prevalence studies among 51&#x02009;598&#x02009;736 participants, and an HCV RNA prevalence (among antibody positive persons) database comprised of 178 RNA prevalence studies among 19&#x02009;593 HCV antibody positive participants. The MENA HCV Epidemiology Synthesis Project database was populated through a series of systematic reviews for HCV infection across MENA.<xref rid="jmv24921-bib-0012" ref-type="ref">12</xref>, <xref rid="jmv24921-bib-0013" ref-type="ref">13</xref>, <xref rid="jmv24921-bib-0014" ref-type="ref">14</xref>, <xref rid="jmv24921-bib-0015" ref-type="ref">15</xref>, <xref rid="jmv24921-bib-0016" ref-type="ref">16</xref>, <xref rid="jmv24921-bib-0017" ref-type="ref">17</xref>, <xref rid="jmv24921-bib-0018" ref-type="ref">18</xref>, <xref rid="jmv24921-bib-0019" ref-type="ref">19</xref>, <xref rid="jmv24921-bib-0020" ref-type="ref">20</xref> The reviews were informed by Cochrane Collaboration handbook<xref rid="jmv24921-bib-0021" ref-type="ref">21</xref> and reported their findings using the Preferred Reporting Items for Systematic reviews and Meta&#x02010;analyses (PRISMA) guidelines.<xref rid="jmv24921-bib-0022" ref-type="ref">22</xref>
+</p><p>Data sources for these reviews included peer&#x02010;reviewed publications identified through international scientific databases (PubMed and Embase), regional and country&#x02010;level scientific databases (World Health Organization [WHO] Index Medicus for the Eastern Mediterranean Region, the Iraqi Academic Scientific Journals&#x02019; database, Iran's Scientific Information Database, among others), MENA HIV/AIDS Epidemiology Synthesis Project database,<xref rid="jmv24921-bib-0023" ref-type="ref">23</xref>, <xref rid="jmv24921-bib-0024" ref-type="ref">24</xref> abstract archives of non&#x02010;indexed international conferences, and gray literature comprised of public health reports and routine data reporting. Broad search criteria were used combining medical index terms exploded to cover all subheadings and free text terms for HCV and country names, to ensure inclusiveness. No language restrictions were used as non&#x02010;English articles were extracted by native speakers. Screening of articles was restricted to those published after 1989, the year in which HCV was first identified.<xref rid="jmv24921-bib-0025" ref-type="ref">25</xref>, <xref rid="jmv24921-bib-0026" ref-type="ref">26</xref>
+</p><p>Our definition of MENA included 24 countries: Afghanistan, Algeria, Bahrain, Djibouti, Egypt, Iran, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tunisia, the United Arab Emirates (UAE), and Yemen. Genotype information for all articles retrieved during these systematic literatures searches were extracted and subsequently used to populate the HCV genotype sub&#x02010;database. Individuals with untypeable HCV genotypes were removed from the overall sample size in each study. Individuals with mixed HCV genotypes and subtype contributed separately to the quantification of each genotype and subtype.</p></sec><sec id="jmv24921-sec-0005"><label>2.2</label><title>Meta&#x02010;analyses of genotype proportions</title><p>DerSimonian&#x02010;Laird random&#x02010;effects meta&#x02010;analyses with inverse variance weighting<xref rid="jmv24921-bib-0027" ref-type="ref">27</xref> were performed to estimate the country&#x02010;specific pooled mean proportion for each HCV genotype and the corresponding 95% confidence interval (CI). The variance was stabilized using the Freeman&#x02010;Tukey type arcsine square&#x02010;root transformation.<xref rid="jmv24921-bib-0028" ref-type="ref">28</xref> Cochran's <italic>Q</italic> test was conducted to assess heterogeneity in effect size; a <italic>P</italic>&#x02010;value &#x0003c;0.1 was considered significant.<xref rid="jmv24921-bib-0027" ref-type="ref">27</xref>, <xref rid="jmv24921-bib-0029" ref-type="ref">29</xref> The I<sup>2</sup> was calculated to assess the proportion of between&#x02010;study variation in effect size that is due to true differences between studies rather than chance<xref rid="jmv24921-bib-0027" ref-type="ref">27</xref>. The meta&#x02010;analyses were performed when at least three measures were available for each pooled category. The mean of reported proportions was calculated whenever only two measures were available. A genotype was considered dominant if the mean proportion was &#x02265;50%, common if the mean proportion was between 10% and 50%, and limited if the mean proportion was &#x0003c;10%. Statistical analyses were performed on R version 3.1.2,<xref rid="jmv24921-bib-0030" ref-type="ref">30</xref> and geographical mapping was conducted on Tableau 10.1.<xref rid="jmv24921-bib-0031" ref-type="ref">31</xref>
+</p></sec><sec id="jmv24921-sec-0006"><label>2.3</label><title>Analyses of genotype diversity</title><p>The diversity of HCV genotypes was assessed by calculating the Shannon Diversity Index, with higher scores indicating more diversity.<xref rid="jmv24921-bib-0032" ref-type="ref">32</xref> Assuming equal distribution of the seven HCV genotypes (that is highest diversity possible),<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref> the highest Shannon Diversity Index score attainable is 1.95.<xref rid="jmv24921-bib-0032" ref-type="ref">32</xref>
+</p></sec><sec id="jmv24921-sec-0007"><label>2.4</label><title>Estimation of number of HCV chronically infected individuals with each genotype</title><p>The country&#x02010;specific number of chronically infected individuals with each genotype was calculated by multiplying the country&#x02010;specific pooled mean proportion for each genotype by the number of individuals with chronic HCV infection in each country as estimated by Chemaitelly et al<xref rid="jmv24921-bib-0033" ref-type="ref">33</xref> The latter was calculated based on mathematical modeling and meta&#x02010;analyses using the HCV antibody prevalence and HCV RNA prevalence sub&#x02010;databases of the MENA HCV Epidemiology Synthesis Project database.<xref rid="jmv24921-bib-0012" ref-type="ref">12</xref>, <xref rid="jmv24921-bib-0013" ref-type="ref">13</xref>, <xref rid="jmv24921-bib-0014" ref-type="ref">14</xref>, <xref rid="jmv24921-bib-0015" ref-type="ref">15</xref>, <xref rid="jmv24921-bib-0016" ref-type="ref">16</xref>, <xref rid="jmv24921-bib-0017" ref-type="ref">17</xref>, <xref rid="jmv24921-bib-0018" ref-type="ref">18</xref>, <xref rid="jmv24921-bib-0019" ref-type="ref">19</xref>, <xref rid="jmv24921-bib-0020" ref-type="ref">20</xref> The country&#x02010;specific pooled mean proportion for each genotype was adjusted so that the sum of all genotype proportions totaled 100%. Demographics for each country was obtained from the United Nations 2015 World Population Prospects database.<xref rid="jmv24921-bib-0034" ref-type="ref">34</xref>
+</p></sec></sec><sec id="jmv24921-sec-0008"><label>3</label><title>RESULTS</title><sec id="jmv24921-sec-0009"><label>3.1</label><title>Scope of the evidence</title><p>Supplementary Table S1 lists the details of the 338 identified HCV genotype studies in MENA including 82&#x02009;257 genotyped individuals. Genotype information was available for 20 of the 24 included countries, 15 of which had sufficient number of studies to conduct meta&#x02010;analyses (Table <xref rid="jmv24921-tbl-0001" ref-type="table-wrap">1</xref>). There were too few studies from Bahrain, Kuwait, Oman, Qatar, and Sudan to perform meta&#x02010;analyses. Additionally, the study from Sudan had an insignificant sample size (<italic>n</italic>&#x02009;=&#x02009;4; all of which were genotype 4), and therefore was excluded from further analyses. No studies were identified from Djibouti, Mauritania, Somalia, and Yemen; these countries were also excluded from further analysis. Pakistan had the largest number of studies (<italic>n</italic>&#x02009;=&#x02009;92) and the largest sample size of genotyped individuals (<italic>N</italic>&#x02009;=&#x02009;36&#x02009;111). Iran was second with 66 studies including 23&#x02009;134 genotyped individuals. Each of the remaining countries had less than 10&#x02009;000 genotyped individuals (Table <xref rid="jmv24921-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="jmv24921-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Country&#x02010;specific pooled mean proportion for each hepatitis C virus (HCV) genotype across the Middle East and North Africa (MENA)</p></caption><table frame="below" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Studies</th><th align="left" valign="bottom" rowspan="1" colspan="1">Samples</th><th align="left" valign="bottom" rowspan="1" colspan="1">Proportion (actual studies)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Proportion (meta&#x02010;analysis)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Heterogeneity measures</th></tr><tr><th align="left" valign="bottom" rowspan="1" colspan="1">Country</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total <italic>N</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total <italic>n</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Range (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">95%CI<xref ref-type="fn" rid="jmv24921-note-0002">
+<sup>a</sup>
+</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Q (<italic>P</italic>&#x02010;value)<xref ref-type="fn" rid="jmv24921-note-0003">
+<sup>b</sup>
+</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>I</italic>
+<sup>2</sup> (confidence limits)<xref ref-type="fn" rid="jmv24921-note-0004">
+<sup>c</sup>
+</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Genotype 1</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Afghanistan</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;47.8</td><td align="left" rowspan="1" colspan="1">34.6</td><td align="left" rowspan="1" colspan="1">20.8&#x02010;49.5</td><td align="left" rowspan="1" colspan="1">1.7 (<italic>P</italic>&#x02009;=&#x02009;0.440)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Algeria</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">3806</td><td align="left" rowspan="1" colspan="1">55.6&#x02010;88.8</td><td align="left" rowspan="1" colspan="1">78.0</td><td align="left" rowspan="1" colspan="1">70.2&#x02010;85.0</td><td align="left" rowspan="1" colspan="1">110.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">94.6 (91.1&#x02010;96.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bahrain</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">107</td><td align="left" rowspan="1" colspan="1">47.9&#x02010;55.6</td><td align="left" rowspan="1" colspan="1">48.6</td><td align="left" rowspan="1" colspan="1">39.3&#x02010;58.0</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Egypt</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">5031</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;25.0</td><td align="left" rowspan="1" colspan="1">2.5</td><td align="left" rowspan="1" colspan="1">1.3&#x02010;4.1</td><td align="left" rowspan="1" colspan="1">177.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">74.1 (65.5&#x02010;80.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">23&#x02009;134</td><td align="left" rowspan="1" colspan="1">13.5&#x02010;100</td><td align="left" rowspan="1" colspan="1">56.3</td><td align="left" rowspan="1" colspan="1">52.9&#x02010;59.6</td><td align="left" rowspan="1" colspan="1">1022.4 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">93.6 (92.5&#x02010;94.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iraq</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">681</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;71.4</td><td align="left" rowspan="1" colspan="1">34.7</td><td align="left" rowspan="1" colspan="1">22.6&#x02010;47.7</td><td align="left" rowspan="1" colspan="1">143.1 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">87.4 (81.8&#x02010;91.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Jordan</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;73.3</td><td align="left" rowspan="1" colspan="1">22.8</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;66.8</td><td align="left" rowspan="1" colspan="1">31.8 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">90.6 (78.9&#x02010;95.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kuwait</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">27.8</td><td align="left" rowspan="1" colspan="1">20.2&#x02010;36.9</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lebanon</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">543</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;100</td><td align="left" rowspan="1" colspan="1">38.9</td><td align="left" rowspan="1" colspan="1">30.4&#x02010;47.7</td><td align="left" rowspan="1" colspan="1">51.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">63.3 (40.6&#x02010;77.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Libya</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">4236</td><td align="left" rowspan="1" colspan="1">28.6&#x02010;35.8</td><td align="left" rowspan="1" colspan="1">32.8</td><td align="left" rowspan="1" colspan="1">31.0&#x02010;34.7</td><td align="left" rowspan="1" colspan="1">8.5 (<italic>P</italic>&#x02009;=&#x02009;0.132)</td><td align="left" rowspan="1" colspan="1">41.0 (0.0&#x02010;76.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Morocco</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">2636</td><td align="left" rowspan="1" colspan="1">35.6&#x02010;100</td><td align="left" rowspan="1" colspan="1">69.4</td><td align="left" rowspan="1" colspan="1">53.7&#x02010;83.2</td><td align="left" rowspan="1" colspan="1">386.4 (p &#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">96.9 (95.8&#x02010;97.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oman</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">54.5</td><td align="left" rowspan="1" colspan="1">38.0&#x02010;70.2</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pakistan</td><td align="left" rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">36&#x02009;111</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;64.1</td><td align="left" rowspan="1" colspan="1">9.1</td><td align="left" rowspan="1" colspan="1">7.4&#x02010;11.0</td><td align="left" rowspan="1" colspan="1">1962.9 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">95.4 (94.8&#x02010;95.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Palestine</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">152</td><td align="left" rowspan="1" colspan="1">8.7&#x02010;50.0</td><td align="left" rowspan="1" colspan="1">19.9</td><td align="left" rowspan="1" colspan="1">7.4&#x02010;35.6</td><td align="left" rowspan="1" colspan="1">5.7 (<italic>P</italic>&#x02009;=&#x02009;0.129)</td><td align="left" rowspan="1" colspan="1">47.0 (0.0&#x02010;82.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Qatar</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">400</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">19.8</td><td align="left" rowspan="1" colspan="1">16.1&#x02010;23.9</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Saudi Arabia</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">2652</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;75.0</td><td align="left" rowspan="1" colspan="1">34.4</td><td align="left" rowspan="1" colspan="1">27.5&#x02010;41.6</td><td align="left" rowspan="1" colspan="1">213.2 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">89.7 (85.8&#x02010;92.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Syria</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">674</td><td align="left" rowspan="1" colspan="1">10.0&#x02010;60.7</td><td align="left" rowspan="1" colspan="1">33.5</td><td align="left" rowspan="1" colspan="1">12.1&#x02010;58.9</td><td align="left" rowspan="1" colspan="1">13.4 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">85.0 (55.8&#x02010;94.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tunisia</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">1578</td><td align="left" rowspan="1" colspan="1">50.0&#x02010;100</td><td align="left" rowspan="1" colspan="1">85.9</td><td align="left" rowspan="1" colspan="1">78.0&#x02010;92.5</td><td align="left" rowspan="1" colspan="1">196.2 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">89.3 (85.2&#x02010;92.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">UAE</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">233</td><td align="left" rowspan="1" colspan="1">26.9&#x02010;75.0</td><td align="left" rowspan="1" colspan="1">52.4</td><td align="left" rowspan="1" colspan="1">30.8&#x02010;73.7</td><td align="left" rowspan="1" colspan="1">23.5 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">87.2 (69.4&#x02010;94.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>MENA</bold>
+</td><td align="left" rowspan="1" colspan="1">338</td><td align="left" rowspan="1" colspan="1">82&#x02009;257</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;100</td><td align="left" rowspan="1" colspan="1">30.2</td><td align="left" rowspan="1" colspan="1">26.8&#x02010;33.8</td><td align="left" rowspan="1" colspan="1">31841 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">98.9 (98.9&#x02010;99.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Genotype 2</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Afghanistan</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.6 (<italic>P</italic>&#x02009;=&#x02009;0.732)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Algeria</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">3806</td><td align="left" rowspan="1" colspan="1">8.6&#x02010;37.0</td><td align="left" rowspan="1" colspan="1">15.3</td><td align="left" rowspan="1" colspan="1">9.6&#x02010;22.0</td><td align="left" rowspan="1" colspan="1">98.8 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">93.9 (89.9&#x02010;96.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bahrain</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">107</td><td align="left" rowspan="1" colspan="1">9.2&#x02010;33.3</td><td align="left" rowspan="1" colspan="1">11.2</td><td align="left" rowspan="1" colspan="1">6.5&#x02010;18.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Egypt</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">5031</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;55.6</td><td align="left" rowspan="1" colspan="1">0.2</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.1</td><td align="left" rowspan="1" colspan="1">230.2 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">80.0 (74.0&#x02010;84.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">23&#x02009;134</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;38.0</td><td align="left" rowspan="1" colspan="1">0.4</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.0</td><td align="left" rowspan="1" colspan="1">575.1 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">88.7 (86.3&#x02010;90.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iraq</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">681</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;6.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">12.2 (<italic>P</italic>&#x02009;=&#x02009;0.838)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;24.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Jordan</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.1</td><td align="left" rowspan="1" colspan="1">0.4 (<italic>P</italic>&#x02009;=&#x02009;0.933)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kuwait</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lebanon</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">543</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;80.0</td><td align="left" rowspan="1" colspan="1">7.4</td><td align="left" rowspan="1" colspan="1">1.1&#x02010;16.8</td><td align="left" rowspan="1" colspan="1">127.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">85.1 (78.3&#x02010;89.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Libya</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">4236</td><td align="left" rowspan="1" colspan="1">13.9&#x02010;21.2</td><td align="left" rowspan="1" colspan="1">17.7</td><td align="left" rowspan="1" colspan="1">15.3&#x02010;20.0</td><td align="left" rowspan="1" colspan="1">21.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">76.9 (48.5&#x02010;89.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Morocco</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">2636</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;63.2</td><td align="left" rowspan="1" colspan="1">16.7</td><td align="left" rowspan="1" colspan="1">4.3&#x02010;34.4</td><td align="left" rowspan="1" colspan="1">614.8 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">98.0 (97.5&#x02010;98.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oman</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">9.1</td><td align="left" rowspan="1" colspan="1">3.1&#x02010;23.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pakistan</td><td align="left" rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">36&#x02009;111</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;50.8</td><td align="left" rowspan="1" colspan="1">4.1</td><td align="left" rowspan="1" colspan="1">2.6&#x02010;5.8</td><td align="left" rowspan="1" colspan="1">3041.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">97.0 (96.7&#x02010;97.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Palestine</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">152</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;4.4</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.8</td><td align="left" rowspan="1" colspan="1">3.9 (<italic>P</italic>&#x02009;=&#x02009;0.271)</td><td align="left" rowspan="1" colspan="1">23.3 (0.0&#x02010;88.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Qatar</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">400</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.5</td><td align="left" rowspan="1" colspan="1">0.1&#x02010;1.8</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Saudi Arabia</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">2652</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;7.4</td><td align="left" rowspan="1" colspan="1">1.4</td><td align="left" rowspan="1" colspan="1">0.4&#x02010;2.8</td><td align="left" rowspan="1" colspan="1">49.3 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">55.3 (28.6&#x02010;72.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Syria</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">674</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.8</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.2</td><td align="left" rowspan="1" colspan="1">0.1 (<italic>P</italic>&#x02009;=&#x02009;0.928)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tunisia</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">1578</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;37.5</td><td align="left" rowspan="1" colspan="1">5.1</td><td align="left" rowspan="1" colspan="1">1.5&#x02010;9.9</td><td align="left" rowspan="1" colspan="1">128.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">83.7 (76.4&#x02010;88.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">UAE</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">233</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;33.3</td><td align="left" rowspan="1" colspan="1">1.2</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;6.5</td><td align="left" rowspan="1" colspan="1">7.1 (<italic>P</italic>&#x02009;=&#x02009;0.067)</td><td align="left" rowspan="1" colspan="1">58.0 (0.0&#x02010;86.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>MENA</bold>
+</td><td align="left" rowspan="1" colspan="1">338</td><td align="left" rowspan="1" colspan="1">82&#x02009;257</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;63.2</td><td align="left" rowspan="1" colspan="1">2.5</td><td align="left" rowspan="1" colspan="1">1.6&#x02010;3.5</td><td align="left" rowspan="1" colspan="1">11940.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">97.2 (97.0&#x02010;97.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Genotype 3</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Afghanistan</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">52.2&#x02010;100</td><td align="left" rowspan="1" colspan="1">65.4</td><td align="left" rowspan="1" colspan="1">50.5&#x02010;79.2</td><td align="left" rowspan="1" colspan="1">1.7 (<italic>P</italic>&#x02009;=&#x02009;0.437)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;87.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Algeria</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">3806</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;10.4</td><td align="left" rowspan="1" colspan="1">3.0</td><td align="left" rowspan="1" colspan="1">1.6&#x02010;4.9</td><td align="left" rowspan="1" colspan="1">25 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">76.0 (49.3&#x02010;88.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bahrain</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">107</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;20.4</td><td align="left" rowspan="1" colspan="1">18.7</td><td align="left" rowspan="1" colspan="1">12.4&#x02010;27.1</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Egypt</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">5031</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;33.3</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.5</td><td align="left" rowspan="1" colspan="1">164.4 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">72.0 (62.6&#x02010;79.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">23&#x02009;134</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;65.7</td><td align="left" rowspan="1" colspan="1">38.8</td><td align="left" rowspan="1" colspan="1">35.7&#x02010;41.9</td><td align="left" rowspan="1" colspan="1">878.9 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">92.6 (91.3&#x02010;93.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iraq</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">681</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;21.7</td><td align="left" rowspan="1" colspan="1">0.2</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.3</td><td align="left" rowspan="1" colspan="1">68.8 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">73.8 (58.9&#x02010;83.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Jordan</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.1</td><td align="left" rowspan="1" colspan="1">0.4 (<italic>P</italic>&#x02009;=&#x02009;0.933)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kuwait</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">25.0</td><td align="left" rowspan="1" colspan="1">17.8&#x02010;33.9</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lebanon</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">543</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;58.6</td><td align="left" rowspan="1" colspan="1">7.8</td><td align="left" rowspan="1" colspan="1">2.3&#x02010;15.3</td><td align="left" rowspan="1" colspan="1">78.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">75.8 (62.8&#x02010;84.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Libya</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">4236</td><td align="left" rowspan="1" colspan="1">6.0&#x02010;21.0</td><td align="left" rowspan="1" colspan="1">13.7</td><td align="left" rowspan="1" colspan="1">9.1&#x02010;19.1</td><td align="left" rowspan="1" colspan="1">112.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">95.6 (92.6&#x02010;97.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Morocco</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">2636</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;50.0</td><td align="left" rowspan="1" colspan="1">3.2</td><td align="left" rowspan="1" colspan="1">0.4&#x02010;7.9</td><td align="left" rowspan="1" colspan="1">124.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">90.4 (85.4&#x02010;93.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oman</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">9.1</td><td align="left" rowspan="1" colspan="1">3.1&#x02010;23.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pakistan</td><td align="left" rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">36&#x02009;111</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;100</td><td align="left" rowspan="1" colspan="1">81.4</td><td align="left" rowspan="1" colspan="1">77.9&#x02010;84.8</td><td align="left" rowspan="1" colspan="1">4410.5 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">97.9 (97.7&#x02010;98.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Palestine</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">152</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;8.7</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;7.7</td><td align="left" rowspan="1" colspan="1">6.7 (<italic>P</italic>&#x02009;=&#x02009;0.081)</td><td align="left" rowspan="1" colspan="1">55.5 (0.0&#x02010;85.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Qatar</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">400</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">15.8</td><td align="left" rowspan="1" colspan="1">12.5&#x02010;19.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Saudi Arabia</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">2652</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;33.3</td><td align="left" rowspan="1" colspan="1">0.8</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;2.3</td><td align="left" rowspan="1" colspan="1">75.2 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">70.7 (55.4&#x02010;80.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Syria</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">674</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.7</td><td align="left" rowspan="1" colspan="1">0.3</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.2</td><td align="left" rowspan="1" colspan="1">0.2 (<italic>P</italic>&#x02009;=&#x02009;0.903)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tunisia</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">1578</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;25.0</td><td align="left" rowspan="1" colspan="1">0.7</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.4</td><td align="left" rowspan="1" colspan="1">100.3 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">79.1 (68.9&#x02010;85.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">UAE</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">233</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;33.6</td><td align="left" rowspan="1" colspan="1">11.8</td><td align="left" rowspan="1" colspan="1">0.1&#x02010;33.1</td><td align="left" rowspan="1" colspan="1">32 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">90.6 (79.0&#x02010;95.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>MENA</bold>
+</td><td align="left" rowspan="1" colspan="1">338</td><td align="left" rowspan="1" colspan="1">82&#x02009;257</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;100</td><td align="left" rowspan="1" colspan="1">26.8</td><td align="left" rowspan="1" colspan="1">22.4&#x02010;31.5</td><td align="left" rowspan="1" colspan="1">60629.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">99.4 (99.4&#x02010;99.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Genotype 4</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Afghanistan</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.6 (<italic>P</italic>&#x02009;=&#x02009;0.732)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;66.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Algeria</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">3806</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;7.4</td><td align="left" rowspan="1" colspan="1">1.4</td><td align="left" rowspan="1" colspan="1">0.6&#x02010;2.4</td><td align="left" rowspan="1" colspan="1">14.1 (<italic>P</italic>&#x02009;=&#x02009;0.028)</td><td align="left" rowspan="1" colspan="1">57.5 (1.5&#x02010;81.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bahrain</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">107</td><td align="left" rowspan="1" colspan="1">11.1&#x02010;22.4</td><td align="left" rowspan="1" colspan="1">21.5</td><td align="left" rowspan="1" colspan="1">14.8&#x02010;30.2</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Egypt</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">5031</td><td align="left" rowspan="1" colspan="1">22.2&#x02010;100</td><td align="left" rowspan="1" colspan="1">93.1</td><td align="left" rowspan="1" colspan="1">89.8&#x02010;95.9</td><td align="left" rowspan="1" colspan="1">432.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">89.4 (86.7&#x02010;91.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">23&#x02009;134</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;25.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.1</td><td align="left" rowspan="1" colspan="1">238.1 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">72.7 (65.2&#x02010;78.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iraq</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">681</td><td align="left" rowspan="1" colspan="1">21.4&#x02010;100</td><td align="left" rowspan="1" colspan="1">60.0</td><td align="left" rowspan="1" colspan="1">46.3&#x02010;73.1</td><td align="left" rowspan="1" colspan="1">157.9 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">88.6 (83.7&#x02010;92.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Jordan</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">26.7&#x02010;100</td><td align="left" rowspan="1" colspan="1">77.2</td><td align="left" rowspan="1" colspan="1">33.2&#x02010;100</td><td align="left" rowspan="1" colspan="1">31.8 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">90.6 (78.9&#x02010;95.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kuwait</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">47.2</td><td align="left" rowspan="1" colspan="1">38.1&#x02010;56.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lebanon</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">543</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;100</td><td align="left" rowspan="1" colspan="1">31.5</td><td align="left" rowspan="1" colspan="1">20.6&#x02010;43.4</td><td align="left" rowspan="1" colspan="1">102.6 (<italic>P</italic>&#x02009;&#x0003e;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">81.5 (72.4&#x02010;87.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Libya</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">4236</td><td align="left" rowspan="1" colspan="1">27.6&#x02010;45.3</td><td align="left" rowspan="1" colspan="1">35.3</td><td align="left" rowspan="1" colspan="1">30.2&#x02010;40.6</td><td align="left" rowspan="1" colspan="1">63.96 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">92.2 (85.7&#x02010;95.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Morocco</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">2636</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;18.8</td><td align="left" rowspan="1" colspan="1">0.9</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;2.8</td><td align="left" rowspan="1" colspan="1">44.4 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">72.9 (52.9&#x02010;84.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oman</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">27.3</td><td align="left" rowspan="1" colspan="1">15.1&#x02010;44.2</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pakistan</td><td align="left" rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">36&#x02009;111</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;17.1</td><td align="left" rowspan="1" colspan="1">0.1</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.6</td><td align="left" rowspan="1" colspan="1">1188.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">92.3 (91.2&#x02010;93.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Palestine</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">152</td><td align="left" rowspan="1" colspan="1">50.0&#x02010;85.7</td><td align="left" rowspan="1" colspan="1">75.0</td><td align="left" rowspan="1" colspan="1">66.9&#x02010;82.3</td><td align="left" rowspan="1" colspan="1">1.6 (<italic>P</italic>&#x02009;=&#x02009;0.652)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;71.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Qatar</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">400</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">64.0</td><td align="left" rowspan="1" colspan="1">59.2&#x02010;68.6</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Saudi Arabia</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">2653</td><td align="left" rowspan="1" colspan="1">9.4&#x02010;90.9</td><td align="left" rowspan="1" colspan="1">56.6</td><td align="left" rowspan="1" colspan="1">49.0&#x02010;64.0</td><td align="left" rowspan="1" colspan="1">225.9 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">90.3 (86.7&#x02010;92.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Syria</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">674</td><td align="left" rowspan="1" colspan="1">39.3&#x02010;60.0</td><td align="left" rowspan="1" colspan="1">53.8</td><td align="left" rowspan="1" colspan="1">40.3&#x02010;67.1</td><td align="left" rowspan="1" colspan="1">4.1 (<italic>P</italic>&#x02009;=&#x02009;0.127)</td><td align="left" rowspan="1" colspan="1">51.5 (0.0&#x02010;86.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tunisia</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">1578</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;19.4</td><td align="left" rowspan="1" colspan="1">1.7</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;5.3</td><td align="left" rowspan="1" colspan="1">128 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">83.6 (76.3&#x02010;88.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">UAE</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">233</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;46.3</td><td align="left" rowspan="1" colspan="1">21.3</td><td align="left" rowspan="1" colspan="1">5.4&#x02010;42.8</td><td align="left" rowspan="1" colspan="1">25.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">88.3 (72.5&#x02010;95.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>MENA</bold>
+</td><td align="left" rowspan="1" colspan="1">338</td><td align="left" rowspan="1" colspan="1">82&#x02009;257</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;100</td><td align="left" rowspan="1" colspan="1">17.3</td><td align="left" rowspan="1" colspan="1">14.1&#x02010;20.6</td><td align="left" rowspan="1" colspan="1">43318.8 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">99.2 (99.2&#x02010;99.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Genotype 5</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Afghanistan</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.6 (<italic>P</italic>&#x02009;=&#x02009;0.732)</td><td align="left" rowspan="1" colspan="1">0.0(0.0&#x02010;66.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Algeria</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">3806</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.9</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">6.3 (<italic>P</italic>&#x02009;=&#x02009;0.389)</td><td align="left" rowspan="1" colspan="1">5.0 (0.0&#x02010;72.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bahrain</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">107</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.5</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Egypt</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">5031</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;31.6</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">45.2 (<italic>P</italic>&#x02009;=&#x02009;0.507)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;32.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">23&#x02009;134</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.5</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">89.7 (<italic>P</italic>&#x02009;=&#x02009;0.023)</td><td align="left" rowspan="1" colspan="1">27.5 (1.2&#x02010;46.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iraq</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">681</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">3.9 (<italic>P</italic>&#x02009;=&#x02009;0.100)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Jordan</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.1</td><td align="left" rowspan="1" colspan="1">0.4 (<italic>P</italic>&#x02009;=&#x02009;0.933)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kuwait</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lebanon</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">543</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.3</td><td align="left" rowspan="1" colspan="1">4.8 (<italic>P</italic>&#x02009;=&#x02009;0.100)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Libya</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">4236</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.1</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.1</td><td align="left" rowspan="1" colspan="1">1.0 (<italic>P</italic>&#x02009;=&#x02009;0.959)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Morocco</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">2636</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.1</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">3.7 (<italic>P</italic>&#x02009;=&#x02009;0.988)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oman</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;10.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pakistan</td><td align="left" rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">36&#x02009;111</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;4.1</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">192.6 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">52.7 (40.0&#x02010;62.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Palestine</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">152</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">1.2 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;&#x02009;0.751)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;62)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Qatar</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">400</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.0</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Saudi Arabia</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">2652</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;5.1</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">31.1 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.094)</td><td align="left" rowspan="1" colspan="1">29.3 (0.0&#x02010;57.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Syria</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">674</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;30.0</td><td align="left" rowspan="1" colspan="1">7.6</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;23.0</td><td align="left" rowspan="1" colspan="1">9.1 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.010)</td><td align="left" rowspan="1" colspan="1">78.1 (29.4&#x02010;93.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tunisia</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">1578</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">7.9 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.996)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">UAE</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">233</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.875)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;33.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>MENA</bold>
+</td><td align="left" rowspan="1" colspan="1">338</td><td align="left" rowspan="1" colspan="1">82&#x02009;257</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;31.6</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">706.8 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">52.3 (45.9&#x02010;57.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Genotype 6</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Afghanistan</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.6 (<italic>P</italic>&#x02009;=&#x02009;0.732)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;66.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Algeria</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">3806</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">2.4 (<italic>P</italic>&#x02009;=&#x02009;0.882)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;26.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bahrain</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">107</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.5</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Egypt</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">5031</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">20.3 (<italic>P</italic>&#x02009;=&#x02009;0.100)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">23&#x02009;134</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.7</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">38.8 (<italic>P</italic>&#x02009;=&#x02009;0.100)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Iraq</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">681</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">3.9 (<italic>P</italic>&#x02009;=&#x02009;0.100)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Jordan</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.1</td><td align="left" rowspan="1" colspan="1">0.4 (<italic>P</italic>&#x02009;=&#x02009;0.933)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Kuwait</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">108</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lebanon</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">543</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">5.0 (<italic>P</italic>&#x02009;=&#x02009;0.999)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Libya</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">4236</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.1</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.1</td><td align="left" rowspan="1" colspan="1">0.3 (<italic>P</italic>&#x02009;=&#x02009;0.100)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Morocco</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">2636</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">6.5 (<italic>P</italic>&#x02009;=&#x02009;0.888)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;20.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oman</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;10.4</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pakistan</td><td align="left" rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">36&#x02009;111</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.4</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">161 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">43.5 (27.5&#x02010;55.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Palestine</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">152</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">1.2 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.751)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;62.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Qatar</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">400</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;1.0</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Saudi Arabia</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">2652</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.9</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">8.2 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.997)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Syria</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">674</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">1.3 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.524)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;83.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Tunisia</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">1578</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">7.9 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.996)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">UAE</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">233</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">0.7 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.875)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;33.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>MENA</bold>
+</td><td align="left" rowspan="1" colspan="1">338</td><td align="left" rowspan="1" colspan="1">82&#x02009;257</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;3.4</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">0.0&#x02010;0.0</td><td align="left" rowspan="1" colspan="1">317.3 (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;7.4)</td></tr></tbody></table><table-wrap-foot><fn id="jmv24921-note-0001"><p>Djibouti, Mauritania, Somalia, Sudan, and Yemen excluded due to either no studies available or small sample size.</p></fn><fn id="jmv24921-note-0002"><label><sup>a</sup></label><p>CI: Confidence interval.</p></fn><fn id="jmv24921-note-0003"><label><sup>b</sup></label><p>Q: The Cochran Q statistic is a measure assessing the existence of heterogeneity in effect size (proportion of each genotype).</p></fn><fn id="jmv24921-note-0004"><label><sup>c</sup></label><p>I<sup>2</sup>: A measure assessing the magnitude of between&#x02010;study variation that is due to differences in effect size (proportion of each genotype) across studies rather than chance.</p></fn></table-wrap-foot><permissions><copyright-holder>&#x000a9; 2017 Wiley Periodicals, Inc.</copyright-holder></permissions></table-wrap><p>The genotyped populations varied across these studies but often included clinical populations at high&#x02010;risk of exposure to HCV such as thalassemia, hemophilia, and hemodialysis patients (Supplementary Table S1). Other genotyped populations included chronic liver disease patients, people who inject drugs (PWID), blood donors, pregnant women, and healthcare workers, among others.</p></sec><sec id="jmv24921-sec-0010"><label>3.2</label><title>Meta&#x02010;analyses of the distribution of HCV genotypes</title><p>Table <xref rid="jmv24921-tbl-0001" ref-type="table-wrap">1</xref> lists the estimated pooled mean proportion for each HCV genotype by country. Figure <xref rid="jmv24921-fig-0001" ref-type="fig">1</xref> displays the distribution of genotypes by country. Figure <xref rid="jmv24921-fig-0002" ref-type="fig">2</xref> maps the dominant genotype by country.</p><fig fig-type="Figure" xml:lang="en" id="jmv24921-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The country&#x02010;specific distribution of hepatitis C virus (HCV) genotypes across the Middle East and North Africa (MENA) region. Legend: &#x02021; Countries in which less than three studies were available. Djibouti, Mauritania, Somalia, Sudan, and Yemen were excluded either due to no studies available or small sample size</p></caption><graphic id="nlm-graphic-1" xlink:href="JMV-90-131-g001"><permissions><copyright-holder>Copyright &#x000a9; 2017 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig><fig fig-type="Figure" xml:lang="en" id="jmv24921-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Map of the dominant hepatitis C virus (HCV) genotype across countries of the Middle East and North Africa (MENA) region. Legend: Djibouti, Mauritania, Somalia, Sudan, and Yemen were excluded either due to no studies available or small sample size</p></caption><graphic id="nlm-graphic-3" xlink:href="JMV-90-131-g002"><permissions><copyright-holder>Copyright &#x000a9; 2017 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig><sec id="jmv24921-sec-0011"><label>3.2.1</label><title>Genotype 1</title><p>Genotype 1 was dominant (&#x02265;50%) in Algeria, Iran, Lebanon, Morocco, Oman, Tunisia, and UAE, with the highest level observed in Tunisia at 85.9% (95%CI: 78.0&#x02010;92.5). Genotype 1 was common (10&#x02010;50%) in Afghanistan, Bahrain, Iraq, Jordan, Kuwait, Lebanon, Libya, Palestine, Qatar, Saudi Arabia, and Syria. Genotype 1 was limited (&#x02264;10%) in Pakistan and Egypt. For the whole MENA sample, the pooled mean proportion for genotype 1 was 30.2% (95%CI: 26.7&#x02010;33.7).</p></sec><sec id="jmv24921-sec-0012"><label>3.2.2</label><title>Genotype 2</title><p>Genotype 2 was not dominant in any MENA country, but was common in Algeria, Bahrain, Morocco, and Libya, with the highest level observed in Libya at 17.7% (95%CI: 15.3&#x02010;20.0). Genotype 2 was limited in remaining countries, with little to no cases observed in each of Afghanistan, Iraq, Jordan, Kuwait, Palestine, and Syria. For the whole MENA sample, the pooled mean proportion for Genotype 2 was 2.5% (95%CI: 1.6&#x02010;3.4).</p></sec><sec id="jmv24921-sec-0013"><label>3.2.3</label><title>Genotype 3</title><p>Genotype 3 was dominant in Afghanistan and Pakistan, with the highest level observed in Pakistan at 81.4% (95%CI: 77.9&#x02010;84.8). Genotype 3 was common in Bahrain, Iran, Kuwait, Libya, Qatar, and UAE. Genotype 3 was limited in Algeria, Iraq, Lebanon, Morocco, Oman, Saudi Arabia, Syria, and Tunisia. Little to no cases were observed in each of Egypt, Jordan, and Palestine. For the whole MENA sample, the pooled mean proportion for Genotype 3 was 26.7% (95%CI: 22.3&#x02010;31.4).</p></sec><sec id="jmv24921-sec-0014"><label>3.2.4</label><title>Genotype 4</title><p>Genotype 4 was dominant in Egypt, Iraq, Jordan, Kuwait, Libya, Qatar, Saudi Arabia, and Syria, with the highest level observed in Egypt at 93.1% (95%CI: 89.8&#x02010;95.9). Genotype 4 was common in Bahrain, Kuwait, Lebanon, Libya, Oman, and UAE. Genotype 4 was limited in Algeria, Iran, Morocco, Pakistan, and Tunisia. No cases were observed in Afghanistan. For the whole MENA sample, the pooled mean proportion for Genotype 4 was 17.5% (95%CI: 14.2&#x02010;21.0).</p></sec><sec id="jmv24921-sec-0015"><label>3.2.5</label><title>Genotypes 5, 6, and 7</title><p>Genotype 5 was neither dominant nor common in any MENA country. It was limited in Syria at 7.6% (95%CI: 0.0&#x02010;23.0), but otherwise was not observed, or was observed at extremely low levels, in the remaining MENA countries. For the whole MENA sample, the pooled mean proportion for Genotype 5 was 0.0% (95%CI: 0.0&#x02010;0.0).</p><p>Genotype 6 was not observed or was observed at extremely low levels in all countries, leading to a pooled mean proportion of 0.0% (95%CI: 0.0&#x02010;0.0) for the whole MENA sample. Genotype 7 was not observed in any country.</p></sec></sec><sec id="jmv24921-sec-0016"><label>3.3</label><title>Genotype diversity</title><p>Supplementary Table S2 lists the estimated genotype diversity by country as assessed using Shannon Diversity Index (H). Figure <xref rid="jmv24921-fig-0003" ref-type="fig">3</xref> maps genotype diversity across MENA. Lebanon had the highest genotype diversity (<italic>H</italic>&#x02009;=&#x02009;1.27 out of 1.95; 68.2%), followed by Bahrain (<italic>H</italic>&#x02009;=&#x02009;1.24 out of 1.95; 63.7%) and UAE (<italic>H</italic>&#x02009;=&#x02009;1.14 out of 1.95; 58.8%). Egypt had the lowest diversity (<italic>H</italic>&#x02009;=&#x02009;0.27 out of 1.95; 14.4%), right behind Pakistan (0.61 out of 1.95; 33.1%) and Afghanistan (0.66 out of 1.95; 34.1%).</p><fig fig-type="Figure" xml:lang="en" id="jmv24921-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Map showing the genotype diversity across countries of the Middle East and North Africa (MENA) region, quantified by Shannon Diversity Index. Legend: Djibouti, Mauritania, Somalia, Sudan, and Yemen were excluded either due to no studies available or small sample size</p></caption><graphic id="nlm-graphic-5" xlink:href="JMV-90-131-g003"><permissions><copyright-holder>Copyright &#x000a9; 2017 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="jmv24921-sec-0017"><label>3.4</label><title>Number of HCV chronically infected individuals by genotype</title><p>Table <xref rid="jmv24921-tbl-0002" ref-type="table-wrap">2</xref> lists the estimated number of HCV chronically infected individuals by genotype across MENA countries. Overall for the region, the largest number of chronically infected individuals was that for genotype 3 at 6.0 million, followed by genotype 4 at 5.9 million, genotype 1 at 2.0 million, and genotype 2 at 0.4 million. Genotype 5 contributed a mere 10&#x02009;500 infections with virtually no contribution for genotype 6. The vast majority of genotype 3 chronically infected individuals were in Pakistan (5.7 out of 6.0 million), and the vast majority of genotype 4 infected individuals were in Egypt (5.0 out of 5.9 million).</p><table-wrap id="jmv24921-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Number of hepatitis C virus (HCV) chronically infected individuals by genotype across countries of the Middle East and North Africa (MENA)</p></caption><table frame="below" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="6" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Number of HCV chronically infected individuals by genotype (95% confidence interval)</th></tr><tr><th align="left" valign="bottom" rowspan="1" colspan="1">Country</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total population<xref rid="jmv24921-bib-0035" ref-type="ref">35</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Estimated number of individuals chronically infected with HCV<xref rid="jmv24921-bib-0034" ref-type="ref">34</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Genotype 1</th><th align="left" valign="bottom" rowspan="1" colspan="1">Genotype 2</th><th align="left" valign="bottom" rowspan="1" colspan="1">Genotype 3</th><th align="left" valign="bottom" rowspan="1" colspan="1">Genotype 4</th><th align="left" valign="bottom" rowspan="1" colspan="1">Genotype 5</th><th align="left" valign="bottom" rowspan="1" colspan="1">Genotype 6</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Afghanistan</td><td align="left" rowspan="1" colspan="1">32&#x02009;527&#x02009;000</td><td align="left" rowspan="1" colspan="1">178&#x02009;875</td><td align="left" rowspan="1" colspan="1">61&#x02009;891 (37&#x02009;206&#x02010;88&#x02009;543)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">116&#x02009;984 (90&#x02009;332&#x02010;141&#x02009;669)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Algeria</td><td align="left" rowspan="1" colspan="1">39&#x02009;667&#x02009;000</td><td align="left" rowspan="1" colspan="1">191&#x02009;828</td><td align="left" rowspan="1" colspan="1">153&#x02009;148 (137&#x02009;833&#x02010;166&#x02009;892)</td><td align="left" rowspan="1" colspan="1">30&#x02009;041 (18&#x02009;849&#x02010;43&#x02009;196)</td><td align="left" rowspan="1" colspan="1">5890 (3&#x02009;142&#x02010;9&#x02009;621)</td><td align="left" rowspan="1" colspan="1">2749 (1178&#x02010;4712)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Bahrain</td><td align="left" rowspan="1" colspan="1">1&#x02009;377&#x02009;000</td><td align="left" rowspan="1" colspan="1">5033</td><td align="left" rowspan="1" colspan="1">2&#x02009;446 (1&#x02009;980&#x02010;2&#x02009;917)</td><td align="left" rowspan="1" colspan="1">564 (329&#x02010;935)</td><td align="left" rowspan="1" colspan="1">941 (626&#x02010;1364)</td><td align="left" rowspan="1" colspan="1">1082 (744&#x02013;1520)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;175)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;175)</td></tr><tr><td align="left" rowspan="1" colspan="1">Egypt</td><td align="left" rowspan="1" colspan="1">91&#x02009;508&#x02009;000</td><td align="left" rowspan="1" colspan="1">5&#x02009;127&#x02009;729</td><td align="left" rowspan="1" colspan="1">133&#x02009;813 (69&#x02009;583&#x02010;219&#x02009;454)</td><td align="left" rowspan="1" colspan="1">10&#x02009;705 (0&#x02010;58&#x02009;878)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;26&#x02009;763)</td><td align="left" rowspan="1" colspan="1">4&#x02009;983&#x02009;210 (4&#x02009;806&#x02009;577&#x02010;5&#x02009;133&#x02009;081)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">79&#x02009;109&#x02009;000</td><td align="left" rowspan="1" colspan="1">504&#x02009;631</td><td align="left" rowspan="1" colspan="1">297&#x02009;495 (279&#x02009;529&#x02010;314&#x02009;932)</td><td align="left" rowspan="1" colspan="1">2114 (0&#x02010;5&#x02009;284)</td><td align="left" rowspan="1" colspan="1">205&#x02009;023 (188&#x02009;642&#x02010;221&#x02009;404)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;528)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Iraq</td><td align="left" rowspan="1" colspan="1">36&#x02009;423&#x02009;000</td><td align="left" rowspan="1" colspan="1">123&#x02009;046</td><td align="left" rowspan="1" colspan="1">44&#x02009;992 (29&#x02009;303&#x02010;61&#x02009;847)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">259 (0&#x02010;4279)</td><td align="left" rowspan="1" colspan="1">77&#x02009;795 (60&#x02009;032&#x02010;94&#x02009;780)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;1426)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Jordan</td><td align="left" rowspan="1" colspan="1">7&#x02009;595&#x02009;000</td><td align="left" rowspan="1" colspan="1">38&#x02009;264</td><td align="left" rowspan="1" colspan="1">8724 (0&#x02010;25&#x02009;560)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;421)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;421)</td><td align="left" rowspan="1" colspan="1">29&#x02009;539 (12&#x02009;703&#x02010;38&#x02009;264)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;421)</td></tr><tr><td align="left" rowspan="1" colspan="1">Kuwait</td><td align="left" rowspan="1" colspan="1">3&#x02009;892&#x02009;000</td><td align="left" rowspan="1" colspan="1">56&#x02009;207</td><td align="left" rowspan="1" colspan="1">15&#x02009;626 (11&#x02009;359&#x02010;20&#x02009;729)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;1928)</td><td align="left" rowspan="1" colspan="1">14&#x02009;052 (9&#x02009;999&#x02010;19&#x02009;071)</td><td align="left" rowspan="1" colspan="1">26&#x02009;530 (21&#x02009;392&#x02010;31&#x02009;796)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;1928)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;1928)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lebanon</td><td align="left" rowspan="1" colspan="1">5&#x02009;851&#x02009;000</td><td align="left" rowspan="1" colspan="1">15&#x02009;405</td><td align="left" rowspan="1" colspan="1">6993 (7590&#x02010;11&#x02009;910)</td><td align="left" rowspan="1" colspan="1">1334 (275&#x02010;4195)</td><td align="left" rowspan="1" colspan="1">1406 (574&#x02010;3820)</td><td align="left" rowspan="1" colspan="1">5672 (5143&#x02010;10&#x02009;836)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;75)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Libya</td><td align="left" rowspan="1" colspan="1">6&#x02009;278&#x02009;000</td><td align="left" rowspan="1" colspan="1">52&#x02009;916</td><td align="left" rowspan="1" colspan="1">17&#x02009;444 (16&#x02009;486&#x02010;18&#x02009;454)</td><td align="left" rowspan="1" colspan="1">9413 (8137&#x02010;10&#x02009;636)</td><td align="left" rowspan="1" colspan="1">7286 (4840&#x02010;10&#x02009;158)</td><td align="left" rowspan="1" colspan="1">18&#x02009;773 (16&#x02009;061&#x02010;21&#x02009;592)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;53)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;53)</td></tr><tr><td align="left" rowspan="1" colspan="1">Morocco</td><td align="left" rowspan="1" colspan="1">34&#x02009;378&#x02009;000</td><td align="left" rowspan="1" colspan="1">344&#x02009;116</td><td align="left" rowspan="1" colspan="1">264&#x02009;763 (204&#x02009;867&#x02010;317&#x02009;410)</td><td align="left" rowspan="1" colspan="1">63&#x02009;711 (16&#x02009;405&#x02010;131&#x02009;237)</td><td align="left" rowspan="1" colspan="1">12&#x02009;208 (1526&#x02010;30&#x02009;139)</td><td align="left" rowspan="1" colspan="1">3434 (0&#x02010;10&#x02009;682)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Oman</td><td align="left" rowspan="1" colspan="1">4&#x02009;491&#x02009;000</td><td align="left" rowspan="1" colspan="1">22&#x02009;481</td><td align="left" rowspan="1" colspan="1">12&#x02009;252 (8541&#x02010;15&#x02009;773)</td><td align="left" rowspan="1" colspan="1">2046 (706&#x02010;5299)</td><td align="left" rowspan="1" colspan="1">2046 (706&#x02010;5299)</td><td align="left" rowspan="1" colspan="1">6137 (3388&#x02010;9939)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;2345)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;2345)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pakistan</td><td align="left" rowspan="1" colspan="1">188&#x02009;925&#x02009;000</td><td align="left" rowspan="1" colspan="1">6&#x02009;575&#x02009;046</td><td align="left" rowspan="1" colspan="1">631&#x02009;815 (513&#x02009;784&#x02010;763&#x02009;733)</td><td align="left" rowspan="1" colspan="1">284&#x02009;664 (180&#x02009;519&#x02010;402&#x02009;696)</td><td align="left" rowspan="1" colspan="1">5&#x02009;651&#x02009;623 (5&#x02009;408&#x02009;618&#x02010;5&#x02009;887&#x02009;686)</td><td align="left" rowspan="1" colspan="1">6943 (0&#x02010;41&#x02009;658)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Palestine</td><td align="left" rowspan="1" colspan="1">4&#x02009;668&#x02009;000</td><td align="left" rowspan="1" colspan="1">25&#x02009;057</td><td align="left" rowspan="1" colspan="1">5254 (1954&#x02010;9336)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;475)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02013;2033)</td><td align="left" rowspan="1" colspan="1">19&#x02009;803 (17&#x02009;664&#x02010;21&#x02009;730)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Qatar</td><td align="left" rowspan="1" colspan="1">2&#x02009;235&#x02009;000</td><td align="left" rowspan="1" colspan="1">24&#x02009;775</td><td align="left" rowspan="1" colspan="1">4901 (3995&#x02010;5923)</td><td align="left" rowspan="1" colspan="1">124 (35&#x02010;446)</td><td align="left" rowspan="1" colspan="1">3911 (3096&#x02010;4861)</td><td align="left" rowspan="1" colspan="1">15&#x02009;840 (14&#x02009;647&#x02010;16&#x02009;966)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;235)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;235)</td></tr><tr><td align="left" rowspan="1" colspan="1">Saudi Arabia</td><td align="left" rowspan="1" colspan="1">31&#x02009;540&#x02009;000</td><td align="left" rowspan="1" colspan="1">496&#x02009;894</td><td align="left" rowspan="1" colspan="1">183&#x02009;403 (146&#x02009;616&#x02010;221&#x02009;790)</td><td align="left" rowspan="1" colspan="1">7464 (2133&#x02010;14&#x02009;928)</td><td align="left" rowspan="1" colspan="1">4265 (0&#x02010;12&#x02009;262)</td><td align="left" rowspan="1" colspan="1">301&#x02009;762 (261&#x02009;242&#x02010;341&#x02009;215)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Syria</td><td align="left" rowspan="1" colspan="1">18&#x02009;502&#x02009;000</td><td align="left" rowspan="1" colspan="1">131&#x02009;860</td><td align="left" rowspan="1" colspan="1">46&#x02009;400 (16&#x02009;760&#x02010;81&#x02009;582)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;277)</td><td align="left" rowspan="1" colspan="1">416 (0&#x02010;1662)</td><td align="left" rowspan="1" colspan="1">74&#x02009;518 (55&#x02009;819&#x02010;92&#x02009;939)</td><td align="left" rowspan="1" colspan="1">10&#x02009;527 (0&#x02010;31&#x02009;857)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Tunisia</td><td align="left" rowspan="1" colspan="1">11&#x02009;254&#x02009;000</td><td align="left" rowspan="1" colspan="1">93&#x02009;360</td><td align="left" rowspan="1" colspan="1">85&#x02009;863 (77&#x02009;966&#x02010;92&#x02009;460)</td><td align="left" rowspan="1" colspan="1">5098 (1499&#x02010;9896)</td><td align="left" rowspan="1" colspan="1">700 (0&#x02010;3399)</td><td align="left" rowspan="1" colspan="1">1699 (0&#x02010;5298)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">UAE</td><td align="left" rowspan="1" colspan="1">9&#x02009;157&#x02009;000</td><td align="left" rowspan="1" colspan="1">119&#x02009;817</td><td align="left" rowspan="1" colspan="1">72&#x02009;415 (42&#x02009;565&#x02010;101&#x02009;851)</td><td align="left" rowspan="1" colspan="1">1658 (0&#x02010;8983)</td><td align="left" rowspan="1" colspan="1">16&#x02009;307 (138&#x02010;45&#x02009;743)</td><td align="left" rowspan="1" colspan="1">29&#x02009;436 (29&#x02009;436&#x02010;59&#x02009;148)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;0)</td></tr><tr><td align="left" rowspan="1" colspan="1">MENA</td><td align="left" rowspan="1" colspan="1">609&#x02009;377&#x02009;000</td><td align="left" rowspan="1" colspan="1">14&#x02009;127&#x02009;340</td><td align="left" rowspan="1" colspan="1">2&#x02009;049&#x02009;638 (1&#x02009;607&#x02009;916&#x02010;2&#x02009;541&#x02009;096)</td><td align="left" rowspan="1" colspan="1">418&#x02009;935 (228&#x02009;885&#x02010;699&#x02009;708)</td><td align="left" rowspan="1" colspan="1">6&#x02009;043&#x02009;317 (5&#x02009;712&#x02009;239&#x02010;6&#x02009;431&#x02009;653)</td><td align="left" rowspan="1" colspan="1">5&#x02009;604&#x02009;923 (5&#x02009;306&#x02009;028&#x02010;5&#x02009;936&#x02009;686)</td><td align="left" rowspan="1" colspan="1">10&#x02009;527 (0&#x02010;38&#x02009;094)</td><td align="left" rowspan="1" colspan="1">0 (0&#x02010;5157)</td></tr><tr><td align="left" rowspan="1" colspan="1">Genotype distribution in MENA weighted by population size (%)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">14.5 (11.4&#x02010;18.0)</td><td align="left" rowspan="1" colspan="1">3.0 (1.6&#x02010;5.0)</td><td align="left" rowspan="1" colspan="1">42.8 (40.4&#x02010;45.5)</td><td align="left" rowspan="1" colspan="1">39.7 (37.6&#x02010;42.0)</td><td align="left" rowspan="1" colspan="1">0.1 (0.0&#x02010;0.3)</td><td align="left" rowspan="1" colspan="1">0.0 (0.0&#x02010;0.0)</td></tr></tbody></table><table-wrap-foot><fn id="jmv24921-note-0005"><p>Djibouti, Mauritania, Somalia, Sudan, and Yemen were excluded either due to no studies available or small sample size.</p></fn></table-wrap-foot><permissions><copyright-holder>&#x000a9; 2017 Wiley Periodicals, Inc.</copyright-holder></permissions></table-wrap><p>Weighted by population size in each country, the highest proportion of chronically infected individuals was that of genotype 3 (41.9%), followed by genotype 4 (41.0%), genotype 1 (14.2%), genotype 2 (2.9%), genotype 5 (0.1%), and genotype 6 (0.0%).</p></sec></sec><sec id="jmv24921-sec-0018"><label>4</label><title>DISCUSSION</title><p>We presented a comprehensive characterization of HCV genotype distribution, diversity, and patterns in MENA. We found that the distribution varied from one country to another, with evidence for sub&#x02010;regionalization patterns for specific genotypes. Most chronically infected individuals were infected with genotypes 3 or 4, with nearly equal contributions for each at just over 40%. However, these large contributions merely reflected the dominance of these genotypes in Pakistan (genotype 3) and Egypt (genotype 4), by far the largest two HCV epidemics in MENA. Over 75% of MENA's chronically infected individuals are found in these two countries.<xref rid="jmv24921-bib-0033" ref-type="ref">33</xref>
+</p><p>While genotype 1 was present throughout the region, and was dominant or common in most countries, it had limited presence in both Egypt and Pakistan, and hence its contribution did not exceed 15%. Genotypes 2, 5, 6, and 7 did not have significant presence in MENA. While there was considerable genotype diversity in most countries, there was limited diversity in both Egypt and Pakistan. These findings inform the current expansion of DAA treatment programs in MENA, and provide insights about the transmission pathways of this infection.</p><p>The distribution of HCV genotypes in MENA appears to reflect three sub&#x02010;regional patterns (Figure <xref rid="jmv24921-fig-0002" ref-type="fig">2</xref>). The first is that of dominance of genotype 3, a pattern found in Pakistan and Afghanistan, and to some extent in Iran (Figures <xref rid="jmv24921-fig-0001" ref-type="fig">1</xref> and <xref rid="jmv24921-fig-0002" ref-type="fig">2</xref>). This pattern is possibly explained by the fact that these are neighboring countries with mass cross&#x02010;border population movements and porous borders.<xref rid="jmv24921-bib-0035" ref-type="ref">35</xref>, <xref rid="jmv24921-bib-0036" ref-type="ref">36</xref>
+</p><p>The second pattern is that of dominance, or large presence, of genotype 4 which is found in Egypt, its neighboring countries, and/or in countries that host or have hosted large migrant labor populations from Egypt<xref rid="jmv24921-bib-0015" ref-type="ref">15</xref>, <xref rid="jmv24921-bib-0018" ref-type="ref">18</xref>, <xref rid="jmv24921-bib-0037" ref-type="ref">37</xref> (Figures <xref rid="jmv24921-fig-0001" ref-type="fig">1</xref> and <xref rid="jmv24921-fig-0002" ref-type="fig">2</xref>). This pattern is possibly explained by the unique nature of the Egyptian epidemic,<xref rid="jmv24921-bib-0012" ref-type="ref">12</xref>, <xref rid="jmv24921-bib-0038" ref-type="ref">38</xref> which has led to circulation of genotype 4 through population movement to countries with strong links to Egypt. Countries that have imported large Egyptian labor populations included Iraq, Jordan, Kuwait, Libya, Oman, Qatar, Saudi Arabia, and UAE.<xref rid="jmv24921-bib-0039" ref-type="ref">39</xref> It bears notice, nonetheless, that the circulation of this genotype out of Egypt does not seem to have impacted significantly HCV prevalence in these countries. HCV prevalence in these countries is much lower than that in Egypt.<xref rid="jmv24921-bib-0012" ref-type="ref">12</xref>, <xref rid="jmv24921-bib-0013" ref-type="ref">13</xref>, <xref rid="jmv24921-bib-0015" ref-type="ref">15</xref>, <xref rid="jmv24921-bib-0018" ref-type="ref">18</xref>, <xref rid="jmv24921-bib-0038" ref-type="ref">38</xref>
+</p><p>The third pattern is that of dominance, or large presence, of genotype 1 which is found in the Maghreb sub&#x02010;region of MENA (Algeria, Morocco, Tunisia, and to some extent Libya), part of the Arabian Gulf sub&#x02010;region (Oman and UAE), Iran, and to some extent Lebanon (Figure <xref rid="jmv24921-fig-0002" ref-type="fig">2</xref>). This pattern is similar to the most common global pattern,<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref>, <xref rid="jmv24921-bib-0009" ref-type="ref">9</xref> and may reflect population movement links with countries outside MENA, such as the Maghreb sub&#x02010;region migration links with Western and Southern Europe.<xref rid="jmv24921-bib-0040" ref-type="ref">40</xref>, <xref rid="jmv24921-bib-0041" ref-type="ref">41</xref> There are also large and diverse expatriate populations in the Arabian Gulf sub&#x02010;region, and this may have contributed to this pattern.<xref rid="jmv24921-bib-0018" ref-type="ref">18</xref>
+</p><p>While these three patterns are largely distinct, some overlap is seen such as for countries that border different patterns&#x02014;Iran and Libya provide two examples (Figures <xref rid="jmv24921-fig-0001" ref-type="fig">1</xref> and <xref rid="jmv24921-fig-0002" ref-type="fig">2</xref>). The Arabian Gulf sub&#x02010;region also exhibits such overlap with its diverse migrant&#x02010;population composition&#x02014;as reflected in the high genotype diversity for the majority of Arabian Gulf countries (Figure <xref rid="jmv24921-fig-0003" ref-type="fig">3</xref>, Supplementary Table S2). Lastly, genotype 2 was mainly present in the Maghreb sub&#x02010;region, possibly because of geographic proximity and population links with West Africa where this genotype is most frequent.<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref>, <xref rid="jmv24921-bib-0042" ref-type="ref">42</xref>, <xref rid="jmv24921-bib-0043" ref-type="ref">43</xref>
+</p><p>Genotype diversity varied across the region. The variability in genotype diversity is probably attributable to factors including, among others, specific historical events, such as the case for Egypt,<xref rid="jmv24921-bib-0012" ref-type="ref">12</xref>, <xref rid="jmv24921-bib-0038" ref-type="ref">38</xref>, <xref rid="jmv24921-bib-0044" ref-type="ref">44</xref> how HCV was introduced to each country, such as through migrant population movements,<xref rid="jmv24921-bib-0040" ref-type="ref">40</xref>, <xref rid="jmv24921-bib-0041" ref-type="ref">41</xref> and importation of blood products (mostly from Western countries) before the onset of HCV blood screening,<xref rid="jmv24921-bib-0024" ref-type="ref">24</xref>, <xref rid="jmv24921-bib-0045" ref-type="ref">45</xref> Genotype diversity appears also to be influenced by the type of drivers of HCV transmission in each country, such as the role of PWID and association with genotype 3.<xref rid="jmv24921-bib-0046" ref-type="ref">46</xref>, <xref rid="jmv24921-bib-0047" ref-type="ref">47</xref>
+</p><p>PWID may play a larger relative role in HCV transmission in the future, as exposures in the wider population are further controlled. Injecting drug use is a major challenge in MENA,<xref rid="jmv24921-bib-0048" ref-type="ref">48</xref>, <xref rid="jmv24921-bib-0049" ref-type="ref">49</xref> but we found a small number of genotype studies among PWID. Available data suggests that the genotypes circulating among PWID in a given country, tend to be similar to those circulating in the wider population in this country (Supplementary Table S1). We are thus unable to see whether there are associations between specific genotypes and injecting drug use, such as the genotype 3 link seen in the global literature.<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref>, <xref rid="jmv24921-bib-0050" ref-type="ref">50</xref>, <xref rid="jmv24921-bib-0051" ref-type="ref">51</xref> As suggested by recent studies, however, there seems to be a shift toward genotype 3 in Iran.<xref rid="jmv24921-bib-0046" ref-type="ref">46</xref>, <xref rid="jmv24921-bib-0047" ref-type="ref">47</xref> This is particularly among young patients, and is apparently linked to injecting drug use increasingly becoming the main route of HCV transmission.<xref rid="jmv24921-bib-0046" ref-type="ref">46</xref>, <xref rid="jmv24921-bib-0047" ref-type="ref">47</xref>
+</p><p>Our study has several limitations. We did not find HCV genotype studies for four MENA countries, and there were too few studies to conduct meta&#x02010;analyses for another five countries. The number of studies also varied by country, and sample size of genotyped individuals was small for a number of studies. Studies may have also sampled populations from specific geographic areas within a given country, or select sub&#x02010;populations. We did not assess secular trends in genotype distribution, such as using meta&#x02010;regressions, as such analyses are challenged by the heterogeneity in available data and by the fact that genotype diversity is very low in the two countries that contribute most chronic infections in this region (namely, Egypt and Pakistan; Table <xref rid="jmv24921-tbl-0002" ref-type="table-wrap">2</xref>). Accordingly, available genotype data may not have captured the diversity and true distribution of genotypes in the wider population of each country.</p><p>Key strengths of our study are the systematic and comprehensive searches that yielded our input data, and the fact that we synthesized and analyzed these data using state of the art quantitative methods. In addition to international databases, we identified a volume of data through regional and national databases, and included non&#x02010;English articles, public health reports, and routine data reporting. We have therefore identified much more data than is present in existing global or regional studies of HCV genotypes,<xref rid="jmv24921-bib-0007" ref-type="ref">7</xref>, <xref rid="jmv24921-bib-0009" ref-type="ref">9</xref>, <xref rid="jmv24921-bib-0052" ref-type="ref">52</xref> and presented a detailed picture of HCV genotypes and their patterns and diversity in MENA.</p><p>In conclusion, genotypes 3 and 4 are the most common genotypes in MENA, with equal contributions, in large part because of the sizable HCV epidemics in Pakistan and Egypt. While genotype 1 was ubiquitous, and was dominant or common in most countries, its overall contribution was still small compared to those of genotypes 3 and 4. Three sub&#x02010;regional genotype patterns were identified, and these appeared to reflect cross&#x02010;border population movements and geographic proximity. Two patterns were centered in each of Pakistan (genotype 3 pattern) and Egypt (genotype 4 pattern), while the third (genotype 1 pattern) was similar with the most common global pattern. While genotype diversity was limited in Egypt and Pakistan, it was considerable in the other countries. Genotypes 2, 5, 6, and 7 did not have significant presence. These findings inform the DAA treatment programs that are being expanded in MENA, and provide insights into HCV transmission pathways.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>Additional Supporting Information may be found online in the supporting information tab for this article.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supporting Data S1.</p></caption><media xlink:href="JMV-90-131-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jmv24921-sec-0019"><title>ACKNOWLEDGMENTS</title><p>This work was supported by National Priorities Research Program (NPRP) [grant number 9&#x02010;040&#x02010;3&#x02010;008] from the Qatar National Research Fund (a member of Qatar Foundation). The findings achieved herein are solely the responsibility of the authors. The authors are also grateful for infrastructure support provided by the Biostatistics, Epidemiology, and Biomathematics Research Core at Weill Cornell Medicine&#x02010;Qatar.</p></ack><ack id="jmv24921-sec-0020"><title>AUTHORS&#x02019; CONTRIBUTIONS</title><p>SM conducted extraction, analysis and wrote the first draft of the paper. LJA&#x02010;R conceived and led the design of the study, analyses and drafting of the article. All authors contributed to the extraction of data, discussion of results, and writing of the manuscript.</p></ack><ack id="jmv24921-sec-0021"><title>CONFLICTS OF INTEREST</title><p>The authors have no conflicts of interest to disclose.</p></ack><ref-list id="jmv24921-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="jmv24921-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv24921-cit-0001">
+<string-name>
+<surname>Martinot&#x02010;Peignoux</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Roudot&#x02010;Thoraval</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Mendel</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Hepatitis C virus genotypes in France: relationship with epidemiology, pathogenicity and response to interferon therapy</article-title>. 
+<source>J Viral Hepat</source>. 
+<year>1999</year>;
+<volume>6</volume>:<fpage>435</fpage>&#x02013;<lpage>443</lpage>.
+<pub-id pub-id-type="pmid">10607261</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmv24921-cit-0002">
+<string-name>
+<surname>Rosen</surname>
+<given-names>HR</given-names>
+</string-name>, 
+<string-name>
+<surname>Martin</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Viral hepatitis in the liver transplant recipient</article-title>. 
+<source>Infect Dis Clin</source>. 
+<volume>14</volume>:<fpage>761</fpage>&#x02013;<lpage>784</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv24921-cit-0003">
+<string-name>
+<surname>Lauer</surname>
+<given-names>GM</given-names>
+</string-name>, 
+<string-name>
+<surname>Walker</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Hepatitis C virus infection</article-title>. 
+<source>N Engl J Med</source>. 
+<year>2001</year>;
+<volume>345</volume>:<fpage>41</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="pmid">11439948</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv24921-cit-0004">
+<string-name>
+<surname>Bouvard</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Baan</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Straif</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>A review of human carcinogens&#x02014;Part B: biological agents</article-title>. 
+<source>Elsevier</source>. 
+<year>2009</year>;
+<volume>10</volume>:<fpage>321</fpage>&#x02013;<lpage>322</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0005">WHO. Global Hepatitis Report, 2017. Online: <ext-link ext-link-type="uri" xlink:href="https://www.who.int/hepatitis/publications/global-hepatitis-report2017/en/">https://www.who.int/hepatitis/publications/global&#x02010;hepatitis&#x02010;report2017/en/</ext-link>. <fpage>2017</fpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0006">WHO. The epidemiology of hepatitis C virus in the World Health Organization Eastern Mediterranean Region: Implications for strategic action. Eastern Mediterranean Hepatitis C Virus Epidemiology Synthesis Project. (in press). 
+<year>2017</year>.
+</mixed-citation></ref><ref id="jmv24921-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv24921-cit-0007">
+<string-name>
+<surname>Messina</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Humphreys</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Flaxman</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Global distribution and prevalence of hepatitis C virus genotypes</article-title>. 
+<source>Hepatology</source>. 
+<year>2015</year>;
+<volume>61</volume>:<fpage>77</fpage>&#x02013;<lpage>87</lpage>.
+<pub-id pub-id-type="pmid">25069599</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv24921-cit-0008">
+<string-name>
+<surname>Collaborators</surname>
+<given-names>TPOH</given-names>
+</string-name>. <article-title>Global prevalence and genotype distribution of hepatitis C virus infection in 2015: a modelling study</article-title>. 
+<source>Lancet Gastroenterol Hepatol</source>. 
+<year>2016</year>;
+<volume>2</volume>:<fpage>161</fpage>&#x02013;<lpage>176</lpage>.
+<pub-id pub-id-type="pmid">28404132</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv24921-cit-0009">
+<string-name>
+<surname>Gower</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Estes</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Blach</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Razavi&#x02010;Shearer</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Razavi</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Global epidemiology and genotype distribution of the hepatitis C virus infection</article-title>. 
+<source>J Hepatol</source>. 
+<year>2014</year>;
+<volume>61</volume>:<fpage>S45</fpage>&#x02013;<lpage>S57</lpage>.
+<pub-id pub-id-type="pmid">25086286</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv24921-cit-0010">
+<string-name>
+<surname>Zein</surname>
+<given-names>NN</given-names>
+</string-name>. <article-title>Clinical significance of hepatitis C virus genotypes</article-title>. 
+<source>Clin Microbiol Rev</source>. 
+<year>2000</year>;
+<volume>13</volume>:<fpage>223</fpage>&#x02013;<lpage>235</lpage>.
+<pub-id pub-id-type="pmid">10755999</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0011">EASL. EASL recommendations on treatment of hepatitis C 2016. Online: <ext-link ext-link-type="uri" xlink:href="https://www.easl.eu/research/our-contributions/clinical-practice-guidelines/detail/easl-recommendations-on-treatment-of-hepatitis-c-2016">https://www.easl.eu/research/our&#x02010;contributions/clinical&#x02010;practice&#x02010;guidelines/detail/easl&#x02010;recommendations&#x02010;on&#x02010;treatment&#x02010;of&#x02010;hepatitis&#x02010;c&#x02010;2016</ext-link>. <fpage>2016</fpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv24921-cit-0012">
+<string-name>
+<surname>Mohamoud</surname>
+<given-names>YA</given-names>
+</string-name>, 
+<string-name>
+<surname>Mumtaz</surname>
+<given-names>GR</given-names>
+</string-name>, 
+<string-name>
+<surname>Riome</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Miller</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>The epidemiology of hepatitis C virus in Egypt: a systematic review and data synthesis</article-title>. 
+<source>BMC Infect Dis</source>. 
+<year>2013</year>;
+<volume>13</volume>:<fpage>1</fpage>.
+<pub-id pub-id-type="pmid">23280237</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv24921-cit-0013">
+<string-name>
+<surname>Chemaitelly</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Chaabna</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>The epidemiology of hepatitis C virus in the Fertile Crescent: systematic review and meta&#x02010;analysis</article-title>. 
+<source>PLoS ONE</source>. 
+<year>2015</year>;
+<volume>10</volume>:<fpage>0135281</fpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv24921-cit-0014">
+<string-name>
+<surname>Chemaitelly</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Mahmud</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Rahmani</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>The epidemiology of hepatitis C virus in Afghanistan: systematic review and meta&#x02010;analysis</article-title>. 
+<source>Int J Infect Dis</source>. 
+<year>2015</year>;
+<volume>40</volume>:<fpage>54</fpage>&#x02013;<lpage>63</lpage>.
+<pub-id pub-id-type="pmid">26417880</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv24921-cit-0015">
+<string-name>
+<surname>Fadlalla</surname>
+<given-names>FA</given-names>
+</string-name>, 
+<string-name>
+<surname>Mohamoud</surname>
+<given-names>YA</given-names>
+</string-name>, 
+<string-name>
+<surname>Mumtaz</surname>
+<given-names>GR</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>The epidemiology of hepatitis C virus in the maghreb region: systematic review and meta&#x02010;analyses</article-title>. 
+<source>PLoS ONE</source>. 
+<year>2015</year>;
+<volume>10</volume>:<fpage>e0121873</fpage>.
+<pub-id pub-id-type="pmid">25803848</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv24921-cit-0016">
+<string-name>
+<surname>Chaabna</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Kouyoumjian</surname>
+<given-names>SP</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Hepatitis C virus epidemiology in Djibouti, Somalia, Sudan, and Yemen: systematic review and meta&#x02010;analysis</article-title>. 
+<source>PLoS ONE</source>. 
+<year>2016</year>;
+<volume>11</volume>:<fpage>e0149966</fpage>.
+<pub-id pub-id-type="pmid">26900839</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0017">
+<string-name>
+<surname>Al&#x02010;Kanaani</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Kouyoumjian</surname>
+<given-names>SP</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. The epidemiology of hepatitis C virus in Pakistan: systematic review and meta&#x02010;analyses (under preparation)
+</mixed-citation></ref><ref id="jmv24921-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv24921-cit-0018">
+<string-name>
+<surname>Mohamoud</surname>
+<given-names>YA</given-names>
+</string-name>, 
+<string-name>
+<surname>Riome</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Epidemiology of hepatitis C virus in the Arabian Gulf countries: systematic review and meta&#x02010;analysis of prevalence</article-title>. 
+<source>Int J Infect. Dis</source>. 
+<year>2016</year>;
+<volume>46</volume>:<fpage>116</fpage>&#x02013;<lpage>125</lpage>.
+<pub-id pub-id-type="pmid">26996460</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0019">
+<string-name>
+<surname>Mahmud</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Akbarzadeh</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. The epidemiology of hepatitis C virus in Iran: systematic review and meta&#x02010;analyses (under review)
+</mixed-citation></ref><ref id="jmv24921-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jmv24921-cit-0020">
+<string-name>
+<surname>Chaabna</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Mohamoud</surname>
+<given-names>YA</given-names>
+</string-name>, 
+<string-name>
+<surname>Chemaitelly</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Mumtaz</surname>
+<given-names>GR</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Protocol for a systematic review and meta&#x02010;analysis of hepatitis C virus (HCV) prevalence and incidence in the Horn of Africa sub&#x02010;region of the Middle East and North Africa</article-title>. 
+<source>Syst Rev</source>. 
+<year>2014</year>;
+<volume>3</volume>:<fpage>1</fpage>.
+<pub-id pub-id-type="pmid">24383422</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0021"><label>21</label><mixed-citation publication-type="book" id="jmv24921-cit-0021">
+<string-name>
+<surname>Higgins</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Green</surname>
+<given-names>S</given-names>
+</string-name>. 
+<year>2008</year>
+<source>Cochrane handbook for systematic reviews of interventions</source>. 
+<publisher-name>Wiley Online Library</publisher-name>, <ext-link ext-link-type="uri" xlink:href="https://handbook-5-1.cochrane.org/">https://handbook&#x02010;5&#x02010;1.cochrane.org/</ext-link>
+</mixed-citation></ref><ref id="jmv24921-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jmv24921-cit-0022">
+<string-name>
+<surname>Moher</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Liberati</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Tetzlaff</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>Preferred reporting items for systematic reviews and meta&#x02010;analyses: the PRISMA statement</article-title>. 
+<source>Ann Intern Med</source>. 
+<year>2009</year>;
+<volume>151</volume>:<fpage>264</fpage>&#x02013;<lpage>269</lpage>.
+<pub-id pub-id-type="pmid">19622511</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jmv24921-cit-0023">
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Hilmi</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Mumtaz</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Epidemiology of HIV infection in the middle east and north africa</article-title>. 
+<source>AIDS</source>. 
+<year>2010</year>;
+<volume>24</volume>:<fpage>S5</fpage>&#x02013;<lpage>S23</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0024"><label>24</label><mixed-citation publication-type="book" id="jmv24921-cit-0024">
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>L AF</given-names>
+</string-name>, 
+<string-name>
+<surname>Semini</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Reidner</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Wilson</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Tavil</surname>
+<given-names>O</given-names>
+</string-name>. 
+<year>2010</year>
+<source>Characterizing the HIV/AIDS epidemic in the Middle East and North Africa: time for strategic action</source>. 
+<publisher-loc>Washington DC</publisher-loc>: 
+<publisher-name>The World Bank Press</publisher-name>.
+</mixed-citation></ref><ref id="jmv24921-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jmv24921-cit-0025">
+<string-name>
+<surname>Choo</surname>
+<given-names>Q&#x02010;L</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuo</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Weiner</surname>
+<given-names>AJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Overby</surname>
+<given-names>LR</given-names>
+</string-name>, 
+<string-name>
+<surname>Bradley</surname>
+<given-names>DW</given-names>
+</string-name>, 
+<string-name>
+<surname>Houghton</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Isolation of a cDNA clone derived from a blood&#x02010;borne non&#x02010;A, non&#x02010;B viral hepatitis genome</article-title>. 
+<source>Science</source>. 
+<year>1989</year>;
+<volume>244</volume>:<fpage>359</fpage>&#x02013;<lpage>362</lpage>.
+<pub-id pub-id-type="pmid">2523562</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jmv24921-cit-0026">
+<string-name>
+<surname>Kuo</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Choo</surname>
+<given-names>Q</given-names>
+</string-name>, 
+<string-name>
+<surname>Alter</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>An assay for circulating antibodies to a major etiologic virus of human non&#x02010;A, non&#x02010;B hepatitis</article-title>. 
+<source>Science</source>. 
+<year>1989</year>;
+<volume>244</volume>:<fpage>362</fpage>&#x02013;<lpage>364</lpage>.
+<pub-id pub-id-type="pmid">2496467</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0027"><label>27</label><mixed-citation publication-type="book" id="jmv24921-cit-0027">
+<string-name>
+<surname>Borenstein</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Hedges</surname>
+<given-names>LV</given-names>
+</string-name>, 
+<string-name>
+<surname>Higgins</surname>
+<given-names>JPT</given-names>
+</string-name>, 
+<string-name>
+<surname>Rothstein</surname>
+<given-names>HR</given-names>
+</string-name>. 
+<year>2011</year>
+<source>Introduction to meta&#x02010;analysis</source>. 
+<publisher-loc>Chichester, U.K</publisher-loc>: 
+<publisher-name> John Wiley &#x00026; Sons</publisher-name>.
+</mixed-citation></ref><ref id="jmv24921-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jmv24921-cit-0028">
+<string-name>
+<surname>Freeman</surname>
+<given-names>MF</given-names>
+</string-name>, 
+<string-name>
+<surname>Tukey</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>Transformations related to the angular and the square root</article-title>. 
+<source>Ann Math Stat</source>. 
+<volume>1950</volume>:<fpage>607</fpage>&#x02013;<lpage>611</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jmv24921-cit-0029">
+<string-name>
+<surname>Higgin</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Thompson</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Deeks</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Altman</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Measuring inconsistency in meta&#x02010;analysis</article-title>. 
+<source>Br Med J</source>. 
+<year>2003</year>;
+<volume>327</volume>:<fpage>557</fpage>&#x02013;<lpage>560</lpage>.
+<pub-id pub-id-type="pmid">12958120</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0030"><label>30</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0030">Team RC. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. Version 3.1. 2. 2014. Online: <ext-link ext-link-type="uri" xlink:href="https://wwwR-projectorg">https://wwwR&#x02010;projectorg</ext-link>.
+</mixed-citation></ref><ref id="jmv24921-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0031">Tableau 10.1 ed. Seattle, Washington 2017. p. Online: <ext-link ext-link-type="uri" xlink:href="https://www.tableau.com/">https://www.tableau.com/</ext-link>.
+</mixed-citation></ref><ref id="jmv24921-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jmv24921-cit-0032">
+<string-name>
+<surname>Shannon</surname>
+<given-names>CE.</given-names>
+</string-name> A mathematical theory of communication. ACM SIGMOBILE Mobile Computing and Communications Review. 
+<year>2001</year>;
+<volume>5</volume>(<issue>1</issue>):<fpage>3</fpage>&#x02013;<lpage>55</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0033"><label>33</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0033">
+<string-name>
+<surname>Chemaitelly</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Mahmud</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Kouyoumjian</surname>
+<given-names>SP</given-names>
+</string-name>, 
+<string-name>
+<surname>Al&#x02010;Kanaani</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Chaabna</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ.</given-names>
+</string-name> Estimation of Hepatitis C Virus Chronic Infections in Middle East and North Africa (under preperation). 
+<year>2017</year>.
+</mixed-citation></ref><ref id="jmv24921-bib-0034"><label>34</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0034">Department of Economic and Social Affairs UN. World Population Prospects, the 2015 Revision. Online:<ext-link ext-link-type="uri" xlink:href="https://esa.un.org/unpd/wpp/">https://esa.un.org/unpd/wpp/</ext-link>.
+</mixed-citation></ref><ref id="jmv24921-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jmv24921-cit-0035">
+<string-name>
+<surname>Rajabali</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Moin</surname>
+<given-names>O</given-names>
+</string-name>, 
+<string-name>
+<surname>Ansari</surname>
+<given-names>AS</given-names>
+</string-name>, 
+<string-name>
+<surname>Khanani</surname>
+<given-names>MR</given-names>
+</string-name>, 
+<string-name>
+<surname>Ali</surname>
+<given-names>SH</given-names>
+</string-name>. <article-title>Communicable disease among displaced Afghans: refuge without shelter</article-title>. 
+<source>Nat Rev Micro</source>. 
+<year>2009</year>;
+<volume>7</volume>:<fpage>609</fpage>&#x02013;<lpage>614</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jmv24921-cit-0036">
+<string-name>
+<surname>Kronenfeld</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Afghan refugees in Pakistan: not all refugees, not always in Pakistan, not necessarily Afghan</article-title>? 
+<source>J Refug Stud</source>. 
+<year>2008</year>;
+<volume>21</volume>:<fpage>43</fpage>&#x02013;<lpage>63</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jmv24921-cit-0037">
+<string-name>
+<surname>Choucri</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The new migration in the Middle East: a problem for whom</article-title>? 
+<source>Int Migr Rev</source>. 
+<year>1977</year>;<fpage>421</fpage>&#x02013;<lpage>443</lpage>.
+<pub-id pub-id-type="pmid">12278662</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0038"><label>38</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0038">
+<string-name>
+<surname>Kouyoumjian</surname>
+<given-names>SP</given-names>
+</string-name>, 
+<string-name>
+<surname>Chemaitelly</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. Understanding the hepatitis C virus epidemic in Egypt: systematic reviews, meta&#x02010;analyses. and meta&#x02010;regression analyses (under review).
+</mixed-citation></ref><ref id="jmv24921-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jmv24921-cit-0039">
+<string-name>
+<surname>Feiler</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Migration and recession: arab labor mobility in the Middle East, 1982&#x02013;89</article-title>. 
+<source>Popul Dev Rev</source>. 
+<volume>1991</volume>:<fpage>134</fpage>&#x02013;<lpage>155</lpage>.
+</mixed-citation></ref><ref id="jmv24921-bib-0040"><label>40</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0040">
+<string-name>
+<surname>Bommes</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Fassman</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Sievers</surname>
+<given-names>W</given-names>
+</string-name>. Migration from the middle east and north africa to europe: past developments, current status and future potentials. Amsterdam: Amsterdam University Press; 
+<year>2014</year>.
+</mixed-citation></ref><ref id="jmv24921-bib-0041"><label>41</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0041">International Organization for Migration. Global Migration Flows, 2015 (Available at: <ext-link ext-link-type="uri" xlink:href="https://www.iom.int/world-migration,Accessed:May,2017">https://www.iom.int/world&#x02010;migration,Accessed:May,2017</ext-link>).
+</mixed-citation></ref><ref id="jmv24921-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jmv24921-cit-0042">
+<string-name>
+<surname>Ruggieri</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Argentini</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Kouruma</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Heterogeneity of hepatitis C virus genotype 2 variants in west central africa (Guinea conakry)</article-title>. 
+<source>J Gen Virol</source>. 
+<year>1996</year>;
+<volume>77</volume>:<fpage>2073</fpage>&#x02013;<lpage>2076</lpage>.
+<pub-id pub-id-type="pmid">8811005</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jmv24921-cit-0043">
+<string-name>
+<surname>Jeannel</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Fretz</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Traore</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Evidence for high genetic diversity and long&#x02010;term endemicity of hepatitis C virus genotypes 1 and 2 in West Africa</article-title>. 
+<source>J Med Virol</source>. 
+<year>1998</year>;
+<volume>55</volume>:<fpage>92</fpage>&#x02013;<lpage>97</lpage>.
+<pub-id pub-id-type="pmid">9598927</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jmv24921-cit-0044">
+<string-name>
+<surname>Frank</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Mohamed</surname>
+<given-names>MK</given-names>
+</string-name>, 
+<string-name>
+<surname>Strickland</surname>
+<given-names>GT</given-names>
+</string-name>, et al. <article-title>The role of parenteral antischistosomal therapy in the spread of hepatitis C virus in Egypt</article-title>. 
+<source>Lancet</source>
+<year>2000</year>;
+<volume>355</volume>:<fpage>887</fpage>&#x02013;<lpage>891</lpage>.
+<pub-id pub-id-type="pmid">10752705</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jmv24921-cit-0045">
+<string-name>
+<surname>Mohamoud</surname>
+<given-names>YA</given-names>
+</string-name>, 
+<string-name>
+<surname>Miller</surname>
+<given-names>FD</given-names>
+</string-name>, 
+<string-name>
+<surname>Abu&#x02010;Raddad</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Potential for human immunodeficiency virus parenteral transmission in the Middle East and North Africa: an analysis using hepatitis C virus as a proxy biomarker</article-title>. 
+<source>World J Gastroenterol</source>. 
+<year>2014</year>;
+<volume>20</volume>:<fpage>12734</fpage>.
+<pub-id pub-id-type="pmid">25278675</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jmv24921-cit-0046">
+<string-name>
+<surname>Taherkhani</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Farshadpour</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Epidemiology of hepatitis C virus in Iran</article-title>. 
+<source>World J Gastroenterol</source>. 
+<year>2015</year>;
+<volume>21</volume>:<fpage>10790</fpage>&#x02013;<lpage>10810</lpage>.
+<pub-id pub-id-type="pmid">26478671</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jmv24921-cit-0047">
+<string-name>
+<surname>Jahanbakhsh Sefidi</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Keyvani</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Monavari</surname>
+<given-names>SH</given-names>
+</string-name>, 
+<string-name>
+<surname>Alavian</surname>
+<given-names>SM</given-names>
+</string-name>, 
+<string-name>
+<surname>Fakhim</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Bokharaei&#x02010;Salim</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Distribution of hepatitis C virus genotypes in iranian chronic infected patients</article-title>. 
+<source>Hepatitis Monthly</source>. 
+<year>2013</year>;
+<volume>13</volume>:<fpage>e7991</fpage>.
+<pub-id pub-id-type="pmid">23550108</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0048"><label>48</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0048">United Nations Office on Drugs and Crime. World Drug Report, 2016 (Available at: <ext-link ext-link-type="uri" xlink:href="https://www.unodc.org/wdr2016/">https://www.unodc.org/wdr2016/</ext-link>, Accessed: May 2017).
+</mixed-citation></ref><ref id="jmv24921-bib-0049"><label>49</label><mixed-citation publication-type="miscellaneous" id="jmv24921-cit-0049">
+<string-name>
+<surname>Mumtaz</surname>
+<given-names>GR AS</given-names>
+</string-name>, 
+<string-name>
+<surname>Faizzadeh</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Weiss</surname>
+<given-names>HA</given-names>
+</string-name>, Abu&#x02010;Raddad LJ HIV incidence among people who inject drugs in the Middle East and North Africa: mathematical modeling analysis (under review).
+</mixed-citation></ref><ref id="jmv24921-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jmv24921-cit-0050">
+<string-name>
+<surname>Pawlotsky</surname>
+<given-names>J&#x02010;M</given-names>
+</string-name>, 
+<string-name>
+<surname>Tsakiris</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Roudot&#x02010;Thoraval</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Relationship between hepatitis C virus genotypes and sources of infection in patients with chronic hepatitis C</article-title>. 
+<source>J Infect Dis</source>. 
+<year>1995</year>;
+<volume>171</volume>:<fpage>1607</fpage>&#x02013;<lpage>1610</lpage>.
+<pub-id pub-id-type="pmid">7769300</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jmv24921-cit-0051">
+<string-name>
+<surname>Ramia</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Eid&#x02010;Fares</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Distribution of hepatitis C virus genotypes in the Middle East</article-title>. 
+<source>Int J Infect Dis</source>. 
+<year>2006</year>;
+<volume>10</volume>:<fpage>272</fpage>&#x02013;<lpage>277</lpage>.
+<pub-id pub-id-type="pmid">16564719</pub-id></mixed-citation></ref><ref id="jmv24921-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jmv24921-cit-0052">
+<string-name>
+<surname>Sadeghi</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Salehi&#x02010;Vaziri</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Almasi&#x02010;Hashiani</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Gholami&#x02010;Fesharaki</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Pakzad</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Alavian</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Prevalence of hepatitis C virus genotypes among patients in countries of the eastern mediterranean regional office of WHO (EMRO): a systematic review and meta&#x02010;analysis</article-title>. 
+<source>Hepatitis monthly</source>
+<year>2016</year>;
+<volume>16</volume>:<fpage>35558</fpage>.
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,572 @@
+{
+  "id": [
+    "31779660"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31779660"
+  ],
+  "pmcid": [
+    "PMC6883714"
+  ],
+  "doi": [
+    "10.1186/s12992-019-0525-3"
+  ],
+  "title": [
+    "A conceptual framework for capacity strengthening of health research in conflict: the case of the Middle East and North Africa region."
+  ],
+  "authorString": [
+    "El Achi N, Papamichail A, Rizk A, Lindsay H, Menassa M, Abdul-Khalek RA, Ekzayez A, Dewachi O, Patel P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "El Achi N"
+          ],
+          "firstName": [
+            "Nassim"
+          ],
+          "lastName": [
+            "El Achi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6841-0976",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Conflict Medicine Program, Global Health Institute, American University of Beirut, Beirut, 1107 2020, Lebanon. ne88@aub.edu.lb."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Papamichail A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Papamichail"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8938-6410",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Politics & International Relations, Queen Mary University of London, London, E1 4NS, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rizk A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Rizk"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Conflict Medicine Program, Global Health Institute, American University of Beirut, Beirut, 1107 2020, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lindsay H"
+          ],
+          "firstName": [
+            "Helen"
+          ],
+          "lastName": [
+            "Lindsay"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Conflict Medicine Program, Global Health Institute, American University of Beirut, Beirut, 1107 2020, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Menassa M"
+          ],
+          "firstName": [
+            "Marilyne"
+          ],
+          "lastName": [
+            "Menassa"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Conflict Medicine Program, Global Health Institute, American University of Beirut, Beirut, 1107 2020, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Abdul-Khalek RA"
+          ],
+          "firstName": [
+            "Rima A"
+          ],
+          "lastName": [
+            "Abdul-Khalek"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7082-8098",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Conflict Medicine Program, Global Health Institute, American University of Beirut, Beirut, 1107 2020, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ekzayez A"
+          ],
+          "firstName": [
+            "Abdulkarim"
+          ],
+          "lastName": [
+            "Ekzayez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2104-3363",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of War Studies, King's College London, London, WC2R 2LS, UK."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dewachi O"
+          ],
+          "firstName": [
+            "Omar"
+          ],
+          "lastName": [
+            "Dewachi"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Conflict Medicine Program, Global Health Institute, American University of Beirut, Beirut, 1107 2020, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Patel P"
+          ],
+          "firstName": [
+            "Preeti"
+          ],
+          "lastName": [
+            "Patel"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3875-453X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of War Studies, King's College London, London, WC2R 2LS, UK."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6841-0976",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8938-6410",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7082-8098",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2104-3363",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3875-453X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2876260"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Globalization and health"
+          ],
+          "ISOAbbreviation": [
+            "Global Health"
+          ],
+          "medlineAbbreviation": [
+            "Global Health"
+          ],
+          "NLMid": [
+            "101245734"
+          ],
+          "ISSN": [
+            "1744-8603"
+          ],
+          "ESSN": [
+            "1744-8603"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "81"
+  ],
+  "abstractText": [
+    "BACKGROUND:In conflict settings, research capacities have often been de-prioritized as resources are diverted to emergency needs, such as addressing elevated morbidity, mortality and health system challenges directly and/or indirectly associated to war. This has had an adverse long-term impact in such protracted conflicts such as those found in the Middle East and North Africa region (MENA), where research knowledge and skills have often been compromised. In this paper, we propose a conceptual framework for health research capacity strengthening that adapts existing models and frameworks in low- and middle-income countries and uses our knowledge of the MENA context to contextualise them for conflict settings. METHODS:The framework was synthesized using \"best fit\" framework synthesis methodology. Relevant literature, available in English and Arabic, was collected through PubMed, Google Scholar and Google using the keywords: capacity building; capacity strengthening; health research; framework and conflict. Grey literature was also assessed. RESULTS:The framework is composed of eight principal themes: \"structural levels\", \"the influence of the external environment\", \"funding, community needs and policy environment\", \"assessing existing capacity and needs\", \"infrastructure and communication\", \"training, leadership and partnership\", \"adaptability and sustainability\", and \"monitoring and evaluation\"; with each theme being supported by examples from the MENA region. Our proposed framework takes into consideration safety, infrastructure, communication and adaptability as key factors that affect research capacity strengthening in conflict. As it is the case more generally, funding, permissible political environments and sustainability are major determinants of success for capacity strengthening for health research programmes, though these are significantly more challenging in conflict settings. Nonetheless, health research capacity strengthening should remain a priority. CONCLUSION:The model presented is the first framework that focuses on strengthening health research capacity in conflict with a focus on the MENA region. It should be viewed as a non-prescriptive reference tool for health researchers and practitioners, from various disciplines, involved in research capacity strengthening to evaluate, use, adapt and improve. It can be further extended to include representative indicators and can be later evaluated by assessing its efficacy for interventions in conflict settings."
+  ],
+  "affiliation": [
+    "Conflict Medicine Program, Global Health Institute, American University of Beirut, Beirut, 1107 2020, Lebanon. ne88@aub.edu.lb."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ES/P010962/1"
+          ],
+          "agency": [
+            "Economic and Social Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Research",
+        "Health",
+        "Conceptual framework",
+        "Conflict",
+        "Mena",
+        "Capacity Strengthening"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12992-019-0525-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6883714"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6883714?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12992-019-0525-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-30"
+  ],
+  "firstIndexDate": [
+    "2019-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-28"
+  ],
+  "firstPublicationDate": [
+    "2019-11-28"
+  ]
+}

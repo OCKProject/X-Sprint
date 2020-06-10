@@ -1,0 +1,509 @@
+{
+  "id": [
+    "29970282"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29970282"
+  ],
+  "pmcid": [
+    "PMC6158345"
+  ],
+  "doi": [
+    "10.1016/j.tcb.2018.06.003"
+  ],
+  "title": [
+    "Actin-Based Cell Protrusion in a 3D Matrix."
+  ],
+  "authorString": [
+    "Caswell PT, Zech T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Caswell PT"
+          ],
+          "firstName": [
+            "Patrick T"
+          ],
+          "lastName": [
+            "Caswell"
+          ],
+          "initials": [
+            "PT"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Wellcome Trust Centre for Cell-Matrix Research, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK. Electronic address: patrick.caswell@manchester.ac.uk."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zech T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Zech"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8394-088X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cellular and Molecular Physiology, Institute of Translational Medicine, University of Liverpool, Liverpool, UK. Electronic address: t.zech@liverpool.ac.uk."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8394-088X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "28"
+      ],
+      "journalIssueId": [
+        "2730344"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trends in cell biology"
+          ],
+          "ISOAbbreviation": [
+            "Trends Cell Biol."
+          ],
+          "medlineAbbreviation": [
+            "Trends Cell Biol"
+          ],
+          "NLMid": [
+            "9200566"
+          ],
+          "ISSN": [
+            "0962-8924"
+          ],
+          "ESSN": [
+            "1879-3088"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "823-834"
+  ],
+  "abstractText": [
+    "Cell migration controls developmental processes (gastrulation and tissue patterning), tissue homeostasis (wound repair and inflammatory responses), and the pathobiology of diseases (cancer metastasis and inflammation). Understanding how cells move in physiologically relevant environments is of major importance, and the molecular machinery behind cell movement has been well studied on 2D substrates, beginning over half a century ago. Studies over the past decade have begun to reveal the mechanisms that control cell motility within 3D microenvironments - some similar to, and some highly divergent from those found in 2D. In this review we focus on migration and invasion of cells powered by actin, including formation of actin-rich protrusions at the leading edge, and the mechanisms that control nuclear movement in cells moving in a 3D matrix."
+  ],
+  "affiliation": [
+    "Wellcome Trust Centre for Cell-Matrix Research, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK. Electronic address: patrick.caswell@manchester.ac.uk."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "203128/Z/16/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "1797330"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Surface Extensions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Extracellular Matrix"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Actin",
+        "Migration",
+        "Invasion",
+        "lamellipodia",
+        "Protrusion",
+        "Filopodia"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Actins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.tcb.2018.06.003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6158345"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6158345?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.tcb.2018.06.003"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-24"
+  ],
+  "dateOfCreation": [
+    "2018-07-05"
+  ],
+  "firstIndexDate": [
+    "2018-07-04"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-30"
+  ],
+  "firstPublicationDate": [
+    "2018-06-30"
+  ],
+  "embargoDate": [
+    "2018-10-01"
+  ]
+}

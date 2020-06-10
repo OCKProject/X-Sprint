@@ -1,0 +1,457 @@
+{
+  "id": [
+    "27820831"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27820831"
+  ],
+  "pmcid": [
+    "PMC5098740"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0164500"
+  ],
+  "title": [
+    "Scientific Wealth in Middle East and North Africa: Productivity, Indigeneity, and Specialty in 1981-2013."
+  ],
+  "authorString": [
+    "Siddiqi A, Stoppani J, Anadon LD, Narayanamurti V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Siddiqi A"
+          ],
+          "firstName": [
+            "Afreen"
+          ],
+          "lastName": [
+            "Siddiqi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3786-5644",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Institute for Data, Systems, and Society, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stoppani J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Stoppani"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Haute école spécialisée de Suisse occidentale, Boulevard de Perolles 80, 1700, Fribourg, Switzerland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Anadon LD"
+          ],
+          "firstName": [
+            "Laura Diaz"
+          ],
+          "lastName": [
+            "Anadon"
+          ],
+          "initials": [
+            "LD"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Politics and International Studies, University of Cambridge, Cambridge, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Narayanamurti V"
+          ],
+          "firstName": [
+            "Venkatesh"
+          ],
+          "lastName": [
+            "Narayanamurti"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Engineering and Applied Sciences, Harvard University, Cambridge, Massachusetts, United States of America."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3786-5644",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2483849"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0164500"
+  ],
+  "abstractText": [
+    "Several developing countries seek to build knowledge-based economies by attempting to expand scientific research capabilities. Characterizing the state and direction of progress in this arena is challenging but important. Here, we employ three metrics: a classical metric of productivity (publications per person), an adapted metric which we denote as Revealed Scientific Advantage (developed from work used to compare publications in scientific fields among countries) to characterize disciplinary specialty, and a new metric, scientific indigeneity (defined as the ratio of publications with domestic corresponding authors) to characterize the locus of scientific activity that also serves as a partial proxy for local absorptive capacity. These metrics-using population and publications data that are available for most countries-allow the characterization of some key features of national scientific enterprise. The trends in productivity and indigeneity when compared across other countries and regions can serve as indicators of strength or fragility in the national research ecosystems, and the trends in specialty can allow regional policy makers to assess the extent to which the areas of focus of research align (or not align) with regional priorities. We apply the metrics to study the Middle East and North Africa (MENA)-a region where science and technology capacity will play a key role in national economic diversification. We analyze 9.8 million publication records between 1981-2013 in 17 countries of MENA from Morocco to Iraq and compare it to selected countries throughout the world. The results show that international collaborators increasingly drove the scientific activity in MENA. The median indigeneity reached 52% in 2013 (indicating that almost half of the corresponding authors were located in foreign countries). Additionally, the regional disciplinary focus in chemical and petroleum engineering is waning with modest growth in the life sciences. We find repeated patterns of stagnation and contraction of scientific activity for several MENA countries contributing to a widening productivity gap on an international comparative yardstick. The results prompt questions about the strength of the developing scientific enterprise and highlight the need for consistent long-term policy for effectively addressing regional challenges with domestic research."
+  ],
+  "affiliation": [
+    "Institute for Data, Systems, and Society, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Science"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Publications"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Africa, Northern"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle East"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Statistics as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0164500"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5098740"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5098740?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0164500"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-18"
+  ],
+  "dateOfCreation": [
+    "2016-11-07"
+  ],
+  "firstIndexDate": [
+    "2016-11-10"
+  ],
+  "fullTextReceivedDate": [
+    "2016-12-09"
+  ],
+  "dateOfRevision": [
+    "2017-09-18"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-07"
+  ],
+  "firstPublicationDate": [
+    "2016-11-07"
+  ]
+}

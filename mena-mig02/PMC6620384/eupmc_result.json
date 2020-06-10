@@ -1,0 +1,378 @@
+{
+  "id": [
+    "31160487"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31160487"
+  ],
+  "pmcid": [
+    "PMC6620384"
+  ],
+  "doi": [
+    "10.1042/bsr20190513"
+  ],
+  "title": [
+    "Regulatory mechanisms of Robo4 and their effects on angiogenesis."
+  ],
+  "authorString": [
+    "Dai C, Gong Q, Cheng Y, Su G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dai C"
+          ],
+          "firstName": [
+            "Chang"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Ophthalmology, The Second Hospital of Jilin University, #218 Ziqiang Street, Changchun, Jilin, 130041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gong Q"
+          ],
+          "firstName": [
+            "Qiaoyun"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Ophthalmology, The Second Hospital of Jilin University, #218 Ziqiang Street, Changchun, Jilin, 130041, China.",
+                "Department of Ophthalmology, Shanghai General Hospital, #100 Haining Road, Shanghai, 200080, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Ophthalmology, The Second Hospital of Jilin University, #218 Ziqiang Street, Changchun, Jilin, 130041, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Su G"
+          ],
+          "firstName": [
+            "Guanfang"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4820-6537",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Ophthalmology, The Second Hospital of Jilin University, #218 Ziqiang Street, Changchun, Jilin, 130041, China sugf2012@163.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4820-6537",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "39"
+      ],
+      "journalIssueId": [
+        "2834047"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioscience reports"
+          ],
+          "ISOAbbreviation": [
+            "Biosci. Rep."
+          ],
+          "medlineAbbreviation": [
+            "Biosci Rep"
+          ],
+          "NLMid": [
+            "8102797"
+          ],
+          "ISSN": [
+            "0144-8463"
+          ],
+          "ESSN": [
+            "1573-4935"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Roundabout4 (Robo4) is a transmembrane receptor that belongs to the Roundabout (Robo) family of axon guidance molecules. Robo4 is an endothelial-specific receptor that participates in endothelial cell migration, proliferation, and angiogenesis and the maintenance of vasculature homeostasis. The purpose of this review is to summarize and analyze three main mechanisms related to the expression and function of Robo4 during developmental and pathological angiogenesis. In this review, static shear stress and the binding of transcription factors such as E26 transformation-specific variant 2 (ETV2) and Slit3 induce Robo4 expression and activate Robo4 during tissue and organ development. Robo4 interacts with Slit2 or UNC5B to maintain vascular integrity, while a disturbed flow and the expression of transcription factors in inflammatory or neoplastic environments alter Robo4 expression levels, although these changes have uncertain functions. Based on the mechanisms described above, we discuss the aberrant expression of Robo4 in angiogenesis-related diseases and propose antiangiogenic therapies targeting the Robo4 signaling pathway for the treatment of ocular neovascularization lesions and tumors. Finally, although many problems related to Robo4 signaling pathways remain to be resolved, Robo4 is a promising and potentially valuable therapeutic target for treating pathological angiogenesis and developmental defects in angiogenesis."
+  ],
+  "affiliation": [
+    "Department of Ophthalmology, The Second Hospital of Jilin University, #218 Ziqiang Street, Changchun, Jilin, 130041, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcription factor",
+        "Angiogenesis",
+        "Therapy",
+        "Shear stress",
+        "Slit",
+        "Roundabout 4"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1042/BSR20190513"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6620384"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6620384?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1042/bsr20190513"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-05"
+  ],
+  "firstIndexDate": [
+    "2019-06-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-27"
+  ],
+  "dateOfRevision": [
+    "2020-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-10"
+  ],
+  "firstPublicationDate": [
+    "2019-07-10"
+  ]
+}

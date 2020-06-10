@@ -1,0 +1,754 @@
+{
+  "id": [
+    "31488087"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31488087"
+  ],
+  "pmcid": [
+    "PMC6727365"
+  ],
+  "doi": [
+    "10.1186/s12885-019-6087-1"
+  ],
+  "title": [
+    "Inhibitory short peptides targeting EPS8/ABI1/SOS1 tri-complex suppress invasion and metastasis of ovarian cancer cells."
+  ],
+  "authorString": [
+    "Yu X, Liang C, Zhang Y, Zhang W, Chen H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yu X"
+          ],
+          "firstName": [
+            "Xuechen"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, Wuhan, 430071, Hubei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liang C"
+          ],
+          "firstName": [
+            "Chuan"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cardiothoracic vascular surgery, Zhongnan Hospital of Wuhan University, Wuhan, 430071, Hubei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuanzhen"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, Wuhan, 430071, Hubei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, Wuhan, 430071, Hubei, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen H"
+          ],
+          "firstName": [
+            "Huijun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8444-7157",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, Wuhan, 430071, Hubei, China. karrel@sina.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8444-7157",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2853884"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC cancer"
+          ],
+          "ISOAbbreviation": [
+            "BMC Cancer"
+          ],
+          "medlineAbbreviation": [
+            "BMC Cancer"
+          ],
+          "NLMid": [
+            "100967800"
+          ],
+          "ISSN": [
+            "1471-2407"
+          ],
+          "ESSN": [
+            "1471-2407"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "878"
+  ],
+  "abstractText": [
+    "BACKGROUND:We aimed to develop inhibitory short peptides that can prevent protein interactions of SOS1/EPS8/ABI1 tri-complex, a key component essential for ovarian cancer metastasis. METHODS:Plasmids containing various regions of HA-tagged ABI1 were co-transfected into ovarian cancer cells with Flag-tagged SOS1 or Myc-tagged EPS8. Co-immunoprecipitation and GST-pulldown assay were used to identify the regions of ABI1 responsible for SOS1 and EPS8 binding. Inhibitory short peptides of these binding regions were synthesized and modified with HIV-TAT sequence. The blocking effects of the peptides on ABI1-SOS1 or ABI1-EPS8 interactions in vitro and in vivo were determined by GST-pulldown assay. The capability of these short peptides in inhibiting invasion and metastasis of ovarian cancer cell was tested by Matrigel invasion assay and peritoneal metastatic colonization assay. RESULTS:The formation of endogenous SOS1/EPS8/ABI1 tri-complex was detected in the event of LPA-induced ovarian cancer cell invasion. In the tri-complex, ABI1 acted as a scaffold protein holding together SOS1 and EPS8. The SH3 and poly-proline+PxxDY regions of ABI1 were responsible for SOS1 and EPS8 binding, respectively. Inhibitory short peptides p + p-8 (ppppppppvdyedee) and SH3-3 (ekvvaiydytkdkddelsfmegaii) could block ABI1-SOS1 and ABI1-EPS8 interaction in vitro. TAT-p + p-8 peptide could disrupt ABI1-EPS8 interaction and suppress the invasion and metastasis of ovarian cancer cells in vivo. CONCLUSIONS:TAT-p + p-8 peptide could efficiently disrupt the ABI1-EPS8 interaction, tri-complex formation, and block the invasion and metastasis of ovarian cancer cells."
+  ],
+  "affiliation": [
+    "Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, Wuhan, 430071, Hubei, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "81202071"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ovarian Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SC"
+                  ],
+                  "qualifierName": [
+                    "secondary"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Invasiveness"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peptides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adaptor Proteins, Signal Transducing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "SOS1 Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytoskeletal Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transfection"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ovarian Cancer Metastasis",
+        "Abi1",
+        "Eps8",
+        "Sos1",
+        "Inhibitory Short Peptide"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "ABI1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "EPS8 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Peptides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cytoskeletal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Adaptor Proteins, Signal Transducing"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "SOS1 Protein"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "SOS1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12885-019-6087-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6727365"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6727365?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12885-019-6087-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-02-26"
+  ],
+  "dateOfCreation": [
+    "2019-09-07"
+  ],
+  "firstIndexDate": [
+    "2019-09-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2020-02-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-05"
+  ],
+  "firstPublicationDate": [
+    "2019-09-05"
+  ]
+}

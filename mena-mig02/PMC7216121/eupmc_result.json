@@ -1,0 +1,459 @@
+{
+  "id": [
+    "32326615"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32326615"
+  ],
+  "pmcid": [
+    "PMC7216121"
+  ],
+  "doi": [
+    "10.3390/ijms21082746"
+  ],
+  "title": [
+    "Knockout of ACTB and ACTG1 with CRISPR/Cas9(D10A) Technique Shows that Non-Muscle β and γ Actin Are Not Equal in Relation to Human Melanoma Cells' Motility and Focal Adhesion Formation."
+  ],
+  "authorString": [
+    "Malek N, Mrówczyńska E, Michrowska A, Mazurkiewicz E, Pavlyk I, Mazur AJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Malek N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Malek"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, 50-383 Wroclaw, Poland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mrówczyńska E"
+          ],
+          "firstName": [
+            "Ewa"
+          ],
+          "lastName": [
+            "Mrówczyńska"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1204-6108",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, 50-383 Wroclaw, Poland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Michrowska A"
+          ],
+          "firstName": [
+            "Aleksandra"
+          ],
+          "lastName": [
+            "Michrowska"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, 50-383 Wroclaw, Poland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mazurkiewicz E"
+          ],
+          "firstName": [
+            "Ewa"
+          ],
+          "lastName": [
+            "Mazurkiewicz"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5418-5712",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, 50-383 Wroclaw, Poland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pavlyk I"
+          ],
+          "firstName": [
+            "Iuliia"
+          ],
+          "lastName": [
+            "Pavlyk"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, 50-383 Wroclaw, Poland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mazur AJ"
+          ],
+          "firstName": [
+            "Antonina Joanna"
+          ],
+          "lastName": [
+            "Mazur"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, 50-383 Wroclaw, Poland."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1204-6108",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5418-5712",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2942496"
+      ],
+      "dateOfPublication": [
+        "2020 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Non-muscle actins have been studied for many decades; however, the reason for the existence of both isoforms is still unclear. Here we show, for the first time, a successful inactivation of the ACTB (CRISPR clones with inactivated ACTB, CR-ACTB) and ACTG1 (CRISPR clones with inactivated ACTG1, CR-ACTG1) genes in human melanoma cells (A375) via the RNA-guided D10A mutated Cas9 nuclease gene editing [CRISPR/Cas9(D10A)] technique. This approach allowed us to evaluate how melanoma cell motility was impacted by the lack of either β actin coded by ACTB or γ actin coded by ACTG1. First, we observed different distributions of β and γ actin in the cells, and the absence of one actin isoform was compensated for via increased expression of the other isoform. Moreover, we noted that γ actin knockout had more severe consequences on cell migration and invasion than β actin knockout. Next, we observed that the formation rate of bundled stress fibers in CR-ACTG1 cells was increased, but lamellipodial activity in these cells was impaired, compared to controls. Finally, we discovered that the formation rate of focal adhesions (FAs) and, subsequently, FA-dependent signaling were altered in both the CR-ACTB and CR-ACTG1 clones; however, a more detrimental effect was observed for γ actin-deficient cells. Our research shows that both non-muscle actins play distinctive roles in melanoma cells' FA formation and motility."
+  ],
+  "affiliation": [
+    "Department of Cell Pathology, Faculty of Biotechnology, University of Wroclaw, 50-383 Wroclaw, Poland."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2015/17/B/NZ3/03604"
+          ],
+          "agency": [
+            "National Science Center, Poland"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Melanoma",
+        "Migration",
+        "PMA",
+        "focal adhesion",
+        "LPA",
+        "adhesion",
+        "Beta Actin",
+        "Actin Isoforms",
+        "Gamma Actin",
+        "Crispr/cas9(d10a) Technique"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms21082746"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7216121"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7216121?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms21082746"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-25"
+  ],
+  "firstIndexDate": [
+    "2020-04-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-24"
+  ],
+  "dateOfRevision": [
+    "2020-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-15"
+  ],
+  "firstPublicationDate": [
+    "2020-04-15"
+  ]
+}

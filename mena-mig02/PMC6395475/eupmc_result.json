@@ -1,0 +1,500 @@
+{
+  "id": [
+    "30838129"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30838129"
+  ],
+  "pmcid": [
+    "PMC6395475"
+  ],
+  "doi": [
+    "10.1093/ve/vey043"
+  ],
+  "title": [
+    "Incorporating sampling uncertainty in the geospatial assignment of taxa for virus phylogeography."
+  ],
+  "authorString": [
+    "Scotch M, Tahsin T, Weissenbacher D, O'Connor K, Magge A, Vaiente M, Suchard MA, Gonzalez-Hernandez G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Scotch M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Scotch"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5100-9724",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Health Solutions, Arizona State University, 550 N. 3rd St., Phoenix, AZ, USA.",
+                "Biodesign Center for Environmental Health Engineering, Arizona State University, 727 E. Tyler St, Tempe, AZ, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tahsin T"
+          ],
+          "firstName": [
+            "Tasnia"
+          ],
+          "lastName": [
+            "Tahsin"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Health Solutions, Arizona State University, 550 N. 3rd St., Phoenix, AZ, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Weissenbacher D"
+          ],
+          "firstName": [
+            "Davy"
+          ],
+          "lastName": [
+            "Weissenbacher"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biostatistics, Epidemiology, and Informatics, The Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 423 Guardian Drive, Philadelphia, PA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "O'Connor K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "O'Connor"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biostatistics, Epidemiology, and Informatics, The Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 423 Guardian Drive, Philadelphia, PA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Magge A"
+          ],
+          "firstName": [
+            "Arjun"
+          ],
+          "lastName": [
+            "Magge"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Health Solutions, Arizona State University, 550 N. 3rd St., Phoenix, AZ, USA.",
+                "Biodesign Center for Environmental Health Engineering, Arizona State University, 727 E. Tyler St, Tempe, AZ, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vaiente M"
+          ],
+          "firstName": [
+            "Matteo"
+          ],
+          "lastName": [
+            "Vaiente"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "College of Health Solutions, Arizona State University, 550 N. 3rd St., Phoenix, AZ, USA.",
+                "Biodesign Center for Environmental Health Engineering, Arizona State University, 727 E. Tyler St, Tempe, AZ, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suchard MA"
+          ],
+          "firstName": [
+            "Marc A"
+          ],
+          "lastName": [
+            "Suchard"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9818-479X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biomathematics, David Geffen School of Medicine, University of California, Los Angeles, 621 Charles E. Young Dr. South, Los Angeles, CA, USA.",
+                "Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, 695 Charles E. Young Dr. South, Los Angeles, CA, USA.",
+                "Department of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, 650 Charles E Young Dr. South, Los Angeles, CA, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gonzalez-Hernandez G"
+          ],
+          "firstName": [
+            "Graciela"
+          ],
+          "lastName": [
+            "Gonzalez-Hernandez"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biostatistics, Epidemiology, and Informatics, The Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 423 Guardian Drive, Philadelphia, PA, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5100-9724",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9818-479X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2774757"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virus evolution"
+          ],
+          "ISOAbbreviation": [
+            "Virus Evol"
+          ],
+          "medlineAbbreviation": [
+            "Virus Evol"
+          ],
+          "NLMid": [
+            "101664675"
+          ],
+          "ISSN": [
+            "2057-1577"
+          ],
+          "ESSN": [
+            "2057-1577"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "vey043"
+  ],
+  "abstractText": [
+    "Discrete phylogeography using software such as BEAST considers the sampling location of each taxon as fixed; often to a single location without uncertainty. When studying viruses, this implies that there is no possibility that the location of the infected host for that taxa is somewhere else. Here, we relaxed this strong assumption and allowed for analytic integration of uncertainty for discrete virus phylogeography. We used automatic language processing methods to find and assign uncertainty to alternative potential locations. We considered two influenza case studies: H5N1 in Egypt; H1N1 pdm09 in North America. For each, we implemented scenarios in which 25 per cent of the taxa had different amounts of sampling uncertainty including 10, 30, and 50 per cent uncertainty and varied how it was distributed for each taxon. This includes scenarios that: (i) placed a specific amount of uncertainty on one location while uniformly distributing the remaining amount across all other candidate locations (correspondingly labeled 10, 30, and 50); (ii) assigned the remaining uncertainty to just one other location; thus 'splitting' the uncertainty among two locations (i.e. 10/90, 30/70, and 50/50); and (iii) eliminated uncertainty via two predefined heuristic approaches: assignment to a centroid location (CNTR) or the largest population in the country (POP). We compared all scenarios to a reference standard (RS) in which all taxa had known (absolutely certain) locations. From this, we implemented five random selections of 25 per cent of the taxa and used these for specifying uncertainty. We performed posterior analyses for each scenario, including: (a) virus persistence, (b) migration rates, (c) trunk rewards, and (d) the posterior probability of the root state. The scenarios with sampling uncertainty were closer to the RS than CNTR and POP. For H5N1, the absolute error of virus persistence had a median range of 0.005-0.047 for scenarios with sampling uncertainty-(i) and (ii) above-versus a range of 0.063-0.075 for CNTR and POP. Persistence for the pdm09 case study followed a similar trend as did our analyses of migration rates across scenarios (i) and (ii). When considering the posterior probability of the root state, we found all but one of the H5N1 scenarios with sampling uncertainty had agreement with the RS on the origin of the outbreak whereas both CNTR and POP disagreed. Our results suggest that assigning geospatial uncertainty to taxa benefits estimation of virus phylogeography as compared to ad-hoc heuristics. We also found that, in general, there was limited difference in results regardless of how the sampling uncertainty was assigned; uniform distribution or split between two locations did not greatly impact posterior results. This framework is available in BEAST v.1.10. In future work, we will explore viruses beyond influenza. We will also develop a web interface for researchers to use our language processing methods to find and assign uncertainty to alternative potential locations for virus phylogeography."
+  ],
+  "affiliation": [
+    "College of Health Solutions, Arizona State University, 550 N. 3rd St., Phoenix, AZ, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 AI117011"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Geography",
+        "Phylogeography",
+        "Influenza A Virus"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/ve/vey043"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6395475"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6395475?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/ve/vey043"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-07"
+  ],
+  "firstIndexDate": [
+    "2019-03-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-12"
+  ],
+  "dateOfRevision": [
+    "2020-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-28"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

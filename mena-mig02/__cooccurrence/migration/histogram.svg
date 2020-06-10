@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg height="20.0" width="519.5" xmlns="http://www.w3.org/2000/svg">
+<svg height="20.0" width="519.4545454545455" xmlns="http://www.w3.org/2000/svg">
  <g>
-  <rect x="10.0" y="-215.0" width="62.5" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <rect x="10.0" y="-215.0" width="45.45454545454545" height="225.0" style="fill:cyan;opacity:0.3;"/>
   <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">migration</text>
-  <rect x="72.0" y="-67.0" width="62.5" height="77.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="72.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,62.0,82.0)" style="font-size:1.0000000000000013px;">refugee</text>
-  <rect x="135.0" y="-35.0" width="62.5" height="45.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="135.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,124.99999999999999,145.0)" style="font-size:1.0000000000000013px;">conflict</text>
-  <rect x="197.0" y="-9.0" width="62.5" height="19.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="197.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,187.0,207.0)" style="font-size:1.0000000000000013px;">war</text>
-  <rect x="260.0" y="-2.0" width="62.5" height="12.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="260.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,249.99999999999997,270.0)" style="font-size:1.0000000000000013px;">forced migratio</text>
-  <rect x="322.0" y="-2.0" width="62.5" height="12.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="322.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,312.0,332.0)" style="font-size:1.0000000000000013px;">poverty</text>
-  <rect x="385.0" y="4.0" width="62.5" height="6.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="385.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,375.0,395.0)" style="font-size:1.0000000000000013px;">forced migratio</text>
-  <rect x="447.0" y="4.0" width="62.5" height="6.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="447.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,437.0,457.0)" style="font-size:1.0000000000000013px;">trafficking</text>
+  <rect x="55.0" y="-40.0" width="45.45454545454545" height="50.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="55.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,45.0,65.0)" style="font-size:1.0000000000000013px;">conflict</text>
+  <rect x="100.0" y="-25.0" width="45.45454545454545" height="35.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="100.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,90.0,110.0)" style="font-size:1.0000000000000013px;">refugee</text>
+  <rect x="146.0" y="-11.0" width="45.45454545454545" height="21.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="146.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,136.0,156.0)" style="font-size:1.0000000000000013px;">trafficking</text>
+  <rect x="191.0" y="-4.0" width="45.45454545454545" height="14.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="191.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,181.0,201.0)" style="font-size:1.0000000000000013px;">war</text>
+  <rect x="237.0" y="1.0" width="45.45454545454545" height="9.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="237.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,227.0,247.0)" style="font-size:1.0000000000000013px;">poverty</text>
+  <rect x="282.0" y="6.0" width="45.45454545454545" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="282.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,272.0,292.0)" style="font-size:1.0000000000000013px;">forced migratio</text>
+  <rect x="328.0" y="6.0" width="45.45454545454545" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="328.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,318.0,338.0)" style="font-size:1.0000000000000013px;">forced migratio</text>
+  <rect x="373.0" y="8.0" width="45.45454545454545" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="373.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,363.0,383.0)" style="font-size:1.0000000000000013px;">migration crisi</text>
+  <rect x="419.0" y="9.0" width="45.45454545454545" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="419.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,409.0,429.0)" style="font-size:1.0000000000000013px;">migration crisi</text>
+  <rect x="464.0" y="10.0" width="45.45454545454545" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="464.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,454.0,474.0)" style="font-size:1.0000000000000013px;">migration crisi</text>
  </g>
 </svg>

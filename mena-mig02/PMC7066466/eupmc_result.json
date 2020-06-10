@@ -1,0 +1,492 @@
+{
+  "id": [
+    "31902141"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31902141"
+  ],
+  "pmcid": [
+    "PMC7066466"
+  ],
+  "doi": [
+    "10.1002/mbo3.983"
+  ],
+  "title": [
+    "Molecular ecological network analysis of the response of soil microbial communities to depth gradients in farmland soils."
+  ],
+  "authorString": [
+    "Yu H, Xue D, Wang Y, Zheng W, Zhang G, Wang ZL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yu H"
+          ],
+          "firstName": [
+            "Hang"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1894-446X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tianjin Key Laboratory of Water Resources and Environment, Tianjin Normal University, Tianjin, China.",
+                "Tianjin Key Laboratory of Environmental Change and Ecological Restoration, School of Geographic and Environmental Sciences, Tianjin Normal University, Tianjin, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xue D"
+          ],
+          "firstName": [
+            "Dongmei"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6697-2078",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tianjin Key Laboratory of Water Resources and Environment, Tianjin Normal University, Tianjin, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yidong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5399-2803",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tianjin Key Laboratory of Water Resources and Environment, Tianjin Normal University, Tianjin, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tianjin Key Laboratory of Water Resources and Environment, Tianjin Normal University, Tianjin, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang G"
+          ],
+          "firstName": [
+            "Guilong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9705-6646",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Agro-Environmental Protection Institute, Ministry of Agriculture, Tianjin, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang ZL"
+          ],
+          "firstName": [
+            "Zhong-Liang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "ZL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3740-4677",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Tianjin Key Laboratory of Water Resources and Environment, Tianjin Normal University, Tianjin, China."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1894-446X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6697-2078",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5399-2803",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9705-6646",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3740-4677",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2923498"
+      ],
+      "dateOfPublication": [
+        "2020 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "MicrobiologyOpen"
+          ],
+          "ISOAbbreviation": [
+            "Microbiologyopen"
+          ],
+          "medlineAbbreviation": [
+            "Microbiologyopen"
+          ],
+          "NLMid": [
+            "101588314"
+          ],
+          "ISSN": [
+            "2045-8827"
+          ],
+          "ESSN": [
+            "2045-8827"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e983"
+  ],
+  "abstractText": [
+    "Soil microorganisms are considered to be important indicators of soil fertility and soil quality. Most previous studies have focused solely on surface soil, but there were numerous active cells in deeper soil layers. However, studies regarding microbial communities in deeper soil layers were not comprehensive and sufficient. In this study, phylogenetic molecular ecological networks (pMENs) based on the 16S rRNA Miseq sequencing technique were applied to study the response of soil microbial communities to depth gradients and the changes of key genera along 3 meter depth gradients (0-0.2 m, 0.2-0.4 m 0.4-0.6 m, 0.6-0.8 m, 0.8-1.0 m, 1.0-1.3 m, 1.3-1.6 m, 1.6-2.0 m, 2.0-2.5 m, and 2.5-3.0 m). The results showed that the modularity of microbial communities was consistently high in all soil layers and each layer was similar, which indicated that microbial communities were more resistant to depth changes. The pMENs further demonstrated that microbial community interactions were stable as the depth increased and they cooperated well to adapt to changes in different soil gradients. This was evidenced by similar positive links, average degree, and average clustering coefficient. In addition, key genera were obtained by analyzing module hubs in the pMENs. There may be at least one dominant genus in each layer that adapted to and resisted changes in the soil environment. It seems microbial communities demonstrate a stable and strong adaptability to depth gradients in farmland soils."
+  ],
+  "affiliation": [
+    "Tianjin Key Laboratory of Water Resources and Environment, Tianjin Normal University, Tianjin, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Microbial community",
+        "Farmland soil",
+        "Soil depth",
+        "Miseq Sequencing",
+        "Molecular Ecological Network"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/mbo3.983"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7066466"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7066466?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/mbo3.983"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-01-06"
+  ],
+  "firstIndexDate": [
+    "2020-01-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-22"
+  ],
+  "dateOfRevision": [
+    "2020-04-21"
+  ],
+  "electronicPublicationDate": [
+    "2020-01-05"
+  ],
+  "firstPublicationDate": [
+    "2020-01-05"
+  ]
+}

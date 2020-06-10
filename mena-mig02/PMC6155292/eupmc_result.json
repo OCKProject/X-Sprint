@@ -1,0 +1,589 @@
+{
+  "id": [
+    "30250066"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30250066"
+  ],
+  "pmcid": [
+    "PMC6155292"
+  ],
+  "doi": [
+    "10.1038/s41419-018-1031-x"
+  ],
+  "title": [
+    "Enah overexpression is correlated with poor survival and aggressive phenotype in gastric cancer."
+  ],
+  "authorString": [
+    "Chen D, Xu L, Li X, Chu Y, Jiang M, Xu B, Zhao M, Wang W, Wang H, Kang H, Wang K, Wu K, Liang J, Ren G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen D"
+          ],
+          "firstName": [
+            "Di"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Hematology, People's Liberation Army Center of Hematologic Disorders, Xijing Hospital, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xiaowei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China.",
+                "Department of Gastroenterology, Navy General Hospital, Beijing, 100048, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chu Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Chu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang M"
+          ],
+          "firstName": [
+            "Mingzuo"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Weijie"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hua"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kang H"
+          ],
+          "firstName": [
+            "Huijie"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gastroenterology, the 16th Hospital of the People's Liberation Army of China, 219 Tuanjie South Road, A Letai, Xinjiang Province, 836599, China."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu K"
+          ],
+          "firstName": [
+            "Kaichun"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China. kaicwu@fmmu.edu.cn."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liang J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China. liangjie@fmmu.edu.cn."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ren G"
+          ],
+          "firstName": [
+            "Gui"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China. renguigz@hotmail.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2728787"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell death & disease"
+          ],
+          "ISOAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "medlineAbbreviation": [
+            "Cell Death Dis"
+          ],
+          "NLMid": [
+            "101524092"
+          ],
+          "ISSN": [
+            "2041-4889"
+          ],
+          "ESSN": [
+            "2041-4889"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "998"
+  ],
+  "abstractText": [
+    "Enabled homolog (Enah), which is a member of the Ena/VASP family that also includes VASP (vasodilator-stimulated phosphoprotein) and Ena/VASP like, is a mammalian ortholog of Drosophila Enabled (Ena). An increasing number of studies demonstrated Enah overexpression is involved in human colorectal carcinomas, breast cancers and hepatocellular carcinoma. However, the significance of Enah expression in gastric cancer (GC) is poorly elucidated. Here, we demonstrate that Enah is upregulated in GC and associated with AJCC stage, depth of invasion and poor overall survival (OS). Knockdown of Enah inhibited GC cell proliferation and metastasis and vice versa. Further experiments suggested that p-Erk1/2, p-AKT, p-p65, Vimentin and Fibronectin were downregulated and E-cadherin was upregulated after Enah silencing, implicating altered functions in GC proliferation and metastasis. Thus, our study suggests that Enah is a harmful factor for GC and a novel target for GC treatment."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Cancer Biology and Xijing Hospital of Digestive Diseases, the Air Force Military Medical University, 127 Changle Western Road, Xi'an, Shaanxi Province, 710032, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-018-1031-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6155292"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6155292?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41419-018-1031-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31064981"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Cell Death Dis. 2019 May 7;10(5):366"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-26"
+  ],
+  "firstIndexDate": [
+    "2018-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-01"
+  ],
+  "dateOfRevision": [
+    "2019-09-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-24"
+  ],
+  "firstPublicationDate": [
+    "2018-09-24"
+  ]
+}

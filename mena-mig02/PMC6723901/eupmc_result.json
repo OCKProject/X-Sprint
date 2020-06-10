@@ -1,0 +1,480 @@
+{
+  "id": [
+    "31344926"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31344926"
+  ],
+  "pmcid": [
+    "PMC6723901"
+  ],
+  "doi": [
+    "10.3390/jcm8081092"
+  ],
+  "title": [
+    "Markers of Cancer Cell Invasion: Are They Good Enough?"
+  ],
+  "authorString": [
+    "Gerashchenko TS, Novikov NM, Krakhmal NV, Zolotaryova SY, Zavyalova MV, Cherdyntseva NV, Denisov EV, Perelmuter VM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gerashchenko TS"
+          ],
+          "firstName": [
+            "Tatiana S"
+          ],
+          "lastName": [
+            "Gerashchenko"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7283-0092",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Molecular Oncology and Immunology, Cancer Research Institute, Tomsk National Research Medical Center, 634009 Tomsk, Russia. t_gerashchenko@oncology.tomsk.ru."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Novikov NM"
+          ],
+          "firstName": [
+            "Nikita M"
+          ],
+          "lastName": [
+            "Novikov"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Molecular Oncology and Immunology, Cancer Research Institute, Tomsk National Research Medical Center, 634009 Tomsk, Russia.",
+                "Department of Cytology and Genetics, Tomsk State University, 634050 Tomsk, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krakhmal NV"
+          ],
+          "firstName": [
+            "Nadezhda V"
+          ],
+          "lastName": [
+            "Krakhmal"
+          ],
+          "initials": [
+            "NV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathological Anatomy, Siberian State Medical University, 634050 Tomsk, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zolotaryova SY"
+          ],
+          "firstName": [
+            "Sofia Y"
+          ],
+          "lastName": [
+            "Zolotaryova"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cytology and Genetics, Tomsk State University, 634050 Tomsk, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zavyalova MV"
+          ],
+          "firstName": [
+            "Marina V"
+          ],
+          "lastName": [
+            "Zavyalova"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathological Anatomy, Siberian State Medical University, 634050 Tomsk, Russia.",
+                "Department of General and Molecular Pathology, Cancer Research Institute, Tomsk National Research Medical Center, 634009 Tomsk, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cherdyntseva NV"
+          ],
+          "firstName": [
+            "Nadezhda V"
+          ],
+          "lastName": [
+            "Cherdyntseva"
+          ],
+          "initials": [
+            "NV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Molecular Oncology and Immunology, Cancer Research Institute, Tomsk National Research Medical Center, 634009 Tomsk, Russia.",
+                "Laboratory for Translational Cellular and Molecular Biomedicine, Tomsk State University, 634050 Tomsk, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Denisov EV"
+          ],
+          "firstName": [
+            "Evgeny V"
+          ],
+          "lastName": [
+            "Denisov"
+          ],
+          "initials": [
+            "EV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2923-9755",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Laboratory of Molecular Oncology and Immunology, Cancer Research Institute, Tomsk National Research Medical Center, 634009 Tomsk, Russia.",
+                "Department of Organic Chemistry, Tomsk State University, 634050 Tomsk, Russia."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perelmuter VM"
+          ],
+          "firstName": [
+            "Vladimir M"
+          ],
+          "lastName": [
+            "Perelmuter"
+          ],
+          "initials": [
+            "VM"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of General and Molecular Pathology, Cancer Research Institute, Tomsk National Research Medical Center, 634009 Tomsk, Russia."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7283-0092",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2923-9755",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2841671"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med"
+          ],
+          "NLMid": [
+            "101606588"
+          ],
+          "ISSN": [
+            "2077-0383"
+          ],
+          "ESSN": [
+            "2077-0383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Invasion, or directed migration of tumor cells into adjacent tissues, is one of the hallmarks of cancer and the first step towards metastasis. Penetrating to adjacent tissues, tumor cells form the so-called invasive front/edge. The cellular plasticity afforded by different kinds of phenotypic transitions (epithelial-mesenchymal, collective-amoeboid, mesenchymal-amoeboid, and vice versa) significantly contributes to the diversity of cancer cell invasion patterns and mechanisms. Nevertheless, despite the advances in the understanding of invasion, it is problematic to identify tumor cells with the motile phenotype in cancer tissue specimens due to the absence of reliable and acceptable molecular markers. In this review, we summarize the current information about molecules such as extracellular matrix components, factors of epithelial-mesenchymal transition, proteases, cell adhesion, and actin cytoskeleton proteins involved in cell migration and invasion that could be used as invasive markers and discuss their advantages and limitations. Based on the reviewed data, we conclude that future studies focused on the identification of specific invasive markers should use new models one of which may be the intratumor morphological heterogeneity in breast cancer reflecting different patterns of cancer cell invasion."
+  ],
+  "affiliation": [
+    "Laboratory of Molecular Oncology and Immunology, Cancer Research Institute, Tomsk National Research Medical Center, 634009 Tomsk, Russia. t_gerashchenko@oncology.tomsk.ru."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "19-75-30016"
+          ],
+          "agency": [
+            "Russian Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Heterogeneity",
+        "Invasion",
+        "Invasive Front",
+        "Epithelial–mesenchymal Transition"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm8081092"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6723901"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6723901?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm8081092"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-27"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-24"
+  ],
+  "firstPublicationDate": [
+    "2019-07-24"
+  ]
+}

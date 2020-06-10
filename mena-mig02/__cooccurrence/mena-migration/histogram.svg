@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg height="20.0" width="519.5555555555555" xmlns="http://www.w3.org/2000/svg">
+<svg height="20.0" width="519.25" xmlns="http://www.w3.org/2000/svg">
  <g>
-  <rect x="10.0" y="-215.0" width="55.55555555555556" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <rect x="10.0" y="-215.0" width="31.25" height="225.0" style="fill:cyan;opacity:0.3;"/>
   <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">migration</text>
-  <rect x="65.0" y="-176.0" width="55.55555555555556" height="186.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="65.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,55.0,75.0)" style="font-size:1.0000000000000013px;">MENA</text>
-  <rect x="121.0" y="-92.0" width="55.55555555555556" height="102.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="121.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,111.0,131.0)" style="font-size:1.0000000000000013px;">North Africa</text>
-  <rect x="176.0" y="-67.0" width="55.55555555555556" height="77.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="176.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,166.0,186.0)" style="font-size:1.0000000000000013px;">refugee</text>
-  <rect x="232.0" y="-28.0" width="55.55555555555556" height="38.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="232.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,222.0,242.0)" style="font-size:1.0000000000000013px;">Syria</text>
-  <rect x="287.0" y="-15.0" width="55.55555555555556" height="25.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="287.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,277.0,297.0)" style="font-size:1.0000000000000013px;">Mediterranean</text>
-  <rect x="343.0" y="-15.0" width="55.55555555555556" height="25.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="343.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,333.0,353.0)" style="font-size:1.0000000000000013px;">North Africa,</text>
-  <rect x="398.0" y="-9.0" width="55.55555555555556" height="19.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="398.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,388.0,408.0)" style="font-size:1.0000000000000013px;">war</text>
-  <rect x="454.0" y="4.0" width="55.55555555555556" height="6.0" style="fill:cyan;opacity:0.3;"/>
-  <text x="454.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,444.0,464.0)" style="font-size:1.0000000000000013px;">trafficking</text>
+  <rect x="41.0" y="-137.0" width="31.25" height="147.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="41.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,31.0,51.0)" style="font-size:1.0000000000000013px;">MENA</text>
+  <rect x="72.0" y="-53.0" width="31.25" height="63.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="72.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,62.0,82.0)" style="font-size:1.0000000000000013px;">North Africa</text>
+  <rect x="103.0" y="-25.0" width="31.25" height="35.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="103.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,93.0,113.0)" style="font-size:1.0000000000000013px;">refugee</text>
+  <rect x="135.0" y="-21.0" width="31.25" height="31.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="135.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,124.99999999999999,145.0)" style="font-size:1.0000000000000013px;">Mediterranean</text>
+  <rect x="166.0" y="-19.0" width="31.25" height="29.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="166.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,156.0,176.0)" style="font-size:1.0000000000000013px;">Syria</text>
+  <rect x="197.0" y="-11.0" width="31.25" height="21.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="197.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,187.0,207.0)" style="font-size:1.0000000000000013px;">trafficking</text>
+  <rect x="228.0" y="-4.0" width="31.25" height="14.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="228.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,218.0,238.0)" style="font-size:1.0000000000000013px;">war</text>
+  <rect x="260.0" y="0.0" width="31.25" height="10.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="260.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,249.99999999999997,270.0)" style="font-size:1.0000000000000013px;">North Africa.</text>
+  <rect x="291.0" y="1.0" width="31.25" height="9.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="291.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,281.0,301.0)" style="font-size:1.0000000000000013px;">North Africa,</text>
+  <rect x="322.0" y="5.0" width="31.25" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="322.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,312.0,332.0)" style="font-size:1.0000000000000013px;">UNHCR</text>
+  <rect x="353.0" y="8.0" width="31.25" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="353.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,343.0,363.0)" style="font-size:1.0000000000000013px;">migration crisi</text>
+  <rect x="385.0" y="8.0" width="31.25" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="385.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,375.0,395.0)" style="font-size:1.0000000000000013px;">globalisation</text>
+  <rect x="416.0" y="9.0" width="31.25" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="416.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,406.0,426.0)" style="font-size:1.0000000000000013px;">migration crisi</text>
+  <rect x="447.0" y="10.0" width="31.25" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="447.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,437.0,457.0)" style="font-size:1.0000000000000013px;">migration crisi</text>
+  <rect x="478.0" y="10.0" width="31.25" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="478.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,468.0,488.0)" style="font-size:1.0000000000000013px;">North Africa?</text>
  </g>
 </svg>

@@ -1,0 +1,646 @@
+{
+  "id": [
+    "32040529"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32040529"
+  ],
+  "pmcid": [
+    "PMC7010257"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0227928"
+  ],
+  "title": [
+    "miRNA expression in advanced Algerian breast cancer tissues."
+  ],
+  "authorString": [
+    "Tfaily MA, Nassar F, Sellam LS, Amir-Tidadini ZC, Asselah F, Bourouba M, Rihab N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tfaily MA"
+          ],
+          "firstName": [
+            "Mohamad Ali"
+          ],
+          "lastName": [
+            "Tfaily"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy, Cell Biology and Physiological Sciences, Faculty of Medicine, American University of Beirut, Beirut, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nassar F"
+          ],
+          "firstName": [
+            "Farah"
+          ],
+          "lastName": [
+            "Nassar"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4092-2531",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy, Cell Biology and Physiological Sciences, Faculty of Medicine, American University of Beirut, Beirut, Lebanon."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sellam LS"
+          ],
+          "firstName": [
+            "Leila-Sarah"
+          ],
+          "lastName": [
+            "Sellam"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell and Molecular Biology, Team Cytokines and Nitric oxide synthases, Faculty of Biology, University of Sciences and Technology Houari Boumediene USTHB, Algiers, Algeria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Amir-Tidadini ZC"
+          ],
+          "firstName": [
+            "Zine-Charaf"
+          ],
+          "lastName": [
+            "Amir-Tidadini"
+          ],
+          "initials": [
+            "ZC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Central Laboratory for Anatomopathology, Mustapha Pacha Hospital, Algiers, Algeria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Asselah F"
+          ],
+          "firstName": [
+            "Fatima"
+          ],
+          "lastName": [
+            "Asselah"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Central Laboratory for Anatomopathology, Mustapha Pacha Hospital, Algiers, Algeria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bourouba M"
+          ],
+          "firstName": [
+            "Mehdi"
+          ],
+          "lastName": [
+            "Bourouba"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Cell and Molecular Biology, Team Cytokines and Nitric oxide synthases, Faculty of Biology, University of Sciences and Technology Houari Boumediene USTHB, Algiers, Algeria."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rihab N"
+          ],
+          "firstName": [
+            "Nasr"
+          ],
+          "lastName": [
+            "Rihab"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1166-4999",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Anatomy, Cell Biology and Physiological Sciences, Faculty of Medicine, American University of Beirut, Beirut, Lebanon."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4092-2531",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1166-4999",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2911692"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0227928"
+  ],
+  "abstractText": [
+    "Breast cancer is one of the commonest cancers among Algerian females. Compared to Western populations, the median age of diagnosis of breast cancer is much lower in Algeria. The objective of this study is to explore the expression of several miRNAs reported to be deregulated in breast cancer. The miRNAs miR-21, miR-125b, miR-100, miR-425-5p, miR-200c, miR-183 and miR-182 were studied on tumor and normal adjacent Algerian breast tissues using quantitative reverse transcription real time PCR, and the results were analyzed according to clinical characteristics. Compared to the normal adjacent tissues, miR-21, miR-183, miR-182, miR-425-5p and miR-200c were found to be upregulated while miR-100 and miR-125b were insignificantly deregulated. A positive correlation was noted among miR-183, miR-182 and miR-200c and among miR-425-5p, miR-183, miR-200c and miR-21. Further global miRNA microarray profiling studies can aid in finding ethnic specific miRNA biomarkers in the Algerian breast cancer population."
+  ],
+  "affiliation": [
+    "Department of Anatomy, Cell Biology and Physiological Sciences, Faculty of Medicine, American University of Beirut, Beirut, Lebanon."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptor, erbB-2"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Neoplastic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Up-Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algeria"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Ontology"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ERBB2 protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        },
+        {
+          "name": [
+            "Receptor, erbB-2"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0227928"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7010257"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7010257?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0227928"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-04-22"
+  ],
+  "dateOfCreation": [
+    "2020-02-11"
+  ],
+  "firstIndexDate": [
+    "2020-02-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-23"
+  ],
+  "dateOfRevision": [
+    "2020-04-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-10"
+  ],
+  "firstPublicationDate": [
+    "2020-02-10"
+  ]
+}

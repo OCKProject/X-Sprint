@@ -1,0 +1,687 @@
+{
+  "id": [
+    "29509795"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29509795"
+  ],
+  "pmcid": [
+    "PMC5839546"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0193493"
+  ],
+  "title": [
+    "Out of the net: An agent-based model to study human movements influence on local-scale malaria transmission."
+  ],
+  "authorString": [
+    "Pizzitutti F, Pan W, Feingold B, Zaitchik B, Álvarez CA, Mena CF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pizzitutti F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Pizzitutti"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5532-8770",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Universidad San Francisco de Quito, Instituto de Geografía, Quito, Ecuador.",
+                "Duke University, Duke global Health Institute, Durham, NC, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Duke University, Duke global Health Institute, Durham, NC, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feingold B"
+          ],
+          "firstName": [
+            "Beth"
+          ],
+          "lastName": [
+            "Feingold"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "SUNY-Albany, School of Public Health, Rensselaer, Albany, NY, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zaitchik B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Zaitchik"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Johns Hopkins University, Morton K. Blaustein Department of Earth & Planetary Sciences, Baltimore, MD, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Álvarez CA"
+          ],
+          "firstName": [
+            "Carlos A"
+          ],
+          "lastName": [
+            "Álvarez"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "DIRESA-Loreto Epidemiology Department, Iquitos, Loreto, Peru."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena CF"
+          ],
+          "firstName": [
+            "Carlos F"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "CF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0825-6476",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Universidad San Francisco de Quito, Instituto de Geografía, Quito, Ecuador."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5532-8770",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0825-6476",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2656076"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0193493"
+  ],
+  "abstractText": [
+    "Though malaria control initiatives have markedly reduced malaria prevalence in recent decades, global eradication is far from actuality. Recent studies show that environmental and social heterogeneities in low-transmission settings have an increased weight in shaping malaria micro-epidemiology. New integrated and more localized control strategies should be developed and tested. Here we present a set of agent-based models designed to study the influence of local scale human movements on local scale malaria transmission in a typical Amazon environment, where malaria is transmission is low and strongly connected with seasonal riverine flooding. The agent-based simulations show that the overall malaria incidence is essentially not influenced by local scale human movements. In contrast, the locations of malaria high risk spatial hotspots heavily depend on human movements because simulated malaria hotspots are mainly centered on farms, were laborers work during the day. The agent-based models are then used to test the effectiveness of two different malaria control strategies both designed to reduce local scale malaria incidence by targeting hotspots. The first control scenario consists in treat against mosquito bites people that, during the simulation, enter at least once inside hotspots revealed considering the actual sites where human individuals were infected. The second scenario involves the treatment of people entering in hotspots calculated assuming that the infection sites of every infected individual is located in the household where the individual lives. Simulations show that both considered scenarios perform better in controlling malaria than a randomized treatment, although targeting household hotspots shows slightly better performance."
+  ],
+  "affiliation": [
+    "Universidad San Francisco de Quito, Instituto de Geografía, Quito, Ecuador."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P2C HD065563"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Culicidae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PS"
+                  ],
+                  "qualifierName": [
+                    "parasitology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plasmodium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Malaria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Incidence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sleep"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rivers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Movement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photoperiod"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Employment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "South America"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rainforest"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0193493"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5839546"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5839546?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0193493"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-27"
+  ],
+  "dateOfCreation": [
+    "2018-03-07"
+  ],
+  "firstIndexDate": [
+    "2018-03-08"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-08"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-06"
+  ],
+  "firstPublicationDate": [
+    "2018-03-06"
+  ]
+}

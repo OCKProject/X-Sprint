@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="mena-mig02/PMC7202897/results/search/mena-migration/results.xml">
+  <result pre="between cell adhesion to ECM proteins and ECM-driven 2D cell" exact="migration" post="speed, persistence, or 3D invasion. We then used classifiers"/>
+  <result pre="regression analysis to identify which metrics best predicted ECM-driven 2D" exact="migration" post="and 3D invasion responses. We find that ECM-driven 2D"/>
+  <result pre="and 3D invasion responses. We find that ECM-driven 2D cell" exact="migration" post="speed or persistence did not predict 3D invasion in"/>
+  <result pre="and shape irregularity, accurately predicted the magnitude of ECM-driven 2D" exact="migration" post="and 3D invasion. Our models successfully predicted the effect"/>
+  <result pre="invasion,1 and metastatic outgrowth.2 Understanding the mechanisms that drive cell" exact="migration" post="in cancer is essential to identify strategies to treat"/>
+  <result pre="tumor and stromal compartments in breast tumors,4 can drive directional" exact="migration" post="of breast cancer cells to drive metastasis.5 The optimization"/>
+  <result pre="in the cell shape following adhesion to a substrate, 2D" exact="migration" post="on a substrate, and 3D invasion into a matrix"/>
+  <result pre="still do not understand the relationship between adhesion to, 2D" exact="migration" post="on, and 3D invasion in a given ECM substrate."/>
+  <result pre="invasion responses to ECM cues. Existing models that predict cell" exact="migration" post="have focused on cell morphology or signaling pathways and"/>
+  <result pre="been published linking the cell shape and geometry with cell" exact="migration" post="and speed.7,8 This has been more challenging for cancer"/>
+  <result pre="protrusion and adhesion.10 In response to Collagen I, 3D cell" exact="migration" post="correlated with cell protrusion and not with 2D migration"/>
+  <result pre="cell migration correlated with cell protrusion and not with 2D" exact="migration" post="speed or persistence.11 However, these studies all focus on"/>
+  <result pre="that the cell shape is associated with adhesion and cell" exact="migration" post="[Fig. 1(a)]. We quantified 11 cell shape parameters via"/>
+  <result pre="proteins have distinct effects on the cell shape. ECM-driven 2D" exact="migration" post="does not correlate with the cell shape We then"/>
+  <result pre="same ECM cues on 2D cell migration, by evaluating cell" exact="migration" post="speed and persistence. Cell speed measures how fast a"/>
+  <result pre="find that Collagen I and Collagen IV increase both cell" exact="migration" post="speed and persistence [Figs. 3(a)–3(c)]. Fibronectin has no effect"/>
+  <result pre="and persistence [Figs. 3(a)–3(c)]. Fibronectin has no effect on cell" exact="migration" post="speed or persistence; Tenascin C decreases cell migration speed"/>
+  <result pre="on cell migration speed or persistence; Tenascin C decreases cell" exact="migration" post="speed while increasing persistence. Similar results were obtained with"/>
+  <result pre="cell line, where Collagen I and Collagen IV increased cell" exact="migration" post="speed and persistence, and Tenascin C reduced cell migration"/>
+  <result pre="cell migration speed and persistence, and Tenascin C reduced cell" exact="migration" post="speed and persistence [Figs. 3(f)–3(h)]. We find that for"/>
+  <result pre="both cell lines, there is no significant correlation between cell" exact="migration" post="speed and persistence at a population and single cell"/>
+  <result pre="S2(a), and S2(b)]. FIG. 3. ECM-driven effects on 2D cell" exact="migration" post="speed do not correlate with effects on persistence. (a)"/>
+  <result pre="an individual cell. Axis length is 500 μm. Quantification of cell" exact="migration" post="speed (μm/min) (b) and persistence (c). Results show entire"/>
+  <result pre="IV (n = 39 cells). Correlation between 2D persistence and 2D cell" exact="migration" post="speed (d) and between cell area (μm2) and 2D"/>
+  <result pre="speed (d) and between cell area (μm2) and 2D cell" exact="migration" post="speed (e). Correlation characterized by r2, p value, and"/>
+  <result pre="individual cell. The axis length is 500 μm. Quantification of cell" exact="migration" post="speed (μm/min) (g) and persistence (h). Results show entire"/>
+  <result pre="IV (n = 63 cells). Correlation between 2D persistence and 2D cell" exact="migration" post="speed (i) and between the cell area and 2D"/>
+  <result pre="speed (i) and between the cell area and 2D cell" exact="migration" post="speed (j). Correlation characterized by r2, p value, and"/>
+  <result pre="migration, we evaluated how well cell area correlated with cell" exact="migration" post="speed and persistence. We found that for both individual"/>
+  <result pre="was no significant correlation between the cell area and cell" exact="migration" post="speed [Figs. 3(e) and 3(j)]. We also find no"/>
+  <result pre="S2(d)]. Although the correlation between the cell area and cell" exact="migration" post="speed when combining both cell lines is statistically significant,"/>
+  <result pre="suggesting that the cell area alone cannot accurately predict cell" exact="migration" post="speed or persistence. Overall, these findings suggest that ECM-driven"/>
+  <result pre="2D migration. ECM-driven 3D invasion does not correlate with 2D" exact="migration" post="or cell shape It is well established that 3D"/>
+  <result pre="between mean fold change in spheroid area and 2D cell" exact="migration" post="speed for 231-GFP cells. Correlation characterized by r2, p"/>
+  <result pre="between mean fold change in spheroid area and 2D cell" exact="migration" post="speed for 468-GFP. Correlation characterized by r2, p value,"/>
+  <result pre="correlation between cell adhesion and 3D invasion and between 2D" exact="migration" post="and 3D invasion. For both cell lines individually and"/>
+  <result pre="effects of these proteins on 3D invasion and either 2D" exact="migration" post="or cell area [Figs. 4(c), 4(f), and S3]. Additionally,"/>
+  <result pre="indicating poor prediction of 3D invasion using cell area, cell" exact="migration" post="speed, or persistence. Overall, these findings suggest that ECM-driven"/>
+  <result pre="suggests that cell adhesion can be used to categorize 2D" exact="migration" post="and 3D invasion To dissect the relationship between ECM-driven"/>
+  <result pre="evaluate the ability of a learning algorithm to predict 2D" exact="migration" post="based on cell adhesion parameters and 3D invasion based"/>
+  <result pre="assessed the predictive relationship between cell adhesion and 2D cell" exact="migration" post="in response to different ECM proteins. We assigned each"/>
+  <result pre="or &quot;high,&quot; based on its ability to induce 2D cell" exact="migration" post="within a cell line. Based on the results in"/>
+  <result pre="line. Based on the results in Fig. 3, 2D cell" exact="migration" post="speed of MDA-MB-231 cells on no ECM, Fibronectin, and"/>
+  <result pre="0.75, to prevent overtraining. FIG. 5. Adhesion classifies ECM-driven 2D" exact="migration" post="and 3D invasion. (a) Cell adhesion to predict binary"/>
+  <result pre="(a) Cell adhesion to predict binary classification of 2D cell" exact="migration" post="speed of MDA-MB-231 cells on plastic, Collagen I, Fibronectin,"/>
+  <result pre="cell elongation parameters (eccentricity, aspect ratio, compactness). (c) 2D cell" exact="migration" post="to predict binary classification of mean fold change of"/>
+  <result pre="AUROC scores of binary classifier models (c) using 2D cell" exact="migration" post="(cell migration speed and persistence alone or together). (e)"/>
+  <result pre="of binary classifier models (c) using 2D cell migration (cell" exact="migration" post="speed and persistence alone or together). (e) Cell adhesion"/>
+  <result pre="min, and max feret diameter) could also accurately predict 2D" exact="migration" post="speed with AUROC scores of 0.75, while cell elongation"/>
+  <result pre="All 11 parameters were able to accurately predict 2D cell" exact="migration" post="with an AUROC over 0.75 [Fig. S5(b)]. These data"/>
+  <result pre="reliable metric for predicting how this protein will impact 2D" exact="migration" post="speed. Next, we assessed the predictive relationship between cell"/>
+  <result pre="assessed the predictive relationship between cell adhesion or 2D cell" exact="migration" post="and 3D invasion in response to different ECM proteins."/>
+  <result pre="partial least squares regression model constructed to predict ECM-driven 2D" exact="migration" post="and 3D invasion from cell adhesion. (a) Scores plot"/>
+  <result pre="leave-one-out cross validation. Ranked VIP scores for predicting 2D cell" exact="migration" post="speed (d), 2D persistence (e), and 3D invasion (f)"/>
+  <result pre="after 2 h on Matrigel. The scale bar is 100 μm. 2D" exact="migration" post="roseplots show individual cell tracks on Matrigel for 16 h."/>
+  <result pre="5 days. The scale bar is 200 μm. (b) Quantification of cell" exact="migration" post="speed, persistence, and 3D invasion of MDA-MB-231 cells in"/>
+  <result pre="response to no ECM and Matrigel. Prediction of 2D cell" exact="migration" post="speed, 2D persistence (c), and 3D invasion (d) of"/>
+  <result pre="error, R2 and Q2. Accuracy of prediction of 2D cell" exact="migration" post="speed (e) and 3D invasion (f) from classifier models"/>
+  <result pre="determined by percent error and AUROC. Prediction of 2D cell" exact="migration" post="speed, 2D persistence (g), and 3D invasion (h) of"/>
+  <result pre="on Matrigel. The scale bar is 100 μm. Quantification of cell" exact="migration" post="speed (b) and persistence (c). Data show entire distribution,"/>
+  <result pre="and Dunn's multiple comparison test. (e) Prediction of 2D cell" exact="migration" post="speed, 2D persistence, and 3D invasion of BT-549 cells"/>
+  <result pre="3D invasion [Figs. S7(e) and S7(f)]. We find between cell" exact="migration" post="speed and persistence, persistence is more important for predicting"/>
+  <result pre="[Fig. 6(f)]. However, in the combined cell line model, cell" exact="migration" post="speed is ranked as more important [Fig. S8(f)]. Overall,"/>
+  <result pre="demonstrate the importance of individual shape parameters in predicting ECM-driven" exact="migration" post="responses in 2D and 3D. Models can be used"/>
+  <result pre="IV, and heparan sulfate proteoglycans. We measured cell adhesion, 2D" exact="migration" post="and 3D invasion of MDA-MB-231 and MDA-MB-468 cells in"/>
+  <result pre="S10(a)–S10(d)]. The cell area was used to predict 2D cell" exact="migration" post="speed and 2D persistence. 3D invasion was predicted from"/>
+  <result pre="persistence. 3D invasion was predicted from the cell area, cell" exact="migration" post="speed, and persistence. Although the cell area predicted Matrigel-driven"/>
+  <result pre="since using either all cell adhesion parameters or all cell" exact="migration" post="parameters had the best AUROC scores (Figs. 5 and"/>
+  <result pre="cell adhesion and the combination of cell adhesion and 2D" exact="migration" post="predicted the effects of Matrigel in 3D accurately, but"/>
+  <result pre="predicted the effects of Matrigel in 3D accurately, but 2D" exact="migration" post="alone did not perform well in predicting responses in"/>
+  <result pre="S10(e) and S10(F)]. Additionally, using both cell adhesion and 2D" exact="migration" post="to predict 3D invasion performed similar to using cell"/>
+  <result pre="predict ECM-driven responses in both 2D and 3D; however, 2D" exact="migration" post="cannot be used to accurately predict 3D invasion. We"/>
+  <result pre="consuming, and more challenging for follow up analysis, while 2D" exact="migration" post="and adhesion assays are quicker, easy to analyze, and"/>
+  <result pre="found that cell adhesion can successfully and accurately classify 2D" exact="migration" post="speed and 3D invasion, while 2D migration speed and"/>
+  <result pre="accurately classify 2D migration speed and 3D invasion, while 2D" exact="migration" post="speed and persistence are unable to classify ECM-driven 3D"/>
+  <result pre="cell elongation and irregularity, are more important for predicting 2D" exact="migration" post="and 3D invasion. Finally, we use the correlation, classification,"/>
+  <result pre="takes in response to an ECM protein, and not 2D" exact="migration" post="speed is more predictive of 3D invasion and our"/>
+  <result pre="factors and ECM proteins, suggesting that its effect on cell" exact="migration" post="is more complex. Indeed, we have shown that there"/>
+  <result pre="responses in 2D are quantified with two main metrics: cell" exact="migration" post="speed and persistence; however, it is not clear what"/>
+  <result pre="migration speed and persistence; however, it is not clear what" exact="migration" post="response is more relevant to metastasis. Interestingly, in the"/>
+  <result pre="the World Cell Race, speed and persistence correlated for the" exact="migration" post="of over 50 cell types on fibronectin coated lines.28"/>
+  <result pre="study, persistence was found to be robustly coupled to cell" exact="migration" post="speed;29 however, these studies were performed in epithelial and"/>
+  <result pre="in the context of haptotaxis or chemotaxis.3,13 For example, directed" exact="migration" post="of breast cancer cells to gradients of Fibronectin increases"/>
+  <result pre="Therefore, the nature and organization of the cue driving cell" exact="migration" post="may play an important role in determining which metric"/>
+  <result pre="anomalous diffusion models are better suited to describe 3D cell" exact="migration" post="in confined environments.30 Several studies have reported on the"/>
+  <result pre="studies have reported on the relationship between 2D and 3D" exact="migration" post="in the ECM. Fraley et al. demonstrated that in"/>
+  <result pre="al. demonstrated that in Collagen I, changes in 3D cell" exact="migration" post="speed did not correlate with changes in 2D cell"/>
+  <result pre="of migrating cells in 2D positively correlates with the cell" exact="migration" post="in 3D environments, although these studies did not take"/>
+  <result pre="for response to growth factors, another pro-migratory cue. Whereas 2D" exact="migration" post="properties did not correlate well with 3D behavior across"/>
+  <result pre="by growth factor stimulation did relate robustly to enhanced 3D" exact="migration" post="properties in several breast cancer cells.12 Overall, these studies"/>
+  <result pre="three independent experiments with three technical replicates per experiment. 2D" exact="migration" post="assay For 2D migration, 12-well glass-bottomed dishes (MatTek, Ashland,"/>
+  <result pre="using a custom MATLAB script vR2018a (MathWorks, Natick, MA). 2D" exact="migration" post="was quantified by two parameters: cell migration speed and"/>
+  <result pre="Natick, MA). 2D migration was quantified by two parameters: cell" exact="migration" post="speed and persistence. Data are the result of three"/>
+  <result pre="six cells tracked per field of view. Spheroid invasion and" exact="migration" post="assay Cells were seeded in low-attachment plates in media"/>
+  <result pre="pair of metrics. Machine learning classification ECM-driven effects on 2D" exact="migration" post="and 3D invasion were classified as either low or"/>
+  <result pre="low or high (see Fig. 5). For classification of 2D" exact="migration" post="in MDA-MB-231 and MDA-MB-468 cells, ECM substrates that caused"/>
+  <result pre="and MDA-MB-468 cells, ECM substrates that caused a mean cell" exact="migration" post="speed of above 0.5 μm/min were classified as high. For"/>
+  <result pre="2D protrusion but not motility predicts growth factor-induced cancer cell" exact="migration" post="in 3D collagen,&quot; J. Cell Biol.197, 721–729 (2012).10.1083/jcb.20120100322665521 13.E."/>
+  <result pre="O.Lefebvre, A.Klein, T.Hussenet, and G.Orend, &quot; Tenascin-C promotes tumor cell" exact="migration" post="and metastasis through integrin a9b1–mediated YAP inhibition,&quot; Cancer Res.78,"/>
+ </snippets>
+</snippetsTree>

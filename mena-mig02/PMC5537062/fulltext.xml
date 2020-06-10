@@ -1,0 +1,1154 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2211-5463</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5537062</article-id><article-id pub-id-type="doi">10.1002/2211-5463.12254</article-id><article-id pub-id-type="publisher-id">FEB412254</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Mammalian&#x02010;enabled (<styled-content style="fixed-case">MENA</styled-content>) protein enhances oncogenic potential and cancer stem cell&#x02010;like phenotype in hepatocellular carcinoma cells</article-title><alt-title alt-title-type="left-running-head">K. Hu <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="feb412254-cr-0001" contrib-type="author"><name><surname>Hu</surname><given-names>Kunpeng</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="feb412254-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="feb412254-cr-0002" contrib-type="author"><name><surname>Huang</surname><given-names>Pinzhu</given-names></name><xref ref-type="aff" rid="feb412254-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="feb412254-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="feb412254-cr-0003" contrib-type="author"><name><surname>Luo</surname><given-names>Hui</given-names></name><xref ref-type="aff" rid="feb412254-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="feb412254-cr-0004" contrib-type="author"><name><surname>Yao</surname><given-names>Zhicheng</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412254-cr-0005" contrib-type="author"><name><surname>Wang</surname><given-names>Qingliang</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412254-cr-0006" contrib-type="author"><name><surname>Xiong</surname><given-names>Zhiyong</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412254-cr-0007" contrib-type="author"><name><surname>Lin</surname><given-names>Jizong</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412254-cr-0008" contrib-type="author"><name><surname>Huang</surname><given-names>He</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412254-cr-0009" contrib-type="author"><name><surname>Xu</surname><given-names>Shilei</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412254-cr-0010" contrib-type="author"><name><surname>Zhang</surname><given-names>Peng</given-names></name><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412254-cr-0011" contrib-type="author" corresp="yes"><name><surname>Liu</surname><given-names>Bo</given-names></name><address><email>liubojake@126.com</email></address><xref ref-type="aff" rid="feb412254-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="feb412254-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of General Surgery</named-content>
+<named-content content-type="organisation-division">The Third Affiliated Hospital</named-content>
+<institution>Sun Yat&#x02010;sen University</institution>
+<named-content content-type="city">Guangzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="feb412254-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Gastrointestinal Surgery</named-content>
+<named-content content-type="organisation-division">The Sixth Affiliated Hospital</named-content>
+<institution>Sun Yat&#x02010;sen University</institution>
+<named-content content-type="city">Guangzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="feb412254-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Operating Room</named-content>
+<named-content content-type="organisation-division">The Third Affiliated Hospital</named-content>
+<institution>Sun Yat&#x02010;sen University</institution>
+<named-content content-type="city">Guangzhou</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+B.&#x000a0;Liu, Department of General Surgery, The Third Affiliated Hospital, Sun Yat&#x02010;sen University, NO. 2693, Kaichuang Road, Guangzhou 510630, China<break/>
+Fax: +86 020 82179735<break/>
+Tel: +86 18922103070<break/>
+E&#x02010;mail: <email>liubojake@126.com</email><break/></corresp><fn id="feb412254-note-1001"><label>&#x02020;</label><p>Co&#x02010;first authors</p></fn></author-notes><pub-date pub-type="epub"><day>22</day><month>6</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2017</year></pub-date><volume>7</volume><issue>8</issue><issue-id pub-id-type="doi">10.1111/feb4.2017.7.issue-8</issue-id><fpage>1144</fpage><lpage>1153</lpage><history><date date-type="received"><day>24</day><month>12</month><year>2016</year></date><date date-type="rev-recd"><day>08</day><month>5</month><year>2017</year></date><date date-type="accepted"><day>23</day><month>5</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Federation of European Biochemical Societies <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published by FEBS Press and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:FEB4-7-1144.pdf"/><abstract id="feb412254-abs-0001"><p>Mammalian&#x02010;enabled (<styled-content style="fixed-case">MENA</styled-content>) protein is an actin&#x02010;regulatory protein that influences cell motility and adhesion. It is known to play a role in tumorigenicity of hepatocellular carcinoma (<styled-content style="fixed-case">HCC</styled-content>) but the underlying molecular mechanism remains unknown. This study aimed to investigate the oncogenic potential of <styled-content style="fixed-case">MENA</styled-content> and its capacity to regulate cancer stem cell (<styled-content style="fixed-case">CSC</styled-content>)&#x02010;like phenotypes in <styled-content style="fixed-case">HCC</styled-content> cells. Real&#x02010;time&#x02010;<styled-content style="fixed-case">PCR</styled-content> and western blot were used to assess <styled-content style="fixed-case">mRNA</styled-content> and protein levels of target genes in human <styled-content style="fixed-case">HCC</styled-content> tissue specimens and <styled-content style="fixed-case">HCC</styled-content> cell lines, respectively. Stable <styled-content style="fixed-case">MENA</styled-content>&#x02010;overexpressing <styled-content style="fixed-case">HCC</styled-content> cells were generated from <styled-content style="fixed-case">HCC</styled-content> cell lines. Transwell cell migration and colony formation assays were employed to evaluate tumorigenicity. Ectopic expression of <styled-content style="fixed-case">MENA</styled-content> significantly enhanced cell migration and colony&#x02010;forming ability in <styled-content style="fixed-case">HCC</styled-content> cells. Overexpression of <styled-content style="fixed-case">MENA</styled-content> upregulated several hepatic progenitor/stem cell markers in <styled-content style="fixed-case">HCC</styled-content> cells. A high <styled-content style="fixed-case">MENA</styled-content> protein level was associated with high <styled-content style="fixed-case">mRNA</styled-content> levels of <styled-content style="fixed-case">MENA</styled-content>,<styled-content style="fixed-case"> CD</styled-content>133, cytokeratin 19 (<styled-content style="fixed-case">CK</styled-content>19), and epithelial cell adhesion molecule (Ep<styled-content style="fixed-case">CAM</styled-content>) in human <styled-content style="fixed-case">HCC</styled-content> tissues. Overexpression of <styled-content style="fixed-case">MENA</styled-content> enhanced epithelial&#x02010;to&#x02010;mesenchymal transition (<styled-content style="fixed-case">EMT</styled-content>) markers, extracellular signal&#x02010;regulated kinases (<styled-content style="fixed-case">ERK</styled-content>) phosphorylation, and the level of &#x003b2;&#x02010;catenin in <styled-content style="fixed-case">HCC</styled-content> cells. This study demonstrated that overexpression of <styled-content style="fixed-case">MENA</styled-content> in <styled-content style="fixed-case">HCC</styled-content> cells promoted stem cell markers, <styled-content style="fixed-case">EMT</styled-content> markers, and tumorigenicity. These effects may involve, at least partially, the <styled-content style="fixed-case">ERK</styled-content> and &#x003b2;&#x02010;catenin signaling pathways.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb412254-kwd-0001">hepatic cancer stem cell</kwd><kwd id="feb412254-kwd-0002">hepatic progenitor markers</kwd><kwd id="feb412254-kwd-0003">hepatocellular carcinoma</kwd><kwd id="feb412254-kwd-0004">mammalian&#x02010;enabled</kwd><kwd id="feb412254-kwd-0005">tumorigenicity</kwd></kwd-group><funding-group><award-group><funding-source>Natural Science Foundation of Guangdong Province</funding-source><award-id>2016A030313200</award-id></award-group></funding-group><funding-group><award-group><funding-source>Science and Technology Project of Guangzhou City</funding-source><award-id>201607010022</award-id></award-group></funding-group><funding-group><award-group><funding-source>Science and Technology Project of Guangdong Province</funding-source><award-id>2014A020212715</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="10"/><word-count count="6130"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>feb412254</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.4 mode:remove_FC converted:31.07.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations" id="feb412254-dl-0001"><title>Abbreviations</title><def-item><term>ChIP</term><def><p>chromatin immunoprecipitation</p></def></def-item><def-item><term>CK19</term><def><p>cytokeratin&#x02010;19</p></def></def-item><def-item><term>CSCs</term><def><p>cancer stem cells</p></def></def-item><def-item><term>DFS</term><def><p>disease&#x02010;free survival</p></def></def-item><def-item><term>EMT</term><def><p>epithelial&#x02010;to&#x02010;mesenchymal transition</p></def></def-item><def-item><term>EpCAM</term><def><p>epithelial cell adhesion molecule</p></def></def-item><def-item><term>HCC</term><def><p>hepatocellular carcinoma</p></def></def-item><def-item><term>HPC</term><def><p>hepatic progenitor cell</p></def></def-item><def-item><term>LCSCs</term><def><p>liver CSCs</p></def></def-item><def-item><term>MENA</term><def><p>mammalian&#x02010;enabled</p></def></def-item><def-item><term>SEM</term><def><p>standard error of the mean</p></def></def-item></def-list><p>Liver cancer is one of the most common malignant tumors, with a worldwide incidence ranked No. 5 and a mortality rate ranked No. 3 in all malignant tumors <xref rid="feb412254-bib-0001" ref-type="ref">1</xref>. In 2012, there are an estimated of 782&#x000a0;500 new cases and 745&#x000a0;500 deaths related to liver cancer worldwide <xref rid="feb412254-bib-0002" ref-type="ref">2</xref>. In particular, China has a high incidence of liver cancer, accounting for about 50% of the global cases <xref rid="feb412254-bib-0002" ref-type="ref">2</xref>. Hepatocellular carcinoma (HCC) is the most common subtype of liver cancer, accounting for about 85&#x02013;90% of all primary liver cancers <xref rid="feb412254-bib-0003" ref-type="ref">3</xref>, with a poor prognosis due to the high rates of recurrence and metastasis <xref rid="feb412254-bib-0004" ref-type="ref">4</xref>.</p><p>Growing evidence suggests that cancer stem cells (CSCs) play an important role in the tumorigenicity of a tumor <xref rid="feb412254-bib-0005" ref-type="ref">5</xref>. According to the CSCs theory, CSCs are defined as a rare subset of cancerous cells within a tumor which are capable of self&#x02010;renewal and regulating formation and development of tumor <xref rid="feb412254-bib-0006" ref-type="ref">6</xref>. CSCs have been isolated in a variety of cancers, including HCC <xref rid="feb412254-bib-0007" ref-type="ref">7</xref>, breast cancer <xref rid="feb412254-bib-0008" ref-type="ref">8</xref>, pancreatic cancer <xref rid="feb412254-bib-0009" ref-type="ref">9</xref>, colon cancer <xref rid="feb412254-bib-0010" ref-type="ref">10</xref>, and melanoma <xref rid="feb412254-bib-0011" ref-type="ref">11</xref>. Liver CSCs (LCSCs) have been shown to possess significant capacities of migration and invasion and resistant to radiation and chemotherapy, thus contributing to the tumor recurrence and metastasis <xref rid="feb412254-bib-0012" ref-type="ref">12</xref>. Therefore, studying the molecular mechanisms underlying the role of LCSCs in recurrence and metastasis may be helpful to find new treatment strategies for liver cancer. Currently, several LCSC&#x02010;related genes and biomarkers have been identified. It has been shown that human HCC cells with CD133 surface marker have the self&#x02010;renewal capacity, and marked proliferation and colony formation potentials <italic>in&#x000a0;vitro</italic>, as well as a remarkable tumorigenicity <italic>in&#x000a0;vivo</italic>
+<xref rid="feb412254-bib-0013" ref-type="ref">13</xref>. Cytokeratin&#x02010;19 (CK19) is a LCSCs marker significantly associated with tumor size, reduced tumor differentiation, invasion, and metastasis <xref rid="feb412254-bib-0014" ref-type="ref">14</xref>, <xref rid="feb412254-bib-0015" ref-type="ref">15</xref>. In addition, the epithelial&#x02010;to&#x02010;mesenchymal transition (EMT)&#x02010;related proteins were upregulated in CK19<sup>+</sup> HCC cells <xref rid="feb412254-bib-0016" ref-type="ref">16</xref>. Epithelial cell adhesion molecule (EpCAM) is a tumor&#x02010;associated cell adhesion molecule with oncogenic potential in many endothelium&#x02010;derived cancers <xref rid="feb412254-bib-0017" ref-type="ref">17</xref>. Terris <italic>et&#x000a0;al</italic>. <xref rid="feb412254-bib-0018" ref-type="ref">18</xref> have demonstrated that EpCAM<sup>+</sup> HCC cells have the characteristics of hepatic stem/progenitor cells and are able to form a highly invasive tumor in immunodeficient mice. Kimura <italic>et&#x000a0;al</italic>. <xref rid="feb412254-bib-0019" ref-type="ref">19</xref> showed that EpCAM<sup>+</sup> HCC cells have a greater ability for colony formation <italic>in&#x000a0;vitro</italic> and tumor formation <italic>in&#x000a0;vivo</italic> as compared with EpCAM<sup>&#x02010;</sup> HCC cells. Studies have shown that HCC cells with surface markers CD133, CD90, CD44, CK19, and EpCAM possess LCSC&#x02010;like characteristics <xref rid="feb412254-bib-0020" ref-type="ref">20</xref>, <xref rid="feb412254-bib-0021" ref-type="ref">21</xref>, <xref rid="feb412254-bib-0022" ref-type="ref">22</xref>. All these findings suggest that HCC cells expressing CSC biomarkers exhibit the characteristic of LCSCs and have a stronger tumorigenicity. However, the molecular mechanism about the regulation of expression of LCSC&#x02010;related biomarkers remains not fully understood. Mammalian&#x02010;enabled (MENA) is an actin&#x02010;regulatory protein with a molecular weight of 80&#x000a0;kD and has the functions such as cell motility and adhesion <xref rid="feb412254-bib-0023" ref-type="ref">23</xref>. MENA is undetectable in many normal tissues, but is highly expressed in gastric cancer, breast cancer, cervical cancer, colorectal cancer, pancreatic cancer, salivary gland cancer, and other adenocarcinomas; thus, it could be used as a tumor marker for these cancers <xref rid="feb412254-bib-0023" ref-type="ref">23</xref>. In addition, researches on breast cancer have shown that expression of MENA is associated with tumor invasion and metastasis <xref rid="feb412254-bib-0024" ref-type="ref">24</xref>. In the studies on hepatocellular carcinoma <xref rid="feb412254-bib-0025" ref-type="ref">25</xref>, MENA may be involved in the development and progression of tumors. Our previous study on 81 patients with HCC found that MENA is overexpressed in 40.74% paraffin&#x02010;embedded HCC specimens. Compared to MENA&#x02010;negative control, poor cellular differentiation, advanced tumor stage, and worse disease&#x02010;free survival (DFS) have been found in MENA&#x02010;positive group. Furthermore, multivariate Cox regression analysis shows that MENA overexpression is a risk factor for DFS (HR: 2.309, 95% CI: 1.104&#x02013;4.828; <italic>P</italic>&#x000a0;=&#x000a0;0.026) <xref rid="feb412254-bib-0026" ref-type="ref">26</xref>. Recently, Lin <italic>et&#x000a0;al</italic>. <xref rid="feb412254-bib-0025" ref-type="ref">25</xref> demonstrated that knockdown of MENA reduced HCC cell migration and invasion <italic>in&#x000a0;vitro</italic>, as well as their metastasis capacity <italic>in&#x000a0;vivo</italic>. These results suggest an oncogenic potential for MENA.</p><p>Even though the oncogenic potential of MENA in HCC cells has been revealed, however, the underlying molecular mechanism remains to be investigated. MENA is an EMT&#x02010;dependent alternatively spliced gene. The splice isoform of MENA with the exon 11a is a characteristic for epithelial cells and is not found in mesenchymal cells <xref rid="feb412254-bib-0027" ref-type="ref">27</xref>. Meanwhile, the splice isoform of MENA has also been found to be expressed in primary tumor cells, but not in invasive tumor cells <xref rid="feb412254-bib-0028" ref-type="ref">28</xref>. Although the detailed mechanism is still unknown, these findings suggest that <italic>MENA</italic> gene may play a role in the regulation of EMT. Multiple signaling pathways have been shown to be involved in the regulation of EMT and CSC transition <xref rid="feb412254-bib-0029" ref-type="ref">29</xref>, <xref rid="feb412254-bib-0030" ref-type="ref">30</xref>, and there are many common regulation mechanisms between EMT and CSC. For instance, extracellular signal&#x02010;regulated kinase (ERK) signaling has been shown to be involved in the regulation of both stemness <xref rid="feb412254-bib-0031" ref-type="ref">31</xref> and EMT <xref rid="feb412254-bib-0032" ref-type="ref">32</xref> in several cancers. Wnt/&#x003b2;&#x02010;catenin pathway can promote the expression of surface markers of liver cancer and the promotion of liver CSC activation <xref rid="feb412254-bib-0033" ref-type="ref">33</xref> and is involved in EMT of HCC <xref rid="feb412254-bib-0034" ref-type="ref">34</xref>. Based on these observations, we hypothesized that MENA may play a role in the regulations of CSC and EMT in HCC cells. The purpose of this study was to investigate the oncogenic potential of MENA and its capacity to regulate CSC and EMT phenotypes in HCC cells. By using HCC tumor tissue samples and cancer cell lines, the above issues were investigated.</p><sec id="feb412254-sec-0002"><title>Materials and methods</title><sec id="feb412254-sec-0003"><title>HCC samples</title><p>A total of 81 tissue specimens of HCC were collected from primary HCC patients undergoing curative surgery in our center between March 2010 and July 2012 as previously described <xref rid="feb412254-bib-0026" ref-type="ref">26</xref>. The median age of the patients was 49&#x000a0;years (range: 13&#x02013;80&#x000a0;years); the median tumor size was 4.3&#x000a0;cm (range: 1.5&#x02013;10&#x000a0;cm). All the patients were diagnosed with primary HCC; 69 (85%) patients were diagnosed with chronic viral hepatitis (HBV: 66 patients and HCV: three patients). This study was approved by the Institutional Review Board of the Third Affiliated Hospital of Sun Yat&#x02010;sen University. Written informed consent was obtained from all the patients.</p></sec><sec id="feb412254-sec-0004"><title>Cell culture</title><p>Hepatocarcinoma cell (HCC) lines QGY&#x02010;7703 and PLC&#x02010;8024 were obtained from the Institute of Virology, Chinese Academy of Medical Sciences (Beijing, China), while SMMC&#x02010;7721, BEL&#x02010;7402, HUH&#x02010;7, MHCC&#x02010;97L, and MHCC&#x02010;97H were obtained from Liver Cancer Institute of Fudan University (Shanghai, China). All the hepatocarcinoma cell (HCC) lines were cultured by continuous passage in Dulbecco's modified Eagle medium (Gibco, Carlsbad, CA, USA) supplemented with 10% fetal bovine serum (Gibco) and 1% penicillin/streptomycin (Gibco). Cells were maintained in a humidified incubator at 37&#x000a0;&#x000b0;C in 5% CO<sub>2</sub>. RNA and protein were extracted from exponentially growing cells.</p></sec><sec id="feb412254-sec-0005"><title>Generating stable MENA&#x02010;overexpressing HCC cell lines</title><p>For stable overexpression of MENA, SMMC&#x02010;7721 and QGY&#x02010;7703 cells were infected with pLVX&#x02010;IRES&#x02010;Puro&#x02010;MENA viral particles (Clontech; Mountain View, CA, USA) and selected by puromycin according to the manufacturer's protocol. The established stable cell lines were designated as SMMC&#x02010;7721&#x02010;MENA and QGY&#x02010;7703&#x02010;MENA, respectively.</p></sec><sec id="feb412254-sec-0006"><title>Western blot</title><p>Total proteins were extracted with RIPA lysis buffer and separated by SDS/PAGE and then transferred to the poly(vinylidene difluoride) membranes. The membranes were blocked with 5% skimmed milk and incubated with the appropriate antibody. The antigen&#x02013;antibody complex on the membrane was detected with enhanced chemiluminescence regents (Thermo Scientific, Rockford, IL, USA). The antibodies including ERK (Cat.#9926, Cell Signaling, Danvers, MA, USA) and p&#x02010;ERK (Thr202/Tyr204, Cat.#9910, Cell signaling), E&#x02010;cadherin (Cat.#sc&#x02010;7870, Santa Cruz, Santa Cruz, CA, USA), vimentin (Cat.#sc&#x02010;6260, Santa Cruz), &#x003b2;&#x02010;catenin (Cat.# 9562, Cell signaling), MENA (Cat.# 2075, Cell signaling), and &#x003b1;&#x02010;tubulin (Cat.#ab15246, Abcam, Cambridge, MA, USA) were all used in this study.</p></sec><sec id="feb412254-sec-0007"><title>
+<italic>In&#x000a0;vitro</italic> cell migration assay</title><p>
+<italic>In&#x000a0;vitro</italic> cell migration assays were performed in Transwell chambers (8&#x000a0;&#x003bc;m pore size; Costar). The Transwells were put into the 24&#x02010;well plates. A total of 2&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> cells were placed into the top chamber of each insert (BD Biosciences, Eugene, OR, USA) and incubated at 37&#x000a0;&#x000b0;C for 48&#x000a0;h. The migrated cells were fixed with 4% paraformaldehyde for 5&#x000a0;min, stained with 1% crystal violet for 30&#x000a0;s, and then quantified by counting cells at 20&#x000d7; magnification (five fields per chamber).</p></sec><sec id="feb412254-sec-0008"><title>Colony formation assay and soft agar colony formation assay</title><p>For colony formation assay, QGY&#x02010;7703&#x02010;MENA and QGY&#x02010;7703&#x02010;Vector cells (200 cells/well) were trypsinized, plated on six&#x02010;well plates, and then cultured in medium containing 10% FBS for 2&#x000a0;weeks. The colonies were fixed with 4% paraformaldehyde for 5&#x000a0;min and stained with 1% crystal violet for 30&#x000a0;s. To evaluate anchorage&#x02010;independent cell growth, an assay of colony formation in soft agar was performed. A bottom layer was formed with 0.6% agar and Dulbecco's modified Eagle's medium (DMEM) plus 10% FBS in six&#x02010;well plates. After the bottom layer solidified, 5000 cells per plate, 0.4% agar, and DMEM plus 10% FBS were added to the top layer. After 2&#x000a0;weeks of incubation, colonies were fixed with 4% paraformaldehyde for 5&#x000a0;min, stained with 1% crystal violet for 30&#x000a0;s, and counted for each plate.</p></sec><sec id="feb412254-sec-0009"><title>RT&#x02010;PCR</title><p>Total RNA was extracted from human HCC tissues and HCC cell line using Trizol reagent (Invitrogen, Carlsbad, CA, USA) according to the manufacturer's instructions. Total RNA extracts of CD133<sup>+</sup> and CD133<sup>&#x02010;</sup> hepatoma cell lines (Huh7 and PLC&#x02010;8024) were kindly provided by Guan XY (Sun Yat&#x02010;sen University Cancer Center, China) <xref rid="feb412254-bib-0035" ref-type="ref">35</xref>. First&#x02010;strand cDNA was synthesized with 2&#x000a0;&#x003bc;g of total RNA using a First&#x02010;Strand Synthesis System (Invitrogen) according to the manufacturer's instructions. Real&#x02010;time (RT) PCR was performed using a CFX96 Real&#x02010;Time System (Bio&#x02010;Rad, Hercules, CA, USA). 2 9 SYBR Green Master mixture (Invitrogen) was used in a total volume of 10&#x000a0;&#x003bc;L. The PCR primer sequences were as follows: MENA: sense 5&#x02032;&#x02010;GTGCCATTCCTAAAGGGTTGA&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;GCT GCCAAAGTTGAGACCATAC&#x02010;3&#x02032;; CK19: sense 5&#x02032;&#x02010;GTGC CATTCCTAAAGGGTTGA&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;GCTGCCAA AGTTGAGACCATAC&#x02010;3&#x02032;; CD133: sense 5&#x02032;&#x02010;TGGATGCAGAACTTGACAACGT&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;ATACCTGCTACGACAGTCGTGGT&#x02010;3&#x02032;; EpCAM: sense 5&#x02032;&#x02010;ATGTTTGG TGATGAAGGCAGAA&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;ATCGCAGTCAG GATCATAAAGC&#x02010;3&#x02032;; ABCG2: sense 5&#x02032;&#x02010;TCATCAGCCTCGATATTCCATCT&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;R GGCCCGTGGAACATAAGTCTT&#x02010;3; Oct4: sense 5&#x02032;&#x02010;CGCAAGCCCTCAT TTCAC&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;CATCACCTCCACCACCTG&#x02010;3&#x02032;; Sox2 F: TACAGCATGTCCTACTCGCAG&#x02010;3&#x02032;, R: GAGGAAGAGGTAACCACAGGG&#x02010;3&#x02032;; &#x003b2;&#x02010;catenin: sense 5&#x02032;&#x02010;ACAACTGTTTTGAAAATCCA&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;CGAG TCATTGCATACTGTCC&#x02010;3&#x02032;; GAPDH: sense 5&#x02032;&#x02010;TGTTGC CATCAATGACCCC&#x02010;3&#x02032; and antisense 5&#x02032;&#x02010;CTCCACGACGTACTCAGC&#x02010;3&#x02032;, which was used as an internal control. All reactions were run in triplicate in three independent experiments.</p></sec><sec id="feb412254-sec-0010"><title>Chromatin immunoprecipitation (ChIP)</title><p>Stable MENA&#x02010;overexpressing HCC cells (QGY&#x02010;7703&#x02010;MENA) were trypsinized and treated with 1% formaldehyde for crosslinking, followed by sonication to lyse the cells and break down chromatin. The mixture of DNA and protein was immunoprecipitated with anti&#x02010;&#x003b2;&#x02010;catenin antibody. After extensive washing, elution, and de&#x02010;crosslinking processes, the chromatin immunoprecipitation (ChIP)&#x02010;DNA fragments were finally obtained. ChIP&#x02010;DNA fragments were used as a template for PCR with specific primer pair for the promoter region of <italic>MENA</italic> gene (sense 5&#x02032;&#x02010;TATATGCCCCTCCTCAAC&#x02010;3&#x02032;, antisense 5&#x02032;&#x02010;GTTCCTC GCCCGTGGTTG&#x02010;3&#x02032;).</p></sec><sec id="feb412254-sec-0011"><title>Statistical analysis</title><p>Statistical analyses were performed using <sc>spss</sc> 17.0 for Windows (SPSS, IBM Corp., Armonk, NY, USA) and <sc>graphpad</sc> Prism6 (GraphPad Software, La Jolla, CA, USA). Data were expressed as the mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (SEM) from at least three independent experiments. Quantitative data between groups were compared using the Student's <italic>t</italic>&#x02010;test. A two&#x02010;tailed <italic>P</italic> value of &#x0003c;&#x000a0;0.05 was considered as statistical significance.</p></sec></sec><sec id="feb412254-sec-0012"><title>Results</title><sec id="feb412254-sec-0013"><title>Generating MENA&#x02010;overexpressing HCC cell lines</title><p>Our previous work showed that overexpression of MENA is associated with poor cellular differentiation, advanced tumor stage, and worse DFS in HCC. To further investigate the oncogenic potential of MENA <italic>in&#x000a0;vitro</italic>, we attempted to generate stable MENA&#x02010;overexpressing HCC cell lines. MENA protein levels were screened in six HCC cell lines. As shown in Fig.&#x000a0;<xref rid="feb412254-fig-0001" ref-type="fig">1</xref>A, Huh&#x02010;7, PLC&#x02010;8024, MHCC&#x02010;97L, and MHCC&#x02010;97H cells were positive for MENA protein, whereas SMMC&#x02010;7721 and QGY&#x02010;7703 cells were nearly negative for MENA. Therefore, two low MENA&#x02010;expressing cell lines, SMMC&#x02010;7721 and QGY&#x02010;7703, were chosen to establish the stable MENA&#x02010;overexpressing HCC cells (SMMC&#x02010;7721 MENA and QGY&#x02010;7703 MENA). The overexpression of MENA protein levels was confirmed by western blot in SMMC&#x02010;7721&#x02010;MENA (Fig.&#x000a0;<xref rid="feb412254-fig-0001" ref-type="fig">1</xref>B) and QGY&#x02010;7703&#x02010;MENA (Fig.&#x000a0;<xref rid="feb412254-fig-0001" ref-type="fig">1</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="feb412254-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Generating <styled-content style="fixed-case">MENA</styled-content>&#x02010;overexpressing <styled-content style="fixed-case">HCC</styled-content> cell lines. (A) <styled-content style="fixed-case">MENA</styled-content> protein levels of six <styled-content style="fixed-case">HCC</styled-content> cell lines were determined by western blot. <styled-content style="fixed-case">SMMC</styled-content>&#x02010;7721 (B) and <styled-content style="fixed-case">QGY</styled-content>&#x02010;7703 (C) were used to generate the stable <styled-content style="fixed-case">MENA</styled-content>&#x02010;overexpressing <styled-content style="fixed-case">HCC</styled-content> cells. The overexpression of <styled-content style="fixed-case">MENA</styled-content> proteins was confirmed by western blot.</p></caption><graphic id="nlm-graphic-3" xlink:href="FEB4-7-1144-g001"/></fig></sec><sec id="feb412254-sec-0014"><title>Overexpression of MENA enhanced tumorigenicity of HCC cells</title><p>The proliferative and metastatic capacities of MENA&#x02010;overexpressing HCC cells were determined to evaluate the oncogenic potential of MENA. As shown in Fig.&#x000a0;<xref rid="feb412254-fig-0002" ref-type="fig">2</xref>, both colony formation (Fig.&#x000a0;<xref rid="feb412254-fig-0002" ref-type="fig">2</xref>A, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001) and soft agar colony formation assay (Fig.&#x000a0;<xref rid="feb412254-fig-0002" ref-type="fig">2</xref>B, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01) showed that QGY&#x02010;7703&#x02010;MENA cells can form significantly more colonies than the control cells. In addition, transwell cell migration assay showed that QGY&#x02010;7703&#x02010;MENA cells had a significantly higher migration ability as compared with the vector control cells (Fig.&#x000a0;<xref rid="feb412254-fig-0002" ref-type="fig">2</xref>C, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01). These data suggested that overexpression of MENA enhanced tumorigenicity in HCC cell lines.</p><fig fig-type="Figure" xml:lang="en" id="feb412254-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Overexpression of <styled-content style="fixed-case">MENA</styled-content> enhanced tumorigenicity in <styled-content style="fixed-case">HCC</styled-content> cells. Colony formation assay (A), soft agar colony formation assay (B), and transwell cell migration assay (C) were employed to determine the tumorigenicity. The results were quantified and compared between <styled-content style="fixed-case">QGY</styled-content>&#x02010;7703&#x02010;<styled-content style="fixed-case">MENA</styled-content> and vector control cells. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001.</p></caption><graphic id="nlm-graphic-5" xlink:href="FEB4-7-1144-g002"/></fig></sec><sec id="feb412254-sec-0015"><title>Overexpression of MENA upregulated hepatic progenitor/stem cell markers and Wnt/&#x003b2;&#x02010;catenin signaling markers in HCC cells</title><p>As enhanced tumorigenicity is a characteristic of CSCs, next we investigated whether overexpression of MENA impacted on CSC&#x02010;like characteristics of HCC cells. As shown in Fig.&#x000a0;<xref rid="feb412254-fig-0003" ref-type="fig">3</xref>, overexpression of MENA dramatically upregulated the mRNA levels of hepatic progenitor cell (HPC) markers CK19 and EpCAM, stem cell markers Oct4 and Sox2, and Wnt signaling marker &#x003b2;&#x02010;catenin in both stable MENA HCC cell lines as compared with their vector control counterparts (Fig.&#x000a0;<xref rid="feb412254-fig-0003" ref-type="fig">3</xref>A,B). However, the levels of CSC marker CD133 and stem cell marker ABCG2 did not change after overexpression of MENA.</p><fig fig-type="Figure" xml:lang="en" id="feb412254-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Overexpression of <styled-content style="fixed-case">MENA</styled-content> upregulated hepatic progenitor/stem cell markers and Wnt/&#x003b2;&#x02010;catenin signaling markers in <styled-content style="fixed-case">HCC</styled-content> cells. The <styled-content style="fixed-case">mRNA</styled-content> levels of <styled-content style="fixed-case">HPC</styled-content> markers <styled-content style="fixed-case">CK</styled-content>19 and Ep<styled-content style="fixed-case">CAM</styled-content>, stem cell markers Oct4 and Sox2, and Wnt signaling marker &#x003b2;&#x02010;catenin in <styled-content style="fixed-case">SMMC</styled-content>&#x02010;7721&#x02010;<styled-content style="fixed-case">MENA</styled-content> (A) and <styled-content style="fixed-case">QGY</styled-content>&#x02010;7703&#x02010;<styled-content style="fixed-case">MENA</styled-content> (B) cells were compared with their vector control counterparts, respectively. (C) <styled-content style="fixed-case">MENA</styled-content> expression levels were determined by <styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content> using <styled-content style="fixed-case">RNA</styled-content> extract from <styled-content style="fixed-case">CD</styled-content>133<sup>+</sup>/<styled-content style="fixed-case">CD</styled-content>133<sup>&#x02212;</sup>Huh7 and <styled-content style="fixed-case">PLC</styled-content>&#x02010;8024 cells, respectively.</p></caption><graphic id="nlm-graphic-7" xlink:href="FEB4-7-1144-g003"/></fig><p>Real&#x02010;time&#x02010;PCR analysis found that MENA expression was only detected in total RNA extract of CD133<sup>+</sup> Huh7 and PLC&#x02010;8024 cells, but not in their CD133<sup>&#x02212;</sup> counterparts (Fig.&#x000a0;<xref rid="feb412254-fig-0003" ref-type="fig">3</xref>C), indicating that only LCSCs express MENA. Taken together, these data suggested that MENA may play a role in CSC regulation of HCC cells.</p></sec><sec id="feb412254-sec-0016"><title>High MENA protein was associated with high mRNA levels of MENA, CD133, CK19, and EpCAM in human HCC tissues</title><p>To further confirm whether MENA plays a role in CSC regulation of HCC cells, 81 human HCC tissues were divided into MENA&#x02010;Low (<italic>n</italic>&#x000a0;=&#x000a0;48) and MENA&#x02010;High groups (<italic>n</italic>&#x000a0;=&#x000a0;33) according to their expression level of MENA protein as previously described <xref rid="feb412254-bib-0026" ref-type="ref">26</xref>. The mRNA levels of MENA, CSC marker CD133, HPC markers CK19 and EpCAM were compared between two groups. As expected, MENA mRNA level was significantly higher in MENA&#x02010;High group than in MENA&#x02010;Low group (Fig.&#x000a0;<xref rid="feb412254-fig-0004" ref-type="fig">4</xref>A). In addition, MENA&#x02010;High group had significantly higher mRNA levels of CD133 (Fig.&#x000a0;<xref rid="feb412254-fig-0004" ref-type="fig">4</xref>B), CK19 (Fig.&#x000a0;<xref rid="feb412254-fig-0004" ref-type="fig">4</xref>C), and EpCAM (Fig.&#x000a0;<xref rid="feb412254-fig-0004" ref-type="fig">4</xref>D) as compared with MENA&#x02010;Low group. These data indicated that high expression of MENA was associated with elevated CSC markers in HCC cells.</p><fig fig-type="Figure" xml:lang="en" id="feb412254-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>High <styled-content style="fixed-case">MENA</styled-content> protein was associated with high <styled-content style="fixed-case">mRNA</styled-content> levels of <styled-content style="fixed-case">MENA</styled-content>,<styled-content style="fixed-case"> CD</styled-content>133, <styled-content style="fixed-case">CK</styled-content>19, and Ep<styled-content style="fixed-case">CAM</styled-content> in human <styled-content style="fixed-case">HCC</styled-content> tissues. Eighty&#x02010;one human <styled-content style="fixed-case">HCC</styled-content> tissues were divided into <styled-content style="fixed-case">MENA</styled-content>&#x02010;Low (<italic>n</italic>&#x000a0;=&#x000a0;48) and <styled-content style="fixed-case">MENA</styled-content>&#x02010;High groups (<italic>n</italic>&#x000a0;=&#x000a0;33) according to their expression level of <styled-content style="fixed-case">MENA</styled-content> protein. The <styled-content style="fixed-case">mRNA</styled-content> levels of <styled-content style="fixed-case">MENA</styled-content> (A), CSC marker <styled-content style="fixed-case">CD</styled-content>133 (B), and <styled-content style="fixed-case">HPC</styled-content> markers <styled-content style="fixed-case">CK</styled-content>19 (C) and Ep<styled-content style="fixed-case">CAM</styled-content> (D) were determined by <styled-content style="fixed-case">RT</styled-content>&#x02010;<styled-content style="fixed-case">PCR</styled-content> and compared between two groups (Student's <italic>t</italic>&#x02010;test).</p></caption><graphic id="nlm-graphic-9" xlink:href="FEB4-7-1144-g004"/></fig></sec><sec id="feb412254-sec-0017"><title>Overexpression of MENA promoted EMT, ERK phosphorylation, and &#x003b2;&#x02010;catenin protein level</title><p>Finally, we attempted to investigate the molecular mechanism underlying MENA&#x02010;mediated tumorigenicity enhancement in HCC cells. We examined the protein levels of two EMT biomarkers, E&#x02010;cadherin and vimentin. As shown in Fig.&#x000a0;<xref rid="feb412254-fig-0005" ref-type="fig">5</xref>A, overexpression of MENA simultaneously downregulated E&#x02010;cadherin and upregulated vimentin in QGY&#x02010;7703&#x02010;MENA cells, suggesting that MENA promoted EMT. The data also showed that overexpression of MENA elevated protein level of p&#x02010;ERK (Fig.&#x000a0;<xref rid="feb412254-fig-0005" ref-type="fig">5</xref>A), suggesting that overexpression of MENA activates ERK signaling pathway.</p><fig fig-type="Figure" xml:lang="en" id="feb412254-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Overexpression of <styled-content style="fixed-case">MENA</styled-content> promoted <styled-content style="fixed-case">EMT</styled-content>,<styled-content style="fixed-case"> ERK</styled-content> phosphorylation and &#x003b2;&#x02010;catenin protein level. (A) The protein levels of E&#x02010;cadherin and vimentin, <styled-content style="fixed-case">ERK</styled-content>, p&#x02010;<styled-content style="fixed-case">ERK</styled-content>, and &#x003b2;&#x02010;catenin were determined by western blot and compared between <styled-content style="fixed-case">QGY</styled-content>&#x02010;7703&#x02010;<styled-content style="fixed-case">MENA</styled-content> and vector control cells. (B) Ch<styled-content style="fixed-case">IP</styled-content> was performed to analyze the &#x003b2;&#x02010;catenin protein binding to the promoter region of <italic><styled-content style="fixed-case">MENA</styled-content></italic> gene in <styled-content style="fixed-case">HCC</styled-content> cells. Mouse IgG was used as a control immunoprecipitate antibody, while <styled-content style="fixed-case">DNA</styled-content> sample that has not been immunoprecipitated was used as an input control. Panel&#x000a0;a and panel b were two replicates of the experiment. The results showed that &#x003b2;&#x02010;catenin directly bound with the promoter region of <italic><styled-content style="fixed-case">MENA</styled-content></italic> gene.</p></caption><graphic id="nlm-graphic-11" xlink:href="FEB4-7-1144-g005"/></fig><p>Previous study has demonstrated that MENA is a transcriptional target of Wnt/&#x003b2;&#x02010;catenin pathway <xref rid="feb412254-bib-0036" ref-type="ref">36</xref>. To address whether &#x003b2;&#x02010;catenin pathway is associated with MENA in HCC cells, we determined &#x003b2;&#x02010;catenin protein level in QGY&#x02010;7703&#x02010;MENA cells. The data showed that MENA&#x02010;overexpressing cells had a markedly increased protein level of &#x003b2;&#x02010;catenin as compared with vector control cells (Fig.&#x000a0;<xref rid="feb412254-fig-0005" ref-type="fig">5</xref>A). The result of ChIP also confirmed that &#x003b2;&#x02010;catenin directly bound with the promoter region of <italic>MENA</italic> gene (Fig.&#x000a0;<xref rid="feb412254-fig-0005" ref-type="fig">5</xref>B), demonstrating that MENA is a transcriptional target of &#x003b2;&#x02010;catenin in HCC cells. These data implied that EMT, ERK, and &#x003b2;&#x02010;catenin signaling pathways may be involved in the mechanism underlying MENA&#x02010;mediated tumorigenicity enhancement in HCC cells.</p></sec></sec><sec id="feb412254-sec-0018"><title>Discussion</title><p>In this study, we investigated the oncogenic potential of MENA and its underlying mechanism in HCC cells. The data showed that overexpression of MENA significantly enhanced colony&#x02010;forming and migration abilities in HCC cells. Overexpression of MENA in HCC cell lines also upregulated the HPC markers (CK19, EpCAM) and the stem cell markers (Oct4, Sox2). In addition, high MENA protein level was associated with elevated mRNA levels of the hepatic progenitor/stem cell markers CD133, CK19, and EpCAM in human HCC tissue samples. Furthermore, overexpression of MENA promoted EMT and ERK phosphorylation and level of &#x003b2;&#x02010;catenin in HCC cells. These data suggested that MENA has the ability to enhance tumorigenicity and the expressions of CSC and EMT markers in HCC cells, which may be involved, at least partially, in the ERK and Wnt/&#x003b2;&#x02010;catenin signaling pathways.</p><p>Our previous work showed that high expression of MENA in human HCC tissues is associated with poor cellular differentiation <xref rid="feb412254-bib-0026" ref-type="ref">26</xref>, implying that MENA may play a role in the dedifferentiation of HCC. The current study further demonstrated that HCC samples with elevated MENA protein displayed high levels of LCSC markers CD133, CK19, and EpCAM. In addition, MENA&#x02010;overexpressing HCC cells showed enhanced hepatic progenitor/stem cell markers. CD133 is an important CSC surface marker in various tissues including HCC. Previous study reported that CD133<sup>+</sup> cells accounted for 65% of Huh7 cells <xref rid="feb412254-bib-0037" ref-type="ref">37</xref>. CD133<sup>+</sup> cells had a greater colony&#x02010;forming efficiency, higher proliferative capacity, and greater tumorigenicity <xref rid="feb412254-bib-0038" ref-type="ref">38</xref>. In addition, CD133<sup>+</sup> HCC cells have been shown to be more resistant to chemotherapy and radiotherapy through activation of the Akt/PKB and Bcl&#x02010;2 survival pathways <xref rid="feb412254-bib-0037" ref-type="ref">37</xref>, <xref rid="feb412254-bib-0039" ref-type="ref">39</xref>, <xref rid="feb412254-bib-0040" ref-type="ref">40</xref>, <xref rid="feb412254-bib-0041" ref-type="ref">41</xref>. Chen <italic>et&#x000a0;al</italic>. <xref rid="feb412254-bib-0042" ref-type="ref">42</xref> showed that CD133<sup>+</sup>EpCAM<sup>+</sup> Huh7 cells possessed elevated capacities for colony formation, differentiation, chemoresistance, and tumorigenicity in mice. Our data showed that MENA expression was detected only in CD133<sup>+</sup> HCC cell lines Huh7 and PLC&#x02010;8024 cells, but not in their CD133&#x02010; counterparts. These results suggested that there is an association between CD133 and MENA. The phenomenon that overexpression of MENA in HCC cell lines resulted in unchanged level of CSC marker CD133 may indicate that MENA may be a downstream protein of CD133 so that overexpression of MENA had no effect on CD133 level. Further study is required to elucidate the relationship between CD133 and MENA in CSCs. These results also indicated that MENA may play a role in the regulation of CSC in HCC cells. It is worth to further investigate whether MENA regulates CD133<sup>+</sup> LCSCs by establishing a MENA&#x02010;overexpressing CD133<sup>+</sup> HCC cell model.</p><p>In the current study, MENA&#x02010;overexpressing HCC cells presented reduced E&#x02010;cadherin and elevated vimentin proteins, indicating that the cells underwent EMT transformation. The EMT transition plays a crucial role in cancer invasion, metastasis, as well as for therapeutic resistance. CSCs have the capacity of self&#x02010;renewal, migration, and invasion and are resistant to radiation and chemotherapy. Therefore, metastatic cancer cells may simultaneously possess the characteristics of both EMT and CSCs <xref rid="feb412254-bib-0043" ref-type="ref">43</xref>. Accumulating evidences have identified the correlations between EMT and the CSC transformation in cancer cells <xref rid="feb412254-bib-0044" ref-type="ref">44</xref>, <xref rid="feb412254-bib-0045" ref-type="ref">45</xref>. Mani <italic>et&#x000a0;al</italic>. <xref rid="feb412254-bib-0045" ref-type="ref">45</xref> reported that immortalized human mammary epithelial cells undergoing EMT induce the expression of stem cell markers and form mammospheres, soft agar colonies, and tumors. In addition, several studies have suggested that HCC cells can acquire CSC&#x02010;like characteristics through the EMT transition, exhibiting metastasis and therapeutic resistance <xref rid="feb412254-bib-0046" ref-type="ref">46</xref>, <xref rid="feb412254-bib-0047" ref-type="ref">47</xref>, <xref rid="feb412254-bib-0048" ref-type="ref">48</xref>. Thus, both CSC and EMT are important for the invasion and metastasis of HCC. Our previous finding demonstrated that high expression of MENA in human HCC tissues is associated with advanced tumor stage <xref rid="feb412254-bib-0026" ref-type="ref">26</xref>. In this study, MENA&#x02010;overexpressing HCC cells have elevated expression levels of both CSC and EMT markers and enhanced capacities of migration and colony formation, suggesting an oncogenic potential of MENA in HCC. In addition, our observations further supported the correlations between EMT and the CSC in HCC. To our best knowledge, our data report the effects of MENA on expressions of CSC and EMT markers in HCC cells for the first time, which also have not been described in any other cancers.</p><p>Both the molecular mechanisms of EMT and CSC are complicated, and there are many common regulation mechanisms between these two procedures. ERK and Wnt/&#x003b2;&#x02010;catenin signaling pathways have been shown to be involved in the regulation of both stemness phenotypes <xref rid="feb412254-bib-0031" ref-type="ref">31</xref>, <xref rid="feb412254-bib-0033" ref-type="ref">33</xref> and EMT <xref rid="feb412254-bib-0032" ref-type="ref">32</xref>, <xref rid="feb412254-bib-0034" ref-type="ref">34</xref> in HCC. Our data showed that both the protein levels of p&#x02010;ERK and &#x003b2;&#x02010;catenin elevated in MENA&#x02010;overexpressing HCC cells. In addition, the ChIP data showed that MENA is a transcriptional target of &#x003b2;&#x02010;catenin in HCC cells. These findings suggested that MENA may regulate CSC features and EMT in HCC through Wnt/&#x003b2;&#x02010;catenin and ERK pathways. Further study is needed to verify the detailed mechanism.</p><p>Several limitations should be mentioned in the current study. First, although our results found that overexpression of MENA elevated the levels of several LCSC biomarkers in HCC cells, we did not examine the effect of stable knockdown of MENA on the levels of LCSC biomarkers in high MENA&#x02010;expressing cells. We also did not evaluate the effects of MENA overexpression on the other key features of CSC, such as capacity of self&#x02010;renewal, drug resistance (i.e., sorafenib), and sphere formation to further confirm the CSC regulation function of MENA. In addition, we did not simultaneously implement the results for another MENA&#x02010;overexpressing cell (SMMC&#x02010;7721&#x02010;MENA cell) in this study, and the immunofluorescence data of colocalization of MENA and stem cell markers (CK19 and CD133) in human HCC tissues are important to validate MENA as a stemness marker. Furthermore, in the following study, it is necessary to isolate MENA<sup>+</sup> LCSCs from fresh HCC surgical samples. These cells should be characterized for stemness features and proliferation ability using both <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic> models. All these limitations should be addressed in the following study.</p><p>In summary, this study demonstrated that overexpression of MENA enhanced expression of CSC markers and EMT markers, as well as the tumorigenicity in HCC cells, which provide partial mechanisms for the oncogenic role of MENA in the metastasis and recurrence of HCC. Our findings may be helpful for the development of new therapeutic strategies for HCC.</p></sec><sec id="feb412254-sec-0020"><title>Author contributions</title><p>KH and BL planned experiments; PH performed experiments; HL, ZY, QW, and ZX analyzed data; JL, HH, SX, and PZ contributed reagents or other essential materials; KH and PH wrote the manuscript.</p></sec></body><back><ack id="feb412254-sec-0019"><title>Acknowledgements</title><p>This study was supported by the grants from Natural Science Foundation of Guangdong Province (2016A030313200), Science and Technology Project of Guangzhou City (201607010022), and Science and Technology Project of Guangdong Province (2014A020212715).</p></ack><ref-list content-type="cited-references" id="feb412254-bibl-0001"><title>References</title><ref id="feb412254-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb412254-cit-0001">
+<string-name>
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>KD</given-names>
+</string-name> and <string-name>
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Cancer statistics, 2016</article-title>. <source>CA Cancer J Clin</source>
+<volume>66</volume>, <fpage>7</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">26742998</pub-id></mixed-citation></ref><ref id="feb412254-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb412254-cit-0002">
+<string-name>
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Siegel</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Ferlay</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lortet&#x02010;tieulent</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Jemal</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Global cancer statistics, 2012</article-title>. <source>CA Cancer J Clin</source>
+<volume>65</volume>, <fpage>87</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">25651787</pub-id></mixed-citation></ref><ref id="feb412254-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb412254-cit-0003">
+<string-name>
+<surname>El&#x02010;Serag</surname>
+<given-names>HB</given-names>
+</string-name> and <string-name>
+<surname>Rudolph</surname>
+<given-names>KL</given-names>
+</string-name> (<year>2007</year>) <article-title>Hepatocellular carcinoma: epidemiology and molecular carcinogenesis</article-title>. <source>Gastroenterology</source>
+<volume>132</volume>, <fpage>2557</fpage>&#x02013;<lpage>2576</lpage>.<pub-id pub-id-type="pmid">17570226</pub-id></mixed-citation></ref><ref id="feb412254-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb412254-cit-0004">
+<string-name>
+<surname>Saraswat</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Pandey</surname>
+<given-names>G</given-names>
+</string-name> and <string-name>
+<surname>Shetty</surname>
+<given-names>S</given-names>
+</string-name> (<year>2014</year>) <article-title>Treatment algorithms for managing hepatocellular carcinoma</article-title>. <source>J Clin Exp Hepatol</source>
+<volume>4</volume>, <fpage>S80</fpage>&#x02013;<lpage>S89</lpage>.<pub-id pub-id-type="pmid">25755616</pub-id></mixed-citation></ref><ref id="feb412254-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb412254-cit-0005">
+<string-name>
+<surname>Bandhavkar</surname>
+<given-names>S</given-names>
+</string-name> (<year>2016</year>) <article-title>Cancer stem cells: a metastasizing menace!</article-title>. <source>Cancer Med</source>
+<volume>5</volume>, <fpage>649</fpage>&#x02013;<lpage>655</lpage>.<pub-id pub-id-type="pmid">26773710</pub-id></mixed-citation></ref><ref id="feb412254-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb412254-cit-0006">
+<string-name>
+<surname>Clarke</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Dick</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Dirks</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name>
+<surname>Eaves</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Jamieson</surname>
+<given-names>CHM</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Visvader</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Weissman</surname>
+<given-names>IL</given-names>
+</string-name> and <string-name>
+<surname>Wahl</surname>
+<given-names>GM</given-names>
+</string-name> (<year>2006</year>) <article-title>Cancer stem cells &#x02010; Perspectives on current status and future directions: AACR workshop on cancer stem cells</article-title>. <source>Cancer Res</source>
+<volume>66</volume>, <fpage>9339</fpage>&#x02013;<lpage>9344</lpage>.<pub-id pub-id-type="pmid">16990346</pub-id></mixed-citation></ref><ref id="feb412254-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb412254-cit-0007">
+<string-name>
+<surname>Kwon</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bak</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name>
+<surname>Nam</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Yoo</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>YN</given-names>
+</string-name>, <string-name>
+<surname>Bak</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>
+<given-names>DY</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Peroxiredoxin II is essential for maintaining stemness by redox regulation in liver cancer cells</article-title>. <source>Stem Cells</source>
+<volume>34</volume>, <fpage>1188</fpage>&#x02013;<lpage>1197</lpage>.<pub-id pub-id-type="pmid">26866938</pub-id></mixed-citation></ref><ref id="feb412254-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb412254-cit-0008">
+<string-name>
+<surname>Cocola</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Molgora</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Veronesi</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Greco</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bragato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Moro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Crosti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Milanesi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Grieco</surname>
+<given-names>V</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>FGF2 and EGF is required for self&#x02010;renewal of canine normal and tumor breast stem/progenitor cells that have organoid formation potential</article-title>. <source>J Cell Biochem</source>
+<volume>118</volume>, <fpage>570</fpage>&#x02013;<lpage>584</lpage>.<pub-id pub-id-type="pmid">27632571</pub-id></mixed-citation></ref><ref id="feb412254-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb412254-cit-0009">
+<string-name>
+<surname>Verma</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Shrivastava</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shankar</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Srivastava</surname>
+<given-names>RK</given-names>
+</string-name> (<year>2016</year>) <article-title>&#x003b1;&#x02010;Mangostin&#x02010;encapsulated PLGA nanoparticles inhibit pancreatic carcinogenesis by targeting cancer stem cells in human, and transgenic (Kras(G12D), and Kras(G12D)/tp53R270H) mice</article-title>. <source>Sci Rep</source>
+<volume>6</volume>, <fpage>32743</fpage>.<pub-id pub-id-type="pmid">27624879</pub-id></mixed-citation></ref><ref id="feb412254-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb412254-cit-0010">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sui</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>CD51 correlates with the TGF&#x02010;beta pathway and is a functional marker for colorectal cancer stem cells</article-title>. <source>Oncogene</source>
+<volume>36</volume>, <fpage>1351</fpage>&#x02013;<lpage>1363</lpage>.<pub-id pub-id-type="pmid">27593923</pub-id></mixed-citation></ref><ref id="feb412254-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb412254-cit-0011">
+<string-name>
+<surname>Shidal</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Rayyan</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yaddanapudi</surname>
+<given-names>K</given-names>
+</string-name> and <string-name>
+<surname>Davis</surname>
+<given-names>KR</given-names>
+</string-name> (<year>2016</year>) <article-title>Lunasin is a novel therapeutic agent for targeting melanoma cancer stem cells</article-title>. <source>Oncotarget</source>
+<volume>7</volume>, <fpage>84128</fpage>&#x02013;<lpage>84141</lpage>.<pub-id pub-id-type="pmid">27566591</pub-id></mixed-citation></ref><ref id="feb412254-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb412254-cit-0012">
+<string-name>
+<surname>Sun</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>LL</given-names>
+</string-name> and <string-name>
+<surname>Song</surname>
+<given-names>GB</given-names>
+</string-name> (<year>2016</year>) <article-title>Liver cancer stem cell markers: progression and therapeutic implications</article-title>. <source>World J Gastroenterol</source>
+<volume>22</volume>, <fpage>3547</fpage>&#x02013;<lpage>3557</lpage>.<pub-id pub-id-type="pmid">27053846</pub-id></mixed-citation></ref><ref id="feb412254-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb412254-cit-0013">
+<string-name>
+<surname>Chiba</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Kita</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yokosuka</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Saisho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Onodera</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Miyoshi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nakano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nakanuma</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>Enhanced self&#x02010;renewal capability in hepatic stem/progenitor cells drives cancer initiation</article-title>. <source>Gastroenterology</source>
+<volume>133</volume>, <fpage>937</fpage>&#x02013;<lpage>950</lpage>.<pub-id pub-id-type="pmid">17673212</pub-id></mixed-citation></ref><ref id="feb412254-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb412254-cit-0014">
+<string-name>
+<surname>Govaere</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Komuta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Berkers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Spee</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>de Luca</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Katoonizadeh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wouters</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van Kempen</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Durnez</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Keratin 19: a key role player in the invasion of human hepatocellular carcinomas</article-title>. <source>Gut</source>
+<volume>63</volume>, <fpage>647</fpage>&#x02013;<lpage>685</lpage>.<pub-id pub-id-type="pmid">23598351</pub-id></mixed-citation></ref><ref id="feb412254-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb412254-cit-0015">
+<string-name>
+<surname>Andersen</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Loi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Perra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Factor</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Ledda&#x02010;Columbano</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Columbano</surname>
+<given-names>A</given-names>
+</string-name> and <string-name>
+<surname>Thorgeirsson</surname>
+<given-names>SS</given-names>
+</string-name> (<year>2010</year>) <article-title>Progenitor&#x02010;derived hepatocellular carcinoma model in the rat</article-title>. <source>Hepatology</source>
+<volume>51</volume>, <fpage>1401</fpage>&#x02013;<lpage>1409</lpage>.<pub-id pub-id-type="pmid">20054870</pub-id></mixed-citation></ref><ref id="feb412254-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb412254-cit-0016">
+<string-name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Na</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>G</given-names>
+<suffix>Il</suffix>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Yoo</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>JS</given-names>
+</string-name> and <string-name>
+<surname>Park</surname>
+<given-names>YN</given-names>
+</string-name> (<year>2011</year>) <article-title>Human hepatocellular carcinomas with &#x0201c;Stemness&#x0201d;&#x02010;related marker expression: keratin 19 expression and a poor prognosis</article-title>. <source>Hepatology</source>
+<volume>54</volume>, <fpage>1707</fpage>&#x02013;<lpage>1717</lpage>.<pub-id pub-id-type="pmid">22045674</pub-id></mixed-citation></ref><ref id="feb412254-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb412254-cit-0017">
+<string-name>
+<surname>Trzpis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McLaughlin</surname>
+<given-names>PMJ</given-names>
+</string-name>, <string-name>
+<surname>de Leij</surname>
+<given-names>LMFH</given-names>
+</string-name> and <string-name>
+<surname>Harmsen</surname>
+<given-names>MC</given-names>
+</string-name> (<year>2007</year>) <article-title>Epithelial cell adhesion molecule</article-title>. <source>Am J Pathol</source>
+<volume>171</volume>, <fpage>386</fpage>&#x02013;<lpage>395</lpage>.<pub-id pub-id-type="pmid">17600130</pub-id></mixed-citation></ref><ref id="feb412254-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb412254-cit-0018">
+<string-name>
+<surname>Terris</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cavard</surname>
+<given-names>C</given-names>
+</string-name> and <string-name>
+<surname>Perret</surname>
+<given-names>C</given-names>
+</string-name> (<year>2010</year>) <article-title>EpCAM, a new marker for cancer stem cells in hepatocellular carcinoma</article-title>. <source>J Hepatol</source>
+<volume>52</volume>, <fpage>280</fpage>&#x02013;<lpage>281</lpage>.<pub-id pub-id-type="pmid">20006402</pub-id></mixed-citation></ref><ref id="feb412254-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb412254-cit-0019">
+<string-name>
+<surname>Kimura</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ueno</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kogure</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fukushima</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shiina</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yamagiwa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kondo</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Characterization of the epithelial cell adhesion molecule (EpCAM)+ cell population in hepatocellular carcinoma cell lines</article-title>. <source>Cancer Sci</source>
+<volume>101</volume>, <fpage>2145</fpage>&#x02013;<lpage>2155</lpage>.<pub-id pub-id-type="pmid">20707805</pub-id></mixed-citation></ref><ref id="feb412254-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb412254-cit-0020">
+<string-name>
+<surname>Liu</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</string-name> and <string-name>
+<surname>Shen</surname>
+<given-names>XZ</given-names>
+</string-name> (<year>2011</year>) <article-title>The power and the promise of liver cancer stem cell markers</article-title>. <source>Stem Cells Dev</source>
+<volume>20</volume>, <fpage>2023</fpage>&#x02013;<lpage>2030</lpage>.<pub-id pub-id-type="pmid">21651381</pub-id></mixed-citation></ref><ref id="feb412254-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb412254-cit-0021">
+<string-name>
+<surname>Yamashita</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Honda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nakamoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Baba</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nio</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Hayashi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kondo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Takatori</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Discrete nature of EpCAM+ and CD90&#x000a0;+&#x000a0; cancer stem cells in human hepatocellular carcinoma</article-title>. <source>Hepatology</source>
+<volume>57</volume>, <fpage>1484</fpage>&#x02013;<lpage>1497</lpage>.<pub-id pub-id-type="pmid">23174907</pub-id></mixed-citation></ref><ref id="feb412254-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb412254-cit-0022">
+<string-name>
+<surname>Yin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>CD133 positive hepatocellular carcinoma cells possess high capacity for tumorigenicity</article-title>. <source>Int J Cancer</source>
+<volume>120</volume>, <fpage>1444</fpage>&#x02013;<lpage>1450</lpage>.<pub-id pub-id-type="pmid">17205516</pub-id></mixed-citation></ref><ref id="feb412254-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="feb412254-cit-0023">
+<string-name>
+<surname>Gurzu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ciortea</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ember</surname>
+<given-names>I</given-names>
+</string-name> and <string-name>
+<surname>Jung</surname>
+<given-names>I</given-names>
+</string-name> (<year>2013</year>) <article-title>The possible role of mena protein and its splicing&#x02010;derived variants in embryogenesis, carcinogenesis, and tumor invasion: a systematic review of the literature</article-title>. <source>Biomed Res Int</source>
+<volume>2013</volume>, <fpage>365192</fpage>.<pub-id pub-id-type="pmid">23956979</pub-id></mixed-citation></ref><ref id="feb412254-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb412254-cit-0024">
+<string-name>
+<surname>Roussos</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wyckoff</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Sellers</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pollard</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Gertler</surname>
+<given-names>FB</given-names>
+</string-name> and <string-name>
+<surname>Condeelis</surname>
+<given-names>JS</given-names>
+</string-name> (<year>2010</year>) <article-title>Mena deficiency delays tumor progression and decreases metastasis in polyoma middle&#x02010;T transgenic mouse mammary tumors</article-title>. <source>Breast Cancer Res</source>
+<volume>12</volume>, <fpage>R101</fpage>.<pub-id pub-id-type="pmid">21108830</pub-id></mixed-citation></ref><ref id="feb412254-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb412254-cit-0025">
+<string-name>
+<surname>Lin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>XM</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>W</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>
+<given-names>ZG</given-names>
+</string-name> (<year>2014</year>) <article-title>Microfilament regulatory protein MENA increases activity of RhoA and promotes metastasis of hepatocellular carcinoma</article-title>. <source>Exp Cell Res</source>
+<volume>327</volume>, <fpage>113</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">24859350</pub-id></mixed-citation></ref><ref id="feb412254-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="feb412254-cit-0026">
+<string-name>
+<surname>Hu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</string-name> and <string-name>
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name> (<year>2014</year>) <article-title>Expression of cytoskeleton regulatory protein Mena in human hepatocellular carcinoma and its prognostic significance</article-title>. <source>Med Oncol</source>
+<volume>31</volume>, <fpage>939</fpage>.<pub-id pub-id-type="pmid">24683008</pub-id></mixed-citation></ref><ref id="feb412254-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="feb412254-cit-0027">
+<string-name>
+<surname>Samatov</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Tonevitsky</surname>
+<given-names>AG</given-names>
+</string-name> and <string-name>
+<surname>Schumacher</surname>
+<given-names>U</given-names>
+</string-name> (<year>2013</year>) <article-title>Epithelial&#x02010;mesenchymal transition: focus on metastatic cascade, alternative splicing, non&#x02010;coding RNAs and modulating compounds</article-title>. <source>Mol Cancer</source>
+<volume>12</volume>, <fpage>107</fpage>.<pub-id pub-id-type="pmid">24053443</pub-id></mixed-citation></ref><ref id="feb412254-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="feb412254-cit-0028">
+<string-name>
+<surname>Goswami</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Philippar</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Patsialou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Avraham</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Di Modugno</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nistico</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gertler</surname>
+<given-names>FB</given-names>
+</string-name> and <string-name>
+<surname>Condeelis</surname>
+<given-names>JS</given-names>
+</string-name> (<year>2009</year>) <article-title>Identification of invasion specific splice variants of the cytoskeletal protein Mena present in mammary tumor cells during invasion <italic>in&#x000a0;vivo</italic>
+</article-title>. <source>Clin Exp Metastasis</source>
+<volume>26</volume>, <fpage>153</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">18985426</pub-id></mixed-citation></ref><ref id="feb412254-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="feb412254-cit-0029">
+<string-name>
+<surname>Gonzalez</surname>
+<given-names>DM</given-names>
+</string-name> and <string-name>
+<surname>Medici</surname>
+<given-names>D</given-names>
+</string-name> (<year>2014</year>) <article-title>Signaling mechanisms of the epithelial&#x02010;mesenchymal transition</article-title>. <source>Sci Signal</source>
+<volume>7</volume>, <fpage>re8</fpage>.<pub-id pub-id-type="pmid">25249658</pub-id></mixed-citation></ref><ref id="feb412254-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="feb412254-cit-0030">
+<string-name>
+<surname>Takebe</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Miele</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bando</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kahn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>SX</given-names>
+</string-name> and <string-name>
+<surname>Ivy</surname>
+<given-names>SP</given-names>
+</string-name> (<year>2015</year>) <article-title>Targeting Notch, Hedgehog, and Wnt pathways in cancer stem cells: clinical update</article-title>. <source>Nat Rev Clin Oncol</source>
+<volume>12</volume>, <fpage>445</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">25850553</pub-id></mixed-citation></ref><ref id="feb412254-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="feb412254-cit-0031">
+<string-name>
+<surname>Huang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>WZ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ZH</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>ZB</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>JX</given-names>
+</string-name> and <string-name>
+<surname>Qiu</surname>
+<given-names>SP</given-names>
+</string-name> (<year>2016</year>) <article-title>PKC&#x003b5; inhibits isolation and stemness of side population cells via the suppression of ABCB1 transporter and PI3K/Akt, MAPK/ERK signaling in renal cell carcinoma cell line 769P</article-title>. <source>Cancer Lett</source>
+<volume>376</volume>, <fpage>148</fpage>&#x02013;<lpage>154</lpage>.<pub-id pub-id-type="pmid">27037060</pub-id></mixed-citation></ref><ref id="feb412254-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="feb412254-cit-0032">
+<string-name>
+<surname>Fang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ding</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name>
+<surname>Jing</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>SB</given-names>
+</string-name> and <string-name>
+<surname>Huang</surname>
+<given-names>S</given-names>
+</string-name> (<year>2017</year>) <article-title>Epithelial&#x02010;mesenchymal transition of ovarian cancer cells is sustained by Rac1 through simultaneous activation of MEK1/2 and Src signaling pathways</article-title>. <source>Oncogene</source>
+<volume>36</volume>, <fpage>1546</fpage>&#x02013;<lpage>1558</lpage>.<pub-id pub-id-type="pmid">27617576</pub-id></mixed-citation></ref><ref id="feb412254-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="feb412254-cit-0033">
+<string-name>
+<surname>Yang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>HX</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>YQ</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>LX</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>XN</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Wnt/&#x003b2;&#x02010;catenin signaling contributes to activation of normal and tumorigenic liver progenitor cells</article-title>. <source>Cancer Res</source>
+<volume>68</volume>, <fpage>4287</fpage>&#x02013;<lpage>4295</lpage>.<pub-id pub-id-type="pmid">18519688</pub-id></mixed-citation></ref><ref id="feb412254-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="feb412254-cit-0034">
+<string-name>
+<surname>Ye</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>X</given-names>
+</string-name> and <string-name>
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name> (<year>2016</year>) <article-title>NTS/NTR1 co&#x02010;expression enhances epithelial&#x02010;to&#x02010;mesenchymal transition and promotes tumor metastasis by activating the Wnt/&#x003b2;&#x02010;catenin signaling pathway in hepatocellular carcinoma</article-title>. <source>Oncotarget</source>
+<volume>7</volume>, <fpage>70303</fpage>&#x02013;<lpage>70322</lpage>.<pub-id pub-id-type="pmid">27611941</pub-id></mixed-citation></ref><ref id="feb412254-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="feb412254-cit-0035">
+<string-name>
+<surname>Ma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>YP</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Kwan</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Castilho</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Man</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>To</surname>
+<given-names>KF</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>miR&#x02010;130b Promotes CD133(+) liver tumor&#x02010;initiating cell growth and self&#x02010;renewal via tumor protein 53&#x02010;induced nuclear protein 1</article-title>. <source>Cell Stem Cell</source>
+<volume>7</volume>, <fpage>694</fpage>&#x02013;<lpage>707</lpage>.<pub-id pub-id-type="pmid">21112564</pub-id></mixed-citation></ref><ref id="feb412254-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="feb412254-cit-0036">
+<string-name>
+<surname>Najafov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Seker</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Even</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Hoxhaj</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Selvi</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Ozel</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Koman</surname>
+<given-names>A</given-names>
+</string-name> and <string-name>
+<surname>Birg&#x000fc;l&#x02010;&#x00130;yison</surname>
+<given-names>N</given-names>
+</string-name> (<year>2012</year>) <article-title>MENA is a transcriptional target of the Wnt/beta&#x02010;catenin pathway</article-title>. <source>PLoS ONE</source>
+<volume>7</volume>, <fpage>e37013</fpage>.<pub-id pub-id-type="pmid">22615875</pub-id></mixed-citation></ref><ref id="feb412254-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="feb412254-cit-0037">
+<string-name>
+<surname>Piao</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Hur</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Sung</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>CD133(+) liver cancer stem cells modulate radioresistance in human hepatocellular carcinoma</article-title>. <source>Cancer Lett</source>
+<volume>315</volume>, <fpage>129</fpage>&#x02013;<lpage>137</lpage>.<pub-id pub-id-type="pmid">22079466</pub-id></mixed-citation></ref><ref id="feb412254-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="feb412254-cit-0038">
+<string-name>
+<surname>Ma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Wo</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>IO</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>B</given-names>
+</string-name> and <string-name>
+<surname>Guan</surname>
+<given-names>X</given-names>
+</string-name> (<year>2007</year>) <article-title>Identification and characterization of tumorigenic liver cancer stem/progenitor cells</article-title>. <source>Gastroenterology</source>
+<volume>132</volume>, <fpage>2542</fpage>&#x02013;<lpage>2556</lpage>.<pub-id pub-id-type="pmid">17570225</pub-id></mixed-citation></ref><ref id="feb412254-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="feb412254-cit-0039">
+<string-name>
+<surname>Zhu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name> (<year>2010</year>) <article-title>Cancer stem/progenitor cells are highly enriched in CD133&#x000a0;+&#x000a0;CD44&#x000a0;+&#x000a0; population in hepatocellular carcinoma</article-title>. <source>Int J Cancer</source>
+<volume>126</volume>, <fpage>2067</fpage>&#x02013;<lpage>2078</lpage>.<pub-id pub-id-type="pmid">19711346</pub-id></mixed-citation></ref><ref id="feb412254-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="feb412254-cit-0040">
+<string-name>
+<surname>Ma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>KW</given-names>
+</string-name> and <string-name>
+<surname>Guan</surname>
+<given-names>XY</given-names>
+</string-name> (<year>2008</year>) <article-title>CD133&#x000a0;+&#x000a0; HCC cancer stem cells confer chemoresistance by preferential expression of the Akt/PKB survival pathway</article-title>. <source>Oncogene</source>
+<volume>27</volume>, <fpage>1749</fpage>&#x02013;<lpage>1758</lpage>.<pub-id pub-id-type="pmid">17891174</pub-id></mixed-citation></ref><ref id="feb412254-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="feb412254-cit-0041">
+<string-name>
+<surname>Hagiwara</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kudo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nagai</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ueshima</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Nishida</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>T</given-names>
+</string-name> and <string-name>
+<surname>Sakurai</surname>
+<given-names>T</given-names>
+</string-name> (<year>2012</year>) <article-title>Activation of JNK and high expression level of CD133 predict a poor response to sorafenib in hepatocellular carcinoma</article-title>. <source>Br J Cancer</source>
+<volume>106</volume>, <fpage>1997</fpage>&#x02013;<lpage>2003</lpage>.<pub-id pub-id-type="pmid">22596232</pub-id></mixed-citation></ref><ref id="feb412254-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="feb412254-cit-0042">
+<string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</string-name> and <string-name>
+<surname>Shao</surname>
+<given-names>RG</given-names>
+</string-name> (<year>2012</year>) <article-title>CD133&#x000a0;+&#x000a0;EpCAM+ phenotype possesses more characteristics of tumor initiating cells in hepatocellular carcinoma Huh7 Cells</article-title>. <source>Int J Biol Sci</source>
+<volume>8</volume>, <fpage>992</fpage>&#x02013;<lpage>1004</lpage>.<pub-id pub-id-type="pmid">22904667</pub-id></mixed-citation></ref><ref id="feb412254-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="feb412254-cit-0043">
+<string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name> and <string-name>
+<surname>Fan</surname>
+<given-names>D</given-names>
+</string-name> (<year>2015</year>) <article-title>The epithelial&#x02010;mesenchymal transition and cancer stem cells: functional and mechanistic links</article-title>. <source>Curr Pharm Des</source>
+<volume>21</volume>, <fpage>1279</fpage>&#x02013;<lpage>1291</lpage>.<pub-id pub-id-type="pmid">25506898</pub-id></mixed-citation></ref><ref id="feb412254-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="feb412254-cit-0044">
+<string-name>
+<surname>Scheel</surname>
+<given-names>C</given-names>
+</string-name> and <string-name>
+<surname>Weinberg</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2012</year>) <article-title>Cancer stem cells and epithelial&#x02010;mesenchymal transition: concepts and molecular links</article-title>. <source>Semin Cancer Biol</source>
+<volume>22</volume>, <fpage>396</fpage>&#x02013;<lpage>403</lpage>.<pub-id pub-id-type="pmid">22554795</pub-id></mixed-citation></ref><ref id="feb412254-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="feb412254-cit-0045">
+<string-name>
+<surname>Mani</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>
+<given-names>EN</given-names>
+</string-name>, <string-name>
+<surname>Ayyanan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Reinhard</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Shipitsin</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>The epithelial&#x02010;mesenchymal transition generates cells with properties of stem cells</article-title>. <source>Cell</source>
+<volume>133</volume>, <fpage>704</fpage>&#x02013;<lpage>715</lpage>.<pub-id pub-id-type="pmid">18485877</pub-id></mixed-citation></ref><ref id="feb412254-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="feb412254-cit-0046">
+<string-name>
+<surname>Kawai</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yasuchika</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Katayama</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yoshitoshi</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Ogiso</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kita</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yasuda</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fukumitsu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mizumoto</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Keratin 19, a cancer stem cell marker in human hepatocellular carcinoma</article-title>. <source>Clin Cancer Res</source>
+<volume>21</volume>, <fpage>3081</fpage>&#x02013;<lpage>3091</lpage>.<pub-id pub-id-type="pmid">25820415</pub-id></mixed-citation></ref><ref id="feb412254-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="feb412254-cit-0047">
+<string-name>
+<surname>Yin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>BH</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>WZ</given-names>
+</string-name> and <string-name>
+<surname>Ren</surname>
+<given-names>ZG</given-names>
+</string-name> (<year>2015</year>) <article-title>Coexpression of gene Oct4 and Nanog initiates stem cell characteristics in hepatocellular carcinoma and promotes epithelial&#x02010;mesenchymal transition through activation of Stat3/Snail signaling</article-title>. <source>J Hematol Oncol</source>
+<volume>8</volume>, <fpage>23</fpage>.<pub-id pub-id-type="pmid">25879771</pub-id></mixed-citation></ref><ref id="feb412254-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="feb412254-cit-0048">
+<string-name>
+<surname>Liu</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name> and <string-name>
+<surname>Wu</surname>
+<given-names>XL</given-names>
+</string-name> (<year>2015</year>) <article-title>Ultrasound&#x02010;targeted microbubble destruction&#x02010;mediated downregulation of CD133 inhibits epithelial&#x02010;mesenchymal transition, stemness and migratory ability of liver cancer stem cells</article-title>. <source>Oncol Rep</source>
+<volume>34</volume>, <fpage>2977</fpage>&#x02013;<lpage>2986</lpage>.<pub-id pub-id-type="pmid">26370320</pub-id></mixed-citation></ref></ref-list></back></article>

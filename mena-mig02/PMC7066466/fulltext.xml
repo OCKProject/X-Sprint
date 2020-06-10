@@ -1,0 +1,943 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microbiologyopen</journal-id><journal-id journal-id-type="iso-abbrev">Microbiologyopen</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-8827</journal-id><journal-id journal-id-type="publisher-id">MBO3</journal-id><journal-title-group><journal-title>MicrobiologyOpen</journal-title></journal-title-group><issn pub-type="epub">2045-8827</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7066466</article-id><article-id pub-id-type="doi">10.1002/mbo3.983</article-id><article-id pub-id-type="publisher-id">MBO3983</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Molecular ecological network analysis of the response of soil microbial communities to depth gradients in farmland soils</article-title><alt-title alt-title-type="left-running-head">YU et al.</alt-title></title-group><contrib-group><contrib id="mbo3983-cr-0001" contrib-type="author"><name><surname>Yu</surname><given-names>Hang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1894-446X</contrib-id><xref ref-type="aff" rid="mbo3983-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3983-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbo3983-cr-0002" contrib-type="author" corresp="yes"><name><surname>Xue</surname><given-names>Dongmei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6697-2078</contrib-id><xref ref-type="aff" rid="mbo3983-aff-0001">
+<sup>1</sup>
+</xref><address><email>xuedongmei@tjnu.edu.cn</email></address></contrib><contrib id="mbo3983-cr-0003" contrib-type="author"><name><surname>Wang</surname><given-names>Yidong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5399-2803</contrib-id><xref ref-type="aff" rid="mbo3983-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3983-cr-0004" contrib-type="author"><name><surname>Zheng</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="mbo3983-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3983-cr-0005" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Guilong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9705-6646</contrib-id><xref ref-type="aff" rid="mbo3983-aff-0003">
+<sup>3</sup>
+</xref><address><email>zhangguilong@caas.cn</email></address></contrib><contrib id="mbo3983-cr-0006" contrib-type="author"><name><surname>Wang</surname><given-names>Zhong&#x02010;Liang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3740-4677</contrib-id><xref ref-type="aff" rid="mbo3983-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mbo3983-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Tianjin Key Laboratory of Water Resources and Environment</named-content>
+<institution>Tianjin Normal University</institution>
+<city>Tianjin</city>
+<country country="CN">China</country>
+</aff><aff id="mbo3983-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Tianjin Key Laboratory of Environmental Change and Ecological Restoration</named-content>
+<named-content content-type="organisation-division">School of Geographic and Environmental Sciences</named-content>
+<institution>Tianjin Normal University</institution>
+<city>Tianjin</city>
+<country country="CN">China</country>
+</aff><aff id="mbo3983-aff-0003">
+<label><sup>3</sup></label>
+<institution>Agro&#x02010;Environmental Protection Institute</institution>
+<institution>Ministry of Agriculture</institution>
+<city>Tianjin</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Dongmei Xue, Tianjin Key Laboratory of Water Resources and Environment, Tianjin Normal University, Tianjin 300387, China.<break/>
+Email: <email>xuedongmei@tjnu.edu.cn</email><break/>
+Guilong Zhang, Agro&#x02010;Environmental Protection Institute, Ministry of Agriculture, Tianjin, 300191, China.<break/>
+Email: <email>zhangguilong@caas.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2020</year></pub-date><volume>9</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/mbo3.v9.3</issue-id><elocation-id>e983</elocation-id><history><date date-type="received"><day>04</day><month>3</month><year>2019</year></date><date date-type="rev-recd"><day>04</day><month>12</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>12</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>MicrobiologyOpen</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MBO3-9-e983.pdf"/><abstract id="mbo3983-abs-0001"><title>Abstract</title><p>Soil microorganisms are considered to be important indicators of soil fertility and soil quality. Most previous studies have focused solely on surface soil, but there were numerous active cells in deeper soil layers. However, studies regarding microbial communities in deeper soil layers were not comprehensive and sufficient. In this study, phylogenetic molecular ecological networks (pMENs) based on the 16S rRNA Miseq sequencing technique were applied to study the response of soil microbial communities to depth gradients and the changes of key genera along 3 meter depth gradients (0&#x02013;0.2&#x000a0;m, 0.2&#x02013;0.4&#x000a0;m 0.4&#x02013;0.6&#x000a0;m, 0.6&#x02013;0.8&#x000a0;m, 0.8&#x02013;1.0&#x000a0;m, 1.0&#x02013;1.3&#x000a0;m, 1.3&#x02013;1.6&#x000a0;m, 1.6&#x02013;2.0&#x000a0;m, 2.0&#x02013;2.5&#x000a0;m, and 2.5&#x02013;3.0&#x000a0;m). The results showed that the modularity of microbial communities was consistently high in all soil layers and each layer was similar, which indicated that microbial communities were more resistant to depth changes. The pMENs further demonstrated that microbial community interactions were stable as the depth increased and they cooperated well to adapt to changes in different soil gradients. This was evidenced by similar positive links, average degree, and average clustering coefficient. In addition, key genera were obtained by analyzing module hubs in the pMENs. There may be at least one dominant genus in each layer that adapted to and resisted changes in the soil environment. It seems microbial communities demonstrate a stable and strong adaptability to depth gradients in farmland soils.</p></abstract><abstract abstract-type="graphical" id="mbo3983-abs-0002"><p>In this study, phylogenetic molecular ecological networks (pMENs) based on pyrosequencing data of the 16S rRNA gene were applied to study the response of soil microbial communities to depth gradients and the changes of key genus in each depth layer. It seems that microbial communities demonstrate stable and strong adaptability to depth gradients.<boxed-text position="anchor" content-type="graphic" id="mbo3983-blkfxd-0001" orientation="portrait"><graphic xlink:href="MBO3-9-e983-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group><kwd id="mbo3983-kwd-0001">farmland soil</kwd><kwd id="mbo3983-kwd-0002">microbial community</kwd><kwd id="mbo3983-kwd-0003">MiSeq sequencing</kwd><kwd id="mbo3983-kwd-0004">molecular ecological network</kwd><kwd id="mbo3983-kwd-0005">soil depth</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Ministry of Science and Technology of the People&#x02019;s Republic of China</funding-source><award-id>2018YFD0800400</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>The Natural Science Foundation of Tianjin </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100006606</institution-id></institution-wrap></funding-source><award-id>19JCZDJC40700</award-id></award-group><award-group id="funding-0003"><funding-source>The Innovation Team Training Plan of the Tianjin Education Committee</funding-source><award-id>TD12&#x02010;5037</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>The National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>41973017</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="5"/><page-count count="13"/><word-count count="8739"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.7 mode:remove_FC converted:12.03.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbo3983-cit-1001">
+<string-name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z&#x02010;L</given-names>
+</string-name>. <article-title>Molecular ecological network analysis of the response of soil microbial communities to depth gradients in farmland soils</article-title>. <source xml:lang="en">MicrobiologyOpen</source>. <year>2020</year>;<volume>9</volume>:<elocation-id>e983</elocation-id>
+<pub-id pub-id-type="doi">10.1002/mbo3.983</pub-id>
+</mixed-citation>
+</p></notes></front><body id="mbo3983-body-0001"><sec id="mbo3983-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Most natural and artificial habitats of terrestrial ecosystems are covered by soils (Bai, Wang, Deng, and He (<xref rid="mbo3983-bib-0002" ref-type="ref">2017</xref>)). Since precipitation, illumination, and temperature within an area are similar, high spatial heterogeneity and physiochemical properties are responsible for the diverse range of microorganisms found in soil ecosystems (Schimel &#x00026; Schaeffer, <xref rid="mbo3983-bib-0041" ref-type="ref">2012</xref>). Soil microorganisms are considered to be important indicators of soil fertility and quality (Paula, Rodrigues, Zhou, &#x00026; Wu, <xref rid="mbo3983-bib-0037" ref-type="ref">2014</xref>). Recent studies based on culture&#x02010;independent techniques have shown that large&#x02010;scale soil microbial diversity and community composition were predominantly driven by soil pH (Griffiths, Thomson, James, &#x00026; Bell, <xref rid="mbo3983-bib-0021" ref-type="ref">2011</xref>) and other soil properties, such as organic matter and salinity (Campbell &#x00026; Kirchman, <xref rid="mbo3983-bib-0005" ref-type="ref">2013</xref>; Tripathi, Kim, Tateno, &#x00026; Kim, <xref rid="mbo3983-bib-0049" ref-type="ref">2015</xref>; Zheng, Xue, Li, &#x00026; Deng, <xref rid="mbo3983-bib-0058" ref-type="ref">2017</xref>). It was known that biogeochemical processes were mainly driven by microorganisms throughout the soil profile; however, previous studies on the structure and diversity of soil microbial communities had solely focused on the top 15&#x000a0;cm of the soil column (Eilers, Debenport, Anderson, &#x00026; Fierer, <xref rid="mbo3983-bib-0012" ref-type="ref">2012</xref>). Numerous studies have suggested that microorganisms living in deeper soil layers were generally considered to be unimportant due to their low biomass density and low activity levels (Blume, Bischoff, Reichert, &#x00026; Moorman, <xref rid="mbo3983-bib-0003" ref-type="ref">2002</xref>; Fierer, Schimel, &#x00026; Holden, <xref rid="mbo3983-bib-0016" ref-type="ref">2003</xref>; Hartmann, Lee, Hallam, &#x00026; Mohn, <xref rid="mbo3983-bib-0023" ref-type="ref">2009</xref>). However, Fierer et al. (Fierer, Schimel, et al., <xref rid="mbo3983-bib-0016" ref-type="ref">2003</xref>) noted that not only was a large number of microorganisms present in the underground soil but also that the potential activity of these underground microorganisms might be higher than that of surface microorganisms. Although microbial biomass generally exponentially decreased with depth (Blume et al., <xref rid="mbo3983-bib-0003" ref-type="ref">2002</xref>; Fierer, Schimel, et al., <xref rid="mbo3983-bib-0016" ref-type="ref">2003</xref>; Hartmann et al., <xref rid="mbo3983-bib-0023" ref-type="ref">2009</xref>), in deeper soil layers, there were numerous active cells (Buss, Bruns, Schultz, &#x00026; Moore, <xref rid="mbo3983-bib-0004" ref-type="ref">2005</xref>; Richter &#x00026; Markewitz, <xref rid="mbo3983-bib-0040" ref-type="ref">1995</xref>), which may have a greater impact on the soil formation process than their surface counterparts because of their proximity to parent material (Buss et al., <xref rid="mbo3983-bib-0004" ref-type="ref">2005</xref>). Fierer, Allen, Schimel, and Holden (<xref rid="mbo3983-bib-0015" ref-type="ref">2003</xref>) also demonstrated that deep microbial communities differed in composition from those in the surface layer. On a depth&#x02010;weighted basis, deep microbial communities have also been found to be diverse and abundant (Li, Yan, Tang, &#x00026; Jia, <xref rid="mbo3983-bib-0027" ref-type="ref">2014</xref>; Will, Th&#x000fc;rmer, Wollherr, &#x00026; Nacke, <xref rid="mbo3983-bib-0055" ref-type="ref">2010</xref>). Previous studies have reported that in forest soil, soil depth affected the diversity and composition of the archaea community (Thoms, Gattinger, &#x00026; Jacob, <xref rid="mbo3983-bib-0047" ref-type="ref">2010</xref>; Too, Keller, Sickel, &#x00026; Lee, <xref rid="mbo3983-bib-0048" ref-type="ref">2018</xref>). Specific bacterial communities in deep wetland soils have been detected, and the interaction between these communities was more noticeable than that of the surface layer communities (Steinmuller, Dittmer, White, &#x00026; Chambers, <xref rid="mbo3983-bib-0045" ref-type="ref">2019</xref>). However, how a microbial community adapts to soil depth gradients through community&#x02010;level adjustment of compositions and interactions has not yet been completely elucidated.</p><p>Many network analysis approaches have been developed, such as the equation&#x02010;based network (Gardner, Di, Lorenz, &#x00026; Collins, <xref rid="mbo3983-bib-0018" ref-type="ref">2003</xref>; Yeung, Tegner, &#x00026; Collins, <xref rid="mbo3983-bib-0056" ref-type="ref">2002</xref>), the related/co&#x02010;expression network (Horvath, Zhang, Carlson, &#x00026; Lu, <xref rid="mbo3983-bib-0025" ref-type="ref">2006</xref>; Oldham, Horvath, &#x00026; Geschwind, <xref rid="mbo3983-bib-0035" ref-type="ref">2006</xref>), and Bayesian network (Gerstung, Baudis, Moch, &#x00026; Beerenwinkel, <xref rid="mbo3983-bib-0020" ref-type="ref">2009</xref>). One frequently studied and widely used method is the phylogenetic molecular ecological networks (pMENs) proposed by Deng, Jiang, Yang, and He (<xref rid="mbo3983-bib-0008" ref-type="ref">2012</xref>), who were the first to apply metagenomic techniques (such as sequencing and microarrays) (Deng, Zhang, Qin, &#x00026; Tu, <xref rid="mbo3983-bib-0009" ref-type="ref">2016</xref>; Faust &#x00026; Raes, <xref rid="mbo3983-bib-0014" ref-type="ref">2012</xref>). In the entire network, various parameters, such as topology, node modules, topological roles, and network composition, better reflect the relationship between microbial communities and their associated niche functions (Hahn, Konwar, Louca, &#x00026; Hanson, <xref rid="mbo3983-bib-0022" ref-type="ref">2016</xref>; Zhou, Deng, Luo, &#x00026; He, <xref rid="mbo3983-bib-0059" ref-type="ref">2010</xref>, <xref rid="mbo3983-bib-0060" ref-type="ref">2011</xref>). Thus, in the present study, the pMENs were applied to investigate the responses of soil microbial communities to soil depth gradients and the underlying microbial interactions, including the following: (a) phylogenetic diversity and structure of microbial community shift; and (b) changes of key genera in microbial network interactions along soil depth gradients.</p></sec><sec sec-type="materials-and-methods" id="mbo3983-sec-0002"><label>2</label><title>MATERIAL AND METHODS</title><sec id="mbo3983-sec-0003"><label>2.1</label><title>Study sites and soil sample collection</title><p>The study sites were located in Tianjin, a municipality close to Bohai Bay, which is influenced by a continental monsoon climate. Both hydrology and climate played the significant roles on the physical and chemical properties of soil. In November 2013, soil samples were collected from eight farmland sites in five regions of Tianjin, China (S1: 39&#x000b0;36&#x02032;54.49&#x02033;N, 116&#x000b0;58&#x02032;04.20&#x02033;E; S2: 39&#x000b0;32&#x02032;09.31&#x02033;N, 116&#x000b0;59&#x02032;32.31&#x02033;E; S3: 39&#x000b0;40&#x02032;37.50&#x02033;N, 117&#x000b0;21&#x02032;03.07&#x02033;E; S4: 39&#x000b0;40&#x02032;32.66&#x02033;N, 117&#x000b0;20&#x02032;39.53&#x02033;E; S5: 40&#x000b0;04&#x02032;14.87&#x02033;N, 117&#x000b0;20&#x02032;01.90&#x02033;E; S6: 40&#x000b0;05&#x02032;25.91&#x02033;N, 117&#x000b0;38&#x02032;10.21&#x02033;E; S7: 38&#x000b0;43&#x02032;09.78&#x02033;N, 117&#x000b0;26&#x02032;44.00&#x02033;E; S8:38&#x000b0;43&#x02032;06.33&#x02033;N, 117&#x000b0;26&#x02032;20.41&#x02033;E; Figure <xref rid="mbo3983-fig-0001" ref-type="fig">1</xref>). Soil samples were continuously collected using a 5.5&#x02010;cm&#x02010;diameter hollow&#x02010;stem hand auger in a vertical profile of 10 layers (from the ground surface to a depth of 3&#x000a0;m), including layer A: 0&#x02013;0.2&#x000a0;m, layer B: 0.2&#x02013;0.4&#x000a0;m, layer C: 0.4&#x02013;0.6&#x000a0;m, layer D: 0.6&#x02013;0.8&#x000a0;m, layer E: 0.8&#x02013;1.0&#x000a0;m, layer F: 1.0&#x02013;1.3&#x000a0;m, layer G: 1.3&#x02013;1.6&#x000a0;m, layer H: 1.6&#x02013;2.0&#x000a0;m, layer I: 2.0&#x02013;2.5&#x000a0;m, and layer J: 2.5&#x02013;3.0&#x000a0;m (the soil profile was over 3&#x000a0;m, as the shallow groundwater table is close to this depth). The 80 collected samples were stored in polyethylene bags. The physicochemical parameters of soil water extracts were determined by adding 200&#x000a0;ml Milli&#x02010;Q water to 100&#x000a0;g soil sample, followed by shaking (45&#x000a0;min at room temperature), centrifuging (2,057&#x000a0;<italic>g</italic>), and filtering. The pH and salinity were determined by a portable analyzer (Orion Star A329, Thermo, USA). The cation concentrations of K<sup>+</sup>, Na<sup>+</sup>, Ca<sup>2+</sup>, and Mg<sup>2+</sup> were determined by an inductively coupled plasma atomic emission spectrometer (Optima 8300, PE, USA), and anion concentrations of <mml:math id="nlm-math-1"><mml:msubsup><mml:mtext>SO</mml:mtext><mml:mn>4</mml:mn><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math> and Cl<sup>&#x02212;</sup> were determined by ion chromatography (ICS&#x02010;2100, Dionex, USA). <mml:math id="nlm-math-2"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>3</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>, <mml:math id="nlm-math-3"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>, and <mml:math id="nlm-math-4"><mml:msubsup><mml:mtext>NH</mml:mtext><mml:mn>4</mml:mn><mml:mo>+</mml:mo></mml:msubsup></mml:math> were determined by a continuous flow analyzer (Auto Analyzer 3, Seal, Germany). Part of the soil samples were freeze&#x02010;dried and stored at &#x02212;20&#x000b0;C for genomic DNA extraction.</p><fig fig-type="Figure" xml:lang="en" id="mbo3983-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study area sampling point diagram</p></caption><graphic id="nlm-graphic-3" xlink:href="MBO3-9-e983-g001"/></fig></sec><sec id="mbo3983-sec-0004"><label>2.2</label><title>DNA extraction, Illumina MiSeq sequencing and analysis</title><p>DNA of the microorganisms in 80 soil samples was extracted by biotechnological methods using the Ezup Genomic DNA Extraction Kit (Sangon Biotech, China, Cat# SK8264). After extraction, a NanoDrop Spectrophotometer was used to detect the concentration and mass of DNA. The DNA extraction was diluted to 10&#x000a0;ng/&#x003bc;l.</p><p>The operational taxonomic unit (OTU) data used to construct the pMENs were generated by the 16S rRNA gene. Miseq sequencing of the V4 hypervariable region of the 16S rRNA gene was performed using the universal primers 515F (5'&#x02010;GTGCCAGCMGCCGCGGTAA&#x02010;3') and 806R (5'&#x02010;GGACTACHVGGGTWTCTAAT&#x02010;3'): Amplification was then measured using a MiSeq sequencer (Caporaso, Lauber, &#x00026; Walters, <xref rid="mbo3983-bib-0006" ref-type="ref">2011</xref>; Lin, De, Li, &#x00026; Li, <xref rid="mbo3983-bib-0029" ref-type="ref">2016</xref>; Zheng et al., <xref rid="mbo3983-bib-0058" ref-type="ref">2017</xref>). Ten nanograms of soil genomic DNA, 0.4&#x000a0;mM of each deoxynucleotide triphosphate, 1.0&#x000a0;&#x003bc;M of each primer, 0.5&#x000a0;U of Ex Taq (TaKaRa, Dalian), 1&#x000d7; PCR buffer, and 1.5&#x000a0;mM MgCl<sub>2</sub> were completely mixed in a 25&#x000a0;&#x003bc;l mixture for performing PCR (Zheng et al., <xref rid="mbo3983-bib-0058" ref-type="ref">2017</xref>). The PCR amplification was conducted as described by Li, Rui, Mao, and Yannarel (<xref rid="mbo3983-bib-0028" ref-type="ref">2014</xref>). Under the reading conditions with the unique identification bar code of the sample, sequencing was performed on the Illumina Miseq platform of the Environmental Genome Platform of the Chengdu Institute of Biology. Eighty samples were sequenced using the Reagent Kit v2 2&#x000a0;&#x000d7;&#x000a0;250&#x000a0;bp. The results were processed by QIIME pipeline version 1.7.0 (<ext-link ext-link-type="uri" xlink:href="http://qiime.org/">http://qiime.org/</ext-link>). The original data were first screened, and an average base quality score of 20 was the lowest; when the low&#x02010;quality scoring sequence was removed, the sequence length was at least 300&#x000a0;bp and without an ambiguous base &#x0201c;N.&#x0201d; These sequences were used for downstream analysis (Zheng et al., <xref rid="mbo3983-bib-0058" ref-type="ref">2017</xref>). Next, the chimeric sequence was removed using the UCHIME algorithm (Edgar, Haas, Clemente, &#x00026; Quince, <xref rid="mbo3983-bib-0011" ref-type="ref">2011</xref>). The processed sequence was clustered by the complete&#x02010;linkage clustering method of the Ribosomal Database project pyro pipeline. A 97% nucleotide sequence similarity cutoff was used to classify OTUs. The RDP classifier was used to assign taxonomy (Wang, Garrity, Tiedje, &#x00026; Cole, <xref rid="mbo3983-bib-0052" ref-type="ref">2007</xref>). Re&#x02010;sampling was performed to a total of 2,590 reads of the same sequence depth. Chao1 estimator of richness and Shannon index were calculated using the RDP classifier. The original sequence data were deposited at the European Nucleotide Archive by accession PRJEB21751 (<ext-link ext-link-type="uri" xlink:href="http://www.ebi.ac.uk/ena/data/view/PRJEB21751">http://www.ebi.ac.uk/ena/data/view/PRJEB21751</ext-link>) (Zheng et al., <xref rid="mbo3983-bib-0058" ref-type="ref">2017</xref>).</p></sec><sec id="mbo3983-sec-0005"><label>2.3</label><title>Statistical analysis</title><p>Microbial community diversity was compared using IBM SPSS 20 with a univariate ANOVA based on Chao1 richness and Shannon diversity indices. Correlation analysis between microbial communities and environmental variables was performed by the Mantel test, conducted by PCORD 5.0. In addition, based on the study of Fukuyama (Fukuyama, Mcmurdie, Dethlefsen, Relman, &#x00026; Holmes, <xref rid="mbo3983-bib-0017" ref-type="ref">2012</xref>), double principal coordinate analysis (DPCoA) was performed on the relative abundance data of the OTUs.</p></sec><sec id="mbo3983-sec-0006"><label>2.4</label><title>Establishment and analysis of pMENs</title><p>Construction of pMENs is based on the random matrix theory (RMT). The network was built using the online pipeline provided by the Institute of Environmental Genomics at the University of Oklahoma (<ext-link ext-link-type="uri" xlink:href="http://ieg2.ou.edu/MENA">http://ieg2.ou.edu/MENA</ext-link>) (Deng et al., <xref rid="mbo3983-bib-0008" ref-type="ref">2012</xref>; Zhou, Deng, Luo, &#x00026; He, <xref rid="mbo3983-bib-0059" ref-type="ref">2010</xref>, <xref rid="mbo3983-bib-0060" ref-type="ref">2011</xref>). The establishment of pMENs was divided into nine key steps, namely collection of metagenomic sequences, data standardization, Pearson's correlation estimation, adjacency matrix determination by an RMT&#x02010;based approach, network characterization, module detection, eigengene network analysis, network comparison, and correlation based on the RMT method (Zhou, Deng, Luo, &#x00026; He, <xref rid="mbo3983-bib-0060" ref-type="ref">2011</xref>). High&#x02010;throughput metagenomic data were collected and transformed to construct Pearson's correlation matrix (Zhou, Deng, Luo, &#x00026; He, <xref rid="mbo3983-bib-0059" ref-type="ref">2010</xref>), which was further converted into a similarity matrix. The method of RMT is to automatically select the optimal threshold of the network according to the data to build an optimal network. The automatically determined threshold was used to derive the adjacency matrix from the similarity matrix. Using the adjacency matrix to encode the strength of the connection between each pair of nodes, module analysis and network characterization were performed to generate different network topology attributes. The procedure was detailed in a previous MENA study (Deng et al., <xref rid="mbo3983-bib-0008" ref-type="ref">2012</xref>). Different topological roles were described by the following two parameters: the within&#x02010;module connectivity (Zi) and among&#x02010;module connectivity (Pi). The Zi reflected the degree to which nodes were connected to other nodes within their own module, while the Pi reflected the degree to which nodes were connected to different modules. Since we were primarily interested in the impact of soil depth on network interactions, pMENs were constructed based on the relative abundance of samples obtained from each layer of the 8 sampling sites.</p></sec></sec><sec sec-type="results" id="mbo3983-sec-0007"><label>3</label><title>RESULTS</title><p>A total of 834,485 high&#x02010;quality 16S rRNA gene sequences were obtained for 80 samples. They were resampled to 2,590 sequences per sample, which were clustered into 7,403 OTUs. The rarefaction curves showed that the number of samples was reasonable (Figure <xref rid="mbo3983-fig-0005" ref-type="fig">A1</xref>). Both Shannon and Chao1 indices showed no significant differences between the depth layers (Table <xref rid="mbo3983-tbl-0005" ref-type="table">A1</xref>). To understand the effects of soil depth on the linkages between microorganisms, OTU data obtained from MiSeq sequencing was used to construct the microbial pMENs based on 10 layers of the 8 sampling sites (Table <xref rid="mbo3983-tbl-0001" ref-type="table">1</xref>). One node represented an OTU, with each link representing the correlation between two connected nodes. The results presented in Table <xref rid="mbo3983-tbl-0001" ref-type="table">1</xref> showed that microbial connectivity had similar thresholds (0.930&#x02013;0.960). Modularity acted as an indicator of system resistance (Carpenter, Arrow, Barrett, &#x00026; Biggs, <xref rid="mbo3983-bib-0007" ref-type="ref">2012</xref>). In our study, the modularity values were similar (0.771&#x02013;0.810) and higher than 0.4, which indicated the modular structure of the network (Newman, <xref rid="mbo3983-bib-0034" ref-type="ref">2006</xref>) and the strong resistance to environmental changes (Bai et al., <xref rid="mbo3983-bib-0002" ref-type="ref">2017</xref>). The numbers of module hubs varied from 1 to 5, which indicated that the degree of soil generalization differed from that in the 10 layers, with smaller values representing lower degrees of generalization (Wang, Zhang, Zheng, &#x00026; Deng, <xref rid="mbo3983-bib-0053" ref-type="ref">2016</xref>). The average clustering coefficient (avgCC) described the relationship between a particular node and its adjacent node (Shen, Huang, Zeng, &#x00026; Yu, <xref rid="mbo3983-bib-0042" ref-type="ref">2016</xref>). The avgCC values varied over a similar range from 0.240 to 0.365 in the 10 layers, showing connections similar to that of the neighbors (Deng et al., <xref rid="mbo3983-bib-0008" ref-type="ref">2012</xref>). The avgKK values varied from 3.973 to 5.559, which indicated that each layer of the network had different degrees of complexity. The R&#x02010;squared values were all greater than 0.700, implying that the RMT&#x02010;based ecological network should be scale&#x02010;free (Zhou et al., <xref rid="mbo3983-bib-0059" ref-type="ref">2010</xref>). Scale&#x02010;free implied that most nodes in the network had limited connections with other nodes, while a few nodes had many connections (Sun, Wang, Lin, &#x00026; Zhou, <xref rid="mbo3983-bib-0046" ref-type="ref">2015</xref>). As shown in Table <xref rid="mbo3983-tbl-0001" ref-type="table">1</xref>, the percentages of positive links (70%&#x02013;86%) were much higher than those of the negative links (14%&#x02013;30%), which indicated that the relationship between microbial communities was based more on mutual cooperation than competition (Newman, <xref rid="mbo3983-bib-0034" ref-type="ref">2006</xref>). Alternatively, positive links have also been found to be related to mutualism among genes during coevolution processes (Faust &#x00026; Raes, <xref rid="mbo3983-bib-0014" ref-type="ref">2012</xref>).</p><table-wrap id="mbo3983-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Topological properties of the phylogenetic molecular ecological networks of microbial communities in ten layers (A to J)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Depth</th><th align="left" valign="top" rowspan="1" colspan="1">No. of original OTUs</th><th align="left" valign="top" rowspan="1" colspan="1">Similarity threshold</th><th align="left" valign="top" rowspan="1" colspan="1">Modularity</th><th align="left" valign="top" rowspan="1" colspan="1">Module</th><th align="left" valign="top" rowspan="1" colspan="1">Numbers of module hubs</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>Average clustering coefficient</p>
+<p>(avgCC)</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Average degree (avgKK)</th><th align="left" valign="top" rowspan="1" colspan="1">Total nodes</th><th align="left" valign="top" rowspan="1" colspan="1">Total links</th><th align="left" valign="top" rowspan="1" colspan="1">R square of power&#x02010;low</th><th align="left" valign="top" rowspan="1" colspan="1">Percentage of positive links</th><th align="left" valign="top" rowspan="1" colspan="1">Percentage of negative links</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.93</td><td align="left" rowspan="1" colspan="1">0.796</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">0.240</td><td align="left" rowspan="1" colspan="1">3.973</td><td align="left" rowspan="1" colspan="1">375</td><td align="left" rowspan="1" colspan="1">745</td><td align="left" rowspan="1" colspan="1">0.857</td><td align="left" rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">30</td></tr><tr><td align="left" rowspan="1" colspan="1">B</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.93</td><td align="left" rowspan="1" colspan="1">0.771</td><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0.244</td><td align="left" rowspan="1" colspan="1">4.105</td><td align="left" rowspan="1" colspan="1">362</td><td align="left" rowspan="1" colspan="1">743</td><td align="left" rowspan="1" colspan="1">0.860</td><td align="left" rowspan="1" colspan="1">75</td><td align="left" rowspan="1" colspan="1">25</td></tr><tr><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.95</td><td align="left" rowspan="1" colspan="1">0.781</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">0.279</td><td align="left" rowspan="1" colspan="1">5.088</td><td align="left" rowspan="1" colspan="1">351</td><td align="left" rowspan="1" colspan="1">893</td><td align="left" rowspan="1" colspan="1">0.791</td><td align="left" rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">23</td></tr><tr><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.93</td><td align="left" rowspan="1" colspan="1">0.810</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">0.328</td><td align="left" rowspan="1" colspan="1">5.559</td><td align="left" rowspan="1" colspan="1">354</td><td align="left" rowspan="1" colspan="1">984</td><td align="left" rowspan="1" colspan="1">0.841</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">14</td></tr><tr><td align="left" rowspan="1" colspan="1">E</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.95</td><td align="left" rowspan="1" colspan="1">0.790</td><td align="left" rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0.343</td><td align="left" rowspan="1" colspan="1">5.190</td><td align="left" rowspan="1" colspan="1">294</td><td align="left" rowspan="1" colspan="1">763</td><td align="left" rowspan="1" colspan="1">0.856</td><td align="left" rowspan="1" colspan="1">79</td><td align="left" rowspan="1" colspan="1">21</td></tr><tr><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.94</td><td align="left" rowspan="1" colspan="1">0.782</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">0.302</td><td align="left" rowspan="1" colspan="1">4.361</td><td align="left" rowspan="1" colspan="1">366</td><td align="left" rowspan="1" colspan="1">798</td><td align="left" rowspan="1" colspan="1">0.808</td><td align="left" rowspan="1" colspan="1">76</td><td align="left" rowspan="1" colspan="1">24</td></tr><tr><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.94</td><td align="left" rowspan="1" colspan="1">0.795</td><td align="left" rowspan="1" colspan="1">35</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0.267</td><td align="left" rowspan="1" colspan="1">4.133</td><td align="left" rowspan="1" colspan="1">331</td><td align="left" rowspan="1" colspan="1">684</td><td align="left" rowspan="1" colspan="1">0.902</td><td align="left" rowspan="1" colspan="1">79</td><td align="left" rowspan="1" colspan="1">21</td></tr><tr><td align="left" rowspan="1" colspan="1">H</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.96</td><td align="left" rowspan="1" colspan="1">0.796</td><td align="left" rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0.347</td><td align="left" rowspan="1" colspan="1">4.070</td><td align="left" rowspan="1" colspan="1">257</td><td align="left" rowspan="1" colspan="1">523</td><td align="left" rowspan="1" colspan="1">0.822</td><td align="left" rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">18</td></tr><tr><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.94</td><td align="left" rowspan="1" colspan="1">0.789</td><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0.365</td><td align="left" rowspan="1" colspan="1">4.476</td><td align="left" rowspan="1" colspan="1">319</td><td align="left" rowspan="1" colspan="1">714</td><td align="left" rowspan="1" colspan="1">0.856</td><td align="left" rowspan="1" colspan="1">78</td><td align="left" rowspan="1" colspan="1">22</td></tr><tr><td align="left" rowspan="1" colspan="1">J</td><td align="left" rowspan="1" colspan="1">7,188</td><td align="left" rowspan="1" colspan="1">0.93</td><td align="left" rowspan="1" colspan="1">0.778</td><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0.341</td><td align="left" rowspan="1" colspan="1">5.288</td><td align="left" rowspan="1" colspan="1">351</td><td align="left" rowspan="1" colspan="1">928</td><td align="left" rowspan="1" colspan="1">0.795</td><td align="left" rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">18</td></tr></tbody></table><table-wrap-foot id="mbo3983-ntgp-0001"><fn id="mbo3983-note-0001"><p>Abbreviation: OTU, operational taxonomic unit.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Results of the Pi and Zi analysis, as depicted in the Z&#x02010;P diagram (Figure <xref rid="mbo3983-fig-0002" ref-type="fig">2</xref>), revealed that different nodes played different roles in the pMENs. From an ecological point of view, each module in the pMENs indicated one niche (Wang et al., <xref rid="mbo3983-bib-0052" ref-type="ref">2007</xref>). Peripherals (Zi&#x000a0;&#x0003c;&#x000a0;2.5 and Pi&#x000a0;&#x0003c;&#x000a0;0.625) referred to specialists, while module hubs (Zi&#x000a0;&#x0003e;&#x000a0;2.5 and Pi&#x000a0;&#x0003c;&#x000a0;0.625) and connectors (Zi&#x000a0;&#x0003c;&#x000a0;2.5 and Pi&#x000a0;&#x0003e;&#x000a0;0.625) showed more generalists, and network hubs (Zi&#x000a0;&#x0003e;&#x000a0;2.5 and Pi&#x000a0;&#x0003e;&#x000a0;0.625) embodied supergeneralists (Deng et al., <xref rid="mbo3983-bib-0008" ref-type="ref">2012</xref>; Lewinsohn, Prado, Jordano, &#x00026; Bascompte, <xref rid="mbo3983-bib-0026" ref-type="ref">2006</xref>). No network hubs were found in the Z&#x02010;P diagram in all ten layers. The vast majority of OTUs in each layer occurred in peripherals, which represented most of their links inside their own modules (Deng et al., <xref rid="mbo3983-bib-0008" ref-type="ref">2012</xref>). The module hubs and connectors, which occurred in each layer of the community, as shown in Figure <xref rid="mbo3983-fig-0002" ref-type="fig">2</xref>, indicated that the microbial communities in all ten layers were stable. According to the module hubs in the Z&#x02010;P diagram, corresponding OTUs can be used to determine the key genus of each layer (see Table <xref rid="mbo3983-tbl-0002" ref-type="table">2</xref>). It can be observed that the key genus in each layer was basically different and will be further discussed in the discussion section.</p><fig fig-type="Figure" xml:lang="en" id="mbo3983-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The network of the pMENs of ten layers. The Z&#x02010;P plot showing the topological roles of each OTU based on Zi (within&#x02010;module connectivity) and Pi (among&#x02010;module connectivity) of microbial communities in ten soil layers. According to values of Zi (2.5) and Pi (0.625), the roles of nodes were classified into four categories</p></caption><graphic id="nlm-graphic-5" xlink:href="MBO3-9-e983-g002"/></fig><table-wrap id="mbo3983-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Operational taxonomic units (OTUs) and corresponding keystone genus in ten layers (A to J)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Depth</th><th align="left" valign="top" rowspan="1" colspan="1">Numbers of module hubs</th><th align="left" valign="top" rowspan="1" colspan="1">OTU</th><th align="left" valign="top" rowspan="1" colspan="1">Phylum</th><th align="left" valign="top" rowspan="1" colspan="1">Class</th><th align="left" valign="top" rowspan="1" colspan="1">Genera</th></tr></thead><tbody><tr><td align="left" rowspan="3" colspan="1">A</td><td align="left" rowspan="3" colspan="1">3</td><td align="left" rowspan="1" colspan="1">OTU832</td><td align="left" rowspan="1" colspan="1">
+<italic>Gemmatimonadetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gemmatimonadetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gemmatimonas</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU2510</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria_Gp25</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gp25</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU4954</td><td align="left" rowspan="1" colspan="1">
+<italic>Bacteroidetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Bacteroidetes_incertae_sedis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Ohtaekwangia</italic>
+</td></tr><tr><td align="left" rowspan="4" colspan="1">B</td><td align="left" rowspan="4" colspan="1">4</td><td align="left" rowspan="1" colspan="1">OTU71</td><td align="left" rowspan="1" colspan="1">
+<italic>Spirochetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Spirochaetia</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Treponema</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU498</td><td align="left" rowspan="1" colspan="1">
+<italic>Thaumarchaeota</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Nitrosopumilus</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU774</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Deltaproteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1532</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="3" colspan="1">C</td><td align="left" rowspan="3" colspan="1">3</td><td align="left" rowspan="1" colspan="1">OTU650</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1466</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gp4</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1457</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Cystobacter</italic>
+</td></tr><tr><td align="left" rowspan="2" colspan="1">D</td><td align="left" rowspan="2" colspan="1">2</td><td align="left" rowspan="1" colspan="1">OTU723</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU967</td><td align="left" rowspan="1" colspan="1">
+<italic>Chloroplast</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Chloroplast</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="4" colspan="1">E</td><td align="left" rowspan="4" colspan="1">4</td><td align="left" rowspan="1" colspan="1">OTU631</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gammaproteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1510</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Betaproteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1853</td><td align="left" rowspan="1" colspan="1">
+<italic>Verrucomicrobia</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Spartobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Spartobacteria_genera_incertae_sedis</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU4767</td><td align="left" rowspan="1" colspan="1">
+<italic>Chloroflexi</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="4" colspan="1">F</td><td align="left" rowspan="4" colspan="1">4</td><td align="left" rowspan="1" colspan="1">OTU396</td><td align="left" rowspan="1" colspan="1">
+<italic>Spirochetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Spirochaetia</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Treponema</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1362</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria_Gp7</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gp7</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1366</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gaiella</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU2089</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gaiella</italic>
+</td></tr><tr><td align="left" rowspan="5" colspan="1">G</td><td align="left" rowspan="5" colspan="1">5</td><td align="left" rowspan="1" colspan="1">OTU316</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gammaproteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Steroidobacter</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1664</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU2980</td><td align="left" rowspan="1" colspan="1">
+<italic>Gemmatimonadetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gemmatimonadetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gemmatimonas</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU1853</td><td align="left" rowspan="1" colspan="1">
+<italic>Verrucomicrobia</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Spartobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Spartobacteria_genera_incertae_sedis</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU2885</td><td align="left" rowspan="1" colspan="1">
+<italic>Firmicutes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Clostridia</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Ruminococcus2</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">H</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">OTU679</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="5" colspan="1">I</td><td align="left" rowspan="5" colspan="1">5</td><td align="left" rowspan="1" colspan="1">OTU15</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU156</td><td align="left" rowspan="1" colspan="1">
+<italic>Bacteroidetes</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Flavobacteriia</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Croceibacter</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU570</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Betaproteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU408</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Betaproteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>&#x02013;</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">OTU2365</td><td align="left" rowspan="1" colspan="1">
+<italic>Proteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Alphaproteobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Sphingomonas</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">J</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">OTU2930</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Acidobacteria_Gp18</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Gp18</italic>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The Mantel test was applied to determine the relationship between microbial communities and environmental factors (K<sup>+</sup>, Ca<sup>2+</sup>, Na<sup>+</sup>, Mg<sup>2+</sup>, <mml:math id="nlm-math-5"><mml:msubsup><mml:mtext>NH</mml:mtext><mml:mn>4</mml:mn><mml:mo>+</mml:mo></mml:msubsup></mml:math>, <mml:math id="nlm-math-6"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>, <mml:math id="nlm-math-7"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>3</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>, Cl<sup>&#x02212;</sup>, <mml:math id="nlm-math-8"><mml:msubsup><mml:mtext>SO</mml:mtext><mml:mn>4</mml:mn><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>, total organic carbon (TOC), total nitrogen (TN), pH and salinity). As shown in Table <xref rid="mbo3983-tbl-0003" ref-type="table">3</xref>, most of the environmental factors did not have significant effects on microbial communities in each layer, excluding Mg<sup>2+</sup> in layer A, Ca<sup>2+</sup> in layer C, <mml:math id="nlm-math-9"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math> in layer F, TOC and TN in layer B, and pH in layers E and I. It was obvious that the microbial communities in all ten layers were adapted to depth gradients and demonstrated stable resistance to environmental changes in oil profiles (Table <xref rid="mbo3983-tbl-0003" ref-type="table">3</xref>). In addition, DPCoA was performed on the microbial communities in each layer (Figure <xref rid="mbo3983-fig-0003" ref-type="fig">3</xref>). The DPCoA results revealed an independent relationship among the ten layers of microbial communities.</p><table-wrap id="mbo3983-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Correlations between environmental variables and the microbial community composition by the Mantel test</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Environmental variable</th><th align="left" valign="top" rowspan="1" colspan="1">A</th><th align="left" valign="top" rowspan="1" colspan="1">B</th><th align="left" valign="top" rowspan="1" colspan="1">C</th><th align="left" valign="top" rowspan="1" colspan="1">D</th><th align="left" valign="top" rowspan="1" colspan="1">E</th><th align="left" valign="top" rowspan="1" colspan="1">F</th><th align="left" valign="top" rowspan="1" colspan="1">G</th><th align="left" valign="top" rowspan="1" colspan="1">H</th><th align="left" valign="top" rowspan="1" colspan="1">I</th><th align="left" valign="top" rowspan="1" colspan="1">J</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">K<sup>+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2526</td><td align="char" char="." rowspan="1" colspan="1">0.2784</td><td align="char" char="." rowspan="1" colspan="1">0.0069</td><td align="char" char="." rowspan="1" colspan="1">0.2629</td><td align="char" char="." rowspan="1" colspan="1">0.0323</td><td align="char" char="." rowspan="1" colspan="1">0.1102</td><td align="char" char="." rowspan="1" colspan="1">0.2133</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1142</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2386</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1356</td></tr><tr><td align="left" rowspan="1" colspan="1">Ca<sup>2+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.1232</td><td align="char" char="." rowspan="1" colspan="1">0.1828</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.3250</bold>
+<xref ref-type="fn" rid="mbo3983-note-0002">*</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0835</td><td align="char" char="." rowspan="1" colspan="1">0.4148</td><td align="char" char="." rowspan="1" colspan="1">0.3644</td><td align="char" char="." rowspan="1" colspan="1">0.3378</td><td align="char" char="." rowspan="1" colspan="1">0.0620</td><td align="char" char="." rowspan="1" colspan="1">0.2396</td><td align="char" char="." rowspan="1" colspan="1">0.2697</td></tr><tr><td align="left" rowspan="1" colspan="1">Na<sup>+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.1031</td><td align="char" char="." rowspan="1" colspan="1">0.0392</td><td align="char" char="." rowspan="1" colspan="1">0.1531</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0123</td><td align="char" char="." rowspan="1" colspan="1">0.1002</td><td align="char" char="." rowspan="1" colspan="1">0.1490</td><td align="char" char="." rowspan="1" colspan="1">0.2646</td><td align="char" char="." rowspan="1" colspan="1">0.6197</td><td align="char" char="." rowspan="1" colspan="1">0.0087</td><td align="char" char="." rowspan="1" colspan="1">0.0022</td></tr><tr><td align="left" rowspan="1" colspan="1">Mg<sup>2+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.4541</bold>
+<xref ref-type="fn" rid="mbo3983-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0086</td><td align="char" char="." rowspan="1" colspan="1">0.0099</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0211</td><td align="char" char="." rowspan="1" colspan="1">0.0160</td><td align="char" char="." rowspan="1" colspan="1">0.1873</td><td align="char" char="." rowspan="1" colspan="1">0.0447</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0481</td><td align="char" char="." rowspan="1" colspan="1">0.0403</td><td align="char" char="." rowspan="1" colspan="1">0.0567</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-10"><mml:msubsup><mml:mtext>NH</mml:mtext><mml:mn>4</mml:mn><mml:mo>+</mml:mo></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1450</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0292</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1802</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2909</td><td align="char" char="." rowspan="1" colspan="1">0.0031</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2291</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1221</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2189</td><td align="char" char="." rowspan="1" colspan="1">0.0495</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-11"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0023</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2641</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2089</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1498</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.3799</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.0259</bold>
+<xref ref-type="fn" rid="mbo3983-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0240</td><td align="char" char="." rowspan="1" colspan="1">0.0773</td><td align="char" char="." rowspan="1" colspan="1">0.3007</td><td align="char" char="." rowspan="1" colspan="1">0.3038</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-12"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>3</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0503</td><td align="char" char="." rowspan="1" colspan="1">0.0296</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">0.0295</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0436</td><td align="char" char="." rowspan="1" colspan="1">0.0573</td><td align="char" char="." rowspan="1" colspan="1">0.4301</td><td align="char" char="." rowspan="1" colspan="1">0.0077</td><td align="char" char="." rowspan="1" colspan="1">0.3232</td><td align="char" char="." rowspan="1" colspan="1">0.1084</td></tr><tr><td align="left" rowspan="1" colspan="1">Cl<sup>&#x02212;</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0296</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0215</td><td align="char" char="." rowspan="1" colspan="1">0.0336</td><td align="char" char="." rowspan="1" colspan="1">0.0990</td><td align="char" char="." rowspan="1" colspan="1">0.1781</td><td align="char" char="." rowspan="1" colspan="1">0.0962</td><td align="char" char="." rowspan="1" colspan="1">0.2342</td><td align="char" char="." rowspan="1" colspan="1">0.4263</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0937</td><td align="char" char="." rowspan="1" colspan="1">0.1597</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-13"><mml:msubsup><mml:mtext>SO</mml:mtext><mml:mn>4</mml:mn><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2695</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1983</td><td align="char" char="." rowspan="1" colspan="1">0.0338</td><td align="char" char="." rowspan="1" colspan="1">0.0487</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1010</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0365</td><td align="char" char="." rowspan="1" colspan="1">0.0196</td><td align="char" char="." rowspan="1" colspan="1">0.0316</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0016</td><td align="char" char="." rowspan="1" colspan="1">0.1273</td></tr><tr><td align="left" rowspan="1" colspan="1">TOC</td><td align="char" char="." rowspan="1" colspan="1">0.2977</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.3063</bold>
+<xref ref-type="fn" rid="mbo3983-note-0003">**</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1422</td><td align="char" char="." rowspan="1" colspan="1">0.2033</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2898</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2273</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.3077</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2347</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0410</td><td align="char" char="." rowspan="1" colspan="1">0.2256</td></tr><tr><td align="left" rowspan="1" colspan="1">TN</td><td align="char" char="." rowspan="1" colspan="1">0.2379</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.3035</bold>
+<xref ref-type="fn" rid="mbo3983-note-0002">*</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.0121</td><td align="char" char="." rowspan="1" colspan="1">0.2963</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2296</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2503</td><td align="char" char="." rowspan="1" colspan="1">&#x02013;</td><td align="char" char="." rowspan="1" colspan="1">0.0370</td><td align="char" char="." rowspan="1" colspan="1">0.1700</td><td align="char" char="." rowspan="1" colspan="1">0.0865</td></tr><tr><td align="left" rowspan="1" colspan="1">pH</td><td align="char" char="." rowspan="1" colspan="1">0.2063</td><td align="char" char="." rowspan="1" colspan="1">0.3800</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1289</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0567</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.5459</bold>
+<xref ref-type="fn" rid="mbo3983-note-0002">*</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.4617</td><td align="char" char="." rowspan="1" colspan="1">0.0454</td><td align="char" char="." rowspan="1" colspan="1">0.1930</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.4508</bold>
+<xref ref-type="fn" rid="mbo3983-note-0002">*</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0622</td></tr><tr><td align="left" rowspan="1" colspan="1">salinity</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.3322</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0446</td><td align="char" char="." rowspan="1" colspan="1">0.3782</td><td align="char" char="." rowspan="1" colspan="1">0.1613</td><td align="char" char="." rowspan="1" colspan="1">0.1321</td><td align="char" char="." rowspan="1" colspan="1">0.1311</td><td align="char" char="." rowspan="1" colspan="1">0.3876</td><td align="char" char="." rowspan="1" colspan="1">0.1579</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0108</td><td align="char" char="." rowspan="1" colspan="1">0.1887</td></tr></tbody></table><table-wrap-foot id="mbo3983-ntgp-0002"><fn id="mbo3983-note-0100"><p>Bold: <italic>P</italic>&#x02010;value of the correlation between physical and chemical factors and microorganisms in each layer.</p></fn><fn id="mbo3983-note-0002"><label>*</label><p>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05.</p></fn><fn id="mbo3983-note-0003"><label>**</label><p>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="mbo3983-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Double principle coordinate analysis of microbial communities based on the OTU relative abundances</p></caption><graphic id="nlm-graphic-7" xlink:href="MBO3-9-e983-g003"/></fig></sec><sec sec-type="discussion" id="mbo3983-sec-0008"><label>4</label><title>DISCUSSION</title><p>According to the results of the pMEN analysis, the modularity values of each layer in our study were relatively high and close, reflecting habitat heterogeneity, different selection mechanisms, and phylogenetic clustering of closely related species (Lewinsohn et al., <xref rid="mbo3983-bib-0026" ref-type="ref">2006</xref>), which might lead to nonrandom interaction patterns and ecological network complexity (Olesen, Bascompte, Dupont, &#x00026; Jordano, <xref rid="mbo3983-bib-0036" ref-type="ref">2007</xref>). This can be explained as follows: (1) modules with closely linked species may be the key units of coevolution, in which reciprocal selection leads to trait convergence of unrelated species (Olesen et al., <xref rid="mbo3983-bib-0036" ref-type="ref">2007</xref>); (2) species converge on a combination of related traits shaped by similar interaction patterns (Olesen et al., <xref rid="mbo3983-bib-0036" ref-type="ref">2007</xref>); and (3) such a process may result in an interactive heterogeneous network, with taxonomically or functionally related taxa packed into different modules (Deng et al., <xref rid="mbo3983-bib-0008" ref-type="ref">2012</xref>). In this study, modularity values were high, which indicated that the ecological network was complex, and the microbial community can fully adapt to the environment. Wang et al. (<xref rid="mbo3983-bib-0052" ref-type="ref">2007</xref>) suggested that the lack of module hubs would lead to fragmentation of the module, and essentially there was no cascading effect on other modules. Furthermore, the modular structure exists to dampen the rapid spread of disturbance in the community (Wang et al., <xref rid="mbo3983-bib-0052" ref-type="ref">2007</xref>). Module hubs were detected in each layer in our study, indicating cascade effects between modules and strong resistance of the microbial community to the environment. In addition, positive links can be explained by the mutualism among genes in coevolution (Zhang, Zhao, &#x00026; Dai, <xref rid="mbo3983-bib-0057" ref-type="ref">2014</xref>), or to have similar niches (Zheng et al., <xref rid="mbo3983-bib-0058" ref-type="ref">2017</xref>) or cross&#x02010;feeding (Sun et al., <xref rid="mbo3983-bib-0046" ref-type="ref">2015</xref>), while negative relationships are due to competition (Faust &#x00026; Raes, <xref rid="mbo3983-bib-0014" ref-type="ref">2012</xref>). Strong positive links were detected in all networks in this study, which implied that microbial communities were potentially more inclined to function together to adapt to depth&#x02010;changing environments. In contrast, some microbes that did not possess the ability to compete with other microbes were filtered out (Pointing, Chan, Lacap, &#x00026; Lau, <xref rid="mbo3983-bib-0038" ref-type="ref">2009</xref>). Although modularity changes in our study were not as apparent as the changes reported in the study conducted by Bai et al. (<xref rid="mbo3983-bib-0002" ref-type="ref">2017</xref>) (Figure <xref rid="mbo3983-fig-0004" ref-type="fig">4</xref>), most molecular ecological network parameters varied over a relatively narrow range, which showed that the microbial communities in our study were more stable and adaptable to environmental changes. This was related to many reasons, such as microbial diversity, soil parent material, availability of resources along soil depth gradients, and environmental conditions, which required further research in the future.</p><fig fig-type="Figure" xml:lang="en" id="mbo3983-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The phylogenetic molecular ecological network parameters change along the depth gradient. (a) Results of Bai's study (A: 0&#x000a0;&#x02013;&#x000a0;0.05&#x000a0;m, B: 0.05&#x000a0;&#x02013;&#x000a0;0.2&#x000a0;m, C: 0.2&#x000a0;&#x02013;&#x000a0;0.4&#x000a0;m, D: 0.4&#x000a0;&#x02013;&#x000a0;0.6&#x000a0;m), (b) Results of this study (A: 0&#x000a0;&#x02013;&#x000a0;0.2&#x000a0;m, B: 0.2&#x000a0;&#x02013;&#x000a0;0.4&#x000a0;m, C: 0.4&#x000a0;&#x02013;&#x000a0;0.6&#x000a0;m, D: 0.6&#x000a0;&#x02013;&#x000a0;0.8&#x000a0;m, E: 0.8&#x000a0;&#x02013;&#x000a0;1.0&#x000a0;m, F: 1.0&#x000a0;&#x02013;&#x000a0;1.3&#x000a0;m, G: 1.3&#x000a0;&#x02013;&#x000a0;1.6&#x000a0;m, H: 1.6&#x000a0;&#x02013;&#x000a0;2.0&#x000a0;m, I: 2.0&#x000a0;&#x02013;&#x000a0;2.5&#x000a0;m, J: 2.5&#x000a0;&#x02013;&#x000a0;3.0&#x000a0;m)</p></caption><graphic id="nlm-graphic-9" xlink:href="MBO3-9-e983-g004"/></fig><p>Since module hubs represented key species in the network (Bai et al., <xref rid="mbo3983-bib-0002" ref-type="ref">2017</xref>), we obtained key genera that corresponded to key nodes at different soil layers (Table <xref rid="mbo3983-tbl-0002" ref-type="table">2</xref>). It was evident that multiple module hubs occurred in most layers excluding those of D, H and J with only 1&#x02010;2 module hubs. A total of 16 module hubs were found from layers A to E, which was consistent with other studies that showed microbial communities were more active within one meter (Blume et al., <xref rid="mbo3983-bib-0003" ref-type="ref">2002</xref>; Eilers et al., <xref rid="mbo3983-bib-0012" ref-type="ref">2012</xref>; Fierer, Schimel, et al., <xref rid="mbo3983-bib-0016" ref-type="ref">2003</xref>; Hartmann et al., <xref rid="mbo3983-bib-0023" ref-type="ref">2009</xref>). However, a total number of 16 module hubs were obtained from layers F to J indicating potential activity of subsurface microorganisms. Approximately, 56% of the key genera belonged to the phyla <italic>Acidobacteria, Actinobacteria and Proteobacteria. Acidobacteria</italic> appeared in layers A, C, F, and G with the dominant species, being <italic>Gp25</italic>, <italic>Gp4</italic>, <italic>Gp7</italic>, and <italic>Gp18</italic>, respectively. These microbiota are particularly sensitive to pH variations (Pointing et al., <xref rid="mbo3983-bib-0038" ref-type="ref">2009</xref>). Although <italic>Acidobacteria</italic> was discovered from layers A to J, it was not the invariably key phylum in module hubs. The key genus in each layer was potentially related to microorganism diversity, their related network, and environmental conditions, resulting in different module hubs in each layer. The classes <italic>Gammaproteobacteria, Deltaproteobacteria, Alphaproteobacteria and Betaproteobacteria</italic> belong to the phylum <italic>Proteobacteria</italic>. <italic>Gammaproteobacteria</italic> was found in layers E and G and was the aerobic nitrogen&#x02010;fixing bacteria involved in soil nitrogen cycling (Tsoy, Ravcheev, &#x00026; Cuklina, <xref rid="mbo3983-bib-0050" ref-type="ref">2016</xref>). <italic>Deltaproteobacteria</italic>, which was also present in layer B, was considered a major choline user. These results provided new insights into our understanding of the use of choline by soil microorganisms (Eleanor, Jason, &#x00026; Helen, <xref rid="mbo3983-bib-0013" ref-type="ref">2018</xref>). Moreover, choline may be involved in the carbon mineralization process (Mussmann, Ishii, &#x00026; Rabus, <xref rid="mbo3983-bib-0032" ref-type="ref">2005</xref>). <italic>Betaproteobacteria,</italic> which preferred relatively oxygen&#x02010;rich conditions (L&#x000fc;demann, Arth, &#x00026; Liesack, <xref rid="mbo3983-bib-0030" ref-type="ref">2000</xref>), appeared in both layers E and I. Similarly, <italic>Sphingomonas</italic> was likely to occur under aerobic conditions (White, Sutton, &#x00026; Ringelberg, <xref rid="mbo3983-bib-0054" ref-type="ref">1996</xref>), but was found in layer I and requires further study. The dominant genera found in layers B, C, D, F, and G were members of the phylum <italic>Actinobacteria.</italic> Most <italic>Actinobacteria</italic> appeared in the upper soil, which was related to aerobic degree (Eilers et al., <xref rid="mbo3983-bib-0012" ref-type="ref">2012</xref>), and its presence may accelerate the decay of animal and plant remains in soil (Stackebrandt, Rainey, &#x00026; Ward&#x02010;Rainey, <xref rid="mbo3983-bib-0044" ref-type="ref">1997</xref>). <italic>Firmicutes</italic> and <italic>Chloroflexi</italic> appeared in the layers G and E, which can be explained by their adaptation to low&#x02010;nutrient environments (Holanda &#x00026; Hedrich, <xref rid="mbo3983-bib-0024" ref-type="ref">2015</xref>). <italic>Nitrosopumilus</italic> was found in layer B and was involved in ammonia oxidation in the nitrogen cycle of the ecosystem (Nakagawa &#x00026; Stahl, <xref rid="mbo3983-bib-0033" ref-type="ref">2013</xref>). The phylum <italic>Verrucomicrobia</italic> appeared in the layers E and G, which was consistent with previous studies reported that they were prone to occur in relatively anoxic environments (Eilers et al., <xref rid="mbo3983-bib-0012" ref-type="ref">2012</xref>). Therefore, there should be at least one dominant genus in each layer that must adapt to and resist changes in the soil environment. Factors such as carbon source, microbial decomposition, and species interactions also affect the distribution of microorganisms in the soil depth gradients as well (Marilley &#x00026; Aragno, <xref rid="mbo3983-bib-0031" ref-type="ref">1999</xref>). Notably, module hubs were extremely high at 2&#x000a0;m soil depth. Only a few studies exist on deep microbial communities; thus, more attention should be given to the study of subsurface microbial communities in future.</p><p>We performed the Mantel test on key genera obtained by module hubs and environmental factors (K<sup>+</sup>, Ca<sup>2+</sup>, Na<sup>+</sup>, Mg<sup>2+</sup>, <mml:math id="nlm-math-14"><mml:msubsup><mml:mtext>NH</mml:mtext><mml:mn>4</mml:mn><mml:mo>+</mml:mo></mml:msubsup></mml:math>, <mml:math id="nlm-math-15"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>, <mml:math id="nlm-math-16"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>3</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>, Cl<sup>&#x02212;</sup>, <mml:math id="nlm-math-17"><mml:msubsup><mml:mtext>SO</mml:mtext><mml:mn>4</mml:mn><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>, TOC, TN, pH, and salinity) along depth gradients (Table <xref rid="mbo3983-tbl-0006" ref-type="table">A2</xref>). Most environmental factors did not have significant effects on key genera obtained by module hubs along depth gradients, excluding K<sup>+</sup> and Mg<sup>2+</sup> in layer A, K<sup>+</sup> in layer C, <mml:math id="nlm-math-18"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>3</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math> in layers G and H, Na<sup>+</sup>, Cl<sup>&#x02212;</sup>, <mml:math id="nlm-math-19"><mml:msubsup><mml:mtext>SO</mml:mtext><mml:mn>4</mml:mn><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>, salinity in layer I, and K<sup>+</sup>, Na<sup>+</sup>, and <mml:math id="nlm-math-20"><mml:msubsup><mml:mtext>SO</mml:mtext><mml:mn>4</mml:mn><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math> in layer J. It was evident that the key genera obtained by module hubs in all ten layers had no significant difference in pH, TOC, and TN. Soil layers dominant with <italic>Acidobacteria</italic> were mostly associated with potassium. Ding, Jiang, and Ma (<xref rid="mbo3983-bib-0010" ref-type="ref">2016</xref>) noted that inorganic fertilizers may lower the pH of soil and lead to its acidification. Members of the phylum <italic>Proteobacteria</italic> had a variety of metabolic types (Song, Liu, &#x00026; Liang, <xref rid="mbo3983-bib-0043" ref-type="ref">2016</xref>). This may affect the sensitivity of <italic>Proteobacteria</italic> to environmental factors. Bacteria within the phylum <italic>Bacteroidetes</italic> can be distributed throughout the ecological niches (Garrity &#x00026; Holt, <xref rid="mbo3983-bib-0019" ref-type="ref">2001</xref>), some of which were likely to occur in deep soil layers. During the formation and development of soil, each layer has its own physical and chemical properties due to the migration of energy and matter (Agnelli, Ascher, &#x00026; Corti, <xref rid="mbo3983-bib-0001" ref-type="ref">2004</xref>). In general, depth&#x02010;related differences in the physicochemical and structural characteristics of soil profiles can include many microenvironmentally complex microbial populations that can evolve (Ranjard &#x00026; Richaume, <xref rid="mbo3983-bib-0039" ref-type="ref">2001</xref>). In contrast, by aiming to determine the correlation between each physical and chemical factor index in each layer for whole microorganisms in our study, it can be concluded that the microorganisms were generally stable. Therefore, some mechanisms affected the adaptation of microbial communities to the environment. Our findings revealed that the adaptability of microbial communities to depth gradients may result in an approximate ten&#x02010;layer network analysis. Key genera play an important role in maintaining community stability. Notably, salinity has been shown to be a key driving factor for microbial communities in the same research region, as described by Zheng et al. (<xref rid="mbo3983-bib-0058" ref-type="ref">2017</xref>), but in our study, soil depth seems to also create important effects in the microbial communities.</p></sec><sec sec-type="conclusions" id="mbo3983-sec-0009"><label>5</label><title>CONCLUSIONS</title><p>In this study, based on the ecological network, we found that microbial communities along the depth gradient had a strong overall resistance. The change in the environmental conditions with soil depth represents an ecological filter; however, the microbial communities fully adapted to the depth gradient, which indicated that there are certain mechanisms that affect the adaptation of microbial communities to the environment.</p></sec><sec sec-type="COI-statement" id="mbo3983-sec-0011"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="mbo3983-sec-0012"><title>AUTHOR CONTRIBUTIONS</title><p>Hang Yu: Conceptualization; Formal analysis; Writing&#x02010;original draft; Writing&#x02010;review &#x00026; editing. Dongmei Xue: Conceptualization; Funding acquisition; Writing&#x02010;review &#x00026; editing. Yidong Wang: Funding acquisition; Writing&#x02010;review &#x00026; editing. Wei Zheng: Conceptualization. Guilong Zhang: Funding acquisition. Zhongliang Wang: Funding acquisition. </p></sec><sec id="mbo3983-sec-0013"><title>ETHICS STATEMENT</title><p>None required.</p></sec></body><back><ack id="mbo3983-sec-0010"><title>ACKNOWLEDGMENTS</title><p>We gratefully acknowledge Linzhen Guo and Mengfan Yang for soil sampling and Key Laboratory of Environmental and Applied Microbiology, Chinese Academy of Sciences for 16S rRNA Miseq sequencing analysis. This work was financially supported by Ministry of Science and Technology of the People's Republic of China (2018YFD0800400), the National Natural Science Foundation of China (41973017), the Natural Science Foundation of Tianjin (19JCZDJC40700), and the Innovation Team Training Plan of the Tianjin Education Committee (TD12&#x02010;5037).</p></ack><sec sec-type="data-availability" id="mbo3983-sec-0015"><title>DATA AVAILABILITY STATEMENT</title><p>The datasets used and/or analyzed during the current study are available from the corresponding author upon reasonable request. The original sequence data are deposited at the European Nucleotide Archive:&#x000a0;<ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/ena/data/view/PRJEB21751" specific-use="software is-supplemented-by">https://www.ebi.ac.uk/ena/data/view/PRJEB21751</ext-link>.</p></sec><ref-list content-type="cited-references" id="mbo3983-bibl-0001"><title>REFERENCES</title><ref id="mbo3983-bib-0001"><mixed-citation publication-type="journal" id="mbo3983-cit-0001">
+<string-name>
+<surname>Agnelli</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ascher</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Corti</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>). <article-title>Distribution of microbial communities in a forest soil profile investigated by microbial biomass, soil respiration and DGGE of total and extracellular DNA</article-title>. <source xml:lang="en">Soil Biology and Biochemistry</source>, <volume>36</volume>, <fpage>859</fpage>&#x02013;<lpage>868</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2004.02.004</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0002"><mixed-citation publication-type="journal" id="mbo3983-cit-0002">
+<string-name>
+<surname>Bai</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>He</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Microbial community and functional structure significantly varied among distinct types of paddy soils but responded differently along gradients of soil depth layers</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>8</volume>, <fpage>945</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2017.00945</pub-id>
+<pub-id pub-id-type="pmid">28611747</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0003"><mixed-citation publication-type="journal" id="mbo3983-cit-0003">
+<string-name>
+<surname>Blume</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Bischoff</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Reichert</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moorman</surname>, <given-names>T.</given-names>
+</string-name> (<year>2002</year>). <article-title>Surface and subsurface microbial biomass, community structure and metabolic activity as a function of soil depth and season</article-title>. <source xml:lang="en">Applied Soil Ecology</source>, <volume>592</volume>, <fpage>1</fpage>&#x02013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1016/S0929-1393(02)00025-2</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0004"><mixed-citation publication-type="journal" id="mbo3983-cit-0004">
+<string-name>
+<surname>Buss</surname>, <given-names>H. L.</given-names>
+</string-name>, <string-name>
+<surname>Bruns</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moore</surname>, <given-names>J.</given-names>
+</string-name> (<year>2005</year>). <article-title>The coupling of biological iron cycling and mineral weathering during saprolite formation, Luquillo Mountains, Puerto Rico</article-title>. <source xml:lang="en">Geobiology</source>, <volume>3</volume>, <fpage>247</fpage>&#x02013;<lpage>260</lpage>. <pub-id pub-id-type="doi">10.1111/j.1472-4669.2006.00058.x</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0005"><mixed-citation publication-type="journal" id="mbo3983-cit-0005">
+<string-name>
+<surname>Campbell</surname>, <given-names>B. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kirchman</surname>, <given-names>D. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Bacterial diversity, community structure and potential growth rates along an estuarine salinity gradient</article-title>. <source xml:lang="en">The ISME Journal</source>, <volume>7</volume>, <fpage>210</fpage>&#x02013;<lpage>220</lpage>. <pub-id pub-id-type="doi">10.1038/ismej.2012.93</pub-id>
+<pub-id pub-id-type="pmid">22895159</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0006"><mixed-citation publication-type="journal" id="mbo3983-cit-0006">
+<string-name>
+<surname>Caporaso</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Lauber</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Walters</surname>, <given-names>W. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>108</volume>, <fpage>4516</fpage>&#x02013;<lpage>4522</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1000080107</pub-id>
+<pub-id pub-id-type="pmid">20534432</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0007"><mixed-citation publication-type="journal" id="mbo3983-cit-0007">
+<string-name>
+<surname>Carpenter</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Arrow</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Biggs</surname>, <given-names>R.</given-names>
+</string-name> (<year>2012</year>). <article-title>General resilience to cope with extreme events</article-title>. <source xml:lang="en">Sustainability</source>, <volume>4</volume>, <fpage>3248</fpage>&#x02013;<lpage>3259</lpage>. <pub-id pub-id-type="doi">10.3390/su4123248</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0008"><mixed-citation publication-type="journal" id="mbo3983-cit-0008">
+<string-name>
+<surname>Deng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y. H.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Y. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>He</surname>, <given-names>Z. L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Molecular ecological network analyses</article-title>. <source xml:lang="en">BMC Bioinformatics</source>, <volume>13</volume>, <fpage>113</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2105-13-113</pub-id>
+<pub-id pub-id-type="pmid">22646978</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0009"><mixed-citation publication-type="journal" id="mbo3983-cit-0009">
+<string-name>
+<surname>Deng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>Y. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tu</surname>, <given-names>Q. C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Network succession reveals the importance of competition in response to emulsified vegetable oil amendment for uranium bioremediation</article-title>. <source xml:lang="en">Environmental Microbiology</source>, <volume>18</volume>, <fpage>205</fpage>&#x02013;<lpage>218</lpage>. <pub-id pub-id-type="doi">10.1111/1462-2920.12981</pub-id>
+<pub-id pub-id-type="pmid">26177312</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0010"><mixed-citation publication-type="journal" id="mbo3983-cit-0010">
+<string-name>
+<surname>Ding</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ma</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effect of 35 years inorganic fertilizer and manure amendment on structure of bacterial and archaeal communities in black soil of northeast China</article-title>. <source xml:lang="en">Applied Soil Ecology</source>, <volume>105</volume>, <fpage>187</fpage>&#x02013;<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsoil.2016.04.010</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0011"><mixed-citation publication-type="journal" id="mbo3983-cit-0011">
+<string-name>
+<surname>Edgar</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Clemente</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Quince</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>UCHIME improves sensitivity and speed of chimera detection</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>27</volume>, <fpage>2194</fpage>&#x02013;<lpage>2200</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btr381</pub-id>
+<pub-id pub-id-type="pmid">21700674</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0012"><mixed-citation publication-type="journal" id="mbo3983-cit-0012">
+<string-name>
+<surname>Eilers</surname>, <given-names>K. G.</given-names>
+</string-name>, <string-name>
+<surname>Debenport</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fierer</surname>, <given-names>N.</given-names>
+</string-name> (<year>2012</year>). <article-title>Digging deeper to find unique microbial communities: The strong effect of depth on the structure of bacterial and archaeal communities in soil</article-title>. <source xml:lang="en">Soil Biology &#x00026; Biochemistry</source>, <volume>50</volume>, <fpage>58</fpage>&#x02013;<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2012.03.011</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0013"><mixed-citation publication-type="journal" id="mbo3983-cit-0013">
+<string-name>
+<surname>Eleanor</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Jason</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Helen</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Deltaproteobacteria (Pelobacter) and Methanococcoides are responsible for choline&#x02010;dependent methanogenesis in a coastal saltmarsh sediment</article-title>. <source xml:lang="en">ISME Journal</source>, <volume>13</volume>, <fpage>277</fpage>&#x02013;<lpage>289</lpage>.<pub-id pub-id-type="pmid">30206424</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0014"><mixed-citation publication-type="journal" id="mbo3983-cit-0014">
+<string-name>
+<surname>Faust</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Raes</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Microbial interactions: From networks to models</article-title>. <source xml:lang="en">Nature Reviews Microbiology</source>, <volume>10</volume>, <fpage>538</fpage>&#x02013;<lpage>550</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro2832</pub-id>
+<pub-id pub-id-type="pmid">22796884</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0015"><mixed-citation publication-type="journal" id="mbo3983-cit-0015">
+<string-name>
+<surname>Fierer</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Schimel</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Holden</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Controls on microbial CO<sub>2</sub> production: A comparison of surface and subsurface soil horizons</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>9</volume>, <fpage>1322</fpage>&#x02013;<lpage>1332</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2486.2003.00663.x</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0016"><mixed-citation publication-type="journal" id="mbo3983-cit-0016">
+<string-name>
+<surname>Fierer</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Schimel</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Holden</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Variations in microbial community composition through two soil depth profiles</article-title>. <source xml:lang="en">Soil Biology &#x00026; Biochemistry</source>, <volume>35</volume>, <fpage>167</fpage>&#x02013;<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1016/S0038-0717(02)00251-1</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0017"><mixed-citation publication-type="journal" id="mbo3983-cit-0017">
+<string-name>
+<surname>Fukuyama</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mcmurdie</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Dethlefsen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Relman</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Holmes</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>). <article-title>Comparisons of distance methods for combining covariates and abundances in microbiome studies</article-title>. <source xml:lang="en">Biocomputing</source>, <fpage>213</fpage>&#x02013;<lpage>224</lpage>.<pub-id pub-id-type="pmid">22174277</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0018"><mixed-citation publication-type="journal" id="mbo3983-cit-0018">
+<string-name>
+<surname>Gardner</surname>, <given-names>T. S.</given-names>
+</string-name>, <string-name>
+<surname>Di</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Lorenz</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Collins</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Inferring genetic networks and identifying compound mode of action via expression profiling</article-title>. <source xml:lang="en">Science</source>, <volume>301</volume>, <fpage>102</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1126/science.1081900</pub-id>
+<pub-id pub-id-type="pmid">12843395</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0019"><mixed-citation publication-type="book" id="mbo3983-cit-0019">
+<string-name>
+<surname>Garrity</surname>, <given-names>G. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Holt</surname>, <given-names>J. G.</given-names>
+</string-name> (<year>2001</year>). <chapter-title>The road map to the manual</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Garrity</surname><given-names>G.</given-names></name></person-group> (Ed.), <source xml:lang="en">Bergey's manual of systematic bacteriology</source> (Vol. <volume>1</volume>, <edition designator="2">2nd ed</edition>, pp. <fpage>119</fpage>&#x02013;<lpage>166</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer&#x02010;Verlag</publisher-name>.</mixed-citation></ref><ref id="mbo3983-bib-0020"><mixed-citation publication-type="journal" id="mbo3983-cit-0020">
+<string-name>
+<surname>Gerstung</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Baudis</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moch</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beerenwinkel</surname>, <given-names>N.</given-names>
+</string-name> (<year>2009</year>). <article-title>Quantifying cancer progression with conjunctive Bayesian networks</article-title>. <source xml:lang="en">Bioinform</source>, <volume>25</volume>, <fpage>2809</fpage>&#x02013;<lpage>2815</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btp505</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0021"><mixed-citation publication-type="journal" id="mbo3983-cit-0021">
+<string-name>
+<surname>Griffiths</surname>, <given-names>R. I.</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>James</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bell</surname>, <given-names>T.</given-names>
+</string-name> (<year>2011</year>). <article-title>The bacterial biogeography of British soils</article-title>. <source xml:lang="en">Environmental Microbiology</source>, <volume>13</volume>, <fpage>1642</fpage>&#x02013;<lpage>1654</lpage>. <pub-id pub-id-type="doi">10.1111/j.1462-2920.2011.02480.x</pub-id>
+<pub-id pub-id-type="pmid">21507180</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0022"><mixed-citation publication-type="journal" id="mbo3983-cit-0022">
+<string-name>
+<surname>Hahn</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Konwar</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Louca</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hanson</surname>, <given-names>N. W.</given-names>
+</string-name> (<year>2016</year>). <article-title>The information science of microbial ecology</article-title>. <source xml:lang="en">Current Opinion in Microbiology</source>, <volume>31</volume>, <fpage>209</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1016/j.mib.2016.04.014</pub-id>
+<pub-id pub-id-type="pmid">27183115</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0023"><mixed-citation publication-type="journal" id="mbo3983-cit-0023">
+<string-name>
+<surname>Hartmann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hallam</surname>, <given-names>S. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mohn</surname>, <given-names>W. W.</given-names>
+</string-name> (<year>2009</year>). <article-title>Bacterial, archaeal and eukaryal community structures throughout soil horizons of harvested and naturally disturbed forest stands</article-title>. <source xml:lang="en">Environmental Microbiology</source>, <volume>11</volume>, <fpage>3045</fpage>&#x02013;<lpage>3062</lpage>. <pub-id pub-id-type="doi">10.1111/j.1462-2920.2009.02008.x</pub-id>
+<pub-id pub-id-type="pmid">19659501</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0024"><mixed-citation publication-type="journal" id="mbo3983-cit-0024">
+<string-name>
+<surname>Holanda</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hedrich</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Falagan C. characteristics of <italic>Acidibacillus</italic> Spp.: A novel genus of acidophilic iron&#x02010;oxidising firmicutes</article-title>. <source xml:lang="en">Adva Matr Res</source>, <volume>1130</volume>, <fpage>36</fpage>&#x02013;<lpage>39</lpage>.</mixed-citation></ref><ref id="mbo3983-bib-0025"><mixed-citation publication-type="journal" id="mbo3983-cit-0025">
+<string-name>
+<surname>Horvath</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Carlson</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lu</surname>, <given-names>K. V.</given-names>
+</string-name> (<year>2006</year>). <article-title>Analysis of oncogenic signaling networks in glioblastoma identifies ASPM as a molecular target</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>103</volume>, <fpage>17402</fpage>&#x02013;<lpage>17407</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0608396103</pub-id>
+<pub-id pub-id-type="pmid">17090670</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0026"><mixed-citation publication-type="journal" id="mbo3983-cit-0026">
+<string-name>
+<surname>Lewinsohn</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Prado</surname>, <given-names>P. I.</given-names>
+</string-name>, <string-name>
+<surname>Jordano</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bascompte</surname>, <given-names>J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Structure in plant&#x02010;animal interaction assemblages</article-title>. <source xml:lang="en">Oikos</source>, <volume>113</volume>, <fpage>174</fpage>&#x02013;<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1111/j.0030-1299.2006.14583.x</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0027"><mixed-citation publication-type="journal" id="mbo3983-cit-0027">
+<string-name>
+<surname>Li</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>L. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jia</surname>, <given-names>Z. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Change in deep soil microbial communities due to long&#x02010;term fertilization</article-title>. <source xml:lang="en">Soil Biology &#x00026; Biochemistry</source>, <volume>75</volume>, <fpage>264</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2014.04.023</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0028"><mixed-citation publication-type="journal" id="mbo3983-cit-0028">
+<string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Rui</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yannarell</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Dynamics of the bacterial community structure in the rhizosphere of a maize cultivar</article-title>. <source xml:lang="en">Soil Biology and Biochemistry</source>, <volume>68</volume>, <fpage>392</fpage>&#x02013;<lpage>401</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2013.10.017</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0029"><mixed-citation publication-type="journal" id="mbo3983-cit-0029">
+<string-name>
+<surname>Lin</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>De</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name> (<year>2016</year>). <article-title>Temperature affects microbial abundance, activity and interactions in anaerobic digestion</article-title>. <source xml:lang="en">Bioresource Technology</source>, <volume>209</volume>, <fpage>228</fpage>&#x02013;<lpage>236</lpage>. <pub-id pub-id-type="doi">10.1016/j.biortech.2016.02.132</pub-id>
+<pub-id pub-id-type="pmid">26970926</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0030"><mixed-citation publication-type="journal" id="mbo3983-cit-0030">
+<string-name>
+<surname>L&#x000fc;demann</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Arth</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liesack</surname>, <given-names>W.</given-names>
+</string-name> (<year>2000</year>). <article-title>Spatial changes in the bacterial community structure along a vertical oxygen gradient in flooded paddy soil cores</article-title>. <source xml:lang="en">Applied and Environment Microbiology</source>, <volume>66</volume>, <fpage>754</fpage>&#x02013;<lpage>762</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.66.2.754-762.2000</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0031"><mixed-citation publication-type="journal" id="mbo3983-cit-0031">
+<string-name>
+<surname>Marilley</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aragno</surname>, <given-names>M.</given-names>
+</string-name> (<year>1999</year>). <article-title>Phylogenetic diversity of bacterial communities differing in degree of proximity of <italic>Lolium perenne</italic> and <italic>Trifolium repens</italic> roots</article-title>. <source xml:lang="en">Applied Soil Ecology</source>, <volume>13</volume>, <fpage>127</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1016/S0929-1393(99)00028-1</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0032"><mixed-citation publication-type="journal" id="mbo3983-cit-0032">
+<string-name>
+<surname>Mussmann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rabus</surname>, <given-names>R.</given-names>
+</string-name> (<year>2005</year>). <article-title>Diversity and vertical distribution of cultured and uncultured Deltaproteobacteria in an intertidal mud flat of the Wadden Sea</article-title>. <source xml:lang="en">Environmental Microbiology</source>, <volume>7</volume>, <fpage>405</fpage>&#x02013;<lpage>418</lpage>. <pub-id pub-id-type="doi">10.1111/j.1462-2920.2005.00708.x</pub-id>
+<pub-id pub-id-type="pmid">15683401</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0033"><mixed-citation publication-type="journal" id="mbo3983-cit-0033">
+<string-name>
+<surname>Nakagawa</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stahl</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Transcriptional response of the Archaeal ammonia oxidizer <italic>Nitrosopumilus maritimus</italic> to low and environmentally relevant ammonia concentrations</article-title>. <source xml:lang="en">Applied and Environment Microbiology</source>, <volume>79</volume>, <fpage>6911</fpage>&#x02013;<lpage>6916</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.02028-13</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0034"><mixed-citation publication-type="journal" id="mbo3983-cit-0034">
+<string-name>
+<surname>Newman</surname>, <given-names>M. E. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>Modularity and community structure in networks</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>103</volume>, <fpage>8577</fpage>&#x02013;<lpage>8582</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0601602103</pub-id>
+<pub-id pub-id-type="pmid">16723398</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0035"><mixed-citation publication-type="journal" id="mbo3983-cit-0035">
+<string-name>
+<surname>Oldham</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Horvath</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Geschwind</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2006</year>). <article-title>Conservation and evolution of gene coexpression networks in human and chimpanzee brains</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>103</volume>, <fpage>17973</fpage>&#x02013;<lpage>17978</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0605938103</pub-id>
+<pub-id pub-id-type="pmid">17101986</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0036"><mixed-citation publication-type="journal" id="mbo3983-cit-0036">
+<string-name>
+<surname>Olesen</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Bascompte</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Dupont</surname>, <given-names>Y. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jordano</surname>, <given-names>P.</given-names>
+</string-name> (<year>2007</year>). <article-title>The modularity of pollination networks</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>104</volume>, <fpage>19891</fpage>&#x02013;<lpage>19896</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0706375104</pub-id>
+<pub-id pub-id-type="pmid">18056808</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0037"><mixed-citation publication-type="journal" id="mbo3983-cit-0037">
+<string-name>
+<surname>Paula</surname>, <given-names>F. S.</given-names>
+</string-name>, <string-name>
+<surname>Rodrigues</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>J. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wu</surname>, <given-names>L. Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Land use change alters functional gene diversity, composition and abundance in Amazon forest soil microbial communities</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>23</volume>, <fpage>2988</fpage>&#x02013;<lpage>2999</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12786</pub-id>
+<pub-id pub-id-type="pmid">24806276</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0038"><mixed-citation publication-type="journal" id="mbo3983-cit-0038">
+<string-name>
+<surname>Pointing</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lacap</surname>, <given-names>D. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lau</surname>, <given-names>M. C. Y.</given-names>
+</string-name> (<year>2009</year>). <article-title>Highly specialized microbial diversity in hyper&#x02010;arid polar desert</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>106</volume>, <fpage>19964</fpage>&#x02013;<lpage>19969</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0908274106</pub-id>
+<pub-id pub-id-type="pmid">19850879</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0039"><mixed-citation publication-type="journal" id="mbo3983-cit-0039">
+<string-name>
+<surname>Ranjard</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Richaume</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2001</year>). <article-title>Quantitative and qualitative microscale distribution of bacteria in soil</article-title>. <source xml:lang="en">Research in Microbiology</source>, <volume>152</volume>, <fpage>707</fpage>&#x02013;<lpage>716</lpage>. <pub-id pub-id-type="doi">10.1016/S0923-2508(01)01251-7</pub-id>
+<pub-id pub-id-type="pmid">11686384</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0040"><mixed-citation publication-type="journal" id="mbo3983-cit-0040">
+<string-name>
+<surname>Richter</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Markewitz</surname>, <given-names>D.</given-names>
+</string-name> (<year>1995</year>). <article-title>How deep is soil?</article-title>
+<source xml:lang="en">Biosci</source>, <volume>45</volume>, <fpage>600</fpage>&#x02013;<lpage>609</lpage>. <pub-id pub-id-type="doi">10.2307/1312764</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0041"><mixed-citation publication-type="journal" id="mbo3983-cit-0041">
+<string-name>
+<surname>Schimel</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schaeffer</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Microbial control over carbon cycling in soil</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>3</volume>, <fpage>348</fpage>.<pub-id pub-id-type="pmid">23055998</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0042"><mixed-citation publication-type="journal" id="mbo3983-cit-0042">
+<string-name>
+<surname>Shen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yu</surname>, <given-names>Z. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Progress of the molecular ecology network analysis</article-title>. <source xml:lang="en">Environmental Science and Technology</source>, <volume>39</volume>, <fpage>94</fpage>&#x02013;<lpage>98</lpage>.</mixed-citation></ref><ref id="mbo3983-bib-0043"><mixed-citation publication-type="journal" id="mbo3983-cit-0043">
+<string-name>
+<surname>Song</surname>, <given-names>Z. L. W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liang</surname>, <given-names>F.</given-names>
+</string-name> (<year>2016</year>). <article-title>The diversities of Proteobacteria in four acidic hot springs in Yunnan</article-title>. <source xml:lang="en">Journal of Henan Agricultural University</source>, <volume>3</volume>, <fpage>376</fpage>&#x02013;<lpage>382</lpage>.</mixed-citation></ref><ref id="mbo3983-bib-0044"><mixed-citation publication-type="journal" id="mbo3983-cit-0044">
+<string-name>
+<surname>Stackebrandt</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rainey</surname>, <given-names>F. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ward&#x02010;Rainey</surname>, <given-names>N. L.</given-names>
+</string-name> (<year>1997</year>). <article-title>Proposal for a New Hierarchic Classification System, Actinobacteria classis nov</article-title>. <source xml:lang="en">International Journal of Systematic Bacteriology</source>, <volume>47</volume>, <fpage>479</fpage>&#x02013;<lpage>491</lpage>. <pub-id pub-id-type="doi">10.1099/00207713-47-2-479</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0045"><mixed-citation publication-type="journal" id="mbo3983-cit-0045">
+<string-name>
+<surname>Steinmuller</surname>, <given-names>H. E.</given-names>
+</string-name>, <string-name>
+<surname>Dittmer</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chambers</surname>, <given-names>L. G.</given-names>
+</string-name> (<year>2019</year>). <article-title>Understanding the fate of soil organic matter in submerging coastal wetland soils: A microcosm approach</article-title>. <source xml:lang="en">Geoderma</source>, <volume>337</volume>, <fpage>1267</fpage>&#x02013;<lpage>1277</lpage>. <pub-id pub-id-type="doi">10.1016/j.geoderma.2018.08.020</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0046"><mixed-citation publication-type="journal" id="mbo3983-cit-0046">
+<string-name>
+<surname>Sun</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhou</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Molecular ecological network analyses revealing the effects of livestock grazing on soil microbial community in the Tibetan grassland</article-title>. <source xml:lang="en">Microbiology</source>, <volume>42</volume>, <fpage>1818</fpage>&#x02013;<lpage>1831</lpage>.</mixed-citation></ref><ref id="mbo3983-bib-0047"><mixed-citation publication-type="journal" id="mbo3983-cit-0047">
+<string-name>
+<surname>Thoms</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gattinger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>, <given-names>F. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gleixner</surname>, <given-names>G.</given-names>
+</string-name> (<year>2010</year>). <article-title>Direct and indirect effects of tree diversity drive soil microbial diversity in temperate deciduous forest[J]</article-title>. <source xml:lang="en">Soil Biology and Biochemistry</source>, <volume>42</volume>(<issue>9</issue>), <fpage>1558</fpage>&#x02013;<lpage>1565</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2010.05.030</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0048"><mixed-citation publication-type="journal" id="mbo3983-cit-0048">
+<string-name>
+<surname>Too</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sickel</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lee</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Microbial community structure in a Malaysian tropical peat swamp forest: The influence of tree species and depth</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>9</volume>, <fpage>2859</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2018.02859</pub-id>
+<pub-id pub-id-type="pmid">30564202</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0049"><mixed-citation publication-type="journal" id="mbo3983-cit-0049">
+<string-name>
+<surname>Tripathi</surname>, <given-names>B. M.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tateno</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kim</surname>, <given-names>W.</given-names>
+</string-name> (<year>2015</year>). <article-title>Soil pH and biome are both key determinants of soil archaeal community structure</article-title>. <source xml:lang="en">Soil Biology &#x00026; Biochemistry</source>, <volume>88</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.soilbio.2015.05.004</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0050"><mixed-citation publication-type="journal" id="mbo3983-cit-0050">
+<string-name>
+<surname>Tsoy</surname>, <given-names>O. V.</given-names>
+</string-name>, <string-name>
+<surname>Ravcheev</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cuklina</surname>, <given-names>J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Nitrogen fixation and molecular oxygen: Comparative genomic reconstruction of transcription regulation in Alphaproteobacteria</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>7</volume>, <fpage>1343</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.01343</pub-id>
+<pub-id pub-id-type="pmid">27617010</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0052"><mixed-citation publication-type="journal" id="mbo3983-cit-0052">
+<string-name>
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Garrity</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Tiedje</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cole</surname>, <given-names>J. R.</given-names>
+</string-name> (<year>2007</year>). <article-title>Na&#x000ef;ve Bayesian classifier for rapid assignment of rRNA sequences into the new bacteria taxonomy</article-title>. <source xml:lang="en">Applied and Environment Microbiology</source>, <volume>73</volume>, <fpage>5261</fpage>&#x02013;<lpage>5267</lpage>.</mixed-citation></ref><ref id="mbo3983-bib-0053"><mixed-citation publication-type="journal" id="mbo3983-cit-0053">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>Q.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deng</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2016</year>). <article-title>Bacterioplankton community resilience to ocean acidification: Evidence from microbial network analysis</article-title>. <source xml:lang="en">ICES Journal of Marine Science</source>, <volume>73</volume>, <fpage>865</fpage>&#x02013;<lpage>875</lpage>. <pub-id pub-id-type="doi">10.1093/icesjms/fsv187</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0054"><mixed-citation publication-type="journal" id="mbo3983-cit-0054">
+<string-name>
+<surname>White</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name>
+<surname>Sutton</surname>, <given-names>S. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ringelberg</surname>, <given-names>D. B.</given-names>
+</string-name> (<year>1996</year>). <article-title>The genus Sphingomonas: Physiology and ecology</article-title>. <source xml:lang="en">Current Opinion in Biotechnology</source>, <volume>7</volume>, <fpage>301</fpage>
+<pub-id pub-id-type="doi">10.1016/S0958-1669(96)80034-6</pub-id>
+<pub-id pub-id-type="pmid">8785434</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0055"><mixed-citation publication-type="journal" id="mbo3983-cit-0055">
+<string-name>
+<surname>Will</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Th&#x000fc;rmer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wollherr</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nacke</surname>, <given-names>H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Horizon&#x02010;specific bacterial community composition of German grassland soils, as revealed by pyrosequencing&#x02010;based analysis of 16SrRNA genes</article-title>. <source xml:lang="en">Applied and Environment Microbiology</source>, <volume>76</volume>, <fpage>6751</fpage>&#x02013;<lpage>6759</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.01063-10</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0056"><mixed-citation publication-type="journal" id="mbo3983-cit-0056">
+<string-name>
+<surname>Yeung</surname>, <given-names>M. K. S.</given-names>
+</string-name>, <string-name>
+<surname>Tegner</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Collins</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Reverse engineering gene networks using singular value decomposition and robust regression</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>99</volume>, <fpage>6163</fpage>&#x02013;<lpage>6168</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.092576199</pub-id>
+<pub-id pub-id-type="pmid">11983907</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0057"><mixed-citation publication-type="journal" id="mbo3983-cit-0057">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Z. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dai</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2014</year>). <article-title>Drivers shaping the diversity and biogeography of total and active bacterial communities in the South China Sea</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>23</volume>, <fpage>2260</fpage>&#x02013;<lpage>2274</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12739</pub-id>
+<pub-id pub-id-type="pmid">24684298</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0058"><mixed-citation publication-type="journal" id="mbo3983-cit-0058">
+<string-name>
+<surname>Zheng</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X. Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deng</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2017</year>). <article-title>The responses and adaptations of microbial communities to salinity in farmland soils: A molecular ecological network analysis</article-title>. <source xml:lang="en">Applied Soil Ecology</source>, <volume>120</volume>, <fpage>239</fpage>&#x02013;<lpage>246</lpage>. <pub-id pub-id-type="doi">10.1016/j.apsoil.2017.08.019</pub-id>
+</mixed-citation></ref><ref id="mbo3983-bib-0059"><mixed-citation publication-type="journal" id="mbo3983-cit-0059">
+<string-name>
+<surname>Zhou</surname>, <given-names>J. Z.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>He</surname>, <given-names>Z. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Functional molecular ecological networks</article-title>. <source xml:lang="en">Mbio</source>, <volume>1</volume>, <elocation-id>e00169&#x02010;10</elocation-id>
+<pub-id pub-id-type="doi">10.1128/mBio.00169-10</pub-id>
+<pub-id pub-id-type="pmid">20941329</pub-id></mixed-citation></ref><ref id="mbo3983-bib-0060"><mixed-citation publication-type="journal" id="mbo3983-cit-0060">
+<string-name>
+<surname>Zhou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>He</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2011</year>). <article-title>Phylogenetic molecular ecological network of soil microbial communities in response to elevated CO<sub>2</sub>
+</article-title>. <source xml:lang="en">MBio</source>, <volume>2</volume>, <elocation-id>e00122&#x02010;11</elocation-id>
+<pub-id pub-id-type="doi">10.1128/mBio.00122-11</pub-id>
+<pub-id pub-id-type="pmid">21791581</pub-id></mixed-citation></ref></ref-list><app-group><app id="mbo3983-app-0001" content-type="Appendix"><label>Appendix 1</label><sec id="mbo3983-sec-0500"><fig fig-type="Figure" xml:lang="en" id="mbo3983-fig-0005" orientation="portrait" position="anchor"><label>Figure A1</label><caption><p>Rarefaction curves in 10 layers</p></caption><graphic id="nlm-graphic-11" xlink:href="MBO3-9-e983-g005"/></fig><table-wrap id="mbo3983-tbl-0005" xml:lang="en" orientation="portrait" position="anchor"><label>Table A1</label><caption><p>The univariate ANOVA based on Shannon and Chao1 indices</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Depth</th><th align="left" valign="top" rowspan="1" colspan="1">Shannon</th><th align="left" valign="top" rowspan="1" colspan="1">Chao1</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">A</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.98&#x000a0;&#x000b1;&#x000a0;0.26</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1015.48&#x000a0;&#x000b1; 96.92</td></tr><tr><td align="left" rowspan="1" colspan="1">B</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.67&#x000a0;&#x000b1;&#x000a0;0.78</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">986.46&#x000a0;&#x000b1;&#x000a0;199.05</td></tr><tr><td align="left" rowspan="1" colspan="1">C</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.83&#x000a0;&#x000b1;&#x000a0;0.79</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1034.79&#x000a0;&#x000b1;&#x000a0;91.86</td></tr><tr><td align="left" rowspan="1" colspan="1">D</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.53&#x000a0;&#x000b1;&#x000a0;0.83</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1026.91&#x000a0;&#x000b1;&#x000a0;109.15</td></tr><tr><td align="left" rowspan="1" colspan="1">E</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.63&#x000a0;&#x000b1;&#x000a0;0.79</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1025.48&#x000a0;&#x000b1;&#x000a0;171.69</td></tr><tr><td align="left" rowspan="1" colspan="1">F</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.60&#x000a0;&#x000b1;&#x000a0;0.60</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1023.90&#x000a0;&#x000b1;&#x000a0;108.78</td></tr><tr><td align="left" rowspan="1" colspan="1">G</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.52&#x000a0;&#x000b1;&#x000a0;0.89</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">984.15&#x000a0;&#x000b1;&#x000a0;123.27</td></tr><tr><td align="left" rowspan="1" colspan="1">H</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.82&#x000a0;&#x000b1;&#x000a0;0.93</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1040.34&#x000a0;&#x000b1;&#x000a0;181.42</td></tr><tr><td align="left" rowspan="1" colspan="1">I</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.58&#x000a0;&#x000b1;&#x000a0;0.93</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1035.21&#x000a0;&#x000b1;&#x000a0;171.58</td></tr><tr><td align="left" rowspan="1" colspan="1">J</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.81&#x000a0;&#x000b1;&#x000a0;0.39</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">1013.16&#x000a0;&#x000b1;&#x000a0;78.05</td></tr></tbody></table><table-wrap-foot id="mbo3983-ntgp-0101"><fn id="mbo3983-note-0101"><p>The values in the table were the mean&#x000a0;&#x000b1;&#x000a0;standard deviation (<italic>SD</italic>) of eight replicates. No significant difference in depth gradient (p&#x000a0;&#x0003e;&#x000a0;.05).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="mbo3983-tbl-0006" xml:lang="en" orientation="portrait" position="anchor"><label>Table A2</label><caption><p>Correlations between environmental variables and key genus obtained by the module hubs along depth gradient by the Mantel test</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Environmental Variable</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>A</p>
+<p>OTU832</p>
+<p>OTU2510</p>
+<p>OTU4954</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>B</p>
+<p>OTU71</p>
+<p>OTU498</p>
+<p>OTU774</p>
+<p>OTU1532</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>C</p>
+<p>OTU650</p>
+<p>OTU1466</p>
+<p>OTU1457</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>D</p>
+<p>OTU723</p>
+<p>OTU967</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>E</p>
+<p>OTU631</p>
+<p>OTU1510</p>
+<p>OTU1853</p>
+<p>OTU4767</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>F</p>
+<p>OTU396</p>
+<p>OTU1362</p>
+<p>OTU1366</p>
+<p>OTU2089</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>G</p>
+<p>OTU316</p>
+<p>OTU1664</p>
+<p>OTU2980</p>
+<p>OTU1853</p>
+<p>OTU2885</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>H</p>
+<p>OTU679</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>I</p>
+<p>OTU15</p>
+<p>OTU156</p>
+<p>OTU570</p>
+<p>OTU408</p>
+<p>OTU2365</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>J</p>
+<p>OTU2930</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">K<sup>+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.4474</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1732</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.2505</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2347</td><td align="char" char="." rowspan="1" colspan="1">0.0621</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0162</td><td align="char" char="." rowspan="1" colspan="1">0.1845</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1926</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2084</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.2024</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ca<sup>2+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1757</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1326</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2785</td><td align="char" char="." rowspan="1" colspan="1">0.1966</td><td align="char" char="." rowspan="1" colspan="1">0.3680</td><td align="char" char="." rowspan="1" colspan="1">0.0851</td><td align="char" char="." rowspan="1" colspan="1">0.4014</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0175</td><td align="char" char="." rowspan="1" colspan="1">0.0853</td><td align="char" char="." rowspan="1" colspan="1">0.1758</td></tr><tr><td align="left" rowspan="1" colspan="1">Na<sup>+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.0859</td><td align="char" char="." rowspan="1" colspan="1">0.1264</td><td align="char" char="." rowspan="1" colspan="1">0.3348</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1997</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0563</td><td align="char" char="." rowspan="1" colspan="1">0.1755</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0877</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0631</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.5248</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.1960</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mg<sup>2+</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.3225</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1878</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0016</td><td align="char" char="." rowspan="1" colspan="1">0.2329</td><td align="char" char="." rowspan="1" colspan="1">0.1755</td><td align="char" char="." rowspan="1" colspan="1">0.1049</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0454</td><td align="char" char="." rowspan="1" colspan="1">0.0425</td><td align="char" char="." rowspan="1" colspan="1">0.2017</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2367</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-21"><mml:msubsup><mml:mtext>NH</mml:mtext><mml:mn>4</mml:mn><mml:mo>+</mml:mo></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1156</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0810</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0673</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2864</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2065</td><td align="char" char="." rowspan="1" colspan="1">0.0586</td><td align="char" char="." rowspan="1" colspan="1">0.2035</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;</td><td align="char" char="." rowspan="1" colspan="1">0.0185</td><td align="char" char="." rowspan="1" colspan="1">0.2037</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-22"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1066</td><td align="char" char="." rowspan="1" colspan="1">0.2282</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0259</td><td align="char" char="." rowspan="1" colspan="1">0.0508</td><td align="char" char="." rowspan="1" colspan="1">0.0905</td><td align="char" char="." rowspan="1" colspan="1">0.1427</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;</td><td align="char" char="." rowspan="1" colspan="1">0.0182</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0544</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1956</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-23"><mml:msubsup><mml:mtext>NO</mml:mtext><mml:mn>3</mml:mn><mml:mo>-</mml:mo></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0288</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1500</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;</td><td align="char" char="." rowspan="1" colspan="1">0.3382</td><td align="char" char="." rowspan="1" colspan="1">0.1822</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0630</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.3516</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>0.3547</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0001</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1995</td></tr><tr><td align="left" rowspan="1" colspan="1">Cl<sup>&#x02212;</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">0.0520</td><td align="char" char="." rowspan="1" colspan="1">0.0577</td><td align="char" char="." rowspan="1" colspan="1">0.3111</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1237</td><td align="char" char="." rowspan="1" colspan="1">0.1017</td><td align="char" char="." rowspan="1" colspan="1">0.0973</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1182</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1553</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.5618</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1395</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<mml:math id="nlm-math-24"><mml:msubsup><mml:mtext>SO</mml:mtext><mml:mn>4</mml:mn><mml:mrow><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mrow></mml:msubsup></mml:math>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0939</td><td align="char" char="." rowspan="1" colspan="1">0.1519</td><td align="char" char="." rowspan="1" colspan="1">0.1277</td><td align="char" char="." rowspan="1" colspan="1">0.1251</td><td align="char" char="." rowspan="1" colspan="1">0.2083</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0863</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0776</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0644</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.3232</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.2408</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">TOC</td><td align="char" char="." rowspan="1" colspan="1">0.0596</td><td align="char" char="." rowspan="1" colspan="1">0.2642</td><td align="char" char="." rowspan="1" colspan="1">0.0393</td><td align="char" char="." rowspan="1" colspan="1">0.1997</td><td align="char" char="." rowspan="1" colspan="1">0.1807</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0481</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.4587</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2181</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0410</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1434</td></tr><tr><td align="left" rowspan="1" colspan="1">TN</td><td align="char" char="." rowspan="1" colspan="1">0.07764</td><td align="char" char="." rowspan="1" colspan="1">0.2453</td><td align="char" char="." rowspan="1" colspan="1">0.1979</td><td align="char" char="." rowspan="1" colspan="1">0.1101</td><td align="char" char="." rowspan="1" colspan="1">0.0962</td><td align="char" char="." rowspan="1" colspan="1">0.0132</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.149500</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0903</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0952</td></tr><tr><td align="left" rowspan="1" colspan="1">pH</td><td align="char" char="." rowspan="1" colspan="1">0.1327</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0847</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0094</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.2744</td><td align="char" char="." rowspan="1" colspan="1">0.1294</td><td align="char" char="." rowspan="1" colspan="1">0.0678</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1846</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0379</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0903</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0141</td></tr><tr><td align="left" rowspan="1" colspan="1">Salinity</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0306</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0493</td><td align="char" char="." rowspan="1" colspan="1">0.1228</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0614</td><td align="char" char="." rowspan="1" colspan="1">0.2043</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.0623</td><td align="char" char="." rowspan="1" colspan="1">0.0147</td><td align="char" char="." rowspan="1" colspan="1">0.1850</td><td align="char" char="." rowspan="1" colspan="1">
+<bold>&#x02212;0.5251</bold>
+<xref ref-type="fn" rid="mbo3983-note-0102">
+<bold>*</bold>
+</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.1903</td></tr></tbody></table><table-wrap-foot id="mbo3983-ntgp-0102"><fn id="mbo3983-note-0102"><label>*</label><p>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05</p></fn><fn id="mbo3983-note-0103"><label>**</label><p>
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></app></app-group></back></article>

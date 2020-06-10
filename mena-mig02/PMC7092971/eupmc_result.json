@@ -1,0 +1,442 @@
+{
+  "id": [
+    "32208437"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32208437"
+  ],
+  "pmcid": [
+    "PMC7092971"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0230026"
+  ],
+  "title": [
+    "Optical induction of autophagy via Transcription factor EB (TFEB) reduces pathological tau in neurons."
+  ],
+  "authorString": [
+    "Binder JL, Chander P, Deretic V, Weick JP, Bhaskar K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Binder JL"
+          ],
+          "firstName": [
+            "Jessica L"
+          ],
+          "lastName": [
+            "Binder"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Genetics and Microbiology, University of New Mexico Health Sciences Center, Albuquerque, New Mexico, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chander P"
+          ],
+          "firstName": [
+            "Praveen"
+          ],
+          "lastName": [
+            "Chander"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosciences, University of New Mexico Health Sciences Center, Albuquerque, New Mexico, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deretic V"
+          ],
+          "firstName": [
+            "Vojo"
+          ],
+          "lastName": [
+            "Deretic"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3624-5208",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Genetics and Microbiology, University of New Mexico Health Sciences Center, Albuquerque, New Mexico, United States of America.",
+                "Autophagy Inflammation and Metabolism Center of Biomedical Research Excellence (CoBRE), University of New Mexico Health Sciences Center, Albuquerque, New Mexico, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Weick JP"
+          ],
+          "firstName": [
+            "Jason P"
+          ],
+          "lastName": [
+            "Weick"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Neurosciences, University of New Mexico Health Sciences Center, Albuquerque, New Mexico, United States of America."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhaskar K"
+          ],
+          "firstName": [
+            "Kiran"
+          ],
+          "lastName": [
+            "Bhaskar"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6064-8106",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Molecular Genetics and Microbiology, University of New Mexico Health Sciences Center, Albuquerque, New Mexico, United States of America."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3624-5208",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6064-8106",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2918449"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0230026"
+  ],
+  "abstractText": [
+    "Pathological accumulation of microtubule associated protein tau in neurons is a major neuropathological hallmark of Alzheimer's disease (AD) and related tauopathies. Several attempts have been made to promote clearance of pathological tau (p-Tau) from neurons. Transcription factor EB (TFEB) has shown to clear p-Tau from neurons via autophagy. However, sustained TFEB activation and autophagy can create burden on cellular bioenergetics and can be deleterious. Here, we modified previously described two-plasmid systems of Light Activated Protein (LAP) from bacterial transcription factor-EL222 and Light Responsive Element (LRE) to encode TFEB. Upon blue-light (465 nm) illumination, the conformation changes in LAP induced LRE-driven expression of TFEB, its nuclear entry, TFEB-mediated expression of autophagy-lysosomal genes and clearance of p-Tau from neuronal cells and AD patient-derived human iPSC-neurons. Turning the blue-light off reversed the expression of TFEB-target genes and attenuated p-Tau clearance. Together, these results suggest that optically regulated TFEB expression unlocks the potential of opto-therapeutics to treat AD and other dementias."
+  ],
+  "affiliation": [
+    "Department of Molecular Genetics and Microbiology, University of New Mexico Health Sciences Center, Albuquerque, New Mexico, United States of America."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230026"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7092971"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7092971?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0230026"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR75374"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "igsr",
+        "nct",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-03-26"
+  ],
+  "firstIndexDate": [
+    "2020-03-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-04-03"
+  ],
+  "dateOfRevision": [
+    "2020-04-02"
+  ],
+  "electronicPublicationDate": [
+    "2020-03-24"
+  ],
+  "firstPublicationDate": [
+    "2020-03-24"
+  ]
+}

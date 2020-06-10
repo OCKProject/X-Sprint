@@ -1,0 +1,411 @@
+{
+  "id": [
+    "32042281"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32042281"
+  ],
+  "pmcid": [
+    "PMC6998227"
+  ],
+  "doi": [
+    "10.1186/s11658-020-0200-y"
+  ],
+  "title": [
+    "Deficiency of αII-spectrin affects endothelial cell-matrix contact and migration leading to impairment of angiogenesis in vitro."
+  ],
+  "authorString": [
+    "Machnicka B, Ponceau A, Picot J, Colin Y, Lecomte MC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Machnicka B"
+          ],
+          "firstName": [
+            "Beata"
+          ],
+          "lastName": [
+            "Machnicka"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9664-8252",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "1University of Zielona Góra, Institute of Biological Sciences, Zielona Góra, Poland."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ponceau A"
+          ],
+          "firstName": [
+            "Aurélie"
+          ],
+          "lastName": [
+            "Ponceau"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2Biologie Intégrée du Globule Rouge, UMR_S1134, BIGR, INSERM, Université de Paris, F-75015 Paris, France.",
+                "3Institut National de la Transfusion Sanguine, F-75015 Paris, France.",
+                "Laboratoire d'Excellence GR-Ex, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Picot J"
+          ],
+          "firstName": [
+            "Julien"
+          ],
+          "lastName": [
+            "Picot"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2Biologie Intégrée du Globule Rouge, UMR_S1134, BIGR, INSERM, Université de Paris, F-75015 Paris, France.",
+                "3Institut National de la Transfusion Sanguine, F-75015 Paris, France.",
+                "Laboratoire d'Excellence GR-Ex, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Colin Y"
+          ],
+          "firstName": [
+            "Yves"
+          ],
+          "lastName": [
+            "Colin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2Biologie Intégrée du Globule Rouge, UMR_S1134, BIGR, INSERM, Université de Paris, F-75015 Paris, France.",
+                "3Institut National de la Transfusion Sanguine, F-75015 Paris, France.",
+                "Laboratoire d'Excellence GR-Ex, Paris, France."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lecomte MC"
+          ],
+          "firstName": [
+            "Marie-Christine"
+          ],
+          "lastName": [
+            "Lecomte"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "2Biologie Intégrée du Globule Rouge, UMR_S1134, BIGR, INSERM, Université de Paris, F-75015 Paris, France.",
+                "3Institut National de la Transfusion Sanguine, F-75015 Paris, France.",
+                "Laboratoire d'Excellence GR-Ex, Paris, France."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9664-8252",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2905509"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cellular & molecular biology letters"
+          ],
+          "ISOAbbreviation": [
+            "Cell. Mol. Biol. Lett."
+          ],
+          "medlineAbbreviation": [
+            "Cell Mol Biol Lett"
+          ],
+          "NLMid": [
+            "9607427"
+          ],
+          "ISSN": [
+            "1425-8153"
+          ],
+          "ESSN": [
+            "1689-1392"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "Background:Precise coordination of cytoskeletal components and dynamic control of cell adhesion and migration are required for crucial cell processes such as differentiation and morphogenesis. We investigated the potential involvement of αII-spectrin, a ubiquitous scaffolding element of the membrane skeleton, in the adhesion and angiogenesis mechanism. Methods:The cell models were primary human umbilical vein endothelial cells (HUVECs) and a human dermal microvascular endothelial cell line (HMEC-1). After siRNA- and shRNA-mediated knockdown of αII-spectrin, we assessed its expression and that of its partners and adhesion proteins using western blotting. The phenotypes of the control and spectrin-depleted cells were examined using immunofluorescence and video microscopy. Capillary tube formation was assessed using the thick gel Matrigel matrix-based method and a microscope equipped with a thermostatic chamber and a Nikon Biostation System camera. Results:Knockdown of αII-spectrin leads to: modified cell shape; actin cytoskeleton organization with the presence of peripheral actin patches; and decreased formation of stress fibers. Spectrin deficiency affects cell adhesion on laminin and fibronectin and cell motility. This included modification of the localization of adhesion molecules, such as αVβ3- and α5-integrins, and organization of adhesion structures, such as focal points. Deficiency of αII-spectrin can also affect the complex mechanism of in vitro capillary tube formation, as demonstrated in a model of angiogenesis. Live imaging revealed that impairment of capillary tube assembly was mainly associated with a significant decrease in cell projection length and stability. αII-spectrin depletion is also associated with significantly decreased expression of three proteins involved in capillary tube formation and assembly: VE-cadherin, MCAM and β3-integrin. Conclusion:Our data confirm the role of αII-spectrin in the control of cell adhesion and spreading. Moreover, our findings further support the participation of αII-spectrin in capillary tube formation in vitro through control of adhesion molecules, such as integrins. This indicates a new function of αII-spectrin in angiogenesis."
+  ],
+  "affiliation": [
+    "1University of Zielona Góra, Institute of Biological Sciences, Zielona Góra, Poland."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migration",
+        "Actin cytoskeleton",
+        "Αii-spectrin",
+        "Capillary Tube Assembly",
+        "Endothelial Cells, Adhesion"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11658-020-0200-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6998227"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6998227?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s11658-020-0200-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-12"
+  ],
+  "firstIndexDate": [
+    "2020-02-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-02-16"
+  ],
+  "dateOfRevision": [
+    "2020-02-14"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-03"
+  ],
+  "firstPublicationDate": [
+    "2020-02-03"
+  ]
+}

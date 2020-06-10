@@ -1,0 +1,792 @@
+{
+  "id": [
+    "30730827"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30730827"
+  ],
+  "pmcid": [
+    "PMC6433011"
+  ],
+  "doi": [
+    "10.3201/eid2504.180779"
+  ],
+  "title": [
+    "Human-Origin Influenza A(H3N2) Reassortant Viruses in Swine, Southeast Mexico."
+  ],
+  "authorString": [
+    "Nelson MI, Souza CK, Trovão NS, Diaz A, Mena I, Rovira A, Vincent AL, Torremorell M, Marthaler D, Culhane MR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nelson MI"
+          ],
+          "firstName": [
+            "Martha I"
+          ],
+          "lastName": [
+            "Nelson"
+          ],
+          "initials": [
+            "MI"
+          ]
+        },
+        {
+          "fullName": [
+            "Souza CK"
+          ],
+          "firstName": [
+            "Carine K"
+          ],
+          "lastName": [
+            "Souza"
+          ],
+          "initials": [
+            "CK"
+          ]
+        },
+        {
+          "fullName": [
+            "Trovão NS"
+          ],
+          "firstName": [
+            "Nídia S"
+          ],
+          "lastName": [
+            "Trovão"
+          ],
+          "initials": [
+            "NS"
+          ]
+        },
+        {
+          "fullName": [
+            "Diaz A"
+          ],
+          "firstName": [
+            "Andres"
+          ],
+          "lastName": [
+            "Diaz"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Mena I"
+          ],
+          "firstName": [
+            "Ignacio"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5464-7086",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rovira A"
+          ],
+          "firstName": [
+            "Albert"
+          ],
+          "lastName": [
+            "Rovira"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Vincent AL"
+          ],
+          "firstName": [
+            "Amy L"
+          ],
+          "lastName": [
+            "Vincent"
+          ],
+          "initials": [
+            "AL"
+          ]
+        },
+        {
+          "fullName": [
+            "Torremorell M"
+          ],
+          "firstName": [
+            "Montserrat"
+          ],
+          "lastName": [
+            "Torremorell"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Marthaler D"
+          ],
+          "firstName": [
+            "Douglas"
+          ],
+          "lastName": [
+            "Marthaler"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Culhane MR"
+          ],
+          "firstName": [
+            "Marie R"
+          ],
+          "lastName": [
+            "Culhane"
+          ],
+          "initials": [
+            "MR"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5464-7086",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2774191"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Emerging Infect. Dis."
+          ],
+          "medlineAbbreviation": [
+            "Emerg Infect Dis"
+          ],
+          "NLMid": [
+            "9508155"
+          ],
+          "ISSN": [
+            "1080-6059"
+          ],
+          "ESSN": [
+            "1080-6059"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "691-700"
+  ],
+  "abstractText": [
+    "The genetic diversity of influenza A viruses circulating in swine in Mexico complicates control efforts in animals and presents a threat to humans, as shown by influenza A(H1N1)pdm09 virus. To describe evolution of swine influenza A viruses in Mexico and evaluate strains for vaccine development, we sequenced the genomes of 59 viruses and performed antigenic cartography on strains from 5 regions. We found that genetic and antigenic diversity were particularly high in southeast Mexico because of repeated introductions of viruses from humans and swine in other regions in Mexico. We identified novel reassortant H3N2 viruses with genome segments derived from 2 different viruses that were independently introduced from humans into swine: pandemic H1N1 viruses and seasonal H3N2 viruses. The Mexico swine viruses are antigenically distinct from US swine lineages. Protection against these viruses is unlikely to be afforded by US virus vaccines and would require development of new vaccines specifically targeting these diverse strains."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HHSN272201400008C"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Swine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reassortant Viruses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Orthomyxoviridae Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Influenza Vaccines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antigens, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mexico"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Influenza, Human"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Influenza A Virus, H3N2 Subtype"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Influenza A Virus, H1N1 Subtype"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Viruses",
+        "Swine",
+        "Phylogenetic analysis",
+        "Vaccine",
+        "Influenza",
+        "Human origin",
+        "Influenza Virus",
+        "Phylogeography",
+        "Reassortment",
+        "Influenza A Virus",
+        "Pandemic",
+        "Mexico",
+        "Zoonoses",
+        "Respiratory Infections",
+        "Antigenic Cartography",
+        "Reverse Zoonosis",
+        "Reassortant Influenza Viruses"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antigens, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Influenza Vaccines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3201/eid2504.180779"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6433011"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6433011?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3201/eid2504.180779"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-12-24"
+  ],
+  "dateOfCreation": [
+    "2019-02-08"
+  ],
+  "firstIndexDate": [
+    "2019-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2020-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-17"
+  ],
+  "firstPublicationDate": [
+    "2019-04-17"
+  ]
+}

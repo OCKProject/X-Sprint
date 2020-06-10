@@ -1,0 +1,803 @@
+{
+  "id": [
+    "30601698"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30601698"
+  ],
+  "pmcid": [
+    "PMC6589698"
+  ],
+  "doi": [
+    "10.1091/mbc.e18-06-0398"
+  ],
+  "title": [
+    "Tail domains of myosin-1e regulate phosphatidylinositol signaling and F-actin polymerization at the ventral layer of podosomes."
+  ],
+  "authorString": [
+    "Zhang Y, Cao F, Zhou Y, Feng Z, Sit B, Krendel M, Yu CH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yage"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, Faculty of Medicine, University of Hong Kong, Hong Kong."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cao F"
+          ],
+          "firstName": [
+            "Fakun"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0542-4374",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, Faculty of Medicine, University of Hong Kong, Hong Kong."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Y"
+          ],
+          "firstName": [
+            "Yuhuan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, Faculty of Medicine, University of Hong Kong, Hong Kong."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng Z"
+          ],
+          "firstName": [
+            "Zhen"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, Faculty of Medicine, University of Hong Kong, Hong Kong."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sit B"
+          ],
+          "firstName": [
+            "Brian"
+          ],
+          "lastName": [
+            "Sit"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, Faculty of Medicine, University of Hong Kong, Hong Kong.",
+                "Randall Division of Cell and Molecular Biophysics, Faculty of Life Sciences and Medicine, King's College London, London WC2R 2LS, United Kingdom."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krendel M"
+          ],
+          "firstName": [
+            "Mira"
+          ],
+          "lastName": [
+            "Krendel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "SUNY Upstate Medical University, Syracuse, NY 13210."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu CH"
+          ],
+          "firstName": [
+            "Cheng-Han"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8821-8877",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "School of Biomedical Sciences, Faculty of Medicine, University of Hong Kong, Hong Kong."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0542-4374",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8821-8877",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "30"
+      ],
+      "journalIssueId": [
+        "2786890"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular biology of the cell"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Biol. Cell"
+          ],
+          "medlineAbbreviation": [
+            "Mol Biol Cell"
+          ],
+          "NLMid": [
+            "9201390"
+          ],
+          "ISSN": [
+            "1059-1524"
+          ],
+          "ESSN": [
+            "1939-4586"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "622-635"
+  ],
+  "abstractText": [
+    "During podosome formation, distinct phosphatidylinositol 3,4,5-trisphosphate lipid (PI(3,4,5)P3) production and F-actin polymerization take place at integrin-mediated adhesions. Membrane-associated actin regulation factors, such as myosin-1, serve as key molecules to link phosphatidylinositol signals to podosome assembly. Here, we report that long-tailed myosin-1e (Myo1e) is enriched at the ventral layer of the podosome core in a PI(3,4,5)P3-dependent manner. The combination of TH1 and TH2 (TH12) of Myo1e tail domains contains the essential motif for PI(3,4,5)P3-dependent membrane association and ventral localization at the podosome. TH12 KR2A (K772A and R782A) becomes dissociated from the plasma membrane. While F-actin polymerizations are initialized from the ventral layer of the podosome, TH12 precedes the recruitment of N-WASP and Arp2/3 in the initial phase of podosome formation. Overexpression of TH12, not TH12 KR2A, impedes PI(3,4,5)P3 signaling, restrains F-actin polymerization, and inhibits podosome formation. TH12 also suppresses gelatin degradation and migration speed of invadopodia-forming A375 melanoma cells. Thus, TH12 domain of Myo1e serves as a regulatory component to connect phosphatidylinositol signaling to F-actin polymerization at the podosome."
+  ],
+  "affiliation": [
+    "School of Biomedical Sciences, Faculty of Medicine, University of Hong Kong, Hong Kong."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 DK083345"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Membrane"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myosins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphatidylinositols"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphatidylinositol Phosphates"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gelatin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymerization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RAW 264.7 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Podosomes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Domains"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "phosphatidylinositol 3,4,5-triphosphate"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Gelatin"
+          ],
+          "registryNumber": [
+            "9000-70-8"
+          ]
+        },
+        {
+          "name": [
+            "Phosphatidylinositols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Actins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Phosphatidylinositol Phosphates"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Myosins"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.E18-06-0398"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6589698"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6589698?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1091/mbc.e18-06-0398"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-06-25"
+  ],
+  "dateOfCreation": [
+    "2019-01-03"
+  ],
+  "firstIndexDate": [
+    "2019-01-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-12"
+  ],
+  "dateOfRevision": [
+    "2019-07-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-02"
+  ],
+  "firstPublicationDate": [
+    "2019-01-02"
+  ]
+}
