@@ -1,0 +1,451 @@
+{
+  "id": [
+    "32059473"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32059473"
+  ],
+  "pmcid": [
+    "PMC7072722"
+  ],
+  "doi": [
+    "10.3390/cancers12020422"
+  ],
+  "title": [
+    "MAL2-Induced Actin-Based Protrusion Formation is Anti-Oncogenic in Hepatocellular Carcinoma."
+  ],
+  "authorString": [
+    "López-Coral A, Del Vecchio GJ, Chahine JJ, Kallakury BV, Tuma PL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "López-Coral A"
+          ],
+          "firstName": [
+            "Alfonso"
+          ],
+          "lastName": [
+            "López-Coral"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8647-9590",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Del Vecchio GJ"
+          ],
+          "firstName": [
+            "Gianna-Jade"
+          ],
+          "lastName": [
+            "Del Vecchio"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0791-402X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chahine JJ"
+          ],
+          "firstName": [
+            "Joeffrey J"
+          ],
+          "lastName": [
+            "Chahine"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, The Catholic University of America, Washington, DC 20064, USA.",
+                "Department of Pathology, MedStar Georgetown University Hospital, Washington, DC 20007, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kallakury BV"
+          ],
+          "firstName": [
+            "Bhaskar V"
+          ],
+          "lastName": [
+            "Kallakury"
+          ],
+          "initials": [
+            "BV"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Pathology, MedStar Georgetown University Hospital, Washington, DC 20007, USA."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tuma PL"
+          ],
+          "firstName": [
+            "Pamela L"
+          ],
+          "lastName": [
+            "Tuma"
+          ],
+          "initials": [
+            "PL"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8647-9590",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0791-402X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2909799"
+      ],
+      "dateOfPublication": [
+        "2020 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Recent studies report that the polarity gene myelin and lymphocyte protein 2 (MAL2), is overexpressed in multiple human carcinomas largely at the transcript level. Because chromosome 8q24 amplification (where MAL2 resides) is associated with hepatocellular- and cholangio-carcinomas, we examined MAL2 protein expression in these human carcinoma lesions and adjacent benign tissue using immunohistochemistry. For comparison, we analyzed renal cell carcinomas that are not associated with chromosome 8q24 amplification. Surprisingly, we found that MAL2 protein levels were decreased in the malignant tissues compared to benign in all three carcinomas, suggesting MAL2 expression may be anti-oncogenic. Consistent with this conclusion, we determined that endogenously overexpressed MAL2 in HCC-derived Hep3B cells or exogenously expressed MAL2 in hepatoma-derived Clone 9 cells (that lack endogenous MAL2) promoted actin-based protrusion formation with a reciprocal decrease in invadopodia. MAL2 overexpression also led to decreased cell migration, invasion and proliferation (to a more modest extent) while loss of MAL2 expression reversed the phenotypes. Mutational analysis revealed that a putative Ena/VASP homology 1 recognition site confers the MAL2-phenotype suggesting its role in tumor suppression involves actin remodeling. To reconcile decreased MAL2 protein expression in human carcinomas and its anti-oncogenic phenotypes with increased transcript levels, we propose a transcriptional regulatory model for MAL2 transient overexpression."
+  ],
+  "affiliation": [
+    "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "AA017626"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AA017626"
+          ],
+          "agency": [
+            "NIAAA NIH HHS"
+          ],
+          "acronym": [
+            "AA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DK082890"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Actin",
+        "Hepatocellular carcinoma",
+        "Tumor suppressor",
+        "Cholangiocarcinoma",
+        "Mal2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers12020422"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7072722"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7072722?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers12020422"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-02-16"
+  ],
+  "firstIndexDate": [
+    "2020-02-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-03-23"
+  ],
+  "dateOfRevision": [
+    "2020-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-02-12"
+  ],
+  "firstPublicationDate": [
+    "2020-02-12"
+  ]
+}

@@ -1,0 +1,5047 @@
+[
+  {
+    "id": [
+      "32391788"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "32391788"
+    ],
+    "pmcid": [
+      "PMC7239657"
+    ],
+    "doi": [
+      "10.7554/elife.55351"
+    ],
+    "title": [
+      "Loss of Ena/VASP interferes with lamellipodium architecture, motility and integrin-dependent adhesion."
+    ],
+    "authorString": [
+      "Damiano-Guercio J, Kurzawa L, Mueller J, Dimchev G, Schaks M, Nemethova M, Pokrant T, Brühmann S, Linkner J, Blanchoin L, Sixt M, Rottner K, Faix J."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Damiano-Guercio J"
+            ],
+            "firstName": [
+              "Julia"
+            ],
+            "lastName": [
+              "Damiano-Guercio"
+            ],
+            "initials": [
+              "J"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-7948-9667",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute for Biophysical Chemistry, Hannover Medical School, Hannover, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Kurzawa L"
+            ],
+            "firstName": [
+              "Laëtitia"
+            ],
+            "lastName": [
+              "Kurzawa"
+            ],
+            "initials": [
+              "L"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "CytoMorphoLab, Laboratoire de Physiologie cellulaire et Végétale, Interdisciplinary ResearchInstitute of Grenoble, CEA, CNRS, INRA, Grenoble-Alpes University, Grenoble, France.",
+                  "CytomorphoLab, Hôpital Saint-Louis, Institut Universitaire d'Hematologie, UMRS1160, INSERM/AP-HP/UniversitéParis Diderot, Paris, France."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Mueller J"
+            ],
+            "firstName": [
+              "Jan"
+            ],
+            "lastName": [
+              "Mueller"
+            ],
+            "initials": [
+              "J"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute of Science and Technology Austria (IST Austria), Klosterneuburg, Austria."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Dimchev G"
+            ],
+            "firstName": [
+              "Georgi"
+            ],
+            "lastName": [
+              "Dimchev"
+            ],
+            "initials": [
+              "G"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0001-8370-6161",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Division of Molecular Cell Biology, Zoological Institute, Technical University Braunschweig, Braunschweig, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Schaks M"
+            ],
+            "firstName": [
+              "Matthias"
+            ],
+            "lastName": [
+              "Schaks"
+            ],
+            "initials": [
+              "M"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0001-6362-7909",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Division of Molecular Cell Biology, Zoological Institute, Technical University Braunschweig, Braunschweig, Germany.",
+                  "Molecular Cell Biology Group, Helmholtz Centre for Infection Research, Braunschweig, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Nemethova M"
+            ],
+            "firstName": [
+              "Maria"
+            ],
+            "lastName": [
+              "Nemethova"
+            ],
+            "initials": [
+              "M"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute of Science and Technology Austria (IST Austria), Klosterneuburg, Austria."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Pokrant T"
+            ],
+            "firstName": [
+              "Thomas"
+            ],
+            "lastName": [
+              "Pokrant"
+            ],
+            "initials": [
+              "T"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute for Biophysical Chemistry, Hannover Medical School, Hannover, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Brühmann S"
+            ],
+            "firstName": [
+              "Stefan"
+            ],
+            "lastName": [
+              "Brühmann"
+            ],
+            "initials": [
+              "S"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute for Biophysical Chemistry, Hannover Medical School, Hannover, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Linkner J"
+            ],
+            "firstName": [
+              "Joern"
+            ],
+            "lastName": [
+              "Linkner"
+            ],
+            "initials": [
+              "J"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute for Biophysical Chemistry, Hannover Medical School, Hannover, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Blanchoin L"
+            ],
+            "firstName": [
+              "Laurent"
+            ],
+            "lastName": [
+              "Blanchoin"
+            ],
+            "initials": [
+              "L"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0001-8146-9254",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "CytoMorphoLab, Laboratoire de Physiologie cellulaire et Végétale, Interdisciplinary ResearchInstitute of Grenoble, CEA, CNRS, INRA, Grenoble-Alpes University, Grenoble, France.",
+                  "CytomorphoLab, Hôpital Saint-Louis, Institut Universitaire d'Hematologie, UMRS1160, INSERM/AP-HP/UniversitéParis Diderot, Paris, France."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Sixt M"
+            ],
+            "firstName": [
+              "Michael"
+            ],
+            "lastName": [
+              "Sixt"
+            ],
+            "initials": [
+              "M"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-6620-9179",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute of Science and Technology Austria (IST Austria), Klosterneuburg, Austria."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Rottner K"
+            ],
+            "firstName": [
+              "Klemens"
+            ],
+            "lastName": [
+              "Rottner"
+            ],
+            "initials": [
+              "K"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0003-4244-4198",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Division of Molecular Cell Biology, Zoological Institute, Technical University Braunschweig, Braunschweig, Germany.",
+                  "Molecular Cell Biology Group, Helmholtz Centre for Infection Research, Braunschweig, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Faix J"
+            ],
+            "firstName": [
+              "Jan"
+            ],
+            "lastName": [
+              "Faix"
+            ],
+            "initials": [
+              "J"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0003-1803-9192",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Institute for Biophysical Chemistry, Hannover Medical School, Hannover, Germany."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-7948-9667",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0001-8370-6161",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0001-6362-7909",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0001-8146-9254",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0002-6620-9179",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0003-4244-4198",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0003-1803-9192",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "supporting_data",
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "volume": [
+          "9"
+        ],
+        "journalIssueId": [
+          "2948877"
+        ],
+        "dateOfPublication": [
+          "2020 May"
+        ],
+        "monthOfPublication": [
+          "5"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-05-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "eLife"
+            ],
+            "ISOAbbreviation": [
+              "Elife"
+            ],
+            "medlineAbbreviation": [
+              "Elife"
+            ],
+            "NLMid": [
+              "101579614"
+            ],
+            "ISSN": [
+              "2050-084X"
+            ],
+            "ESSN": [
+              "2050-084X"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "abstractText": [
+      "Cell migration entails networks and bundles of actin filaments termed lamellipodia and microspikes or filopodia, respectively, as well as focal adhesions, all of which recruit Ena/VASP family members hitherto thought to antagonize efficient cell motility. However, we find these proteins to act as positive regulators of migration in different murine cell lines. CRISPR/Cas9-mediated loss of Ena/VASP proteins reduced lamellipodial actin assembly and perturbed lamellipodial architecture, as evidenced by changed network geometry as well as reduction of filament length and number that was accompanied by abnormal Arp2/3 complex and heterodimeric capping protein accumulation. Loss of Ena/VASP function also abolished the formation of microspikes normally embedded in lamellipodia, but not of filopodia capable of emanating without lamellipodia. Ena/VASP-deficiency also impaired integrin-mediated adhesion accompanied by reduced traction forces exerted through these structures. Our data thus uncover novel Ena/VASP functions of these actin polymerases that are fully consistent with their promotion of cell migration."
+    ],
+    "affiliation": [
+      "Institute for Biophysical Chemistry, Hannover Medical School, Hannover, Germany."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "grantsList": [
+      {
+        "grant": [
+          {
+            "grantId": [
+              "GRK2223/1"
+            ],
+            "agency": [
+              "Technische Universität Braunschweig"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "AAA 741773"
+            ],
+            "agency": [
+              "European Research Council"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "724373"
+            ],
+            "agency": [
+              "European Research Council"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "CoG 724373"
+            ],
+            "agency": [
+              "European Research Council"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "FA 330/11-1"
+            ],
+            "agency": [
+              "Deutsche Forschungsgemeinschaft"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "RO2414/5-1"
+            ],
+            "agency": [
+              "Deutsche Forschungsgemeinschaft"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "741773"
+            ],
+            "agency": [
+              "European Research Council"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          }
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Cell biology",
+          "Mouse",
+          "Cell adhesion",
+          "lamellipodia",
+          "cell migration",
+          "Filopodia",
+          "Microspikes",
+          "Ena/vasp Proteins"
+        ]
+      }
+    ],
+    "subsetList": [
+      {
+        "subset": [
+          {
+            "code": [
+              "IM"
+            ],
+            "name": [
+              "Index Medicus"
+            ]
+          }
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.7554/eLife.55351"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7239657"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7239657?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.7554/elife.55351"
+            ]
+          }
+        ]
+      }
+    ],
+    "commentCorrectionList": [
+      {
+        "commentCorrection": [
+          {
+            "id": [
+              "PPR110624"
+            ],
+            "source": [
+              "PPR"
+            ],
+            "type": [
+              "Preprint in"
+            ],
+            "note": [
+              "Link created based on a title-first author match"
+            ],
+            "orderIn": [
+              "10002"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "Y"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "Y"
+    ],
+    "hasReferences": [
+      "N"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "Y"
+    ],
+    "tmAccessionTypeList": [
+      {
+        "accessionType": [
+          "doi"
+        ]
+      }
+    ],
+    "dateOfCreation": [
+      "2020-05-12"
+    ],
+    "firstIndexDate": [
+      "2020-05-12"
+    ],
+    "fullTextReceivedDate": [
+      "2020-05-24"
+    ],
+    "dateOfRevision": [
+      "2020-05-23"
+    ],
+    "electronicPublicationDate": [
+      "2020-05-11"
+    ],
+    "firstPublicationDate": [
+      "2020-05-11"
+    ]
+  },
+  {
+    "id": [
+      "31924196"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "31924196"
+    ],
+    "pmcid": [
+      "PMC6954582"
+    ],
+    "doi": [
+      "10.1186/s12889-020-8155-5"
+    ],
+    "title": [
+      "SALaMA study protocol: a mixed methods study to explore mental health and psychosocial support for conflict-affected youth in Detroit, Michigan."
+    ],
+    "authorString": [
+      "Stark L, Robinson MV, Seff I, Hassan W, Allaf C."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Stark L"
+            ],
+            "firstName": [
+              "Lindsay"
+            ],
+            "lastName": [
+              "Stark"
+            ],
+            "initials": [
+              "L"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-8775-9735",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Brown School, Washington University in St. Louis, Campus Box 1196, One Brookings Drive, St. Louis, MO, 63130, USA. lindsaystark@wustl.edu."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Robinson MV"
+            ],
+            "firstName": [
+              "Mackenzie V"
+            ],
+            "lastName": [
+              "Robinson"
+            ],
+            "initials": [
+              "MV"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Brown School, Washington University in St. Louis, Campus Box 1196, One Brookings Drive, St. Louis, MO, 63130, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Seff I"
+            ],
+            "firstName": [
+              "Ilana"
+            ],
+            "lastName": [
+              "Seff"
+            ],
+            "initials": [
+              "I"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Mailman School of Public Health, Columbia University, 722 West 168th St., New York, NY, 10032, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Hassan W"
+            ],
+            "firstName": [
+              "Wafa"
+            ],
+            "lastName": [
+              "Hassan"
+            ],
+            "initials": [
+              "W"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Global Educational Excellence, 2455 S. Industrial Hwy, Ann Arbor, MI, 48104, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Allaf C"
+            ],
+            "firstName": [
+              "Carine"
+            ],
+            "lastName": [
+              "Allaf"
+            ],
+            "initials": [
+              "C"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Qatar Foundation International, 1225 New York Avenue NW, Suite 500, Washington, DC, 20005, USA."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-8775-9735",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "1"
+        ],
+        "volume": [
+          "20"
+        ],
+        "journalIssueId": [
+          "2897068"
+        ],
+        "dateOfPublication": [
+          "2020 Jan"
+        ],
+        "monthOfPublication": [
+          "1"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "BMC public health"
+            ],
+            "ISOAbbreviation": [
+              "BMC Public Health"
+            ],
+            "medlineAbbreviation": [
+              "BMC Public Health"
+            ],
+            "NLMid": [
+              "100968562"
+            ],
+            "ISSN": [
+              "1471-2458"
+            ],
+            "ESSN": [
+              "1471-2458"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "pageInfo": [
+      "38"
+    ],
+    "abstractText": [
+      "BACKGROUND:Families resettling to the U.S. from conflict-affected countries in the Middle East and North Africa (MENA) face countless challenges. These families must cope with experiences of armed conflict and forced migration while also assimilating to a new society. According to the 'immigrant paradox,' time spent in a new country can compound the effects of migration and assimilation challenges and lead to deteriorated mental health. This study aims to assess the psychosocial wellbeing of MENA-born or first-generation adolescents attending school in the Detroit metropolitan area (DMA) to understand how schools, families, and communities play a role in supporting these adolescents' wellbeing. METHODS:The quantitative component of this mixed methods study will involve a self-administered survey with a sample of students whose responses will be linked to academic records and behavioral assessments. The survey will utilize validated instruments to measure depressive and anxiety symptoms (Hopkins Symptom Checklist-37A), hope (Children's Hope Scale), resilience (Child and Youth Resilience Measure-12), externalizing and prosocial behavior (Hopkins Symptom Checklist-37A, Strengths and Difficulties Questionnaire), school belonging (Psychological Sense of School Membership), and peer relationships (Multidimensional Scale of Perceived Social Support). Differences in outcomes will be analyzed across two strata: students born in the MENA region and first-generation students whose parents immigrated to the US from the MENA region. The qualitative component will involve semi-structured key informant interviews with parents, school administrators, educators, and mental health providers, and focus group discussions (FGDs) with a purposive sample of adolescents born - or whose parents were born - in the MENA region. The FGDs will include a participatory ranking activity where participants will be asked to free-list and rank ideas about how schools can better support students like them. Thematic content analysis will be conducted to identify common themes. DISCUSSION:This study will contribute evidence about the wellbeing of adolescents who come from - or whose parents come from - conflict-affected countries currently living in the U.S. Findings can be used to inform program and policy development to enable schools and their community partners to serve this population more effectively."
+    ],
+    "affiliation": [
+      "Brown School, Washington University in St. Louis, Campus Box 1196, One Brookings Drive, St. Louis, MO, 63130, USA. lindsaystark@wustl.edu."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "meshHeadingList": [
+      {
+        "meshHeading": [
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Humans"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Cross-Sectional Studies"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Adaptation, Psychological"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Family"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "PX"
+                    ],
+                    "qualifierName": [
+                      "psychology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Mental Disorders"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Cities"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Qualitative Research"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Acculturation"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "Y"
+            ],
+            "descriptorName": [
+              "Social Support"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Schools"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Students"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "PX"
+                    ],
+                    "qualifierName": [
+                      "psychology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "SN"
+                    ],
+                    "qualifierName": [
+                      "statistics & numerical data"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Adolescent"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Refugees"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "PX"
+                    ],
+                    "qualifierName": [
+                      "psychology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "SN"
+                    ],
+                    "qualifierName": [
+                      "statistics & numerical data"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Africa, Northern"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EH"
+                    ],
+                    "qualifierName": [
+                      "ethnology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Michigan"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Middle East"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EH"
+                    ],
+                    "qualifierName": [
+                      "ethnology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Female"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Male"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Emigrants and Immigrants"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "PX"
+                    ],
+                    "qualifierName": [
+                      "psychology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  },
+                  {
+                    "abbreviation": [
+                      "SN"
+                    ],
+                    "qualifierName": [
+                      "statistics & numerical data"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Surveys and Questionnaires"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Armed Conflicts"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "PX"
+                    ],
+                    "qualifierName": [
+                      "psychology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Youth",
+          "Mental health",
+          "Education",
+          "Refugees",
+          "Acculturation",
+          "Immigrants",
+          "Middle East",
+          "Psychosocial Support",
+          "Immigrant Paradox",
+          "Mena"
+        ]
+      }
+    ],
+    "subsetList": [
+      {
+        "subset": [
+          {
+            "code": [
+              "IM"
+            ],
+            "name": [
+              "Index Medicus"
+            ]
+          }
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1186/s12889-020-8155-5"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6954582"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6954582?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1186/s12889-020-8155-5"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "N"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCompletion": [
+      "2020-04-01"
+    ],
+    "dateOfCreation": [
+      "2020-01-12"
+    ],
+    "firstIndexDate": [
+      "2020-01-17"
+    ],
+    "fullTextReceivedDate": [
+      "2020-01-16"
+    ],
+    "dateOfRevision": [
+      "2020-04-01"
+    ],
+    "electronicPublicationDate": [
+      "2020-01-10"
+    ],
+    "firstPublicationDate": [
+      "2020-01-10"
+    ]
+  },
+  {
+    "id": [
+      "32303265"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "32303265"
+    ],
+    "pmcid": [
+      "PMC7164188"
+    ],
+    "doi": [
+      "10.1186/s12888-020-02585-1"
+    ],
+    "title": [
+      "Attitudes towards psychopharmacology and psychotherapy in psychiatric patients with and without migration background."
+    ],
+    "authorString": [
+      "Brandl EJ, Dietrich N, Mell N, Winkler JG, Gutwinski S, Bretz HJ, Schouler-Ocak M."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Brandl EJ"
+            ],
+            "firstName": [
+              "Eva J"
+            ],
+            "lastName": [
+              "Brandl"
+            ],
+            "initials": [
+              "EJ"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany. eva.brandl@charite.de.",
+                  "Psychiatrische Universitätsklinik der Charité im St. Hedwig Krankenhaus, Große Hamburger Str. 5-11, 10115, Berlin, Germany. eva.brandl@charite.de."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Dietrich N"
+            ],
+            "firstName": [
+              "Nora"
+            ],
+            "lastName": [
+              "Dietrich"
+            ],
+            "initials": [
+              "N"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany.",
+                  "Psychiatrische Universitätsklinik der Charité im St. Hedwig Krankenhaus, Große Hamburger Str. 5-11, 10115, Berlin, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Mell N"
+            ],
+            "firstName": [
+              "Nicoleta"
+            ],
+            "lastName": [
+              "Mell"
+            ],
+            "initials": [
+              "N"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany.",
+                  "Psychiatrische Universitätsklinik der Charité im St. Hedwig Krankenhaus, Große Hamburger Str. 5-11, 10115, Berlin, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Winkler JG"
+            ],
+            "firstName": [
+              "Johanna G"
+            ],
+            "lastName": [
+              "Winkler"
+            ],
+            "initials": [
+              "JG"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany.",
+                  "Psychiatrische Universitätsklinik der Charité im St. Hedwig Krankenhaus, Große Hamburger Str. 5-11, 10115, Berlin, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Gutwinski S"
+            ],
+            "firstName": [
+              "Stefan"
+            ],
+            "lastName": [
+              "Gutwinski"
+            ],
+            "initials": [
+              "S"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany.",
+                  "Psychiatrische Universitätsklinik der Charité im St. Hedwig Krankenhaus, Große Hamburger Str. 5-11, 10115, Berlin, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Bretz HJ"
+            ],
+            "firstName": [
+              "H Joachim"
+            ],
+            "lastName": [
+              "Bretz"
+            ],
+            "initials": [
+              "HJ"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany.",
+                  "Psychiatrische Universitätsklinik der Charité im St. Hedwig Krankenhaus, Große Hamburger Str. 5-11, 10115, Berlin, Germany."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Schouler-Ocak M"
+            ],
+            "firstName": [
+              "Meryam"
+            ],
+            "lastName": [
+              "Schouler-Ocak"
+            ],
+            "initials": [
+              "M"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany.",
+                  "Psychiatrische Universitätsklinik der Charité im St. Hedwig Krankenhaus, Große Hamburger Str. 5-11, 10115, Berlin, Germany."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "supporting_data",
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "1"
+        ],
+        "volume": [
+          "20"
+        ],
+        "journalIssueId": [
+          "2932590"
+        ],
+        "dateOfPublication": [
+          "2020 Apr"
+        ],
+        "monthOfPublication": [
+          "4"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-04-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "BMC psychiatry"
+            ],
+            "ISOAbbreviation": [
+              "BMC Psychiatry"
+            ],
+            "medlineAbbreviation": [
+              "BMC Psychiatry"
+            ],
+            "NLMid": [
+              "100968559"
+            ],
+            "ISSN": [
+              "1471-244X"
+            ],
+            "ESSN": [
+              "1471-244X"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "pageInfo": [
+      "176"
+    ],
+    "abstractText": [
+      "BACKGROUND:Sociodemographic factors, attitude towards treatment and acculturation may be important factors influencing the decision of immigrants to seek and maintain psychiatric treatment. A better understanding of these factors may significantly improve treatment adherence and outcome in these patients. Therefore, we investigated factors associated the attitude towards psychotherapy and medication in a sample of psychiatric outpatients with and without migration background. METHODS:N = 381 patients in a psychiatric outpatient unit offering specialized treatment for migrants were included in this study. Attitude towards psychotherapy was assessed using the Questionnaire on Attitudes Toward Psychotherapeutic Treatment, attitude towards medication with the Drug Attitude Inventory-10. Acculturation, symptom load and sociodemographic variables were assessed in a general questionnaire. Statistical analyses included analyses of covariance and hierarchical regression. RESULTS:Patients of Turkish and Eastern European origin reported a significantly more positive attitude towards medication than patients without migration background. When controlling for sociodemographic and clinical variables, we did not observe any significant differences in attitude towards psychotherapy. Acculturation neither influenced the attitude towards psychotherapy nor towards medication. CONCLUSION:Our study indicates that sociodemographic and clinical factors may be more relevant for patients´ attitudes towards treatment than acculturation. Considering these factors in psychiatric treatment of patients with migration background may improve treatment outcome and adherence."
+    ],
+    "affiliation": [
+      "Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Department of Psychiatry and Psychotherapy, Campus Mitte, Berlin, Germany Charité Universitätsmedizin Berlin, Berlin, Germany. eva.brandl@charite.de."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Migrants",
+          "Medication",
+          "Attitude",
+          "psychotherapy"
+        ]
+      }
+    ],
+    "subsetList": [
+      {
+        "subset": [
+          {
+            "code": [
+              "IM"
+            ],
+            "name": [
+              "Index Medicus"
+            ]
+          }
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1186/s12888-020-02585-1"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7164188"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7164188?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1186/s12888-020-02585-1"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "Y"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "Y"
+    ],
+    "hasReferences": [
+      "N"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCreation": [
+      "2020-04-19"
+    ],
+    "firstIndexDate": [
+      "2020-04-19"
+    ],
+    "fullTextReceivedDate": [
+      "2020-04-24"
+    ],
+    "dateOfRevision": [
+      "2020-04-23"
+    ],
+    "electronicPublicationDate": [
+      "2020-04-17"
+    ],
+    "firstPublicationDate": [
+      "2020-04-17"
+    ]
+  },
+  {
+    "id": [
+      "31984137"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "31984137"
+    ],
+    "pmcid": [
+      "PMC6961141"
+    ],
+    "doi": [
+      "10.1177/2055217319841881"
+    ],
+    "title": [
+      "Epidemiology and phenotypes of multiple sclerosis in the Middle East North Africa (MENA) region."
+    ],
+    "authorString": [
+      "Yamout BI, Assaad W, Tamim H, Mrabet S, Goueider R."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Yamout BI"
+            ],
+            "firstName": [
+              "Bassem I"
+            ],
+            "lastName": [
+              "Yamout"
+            ],
+            "initials": [
+              "BI"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "American University of Beirut Faculty of Medicine, Nehme and Therese Multiple Sclerosis Center, Beirut, Lebanon."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Assaad W"
+            ],
+            "firstName": [
+              "Wassim"
+            ],
+            "lastName": [
+              "Assaad"
+            ],
+            "initials": [
+              "W"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-9187-5827",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "American University of Beirut Faculty of Medicine, Nehme and Therese Tohme Multiple Sclerosis Center, Beirut, Lebanon."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Tamim H"
+            ],
+            "firstName": [
+              "Hani"
+            ],
+            "lastName": [
+              "Tamim"
+            ],
+            "initials": [
+              "H"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "American University of Beirut Faculty of Medicine, Department of Biomedical Sciences, Beirut, Lebanon."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Mrabet S"
+            ],
+            "firstName": [
+              "Saloua"
+            ],
+            "lastName": [
+              "Mrabet"
+            ],
+            "initials": [
+              "S"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "University Tunis El Manar Faculty of Medicine, Laboratory of Research Neurodegenerative and Mental Diseases Tunis, Tunisia."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Goueider R"
+            ],
+            "firstName": [
+              "Riyad"
+            ],
+            "lastName": [
+              "Goueider"
+            ],
+            "initials": [
+              "R"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "University Tunis El Manar Faculty of Medicine, Laboratory of Research Neurodegenerative and Mental Diseases Tunis, Tunisia."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-9187-5827",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "1"
+        ],
+        "volume": [
+          "6"
+        ],
+        "journalIssueId": [
+          "2904615"
+        ],
+        "dateOfPublication": [
+          "2020 Jan-Mar"
+        ],
+        "monthOfPublication": [
+          "0"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Multiple sclerosis journal - experimental, translational and clinical"
+            ],
+            "ISOAbbreviation": [
+              "Mult Scler J Exp Transl Clin"
+            ],
+            "medlineAbbreviation": [
+              "Mult Scler J Exp Transl Clin"
+            ],
+            "NLMid": [
+              "101668877"
+            ],
+            "ISSN": [
+              "2055-2173"
+            ],
+            "ESSN": [
+              "2055-2173"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "pageInfo": [
+      "2055217319841881"
+    ],
+    "abstractText": [
+      "The Middle East North Africa (MENA) region falls in the low-to-moderate multiple sclerosis (MS) prevalence zone, with prevalence rates slightly lower than Southern Europe but much higher than sub-Saharan Africa. However, there is clearly a trend toward increased MS prevalence over the last few decades, consistent with the globally rising prevalence of the disease. We analyzed all data collected from the MENACTRIMS (Middle East North Africa Committee for Treatment and Research in Multiple Sclerosis) registry by the end of December 2018. A total of 6885 patients were eligible for the study. Overall, the clinical phenotype of MS in the MENA region was not different from the Western phenotype except for earlier age at onset and a more aggressive clinical course leading to earlier disability."
+    ],
+    "affiliation": [
+      "American University of Beirut Faculty of Medicine, Nehme and Therese Multiple Sclerosis Center, Beirut, Lebanon."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic-eCollection"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Multiple sclerosis",
+          "Middle East North Africa"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1177/2055217319841881"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6961141"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6961141?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1177/2055217319841881"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "N"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by-nc"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCreation": [
+      "2020-01-28"
+    ],
+    "firstIndexDate": [
+      "2020-01-28"
+    ],
+    "fullTextReceivedDate": [
+      "2020-01-27"
+    ],
+    "dateOfRevision": [
+      "2020-01-30"
+    ],
+    "electronicPublicationDate": [
+      "2020-01-14"
+    ],
+    "firstPublicationDate": [
+      "2020-01-14"
+    ]
+  },
+  {
+    "id": [
+      "32426214"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "32426214"
+    ],
+    "pmcid": [
+      "PMC7226879"
+    ],
+    "doi": [
+      "10.1016/j.pmedr.2020.101106"
+    ],
+    "title": [
+      "Low attendance by non-native women to human papillomavirus vaccination and cervical cancer screening - A Danish nationwide register-based cohort study."
+    ],
+    "authorString": [
+      "Badre-Esfahani S, Larsen MB, Seibæk L, Petersen LK, Blaakær J, Andersen B."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Badre-Esfahani S"
+            ],
+            "firstName": [
+              "S"
+            ],
+            "lastName": [
+              "Badre-Esfahani"
+            ],
+            "initials": [
+              "S"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark.",
+                  "Department of Gynaecology and Obstetrics, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, DK-8200 Aarhus N, Denmark.",
+                  "Department of Clinical Medicine, Aarhus University, Aarhus, Denmark."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Larsen MB"
+            ],
+            "firstName": [
+              "M B"
+            ],
+            "lastName": [
+              "Larsen"
+            ],
+            "initials": [
+              "MB"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Seibæk L"
+            ],
+            "firstName": [
+              "L"
+            ],
+            "lastName": [
+              "Seibæk"
+            ],
+            "initials": [
+              "L"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-2396-8669",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Gynaecology and Obstetrics, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, DK-8200 Aarhus N, Denmark."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Petersen LK"
+            ],
+            "firstName": [
+              "L K"
+            ],
+            "lastName": [
+              "Petersen"
+            ],
+            "initials": [
+              "LK"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Gynaecology and Obstetrics, Odense University Hospital, J. B. Winsløws Vej 2, DK-5000 Odense C, Denmark.",
+                  "OPEN Open Patient Data Explorative Network, University of Southern Denmark, Odense, Denmark."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Blaakær J"
+            ],
+            "firstName": [
+              "J"
+            ],
+            "lastName": [
+              "Blaakær"
+            ],
+            "initials": [
+              "J"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Gynaecology and Obstetrics, Odense University Hospital, J. B. Winsløws Vej 2, DK-5000 Odense C, Denmark.",
+                  "Department of Clinical Research, University of Southern Denmark, Odense, Denmark."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Andersen B"
+            ],
+            "firstName": [
+              "B"
+            ],
+            "lastName": [
+              "Andersen"
+            ],
+            "initials": [
+              "B"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0003-4074-6504",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-2396-8669",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0003-4074-6504",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "supporting_data",
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "volume": [
+          "19"
+        ],
+        "journalIssueId": [
+          "2956357"
+        ],
+        "dateOfPublication": [
+          "2020 Sep"
+        ],
+        "monthOfPublication": [
+          "9"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-09-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Preventive medicine reports"
+            ],
+            "ISOAbbreviation": [
+              "Prev Med Rep"
+            ],
+            "medlineAbbreviation": [
+              "Prev Med Rep"
+            ],
+            "NLMid": [
+              "101643766"
+            ],
+            "ISSN": [
+              "2211-3355"
+            ],
+            "ESSN": [
+              "2211-3355"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "pageInfo": [
+      "101106"
+    ],
+    "abstractText": [
+      "Background:Cervical cancer is preventable through human papillomavirus vaccination and cervical cancer screening. However, possibly due to systemic, individual (e.g. low socio-economic staus) and socio-cultural barriers, it is likely that non-natives, especially non-westerns, are more prone to attend neither vaccination nor screening (combined non-attendance). This is disturbing as the non-native population in Denmark is predicted to rise to 21% by 2060. We aimed to investigate differences in combined non-attendance by nativity and region of origin, and to analyse the association between country of origin and combined non-attendance adjusted for socio-economic status. Setting:1.6.2007-31.12.2016 Denmark. Methods:Logistic regression was performed to estimate crude and adjusted odds ratios with 95% confidence intervals for combined non-attendance. Results:170,158 women were included. Overall combined non-attendance was 11.8% [11.7-12.0]; 10.0% [9.8-10.1] for native women and 27.1% [26.4-27.7] for non-native women, with highest degrees among Middle-Eastern and North-Africans (30.1% [29.2-30.9]). Even when adjusted for socio-economics, women from Middle-East and North-Africa had substantially higher odds of combined non-attendance than natives (adj. OR = 7.5 [6.3-8.9] for Somali women). Conclusion:Denmark has a relatively low degree of combined non-attendance. However, cervical cancer preventive programmes seem to be better tailored to the needs of native women and do not appear to cater sufficiently to the needs of the fast-growing non-native populations, particularly not to the needs of Middle-Eastern and North African women. In order to secure more just cervical cancer prevention, future studies are recommended to develop tailored intervention sensitive to the need of non-native women."
+    ],
+    "affiliation": [
+      "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic-eCollection"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Nationality",
+          "Screening",
+          "Vaccination",
+          "Human papilloma virus",
+          "Denmark",
+          "Non-participation",
+          "Socio-economic Status",
+          "Non-attendance"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1016/j.pmedr.2020.101106"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7226879"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7226879?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1016/j.pmedr.2020.101106"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "Y"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "Y"
+    ],
+    "hasReferences": [
+      "N"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by-nc-nd"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCreation": [
+      "2020-05-20"
+    ],
+    "firstIndexDate": [
+      "2020-05-22"
+    ],
+    "fullTextReceivedDate": [
+      "2020-05-21"
+    ],
+    "dateOfRevision": [
+      "2020-05-22"
+    ],
+    "electronicPublicationDate": [
+      "2020-04-28"
+    ],
+    "firstPublicationDate": [
+      "2020-04-28"
+    ]
+  },
+  {
+    "id": [
+      "PMC7258797"
+    ],
+    "source": [
+      "PMC"
+    ],
+    "pmcid": [
+      "PMC7258797"
+    ],
+    "doi": [
+      "10.1016/b978-0-12-816768-7.00054-5"
+    ],
+    "title": [
+      "Global perspectives on primary immune deficiency diseases."
+    ],
+    "authorString": [
+      "Lugo Reyes SO, Condino-Neto A, Stepensky P."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Lugo Reyes SO"
+            ],
+            "firstName": [
+              "Saul O."
+            ],
+            "lastName": [
+              "Lugo Reyes"
+            ],
+            "initials": [
+              "SO"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Immunodeficiencies Research Unit, National Institute of Pediatrics, Mexico City, Mexico"
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Condino-Neto A"
+            ],
+            "firstName": [
+              "Antonio"
+            ],
+            "lastName": [
+              "Condino-Neto"
+            ],
+            "initials": [
+              "A"
+            ]
+          },
+          {
+            "fullName": [
+              "Stepensky P"
+            ],
+            "firstName": [
+              "Polina"
+            ],
+            "lastName": [
+              "Stepensky"
+            ],
+            "initials": [
+              "P"
+            ]
+          }
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "journalIssueId": [
+          "2960248"
+        ],
+        "dateOfPublication": [
+          "2020 "
+        ],
+        "monthOfPublication": [
+          "0"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Stiehm's Immune Deficiencies"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "pageInfo": [
+      "1129-1142"
+    ],
+    "abstractText": [
+      "Poverty, mass migration, live vaccines, inbred marriage, exotic dishes, contaminated water, natural disasters and the next pandemic, they may all affect your patient with a congenital immune defect. In this chapter, we discuss some interesting aspects and regional differences in the field of Primary immune deficiencies: from climate change and emerging infectious diseases, to the geopolitics of gene discovery and blood trade, passing through consanguinity, founder effects, transfer factor, vaccination, medical curricula, and what the future may bring. We live on a changing, shrinking planet, and we believe we all need to know about customs, infections, and unique aspects in other regions of the world."
+    ],
+    "affiliation": [
+      "Immunodeficiencies Research Unit, National Institute of Pediatrics, Mexico City, Mexico"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Undetermined"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "chapter-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Climate change",
+          "Consanguinity",
+          "Poverty",
+          "Regional Epidemiology"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Free"
+            ],
+            "availabilityCode": [
+              "F"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "PubMedCentral"
+            ],
+            "url": [
+              "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7258797/?tool=EBI"
+            ]
+          },
+          {
+            "availability": [
+              "Free"
+            ],
+            "availabilityCode": [
+              "F"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7258797"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1016/b978-0-12-816768-7.00054-5"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "Y"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "N"
+    ],
+    "hasReferences": [
+      "N"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "N"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCreation": [
+      "2020-05-31"
+    ],
+    "firstIndexDate": [
+      "2020-05-31"
+    ],
+    "fullTextReceivedDate": [
+      "2020-05-31"
+    ],
+    "dateOfRevision": [
+      "2020-05-31"
+    ],
+    "electronicPublicationDate": [
+      "2020-05-29"
+    ],
+    "firstPublicationDate": [
+      "2020-05-29"
+    ]
+  },
+  {
+    "id": [
+      "32059473"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "32059473"
+    ],
+    "pmcid": [
+      "PMC7072722"
+    ],
+    "doi": [
+      "10.3390/cancers12020422"
+    ],
+    "title": [
+      "MAL2-Induced Actin-Based Protrusion Formation is Anti-Oncogenic in Hepatocellular Carcinoma."
+    ],
+    "authorString": [
+      "López-Coral A, Del Vecchio GJ, Chahine JJ, Kallakury BV, Tuma PL."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "López-Coral A"
+            ],
+            "firstName": [
+              "Alfonso"
+            ],
+            "lastName": [
+              "López-Coral"
+            ],
+            "initials": [
+              "A"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0001-8647-9590",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Del Vecchio GJ"
+            ],
+            "firstName": [
+              "Gianna-Jade"
+            ],
+            "lastName": [
+              "Del Vecchio"
+            ],
+            "initials": [
+              "GJ"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-0791-402X",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Chahine JJ"
+            ],
+            "firstName": [
+              "Joeffrey J"
+            ],
+            "lastName": [
+              "Chahine"
+            ],
+            "initials": [
+              "JJ"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Biology, The Catholic University of America, Washington, DC 20064, USA.",
+                  "Department of Pathology, MedStar Georgetown University Hospital, Washington, DC 20007, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Kallakury BV"
+            ],
+            "firstName": [
+              "Bhaskar V"
+            ],
+            "lastName": [
+              "Kallakury"
+            ],
+            "initials": [
+              "BV"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Pathology, MedStar Georgetown University Hospital, Washington, DC 20007, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Tuma PL"
+            ],
+            "firstName": [
+              "Pamela L"
+            ],
+            "lastName": [
+              "Tuma"
+            ],
+            "initials": [
+              "PL"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0001-8647-9590",
+            "$": {
+              "type": "ORCID"
+            }
+          },
+          {
+            "_": "0000-0002-0791-402X",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "2"
+        ],
+        "volume": [
+          "12"
+        ],
+        "journalIssueId": [
+          "2909799"
+        ],
+        "dateOfPublication": [
+          "2020 Feb"
+        ],
+        "monthOfPublication": [
+          "2"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-02-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Cancers"
+            ],
+            "ISOAbbreviation": [
+              "Cancers (Basel)"
+            ],
+            "medlineAbbreviation": [
+              "Cancers (Basel)"
+            ],
+            "NLMid": [
+              "101526829"
+            ],
+            "ISSN": [
+              "2072-6694"
+            ],
+            "ESSN": [
+              "2072-6694"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "abstractText": [
+      "Recent studies report that the polarity gene myelin and lymphocyte protein 2 (MAL2), is overexpressed in multiple human carcinomas largely at the transcript level. Because chromosome 8q24 amplification (where MAL2 resides) is associated with hepatocellular- and cholangio-carcinomas, we examined MAL2 protein expression in these human carcinoma lesions and adjacent benign tissue using immunohistochemistry. For comparison, we analyzed renal cell carcinomas that are not associated with chromosome 8q24 amplification. Surprisingly, we found that MAL2 protein levels were decreased in the malignant tissues compared to benign in all three carcinomas, suggesting MAL2 expression may be anti-oncogenic. Consistent with this conclusion, we determined that endogenously overexpressed MAL2 in HCC-derived Hep3B cells or exogenously expressed MAL2 in hepatoma-derived Clone 9 cells (that lack endogenous MAL2) promoted actin-based protrusion formation with a reciprocal decrease in invadopodia. MAL2 overexpression also led to decreased cell migration, invasion and proliferation (to a more modest extent) while loss of MAL2 expression reversed the phenotypes. Mutational analysis revealed that a putative Ena/VASP homology 1 recognition site confers the MAL2-phenotype suggesting its role in tumor suppression involves actin remodeling. To reconcile decreased MAL2 protein expression in human carcinomas and its anti-oncogenic phenotypes with increased transcript levels, we propose a transcriptional regulatory model for MAL2 transient overexpression."
+    ],
+    "affiliation": [
+      "Department of Biology, The Catholic University of America, Washington, DC 20064, USA."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "grantsList": [
+      {
+        "grant": [
+          {
+            "grantId": [
+              "AA017626"
+            ],
+            "agency": [
+              "NIH HHS"
+            ],
+            "acronym": [
+              "NH"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "R01 AA017626"
+            ],
+            "agency": [
+              "NIAAA NIH HHS"
+            ],
+            "acronym": [
+              "AA"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          },
+          {
+            "grantId": [
+              "DK082890"
+            ],
+            "agency": [
+              "NIH HHS"
+            ],
+            "acronym": [
+              "NH"
+            ],
+            "orderIn": [
+              "0"
+            ]
+          }
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Actin",
+          "Hepatocellular carcinoma",
+          "Tumor suppressor",
+          "Cholangiocarcinoma",
+          "Mal2"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3390/cancers12020422"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7072722"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7072722?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3390/cancers12020422"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "N"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "N"
+    ],
+    "hasReferences": [
+      "N"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCreation": [
+      "2020-02-16"
+    ],
+    "firstIndexDate": [
+      "2020-02-16"
+    ],
+    "fullTextReceivedDate": [
+      "2020-03-23"
+    ],
+    "dateOfRevision": [
+      "2020-03-20"
+    ],
+    "electronicPublicationDate": [
+      "2020-02-12"
+    ],
+    "firstPublicationDate": [
+      "2020-02-12"
+    ]
+  },
+  {
+    "id": [
+      "31641372"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "31641372"
+    ],
+    "pmcid": [
+      "PMC6802323"
+    ],
+    "doi": [
+      "10.1186/s13031-019-0233-x"
+    ],
+    "title": [
+      "Ecologies of care: mental health and psychosocial support for war-affected youth in the U.S."
+    ],
+    "authorString": [
+      "Bennouna C, Ocampo MG, Cohen F, Basir M, Allaf C, Wessells M, Stark L."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Bennouna C"
+            ],
+            "firstName": [
+              "Cyril"
+            ],
+            "lastName": [
+              "Bennouna"
+            ],
+            "initials": [
+              "C"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "1Department of Political Science, Brown University, Providence, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Ocampo MG"
+            ],
+            "firstName": [
+              "Maria Gandarilla"
+            ],
+            "lastName": [
+              "Ocampo"
+            ],
+            "initials": [
+              "MG"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Brown School at Washington University in St. Louis, Missouri, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Cohen F"
+            ],
+            "firstName": [
+              "Flora"
+            ],
+            "lastName": [
+              "Cohen"
+            ],
+            "initials": [
+              "F"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Brown School at Washington University in St. Louis, Missouri, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Basir M"
+            ],
+            "firstName": [
+              "Mashal"
+            ],
+            "lastName": [
+              "Basir"
+            ],
+            "initials": [
+              "M"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "3Mailman School of Public Health, Columbia University, New York City, NY USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Allaf C"
+            ],
+            "firstName": [
+              "Carine"
+            ],
+            "lastName": [
+              "Allaf"
+            ],
+            "initials": [
+              "C"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Qatar Foundation International, Washington, D.C, USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Wessells M"
+            ],
+            "firstName": [
+              "Michael"
+            ],
+            "lastName": [
+              "Wessells"
+            ],
+            "initials": [
+              "M"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "3Mailman School of Public Health, Columbia University, New York City, NY USA."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Stark L"
+            ],
+            "firstName": [
+              "Lindsay"
+            ],
+            "lastName": [
+              "Stark"
+            ],
+            "initials": [
+              "L"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-8775-9735",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Brown School at Washington University in St. Louis, Missouri, USA."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-8775-9735",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "supporting_data",
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "volume": [
+          "13"
+        ],
+        "journalIssueId": [
+          "2769876"
+        ],
+        "dateOfPublication": [
+          "2019 "
+        ],
+        "monthOfPublication": [
+          "0"
+        ],
+        "yearOfPublication": [
+          "2019"
+        ],
+        "printPublicationDate": [
+          "2019-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Conflict and health"
+            ],
+            "ISOAbbreviation": [
+              "Confl Health"
+            ],
+            "medlineAbbreviation": [
+              "Confl Health"
+            ],
+            "NLMid": [
+              "101286573"
+            ],
+            "ISSN": [
+              "1752-1505"
+            ],
+            "ESSN": [
+              "1752-1505"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2019"
+    ],
+    "pageInfo": [
+      "47"
+    ],
+    "abstractText": [
+      "Background:Youth resettling to the U.S. from conflict-affected countries in the Middle East and North Africa (MENA) face countless challenges. As they cope with their experiences of armed conflict and forced migration, these girls and boys must also adjust to the language and social norms of their new society, often encountering prejudice and discrimination along the way. Previous studies indicate that schools can play a central role in facilitating this adjustment while also promoting mental health and psychosocial wellbeing. This qualitative study aims to understand the lived experiences of MENA newcomers resettled in Austin, Texas and Harrisonburg, Virginia and to assess how schools, families, and communities support their mental and psychosocial wellbeing. Methods:We held six focus group discussions across the two cities with a total of 30 youths (13-23 years) from Iraq, Syria, and Sudan. We also conducted semi-structured interviews with 30 caregivers and 27 key informants, including teachers, administrators, service providers, and personnel from community-based organizations. Results:Guided by Bioecological Theory, our thematic analysis identifies several means by which various actors work together to support resettled adolescents. We highlight promising efforts that seek to enhance these supports, including sheltered instruction, school-parent collaboration, peer support programming, social and emotional learning initiatives, and integrated mental health centers. Conclusion:While this study underscores the resilience of newcomers and the value of local support systems, it also reflects the importance of investment in schools, mental health systems, and resettlement programs that can enable newcomers to achieve their full potential."
+    ],
+    "affiliation": [
+      "1Department of Political Science, Brown University, Providence, USA."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic-eCollection"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Refugeemental Health And Psychosocial Supportyouthacculturationeducation"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1186/s13031-019-0233-x"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6802323"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6802323?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.1186/s13031-019-0233-x"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "Y"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "Y"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "Y"
+    ],
+    "tmAccessionTypeList": [
+      {
+        "accessionType": [
+          "doi"
+        ]
+      }
+    ],
+    "dateOfCreation": [
+      "2019-10-24"
+    ],
+    "firstIndexDate": [
+      "2019-10-24"
+    ],
+    "fullTextReceivedDate": [
+      "2019-10-25"
+    ],
+    "dateOfRevision": [
+      "2019-10-25"
+    ],
+    "electronicPublicationDate": [
+      "2019-10-21"
+    ],
+    "firstPublicationDate": [
+      "2019-10-21"
+    ]
+  },
+  {
+    "id": [
+      "31360448"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "31360448"
+    ],
+    "pmcid": [
+      "PMC6642815"
+    ],
+    "doi": [
+      "10.7189/jogh.09.020408"
+    ],
+    "title": [
+      "Epidemiology of Treponema pallidum, Chlamydia trachomatis, Neisseria gonorrhoeae, Trichomonas vaginalis, and herpes simplex virus type 2 among female sex workers in the Middle East and North Africa: systematic review and meta-analytics."
+    ],
+    "authorString": [
+      "Chemaitelly H, Weiss HA, Smolak A, Majed E, Abu-Raddad LJ."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Chemaitelly H"
+            ],
+            "firstName": [
+              "Hiam"
+            ],
+            "lastName": [
+              "Chemaitelly"
+            ],
+            "initials": [
+              "H"
+            ],
+            "authorId": [
+              {
+                "_": "0000-0002-8756-6968",
+                "$": {
+                  "type": "ORCID"
+                }
+              }
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation - Education City, Doha, Qatar.",
+                  "Department of Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, United Kingdom."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Weiss HA"
+            ],
+            "firstName": [
+              "Helen A"
+            ],
+            "lastName": [
+              "Weiss"
+            ],
+            "initials": [
+              "HA"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "MRC Tropical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, United Kingdom.",
+                  "Department of Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London, United Kingdom."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Smolak A"
+            ],
+            "firstName": [
+              "Alex"
+            ],
+            "lastName": [
+              "Smolak"
+            ],
+            "initials": [
+              "A"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation - Education City, Doha, Qatar."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Majed E"
+            ],
+            "firstName": [
+              "Elzahraa"
+            ],
+            "lastName": [
+              "Majed"
+            ],
+            "initials": [
+              "E"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation - Education City, Doha, Qatar."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Abu-Raddad LJ"
+            ],
+            "firstName": [
+              "Laith J"
+            ],
+            "lastName": [
+              "Abu-Raddad"
+            ],
+            "initials": [
+              "LJ"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation - Education City, Doha, Qatar.",
+                  "Department of Healthcare Policy & Research, Weill Cornell Medicine, Cornell University, New York, New York, USA.",
+                  "College of Health and Life Sciences, Hamad bin Khalifa University, Doha, Qatar."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "authorIdList": [
+      {
+        "authorId": [
+          {
+            "_": "0000-0002-8756-6968",
+            "$": {
+              "type": "ORCID"
+            }
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "supporting_data",
+          "altmetrics"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "issue": [
+          "2"
+        ],
+        "volume": [
+          "9"
+        ],
+        "journalIssueId": [
+          "2842509"
+        ],
+        "dateOfPublication": [
+          "2019 Dec"
+        ],
+        "monthOfPublication": [
+          "12"
+        ],
+        "yearOfPublication": [
+          "2019"
+        ],
+        "printPublicationDate": [
+          "2019-12-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Journal of global health"
+            ],
+            "ISOAbbreviation": [
+              "J Glob Health"
+            ],
+            "medlineAbbreviation": [
+              "J Glob Health"
+            ],
+            "NLMid": [
+              "101578780"
+            ],
+            "ISSN": [
+              "2047-2978"
+            ],
+            "ESSN": [
+              "2047-2986"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2019"
+    ],
+    "pageInfo": [
+      "020408"
+    ],
+    "abstractText": [
+      "Background:The epidemiology of sexually transmitted infections (STIs) and the role of commercial heterosexual sex networks in driving STI transmission in the Middle East and North Africa (MENA) region remain largely unknown. Objective:To characterize the epidemiology of Treponema pallidum (syphilis), Chlamydia trachomatis, Neisseria gonorrhoeae, Trichomonas vaginalis, and herpes simplex virus type 2 (HSV-2) among female sex workers (FSWs) in MENA using an in-depth quantitative assessment. Methods:A systematic review on ten international, regional, and country-level databases was conducted, and reported following PRISMA guidelines. Pooled prevalences of current and/or ever infection for each STI were estimated using random-effects meta-analyses. Sources of between-study heterogeneity were investigated through random-effects meta-regressions. Results:One T. pallidum incidence study and 144 STI prevalence studies were identified for 45 812 FSWs in 13 MENA countries. The pooled prevalence of current infection was 12.7% (95% confidence interval (CI) = 8.5%-17.7%) for T. pallidum, 14.4% (95% CI = 8.2%-22.0%) for C. trachomatis, 5.7% (95% CI = 3.5%-8.4%) for N. gonorrhoeae, and 7.1% (95% CI = 4.3%-10.5%) for T. vaginalis. The pooled prevalence of ever infection (seropositivity using antibody testing) was 12.8% (95% CI = 9.4%-16.6%) for T. pallidum, 80.3% (95% CI = 53.2%-97.6%) for C. trachomatis, and 23.7% (95% CI = 10.2%-40.4%) for HSV-2. The multivariable meta-regression for T. pallidum infection demonstrated strong subregional differences, with the Horn of Africa and North Africa showing, respectively 6-fold (adjusted odds ratio (AOR): 6.4; 95% CI = 2.5-16.7) and 5-fold (AOR = 5.0; 95% CI = 2.5-10.6) higher odds of infection than Eastern MENA. There was also strong evidence for declining T. pallidum odds of infection at 7% per year (AOR = 0.93; 95% CI = 0.88-0.98). Study-specific factors including diagnostic method, sample size, sampling methodology, and response rate, were not associated with syphilis infection. The multivariable model explained 48.5% of the variation in T. pallidum prevalence. Conclusions:STI infection levels among FSWs in MENA are considerable, supporting a key role for commercial heterosexual sex networks in transmission dynamics, and highlighting the health needs of this neglected and vulnerable population. Syphilis prevalence in FSWs appears to have been declining for at least three decades. Gaps in evidence persist for multiple countries."
+    ],
+    "affiliation": [
+      "Infectious Disease Epidemiology Group, Weill Cornell Medicine-Qatar, Cornell University, Qatar Foundation - Education City, Doha, Qatar."
+    ],
+    "publicationStatus": [
+      "ppublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Print"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "Meta-Analysis",
+          "research-article",
+          "Systematic Review",
+          "Journal Article"
+        ]
+      }
+    ],
+    "meshHeadingList": [
+      {
+        "meshHeading": [
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Humans"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Chlamydia Infections"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Gonorrhea"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Syphilis"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Sexually Transmitted Diseases"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Herpes Genitalis"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Trichomonas Vaginitis"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Africa, Northern"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Middle East"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "EP"
+                    ],
+                    "qualifierName": [
+                      "epidemiology"
+                    ],
+                    "majorTopic_YN": [
+                      "N"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Female"
+            ]
+          },
+          {
+            "majorTopic_YN": [
+              "N"
+            ],
+            "descriptorName": [
+              "Sex Workers"
+            ],
+            "meshQualifierList": [
+              {
+                "meshQualifier": [
+                  {
+                    "abbreviation": [
+                      "SN"
+                    ],
+                    "qualifierName": [
+                      "statistics & numerical data"
+                    ],
+                    "majorTopic_YN": [
+                      "Y"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subsetList": [
+      {
+        "subset": [
+          {
+            "code": [
+              "IM"
+            ],
+            "name": [
+              "Index Medicus"
+            ]
+          }
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.7189/jogh.09.020408"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6642815"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC6642815?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.7189/jogh.09.020408"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "Y"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "Y"
+    ],
+    "hasReferences": [
+      "Y"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCompletion": [
+      "2019-08-09"
+    ],
+    "dateOfCreation": [
+      "2019-07-31"
+    ],
+    "firstIndexDate": [
+      "2019-08-01"
+    ],
+    "fullTextReceivedDate": [
+      "2019-07-31"
+    ],
+    "dateOfRevision": [
+      "2019-08-09"
+    ],
+    "firstPublicationDate": [
+      "2019-12-01"
+    ]
+  },
+  {
+    "id": [
+      "32431615"
+    ],
+    "source": [
+      "MED"
+    ],
+    "pmid": [
+      "32431615"
+    ],
+    "pmcid": [
+      "PMC7216565"
+    ],
+    "doi": [
+      "10.3389/fphar.2020.00595"
+    ],
+    "title": [
+      "Free Fatty Acid Receptor 1 Signaling Contributes to Migration, MMP-9 Activity, and Expression of IL-8 Induced by Linoleic Acid in HaCaT Cells."
+    ],
+    "authorString": [
+      "Manosalva C, Alarcón P, González K, Soto J, Igor K, Peña F, Medina G, Burgos RA, Hidalgo MA."
+    ],
+    "authorList": [
+      {
+        "author": [
+          {
+            "fullName": [
+              "Manosalva C"
+            ],
+            "firstName": [
+              "Carolina"
+            ],
+            "lastName": [
+              "Manosalva"
+            ],
+            "initials": [
+              "C"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Faculty of Science, Institute of Pharmacy, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Alarcón P"
+            ],
+            "firstName": [
+              "Pablo"
+            ],
+            "lastName": [
+              "Alarcón"
+            ],
+            "initials": [
+              "P"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Laboratory of Molecular Pharmacology, Faculty of Veterinary Science, Institute of Pharmacology, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "González K"
+            ],
+            "firstName": [
+              "Karina"
+            ],
+            "lastName": [
+              "González"
+            ],
+            "initials": [
+              "K"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Faculty of Science, Institute of Pharmacy, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Soto J"
+            ],
+            "firstName": [
+              "Jorge"
+            ],
+            "lastName": [
+              "Soto"
+            ],
+            "initials": [
+              "J"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Faculty of Science, Institute of Pharmacy, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Igor K"
+            ],
+            "firstName": [
+              "Karin"
+            ],
+            "lastName": [
+              "Igor"
+            ],
+            "initials": [
+              "K"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Faculty of Science, Institute of Pharmacy, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Peña F"
+            ],
+            "firstName": [
+              "Fernanda"
+            ],
+            "lastName": [
+              "Peña"
+            ],
+            "initials": [
+              "F"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Faculty of Science, Institute of Pharmacy, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Medina G"
+            ],
+            "firstName": [
+              "Gustavo"
+            ],
+            "lastName": [
+              "Medina"
+            ],
+            "initials": [
+              "G"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Department of Diagnostic Processes and Evaluation, Faculty of Health Sciences, Universidad Católica de Temuco, Temuco, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Burgos RA"
+            ],
+            "firstName": [
+              "Rafael A"
+            ],
+            "lastName": [
+              "Burgos"
+            ],
+            "initials": [
+              "RA"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Laboratory of Molecular Pharmacology, Faculty of Veterinary Science, Institute of Pharmacology, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          },
+          {
+            "fullName": [
+              "Hidalgo MA"
+            ],
+            "firstName": [
+              "María A"
+            ],
+            "lastName": [
+              "Hidalgo"
+            ],
+            "initials": [
+              "MA"
+            ],
+            "authorAffiliationsList": [
+              {
+                "authorAffiliation": [
+                  "Laboratory of Molecular Pharmacology, Faculty of Veterinary Science, Institute of Pharmacology, Universidad Austral de Chile, Valdivia, Chile."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dataLinksTagsList": [
+      {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      }
+    ],
+    "journalInfo": [
+      {
+        "volume": [
+          "11"
+        ],
+        "journalIssueId": [
+          "2906091"
+        ],
+        "dateOfPublication": [
+          "2020 "
+        ],
+        "monthOfPublication": [
+          "0"
+        ],
+        "yearOfPublication": [
+          "2020"
+        ],
+        "printPublicationDate": [
+          "2020-01-01"
+        ],
+        "journal": [
+          {
+            "title": [
+              "Frontiers in pharmacology"
+            ],
+            "ISOAbbreviation": [
+              "Front Pharmacol"
+            ],
+            "medlineAbbreviation": [
+              "Front Pharmacol"
+            ],
+            "NLMid": [
+              "101548923"
+            ],
+            "ISSN": [
+              "1663-9812"
+            ],
+            "ESSN": [
+              "1663-9812"
+            ]
+          }
+        ]
+      }
+    ],
+    "pubYear": [
+      "2020"
+    ],
+    "pageInfo": [
+      "595"
+    ],
+    "abstractText": [
+      "Keratinocytes and neutrophils are the main cellular components in wound healing during re-epithelization and inflammation. Free fatty acids such as linoleic acid (LA) present beneficial properties for wound healing by modulating the inflammatory response. LA is a natural ligand of free fatty acids receptor 1 (FFA1), a G protein-coupled receptor (GPCR), able to modulate inflammatory process; however, the role of FFA1 in keratinocytes and wound healing remains poorly understood. In this study, we investigated the role of FFA1 signaling in migration, matrix metalloproteinase-9 (MMP-9) activity, and IL-8 expression induced by LA in keratinocytes. We confirmed that HaCaT cells, a human keratinocyte cell line, expresses the FFA1 receptor and GW1100, a selective antagonist of FFA1, decreased LA-induced migration of HaCaT cells. Also, GW9508, a synthetic agonist of FFA1, increased migration of these cells. Furthermore, ERK1/2 and p38 MAPK inhibitors abolished the LA-induced increase in cell migration. Besides, HaCaT cells stimulated with LA or GW9508 increased the activity of MMP-9 and the expression of IL-8. GW1100 partially inhibited both responses. We further evaluated the effects of HaCaT cells conditioned media stimulated with LA or GW9508 on neutrophil chemotaxis. Conditioned media induced neutrophil chemotaxis. Furthermore, IL-8 secreted by HaCaT cells stimulated with LA or GW9508, contributed to neutrophil chemotaxis. In conclusion, LA increased migration, MMP-9 activity, and expression of IL-8 from HaCaT cells via FFA1. Hence, these results showed that the effects induced by LA in keratinocytes can be mediated through FFA1, thus explaining a possible mechanism by which this fatty acid could accelerate wound healing."
+    ],
+    "affiliation": [
+      "Faculty of Science, Institute of Pharmacy, Universidad Austral de Chile, Valdivia, Chile."
+    ],
+    "publicationStatus": [
+      "epublish"
+    ],
+    "language": [
+      "eng"
+    ],
+    "pubModel": [
+      "Electronic-eCollection"
+    ],
+    "pubTypeList": [
+      {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      }
+    ],
+    "keywordList": [
+      {
+        "keyword": [
+          "Neutrophils",
+          "Migration",
+          "Linoleic acid",
+          "Interleukin-8",
+          "Matrix Metalloproteinase-9",
+          "Free Fatty Acids Receptor 1",
+          "Keratinocytes (Hacat)"
+        ]
+      }
+    ],
+    "fullTextUrlList": [
+      {
+        "fullTextUrl": [
+          {
+            "availability": [
+              "Subscription required"
+            ],
+            "availabilityCode": [
+              "S"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3389/fphar.2020.00595"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "html"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7216565"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "pdf"
+            ],
+            "site": [
+              "Europe_PMC"
+            ],
+            "url": [
+              "https://europepmc.org/articles/PMC7216565?pdf=render"
+            ]
+          },
+          {
+            "availability": [
+              "Open access"
+            ],
+            "availabilityCode": [
+              "OA"
+            ],
+            "documentStyle": [
+              "doi"
+            ],
+            "site": [
+              "DOI"
+            ],
+            "url": [
+              "https://doi.org/10.3389/fphar.2020.00595"
+            ]
+          }
+        ]
+      }
+    ],
+    "isOpenAccess": [
+      "Y"
+    ],
+    "inEPMC": [
+      "Y"
+    ],
+    "inPMC": [
+      "N"
+    ],
+    "hasPDF": [
+      "Y"
+    ],
+    "hasBook": [
+      "N"
+    ],
+    "hasSuppl": [
+      "Y"
+    ],
+    "citedByCount": [
+      "0"
+    ],
+    "hasData": [
+      "Y"
+    ],
+    "hasReferences": [
+      "N"
+    ],
+    "hasTextMinedTerms": [
+      "Y"
+    ],
+    "hasDbCrossReferences": [
+      "N"
+    ],
+    "hasLabsLinks": [
+      "Y"
+    ],
+    "license": [
+      "cc by"
+    ],
+    "authMan": [
+      "N"
+    ],
+    "epmcAuthMan": [
+      "N"
+    ],
+    "nihAuthMan": [
+      "N"
+    ],
+    "hasTMAccessionNumbers": [
+      "N"
+    ],
+    "dateOfCreation": [
+      "2020-05-21"
+    ],
+    "firstIndexDate": [
+      "2020-05-22"
+    ],
+    "fullTextReceivedDate": [
+      "2020-05-21"
+    ],
+    "dateOfRevision": [
+      "2020-05-23"
+    ],
+    "electronicPublicationDate": [
+      "2020-05-05"
+    ],
+    "firstPublicationDate": [
+      "2020-05-05"
+    ]
+  }
+]

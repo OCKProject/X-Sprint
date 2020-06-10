@@ -1,0 +1,431 @@
+{
+  "id": [
+    "32426214"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32426214"
+  ],
+  "pmcid": [
+    "PMC7226879"
+  ],
+  "doi": [
+    "10.1016/j.pmedr.2020.101106"
+  ],
+  "title": [
+    "Low attendance by non-native women to human papillomavirus vaccination and cervical cancer screening - A Danish nationwide register-based cohort study."
+  ],
+  "authorString": [
+    "Badre-Esfahani S, Larsen MB, Seibæk L, Petersen LK, Blaakær J, Andersen B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Badre-Esfahani S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Badre-Esfahani"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark.",
+                "Department of Gynaecology and Obstetrics, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, DK-8200 Aarhus N, Denmark.",
+                "Department of Clinical Medicine, Aarhus University, Aarhus, Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Larsen MB"
+          ],
+          "firstName": [
+            "M B"
+          ],
+          "lastName": [
+            "Larsen"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Seibæk L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Seibæk"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2396-8669",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gynaecology and Obstetrics, Aarhus University Hospital, Palle Juul-Jensens Boulevard 99, DK-8200 Aarhus N, Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Petersen LK"
+          ],
+          "firstName": [
+            "L K"
+          ],
+          "lastName": [
+            "Petersen"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gynaecology and Obstetrics, Odense University Hospital, J. B. Winsløws Vej 2, DK-5000 Odense C, Denmark.",
+                "OPEN Open Patient Data Explorative Network, University of Southern Denmark, Odense, Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blaakær J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Blaakær"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Gynaecology and Obstetrics, Odense University Hospital, J. B. Winsløws Vej 2, DK-5000 Odense C, Denmark.",
+                "Department of Clinical Research, University of Southern Denmark, Odense, Denmark."
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Andersen B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Andersen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4074-6504",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationsList": [
+            {
+              "authorAffiliation": [
+                "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2396-8669",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4074-6504",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2956357"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Preventive medicine reports"
+          ],
+          "ISOAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "medlineAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "NLMid": [
+            "101643766"
+          ],
+          "ISSN": [
+            "2211-3355"
+          ],
+          "ESSN": [
+            "2211-3355"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "101106"
+  ],
+  "abstractText": [
+    "Background:Cervical cancer is preventable through human papillomavirus vaccination and cervical cancer screening. However, possibly due to systemic, individual (e.g. low socio-economic staus) and socio-cultural barriers, it is likely that non-natives, especially non-westerns, are more prone to attend neither vaccination nor screening (combined non-attendance). This is disturbing as the non-native population in Denmark is predicted to rise to 21% by 2060. We aimed to investigate differences in combined non-attendance by nativity and region of origin, and to analyse the association between country of origin and combined non-attendance adjusted for socio-economic status. Setting:1.6.2007-31.12.2016 Denmark. Methods:Logistic regression was performed to estimate crude and adjusted odds ratios with 95% confidence intervals for combined non-attendance. Results:170,158 women were included. Overall combined non-attendance was 11.8% [11.7-12.0]; 10.0% [9.8-10.1] for native women and 27.1% [26.4-27.7] for non-native women, with highest degrees among Middle-Eastern and North-Africans (30.1% [29.2-30.9]). Even when adjusted for socio-economics, women from Middle-East and North-Africa had substantially higher odds of combined non-attendance than natives (adj. OR = 7.5 [6.3-8.9] for Somali women). Conclusion:Denmark has a relatively low degree of combined non-attendance. However, cervical cancer preventive programmes seem to be better tailored to the needs of native women and do not appear to cater sufficiently to the needs of the fast-growing non-native populations, particularly not to the needs of Middle-Eastern and North African women. In order to secure more just cervical cancer prevention, future studies are recommended to develop tailored intervention sensitive to the need of non-native women."
+  ],
+  "affiliation": [
+    "Department of Public Health Programmes, Randers Regional Hospital, Skovlyvej 15, DK-8930 Randers, NO, Denmark."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nationality",
+        "Screening",
+        "Vaccination",
+        "Human papilloma virus",
+        "Denmark",
+        "Non-participation",
+        "Socio-economic Status",
+        "Non-attendance"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.pmedr.2020.101106"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7226879"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7226879?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.pmedr.2020.101106"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-20"
+  ],
+  "firstIndexDate": [
+    "2020-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-04-28"
+  ],
+  "firstPublicationDate": [
+    "2020-04-28"
+  ]
+}
